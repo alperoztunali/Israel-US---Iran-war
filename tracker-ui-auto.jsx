@@ -2,7 +2,7 @@ import { useState, useEffect } from “react”;
 
 // ─── CONFIG: SET YOUR GITHUB REPO HERE ───────────────────────────────────────
 // Replace with your own: “https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/entries.json”
-const ENTRIES_URL = “https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/entries.json”;
+const ENTRIES_URL = const ENTRIES_URL = "https://raw.githubusercontent.com/alperoztunali/Israel-US---Iran-war/main/entries.json";
 // ─────────────────────────────────────────────────────────────────────────────
 
 const CATEGORIES = [“Airstrike”, “Statement”, “Casualties”, “Movement”, “Missile/Drone”, “Naval”, “Diplomatic”, “Other”];
