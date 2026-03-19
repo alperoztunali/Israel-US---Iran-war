@@ -5,6 +5,7 @@ import time
 from datetime import datetime, timezone
 import feedparser
 import urllib.request
+import urllib.error
 
 SOURCES = [
     {"name": "CENTCOM", "url": "https://www.centcom.mil/RSS/"},
@@ -22,14 +23,14 @@ KEYWORDS = [
     "iran", "irgc", "israel", "houthi", "gaza", "centcom", "airstrike",
     "missile", "drone", "strike", "military", "attack", "casualties",
     "sanction", "nuclear", "strait of hormuz", "red sea", "lebanon",
-    "hezbollah", "syria", "iraq", "yemen", "regional", "tensions",
-    "persian gulf", "idf", "revolution guard",
+    "hezbollah", "syria", "iraq", "yemen", "tensions", "persian gulf",
+    "idf", "revolution guard",
 ]
 
 ENTRIES_FILE = "entries.json"
 SEEN_FILE = "seen_ids.json"
 
-SYSTEM_PROMPT = """You are a strict military intelligence data extractor.
+PROMPT_TEMPLATE = """You are a strict military intelligence data extractor.
 Extract ONLY factual data. No analysis, no opinion, no commentary.
 Rules:
 - Use EXACT wording from source for the excerpt field.
@@ -43,6 +44,9 @@ Rules:
 
 Return ONLY a JSON array, no markdown, no explanation:
 [{"source":"...","date":"...","category":"...","location":"...","excerpt":"...","headline":"...","relevance":true}]
+
+Here are the items to extract:
+
 """
 
 def load_json(path, default):
@@ -94,14 +98,14 @@ def extract_with_gemini(items, api_key):
         batch_text += f"HEADLINE: {item['title']}\n"
         batch_text += f"BODY: {item['summary']}\n"
 
-    prompt = SYSTEM_PROMPT + "\n\nHere are the items to extract:\n" + batch_text
+    full_prompt = PROMPT_TEMPLATE + batch_text
 
     payload = json.dumps({
-        "contents": [{"parts": [{"text": prompt}]}],
+        "contents": [{"parts": [{"text": full_prompt}]}],
         "generationConfig": {"temperature": 0}
     }).encode("utf-8")
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini2.0-flash:generateContent?key={api_key}"
+    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-001:generateContent?key=" + api_key
 
     try:
         req = urllib.request.Request(
@@ -110,13 +114,16 @@ def extract_with_gemini(items, api_key):
             headers={"Content-Type": "application/json"},
             method="POST"
         )
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:
             result = json.loads(resp.read().decode("utf-8"))
-
         raw = result["candidates"][0]["content"]["parts"][0]["text"].strip()
         raw = raw.replace("```json", "").replace("```", "").strip()
         parsed = json.loads(raw)
         return [e for e in parsed if e.get("relevance", True)]
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8")
+        print(f"Gemini HTTP error {e.code}: {body[:300]}")
+        return []
     except Exception as e:
         print(f"Gemini extraction error: {e}")
         return []
