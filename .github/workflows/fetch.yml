@@ -27,9 +27,7 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser anthropic
 
-      - name: Run fetcher
-        env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      - name: Run fetcher      
         run: python fetch_updates.py
 
       - name: Commit updated data
