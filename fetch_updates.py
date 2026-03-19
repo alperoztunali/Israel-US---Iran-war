@@ -115,7 +115,10 @@ def run():
         raise ValueError("ANTHROPIC_API_KEY not set")
     client = anthropic.Anthropic(api_key=api_key)
     entries = load_json(ENTRIES_FILE, [])
-    seen_ids = set(load_json(SEEN_FILE, []))
+
+    # RESET: ignore seen_ids so all articles are reprocessed fresh
+    seen_ids = set()
+
     new_items_total = []
     for source in SOURCES:
         print(f"Fetching {source['name']}...")
@@ -126,24 +129,30 @@ def run():
         for i in new_items:
             seen_ids.add(entry_id(i["link"], i["title"]))
         time.sleep(1)
+
     if not new_items_total:
-        print("No new relevant items this run.")
+        print("No new relevant items found.")
         save_json(SEEN_FILE, list(seen_ids))
         return
+
     print(f"Sending {len(new_items_total)} items to Claude...")
     extracted = []
     for i in range(0, len(new_items_total), 10):
         batch = new_items_total[i:i+10]
         result = extract_with_claude(batch, client)
         extracted.extend(result)
+        print(f"  Batch {i//10 + 1}: {len(result)} entries extracted")
         time.sleep(2)
+
     timestamped = []
     for idx, e in enumerate(extracted):
         e["id"] = hashlib.md5(f"{e.get('date','')}{e.get('headline','')}{idx}".encode()).hexdigest()[:12]
         e["addedAt"] = datetime.now(timezone.utc).isoformat()
         timestamped.append(e)
+
     all_entries = timestamped + entries
     all_entries = all_entries[:500]
+
     save_json(ENTRIES_FILE, all_entries)
     save_json(SEEN_FILE, list(seen_ids))
     print(f"Done. {len(timestamped)} new entries added. Total: {len(all_entries)}")
