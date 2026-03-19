@@ -1,11 +1,8 @@
-import os
 import json
 import hashlib
 import time
 from datetime import datetime, timezone
 import feedparser
-import urllib.request
-import urllib.error
 
 SOURCES = [
     {"name": "CENTCOM", "url": "https://www.centcom.mil/RSS/"},
@@ -21,29 +18,31 @@ SOURCES = [
 
 KEYWORDS = [
     "iran", "irgc", "israel", "houthi", "gaza", "centcom", "airstrike",
-    "missile", "drone", "strike", "military", "attack", "casualties",
+    "missile", "drone", "dron", "rocket", "ballistic", "intercept",
+    "strike", "military", "attack", "casualties", "killed", "wounded",
     "sanction", "nuclear", "strait of hormuz", "red sea", "lebanon",
     "hezbollah", "syria", "iraq", "yemen", "tensions", "persian gulf",
-    "idf", "revolution guard",
+    "idf", "revolution guard", "uae", "united arab emirates", "dubai",
+    "abu dhabi", "ksa", "saudi arabia", "riyadh", "oman", "muscat",
+    "kuwait", "bahrain", "manama", "qatar", "doha", "jerusalem",
+    "tel aviv", "haifa", "baghdad", "damascus", "beirut", "sanaa",
+    "tehran", "natanz", "isfahan", "hypersonic", "cruise missile",
+    "air defense", "iron dome", "patriot", "warplane", "fighter jet",
 ]
+
+CATEGORY_KEYWORDS = {
+    "Airstrike": ["airstrike", "air strike", "bombing", "bomb", "warplane", "jet", "f-35", "f35", "fighter"],
+    "Missile/Drone": ["missile", "drone", "dron", "rocket", "ballistic", "cruise", "uav", "projectile", "hypersonic", "intercept"],
+    "Casualties": ["killed", "dead", "wounded", "casualties", "deaths", "injured", "fatalities", "martyred"],
+    "Naval": ["naval", "warship", "destroyer", "carrier", "fleet", "vessel", "ship", "tanker", "frigate"],
+    "Movement": ["deployed", "troops", "forces", "convoy", "mobilized", "advancing", "withdrawal", "reinforcement"],
+    "Diplomatic": ["ceasefire", "talks", "negotiate", "sanctions", "diplomat", "agreement", "deal", "summit", "envoy"],
+    "Statement": ["statement", "announced", "declared", "warned", "said", "called", "urged", "confirmed"],
+}
 
 ENTRIES_FILE = "entries.json"
 SEEN_FILE = "seen_ids.json"
 
-SYSTEM_PROMPT = """You are a strict military intelligence data extractor.
-Extract ONLY factual data. No analysis, no opinion, no commentary.
-Rules:
-- Use EXACT wording from source for the excerpt field.
-- If multiple distinct events exist, return multiple objects.
-- source: use the provided source name exactly
-- category: ONE of: Airstrike, Statement, Casualties, Movement, Missile/Drone, Naval, Diplomatic, Other
-- date: ISO 8601 format YYYY-MM-DDTHH:MM
-- location: city/region/country or Unknown
-- headline: max 12 words, factual only
-- relevance: true if related to Iran/regional tensions/Middle East military activity
-
-Return ONLY a JSON array, no markdown, no explanation:
-[{"source":"...","date":"...","category":"...","location":"...","excerpt":"...","headline":"...","relevance":true}]"""
 
 def load_json(path, default):
     try:
@@ -52,16 +51,52 @@ def load_json(path, default):
     except Exception:
         return default
 
+
 def save_json(path, data):
     with open(path, "w") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
+
 def entry_id(url, title):
     return hashlib.md5(f"{url}{title}".encode()).hexdigest()
+
 
 def is_relevant(title, summary):
     text = (title + " " + summary).lower()
     return any(k in text for k in KEYWORDS)
+
+
+def guess_category(title, summary):
+    text = (title + " " + summary).lower()
+    for category, keys in CATEGORY_KEYWORDS.items():
+        if any(k in text for k in keys):
+            return category
+    return "Other"
+
+
+def guess_location(title, summary):
+    text = (title + " " + summary).lower()
+    locations = [
+        "tehran", "iran", "israel", "gaza", "lebanon", "syria", "iraq",
+        "yemen", "saudi arabia", "jordan", "egypt", "qatar", "doha",
+        "dubai", "abu dhabi", "uae", "united arab emirates",
+        "strait of hormuz", "red sea", "persian gulf", "beirut",
+        "damascus", "baghdad", "sanaa", "riyadh", "jerusalem",
+        "tel aviv", "haifa", "natanz", "isfahan", "oman", "muscat",
+        "bahrain", "manama", "kuwait", "kuwait city",
+    ]
+    for loc in locations:
+        if loc in text:
+            return loc.title()
+    return "Unknown"
+
+
+def clean_summary(summary):
+    import re
+    clean = re.sub(r"<[^>]+>", "", summary)
+    clean = clean.strip()
+    return clean[:300]
+
 
 def fetch_feed(source):
     try:
@@ -76,7 +111,7 @@ def fetch_feed(source):
                 items.append({
                     "source": source["name"],
                     "title": title,
-                    "summary": summary[:800],
+                    "summary": clean_summary(summary),
                     "link": link,
                     "published": pub,
                 })
@@ -85,97 +120,61 @@ def fetch_feed(source):
         print(f"Failed to fetch {source['name']}: {e}")
         return []
 
-def extract_with_groq(items, api_key):
-    if not items:
-        return []
 
-    batch_text = ""
-    for i, item in enumerate(items):
-        batch_text += f"\n--- ITEM {i+1} | SOURCE: {item['source']} | DATE: {item['published']} ---\n"
-        batch_text += f"HEADLINE: {item['title']}\n"
-        batch_text += f"BODY: {item['summary']}\n"
-
-    payload = json.dumps({
-        "model": "llama3-8b-8192",
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": batch_text}
-        ],
-        "temperature": 0
-    }).encode("utf-8")
-
+def parse_date(pub_string):
     try:
-        req = urllib.request.Request(
-            "https://api.groq.com/openai/v1/chat/completions",
-            data=payload,
-            headers={
-                "Content-Type": "application/json",
-                "Authorization": f"Bearer {api_key}"
-            },
-            method="POST"
-        )
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            result = json.loads(resp.read().decode("utf-8"))
+        from email.utils import parsedate_to_datetime
+        dt = parsedate_to_datetime(pub_string)
+        return dt.strftime("%Y-%m-%dT%H:%M")
+    except Exception:
+        return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M")
 
-        raw = result["choices"][0]["message"]["content"].strip()
-        raw = raw.replace("```json", "").replace("```", "").strip()
-        parsed = json.loads(raw)
-        return [e for e in parsed if e.get("relevance", True)]
-
-    except urllib.error.HTTPError as e:
-        body = e.read().decode("utf-8")
-        print(f"Groq HTTP error {e.code}: {body[:300]}")
-        return []
-    except Exception as e:
-        print(f"Groq extraction error: {e}")
-        return []
 
 def run():
     print(f"IRAN TRACKER - RUN AT {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
-    api_key = os.environ.get("GROQ_API_KEY")
-    if not api_key:
-        raise ValueError("GROQ_API_KEY not set")
 
     entries = load_json(ENTRIES_FILE, [])
-    seen_ids = set()
+    seen_ids = set(load_json(SEEN_FILE, []))
 
-    new_items_total = []
+    new_entries = []
+
     for source in SOURCES:
         print(f"Fetching {source['name']}...")
         items = fetch_feed(source)
-        new_items = [i for i in items if entry_id(i["link"], i["title"]) not in seen_ids]
-        print(f"  {len(new_items)} new items")
-        new_items_total.extend(new_items)
-        for i in new_items:
-            seen_ids.add(entry_id(i["link"], i["title"]))
+        count = 0
+        for item in items:
+            eid = entry_id(item["link"], item["title"])
+            if eid in seen_ids:
+                continue
+            seen_ids.add(eid)
+            entry = {
+                "id": eid[:12],
+                "source": item["source"],
+                "date": parse_date(item["published"]),
+                "headline": item["title"][:100],
+                "excerpt": item["summary"],
+                "category": guess_category(item["title"], item["summary"]),
+                "location": guess_location(item["title"], item["summary"]),
+                "addedAt": datetime.now(timezone.utc).isoformat(),
+                "link": item["link"],
+            }
+            new_entries.append(entry)
+            count += 1
+        print(f"  {count} new entries")
         time.sleep(1)
 
-    if not new_items_total:
-        print("No new relevant items found.")
+    if not new_entries:
+        print("No new items this run.")
         save_json(SEEN_FILE, list(seen_ids))
         return
 
-    print(f"Sending {len(new_items_total)} items to Groq...")
-    extracted = []
-    for i in range(0, len(new_items_total), 5):
-        batch = new_items_total[i:i+5]
-        result = extract_with_groq(batch, api_key)
-        extracted.extend(result)
-        print(f"  Batch {i//5 + 1}: {len(result)} entries extracted")
-        time.sleep(3)
-
-    timestamped = []
-    for idx, e in enumerate(extracted):
-        e["id"] = hashlib.md5(f"{e.get('date','')}{e.get('headline','')}{idx}".encode()).hexdigest()[:12]
-        e["addedAt"] = datetime.now(timezone.utc).isoformat()
-        timestamped.append(e)
-
-    all_entries = timestamped + entries
+    all_entries = new_entries + entries
     all_entries = all_entries[:500]
 
     save_json(ENTRIES_FILE, all_entries)
     save_json(SEEN_FILE, list(seen_ids))
-    print(f"Done. {len(timestamped)} new entries added. Total: {len(all_entries)}")
+    print(f"Done. {len(new_entries)} new entries added. Total: {len(all_entries)}")
+
 
 if __name__ == "__main__":
     run()
