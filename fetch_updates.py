@@ -4,7 +4,7 @@ import hashlib
 import time
 from datetime import datetime, timezone
 import feedparser
-import anthropic
+import urllib.request
 
 SOURCES = [
     {"name": "CENTCOM", "url": "https://www.centcom.mil/RSS/"},
@@ -85,7 +85,7 @@ def fetch_feed(source):
         print(f"Failed to fetch {source['name']}: {e}")
         return []
 
-def extract_with_claude(items, client):
+def extract_with_gemini(items, api_key):
     if not items:
         return []
     batch_text = ""
@@ -93,30 +93,41 @@ def extract_with_claude(items, client):
         batch_text += f"\n--- ITEM {i+1} | SOURCE: {item['source']} | DATE: {item['published']} ---\n"
         batch_text += f"HEADLINE: {item['title']}\n"
         batch_text += f"BODY: {item['summary']}\n"
+
+    prompt = SYSTEM_PROMPT + "\n\nHere are the items to extract:\n" + batch_text
+
+    payload = json.dumps({
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0}
+    }).encode("utf-8")
+
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+
     try:
-        response = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=4096,
-            system=SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": batch_text}],
+        req = urllib.request.Request(
+            url,
+            data=payload,
+            headers={"Content-Type": "application/json"},
+            method="POST"
         )
-        raw = response.content[0].text.strip()
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            result = json.loads(resp.read().decode("utf-8"))
+
+        raw = result["candidates"][0]["content"]["parts"][0]["text"].strip()
         raw = raw.replace("```json", "").replace("```", "").strip()
         parsed = json.loads(raw)
         return [e for e in parsed if e.get("relevance", True)]
     except Exception as e:
-        print(f"Claude extraction error: {e}")
+        print(f"Gemini extraction error: {e}")
         return []
 
 def run():
     print(f"IRAN TRACKER - RUN AT {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        raise ValueError("ANTHROPIC_API_KEY not set")
-    client = anthropic.Anthropic(api_key=api_key)
-    entries = load_json(ENTRIES_FILE, [])
+        raise ValueError("GEMINI_API_KEY not set")
 
-    # RESET: ignore seen_ids so all articles are reprocessed fresh
+    entries = load_json(ENTRIES_FILE, [])
     seen_ids = set()
 
     new_items_total = []
@@ -135,11 +146,11 @@ def run():
         save_json(SEEN_FILE, list(seen_ids))
         return
 
-    print(f"Sending {len(new_items_total)} items to Claude...")
+    print(f"Sending {len(new_items_total)} items to Gemini...")
     extracted = []
     for i in range(0, len(new_items_total), 10):
         batch = new_items_total[i:i+10]
-        result = extract_with_claude(batch, client)
+        result = extract_with_gemini(batch, api_key)
         extracted.extend(result)
         print(f"  Batch {i//10 + 1}: {len(result)} entries extracted")
         time.sleep(2)
