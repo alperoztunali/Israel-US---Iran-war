@@ -30,7 +30,7 @@ KEYWORDS = [
 ENTRIES_FILE = "entries.json"
 SEEN_FILE = "seen_ids.json"
 
-PROMPT_TEMPLATE = """You are a strict military intelligence data extractor.
+SYSTEM_PROMPT = """You are a strict military intelligence data extractor.
 Extract ONLY factual data. No analysis, no opinion, no commentary.
 Rules:
 - Use EXACT wording from source for the excerpt field.
@@ -43,11 +43,7 @@ Rules:
 - relevance: true if related to Iran/regional tensions/Middle East military activity
 
 Return ONLY a JSON array, no markdown, no explanation:
-[{"source":"...","date":"...","category":"...","location":"...","excerpt":"...","headline":"...","relevance":true}]
-
-Here are the items to extract:
-
-"""
+[{"source":"...","date":"...","category":"...","location":"...","excerpt":"...","headline":"...","relevance":true}]"""
 
 def load_json(path, default):
     try:
@@ -89,50 +85,56 @@ def fetch_feed(source):
         print(f"Failed to fetch {source['name']}: {e}")
         return []
 
-def extract_with_gemini(items, api_key):
+def extract_with_groq(items, api_key):
     if not items:
         return []
+
     batch_text = ""
     for i, item in enumerate(items):
         batch_text += f"\n--- ITEM {i+1} | SOURCE: {item['source']} | DATE: {item['published']} ---\n"
         batch_text += f"HEADLINE: {item['title']}\n"
         batch_text += f"BODY: {item['summary']}\n"
 
-    full_prompt = PROMPT_TEMPLATE + batch_text
-
     payload = json.dumps({
-        "contents": [{"parts": [{"text": full_prompt}]}],
-        "generationConfig": {"temperature": 0}
+        "model": "llama3-8b-8192",
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": batch_text}
+        ],
+        "temperature": 0
     }).encode("utf-8")
-
-    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-001:generateContent?key=" + api_key
 
     try:
         req = urllib.request.Request(
-            url,
+            "https://api.groq.com/openai/v1/chat/completions",
             data=payload,
-            headers={"Content-Type": "application/json"},
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {api_key}"
+            },
             method="POST"
         )
         with urllib.request.urlopen(req, timeout=60) as resp:
             result = json.loads(resp.read().decode("utf-8"))
-        raw = result["candidates"][0]["content"]["parts"][0]["text"].strip()
+
+        raw = result["choices"][0]["message"]["content"].strip()
         raw = raw.replace("```json", "").replace("```", "").strip()
         parsed = json.loads(raw)
         return [e for e in parsed if e.get("relevance", True)]
+
     except urllib.error.HTTPError as e:
         body = e.read().decode("utf-8")
-        print(f"Gemini HTTP error {e.code}: {body[:300]}")
+        print(f"Groq HTTP error {e.code}: {body[:300]}")
         return []
     except Exception as e:
-        print(f"Gemini extraction error: {e}")
+        print(f"Groq extraction error: {e}")
         return []
 
 def run():
     print(f"IRAN TRACKER - RUN AT {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
-    api_key = os.environ.get("GEMINI_API_KEY")
+    api_key = os.environ.get("GROQ_API_KEY")
     if not api_key:
-        raise ValueError("GEMINI_API_KEY not set")
+        raise ValueError("GROQ_API_KEY not set")
 
     entries = load_json(ENTRIES_FILE, [])
     seen_ids = set()
@@ -153,14 +155,14 @@ def run():
         save_json(SEEN_FILE, list(seen_ids))
         return
 
-    print(f"Sending {len(new_items_total)} items to Gemini...")
+    print(f"Sending {len(new_items_total)} items to Groq...")
     extracted = []
     for i in range(0, len(new_items_total), 5):
         batch = new_items_total[i:i+5]
-        result = extract_with_gemini(batch, api_key)
+        result = extract_with_groq(batch, api_key)
         extracted.extend(result)
         print(f"  Batch {i//5 + 1}: {len(result)} entries extracted")
-        time.sleep(10)
+        time.sleep(3)
 
     timestamped = []
     for idx, e in enumerate(extracted):
