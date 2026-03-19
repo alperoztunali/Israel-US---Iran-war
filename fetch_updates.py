@@ -155,12 +155,12 @@ def run():
 
     print(f"Sending {len(new_items_total)} items to Gemini...")
     extracted = []
-    for i in range(0, len(new_items_total), 10):
-        batch = new_items_total[i:i+10]
+    for i in range(0, len(new_items_total), 5):
+        batch = new_items_total[i:i+5]
         result = extract_with_gemini(batch, api_key)
         extracted.extend(result)
-        print(f"  Batch {i//10 + 1}: {len(result)} entries extracted")
-        time.sleep(2)
+        print(f"  Batch {i//5 + 1}: {len(result)} entries extracted")
+        time.sleep(10)
 
     timestamped = []
     for idx, e in enumerate(extracted):
