@@ -101,7 +101,7 @@ def extract_with_gemini(items, api_key):
         "generationConfig": {"temperature": 0}
     }).encode("utf-8")
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini2.0-flash:generateContent?key={api_key}"
 
     try:
         req = urllib.request.Request(
