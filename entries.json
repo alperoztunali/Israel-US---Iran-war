@@ -1,5 +1,60 @@
 [
   {
+    "id": "eb8e290b9c68",
+    "source": "Al Jazeera",
+    "date": "2026-03-21T16:20",
+    "headline": "Tehran holds Eid prayers as funeral held for IRGC spokesman",
+    "excerpt": "Eid al-Fitr prayers were held in Tehran after overnight air strikes on the capital.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-03-21T16:59:34.375318+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/tehran-holds-eid-prayers-as-funeral-held-for-irgc-spokesman?traffic_source=rss"
+  },
+  {
+    "id": "8b9438cc30d6",
+    "source": "Al Jazeera",
+    "date": "2026-03-21T16:02",
+    "headline": "Bahrain says Patriot system intercepted drone over homes",
+    "excerpt": "Bahrain&#039;s account differs from how the US military described the March 9 incident, which led to civilian injuries.",
+    "category": "Missile/Drone",
+    "location": "Bahrain",
+    "addedAt": "2026-03-21T16:59:34.375364+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/21/bahrain-says-patriot-system-intercepted-drone-over-homes?traffic_source=rss"
+  },
+  {
+    "id": "aa0cc3548f2c",
+    "source": "Al Jazeera",
+    "date": "2026-03-21T16:01",
+    "headline": "Arab states should beware of Israel’s hegemonic energy expansion",
+    "excerpt": "The Iran war revealed how dependent Israel’s Arab neighbours are on its gas exports.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-21T16:59:34.375416+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/3/21/arab-states-should-beware-of-israels-hegemonic-energy-expansion?traffic_source=rss"
+  },
+  {
+    "id": "020767601350",
+    "source": "Al Jazeera",
+    "date": "2026-03-21T15:59",
+    "headline": "UK says Iran missile attack on Diego Garcia failed",
+    "excerpt": "The UK says Iran launched ballistic missiles at the joint US-UK Diego Garcia base in the Indian Ocean.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-21T16:59:34.375441+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed?traffic_source=rss"
+  },
+  {
+    "id": "cfefe52effab",
+    "source": "PressTV",
+    "date": "2026-03-21T16:59",
+    "headline": "IRGC hits another Israeli F-16 fighter jet with interceptor missile",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC) says it has successfully intercepted a third Israeli fighter jet, an F-16, in the skies over central Iran.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-03-21T16:59:35.972836+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/21/765651/IRGC-targets-3rd-Israeli-fighter-jet-over-central-Iran"
+  },
+  {
     "id": "6ed52598a4d1",
     "source": "Al Jazeera",
     "date": "2026-03-21T14:40",
