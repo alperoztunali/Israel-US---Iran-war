@@ -1,5 +1,93 @@
 [
   {
+    "id": "3a3a331041c5",
+    "source": "Al Jazeera",
+    "date": "2026-03-22T09:09",
+    "headline": "Woman confronts Ben-Gvir at site of Iranian missile strike",
+    "excerpt": "Israeli woman confronts National Security Minister Itamar Ben-Gvir at the site of an Iranian missile strike in Arad.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-22T10:00:01.510295+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/woman-confronts-ben-gvir-at-site-of-iranian-missile-strike?traffic_source=rss"
+  },
+  {
+    "id": "7ca460993c5b",
+    "source": "Al Jazeera",
+    "date": "2026-03-22T09:01",
+    "headline": "Why the world should worry about Israel’s nuclear doctrine",
+    "excerpt": "The threshold the Israeli authorities have set for the use of a nuclear weapon is dangerously low.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-22T10:00:01.510346+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/3/22/why-the-world-should-worry-about-israels-nuclear-doctrine?traffic_source=rss"
+  },
+  {
+    "id": "78dbb57c1b30",
+    "source": "Al Jazeera",
+    "date": "2026-03-22T08:33",
+    "headline": "Iran war: What’s happening on day 23 of US-Israel attacks?",
+    "excerpt": "Trump threatens to hit Iranian energy sites if the Strait of Hormuz is not reopened; Tehran vows to retaliate.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-03-22T10:00:01.510383+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/22/iran-war-whats-happening-on-day-23-of-us-israel-attacks?traffic_source=rss"
+  },
+  {
+    "id": "92360445c11a",
+    "source": "Al Jazeera",
+    "date": "2026-03-22T08:27",
+    "headline": "Six dead as Qatar military helicopter crashes after ‘technical malfunction’",
+    "excerpt": "Seven people were on board, with interior ministry saying operations continue ‌to find the ​last missing person.",
+    "category": "Casualties",
+    "location": "Qatar",
+    "addedAt": "2026-03-22T10:00:01.510413+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/22/six-killed-as-qatar-army-helicopter-crashes-due-to-technical-malfunction-2?traffic_source=rss"
+  },
+  {
+    "id": "f731fd0acb96",
+    "source": "Al Jazeera",
+    "date": "2026-03-21T22:57",
+    "headline": "Iran strikes towns near Israel’s key nuclear site, at least 180 wounded",
+    "excerpt": "Iran targets Dimona and Arad, injuring at least 180, in apparent retaliation for an attack on its Natanz nuclear site.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-03-22T10:00:01.510458+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss"
+  },
+  {
+    "id": "6d655fc09a80",
+    "source": "PressTV",
+    "date": "2026-03-22T10:00",
+    "headline": "Six killed as Qatari army copter crashes due to technical malfunction",
+    "excerpt": "A Qatari military helicopter crashes in the Persian Gulf country’s waters, killing at least six people on board.",
+    "category": "Casualties",
+    "location": "Qatar",
+    "addedAt": "2026-03-22T10:00:03.162224+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/22/765691/Six-killed-as-Qatari-army-copter-crashes-due-to-technical-malfunction"
+  },
+  {
+    "id": "8f0877eb5b2b",
+    "source": "PressTV",
+    "date": "2026-03-22T10:00",
+    "headline": "Hamas: Iran represents ‘advanced line of defense for entire Islamic nation’",
+    "excerpt": "Al-Qassam Brigades spokesperson has said Iran “represents an advanced line of defense for the entire Islamic nation.”",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-03-22T10:00:03.162275+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/22/765688/Hamas-Iran-represents-advanced-line-of-defense-for-entire-Islamic-nation"
+  },
+  {
+    "id": "be206ea45211",
+    "source": "PressTV",
+    "date": "2026-03-22T10:00",
+    "headline": "‘Maniacal tyrant’: Trump’s threat to attack Iran’s power plants sparks fierce backlash",
+    "excerpt": "Trump’s new threat to target Iranian power plants has drawn fierce condemnation from lawmakers, legal experts, and military analysts, describing it as an illegal and strategically incoherent move, indicative of a leader losing control of a war he started.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-22T10:00:03.162342+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/22/765686/maniacal-tyrant-trump-threat-attack-iran-power-plants-draws-strong-condemnation"
+  },
+  {
     "id": "fbe0de1c0317",
     "source": "Al Jazeera",
     "date": "2026-03-22T08:11",
