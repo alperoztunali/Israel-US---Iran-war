@@ -1,5 +1,82 @@
 [
   {
+    "id": "6827e56ebc41",
+    "source": "Al Jazeera",
+    "date": "2026-03-22T04:58",
+    "headline": "Casualties as Israeli settlers set fire to homes and cars in West Bank",
+    "excerpt": "Settlers set fire to homes and cars near Jenin amid reports of widespread violence across the occupied territory.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-03-22T05:13:44.993223+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/22/casualties-as-israeli-settlers-set-fire-to-homes-and-cars-in-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "51d40189cd24",
+    "source": "Al Jazeera",
+    "date": "2026-03-22T02:19",
+    "headline": "What we know about Iran’s latest attacks on Israel",
+    "excerpt": "Israel’s air defence system failed to stop at least two Iranian missile strikes on southern Israel.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-22T05:13:44.993261+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/what-we-know-about-irans-latest-attacks-on-israel?traffic_source=rss"
+  },
+  {
+    "id": "4dd4a479eaab",
+    "source": "Al Jazeera",
+    "date": "2026-03-22T01:22",
+    "headline": "Will the Houthis join Iran in war against Israel and the US?",
+    "excerpt": "The Yemeni armed group says all options are on the table.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-22T05:13:44.993296+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/will-the-houthis-join-iran-in-war-against-israel-and-the-us?traffic_source=rss"
+  },
+  {
+    "id": "7bf59b1f749d",
+    "source": "Al Jazeera",
+    "date": "2026-03-22T01:16",
+    "headline": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants",
+    "excerpt": "Iran responds to Trump&#039;s threat by saying all US energy infrastructure in the region will be targeted if it is attacked.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-22T05:13:44.993329+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants?traffic_source=rss"
+  },
+  {
+    "id": "fba5ee1c79dd",
+    "source": "Al Jazeera",
+    "date": "2026-03-22T00:00",
+    "headline": "Iran war live: Trump threatens to attack power plants over Strait of Hormuz",
+    "excerpt": "Donald Trump threatens to &#039;obliterate&#039; Iran&#039;s power plants if it fails to open the Strait of Hormuz within 48 hours.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-22T05:13:44.993360+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/3/22/iran-war-live-trump-threatens-attacks-on-power-plants-over-hormuz-strait?traffic_source=rss"
+  },
+  {
+    "id": "8b0b06ff533f",
+    "source": "Al Jazeera",
+    "date": "2026-03-21T22:57",
+    "headline": "Iran strikes towns near Israel’s nuclear site, wounds over 100",
+    "excerpt": "Iran targets Dimona and Arad, injuring more than 100 people, in retaliation for an attack on its Natanz nuclear site.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-22T05:13:44.993404+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss"
+  },
+  {
+    "id": "6f0f7a396cd2",
+    "source": "PressTV",
+    "date": "2026-03-22T05:13",
+    "headline": "'Equations of war changing': IRGC says hundreds killed, injured in latest wave of Op. True Promise 4",
+    "excerpt": "The IRGC says hundreds have been either killed or wounded during the latest phase of its ongoing retaliatory Operation True Promise 4.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-03-22T05:13:46.651894+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/22/765677/Iran-war-Israel-Dimona-United-States"
+  },
+  {
     "id": "9ff09ab39ba5",
     "source": "Al Jazeera",
     "date": "2026-03-21T23:00",
