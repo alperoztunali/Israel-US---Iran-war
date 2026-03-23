@@ -1,5 +1,71 @@
 [
   {
+    "id": "56481c8cf164",
+    "source": "Al Jazeera",
+    "date": "2026-03-23T19:11",
+    "headline": "At least one killed after Colombian military plane crashes on takeoff",
+    "excerpt": "Air Force says plane was carrying 114 passengers and 11 crew ⁠members, and authorities are investigating cause of crash.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-03-23T20:03:40.027186+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff?traffic_source=rss"
+  },
+  {
+    "id": "0cb0a3accc50",
+    "source": "Al Jazeera",
+    "date": "2026-03-23T18:21",
+    "headline": "Iran denies any talks with US after Trump claims ‘productive’ discussions",
+    "excerpt": "Iran parliament speaker says US president using idea of talks to &#039;escape quagmire in which US and Israel are trapped&#039;.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-03-23T20:03:40.027237+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/23/iran-denies-any-talks-with-us-after-trump-claims-productive-discussions?traffic_source=rss"
+  },
+  {
+    "id": "c0ff024164a3",
+    "source": "Al Jazeera",
+    "date": "2026-03-23T18:06",
+    "headline": "Why the oil and gas price shock from the Iran war won’t just fade away",
+    "excerpt": "Rerouting and diversification cannot help when a significant chunk of oil and gas have been taken off the market.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-23T20:03:40.027279+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/3/23/why-the-oil-and-gas-price-shock-from-the-iran-war-wont-just-fade-away?traffic_source=rss"
+  },
+  {
+    "id": "306bf7aa511e",
+    "source": "Al Jazeera",
+    "date": "2026-03-23T17:56",
+    "headline": "How the Iran war is about to hit your wallet",
+    "excerpt": "Strikes on gas sites in the Iran war are driving up energy costs, pushing up prices for power, food and more worldwide.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-23T20:03:40.027311+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/3/23/aje-onl-tt_irn_gasfields_av_v2-230326?traffic_source=rss"
+  },
+  {
+    "id": "e6ab03f1a26f",
+    "source": "PressTV",
+    "date": "2026-03-23T20:03",
+    "headline": "Public support for battlefield caused aggressors to step back: IRGC",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC)'s Aerospace Force says the Iranian nation’s support for fighters in the battlefield has caused the aggressors to retreat from their threats to attack the vital infrastructure of the country.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-03-23T20:03:41.654624+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/23/765758/Public-support-for-battlefield-caused-aggressors-to-step-back-IRGC"
+  },
+  {
+    "id": "e0c79c5cc94f",
+    "source": "PressTV",
+    "date": "2026-03-23T20:03",
+    "headline": "Pezeshkian urges friendly Muslim states to break silence on US-Israeli aggression on Iran",
+    "excerpt": "Pezeshkian emphasized that Muslim countries must not remain indifferent to the illegal and unjust aggression carried out by the United States and Israel against Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-23T20:03:41.654668+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/23/765759/Pezeshkian-urges-friendly-Muslim-states-to-break-silence-on-US-Israeli-aggression-on-Iran"
+  },
+  {
     "id": "a1e2b7b8253f",
     "source": "Al Jazeera",
     "date": "2026-03-23T17:42",
