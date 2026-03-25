@@ -1,5 +1,115 @@
 [
   {
+    "id": "e3a35d1279a0",
+    "source": "Al Jazeera",
+    "date": "2026-03-25T21:07",
+    "headline": "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid",
+    "excerpt": "Settler attacks, aid curbs and land seizures mar a week that was meant to be one of celebration for Palestinians.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-25T22:04:06.226948+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestine-weekly-wrap-west-bank-attacks-surge-israel-restricts-gaza-aid?traffic_source=rss"
+  },
+  {
+    "id": "2a3357a6044c",
+    "source": "Al Jazeera",
+    "date": "2026-03-25T20:59",
+    "headline": "Philippines farmers feeling the pinch of the war on Iran",
+    "excerpt": "Cabbage farmers in the Philippines are harvesting their crops at a loss as prices plunge and fuel costs soar.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-25T22:04:06.226992+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/philippines-farmers-feeling-the-pinch-of-the-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "9aaa3917a3c8",
+    "source": "Al Jazeera",
+    "date": "2026-03-25T20:47",
+    "headline": "Four killed in latest US attack on alleged drug-smuggling boat in Caribbean",
+    "excerpt": "The Trump administration has argued that the deadly strike targeted members of a &#039;designated terrorist organisation&#039;.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-03-25T22:04:06.227026+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/25/four-killed-in-latest-us-attack-on-alleged-drug-smuggling-boat-in-caribbean?traffic_source=rss"
+  },
+  {
+    "id": "13c19754d543",
+    "source": "Al Jazeera",
+    "date": "2026-03-25T20:42",
+    "headline": "Iran releases video claiming to show downing of US jet",
+    "excerpt": "Iran has released a video claiming to show the downing of a US F-18 fighter jet.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-03-25T22:04:06.227048+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/iran-releases-video-claiming-to-show-downing-of-us-jet?traffic_source=rss"
+  },
+  {
+    "id": "083c40758931",
+    "source": "Al Jazeera",
+    "date": "2026-03-25T20:33",
+    "headline": "Explosions and smoke seen as Iranian missiles hit Israel",
+    "excerpt": "Explosions and smoke were seen in Israel after suspected Iranian strikes.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-25T22:04:06.227068+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/explosions-and-smoke-seen-as-iranian-missiles-hit-israel?traffic_source=rss"
+  },
+  {
+    "id": "9a83eddc003e",
+    "source": "Al Jazeera",
+    "date": "2026-03-25T20:29",
+    "headline": "Palestinian family evicted from home in occupied East Jerusalem",
+    "excerpt": "Israeli forces have forcibly evicted a Palestinian family from their home in Silwan, occupied East Jerusalem.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-03-25T22:04:06.227099+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestinian-family-evicted-from-home-in-occupied-east-jerusalem?traffic_source=rss"
+  },
+  {
+    "id": "71e64c731b4c",
+    "source": "Al Jazeera",
+    "date": "2026-03-25T20:20",
+    "headline": "Trump to visit Xi Jinping in China on May 14 and 15 after Iran war delay",
+    "excerpt": "Press secretary Karoline Leavitt says Chinese President Xi Jinping will also visit US at a later date.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-25T22:04:06.227130+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/25/trump-to-visit-xi-jinping-in-china-on-may-14-and-15-after-iran-war-delay?traffic_source=rss"
+  },
+  {
+    "id": "4acb45afbb5a",
+    "source": "Al Jazeera",
+    "date": "2026-03-25T20:12",
+    "headline": "US tells Iran to accept defeat or Trump will ‘unleash hell’",
+    "excerpt": "The White House has warned Iran to accept what it called a military defeat, or the US will “hit harder” than before.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-03-25T22:04:06.227176+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-tells-iran-to-accept-defeat-or-trump-will-unleash?traffic_source=rss"
+  },
+  {
+    "id": "3dccd62a382e",
+    "source": "PressTV",
+    "date": "2026-03-25T22:04",
+    "headline": "FM says Iran's policy rests in continued resistance, rules out negotiations",
+    "excerpt": "Foreign Minister Abbas Araghchi says Iran's current policy is to continue resistance in the face of ongoing unprovoked American-Israeli aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-25T22:04:11.444485+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/25/765857/Iran-war-Israel-United-States-talks"
+  },
+  {
+    "id": "4b9ebc4de26b",
+    "source": "PressTV",
+    "date": "2026-03-25T22:04",
+    "headline": "Iran warns any regional country aiding enemies to seize its islands will face severe reprisal",
+    "excerpt": "Iran's Majlis (Parliament) speaker strongly warns any regional country against cooperating with adversaries' reported plans to occupy one of the Islamic Republic's islands.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-25T22:04:11.444544+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/25/765859/Iran-warning-occupation-island-United-States"
+  },
+  {
     "id": "88b21db3ab35",
     "source": "Al Jazeera",
     "date": "2026-03-25T19:22",
