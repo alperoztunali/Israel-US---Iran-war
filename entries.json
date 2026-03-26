@@ -1,5 +1,93 @@
 [
   {
+    "id": "e01c94c117f8",
+    "source": "Al Jazeera",
+    "date": "2026-03-26T07:59",
+    "headline": "Israeli push for more force ‘not working out very well’",
+    "excerpt": "“The Israeli public opinion is to use more force”",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-26T08:38:07.896378+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/israeli-push-for-more-force-not-working-out-very?traffic_source=rss"
+  },
+  {
+    "id": "cd87442e9677",
+    "source": "Al Jazeera",
+    "date": "2026-03-26T07:47",
+    "headline": "Two teenagers killed in Shiraz, two dead in Abu Dhabi as Iran war expands",
+    "excerpt": "Deadly attacks rise as Israel announces strikes on Isfahan and as Trump and Tehran debate ceasefire terms.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-03-26T08:38:07.896416+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/26/us-israel-launch-extensive-strikes-on-central-iran-two-teenagers-killed?traffic_source=rss"
+  },
+  {
+    "id": "af12b0cec40e",
+    "source": "Al Jazeera",
+    "date": "2026-03-26T06:53",
+    "headline": "US-Israel war on Iran: What’s happening on day 27 of attacks?",
+    "excerpt": "The US and Israel’s war on Iran is intensifying, as Trump again claims Iranian leaders want to &#039;make a deal&#039;.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-03-26T08:38:07.896455+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks?traffic_source=rss"
+  },
+  {
+    "id": "2fc6c57232ca",
+    "source": "Al Jazeera",
+    "date": "2026-03-26T06:26",
+    "headline": "Deaths and debts: Missiles in Gulf shake millions of South Asian families",
+    "excerpt": "Most people killed in Iran&#039;s Gulf attacks have been from South Asia. And entire economies back home are on edge.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-26T08:38:07.896480+00:00",
+    "link": "https://www.aljazeera.com/features/2026/3/26/deaths-and-debts-missiles-in-gulf-shake-millions-of-south-asian-families?traffic_source=rss"
+  },
+  {
+    "id": "7cdc40201891",
+    "source": "PressTV",
+    "date": "2026-03-26T08:38",
+    "headline": "Wave 82: US military installations across region targeted in new IRGC drone strikes",
+    "excerpt": "The Islamic Revolution Guards Corps IRGC has targeted the US military installations across the region in the latest wave of drone missile operations.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-03-26T08:38:09.810158+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/26/765864/IRGC-wave-82-US-assets"
+  },
+  {
+    "id": "17a93cd16a00",
+    "source": "PressTV",
+    "date": "2026-03-26T08:38",
+    "headline": "'Don’t be a tool': Yemen warns Arab states over 'Zionist conspiracy', backs Iran",
+    "excerpt": "The chairman of Yemen’s Supreme Political Council reaffirms his country’s solidarity with Iran amid the illegal US-Israeli aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-26T08:38:09.810202+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/26/765861/Dont-be-a-tool-Yemen-warns-Arab-states-over-Zionist-conspiracy-backs-Iran"
+  },
+  {
+    "id": "2e80ac9b8141",
+    "source": "PressTV",
+    "date": "2026-03-26T08:38",
+    "headline": "Hezbollah fires record 85 strikes in a day, targets Israeli war ministry with precision missiles",
+    "excerpt": "Fighters from the Lebanese Hezbollah resistance movement have carried out 85 retaliatory operations against Israeli positions within the past 24 hours.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-03-26T08:38:09.810224+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/26/765862/Hezbollah-fires-record-85-strikes-in-a-day-targets-Israeli-war-ministry-with-precision-missiles"
+  },
+  {
+    "id": "5198747b0baa",
+    "source": "PressTV",
+    "date": "2026-03-26T08:38",
+    "headline": "'Orwellian doublespeak': Iran slams France’s silence on US‑Israeli violations in region",
+    "excerpt": "Iran denounces French authorities’ silent vis-à-vis the most blatant violations of international law in Palestine, Lebanon and Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-26T08:38:09.810266+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/26/765863/Iran-slams-France-silence-on-US%E2%80%91Israeli-violations-in-region"
+  },
+  {
     "id": "98607cc553d6",
     "source": "Al Jazeera",
     "date": "2026-03-26T05:41",
