@@ -1,5 +1,93 @@
 [
   {
+    "id": "7333349c0978",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T19:15",
+    "headline": "US Palestinian activist says FBI foiled assassination plot against her",
+    "excerpt": "US law enforcement say man was arrested for plotting Molotov cocktail attack against activist Nerdeen Kiswani.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-03-27T19:52:17.805380+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/27/us-palestinian-activist-says-fbi-foiled-assassination-plot-against-her?traffic_source=rss"
+  },
+  {
+    "id": "326da0e8696c",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T19:02",
+    "headline": "Canada’s Bill C-12 an ‘attack on refugee, migrant rights’: Advocates",
+    "excerpt": "Rights groups say new law restricting asylum will put thousands &#039;at risk of persecution, violence and precarity&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-03-27T19:52:17.805440+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/27/canadas-bill-c-12-an-attack-on-refugee-migrant-rights-advocates?traffic_source=rss"
+  },
+  {
+    "id": "038f19807b1e",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T18:40",
+    "headline": "Rubio: US expects Iran war to end in ‘weeks, not months’",
+    "excerpt": "US Secretary of State Marco Rubio said the US expects its military operation in Iran to conclude in weeks, not months.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-03-27T19:52:17.805483+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rubio-us-expects-iran-war-to-end-in-weeks-not?traffic_source=rss"
+  },
+  {
+    "id": "eb4a75ef970d",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T18:34",
+    "headline": "US diplomat Marco Rubio denounces settler violence, tolls in Hormuz strait",
+    "excerpt": "Rubio reiterated President Donald Trump&#039;s call for other countries to participate in securing the Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-03-27T19:52:17.805517+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/27/us-diplomat-marco-rubio-denounces-settler-violence-tolls-in-hormuz-strait?traffic_source=rss"
+  },
+  {
+    "id": "e11ccf244ed5",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T18:00",
+    "headline": "How close is the US to a quagmire in Iran?",
+    "excerpt": "The US has a 15-point plan to end the war on Iran, but what does the military reality show?",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-27T19:52:17.805546+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/3/27/aje-onl-tt_us_iran15pointplan_av-270326?traffic_source=rss"
+  },
+  {
+    "id": "b3ef928495b5",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T17:32",
+    "headline": "Iran’s football team honours children killed in Minab school airstrike",
+    "excerpt": "Iranian football players laid backpacks on a football pitch in Turkey to pay tribute to the children killed in a US-Isra",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-03-27T19:52:17.805574+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/irans-football-team-honours-children-killed-in-minab-school-airstrike?traffic_source=rss"
+  },
+  {
+    "id": "ecc957d87e05",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T17:31",
+    "headline": "Israelis question Lebanon war as opposition grows",
+    "excerpt": "Growing opposition within Israel is raising questions about the government’s military strategy in southern Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-27T19:52:17.805610+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israelis-question-lebanon-war-as-opposition-grows?traffic_source=rss"
+  },
+  {
+    "id": "f482689d6fa4",
+    "source": "PressTV",
+    "date": "2026-03-27T19:52",
+    "headline": "‘Beyond eye for eye’: IRGC warns US, Israeli-linked sites after strike on nuclear, steel plants",
+    "excerpt": "Iran warns US and Israeli- linked industries in the region to evacuate in the wake of attacks on Iran's industrial sites.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-27T19:52:19.448629+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/27/765933/IRGC-warns-workers-to-evacuate-US-Israeli-linked-sites-after-steel-plant-strikes"
+  },
+  {
     "id": "cd4d5b61f7f0",
     "source": "Al Jazeera",
     "date": "2026-03-27T17:15",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-20T20:59:53.310079+00:00",
     "link": "https://www.aljazeera.com/video/inside-story/2026/3/20/what-are-the-risks-of-turning-energy-sites-into-battlefields?traffic_source=rss"
-  },
-  {
-    "id": "a3d0b8a6e907",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T19:34",
-    "headline": "QatarEnergy CEO says warned US, industry officials against attack on energy",
-    "excerpt": "QatarEnergy CEO Saad al-Kaabi says he warned US of &#039;consequences&#039; of attacking Iranian energy infrastructure.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-20T20:59:53.310110+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/20/qatarenergy-ceo-says-warned-us-industry-officials-against-attack-on-energy?traffic_source=rss"
-  },
-  {
-    "id": "e9935247a204",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T19:22",
-    "headline": "Trump: No Iranian leaders left to talk to, says war going ‘extremely well’",
-    "excerpt": "US President Donald Trump said that Iranian leaders are “all gone” and that the White House has “nobody left to talk to.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-20T20:59:53.310145+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/trump-no-iranian-leaders-left-to-talk-to-says-war-going-extremely?traffic_source=rss"
-  },
-  {
-    "id": "0f99eb9e51c0",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T19:21",
-    "headline": "Sri Lanka says it denied US request to land two aircraft at Mattala airport",
-    "excerpt": "President Anura Kumara Dissanayake says request made on February 26, two days before US and Israel launched war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-20T20:59:53.310178+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/20/sri-lanka-says-it-denied-us-request-to-land-two-aircraft-at-mattala-airport?traffic_source=rss"
-  },
-  {
-    "id": "42e92090c383",
-    "source": "PressTV",
-    "date": "2026-03-20T20:59",
-    "headline": "IRGC targets Israeli military industries, US bases in 69th wave of Op. True Promise 4",
-    "excerpt": "The IRGC targets a range of Israeli military-linked industries as well as US military facilities in the region during the 69th wave of Operation True Promise 4.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-20T20:59:55.498336+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/20/765622/Iran-attacks-Israel-Tel-Aviv-Haifa-United-States-Kuwait-Saudi-Arabia"
-  },
-  {
-    "id": "0f736917ea59",
-    "source": "PressTV",
-    "date": "2026-03-20T20:59",
-    "headline": "Pezeshkian calls for Islamic security structure to replace foreign presence in West Asia",
-    "excerpt": "Iranian President Masoud Pezeshkian has called for an Islamic security structure to replace the foreign presence in West Asia and preserve the region’s security and stability.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-20T20:59:55.498389+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/20/765620/Pezeshkian-calls-for-Islamic-security-structure-to-replace-foreign-presence-in-West-Asia"
-  },
-  {
-    "id": "f607a922b2bd",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T18:41",
-    "headline": "Iranians celebrate Persian New Year in first wartime Nowruz in decades",
-    "excerpt": "Residents of Tehran exchange new year&#039;s wishes as US and Israeli attacks continue through the spring equinox.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-20T19:28:09.212862+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/20/iranians-celebrate-persian-new-year-in-first-wartime-nowruz-in-decades?traffic_source=rss"
-  },
-  {
-    "id": "793551e57452",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T18:30",
-    "headline": "Iran: From Khamenei to Khamenei",
-    "excerpt": "How Iran’s power structure was built, and how it survives its architect.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-20T19:28:09.212910+00:00",
-    "link": "https://www.aljazeera.com/video/featured-documentaries/2026/3/20/iran-from-khamenei-to-khamenei?traffic_source=rss"
-  },
-  {
-    "id": "e6f8666dbd00",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T18:15",
-    "headline": "Explosion hits Jerusalem’s Old City after Iran missile alert",
-    "excerpt": "An explosion struck Jerusalem’s Old City seconds after sirens warned of an incoming Iranian missile.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-20T19:28:09.212940+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/explosion-hits-jerusalems-old-city-after-iran-missile-alert?traffic_source=rss"
   }
 ]
