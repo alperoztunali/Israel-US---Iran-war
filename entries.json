@@ -1,5 +1,60 @@
 [
   {
+    "id": "fe9af6926cfd",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T07:34",
+    "headline": "Israel’s opposition says military forces are ‘in collapse’",
+    "excerpt": "Yair Lapid has criticises the government and says military forces are ‘in collapse.&#039;",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-03-27T08:07:37.297843+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israels-opposition-says-military-forces-are-in?traffic_source=rss"
+  },
+  {
+    "id": "92274c516d56",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T07:25",
+    "headline": "Iran bans sports teams from travelling to ‘hostile’ countries amid war",
+    "excerpt": "Sports Ministry says ban for &#039;security&#039; of athletes before a game between Iranian and Emirati clubs in Saudi Arabia.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-27T08:07:37.297893+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/3/27/iran-bans-sports-teams-from-travelling-to-hostile-countries-amid-war?traffic_source=rss"
+  },
+  {
+    "id": "f4e0b79e6d64",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T06:35",
+    "headline": "US-Israel war on Iran: What’s happening on day 28 of attacks?",
+    "excerpt": "Trump has delayed attacks on Iran&#039;s energy facilities by 10 days, claiming talks are going well - though Iran disagrees.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-03-27T08:07:37.297927+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/27/us-israel-war-on-iran-whats-happening-on-day-28-of-attacks-2?traffic_source=rss"
+  },
+  {
+    "id": "7517bc187634",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T05:36",
+    "headline": "The Strait of Hormuz is not just an oil chokepoint",
+    "excerpt": "It is the single point of failure of globalised production.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-03-27T08:07:37.297957+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/3/27/the-strait-of-hormuz-is-not-just-an-oil-chokepoint?traffic_source=rss"
+  },
+  {
+    "id": "9cd4c7eff2d1",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T05:34",
+    "headline": "Sri Lanka braces for new economic crisis as war on Iran continues",
+    "excerpt": "For many Sri Lankans, the fuel shortage triggered by the war carries echoes of the 2022 economic crisis - with a twist.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-27T08:07:37.297987+00:00",
+    "link": "https://www.aljazeera.com/features/2026/3/27/sri-lanka-braces-for-new-economic-crisis-as-war-on-iran-continues?traffic_source=rss"
+  },
+  {
     "id": "29ca3d6bc1ad",
     "source": "Al Jazeera",
     "date": "2026-03-27T04:24",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-03-20T07:52:34.065555+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/3/20/eid-under-siege-little-to-celebrate-in-gaza-as-israel-tightens-chokehold?traffic_source=rss"
-  },
-  {
-    "id": "d110fc70e288",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T05:51",
-    "headline": "Iran women’s football team feted in Tehran after asylum battle at Asian Cup",
-    "excerpt": "Iran’s national football team returned to their war-torn nation after several of the players sought asylum in Australia.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-20T07:52:34.065598+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/3/20/iran-womens-football-team-feted-in-tehran-after-asylum-battle-at-asian-cup?traffic_source=rss"
-  },
-  {
-    "id": "c1f05bdd8815",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T05:10",
-    "headline": "Iranian football players celebrated in Tehran",
-    "excerpt": "Iran’s national women’s football team has been given a hero’s welcome home, weeks after they were thrust into a crisis.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-20T07:52:34.065635+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iranian-football-players-celebrated-in-tehran?traffic_source=rss"
-  },
-  {
-    "id": "1c0ccd46bc8e",
-    "source": "PressTV",
-    "date": "2026-03-20T07:52",
-    "headline": "IRGC: USS Ford's retreat exposes 'hollowness' of American military power",
-    "excerpt": "The Islamic Revolution Guards Corps says the abrupt withdrawal of the USS Gerald R. Ford from West Asia has laid bare the \"hollowness of the arrogant powers' material strength.\"",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-03-20T07:52:35.676239+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/20/765591/IRGC-USS-Gerald-Ford-retreat-exposes-hollowness-of-American-military-power"
-  },
-  {
-    "id": "5783135964a9",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T04:59",
-    "headline": "Iran footballer Azmoun kicked off national team for disloyalty, say reports",
-    "excerpt": "Reports say Sardar Azmoun, who plays for UAE club Shabab Al-Ahli, was expelled for Instagram post with Dubai&#039;s ‌ruler.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-20T05:09:29.690970+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/3/20/iran-footballer-azmoun-kicked-off-national-team-for-disloyalty-say-reports?traffic_source=rss"
-  },
-  {
-    "id": "c49a68cf73f7",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T03:49",
-    "headline": "Unpacking Netanyahu’s latest claims about the war on Iran",
-    "excerpt": "Benjamin Netanyahu claimed to have made significant progress in 20 days of war on Iran but indicated more is to come.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-20T05:09:29.691022+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/unpacking-netanyahus-latest-claims-about-the-war-on-iran?traffic_source=rss"
   }
 ]
