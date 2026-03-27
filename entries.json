@@ -1,5 +1,104 @@
 [
   {
+    "id": "5a1e9dd63e4c",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T13:27",
+    "headline": "Saudi, UAE, Iraq: Can three pipelines help oil escape Strait of Hormuz?",
+    "excerpt": "Countries in the Middle East have ramped up oil exports via pipeline to bridge the Strait of Hormuz gap.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-03-27T14:34:13.457102+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/3/27/saudi-uae-iraq-can-three-pipelines-help-oil-escape-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "77e4b8a80cf4",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T13:15",
+    "headline": "Qatari PM and US officials discuss strategic ties amid Iran war",
+    "excerpt": "The meeting reviewed the &#039;close strategic cooperation&#039; between Doha and Washington, Qatar&#039;s foreign ministry said.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-03-27T14:34:13.457152+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/27/qatari-pm-and-us-officials-discuss-strategic-ties-amid-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "71956c0ac48e",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T13:13",
+    "headline": "Iran expert says US ground invasion could cause a global economic meltdown",
+    "excerpt": "Ali Vaez says the US and Iran have reached a stalemate where further escalation would likely lead to catastrophe.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-27T14:34:13.457187+00:00",
+    "link": "https://www.aljazeera.com/video/quotable/2026/3/27/iran-expert-says-us-ground-invasion-could-cause-a-global-economic-meltdown?traffic_source=rss"
+  },
+  {
+    "id": "79ed4cff8f54",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T12:25",
+    "headline": "Ukraine announces ‘mutually beneficial’ defence deal with Saudi Arabia",
+    "excerpt": "Kyiv, which has built expertise on how to counter drones, seals pact amid Iran war.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-27T14:34:13.457214+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/27/ukraine-announces-defense-pact-with-saudi-arabia?traffic_source=rss"
+  },
+  {
+    "id": "1157ccb6a0c1",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T11:24",
+    "headline": "Yemenis fear economic consequences of being dragged into US-Iran conflict",
+    "excerpt": "Iran-allied Houthis yet to get involved in conflict, but could target shipping in Red Sea.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-03-27T14:34:13.457240+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/27/yemenis-fear-economic-consequences-of-being-dragged-into-us-iran-conflict?traffic_source=rss"
+  },
+  {
+    "id": "eb12dd579654",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T10:53",
+    "headline": "What is LNG and what is it used for?",
+    "excerpt": "Natural gas powers a quarter of the world, and almost a fifth of LNG moves through the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-03-27T14:34:13.457274+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/27/what-is-lng-and-what-is-it-used-for?traffic_source=rss"
+  },
+  {
+    "id": "b01bbc920772",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T10:48",
+    "headline": "UN rights chief urges US to conclude probe into deadly Iran school attack",
+    "excerpt": "Human Rights Council calls for investigation and hears devastating testimony from grieving mother Mohaddeseh Fallahat.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-03-27T14:34:13.457297+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/27/my-heart-burns-with-pain-iranian-mother-tells-un-of-minab-school-attack?traffic_source=rss"
+  },
+  {
+    "id": "251b24451f4d",
+    "source": "PressTV",
+    "date": "2026-03-27T14:34",
+    "headline": "Iranian Army drones strike major Israeli military logistics site",
+    "excerpt": "Iran’s Army conducts drone strikes against Israel’s sensitive and strategic locations in Tel Aviv.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-27T14:34:18.565028+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/27/765924/Iranian-Army-drones-strike-major-Israeli-military-logistics-site"
+  },
+  {
+    "id": "931ce9f06868",
+    "source": "PressTV",
+    "date": "2026-03-27T14:34",
+    "headline": "Senior Iranian official warns IAEA's Grossi over 'biased, destructive' remarks",
+    "excerpt": "A senior Iranian diplomat has slammed International Atomic Energy Agency (IAEA) Director General Rafael Grossi, warning that his recent “biased and destructive” remarks on Iran’s peaceful nuclear program make the situation worse.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-03-27T14:34:18.565096+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/27/765916/IAEA-Grossi-remarks-make-situation-worse-Iran-warns"
+  },
+  {
     "id": "f8ba4b98ad6a",
     "source": "Al Jazeera",
     "date": "2026-03-27T10:48",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-20T17:08:05.492198+00:00",
     "link": "https://www.aljazeera.com/news/2026/3/20/what-us-israeli-targets-reveal-about-iran-war-goals-three-weeks-in?traffic_source=rss"
-  },
-  {
-    "id": "a196e89202fe",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T15:29",
-    "headline": "Switzerland announces halt to weapons exports to US amid Iran war",
-    "excerpt": "Move comes as Swiss government also closed its airspace to US military flights directly linked to the Iran war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-20T17:08:05.492233+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/20/switzerland-announces-halt-to-weapons-exports-to-us-amid-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "7c39165292ec",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T15:12",
-    "headline": "US easing ban on Iranian oil would signal ‘beginning of the end of war’",
-    "excerpt": "The US says it is considering removing sanctions on Iranian oil stranded on tankers at sea.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-03-20T17:08:05.492265+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/us-easing-ban-on-iranian-oil-would-signal-beginning-of-the-end-of?traffic_source=rss"
-  },
-  {
-    "id": "162051ec3052",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T14:48",
-    "headline": "Will Russian oil be the biggest winner in the US-Israel war on Iran?",
-    "excerpt": "The price of Russian Urals has soared in recent weeks. How Russia - and other energy producing nations - could profit.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-20T17:08:05.492307+00:00",
-    "link": "https://www.aljazeera.com/features/2026/3/20/will-russian-oil-be-the-biggest-winner-in-the-us-israel-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "8334a84688ed",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T13:45",
-    "headline": "Who are the Gulf’s military allies, and how are they helping in Iran war?",
-    "excerpt": "Experts say while Gulf states need support in face of Iranian attacks, it is less clear what their allies can provide.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-20T14:33:14.596821+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/20/who-are-the-gulfs-military-allies-and-how-are-they-helping-in-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "2db8141c440b",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T13:44",
-    "headline": "Iran video said to show US F-35 being hit",
-    "excerpt": "Iran’s semi-official Tasnim news agency has released military video said to show air defence systems hitting a US F-35.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-03-20T14:33:14.596859+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iran-video-said-to-show-us-f-35-being-hit?traffic_source=rss"
-  },
-  {
-    "id": "3b1bc0927d64",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T12:44",
-    "headline": "Iran’s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack",
-    "excerpt": "Israeli and US air attacks pound Iran as assassination campaign of country&#039;s leadership continues.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-03-20T14:33:14.596892+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/20/irans-irgc-says-spokesman-ali-mohammad-naini-killed-in-us-israeli-attack?traffic_source=rss"
-  },
-  {
-    "id": "bddaa5afcd61",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T11:51",
-    "headline": "Slovenia heads to polls with diverging views on Israel in focus",
-    "excerpt": "Slovenia&#039;s election sees the centre-left coalition take on the populist right amid claims of foreign meddling.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-20T14:33:14.596926+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/20/slovenia-heads-to-polls-with-diverging-views-on-israel-in-focus?traffic_source=rss"
-  },
-  {
-    "id": "70f6416c6496",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T11:46",
-    "headline": "Israel says it hit Syrian army camps in the south after Druze ‘attacked’",
-    "excerpt": "Israeli air strikes target army camps in response to alleged attacks on the Druze community in Suwayda on Thursday.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-03-20T14:33:14.596950+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss"
-  },
-  {
-    "id": "8604a530f5ac",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T11:21",
-    "headline": "Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup",
-    "excerpt": "Women&#039;s Asian Cup hosts Australia face criticism for the political tug of war over the Iranian women&#039;s football team.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-20T11:47:48.090240+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/3/20/refugee-council-questions-australias-iran-strategy-at-womens-asian-cup?traffic_source=rss"
   }
 ]
