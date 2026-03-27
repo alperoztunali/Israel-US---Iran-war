@@ -1,5 +1,170 @@
 [
   {
+    "id": "29ca3d6bc1ad",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T04:24",
+    "headline": "Malaysia’s ships allowed to pass Strait of Hormuz, PM Anwar says",
+    "excerpt": "Malaysian leader says oil tankers granted clearance by Iran as government introduces measures to conserve fuel.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-03-27T05:26:58.131158+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/3/27/malaysias-ships-allowed-to-pass-strait-of-hormuz-pm-anwar-says?traffic_source=rss"
+  },
+  {
+    "id": "35023e152b95",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T04:24",
+    "headline": "First responders rescue man from Tehran building hit by air strike",
+    "excerpt": "The Iranian Red Crescent Society released video showing rescuers in Tehran pulling a man from a damaged building.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-03-27T05:26:58.131190+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/first-responders-rescue-man-from-tehran-building-hit-by-air-strike?traffic_source=rss"
+  },
+  {
+    "id": "f251093adf5b",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T04:08",
+    "headline": "Palestinians flee tear gas as Israeli settlers arrive in occupied West Bank",
+    "excerpt": "The Israeli army fired tear gas at Palestinian residents of the Beit Imrin village in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-27T05:26:58.131228+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/palestinians-flee-tear-gas-as-israeli-settlers-arrive-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "8eb6c56deaff",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T03:54",
+    "headline": "Red Crescent video shows aftermath of strike on homes in Iran’s Urmia",
+    "excerpt": "Iranian Red Crescent video shows the aftermath of a strike on a residential area in Urmia.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-27T05:26:58.131266+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/red-crescent-video-shows-aftermath-of-strike-on-homes-in-irans-urmia?traffic_source=rss"
+  },
+  {
+    "id": "4ef08d4aa541",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T03:47",
+    "headline": "Albanese says Australia playing “constructive” role in the war on Iran",
+    "excerpt": "Australia’s prime minister says his government has made a “constructive” contribution to the war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-27T05:26:58.131302+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/albanese-says-australia-playing-constructive-role-in-the-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "8c0aaf176d6a",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T02:21",
+    "headline": "Who is fighting in Myanmar’s multi-front civil war?",
+    "excerpt": "Alliances are fluid in Myanmar&#039;s civil war, involving a military regime, ethnic armed groups and pro-democracy forces.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-03-27T05:26:58.131344+00:00",
+    "link": "https://www.aljazeera.com/features/2026/3/27/who-is-fighting-in-myanmars-multi-front-civil-war?traffic_source=rss"
+  },
+  {
+    "id": "66b40df054ce",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T02:00",
+    "headline": "Analysts say Trump doesn’t understand Iran reality has changed",
+    "excerpt": "Watch this discussion between Ross Harrison and Hassan Ahmadian on US strategy regarding Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-27T05:26:58.131399+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/analysts-say-trump-doesnt-understand-iran-reality-has-changed?traffic_source=rss"
+  },
+  {
+    "id": "5fe09f6bd055",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T00:11",
+    "headline": "Projectile from Lebanon kills at least one in north Israel",
+    "excerpt": "Video captured flames and black smoke where a projectile from Lebanon killed at least one person in northern Israel.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-03-27T05:26:58.131435+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/projectile-from-lebanon-kills-at-least-one-in-north-israel?traffic_source=rss"
+  },
+  {
+    "id": "7f05af7ba48d",
+    "source": "Al Jazeera",
+    "date": "2026-03-27T00:00",
+    "headline": "Iran war live: Trump delays attacks on Iranian energy sector by 10 days",
+    "excerpt": "Iranian missiles, drones target Kuwait, UAE, Saudi Arabia and Jordan as Trump says Iran has &#039;chance to make a deal&#039;.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-27T05:26:58.131456+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/3/27/iran-war-live-trump-delays-attacks-on-iranian-energy-sector-by-10-days?traffic_source=rss"
+  },
+  {
+    "id": "be35221123b9",
+    "source": "Al Jazeera",
+    "date": "2026-03-26T23:06",
+    "headline": "Trump ‘pausing’ plan to destroy Iranian power plants for 10 days",
+    "excerpt": "Donald Trump says he is “pausing” his plan to destroy Iranian power plants for 10 days.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-27T05:26:58.131490+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/trump-pausing-plan-to-destroy-iranian-power-plants-for-10-days?traffic_source=rss"
+  },
+  {
+    "id": "7e8121411c2b",
+    "source": "Al Jazeera",
+    "date": "2026-03-26T23:04",
+    "headline": "EU’s top diplomat urges US to pressure Russia to stop aiding Iran",
+    "excerpt": "The European Union’s Foreign Policy Chief Kaja Kallas says the US needs to pressure Russia to stop assisting Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-03-27T05:26:58.131521+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/eus-top-diplomat-urges-us-to-pressure-russia-to-stop-aiding-iran?traffic_source=rss"
+  },
+  {
+    "id": "35635a1439ac",
+    "source": "PressTV",
+    "date": "2026-03-27T05:27",
+    "headline": "True Promise 4, Wave 83: Iran pounds US, Israeli assets with advanced missiles, drones",
+    "excerpt": "IRGC carried out wave 83 of Operation True Promise 4 early on Friday, targeting key US and Israeli military installations across the region with missiles and drones.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-27T05:27:00.163473+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/27/765901/op-true-promise4-iran-pounds-us-israeli-assets-advanced-missiles-drones"
+  },
+  {
+    "id": "9a94ae291264",
+    "source": "PressTV",
+    "date": "2026-03-27T05:27",
+    "headline": "Iran asks UNSC to condemn US-Israeli assassination plots against senior officials",
+    "excerpt": "Iran has formally alerted the United Nations to media reports revealing treacherous US and Israeli plans to assassinate high-ranking Iranian officials,",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-27T05:27:00.163510+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/27/765902/Iran-urges-UN-Security-Council-to-condemn-US-Israeli-assassination-plots-against-senior-officials"
+  },
+  {
+    "id": "7eba4c4b60fe",
+    "source": "PressTV",
+    "date": "2026-03-27T05:27",
+    "headline": "Iran's president: Islamic countries should not allow enemies to sow division",
+    "excerpt": "Iranian President Masoud Pezeshkian has called on Muslim nations to stay united and prevent enemies from exploiting the situation to create division and escalate the ongoing US and Israeli war in the West Asia region.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-03-27T05:27:00.163542+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/27/765900/Pezeshkian--Islamic-countries-should-not-allow-enemies-to-sow-division-and-inflame-the-fire-of-war"
+  },
+  {
+    "id": "f4e91a35b917",
+    "source": "PressTV",
+    "date": "2026-03-27T05:27",
+    "headline": "American military structure in region has 'collapsed', US forces under close watch: Spox",
+    "excerpt": "Iran's military is closely monitoring US forces across the region, the senior spokesman for Iran’s Armed Forces says, asserting that the American military structure in West Asia has \"collapsed in the shortest possible time.\"",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-03-27T05:27:00.163577+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/26/765891/Iran%E2%80%99s-military--US-forces-in-region-have-collapsed,-hiding-in-hotels"
+  },
+  {
     "id": "6f21a0adad0f",
     "source": "Al Jazeera",
     "date": "2026-03-26T22:30",
@@ -5333,126 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-20T05:09:29.691022+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/unpacking-netanyahus-latest-claims-about-the-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "ec979cc96f56",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T03:48",
-    "headline": "Trump must ‘take the steering wheel back from the Israelis’ in Iran war",
-    "excerpt": "Trita Parsi, argues that US President Trump must not allow Israel to control the war with Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-20T05:09:29.691063+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/3/20/trump-must-take-the-steering-wheel-back-from-the-israelis-in-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "5aa0af37c60a",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T01:09",
-    "headline": "Palestinians bury four women killed in Iranian missile attack",
-    "excerpt": "A small occupied West Bank community has buried four women killed in a hair salon during an Iranian missile attack.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-20T05:09:29.691086+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinians-bury-four-women-killed-in-iranian-missile-attack?traffic_source=rss"
-  },
-  {
-    "id": "76ce6d062361",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T00:46",
-    "headline": "Israel’s messianic political elite ‘does not know any boundaries’",
-    "excerpt": "Ilan Pappe, Israeli historian, says Israel’s unconstrained behavior is driven by a messianic aspiration for expansion.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-20T05:09:29.691125+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/3/20/israels-messianic-political-elite-does-not-know-any-boundaries?traffic_source=rss"
-  },
-  {
-    "id": "9efbf1c054c6",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T00:21",
-    "headline": "Videos show Iranian missile fragments impacting northern Israel",
-    "excerpt": "Videos published by local Israeli platforms show Iranian missile fragments making impact in northern Israel.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-20T05:09:29.691151+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/videos-show-iranian-missile-fragments-impacting-northern-israel?traffic_source=rss"
-  },
-  {
-    "id": "7d7f40de7b59",
-    "source": "Al Jazeera",
-    "date": "2026-03-20T00:04",
-    "headline": "Iran war live: Tehran warns of intensified strikes if energy sites targeted",
-    "excerpt": "Iran strikes Israeli oil refinery in northern city of Haifa as Tehran launches attacks on regional energy facilities.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-20T05:09:29.691184+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/3/20/iran-war-live-tehran-warns-of-intensified-strikes-if-energy-sites-targeted?traffic_source=rss"
-  },
-  {
-    "id": "e89fd3c2e199",
-    "source": "Al Jazeera",
-    "date": "2026-03-19T23:15",
-    "headline": "Mexican military says 11 killed in raid targeting Sinaloa cartel leader",
-    "excerpt": "Omar Oswaldo Torres, the leader of the Los Mayos faction of the Sinaloa criminal network, was detained in the raid.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-03-20T05:09:29.691223+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/19/mexican-military-says-11-killed-in-raid-targeting-sinaloa-cartel-leader?traffic_source=rss"
-  },
-  {
-    "id": "8b1d0e155e15",
-    "source": "PressTV",
-    "date": "2026-03-20T05:09",
-    "headline": "IRGC unleashes 'super-heavy multi-warhead' missiles during 66th wave of Op. True Promise 4",
-    "excerpt": "The IRGC announces execution of the 66th wave of its ongoing retaliatory Operation True Promise 4.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-03-20T05:09:31.427096+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/20/765590/Iran-Israel-United-States-war-IRGC"
-  },
-  {
-    "id": "4d85235d0361",
-    "source": "PressTV",
-    "date": "2026-03-20T05:09",
-    "headline": "Regional countries urged to prevent US, Israel from using their territory against Iran",
-    "excerpt": "Iran urges regional countries to prevent the United States and the Israeli regime from using their territory against the Islamic Republic.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-20T05:09:31.427147+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/20/765589/Iran-Persian-Gulf-United-States-Israel-war"
-  },
-  {
-    "id": "46f85cd51511",
-    "source": "Al Jazeera",
-    "date": "2026-03-19T23:07",
-    "headline": "US intelligence chief admits US, Israel not aligned on Iran war goals",
-    "excerpt": "The US Director of National ‌Intelligence says American and Israeli goals in the war on Iran are not the same.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-19T23:47:32.717647+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/us-intelligence-chief-admits-us-israel-not-aligned-on-iran-war-goals?traffic_source=rss"
-  },
-  {
-    "id": "c740937d42ef",
-    "source": "PressTV",
-    "date": "2026-03-19T23:47",
-    "headline": "Iran's top military command warns of Israel's 'evil intent' to hit regional energy infrastructures",
-    "excerpt": "Iran's highest operational command unit warns about Israeli plans to target regional energy infrastructures so Tel Aviv can falsely implicate the Islamic Republic and sow regional divisions.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-19T23:47:35.316044+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/19/765588/Iran-warning-Israel-attacks-energy-infrastructure-Persian-Gulf"
-  },
-  {
-    "id": "13c45e75d98e",
-    "source": "PressTV",
-    "date": "2026-03-19T23:47",
-    "headline": "True Promise 4: Iran and resistance axis ops. against US-Israeli assets on Mar. 19",
-    "excerpt": "Iranian armed forces and resistance groups across the region continued their retaliatory military operations against the US and the Israeli regime on Thursday, March 19.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-03-19T23:47:35.316081+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/19/765587/true-promise-4-iran-resistance-axis-ops-against-us-israeli-sites-mar-19"
   }
 ]
