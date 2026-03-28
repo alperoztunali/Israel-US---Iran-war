@@ -1,5 +1,60 @@
 [
   {
+    "id": "99ce776193bd",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T11:24",
+    "headline": "Protests in Yemen against US-Israeli attacks as Houthis warn of action",
+    "excerpt": "Protesters in Yemen took to the streets to voice support for Iran, Palestine, and Lebanon amid US and Israeli attacks.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-28T11:57:26.396396+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/protests-in-yemen-against-us-israeli-attacks-as-houthis-warn-of-action?traffic_source=rss"
+  },
+  {
+    "id": "63c3e32a915f",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T11:12",
+    "headline": "How the US and Israel are making the Islamic republic stronger",
+    "excerpt": "The war is feeding into a theological narrative of martyrdom and sacrifice that is helping maintain the Islamic Republic",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-28T11:57:26.396442+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/3/28/how-the-us-and-israel-are-making-the-islamic-republic?traffic_source=rss"
+  },
+  {
+    "id": "282ba1050932",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T11:11",
+    "headline": "Russian strikes on Ukraine kill 4 as deal to end war dims",
+    "excerpt": "US Secretary of State Marco Rubio voices openness to diverting weapons to Kyiv to support the US attack on Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-03-28T11:57:26.396473+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/28/russian-strikes-on-ukraine-cities-kill-4-as-deal-to-end-war-dims?traffic_source=rss"
+  },
+  {
+    "id": "dbd25b94d1b1",
+    "source": "PressTV",
+    "date": "2026-03-28T11:57",
+    "headline": "Over 500 US troops targeted in Dubai strikes; heavy casualties expected: Iran military",
+    "excerpt": "The Khatam al-Anbiya Central Headquarters says over 500 US troops were targeted in the Iranian Armed Forces’ latest operations.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-03-28T11:57:27.660681+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/28/765968/Over-500-US-troops-targeted-Dubai-strikes-heavy-casualties-expected-Iran-military"
+  },
+  {
+    "id": "4cda9039b68a",
+    "source": "PressTV",
+    "date": "2026-03-28T11:57",
+    "headline": "Hezbollah launches fresh strikes against Israeli forces, installations",
+    "excerpt": "Lebanese Hezbollah resistance fighters have carried out fresh waves of strikes on Israeli forces and their installations in defense of Lebanon and its nation.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-03-28T11:57:27.660714+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/28/765967/Hezbollah-launches-fresh-strikes-against-Israeli-forces-installations%C2%A0"
+  },
+  {
     "id": "a415860e4369",
     "source": "Al Jazeera",
     "date": "2026-03-28T10:31",
@@ -5443,60 +5498,5 @@
     "location": "Bahrain",
     "addedAt": "2026-03-21T16:59:34.375364+00:00",
     "link": "https://www.aljazeera.com/news/2026/3/21/bahrain-says-patriot-system-intercepted-drone-over-homes?traffic_source=rss"
-  },
-  {
-    "id": "aa0cc3548f2c",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T16:01",
-    "headline": "Arab states should beware of Israel’s hegemonic energy expansion",
-    "excerpt": "The Iran war revealed how dependent Israel’s Arab neighbours are on its gas exports.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-21T16:59:34.375416+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/3/21/arab-states-should-beware-of-israels-hegemonic-energy-expansion?traffic_source=rss"
-  },
-  {
-    "id": "020767601350",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T15:59",
-    "headline": "UK says Iran missile attack on Diego Garcia failed",
-    "excerpt": "The UK says Iran launched ballistic missiles at the joint US-UK Diego Garcia base in the Indian Ocean.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-21T16:59:34.375441+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed?traffic_source=rss"
-  },
-  {
-    "id": "cfefe52effab",
-    "source": "PressTV",
-    "date": "2026-03-21T16:59",
-    "headline": "IRGC hits another Israeli F-16 fighter jet with interceptor missile",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) says it has successfully intercepted a third Israeli fighter jet, an F-16, in the skies over central Iran.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-03-21T16:59:35.972836+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/21/765651/IRGC-targets-3rd-Israeli-fighter-jet-over-central-Iran"
-  },
-  {
-    "id": "6ed52598a4d1",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T14:40",
-    "headline": "Iranian woman’s video of US-Israel attack ends as bomb hits",
-    "excerpt": "The fate of an Iranian woman caught in a US-Israeli bomb attack is unknown, after video emerged of her filming it.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-03-21T15:51:42.192877+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/iranian-womans-video-of-us-israel-attack-ends-as-bomb-hits?traffic_source=rss"
-  },
-  {
-    "id": "5c18c091d29d",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T14:34",
-    "headline": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
-    "excerpt": "US president&#039;s reference to Japan&#039;s 1941 attack has shaken Japanese as PM Takaichi&#039;s silence gets mixed reaction.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-21T15:51:42.192924+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/21/unease-in-japan-after-trump-uses-pearl-harbor-to-defend-iran-war?traffic_source=rss"
   }
 ]
