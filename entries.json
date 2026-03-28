@@ -1,5 +1,38 @@
 [
   {
+    "id": "4d23032fc30f",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T20:58",
+    "headline": "Kuwait airport hit by Iranian drone strikes",
+    "excerpt": "Thick, black smoke rose from Kuwait International Airport Saturday after suspected Iranian drone strikes caused damage.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-28T21:59:38.606567+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss"
+  },
+  {
+    "id": "415af1c6887c",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T20:50",
+    "headline": "Could Ukraine’s drone expertise serve Gulf countries?",
+    "excerpt": "Gulf nations seek new defence partnerships as Iran war escalates.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-28T21:59:38.606609+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss"
+  },
+  {
+    "id": "8192737828d3",
+    "source": "PressTV",
+    "date": "2026-03-28T22:01",
+    "headline": "Yemen launches 2nd major strike on Israeli targets in solidarity with Iran, Resistance Axis",
+    "excerpt": "Yemen's Armed Forces subject the Israeli regime to their second major solidarity strike in support of Iran and the regional Axis of Resistance.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-03-28T22:01:20.710465+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/28/765995/Yemen-attacks-Israel-support-Iran-cruise-missiles-drones"
+  },
+  {
     "id": "53ce0d88106b",
     "source": "Al Jazeera",
     "date": "2026-03-28T19:59",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-03-22T05:13:44.993223+00:00",
     "link": "https://www.aljazeera.com/news/2026/3/22/casualties-as-israeli-settlers-set-fire-to-homes-and-cars-in-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "51d40189cd24",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T02:19",
-    "headline": "What we know about Iran’s latest attacks on Israel",
-    "excerpt": "Israel’s air defence system failed to stop at least two Iranian missile strikes on southern Israel.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-22T05:13:44.993261+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/what-we-know-about-irans-latest-attacks-on-israel?traffic_source=rss"
-  },
-  {
-    "id": "4dd4a479eaab",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T01:22",
-    "headline": "Will the Houthis join Iran in war against Israel and the US?",
-    "excerpt": "The Yemeni armed group says all options are on the table.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-22T05:13:44.993296+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/will-the-houthis-join-iran-in-war-against-israel-and-the-us?traffic_source=rss"
-  },
-  {
-    "id": "7bf59b1f749d",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T01:16",
-    "headline": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants",
-    "excerpt": "Iran responds to Trump&#039;s threat by saying all US energy infrastructure in the region will be targeted if it is attacked.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-22T05:13:44.993329+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants?traffic_source=rss"
   }
 ]
