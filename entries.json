@@ -1,5 +1,71 @@
 [
   {
+    "id": "13eb5ff3de01",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T08:31",
+    "headline": "Philippine transport strikers say Marcos Jr failing to control oil prices",
+    "excerpt": "Transport workers call on Philippines President Marcos Jr to focus on price caps and reining in oil companies.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-03-28T09:55:08.184158+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/3/28/philippine-transport-strikers-say-marcos-jr-failing-to-control-oil-prices?traffic_source=rss"
+  },
+  {
+    "id": "c763f76b2171",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T08:17",
+    "headline": "US-Israel war on Iran: What’s happening on day 29 of attacks?",
+    "excerpt": "Tensions continue to rise with Iran warning a &#039;heavy price&#039; will be paid after Israeli air attacks.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-28T09:55:08.184210+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss"
+  },
+  {
+    "id": "61dadb67108b",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T07:30",
+    "headline": "Yemen’s Houthis launch missile attack on Israel as war on Iran intensifies",
+    "excerpt": "Rebels say they fired a barrage of ballistic missiles targeting &#039;sensitive Israeli military sites&#039; in southern Israel.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-28T09:55:08.184243+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss"
+  },
+  {
+    "id": "9804b5609bcb",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T00:00",
+    "headline": "Iran war live: US-Israeli war on Iran widens with first attack from Yemen",
+    "excerpt": "Iranian Red Crescent says more than 92,600 civilian units have been damaged across the country in US-Israeli attacks.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-28T09:55:08.184295+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss"
+  },
+  {
+    "id": "2fdbc9c3c1de",
+    "source": "PressTV",
+    "date": "2026-03-28T09:55",
+    "headline": "Yemen officially joins fight against US, Israel by firing missiles at occupied territories",
+    "excerpt": "The Yemeni Armed Forces says it has officially joined the war against the US-Israeli front in support of the Islamic Republic of Iran and the Resistance Front in Lebanon, Iraq, and Palestine.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-28T09:55:10.521530+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/28/765953/Yemen-officially-joins-war-against-US-Israeli-aggression"
+  },
+  {
+    "id": "09513c2c18c1",
+    "source": "PressTV",
+    "date": "2026-03-28T09:55",
+    "headline": "Russia warns of consequences of US-Israeli strikes on Bushehr nuclear site",
+    "excerpt": "Russia’s permanent representative to international agencies in Vienna has condemned US-Israeli attacks on the Bushehr nuclear site.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-28T09:55:10.521598+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/28/765956/Russia-condemns-Israel-US-strikes-on-Bushehr-nuclear-sites-warns-against-future-attacks"
+  },
+  {
     "id": "172242abe155",
     "source": "Al Jazeera",
     "date": "2026-03-28T07:34",
@@ -5432,71 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-03-21T13:55:29.441056+00:00",
     "link": "https://presstv.ir/Detail/2026/03/21/765652/Conflicts-among-Muslim-nations-will-only-benefit-Israel-Pezeshkian"
-  },
-  {
-    "id": "77be4a8f7dba",
-    "source": "PressTV",
-    "date": "2026-03-21T13:55",
-    "headline": "IRGC deploys ‘new offensive tactics’ to wear down enemy forces in new wave of strikes",
-    "excerpt": "The IRGC has launched a new phase of retaliatory military action against the US and Israel, marking the start of a series of impactful operations in the battlefield",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-03-21T13:55:29.441097+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/21/765654/IRGC-deploys-new-offensive-tactics-to-wear-down-enemy-forces-in-new-wave-of-strikes%C2%A0"
-  },
-  {
-    "id": "aa7f09b319df",
-    "source": "PressTV",
-    "date": "2026-03-21T13:55",
-    "headline": "IRGC hits Israeli F-16 fighter jet with interceptor missile",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) says it has successfully intercepted a third Israeli fighter jet, an F-16, in the skies over central Iran.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-03-21T13:55:29.441115+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/21/765651/IRGC-targets-3rd-Israeli-fighter-jet-over-central-Iran"
-  },
-  {
-    "id": "3c3e9c29fee3",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T10:44",
-    "headline": "War spirals as information control tightens",
-    "excerpt": "From Washington to Tehran to Tel Aviv, the fight to control the narrative seems as critical as the war itself.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-21T11:48:36.980538+00:00",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/21/war-spirals-as-information-control-tightens?traffic_source=rss"
-  },
-  {
-    "id": "c5c9fd3ccc17",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T10:41",
-    "headline": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
-    "excerpt": "One police officer killed in strike by &#039;outlaw groups&#039; on headquarters of Iraqi National Intelligence Service.",
-    "category": "Missile/Drone",
-    "location": "Iraq",
-    "addedAt": "2026-03-21T11:48:36.980578+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/21/drone-strike-near-iraqi-intelligence-headquarters-in-baghdad-kills-officer?traffic_source=rss"
-  },
-  {
-    "id": "596287822eb3",
-    "source": "PressTV",
-    "date": "2026-03-21T11:48",
-    "headline": "Iran Army drones target Israeli military installations, fuel depots in occupied lands",
-    "excerpt": "The loitering attack drones of the Iranian Army have managed to strike Israeli military installations and fuel depots deep inside the occupied territories.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-21T11:48:38.649739+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/21/765649/Iran-Army-drones-target-Israeli-military-installations-fuel-depots-in-occupied-land"
-  },
-  {
-    "id": "0cea74bef94e",
-    "source": "PressTV",
-    "date": "2026-03-21T11:48",
-    "headline": "Iran fighting for security of region, Muslims: Military spokesperson",
-    "excerpt": "Lieutenant-Colonel Zolfaqari says Iran is fighting for the security of the entire region and all Muslims.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-21T11:48:38.649780+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/21/765643/Iranian-military-official-Resistance-key-to-defeating-enemies"
   }
 ]
