@@ -1,5 +1,60 @@
 [
   {
+    "id": "b115975701e3",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T16:16",
+    "headline": "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour",
+    "excerpt": "Kyiv has sought to leverage its expertise in downing Russian drones to help Gulf nations.",
+    "category": "Missile/Drone",
+    "location": "Qatar",
+    "addedAt": "2026-03-28T17:05:07.958919+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/28/zelenskyy-signs-air-defence-deals-with-uae-qatar-on-gulf-tour?traffic_source=rss"
+  },
+  {
+    "id": "d6d44d7e75b1",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T15:45",
+    "headline": "Israeli forces intensify attacks on Beirut",
+    "excerpt": "Israeli forces launched renewed attacks in southern Beirut, as the UN warns of an imminent humanitarian catastrophe.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-03-28T17:05:07.958963+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/israeli-forces-intensify-attacks-on-beirut?traffic_source=rss"
+  },
+  {
+    "id": "4da55f4dc63d",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T15:40",
+    "headline": "Three journalists killed in Israeli strike on marked press car in Lebanon",
+    "excerpt": "Lebanon&#039;s president condemns &#039;blatant crime&#039;, as Israeli strikes kill more journalists.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-03-28T17:05:07.958991+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/28/three-journalists-killed-in-israeli-strike-on-marked-press-car-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "6d81b6ee9459",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T15:39",
+    "headline": "One month in, disapproval high but US lawmakers take no action on Iran war",
+    "excerpt": "Republicans and Democrats remain entrenched despite public polling showing dismay over war, petrol prices.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-28T17:05:07.959048+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/28/one-month-in-disapproval-high-but-us-lawmakers-take-no-action-on-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "56c557c1a286",
+    "source": "PressTV",
+    "date": "2026-03-28T17:05",
+    "headline": "Israel rations advanced interceptors amid relentless Iranian missile barrages: Report",
+    "excerpt": "Iran’s retaliatory missile strikes have strained Israel’s air defense systems, allowing more missiles to slip through, the Wall Street Journal says.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-28T17:05:09.893502+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/28/765982/Israel-rations-advanced-interceptors-amid-relentless-Iranian-missile-barrages-Report"
+  },
+  {
     "id": "1e70599d714d",
     "source": "PressTV",
     "date": "2026-03-28T15:53",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-21T23:52:10.582852+00:00",
     "link": "https://presstv.ir/Detail/2026/03/21/765676/Iran-attacks-Dimona-Israel"
-  },
-  {
-    "id": "99f7d75b0487",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T22:43",
-    "headline": "WHO says attack on Sudan hospital killed 64, including 13 children",
-    "excerpt": "The attack on a teaching hospital in Al Deain, the capital of East Darfur state, has rendered the facility non-functiona",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-03-21T22:55:28.332089+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/21/who-says-attack-on-sudan-hospital-killed-64-including-13-children?traffic_source=rss"
-  },
-  {
-    "id": "4b1eb9a78bd3",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T22:02",
-    "headline": "State of emergency declared as Iranian missile hits Arad in southern Israel",
-    "excerpt": "A state of emergency has been declared in Arad, southern Israel after an Iranian missile strike.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-21T22:55:28.332123+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/state-of-emergency-declared-as-iranian-missile-hits-arad-in-southern-israel?traffic_source=rss"
-  },
-  {
-    "id": "d873f10ad748",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T21:37",
-    "headline": "US says it has crippled Iranian threat in Strait of Hormuz",
-    "excerpt": "The US says it hit Iranian coastal missile sites and infrastructure, crippling Tehran’s threat to the Strait of Hormuz.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-03-21T22:55:28.332152+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/us-says-it-has-crippled-iranian-threat-in-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "d48d007f2bbf",
-    "source": "PressTV",
-    "date": "2026-03-21T22:55",
-    "headline": "Skies of occupied territories 'defenseless'; time for Iran to level up retaliation: Parl. speaker",
-    "excerpt": "Iran's top legislator says reports of significant damage caused to Dimona after an Iranian missile strike point to practical disempowerment of the Israeli regime's defenses.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-21T22:55:30.198742+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/21/765676/Iran-attacks-Dimona-Israel"
-  },
-  {
-    "id": "c3f944b8a4aa",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T20:45",
-    "headline": "‘Tears and grief’: Mother’s Day in Gaza marked by mourning",
-    "excerpt": "Day of intense hardship as mothers mourn children lost in war and children face day without their mothers.",
-    "category": "Naval",
-    "location": "Gaza",
-    "addedAt": "2026-03-21T21:51:28.586418+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/21/tears-and-grief-mothers-day-in-gaza-marked-by-mourning?traffic_source=rss"
   }
 ]
