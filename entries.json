@@ -1,5 +1,49 @@
 [
   {
+    "id": "dfcf3bfabfaf",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T17:48",
+    "headline": "As war rages, Iranian politicians push for exit from nuclear weapons treaty",
+    "excerpt": "While US-Israeli attacks hit key infrastructure, hardliners demand withdrawal from Nuclear Non-Proliferation Treaty.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-03-28T18:03:03.811883+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss"
+  },
+  {
+    "id": "9957dccce762",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T17:48",
+    "headline": "France opens probe into suspected attack on Bank of America in Paris",
+    "excerpt": "Police arrest suspect before setting off explosive device outside US bank&#039;s headquarters.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-03-28T18:03:03.811935+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/28/france-opens-probe-into-suspected-attack-on-bank-of-america-in-paris?traffic_source=rss"
+  },
+  {
+    "id": "bc479229328f",
+    "source": "PressTV",
+    "date": "2026-03-28T18:03",
+    "headline": "Iran’s fierce response will accelerate collapse of Israeli army: Speaker",
+    "excerpt": "Iran’s Qalibaf says fierce response to Israeli aggression accelerates the collapse of the regime’s military.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-28T18:03:06.453553+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/28/765987/Iran-s-fierce-response-will-accelerate-collapse-of-Israeli-army-Speaker"
+  },
+  {
+    "id": "512c67a9c937",
+    "source": "PressTV",
+    "date": "2026-03-28T18:03",
+    "headline": "Bahraini youth tortured to death in custody over solidarity with Iran amid Israeli-US war",
+    "excerpt": "A young Bahraini man died in custody after being subjected to brutal torture when Al Khalifa regime agents failed to extract false confessions from him regarding Iran, according to local sources.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-28T18:03:06.453611+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/28/765986/bahraini-youth-death-custody-over-solidarity-iran-amid-israeli-us-war"
+  },
+  {
     "id": "b115975701e3",
     "source": "Al Jazeera",
     "date": "2026-03-28T16:16",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-22T05:13:44.993404+00:00",
     "link": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss"
-  },
-  {
-    "id": "6f0f7a396cd2",
-    "source": "PressTV",
-    "date": "2026-03-22T05:13",
-    "headline": "'Equations of war changing': IRGC says hundreds killed, injured in latest wave of Op. True Promise 4",
-    "excerpt": "The IRGC says hundreds have been either killed or wounded during the latest phase of its ongoing retaliatory Operation True Promise 4.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-03-22T05:13:46.651894+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/22/765677/Iran-war-Israel-Dimona-United-States"
-  },
-  {
-    "id": "9ff09ab39ba5",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T23:00",
-    "headline": "Saudi Arabia expels Iran military attache, four embassy staff",
-    "excerpt": "Move follows attack on Red Sea port of Yanbu, Saudi Arabia&#039;s main oil export outlet, after Iran blocked Hormuz Strait.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-21T23:52:08.955498+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/21/saudi-arabia-expels-iran-military-attache-and-four-team-members?traffic_source=rss"
-  },
-  {
-    "id": "2fe71f16c38c",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T22:57",
-    "headline": "Iran strikes towns near Israel’s nuclear site in escalating tit-for-tat",
-    "excerpt": "Iran targets Dimona and Arad, injuring nearly 100, in retaliation for an attack on its Natanz nuclear site.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-21T23:52:08.955550+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss"
-  },
-  {
-    "id": "f211a1e07409",
-    "source": "PressTV",
-    "date": "2026-03-21T23:52",
-    "headline": "Skies of occupied territories 'defenseless', says Speaker Qalibaf after Dimona strikes",
-    "excerpt": "Iran's top legislator says reports of significant damage caused to Dimona after an Iranian missile strike point to practical disempowerment of the Israeli regime's defenses.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-21T23:52:10.582852+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/21/765676/Iran-attacks-Dimona-Israel"
   }
 ]
