@@ -1,5 +1,71 @@
 [
   {
+    "id": "172242abe155",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T07:34",
+    "headline": "Trump claims Iran wants to ‘make a deal’",
+    "excerpt": "US President Donald Trump claimed Tehran is seeking a deal and praised the strength of the the US military.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-03-28T07:51:27.929802+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss"
+  },
+  {
+    "id": "93944207cd11",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T07:30",
+    "headline": "Yemen’s Houthis claim responsibility for a missile attack on Israel",
+    "excerpt": "This is a breaking news story.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-03-28T07:51:27.929838+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss"
+  },
+  {
+    "id": "00a019f0f653",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T04:59",
+    "headline": "Israel’s unending attacks in Lebanon push country’s population to the brink",
+    "excerpt": "Four weeks into the US-Israeli war on Iran, many in Lebanon are suffering under yet another Israeli aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-28T07:51:27.929878+00:00",
+    "link": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss"
+  },
+  {
+    "id": "19c437538804",
+    "source": "Al Jazeera",
+    "date": "2026-03-28T04:54",
+    "headline": "Uproar in Bahrain after detainee dies in police custody",
+    "excerpt": "Rights groups in Bahrain say a 32-year-old man, arrested for opposing the war on Iran, was killed in police custody.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-03-28T07:51:27.929901+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/uproar-in-bahrain-after-detainee-dies-in-police-custody?traffic_source=rss"
+  },
+  {
+    "id": "4c30b5717114",
+    "source": "PressTV",
+    "date": "2026-03-28T07:51",
+    "headline": "IRGC: Scores of US soldiers slain as tactical vessels targeted in Persian Gulf",
+    "excerpt": "Scores of US soldiers have been killed after the Islamic Revolution Guards Corps (IRGC) targeted six American tactical vessels in the Persian Gulf waters.",
+    "category": "Casualties",
+    "location": "Persian Gulf",
+    "addedAt": "2026-03-28T07:51:30.412877+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/28/765948/IRGC-Scores-US-soldiers-slain-tactical-vessels-targeted-Persian-Gulf"
+  },
+  {
+    "id": "4fa62a892d3b",
+    "source": "PressTV",
+    "date": "2026-03-28T07:51",
+    "headline": "Iran complains to UN: US-Israeli attack on fuel tanks blatant violation of international law",
+    "excerpt": "Iran’s Minister of Petroleum says a deliberate US-Israeli attack on fuel storage tanks constitutes a clear violation of international humanitarian law and multilateral environmental commitments.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-28T07:51:30.412929+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/28/765952/Iran-complains-UN-US-Israeli-attack-fuel-tanks-blatant-violation-international-humanitarian-law"
+  },
+  {
     "id": "503eb40d5b07",
     "source": "Al Jazeera",
     "date": "2026-03-28T04:15",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-21T11:48:38.649780+00:00",
     "link": "https://presstv.ir/Detail/2026/03/21/765643/Iranian-military-official-Resistance-key-to-defeating-enemies"
-  },
-  {
-    "id": "6ee90c47e847",
-    "source": "PressTV",
-    "date": "2026-03-21T10:57",
-    "headline": "Top Iraqi cleric slams US-Israeli aggression against Iran as unacceptable",
-    "excerpt": "A top Iraqi cleric condemns the US-Israeli aggression against Iran as unacceptable and inexcusable.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-21T10:57:58.144711+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/21/765645/Top-Iraqi-cleric-slams-US-Israeli-aggression-against-Iran-as-unacceptable"
-  },
-  {
-    "id": "24959735cf5e",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T09:31",
-    "headline": "Israel systematically torturing Palestinians in custody, says UN expert",
-    "excerpt": "Report by Francesca Albanese says &#039;torture in detention used on unprecedented scale as punitive collective vengeance&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-21T09:58:47.086311+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/21/israel-systematically-torturing-palestinians-in-custody-says-un-expert?traffic_source=rss"
-  },
-  {
-    "id": "5466a56e1387",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T09:07",
-    "headline": "Iran war: What’s happening on day 22 of US-Israel attacks?",
-    "excerpt": "As conflict enters week 4, here’s the latest on the US-Israel attack on Iran and across the Middle East.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-21T09:58:47.086366+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks?traffic_source=rss"
-  },
-  {
-    "id": "8aa92f88ed56",
-    "source": "Al Jazeera",
-    "date": "2026-03-21T00:00",
-    "headline": "Iran war live: US-Israel attack Natanz nuclear site; Diego Garcia targeted",
-    "excerpt": "Trump says Strait of Hormuz must be protected from Iranian attacks &#039;by other nations who use it&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-21T09:58:47.086413+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss"
-  },
-  {
-    "id": "657d23e1dd17",
-    "source": "PressTV",
-    "date": "2026-03-21T09:58",
-    "headline": "Putin wishes Iran happy New Year, describes Russia as Iran’s loyal ally",
-    "excerpt": "Vladimir Putin has wished Iranians a happy New Year the amid Israeli-US aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-21T09:58:48.783603+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/21/765640/Putin-wishes-Iran-happy-New-Year-describes-Russia-as-Iran-s-loyal-ally"
-  },
-  {
-    "id": "aed9f95511ef",
-    "source": "PressTV",
-    "date": "2026-03-21T09:58",
-    "headline": "Iranians mark Eid al Fitr with nationwide prayers",
-    "excerpt": "Tehran and cities across Iran saw large gatherings for Eid al Fitr prayers on Saturday morning, as worshippers united to celebrate the conclusion of Ramadan.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-03-21T09:58:48.783637+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/21/765642/Iranians-mark-Eid-al-Fitr-with-nationwide-prayers%C2%A0"
   }
 ]
