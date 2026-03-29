@@ -1,5 +1,38 @@
 [
   {
+    "id": "27613a2ab987",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T17:05",
+    "headline": "‘We can insure the ship, but we cannot insure a human life.’",
+    "excerpt": "International Maritime Organization chief Arsenio Dominguez warns of 20,000 seafarers stranded in the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-03-29T18:03:31.779108+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/we-can-insure-the-ship-but-we-cannot-insure-a-human-life?traffic_source=rss"
+  },
+  {
+    "id": "7a0db66e391d",
+    "source": "PressTV",
+    "date": "2026-03-29T18:03",
+    "headline": "US has no choice but to retreat from Iranian borders: Top commander",
+    "excerpt": "The IRGC Aerospace commander says Iran will continue to paralyze US radar networks and logistics until Washington is left with no choice but to retreat from the country’s borders.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-29T18:03:33.167215+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/29/766035/US-has-no-choice-but-to-retreat-from-Iranian-borders-Top-commander"
+  },
+  {
+    "id": "77be1c462d5d",
+    "source": "PressTV",
+    "date": "2026-03-29T18:03",
+    "headline": "Iran air defenses down US-made MQ-9 drone near Strait of Hormuz",
+    "excerpt": "Iran’s air defense forces have shot down an MQ-9 drone in the eastern vicinity of the Strait of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-29T18:03:33.167249+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/29/766037/Iran-air-defenses-down-US-made-MQ-9-drone-near-Strait-of-Hormuz"
+  },
+  {
     "id": "1eeb79a5ca77",
     "source": "Al Jazeera",
     "date": "2026-03-29T16:47",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-03-22T22:57:35.176279+00:00",
     "link": "https://www.aljazeera.com/sports/2026/3/22/vinicius-strikes-twice-as-real-madrid-edge-atletico-3-2-in-pulsating-derby?traffic_source=rss"
-  },
-  {
-    "id": "1bcd814be130",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T22:14",
-    "headline": "Who’s left running Iran?",
-    "excerpt": "Much of the top leadership has been eliminated, but the country is still fighting.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-03-22T22:57:35.176321+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/whos-left-running-iran?traffic_source=rss"
-  },
-  {
-    "id": "2a3bed3e517c",
-    "source": "PressTV",
-    "date": "2026-03-22T22:57",
-    "headline": "Iran’s armed forces affirm unwavering solidarity with people of Palestine",
-    "excerpt": "The Khatam al-Anbiya Central Headquarterson Sunday night delivered a heartfelt message reaffirming the Islamic Republic's steadfast support for the Palestinian nation, particularly the resilient people of Gaza.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-03-22T22:57:41.369097+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/22/765717/Iran%E2%80%99s-armed-forces-affirm-unwavering-solidarity-with-Palestine"
-  },
-  {
-    "id": "711ee16b7430",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T20:33",
-    "headline": "Displaced families shelter in tents in Beirut amid Israeli strikes",
-    "excerpt": "Families displaced by Israeli strikes are sheltering in tents across Beirut, as rain falls.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-22T20:57:27.626280+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/displaced-families-shelter-in-tents-in-beirut-amid-israeli-strikes?traffic_source=rss"
   }
 ]
