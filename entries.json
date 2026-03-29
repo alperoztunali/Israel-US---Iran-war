@@ -1,5 +1,49 @@
 [
   {
+    "id": "0bb494cd65ea",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T22:46",
+    "headline": "How will the Houthis’ involvement shape the war?",
+    "excerpt": "The Yemeni group has launched missiles towards Israel in support of Iran.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-29T23:51:47.037878+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/3/29/how-will-the-houthis-involvement-shape-the-war?traffic_source=rss"
+  },
+  {
+    "id": "42ddcb847bd2",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T22:44",
+    "headline": "European nations criticise Israel’s death penalty plans",
+    "excerpt": "France, Germany, Italy and the United Kingdom raise concern over &#039;de facto discriminatory character of the bill.&#039;",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-29T23:51:47.037931+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/29/european-nations-criticise-israels-death-penalty-plans?traffic_source=rss"
+  },
+  {
+    "id": "c12eba34e26b",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T22:36",
+    "headline": "Iran accuses US of plotting ground attack, as Israel steps up bombardment",
+    "excerpt": "Power being restored after Iran&#039;s Ministry of Energy reported outages in the capital, Tehran following attacks.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-03-29T23:51:47.037956+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/29/iran-accuses-us-of-plotting-ground-attack-as-israel-steps-up-bombardment?traffic_source=rss"
+  },
+  {
+    "id": "9798c19917af",
+    "source": "PressTV",
+    "date": "2026-03-29T23:51",
+    "headline": "IRGC: Painful attacks on US-Israeli industrial targets to continue",
+    "excerpt": "A senior Iranian military commander has stated that the Islamic Republic’s retaliatory operations against the American-Israeli enemy are underway and intensifying following repeated aggressions on Iranian infrastructure.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-29T23:51:49.087983+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/29/766044/IRGC--Painful-attacks-on-US-Israeli-industrial-targets-to-continue"
+  },
+  {
     "id": "2ed5ff81bc56",
     "source": "Al Jazeera",
     "date": "2026-03-29T21:01",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-23T09:16:10.339324+00:00",
     "link": "https://www.aljazeera.com/video/quotable/2026/3/23/china-is-playing-the-long-game-in-iran-war-by-staying-neutral?traffic_source=rss"
-  },
-  {
-    "id": "a2bb42cf1135",
-    "source": "Al Jazeera",
-    "date": "2026-03-23T08:07",
-    "headline": "Iran war: What’s happening on day 24 of US-Israel attacks?",
-    "excerpt": "The region is on edge as Trump&#039;s deadline for Iran to reopen the Strait of Hormuz or face attacks on power plants nears.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-03-23T09:16:10.339353+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks?traffic_source=rss"
-  },
-  {
-    "id": "efdbe513e6f9",
-    "source": "Al Jazeera",
-    "date": "2026-03-23T07:39",
-    "headline": "IEA chief warns of ‘very severe’ global energy crisis",
-    "excerpt": "IEA may release more oil as the Iran war hits supply, with chief Fatih Birol warning of a severe global energy crisis.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-23T09:16:10.339389+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/iea-chief-warns-of-very-severe-global-energy-crisis?traffic_source=rss"
-  },
-  {
-    "id": "883f146f91af",
-    "source": "Al Jazeera",
-    "date": "2026-03-23T07:34",
-    "headline": "Rescue teams brave fire in suspected attack on Gaza City residential area",
-    "excerpt": "Rescue teams headed to the site of a suspected Israeli attack in Gaza City to control the blaze.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-23T09:16:10.339425+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/rescue-teams-brave-fire-in-suspected-attack-on-gaza-city-residential-area?traffic_source=rss"
-  },
-  {
-    "id": "34dab4919e69",
-    "source": "Al Jazeera",
-    "date": "2026-03-23T07:07",
-    "headline": "World in energy crisis worse than 1970s’ oil shocks combined, IEA head says",
-    "excerpt": "Energy crunch prompted by Iran war poses &#039;major threat&#039; to global economy, Fatih Birol says.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-23T09:16:10.339462+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/3/23/world-in-energy-crisis-worse-than-1970s-oil-shocks-combined-iea-head-says?traffic_source=rss"
   }
 ]
