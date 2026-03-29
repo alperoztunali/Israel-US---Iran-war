@@ -1,5 +1,38 @@
 [
   {
+    "id": "1eeb79a5ca77",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T16:47",
+    "headline": "Houthis open new front against Israel, is Red Sea shipping at risk?",
+    "excerpt": "The Houthis in Yemen have launched their first attacks on Israel, opening a new front in the month-long regional war.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-03-29T17:05:58.092929+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/houthis-open-new-front-against-israel-is-red-sea-shipping-at-risk?traffic_source=rss"
+  },
+  {
+    "id": "208cbee6f633",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T16:06",
+    "headline": "Iran hits industrial zone in southern Israel",
+    "excerpt": "An Iranian missile barrage has caused a fire a chemical plant near Beersheba in southern Israel.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-29T17:05:58.092963+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss"
+  },
+  {
+    "id": "cdaf720361b7",
+    "source": "PressTV",
+    "date": "2026-03-29T17:05",
+    "headline": "Ayatollah Khamenei hails ‘explicit’ stance of Iraqi top clerics, nation on Iran war",
+    "excerpt": "Ayatollah Mojtaba Khamenei appreciates Iraqi religious authority and nation’s explicit stance on the US-Israeli war against the Islamic Republic.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-29T17:05:59.636010+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/29/766034/Ayatollah-Seyyed-Mojtaba-Khamenei-"
+  },
+  {
     "id": "c2c51ed2f015",
     "source": "Al Jazeera",
     "date": "2026-03-29T15:26",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-03-22T20:57:27.626280+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/displaced-families-shelter-in-tents-in-beirut-amid-israeli-strikes?traffic_source=rss"
-  },
-  {
-    "id": "b2576a8abd93",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T20:28",
-    "headline": "Emerging from latest blackout, Cuba says ready for any potential US attack",
-    "excerpt": "Trump, who cut off oil supplies to Cuba after abducting Venezuela&#039;s Maduro, has threatened to take over the nation.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-03-22T20:57:27.626334+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/22/emerging-from-latest-blackout-cuba-says-ready-for-any-potential-us-attack?traffic_source=rss"
-  },
-  {
-    "id": "7a2c3028670d",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T20:17",
-    "headline": "Israeli air strikes on Gaza kill four Palestinians",
-    "excerpt": "Strikes intensify across Gaza as health officials say 680 Palestinians have been killed since October&#039;s &#039;ceasefire&#039;.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-03-22T20:57:27.626359+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/22/israeli-air-strikes-on-gaza-kill-four-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "29c1bfac0d94",
-    "source": "PressTV",
-    "date": "2026-03-22T20:57",
-    "headline": "Iran: ‘Purchase US Treasury bonds, and you purchase a strike on your headquaters’",
-    "excerpt": "Ghalibaf condemned US Treasury bonds as instruments \"soaked in Iranians' blood,\" saying that purchasing or holding such bonds equates to directly supporting attacks on Iranian lives and territory.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-22T20:57:29.371457+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/22/765713/Iran--%E2%80%98Purchase-US-Treasury-bonds,-and-you-purchase-a-strike-on-your-headquaters%E2%80%99"
   }
 ]
