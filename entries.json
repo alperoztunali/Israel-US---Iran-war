@@ -1,5 +1,49 @@
 [
   {
+    "id": "086d694e1133",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T20:31",
+    "headline": "IRGC spokesperson says Trump ‘only understands the language of force’",
+    "excerpt": "IRGC spokesperson Ebrahim Zolfaghari dismisses threats of US ground operations.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-03-29T21:03:40.203316+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/irgc-spokesperson-says-trump-only-understands-the-language-of?traffic_source=rss"
+  },
+  {
+    "id": "b244d340b972",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T20:11",
+    "headline": "Qatari TV station hit in Iran",
+    "excerpt": "Qatar’s Al Araby network condemns an attack on its office in Tehran, which injured at least 10 people.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-03-29T21:03:40.203355+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "daf47e5afe33",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T19:36",
+    "headline": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
+    "excerpt": "Lebanese Christians mark Palm Sunday with prayers, stressing shared hardships for all communities amid Israel&#039;s war.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-03-29T21:03:40.203387+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss"
+  },
+  {
+    "id": "8dfe2764ac3f",
+    "source": "PressTV",
+    "date": "2026-03-29T21:03",
+    "headline": "True Promise 4: Iran and resistance axis ops. against US-Israeli assets on Mar. 29",
+    "excerpt": "Iranian armed forces and resistance groups across the region continued their retaliatory military operations against the US and the Israeli regime on Sunday, March 29.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-03-29T21:03:42.508965+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/29/766043/true-promise-4-iran-resistance-axis-ops-against-us-israeli-sites-mar-29"
+  },
+  {
     "id": "2c11f9f52fe8",
     "source": "Al Jazeera",
     "date": "2026-03-29T19:22",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-23T09:16:12.046656+00:00",
     "link": "https://presstv.ir/Detail/2026/03/23/765720/Iran-condemns-Jordan-s-role-in-US-Israeli-aggression-demands-accountability-at-UN"
-  },
-  {
-    "id": "6eee16cedbd9",
-    "source": "PressTV",
-    "date": "2026-03-23T09:16",
-    "headline": "'Enough is enough': Senators urge 'panicked' Trump to end aggression on Iran",
-    "excerpt": "Two senators say Trump has lost control of the war and must end the aggression against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-23T09:16:12.046681+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/23/765721/Enough-is-enough-Senators-urge-panicked-Trump-to-end-aggression-on-Iran"
-  },
-  {
-    "id": "ce9e8ef71288",
-    "source": "PressTV",
-    "date": "2026-03-23T09:16",
-    "headline": "In letters, Iran urges ICC, relevant intl. bodies to slam US-Israel military aggression",
-    "excerpt": "The IRSC deputy head says Iran has in 16 letters urged the ICC and other relevant bodies to condemn the US-Israel war of aggression.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-23T09:16:12.046709+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/23/765722/In-letters-Iran-urges-ICC-relevant-intl-bodies-to-slam-US-Israel-military-aggression"
-  },
-  {
-    "id": "41d61f2ca88d",
-    "source": "Al Jazeera",
-    "date": "2026-03-23T04:54",
-    "headline": "Brothers search rubble for missing sibling under Tehran rubble after strike",
-    "excerpt": "Five days after a strike destroyed a building in Tehran, Mahdi Mirzahosseini’s brothers are still searching for him.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-23T05:50:16.645298+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/brothers-search-rubble-for-missing-sibling-under-tehran-rubble-after-strike?traffic_source=rss"
-  },
-  {
-    "id": "151075ebbf40",
-    "source": "Al Jazeera",
-    "date": "2026-03-23T03:19",
-    "headline": "Immense damage seen in Iran’s streets after air strikes",
-    "excerpt": "Videos show the aftermath of strikes in Iran, as search teams recover bodies from rubble.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-03-23T05:50:16.645338+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/immense-damage-seen-in-irans-streets-after-air-strikes?traffic_source=rss"
   }
 ]
