@@ -1,5 +1,93 @@
 [
   {
+    "id": "c2c51ed2f015",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T15:26",
+    "headline": "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday",
+    "excerpt": "Since the US and Israel launched a war on Iran, Israel has closed holy sites in Jerusalem, citing safety concerns.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-29T15:51:01.600673+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/29/israeli-police-block-catholic-cardinal-from-holy-sepulchre-on-palm-sunday?traffic_source=rss"
+  },
+  {
+    "id": "a5c31da7698f",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T15:25",
+    "headline": "Funeral held for Lebanese journalists killed in Israeli strike",
+    "excerpt": "Hundreds gathered in Beirut’s southern suburbs for the funeral of three Lebanese journalists killed by Israel.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-03-29T15:51:01.600740+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/funeral-held-for-lebanese-journalists-killed-in-israeli-strike?traffic_source=rss"
+  },
+  {
+    "id": "53fc80ef9230",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T15:09",
+    "headline": "Houthis open new front in Iran war: Will Yemeni group block Bab al-Mandeb?",
+    "excerpt": "Blockade of strait, one of the world&#039;s busiest maritime routes, would prove disastrous for global economy.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-29T15:51:01.600783+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/29/houthis-open-new-front-in-iran-war-will-yemeni-group-block-bab-al-mandeb?traffic_source=rss"
+  },
+  {
+    "id": "e6984f92f422",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T14:44",
+    "headline": "How the US memeifies its war on Iran",
+    "excerpt": "Al Jazeera’s Linh Nguyen explains the new era of war propaganda.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-29T15:51:01.600818+00:00",
+    "link": "https://www.aljazeera.com/video/digital-dilemma/2026/3/29/how-the-us-memeifies-its-war-on?traffic_source=rss"
+  },
+  {
+    "id": "33e39d64bd19",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T14:35",
+    "headline": "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks",
+    "excerpt": "Foreign ministers meet in Islamabad, seeking to de-escalate the US-Israel war on Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-03-29T15:51:01.600855+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/29/pakistan-maintains-delicate-balancing-act-as-it-hosts-iran-talks?traffic_source=rss"
+  },
+  {
+    "id": "1f55166d21ae",
+    "source": "Al Jazeera",
+    "date": "2026-03-29T14:26",
+    "headline": "‘Nowhere is really safe’: Iranian dissidents grapple with US war in Iran",
+    "excerpt": "Critics of Iran&#039;s government say they fear retribution while in exile, as well as growing anti-immigrant sentiment.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-29T15:51:01.600898+00:00",
+    "link": "https://www.aljazeera.com/features/longform/2026/3/29/nowhere-is-really-safe-iranian-dissidents-grapple-with-us-war-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "acea7e691cd1",
+    "source": "PressTV",
+    "date": "2026-03-29T15:51",
+    "headline": "Iran Army launches drone strikes on US forces in Jordan",
+    "excerpt": "The Iranian Army has announced that it carried out drone strikes targeting US military positions in Jordan.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-29T15:51:03.943174+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/29/766031/Iran-Army-launches-drone-strikes-on-US-forces-in-Jordan"
+  },
+  {
+    "id": "b78b1bbc4b41",
+    "source": "PressTV",
+    "date": "2026-03-29T15:51",
+    "headline": "‘Regime change begins at home’: No Kings, No War protests held across US",
+    "excerpt": "Millions of people across all 50 US states joined more than 3,300 coordinated demonstrations, voicing their opposition to the ongoing US-Israeli military aggression against Iran and other grievances triggered by the aggressive policies of the Donald Trump administration.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-29T15:51:03.943233+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/29/766030/%E2%80%98Regime-change-begins-at-home%E2%80%99--No-Kings,-No-War-protests-held-across-US"
+  },
+  {
     "id": "17f5195b12b3",
     "source": "Al Jazeera",
     "date": "2026-03-29T13:42",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-22T20:57:29.371457+00:00",
     "link": "https://presstv.ir/Detail/2026/03/22/765713/Iran--%E2%80%98Purchase-US-Treasury-bonds,-and-you-purchase-a-strike-on-your-headquaters%E2%80%99"
-  },
-  {
-    "id": "52e42f39541c",
-    "source": "PressTV",
-    "date": "2026-03-22T20:57",
-    "headline": "True Promise 4: Iran and resistance axis ops. against US-Israeli assets on Mar. 22",
-    "excerpt": "Iranian armed forces and resistance groups across the region continued their retaliatory military operations against the US and the Israeli regime on Sunday, March 22.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-03-22T20:57:29.371495+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/22/765712/true-promise-4-iran-resistance-axis-ops-against-us-israeli-sites-mar-22"
-  },
-  {
-    "id": "9324f968aefb",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T19:35",
-    "headline": "Israeli settlers violently storm through occupied West Bank",
-    "excerpt": "Dozens of Israeli settlers stormed a Palestinian village near Nablus during Eid al-Fitr, torching homes and vehicles.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-22T19:56:29.592115+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israeli-settlers-violently-storm-through-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "a003d2190d9f",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T19:21",
-    "headline": "Israel vows to escalate campaign against Hezbollah in Lebanon",
-    "excerpt": "Israel says it will escalate operations against Hezbollah in Lebanon, targeting bridges over the Litani River.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-22T19:56:29.592161+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israel-vows-to-escalate-campaign-against-hezbollah-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "7ef940ca0dc5",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T18:48",
-    "headline": "Lebanon’s Aoun warns Israeli attack on bridge ‘prelude to ground invasion’",
-    "excerpt": "Israeli army chief says the operation against Hezbollah &quot;has only begun&quot; and would be &quot;prolonged&quot;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-22T19:16:11.136182+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/22/lebanons-aoun-calls-israel-strikes-on-bridges-prelude-to-ground-invasion?traffic_source=rss"
-  },
-  {
-    "id": "df6331fb2c2c",
-    "source": "PressTV",
-    "date": "2026-03-22T19:16",
-    "headline": "Iran says US, Israel must pay reparations for attacks on nuclear sites",
-    "excerpt": "Araghchi tells the UN that the US and Israel must pay full reparations for their attacks on Iran's nuclear sites.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-22T19:16:12.563956+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/22/765709/Iran-says-US-Israel-must-pay-reparations-for-attacks-on-nuclear-sites"
-  },
-  {
-    "id": "4e012c8324c1",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T17:09",
-    "headline": "‘We do it together, in confidence’: Netanyahu backs US strikes on Iran",
-    "excerpt": "Benjamin Netanyahu has vowed to back US strikes on Iran’s power grid if Tehran does not reopen the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-22T17:55:25.510929+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/we-do-it-together-in-confidence-netanyahu-backs-us-strikes-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "bfa10623adac",
-    "source": "Al Jazeera",
-    "date": "2026-03-22T16:52",
-    "headline": "‘Risk of escalation is extremely high as Iran shows it can retaliate’",
-    "excerpt": "‘The Iranians are indeed retaliating against everything that the Israelis and Americans are hitting’",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-22T17:55:25.510980+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/3/22/risk-of-escalation-is-extremely-high-as-iran-shows-it-can?traffic_source=rss"
-  },
-  {
-    "id": "b47e825a2b6b",
-    "source": "PressTV",
-    "date": "2026-03-22T17:55",
-    "headline": "Iran says 210 children killed, 300 medical centers damaged in US-Israeli attacks",
-    "excerpt": "Iran’s minister of health says at least 210 children have lost their lives, and over 1,510 have been injured in US-Israeli attacks across the country.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-03-22T17:55:28.115177+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/22/765706/Iran-says-210-children-killed-300-medical-centers-damaged-in-US-Israeli-attacks%C2%A0"
   }
 ]
