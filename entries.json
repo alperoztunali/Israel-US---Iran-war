@@ -1,5 +1,104 @@
 [
   {
+    "id": "e30bdfa8e4d4",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T21:29",
+    "headline": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
+    "excerpt": "Rights groups denounce Israeli legislation as a violation of international law that puts Palestinian prisoners at risk.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-30T22:05:49.998386+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law?traffic_source=rss"
+  },
+  {
+    "id": "946b2f0e4b32",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T21:20",
+    "headline": "UN condemns killing of Indonesian peacekeepers in Lebanon",
+    "excerpt": "The UN condemned the deaths of three Indonesian peacekeepers in Lebanon, who were killed in two separate incidents.",
+    "category": "Casualties",
+    "location": "Lebanon",
+    "addedAt": "2026-03-30T22:05:49.998427+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "b48d37c184e4",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T21:10",
+    "headline": "Israeli Knesset approves death penalty for Palestinians",
+    "excerpt": "Israel’s parliament has approved a law allowing the death penalty for Palestinians convicted of killing Israelis.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-30T22:05:49.998467+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/israeli-knesset-approves-death-penalty-for-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "d462fe2c007e",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T21:03",
+    "headline": "The war in Iran: Key takeaways from Al Jazeera’s interview with Marco Rubio",
+    "excerpt": "US Secretary of State Marco Rubio spoke to Al Jazeera’s Hashem Ahelbarra about Iran war objectives.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-30T22:05:49.998505+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/30/the-war-in-iran-key-takeaways-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss"
+  },
+  {
+    "id": "36219c8467cb",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T20:56",
+    "headline": "‘We have to destroy Iran’s ability to launch missiles’, Rubio says",
+    "excerpt": "Secretary of State Marco Rubio says the key to regional stability is eliminating Iran’s ability to launch missiles.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-03-30T22:05:49.998530+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/we-have-to-destroy-irans-ability-to-launch-missiles-rubio-says?traffic_source=rss"
+  },
+  {
+    "id": "ef57946bd249",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T20:50",
+    "headline": "Israel’s parliament passes death penalty bill targeting Palestinians",
+    "excerpt": "Palestinian Authority calls the bill a &#039;war crime&#039; against Palestinians, says it breaches the Fourth Geneva Convention.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-30T22:05:49.998572+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/30/israel-passes-discriminatory-death-penalty-bill-targeting-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "321392c61bf6",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T20:32",
+    "headline": "Rubio says NATO must be re-examined after Spain blocks US operation on Iran",
+    "excerpt": "Marco Rubio said it was “very disappointing” that NATO allies blocked the use of their bases for the US&#039;s war on Iran.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-03-30T22:05:49.998610+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/rubio-says-nato-must-be-re-examined-after-spain-blocks-us-operation-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "941fcca6a56a",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T18:11",
+    "headline": "Two more UN peacekeepers killed in explosion in southern Lebanon: UNIFIL",
+    "excerpt": "At least three UN peacekeepers killed this week as violence surges amid Israel&#039;s expanding invasion of southern Lebanon.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-03-30T22:05:49.998649+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/30/two-more-un-peacekeepers-killed-in-southern-lebanon-unifil?traffic_source=rss"
+  },
+  {
+    "id": "faca84a45b78",
+    "source": "PressTV",
+    "date": "2026-03-30T22:05",
+    "headline": "Iran FM calls Saudi Arabia brotherly nation, urges expulsion of US forces",
+    "excerpt": "Iranian Foreign Minister Seyed Abbas Araghchi emphasized Iran’s commitment to solidarity among Muslim nations and its unwavering focus on defending sovereignty against those who sow instability.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-03-30T22:05:55.427665+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/30/766096/Iran-FM-calls-Saudi-Arabia-brotherly-nation,-urges-expulsion-of-US-forces"
+  },
+  {
     "id": "e4436b54179a",
     "source": "Al Jazeera",
     "date": "2026-03-30T19:19",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-24T11:12:09.118356+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/deadly-air-attack-hits-pro-iran-popular-mobilisation-forces-in-iraq?traffic_source=rss"
-  },
-  {
-    "id": "76baa4310577",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T08:38",
-    "headline": "Al Jazeera reports from scene of attack on Tehran residential area",
-    "excerpt": "Al Jazeera reports from scene of attack on Tehran residential area",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-24T11:12:09.118386+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/al-jazeera-reports-from-scene-of-attack-on-tehran-residential-area?traffic_source=rss"
-  },
-  {
-    "id": "bda01fad7a76",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T08:14",
-    "headline": "Despite Trump’s peace talk claims, US-Israeli attacks continue to hit Iran",
-    "excerpt": "Huge explosions were heard in Tehran and other cities, as Iran denied it held talks with the US to end the war.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-03-24T11:12:09.118430+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/24/despite-trumps-peace-talk-claims-us-israeli-attacks-continue-to-hit-iran?traffic_source=rss"
-  },
-  {
-    "id": "d0653ec020d8",
-    "source": "PressTV",
-    "date": "2026-03-24T11:12",
-    "headline": "Mohammad Baqer Zolqadr appointed new head of Iran's Supreme National Security Council",
-    "excerpt": "Veteran military commander and strategist Mohammad Baqer Zolqadr has been appointed as the new head of Iran’s Supreme National Security Council.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-24T11:12:10.587675+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/24/765783/mohammad-baqer-zolqadr-appointed-new-head-iran-supreme-national-security-council"
-  },
-  {
-    "id": "a7987e651387",
-    "source": "PressTV",
-    "date": "2026-03-24T11:12",
-    "headline": "Iran warns any strike on infrastructure to leave US forces 'paralyzed', sunk",
-    "excerpt": "A senior Iranian official warns any attack on the country’s infrastructure would result in a devastating response that would paralyze the enemy and sink its forces in the Persian Gulf.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-03-24T11:12:10.587721+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/24/765776/Iran-warns-any-strike-on-infrastructure-to-leave-US-forces-paralyzed"
-  },
-  {
-    "id": "d854ffe510bf",
-    "source": "PressTV",
-    "date": "2026-03-24T11:12",
-    "headline": "Iran arrests over 90 operatives linked to ‘Iran International’ network amid Israeli-US war: Sources",
-    "excerpt": "Iranian security forces have arrested more than 90 individuals with ties to the London-based \"Iran International\" network, knowledgeable sources told Press TV on Tuesday.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-03-24T11:12:10.587756+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/24/765779/iran-arrests-over-90-operatives-linked-iran-intl-network-amid-israeli-us-war"
-  },
-  {
-    "id": "6c925cc454a2",
-    "source": "PressTV",
-    "date": "2026-03-24T11:12",
-    "headline": "Israeli Knesset session suspended as Iran launches massive missile barrage",
-    "excerpt": "Iranian missile strikes triggered widespread panic across occupied territories early Tuesday, forcing the suspension of a Knesset session.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-24T11:12:10.587773+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/24/765780/Israeli-regime-Knesset-session-suspended-Iran-launches-massive-missile-barrage"
-  },
-  {
-    "id": "26d6fb5cf02b",
-    "source": "PressTV",
-    "date": "2026-03-24T11:12",
-    "headline": "Iranian Red Crescent calls on WHO to condemn, act against US-Israeli strikes on medical infrastructu",
-    "excerpt": "Iranian Red Crescent Society has called on the World Health Organization to condemn the US-Israeli strikes on Iran’s medical infrastructure, urging swift action to halt the aggression.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-24T11:12:10.587809+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/24/765782/iranian-red-crescent-calls-who-condemn-act-against-us-israeli-strikes-medical-infrastructure"
-  },
-  {
-    "id": "242ddc6abc80",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T07:28",
-    "headline": "Top EU official calls for negotiations with Iran and an end to war",
-    "excerpt": "European Commission President Ursula Von der Leyen has called for negotiations with Iran and an end to hostilities.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-24T08:06:17.441960+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/top-eu-official-calls-for-negotiations-with-iran-and-an-end-to-war?traffic_source=rss"
-  },
-  {
-    "id": "19e6db8ff483",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T07:13",
-    "headline": "Where do reported US-Iran ‘negotiations’ leave Israel?",
-    "excerpt": "Israeli analysts describe confusion as US President Trump unexpectedly shifts from threatened strikes on Iran to talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-03-24T08:06:17.442009+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/24/where-do-us-iran-negotiations-leave-israel?traffic_source=rss"
   }
 ]
