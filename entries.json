@@ -1,5 +1,71 @@
 [
   {
+    "id": "5a27c7aa2150",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T23:21",
+    "headline": "US raises concern over Israel’s closure of Jerusalem holy sites",
+    "excerpt": "The White House says the US has raised concerns with Israel over closure of Jerusalem holy sites.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-30T23:57:46.999968+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/us-raises-concern-over-israels-closure-of-jerusalem-holy-sites?traffic_source=rss"
+  },
+  {
+    "id": "7ef6dab67210",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T23:12",
+    "headline": "Iran’s foreign ministry rejects US ceasefire demands",
+    "excerpt": "Iranian Foreign Ministry spokesman says US conditions for a ceasefire are ‘excessive, unrealistic and unreasonable’.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-03-30T23:57:47.000016+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-rejects-us-ceasefire-demands?traffic_source=rss"
+  },
+  {
+    "id": "ee463638dad1",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T22:33",
+    "headline": "Key moments from Marco Rubio’s interview with Al Jazeera",
+    "excerpt": "US Secretary of State Marco Rubio spoke exclusively to Al Jazeera’s Hashem Ahelbarra about the war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-30T23:57:47.000055+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss"
+  },
+  {
+    "id": "7436da33723c",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T22:16",
+    "headline": "Is a peaceful settlement possible in Iran?",
+    "excerpt": "Pakistan says it is ready to host talks on ending the US-Israel war on Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-03-30T23:57:47.000086+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/3/30/is-a-peaceful-settlement-possible-in-iran-2?traffic_source=rss"
+  },
+  {
+    "id": "3974a96eea16",
+    "source": "Al Jazeera",
+    "date": "2026-03-30T22:14",
+    "headline": "US says Trump ‘interested’ in asking Arab countries to pay for war on Iran",
+    "excerpt": "White House&#039;s Karoline Leavitt says passing the conflict&#039;s costs off to regional states is &#039;an idea&#039; Donald Trump has.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-30T23:57:47.000126+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/30/us-says-trump-interested-in-asking-arab-countries-to-pay-for-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "01336b0980c0",
+    "source": "PressTV",
+    "date": "2026-03-30T23:57",
+    "headline": "IRGC commander praises Yemen’s resistance for forcing USS Gerald Ford into humiliating retreat",
+    "excerpt": "Brigadier General Esmail Qa’ani said on Monday that the Islamic Resistance of Yemen forced the US aircraft carrier Gerald Ford into humiliating retreat.",
+    "category": "Naval",
+    "location": "Yemen",
+    "addedAt": "2026-03-30T23:57:48.868030+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/30/766098/IRGC-commander-praises-Yemen%E2%80%99s-resistance-for-forcing-USS-Gerald-Ford-into-humiliating-retreat"
+  },
+  {
     "id": "e30bdfa8e4d4",
     "source": "Al Jazeera",
     "date": "2026-03-30T21:29",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-24T14:45:33.291838+00:00",
     "link": "https://presstv.ir/Detail/2026/03/24/765782/iranian-red-crescent-calls-who-condemn-act-against-us-israeli-strikes-medical-infrastructure"
-  },
-  {
-    "id": "391a5e4b01b5",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T10:39",
-    "headline": "Amazon says AWS Bahrain region ‘disrupted’ following drone activity",
-    "excerpt": "The disruption marks the second time in a month that AWS operations have been affected by the Iran war.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-24T11:12:09.118175+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/24/amazon-says-aws-bahrain-region-disrupted-following-drone-activity?traffic_source=rss"
-  },
-  {
-    "id": "9bcbb32a497e",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T10:05",
-    "headline": "Iran launches waves of missiles towards Israel",
-    "excerpt": "Israel’s Magen David Adom emergency medical service said &#039;six people were lightly injured&#039; in the missile strikes.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-24T11:12:09.118225+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/3/24/iran-launches-waves-of-missiles-towards-israel?traffic_source=rss"
-  },
-  {
-    "id": "29d9c3af3b6d",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T09:54",
-    "headline": "Iran says no talks with US, calls Trump statements a ‘bluff’",
-    "excerpt": "Iranian officials have dismissed statements by Trump as a ‘bluff’, denying any direct or indirect talks with the US.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-03-24T11:12:09.118267+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/iran-says-no-talks-with-us-calls-trump-statements-a?traffic_source=rss"
-  },
-  {
-    "id": "d6ea2c99ba2d",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T09:29",
-    "headline": "Drone footage shows aftermath of Iranian missile attack in Tel Aviv",
-    "excerpt": "Drone footage shows extensive damage to a multi-storey residential building in Tel Aviv after a wave of Iranian attacks.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-24T11:12:09.118297+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/drone-footage-shows-aftermath-of-iranian-missile-attack-in-tel-aviv?traffic_source=rss"
-  },
-  {
-    "id": "0f52a2c4c3f0",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T09:10",
-    "headline": "Israel kills two in Beirut as it intensifies attacks across Lebanon",
-    "excerpt": "Israel steps up attacks across Lebanon as more than a million people are displaced due to the conflict.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-24T11:12:09.118330+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/24/israel-kills-two-in-beirut-as-it-intensifies-attacks-across-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "ed27fc39b607",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T08:43",
-    "headline": "Deadly air attack hits pro-Iran Popular Mobilisation Forces in Iraq",
-    "excerpt": "Video shows the aftermath of an airstrike in Iraq’s Anbar province on a headquarters of the Popular Mobilisation Forces.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-03-24T11:12:09.118356+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/deadly-air-attack-hits-pro-iran-popular-mobilisation-forces-in-iraq?traffic_source=rss"
   }
 ]
