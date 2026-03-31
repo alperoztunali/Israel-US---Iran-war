@@ -1,5 +1,93 @@
 [
   {
+    "id": "a7b38ffabcb3",
+    "source": "Al Jazeera",
+    "date": "2026-03-31T11:52",
+    "headline": "Hundreds rally in West Bank against Israeli death penalty for Palestinians",
+    "excerpt": "Civil society joins protests as EU voices express &#039;great concern&#039; about Israel&#039;s law targeting Palestinian prisoners.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-31T12:08:28.660293+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/31/hundreds-rally-in-west-bank-against-israeli-death-penalty-for-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "c712474b0f22",
+    "source": "Al Jazeera",
+    "date": "2026-03-31T11:15",
+    "headline": "‘AI helped pick the first thousand targets in Iran’",
+    "excerpt": "‘AI helped pick the first thousand targets in Iran’",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-31T12:08:28.660339+00:00",
+    "link": "https://www.aljazeera.com/video/quotable/2026/3/31/ai-helped-pick-the-first-thousand-targets-in?traffic_source=rss"
+  },
+  {
+    "id": "4deae01b55ad",
+    "source": "Al Jazeera",
+    "date": "2026-03-31T10:54",
+    "headline": "Drones strike Russia’s Ust-Luga port again as EU officials visit Ukraine",
+    "excerpt": "Attacks come as Ukraine says its air defences shot down 267 out of 289 drones launched by Russia overnight.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-03-31T12:08:28.660374+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/31/drones-strike-russias-ust-luga-port-again-as-eu-officials-visit-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "9d157fe937a6",
+    "source": "Al Jazeera",
+    "date": "2026-03-31T10:50",
+    "headline": "A Gaza mother waits in agony: Did Israel kill her daughter, or arrest her?",
+    "excerpt": "Tahrir Abu Mady has her daughter Malak&#039;s death certificate. But a prisoner&#039;s list suggests she might have been arrested.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-31T12:08:28.660406+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/31/gaza-disappeared-malak-abu-mady?traffic_source=rss"
+  },
+  {
+    "id": "221cc4c925b6",
+    "source": "Al Jazeera",
+    "date": "2026-03-31T10:34",
+    "headline": "Italy denies the US military use of its air bases to attack Iran",
+    "excerpt": "Italian press reports that the government has refuse to authorise US to land bombers at a base in Sicily",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-03-31T12:08:28.660422+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/italy-denies-the-us-military-use-of-its-air-bases-to-attack-iran?traffic_source=rss"
+  },
+  {
+    "id": "fdc77f31cf34",
+    "source": "Al Jazeera",
+    "date": "2026-03-31T10:01",
+    "headline": "Gaza families reunite years after babies evacuated amid Israel’s war",
+    "excerpt": "Infants evacuated from al-Shifa Hospital during Israel&#039;s siege in 2023 return home after years of separation.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-03-31T12:08:28.660495+00:00",
+    "link": "https://www.aljazeera.com/news/2026/3/31/gaza-families-reunite-years-after-babies-evacuated-amid-israels-war?traffic_source=rss"
+  },
+  {
+    "id": "5eb201fa6c0d",
+    "source": "Al Jazeera",
+    "date": "2026-03-31T09:46",
+    "headline": "‘Iranians don’t consider Trump’s 15-point plan as beginning of diplomacy’",
+    "excerpt": "‘Iranians don’t consider Trump’s 15-point plan as beginning of a diplomatic track’",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-03-31T12:08:28.660532+00:00",
+    "link": "https://www.aljazeera.com/video/quotable/2026/3/31/iranians-dont-consider-trumps-15-point-plan-as-beginning-of-a-diplomatic?traffic_source=rss"
+  },
+  {
+    "id": "11b51dabf59c",
+    "source": "PressTV",
+    "date": "2026-03-31T12:08",
+    "headline": "Rights body blasts attacks on Bushehr nuclear plant as grave breach of intl. law",
+    "excerpt": "Iran's High Council for Human Rights condemns ongoing attacks on the Islamic Republic's peaceful nuclear facilities, particularly the Bushehr Nuclear Power Plant.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-03-31T12:08:30.541902+00:00",
+    "link": "https://presstv.ir/Detail/2026/03/31/766120/Iran-nuclear-Bushehr-attacks-Israel-United-States"
+  },
+  {
     "id": "e04d7acbc63f",
     "source": "Al Jazeera",
     "date": "2026-03-31T08:30",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-03-24T18:09:35.109448+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-soldiers-accused-of-torturing-toddler-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "e0bf1db50c6f",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T16:46",
-    "headline": "Palestinian FA calls for Israeli ban after FIFA discrimination report",
-    "excerpt": "The Israel Football Association was fined by FIFA for racism and discrimination breaches following Palestinian report.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-24T18:09:35.109498+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/3/24/palestine-fa-calls-for-israel-football-ban-after-fifa-discrimination-report?traffic_source=rss"
-  },
-  {
-    "id": "bd8ce517c5c7",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T16:31",
-    "headline": "Israeli defences questioned as Iran continues to cause damage",
-    "excerpt": "Iranian missiles have caused damage in Israel, raising questions about the country’s air defence systems.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-24T18:09:35.109528+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-defences-questioned-as-iran-continues-to-cause-damage?traffic_source=rss"
-  },
-  {
-    "id": "173d1393a539",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T15:47",
-    "headline": "Iranian IRGC’s ties to Hezbollah deepen tensions in Lebanese politics",
-    "excerpt": "Lebanon&#039;s prime minister said the IRGC is commanding Hezbollah and analysts agree the Iranian group is calling the shots",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-24T18:09:35.109572+00:00",
-    "link": "https://www.aljazeera.com/features/2026/3/24/iranian-irgc-ties-hezbollah-deepen-tensions-lebanese-politics?traffic_source=rss"
-  },
-  {
-    "id": "cef73cc4c4a7",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T15:34",
-    "headline": "Israeli strike hits Tyre during Al Jazeera report",
-    "excerpt": "An Al Jazeera journalist&#039;s report was disrupted by an Israeli missile striking a waterfront building in Lebanon’s Tyre.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-03-24T18:09:35.109600+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-strike-hits-tyre-during-al-jazeera-report?traffic_source=rss"
-  },
-  {
-    "id": "e4005f588507",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T15:16",
-    "headline": "Moment rescuers find man alive under the rubble in Tehran",
-    "excerpt": "Rescuers have pulled a man alive from the rubble after US-Israeli strikes hit a residential area in Tehran.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-24T18:09:35.109642+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/moment-rescuers-find-man-alive-under-the-rubble-in-tehran?traffic_source=rss"
-  },
-  {
-    "id": "e2a85658e378",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T15:09",
-    "headline": "UN experts urge Israel to free Gaza doctor amid reports of ‘severe torture’",
-    "excerpt": "Dr Hussam Abu Safia &#039;systematically denied&#039; medical treatment in Israeli detention, UN special rapporteurs warn.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-24T18:09:35.109693+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/24/un-experts-urge-israel-to-free-gaza-doctor-amid-reports-of-severe-torture?traffic_source=rss"
-  },
-  {
-    "id": "c7ff0f922982",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T14:26",
-    "headline": "Keir Starmer’s policy on the Iran war is a recipe for catastrophe",
-    "excerpt": "The British government has learned no lessons from the disaster that the US-UK invasion of Iraq was.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-24T18:09:35.109748+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/3/24/keir-starmers-policy-on-the-iran-war-is-a-recipe-for-catastrophe?traffic_source=rss"
-  },
-  {
-    "id": "786fc84ff156",
-    "source": "Al Jazeera",
-    "date": "2026-03-24T14:22",
-    "headline": "QatarEnergy declares force majeure on some LNG contracts due to Iran war",
-    "excerpt": "The move comes amid production disruptions linked to the US-Israeli war on Iran, which have affected Qatar.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-24T18:09:35.109781+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/24/qatarenergy-declares-force-majeure-on-some-lng-contracts?traffic_source=rss"
   }
 ]
