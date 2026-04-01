@@ -1,5 +1,27 @@
 [
   {
+    "id": "9a7411a375df",
+    "source": "Al Jazeera",
+    "date": "2026-04-01T22:12",
+    "headline": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
+    "excerpt": "US has exerted growing influence over the Venezuelan government after abducting former President Nicolas Maduro.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-04-01T23:52:57.254746+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss"
+  },
+  {
+    "id": "0004ab8ed942",
+    "source": "PressTV",
+    "date": "2026-04-01T23:52",
+    "headline": "IRGC commander says Netanyahu’s ‘holiday gift’ to settlers was sirens, fear under Iranian strikes",
+    "excerpt": "IRGC commander highlights the abysmal conditions faced by Zionist settlers as a result of Iran's decisive retaliation.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-01T23:52:59.083481+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/01/766197/Iran-Israel-missiles-Netanyahu-IRGC-Aerospace-Force"
+  },
+  {
     "id": "e869cab301ca",
     "source": "Al Jazeera",
     "date": "2026-04-01T21:20",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-03-26T05:52:38.431784+00:00",
     "link": "https://www.aljazeera.com/news/2026/3/26/tehran-issues-warning-to-regional-neighbour-if-iranian-island-occupied?traffic_source=rss"
-  },
-  {
-    "id": "0ec3b0ee4531",
-    "source": "Al Jazeera",
-    "date": "2026-03-26T00:56",
-    "headline": "Trump says Iranian leaders want deal ‘so badly’ but fear retaliation",
-    "excerpt": "Donald Trump said Iran is negotiating with the US but is “afraid to say it”.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-03-26T05:52:38.431817+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/trump-says-iranian-leaders-want-deal-so-badly-but-fear-retaliation?traffic_source=rss"
-  },
-  {
-    "id": "05e80d0b098e",
-    "source": "Al Jazeera",
-    "date": "2026-03-26T00:51",
-    "headline": "Sarah Mullally enthroned as first female archbishop of Canterbury",
-    "excerpt": "The first woman to lead the Church of England formally installed at ceremony before 2,000 guests.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-03-26T05:52:38.431850+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/26/sarah-mullally-enthroned-as-first-female-archbishop-of-canterbury?traffic_source=rss"
   }
 ]
