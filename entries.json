@@ -1,5 +1,71 @@
 [
   {
+    "id": "198998ace871",
+    "source": "Al Jazeera",
+    "date": "2026-04-01T09:24",
+    "headline": "Houthis claim joint missile attack on Israel with Iran and Hezbollah",
+    "excerpt": "Yemen’s Houthis say they launched a missile attack on Israel in coordination with Iran and Hezbollah.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-01T10:15:34.663937+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/houthis-claim-joint-missile-attack-on-israel-with-iran-and-hezbollah?traffic_source=rss"
+  },
+  {
+    "id": "650b8b21cf44",
+    "source": "Al Jazeera",
+    "date": "2026-04-01T09:00",
+    "headline": "US messages via Witkoff and intermediaries are not negotiations: Araghchi",
+    "excerpt": "Iran&#039;s foreign minister says message exchanges continue with Washington, but insists there are no negotiations or trust.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-01T10:15:34.663986+00:00",
+    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/1/us-messages-via-witkoff-and-intermediaries-are-not-negotiations-araghchi?traffic_source=rss"
+  },
+  {
+    "id": "f07a453a7f06",
+    "source": "Al Jazeera",
+    "date": "2026-04-01T08:27",
+    "headline": "War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera",
+    "excerpt": "Araghchi confirmed direct talks with Witkoff but denied that they constituted negotiations in an exclusive interview.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-01T10:15:34.664027+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/1/war-on-iran-three-key-takeaways-from-araghchis-interview-with-al-jazeera?traffic_source=rss"
+  },
+  {
+    "id": "43f9a111346b",
+    "source": "Al Jazeera",
+    "date": "2026-04-01T07:55",
+    "headline": "Israeli police inspect damage on the road after missile impact",
+    "excerpt": "Police inspect a strike site in Tel Aviv after a missile hit the city.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-01T10:15:34.664051+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/israeli-police-inspect-damage-on-the-road-after-missile-impact?traffic_source=rss"
+  },
+  {
+    "id": "5d60f8f9f4b7",
+    "source": "Al Jazeera",
+    "date": "2026-04-01T07:54",
+    "headline": "Iran attacks cause fire in Kuwait, Bahrain; kill man in UAE",
+    "excerpt": "Shrapnel from an Iranian drone interception kills a Bangladeshi national in the UAE&#039;s Fujairah city.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-01T10:15:34.664072+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/1/iran-attacks-cause-fire-in-kuwait-bahrain-kill-man-in-uae?traffic_source=rss"
+  },
+  {
+    "id": "7616d7df85be",
+    "source": "Al Jazeera",
+    "date": "2026-04-01T07:01",
+    "headline": "Iran war: What is happening on day 33 of US-Israel attacks?",
+    "excerpt": "Trump says US could leave Iran war in 2-3 weeks without a deal; Iran’s FM Araghchi says he has no faith in talks.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-01T10:15:34.664107+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-is-happening-on-day-33-of-us-israel-attacks?traffic_source=rss"
+  },
+  {
     "id": "db3fd3705378",
     "source": "Al Jazeera",
     "date": "2026-04-01T05:17",
@@ -5432,71 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-03-25T14:46:55.398457+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/video-trumps-board-of-peace-pushes-gaza-disarmament-plan-at-un?traffic_source=rss"
-  },
-  {
-    "id": "5fed800c3ddb",
-    "source": "Al Jazeera",
-    "date": "2026-03-25T11:56",
-    "headline": "Spain says Israel seeks to repeat ‘Gaza destruction’ in Lebanon",
-    "excerpt": "Spain’s prime minister warned that Israel is using the same tactics in Lebanon as it did in Gaza.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-03-25T14:46:55.398501+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/spain-says-israel-seeks-to-repeat-gaza-destruction-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "ee3e5df023a4",
-    "source": "Al Jazeera",
-    "date": "2026-03-25T11:45",
-    "headline": "US-Iran mediation: What are each side’s demands – and is a deal possible?",
-    "excerpt": "Trump&#039;s envoys have sent a 15-point ceasefire plan to Iran via Pakistan. But Tehran has its own conditions.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-03-25T14:46:55.398533+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/3/25/us-iran-mediation-what-are-each-sides-demands-and-is-a-deal-possible?traffic_source=rss"
-  },
-  {
-    "id": "ada794f15469",
-    "source": "Al Jazeera",
-    "date": "2026-03-25T11:35",
-    "headline": "Estonia, Latvia report drone incursions from Russian airspace",
-    "excerpt": "Riga said drone that entered its territory may be Ukrainian.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-03-25T14:46:55.398560+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/25/estonia-latvia-report-drone-incursions-from-russian-airspace?traffic_source=rss"
-  },
-  {
-    "id": "ed65d5754295",
-    "source": "Al Jazeera",
-    "date": "2026-03-25T11:21",
-    "headline": "Large Polymarket, Wall Street bets on Trump’s war news under scrutiny",
-    "excerpt": "Well-timed trades regarding Iran war news this week lead critics to argue White House may be engaged in insider trading.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-25T14:46:55.398596+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/25/large-polymarket-wall-street-bets-on-trumps-war-news-under-scrutiny?traffic_source=rss"
-  },
-  {
-    "id": "9f20715d633c",
-    "source": "Al Jazeera",
-    "date": "2026-03-25T11:02",
-    "headline": "Spain’s PM says Israel to inflict on Lebanon same destruction as in Gaza",
-    "excerpt": "Pedro ​Sanchez has been one of the few leaders in Europe to condemn Israel&#039;s war in Lebanon, US-Israeli ⁠war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-25T14:46:55.398630+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/25/spains-pm-says-israel-to-inflict-on-lebanon-same-destruction-as-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "5a1408ca1524",
-    "source": "PressTV",
-    "date": "2026-03-25T14:46",
-    "headline": "Iran rejects US proposal, lays out five conditions for ending imposed war: Source to Press TV",
-    "excerpt": "Iran has responded negatively to an American proposal aimed at ending the ongoing imposed war, insisting that it will only occur on Tehran's own terms and timeline, a senior political-security official told Press TV on Wednesday.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-25T14:46:56.833271+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/25/765835/iran-rejects-us-proposal-lays-out-five-conditions-ending-imposed-war-source"
   }
 ]
