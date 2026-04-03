@@ -1,5 +1,49 @@
 [
   {
+    "id": "1d7bcceb18a2",
+    "source": "Al Jazeera",
+    "date": "2026-04-03T08:59",
+    "headline": "Kuwait desalination plant, oil refinery hit by missile and drone strikes",
+    "excerpt": "Elsewhere, Oracle and Amazon Web Services data centres were targeted in the UAE, reports said.",
+    "category": "Missile/Drone",
+    "location": "Uae",
+    "addedAt": "2026-04-03T11:10:44.692811+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes?traffic_source=rss"
+  },
+  {
+    "id": "3899e0995b1f",
+    "source": "Al Jazeera",
+    "date": "2026-04-03T05:00",
+    "headline": "Iran war live: Water plant hit in Kuwait as Tehran attacks the Gulf, Israel",
+    "excerpt": "Water plant hit in Kuwait as Iran warns to expand attacks if Trump follows through on threats to escalate strikes.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-03T11:10:44.692879+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss"
+  },
+  {
+    "id": "83e7c9524ee8",
+    "source": "PressTV",
+    "date": "2026-04-03T11:10",
+    "headline": "True Promise 4: Strategic US radar, naval assets destroyed in wave 92",
+    "excerpt": "Iranian armed forces targeted and destroyed strategic US radar systems and naval equipment across the region and occupied territories in the 92nd wave of Operation True Promise 4 in retaliation of US-Israeli aggression on Iran.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-03T11:10:46.434330+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/03/766255/True-Promise-4-Wave-92"
+  },
+  {
+    "id": "7a5e420bcc76",
+    "source": "PressTV",
+    "date": "2026-04-03T11:10",
+    "headline": "US war secretary fires two more generals amid failure of anti-Iran aggression",
+    "excerpt": "US Secretary of War Pete Hegseth has dismissed two other senior Army officers amid Washington's failure to achieve objectives in its war of aggression against Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-03T11:10:46.434372+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/03/766252/US-war-secretary-fires-two-more-generals-amid-failure-anti-Iran-aggression"
+  },
+  {
     "id": "397e73913da1",
     "source": "Al Jazeera",
     "date": "2026-04-03T08:03",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-03-27T08:07:37.297843+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israels-opposition-says-military-forces-are-in?traffic_source=rss"
-  },
-  {
-    "id": "92274c516d56",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T07:25",
-    "headline": "Iran bans sports teams from travelling to ‘hostile’ countries amid war",
-    "excerpt": "Sports Ministry says ban for &#039;security&#039; of athletes before a game between Iranian and Emirati clubs in Saudi Arabia.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-27T08:07:37.297893+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/3/27/iran-bans-sports-teams-from-travelling-to-hostile-countries-amid-war?traffic_source=rss"
-  },
-  {
-    "id": "f4e0b79e6d64",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T06:35",
-    "headline": "US-Israel war on Iran: What’s happening on day 28 of attacks?",
-    "excerpt": "Trump has delayed attacks on Iran&#039;s energy facilities by 10 days, claiming talks are going well - though Iran disagrees.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-03-27T08:07:37.297927+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/us-israel-war-on-iran-whats-happening-on-day-28-of-attacks-2?traffic_source=rss"
-  },
-  {
-    "id": "7517bc187634",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T05:36",
-    "headline": "The Strait of Hormuz is not just an oil chokepoint",
-    "excerpt": "It is the single point of failure of globalised production.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-03-27T08:07:37.297957+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/3/27/the-strait-of-hormuz-is-not-just-an-oil-chokepoint?traffic_source=rss"
-  },
-  {
-    "id": "9cd4c7eff2d1",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T05:34",
-    "headline": "Sri Lanka braces for new economic crisis as war on Iran continues",
-    "excerpt": "For many Sri Lankans, the fuel shortage triggered by the war carries echoes of the 2022 economic crisis - with a twist.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-27T08:07:37.297987+00:00",
-    "link": "https://www.aljazeera.com/features/2026/3/27/sri-lanka-braces-for-new-economic-crisis-as-war-on-iran-continues?traffic_source=rss"
   }
 ]
