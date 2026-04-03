@@ -1,5 +1,93 @@
 [
   {
+    "id": "42c5e84325a3",
+    "source": "Al Jazeera",
+    "date": "2026-04-03T15:18",
+    "headline": "Trump says with more time, US can ‘take the oil’ in Iran",
+    "excerpt": "Despite weeks long Iranian blockade on Strait of Hormuz, US president claims Washington can &#039;easily&#039; reopen waterway.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-03T16:02:51.583208+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "c9f9a4ccd0eb",
+    "source": "Al Jazeera",
+    "date": "2026-04-03T15:13",
+    "headline": "Red Crescent supply warehouse attacked in southwest Iran",
+    "excerpt": "A video published by the Iranian Red Crescent shows the aftermath of a strike on a storage site in Bushehr.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-03T16:02:51.583254+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/red-crescent-supply-warehouse-attacked-in-southwest-iran?traffic_source=rss"
+  },
+  {
+    "id": "2b786fb474f5",
+    "source": "Al Jazeera",
+    "date": "2026-04-03T15:11",
+    "headline": "Iran release videos of US aircraft searching for pilots shot down in Iran",
+    "excerpt": "Iran&#039;s media is screening videos said to show US aircraft searching for the pilots of a US fighter jet shot down in Iran",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-03T16:02:51.583279+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-release-videos-of-us-aircraft-searching-for-pilots-shot-down-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "82eb709cf1e4",
+    "source": "Al Jazeera",
+    "date": "2026-04-03T14:43",
+    "headline": "Israel threatens to destroy more Lebanon bridges as crisis mounts",
+    "excerpt": "Threat comes as Israeli invasion of southern Lebanon expands, spurring more fear, displacement and deadly attacks.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-03T16:02:51.583305+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/3/israel-threatens-to-destroy-more-lebanon-bridges-as-crisis-mounts?traffic_source=rss"
+  },
+  {
+    "id": "d9127c745a39",
+    "source": "Al Jazeera",
+    "date": "2026-04-03T14:41",
+    "headline": "What’s happening to Christians in their Holy Land?",
+    "excerpt": "Access to key Christian holy sites in Jerusalem has been restricted this Easter holiday.",
+    "category": "Other",
+    "location": "Jerusalem",
+    "addedAt": "2026-04-03T16:02:51.583344+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/whats-happening-to-christians-in-their-holy-land?traffic_source=rss"
+  },
+  {
+    "id": "2c2d8732a5de",
+    "source": "PressTV",
+    "date": "2026-04-03T16:02",
+    "headline": "'A massive war crime': Iran president denounces US 'Stone Age' threat",
+    "excerpt": "The Iranian president says US threats to bomb Iran back to the Stone Age do not have any meaning but a massive war crime.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-03T16:02:57.469345+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/03/766269/war-crime-Iran-president-denounces-US-Stone-Age-threat"
+  },
+  {
+    "id": "1000beaa6b35",
+    "source": "PressTV",
+    "date": "2026-04-03T16:02",
+    "headline": "IAEA’s silence makes it complicit in US-Israeli attacks on Iran’s nuclear facilities: AEOI",
+    "excerpt": "Iran’s Atomic Energy Organization (AEO) warns that the IAEA’s further silence makes the agency complicit in the US-Israeli strikes on the country’s nuclear sites.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-03T16:02:57.469393+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/03/766268/IAEA%E2%80%99s-silence-makes-it-complicit-in-US-Israeli-attacks-on-Iran%E2%80%99s-nuclear-facilities--AEOI"
+  },
+  {
+    "id": "68805573f7ea",
+    "source": "PressTV",
+    "date": "2026-04-03T16:02",
+    "headline": "Iran can sustain Strait of Hormuz closure for years, will cut US military logistics: Official",
+    "excerpt": "Iran can sustain the Strait of Hormuz closure for years and will cut US military logistics, a senior security official told Press TV, citing the sea-based supply of regional American bases.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-03T16:02:57.469431+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/03/766266/iran-can-sustain-strait-hormuz-closure-years-cut-us-military-logistics-official"
+  },
+  {
     "id": "e30b8ead247e",
     "source": "Al Jazeera",
     "date": "2026-04-03T12:46",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-27T14:34:18.565096+00:00",
     "link": "https://presstv.ir/Detail/2026/03/27/765916/IAEA-Grossi-remarks-make-situation-worse-Iran-warns"
-  },
-  {
-    "id": "f8ba4b98ad6a",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T10:48",
-    "headline": "‘My heart burns with pain’: Iranian mother tells UN of Minab school attack",
-    "excerpt": "Grieving mother Mohaddeseh Fallahat, whose two children were killed, and Iran&#039;s Araghchi address Human Rights Council.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-03-27T11:09:42.663383+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/my-heart-burns-with-pain-iranian-mother-tells-un-of-minab-school-attack?traffic_source=rss"
-  },
-  {
-    "id": "a92ce3fc5c11",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T09:50",
-    "headline": "Wildlife killed, reefs damaged in ‘active’ Gulf of Mexico oil spill",
-    "excerpt": "Authorities say the oil is seeping from three sources, including a vessel that has not yet been identified.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-03-27T11:09:42.663431+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/wildlife-killed-reefs-damaged-in-active-gulf-of-mexico-oil-spill?traffic_source=rss"
-  },
-  {
-    "id": "2b078729819a",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T09:50",
-    "headline": "India lowers fuel taxes, says rumours of lockdown ‘completely false’",
-    "excerpt": "India, the world&#039;s third biggest crude importer, announces measures amid shortages created by the Iran war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-27T11:09:42.663473+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/india-slashes-petrol-diesel-import-taxes-as-fuel-prices-remain-high?traffic_source=rss"
-  },
-  {
-    "id": "d004a363b9b2",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T09:45",
-    "headline": "War on Iran price crisis not just about energy, says analyst",
-    "excerpt": "Abdulla Banndar Al-Etaibi, says the disruption of fertiliser supplies due to the war on Iran will push food prices up.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-27T11:09:42.663507+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/3/27/war-on-iran-price-crisis-not-just-about-energy-says-analyst?traffic_source=rss"
-  },
-  {
-    "id": "9979bf6f6cb1",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T08:58",
-    "headline": "Video: Children’s toys found in rubble of US-Israeli strike in Iran",
-    "excerpt": "Rescue teams from the IRCS have been searching the rubble of residential buildings hit in US-Israeli attacks on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-27T11:09:42.663545+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/video-childrens-toys-found-in-rubble-of-us-israeli-strike-in-iran?traffic_source=rss"
-  },
-  {
-    "id": "cf579b506961",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T08:45",
-    "headline": "Iran emergency workers search for survivors after deadly US-Israel attacks",
-    "excerpt": "Latest victims include six people killed in Qom as Iran announces grim milestone of nearly 2,000 war dead.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-03-27T11:09:42.663573+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/rescuers-search-for-survivors-of-us-israeli-strikes-on-irans-tehran-qom?traffic_source=rss"
-  },
-  {
-    "id": "ee28f68f8f26",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T08:09",
-    "headline": "How extensive is Russia’s military aid to Iran?",
-    "excerpt": "Russia has long exchanged weapons with Iran and is likely offering satellite support, but lacks the will to do much more",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-27T11:09:42.663610+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/how-extensive-is-russias-military-aid-to-iran?traffic_source=rss"
-  },
-  {
-    "id": "fa57f1c2310b",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T08:04",
-    "headline": "Ukraine fends off increased attacks, strikes Russian oil revenue",
-    "excerpt": "Russia launches possible spring offensive, but makes no significant gains; Ukraine hits oil terminals in response.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-03-27T11:09:42.663656+00:00",
-    "link": "https://www.aljazeera.com/features/2026/3/27/ukraine-fends-off-increased-attacks-strikes-russian-oil-revenue?traffic_source=rss"
   }
 ]
