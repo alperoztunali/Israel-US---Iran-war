@@ -1,5 +1,49 @@
 [
   {
+    "id": "202885056683",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T10:20",
+    "headline": "At least four people killed in Russian attacks on Ukraine",
+    "excerpt": "At least one person has also died in a Ukrainian attack on Russia&#039;s southern Rostov region.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-04T11:05:28.641162+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss"
+  },
+  {
+    "id": "efb4c561120f",
+    "source": "PressTV",
+    "date": "2026-04-04T11:05",
+    "headline": "US-Israeli airstrikes target six petrochemical plants in Khuzestan",
+    "excerpt": "The US-Israeli attacks on six petrochemical plants across Khuzestan province, southwest of Iran, left at least five wounded.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-04T11:05:40.946646+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/04/766301/US-Israeli-attacks-on-6-petrochemical-plants-in-Khuzestan-left-at-least-5-wounded"
+  },
+  {
+    "id": "b0910408a5c8",
+    "source": "PressTV",
+    "date": "2026-04-04T11:05",
+    "headline": "IRGC: Israel’s industrial, military sites targeted in latest strikes",
+    "excerpt": "The IRGC says it has targeted the Israeli regime’s industrial and military sites.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-04T11:05:40.946691+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/04/766303/IRGC-Israel-industrial-military-sites-targeted-latest-strikes"
+  },
+  {
+    "id": "2213caf7e963",
+    "source": "PressTV",
+    "date": "2026-04-04T11:05",
+    "headline": "Israeli embassies ‘legitimate targets’ if Iranian missions attacked: Military",
+    "excerpt": "The spokesperson for the Central Headquarters of Khatam al-Anbiya warns against any aggression targeting Iran’s diplomatic missions.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-04T11:05:40.946722+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/04/766300/Israeli-embassies-legitimate-targets-if-Iranian-embassies-attacked-Military"
+  },
+  {
     "id": "31342b139e32",
     "source": "Al Jazeera",
     "date": "2026-04-04T08:22",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-27T23:47:03.815682+00:00",
     "link": "https://www.aljazeera.com/news/2026/3/27/what-is-the-taco-trade-and-are-investors-profiting-amid-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "b57695705372",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T21:22",
-    "headline": "Guns in the streets as US, Israel intensify month-long attacks across Iran",
-    "excerpt": "A senior IRGC official in Tehran told state television that children over 12 can join armed patrols and checkpoints.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-27T23:47:03.815715+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/guns-in-the-streets-as-us-israel-intensify-month-long-attacks-across?traffic_source=rss"
-  },
-  {
-    "id": "140ffce3f250",
-    "source": "PressTV",
-    "date": "2026-03-27T23:47",
-    "headline": "Iran serious about resolute defense of its sovereignty against ongoing aggression, FM tells Lavrov",
-    "excerpt": "Foreign Minister Abbas Araghchi asserts that Iran remains serious about the resolute defense of its national sovereignty amid unprovoked aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-27T23:47:06.101479+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/27/765942/Iran-Russia-war-United-States-Israel-Lavrov-Araghchi"
-  },
-  {
-    "id": "2a3d8d5a0ace",
-    "source": "PressTV",
-    "date": "2026-03-27T23:47",
-    "headline": "Yemen declares readiness for direct military intervention unless US, Israel halt aggression",
-    "excerpt": "Yemen warns it is prepared for direct military intervention if American-Israeli aggression against Iran and the Axis of Resistance continues to escalate.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-27T23:47:06.101522+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/27/765940/Yemen-United-States-Israel-warning-Armed-Forces"
-  },
-  {
-    "id": "c6d0a4bbd30a",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T20:50",
-    "headline": "Grieving Iranian mother tells UN about children before school attack",
-    "excerpt": "An Iranian mother told the UN Human Right’s Council about the last time she saw her children alive.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-27T21:53:01.873198+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/grieving-iranian-mother-tells-un-about-children-before-school-attack?traffic_source=rss"
   }
 ]
