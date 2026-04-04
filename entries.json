@@ -1,5 +1,82 @@
 [
   {
+    "id": "f774e985b0c3",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T17:27",
+    "headline": "Top diplomat Marco Rubio strips Qassem Soleimani’s niece of US residency",
+    "excerpt": "In a statement, the US State Department has accused Hamideh Soleimani Afshar of being an &#039;outspoken supporter&#039; of Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-04T17:49:19.846914+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/4/top-diplomat-marco-rubio-strips-qassem-soleimanis-niece-of-us-residency?traffic_source=rss"
+  },
+  {
+    "id": "e57b4218b351",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T17:02",
+    "headline": "New video reveals moment US-Israeli munitions impact Iranian bridge",
+    "excerpt": "New video shows the moment multiple US-Israeli strikes hit the B1 bridge in Iran&#039;s northern Alborz province on Thursday.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-04T17:49:19.846961+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/new-video-reveals-moment-us-israeli-munitions-impact-iranian-bridge?traffic_source=rss"
+  },
+  {
+    "id": "08d2b227d32b",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T16:35",
+    "headline": "Trump says Iran has 48 hours to make deal as search for US pilot continues",
+    "excerpt": "Trump does not reference a downed US jet in his post but points to a deadline for Iran to reopen the Strait of Hormuz.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-04T17:49:19.846986+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/4/trump-says-iran-has-48-hours-to-make-deal-as-search-for-us-pilot-continues?traffic_source=rss"
+  },
+  {
+    "id": "047de3726067",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T16:32",
+    "headline": "What the Iran-Iraq war can tell us about the US-Israeli war on Iran",
+    "excerpt": "Trump and Netanyahu are harbouring the same illusions Saddam Hussein had in 1980 when he invaded Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-04T17:49:19.847017+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/4/4/what-the-iran-iraq-war-can-tell-us-about-the-us-israeli-war-on?traffic_source=rss"
+  },
+  {
+    "id": "a5a2e34561b5",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T15:49",
+    "headline": "Iran says US, Israel belong in Stone Age after Tehran university strike",
+    "excerpt": "Iranian minister said the US and Israel are the ones that belong in the Stone Age after an attack on Tehran university.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-04-04T17:49:19.847048+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iran-says-us-israel-belong-in-stone-age-after-tehran-university-strike?traffic_source=rss"
+  },
+  {
+    "id": "3bd40821e150",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T10:20",
+    "headline": "At least 15 killed in Russian attacks on Ukraine as Zelenskyy meets Erdogan",
+    "excerpt": "At least one person is killed in a Ukrainian attack on southern Russia&#039;s Rostov region.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-04T17:49:19.847094+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss"
+  },
+  {
+    "id": "9d04ee7ed9ed",
+    "source": "PressTV",
+    "date": "2026-04-04T17:49",
+    "headline": "Trump must be removed instead of top US military brass: Senior Iranian official",
+    "excerpt": "Mohsen Rezaei says Trump should be removed instead of military commanders.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-04T17:49:32.145265+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/04/766320/Iran-Mohsen-Rezaei-calls-removal-Trump-downing--US-fighter-jet"
+  },
+  {
     "id": "da29accda93f",
     "source": "Al Jazeera",
     "date": "2026-04-04T15:19",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-28T09:55:08.184210+00:00",
     "link": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss"
-  },
-  {
-    "id": "61dadb67108b",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T07:30",
-    "headline": "Yemen’s Houthis launch missile attack on Israel as war on Iran intensifies",
-    "excerpt": "Rebels say they fired a barrage of ballistic missiles targeting &#039;sensitive Israeli military sites&#039; in southern Israel.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-28T09:55:08.184243+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss"
-  },
-  {
-    "id": "9804b5609bcb",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T00:00",
-    "headline": "Iran war live: US-Israeli war on Iran widens with first attack from Yemen",
-    "excerpt": "Iranian Red Crescent says more than 92,600 civilian units have been damaged across the country in US-Israeli attacks.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-28T09:55:08.184295+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss"
-  },
-  {
-    "id": "2fdbc9c3c1de",
-    "source": "PressTV",
-    "date": "2026-03-28T09:55",
-    "headline": "Yemen officially joins fight against US, Israel by firing missiles at occupied territories",
-    "excerpt": "The Yemeni Armed Forces says it has officially joined the war against the US-Israeli front in support of the Islamic Republic of Iran and the Resistance Front in Lebanon, Iraq, and Palestine.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-28T09:55:10.521530+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/765953/Yemen-officially-joins-war-against-US-Israeli-aggression"
-  },
-  {
-    "id": "09513c2c18c1",
-    "source": "PressTV",
-    "date": "2026-03-28T09:55",
-    "headline": "Russia warns of consequences of US-Israeli strikes on Bushehr nuclear site",
-    "excerpt": "Russia’s permanent representative to international agencies in Vienna has condemned US-Israeli attacks on the Bushehr nuclear site.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-28T09:55:10.521598+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/765956/Russia-condemns-Israel-US-strikes-on-Bushehr-nuclear-sites-warns-against-future-attacks"
-  },
-  {
-    "id": "172242abe155",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T07:34",
-    "headline": "Trump claims Iran wants to ‘make a deal’",
-    "excerpt": "US President Donald Trump claimed Tehran is seeking a deal and praised the strength of the the US military.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-03-28T07:51:27.929802+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss"
-  },
-  {
-    "id": "93944207cd11",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T07:30",
-    "headline": "Yemen’s Houthis claim responsibility for a missile attack on Israel",
-    "excerpt": "This is a breaking news story.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-03-28T07:51:27.929838+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss"
-  },
-  {
-    "id": "00a019f0f653",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T04:59",
-    "headline": "Israel’s unending attacks in Lebanon push country’s population to the brink",
-    "excerpt": "Four weeks into the US-Israeli war on Iran, many in Lebanon are suffering under yet another Israeli aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-28T07:51:27.929878+00:00",
-    "link": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss"
   }
 ]
