@@ -1,5 +1,82 @@
 [
   {
+    "id": "7c42d7f93653",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T13:07",
+    "headline": "Israeli strikes damage hospital in Lebanon’s Tyre; ground invasion advances",
+    "excerpt": "At least 11 people are injured as Israel strikes near the Lebanese Italian Hospital in Tyre, damaging the facility.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-04T14:06:00.899220+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/4/israeli-strikes-damage-hospital-in-lebanons-tyre?traffic_source=rss"
+  },
+  {
+    "id": "cb5b817c8b6e",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T12:19",
+    "headline": "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA",
+    "excerpt": "Tehran says it is the fourth attack near the nuclear plant amid the US-Israel war on Iran.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-04-04T14:06:00.899262+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss"
+  },
+  {
+    "id": "e9ad4488ae3c",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T11:56",
+    "headline": "Israel’s unchecked war machine",
+    "excerpt": "With conflicts on multiple fronts, Israel’s war fever shows no sign of easing.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-04T14:06:00.899300+00:00",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/4/israels-unchecked-war-machine?traffic_source=rss"
+  },
+  {
+    "id": "ab58d516590b",
+    "source": "PressTV",
+    "date": "2026-04-04T14:06",
+    "headline": "Iran hits US Patriot system, HIMARS rocket batteries in wave 95 of reprisal strikes",
+    "excerpt": "Iran’s Islamic Revolution Guard Corps and Naval Forces launch a massive multi-front operation as part of the 95th wave of retaliatory strikes.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-04T14:06:02.478098+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/04/766315/Iran-strikes-US-Patriot-system-in-wave-95-of-retaliatory-operations"
+  },
+  {
+    "id": "22a95073a619",
+    "source": "PressTV",
+    "date": "2026-04-04T14:06",
+    "headline": "‘This war is Israel’s war’: World facing ‘security breakdown’, says Qalibaf",
+    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf says the ongoing aggression is “Israel’s war.\"",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-04T14:06:02.478147+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/04/766313/Qalibaf--World-facing-security-breakdown-due-to-%E2%80%98Israel%E2%80%99s-war%E2%80%99"
+  },
+  {
+    "id": "4e6cee75adcd",
+    "source": "PressTV",
+    "date": "2026-04-04T14:06",
+    "headline": "Iran warns of radioactive catastrophe after 4th attack on Bushehr nuclear plant",
+    "excerpt": "Iran's FM says any radioactive fallout from attacks on Bushehr nuclear plant will end life in the region.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-04T14:06:02.478179+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/04/766314/Iran-Araghchi-Bushehr-plant-attack-warning"
+  },
+  {
+    "id": "e76d4db961f6",
+    "source": "PressTV",
+    "date": "2026-04-04T14:06",
+    "headline": "Araghchi: Conclusive, lasting end to illegal US-Israeli war a priority for Iran",
+    "excerpt": "The Iranian foreign minister Tehran cares about a conclusive and lasting end to the illegal US-Israeli war.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-04T14:06:02.478208+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/04/766310/Araghchi--Conclusive,-lasting-end-to-illegal-US-Israeli-war-a-priority-for-Iran-"
+  },
+  {
     "id": "c76603b36e45",
     "source": "Al Jazeera",
     "date": "2026-04-04T00:00",
@@ -5421,82 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-03-28T05:16:17.203829+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-cuba-is-next-target-of-us-military?traffic_source=rss"
-  },
-  {
-    "id": "bd57ad680f37",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T03:40",
-    "headline": "How mothers raise newborn babies during Israel’s offensive in Lebanon",
-    "excerpt": "Israeli air strikes on Lebanon forced 29-year-old Hawraa Houmani to flee her village when she was nine months pregnant.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-03-28T05:16:17.203860+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/how-mothers-raise-newborn-babies-during-israels-offensive-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "756f5b8a05cb",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T02:27",
-    "headline": "Intense bombing in Tehran, Isfahan",
-    "excerpt": "Black smoke is rising over Tehran and Isfahan after early morning US-Israeli airstrikes on the cities.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-03-28T05:16:17.203881+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/intense-bombing-in-tehran-isfahan?traffic_source=rss"
-  },
-  {
-    "id": "577c3da3f7c9",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T00:05",
-    "headline": "Trump says US-Israeli war on Iran creating a new Middle East",
-    "excerpt": "Donald Trump told a Saudi investment conference that the Middle East will soon be free from Iranian “nuclear blackmail.”",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-28T05:16:17.203917+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-us-israeli-war-on-iran-creating-a-new-middle-east?traffic_source=rss"
-  },
-  {
-    "id": "c51522c2f2d2",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T00:00",
-    "headline": "Iran war live: Trump again slams NATO’s lack of support for war on Tehran",
-    "excerpt": "Iranian Red Crescent says more than 92,600 civilian units were damaged across the country in US-Israeli attacks.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-28T05:16:17.203958+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss"
-  },
-  {
-    "id": "5ddbb1bd1395",
-    "source": "PressTV",
-    "date": "2026-03-28T05:16",
-    "headline": "Iran reiterates support for Lebanon sovereignty, says cohesion essential for fighting conspiracies",
-    "excerpt": "Iran reiterates consistent support for Lebanon’s sovereignty and territorial integrity amid escalated Israeli aggression targeting the latter nation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-28T05:16:18.888080+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/765945/Iran-Lebanon-Israel-Hezbollah-Araghchi-Berri"
-  },
-  {
-    "id": "73f930c299c9",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T23:28",
-    "headline": "Rescue workers rush to save lives after south Tehran missile strike",
-    "excerpt": "Iranian rescue workers have been pulling survivors and bodies out of a building after a missile strike on south Tehran.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-03-27T23:47:03.815562+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rescue-workers-rush-to-save-lives-after-south-tehran-missile-strike?traffic_source=rss"
-  },
-  {
-    "id": "301b4832541d",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T22:53",
-    "headline": "Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues",
-    "excerpt": "The Iran-aligned Yemeni group have the ability to target key shipping lanes around the Arabian Peninsula.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-03-27T23:47:03.815606+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss"
   }
 ]
