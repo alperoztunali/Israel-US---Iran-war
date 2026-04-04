@@ -1,5 +1,27 @@
 [
   {
+    "id": "c76603b36e45",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T00:00",
+    "headline": "Iran war live: US-Israel attacks hit petrochemical, nuclear sites in Iran",
+    "excerpt": "US and Israel step up attacks on Iran civilian infrastructure as search for downed US pilot continues.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-04T11:58:39.071108+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss"
+  },
+  {
+    "id": "7452181863cf",
+    "source": "PressTV",
+    "date": "2026-04-04T11:58",
+    "headline": "Qalibaf: Economic front is key pillar of Iran’s resistance in US-Israeli war",
+    "excerpt": "Iran's parliament speaker has praised laborers, industrialists and businessmen as the backbone of the Islamic Republic's resistance in the face of the US-Israeli aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-04T11:58:40.763778+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/04/766306/Laborers-industrialists-businessmen-backbone-of-Iran-s-resistance-against-US-Israeli-aggression-Qalibaf"
+  },
+  {
     "id": "202885056683",
     "source": "Al Jazeera",
     "date": "2026-04-04T10:20",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-27T23:47:03.815606+00:00",
     "link": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss"
-  },
-  {
-    "id": "229d5504f222",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T22:35",
-    "headline": "‘Fingers on the trigger’ for military intervention, Houthis warn",
-    "excerpt": "The Houthis have warned that they are ready for direct military intervention in the US-Israeli war on Iran.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-27T23:47:03.815648+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/fingers-on-the-trigger-for-military-intervention-houthis-warn?traffic_source=rss"
-  },
-  {
-    "id": "ac08e584d4aa",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T22:06",
-    "headline": "What is the TACO trade and are investors profiting amid war on Iran?",
-    "excerpt": "Global energy crisis continues to widen amid market volatility, while so-called &#039;TACO traders&#039; attempt to capitalise.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-27T23:47:03.815682+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/what-is-the-taco-trade-and-are-investors-profiting-amid-war-on-iran?traffic_source=rss"
   }
 ]
