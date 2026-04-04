@@ -1,5 +1,71 @@
 [
   {
+    "id": "129bf764daa0",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T03:51",
+    "headline": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+    "excerpt": "Iran claims responsibility for downing two US warplanes, as search under way for missing crewmember.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-04T05:16:00.166385+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
+  },
+  {
+    "id": "c6d422482212",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T02:53",
+    "headline": "Iranian missile attack hits residential areas in central Israel",
+    "excerpt": "An Iranian missile attack has caused damage across residential areas in central Israel, according to Israeli media.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-04T05:16:00.166420+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss"
+  },
+  {
+    "id": "dd6c8bd25f90",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T00:30",
+    "headline": "Palestinian Christians in Gaza mark Good Friday",
+    "excerpt": "Palestinian Christians in Gaza marked Good Friday at the Holy Family Church during a fragile ceasefire.",
+    "category": "Diplomatic",
+    "location": "Gaza",
+    "addedAt": "2026-04-04T05:16:00.166455+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss"
+  },
+  {
+    "id": "3e6e23364994",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T00:00",
+    "headline": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
+    "excerpt": "Celebrations in Tehran as Iran&#039;s military says the strikes show its forces still have fighting capability.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-04-04T05:16:00.166480+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss"
+  },
+  {
+    "id": "29984abb3e0b",
+    "source": "Al Jazeera",
+    "date": "2026-04-03T23:40",
+    "headline": "Video shows the moment a Russian drone hit an apartment in Ukraine",
+    "excerpt": "Russia has unleashed a massive round of deadly air strikes across Ukraine, in a so-called &quot;Easter escalation.&quot;",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-04-04T05:16:00.166508+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "aaf145e70097",
+    "source": "PressTV",
+    "date": "2026-04-04T05:16",
+    "headline": "Iran hints at huge pending pressure on enemies after Yemen threatens to close Bab el-Mandeb Strait",
+    "excerpt": "Iran hints at the prospect of additional momentous pressure on aggressors and their allies with potential closure of the Bab el-Mandeb Strait.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-04T05:16:02.022129+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/03/766284/Iran-Yemen-Bab-el-Mandeb-closure"
+  },
+  {
     "id": "486cb44d5b6f",
     "source": "PressTV",
     "date": "2026-04-03T23:50",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-27T21:53:03.285828+00:00",
     "link": "https://presstv.ir/Detail/2026/03/27/765937/true-promise-4-iran-resistance-axis-ops-against-us-israeli-sites-mar-27"
-  },
-  {
-    "id": "811e5f94ae0b",
-    "source": "PressTV",
-    "date": "2026-03-27T21:53",
-    "headline": "'Time to exit': Iran MP says NPT membership failed to protect country’s nuclear sites",
-    "excerpt": "A senior Iranian lawmaker has described the country’s membership in NPT as \"meaningless,\" saying it has failed to protect the country's nuclear facilities from external aggression.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-03-27T21:53:03.285872+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/27/765938/iran-mp-calls-npt-withdrawal-treaty-failed-protect-nuclear-sites"
-  },
-  {
-    "id": "7333349c0978",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T19:15",
-    "headline": "US Palestinian activist says FBI foiled assassination plot against her",
-    "excerpt": "US law enforcement say man was arrested for plotting Molotov cocktail attack against activist Nerdeen Kiswani.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-03-27T19:52:17.805380+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/us-palestinian-activist-says-fbi-foiled-assassination-plot-against-her?traffic_source=rss"
-  },
-  {
-    "id": "326da0e8696c",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T19:02",
-    "headline": "Canada’s Bill C-12 an ‘attack on refugee, migrant rights’: Advocates",
-    "excerpt": "Rights groups say new law restricting asylum will put thousands &#039;at risk of persecution, violence and precarity&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-03-27T19:52:17.805440+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/canadas-bill-c-12-an-attack-on-refugee-migrant-rights-advocates?traffic_source=rss"
-  },
-  {
-    "id": "038f19807b1e",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T18:40",
-    "headline": "Rubio: US expects Iran war to end in ‘weeks, not months’",
-    "excerpt": "US Secretary of State Marco Rubio said the US expects its military operation in Iran to conclude in weeks, not months.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-27T19:52:17.805483+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rubio-us-expects-iran-war-to-end-in-weeks-not?traffic_source=rss"
-  },
-  {
-    "id": "eb4a75ef970d",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T18:34",
-    "headline": "US diplomat Marco Rubio denounces settler violence, tolls in Hormuz strait",
-    "excerpt": "Rubio reiterated President Donald Trump&#039;s call for other countries to participate in securing the Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-03-27T19:52:17.805517+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/27/us-diplomat-marco-rubio-denounces-settler-violence-tolls-in-hormuz-strait?traffic_source=rss"
-  },
-  {
-    "id": "e11ccf244ed5",
-    "source": "Al Jazeera",
-    "date": "2026-03-27T18:00",
-    "headline": "How close is the US to a quagmire in Iran?",
-    "excerpt": "The US has a 15-point plan to end the war on Iran, but what does the military reality show?",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-27T19:52:17.805546+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/3/27/aje-onl-tt_us_iran15pointplan_av-270326?traffic_source=rss"
   }
 ]
