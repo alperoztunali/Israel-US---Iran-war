@@ -1,5 +1,60 @@
 [
   {
+    "id": "da29accda93f",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T15:19",
+    "headline": "Three suspects ordered to stay in UK custody over Jewish charity attack",
+    "excerpt": "The Metropolitan Police said the three men were charged with arson after setting ambulances on fire.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-04-04T15:50:33.007196+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/4/three-suspects-ordered-to-stay-in-uk-custody-over-jewish-charity-attack?traffic_source=rss"
+  },
+  {
+    "id": "3bf34815901d",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T15:15",
+    "headline": "Witness records Israeli strike on building in Lebanon’s Tyre",
+    "excerpt": "Video captured the moment an Israeli strike targeted a building in Burj Shamali in Lebanon’s Tyre district.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-04T15:50:33.007246+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/witness-records-israeli-strike-on-building-in-lebanons-tyre?traffic_source=rss"
+  },
+  {
+    "id": "f6d33d831b52",
+    "source": "Al Jazeera",
+    "date": "2026-04-04T14:40",
+    "headline": "Vehicles burn in Israel after being hit with Iranian projectile debris",
+    "excerpt": "Video shows vehicles on fire in central Israel after debris from an intercepted Iranian projectile struck Ramat Gan.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-04T15:50:33.007270+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicles-burn-in-israel-after-being-hit-with-iranian-projectile-debris?traffic_source=rss"
+  },
+  {
+    "id": "9e4d0381400e",
+    "source": "PressTV",
+    "date": "2026-04-04T15:50",
+    "headline": "Iranian Army strikes key sites at Israel's Ben Gurion Airport",
+    "excerpt": "The Iranian Army says it has carried out a large-scale drone operation targeting key positions of the Israeli regime at Ben Gurion Airport.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-04T15:50:34.763517+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/04/766319/Iranian-Army-strikes-key-sites-at-Israel-s-Ben-Gurion-Airport"
+  },
+  {
+    "id": "324d06d171c9",
+    "source": "PressTV",
+    "date": "2026-04-04T15:50",
+    "headline": "Iranian tribals struck two US Black Hawk helicopters in mountainous terrain: IRGC",
+    "excerpt": "Iranian tribal fighters struck two US Black Hawk helicopters that had entered Iranian airspace, the IRGC said in a statement on Saturday.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-04T15:50:34.763548+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/04/766318/iranian-tribals-struck-two-us-black-hawk-helicopters-mountaninous-terrain-irgc"
+  },
+  {
     "id": "7c42d7f93653",
     "source": "Al Jazeera",
     "date": "2026-04-04T13:07",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-28T07:51:27.929878+00:00",
     "link": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss"
-  },
-  {
-    "id": "19c437538804",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T04:54",
-    "headline": "Uproar in Bahrain after detainee dies in police custody",
-    "excerpt": "Rights groups in Bahrain say a 32-year-old man, arrested for opposing the war on Iran, was killed in police custody.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-03-28T07:51:27.929901+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/uproar-in-bahrain-after-detainee-dies-in-police-custody?traffic_source=rss"
-  },
-  {
-    "id": "4c30b5717114",
-    "source": "PressTV",
-    "date": "2026-03-28T07:51",
-    "headline": "IRGC: Scores of US soldiers slain as tactical vessels targeted in Persian Gulf",
-    "excerpt": "Scores of US soldiers have been killed after the Islamic Revolution Guards Corps (IRGC) targeted six American tactical vessels in the Persian Gulf waters.",
-    "category": "Casualties",
-    "location": "Persian Gulf",
-    "addedAt": "2026-03-28T07:51:30.412877+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/765948/IRGC-Scores-US-soldiers-slain-tactical-vessels-targeted-Persian-Gulf"
-  },
-  {
-    "id": "4fa62a892d3b",
-    "source": "PressTV",
-    "date": "2026-03-28T07:51",
-    "headline": "Iran complains to UN: US-Israeli attack on fuel tanks blatant violation of international law",
-    "excerpt": "Iran’s Minister of Petroleum says a deliberate US-Israeli attack on fuel storage tanks constitutes a clear violation of international humanitarian law and multilateral environmental commitments.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-28T07:51:30.412929+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/765952/Iran-complains-UN-US-Israeli-attack-fuel-tanks-blatant-violation-international-humanitarian-law"
-  },
-  {
-    "id": "503eb40d5b07",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T04:15",
-    "headline": "How the US-Israel war on Iran unfolded in its first four weeks",
-    "excerpt": "Al Jazeera revisits major military, political and economic developments that took place in first month of the conflict.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-28T05:16:17.203772+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks?traffic_source=rss"
-  },
-  {
-    "id": "51e43d29ab3f",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T04:01",
-    "headline": "Trump says ‘Cuba is next’ target of US military",
-    "excerpt": "Donald Trump publicly threatened Cuba with military attack while speaking at a Saudi investment conference.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-03-28T05:16:17.203829+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-cuba-is-next-target-of-us-military?traffic_source=rss"
   }
 ]
