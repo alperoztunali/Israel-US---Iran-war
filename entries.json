@@ -1,5 +1,93 @@
 [
   {
+    "id": "99f1ea7c6421",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T17:33",
+    "headline": "OPEC+ agrees to hike oil output, warns of slow recovery after attacks",
+    "excerpt": "The rise is largely symbolic as some key members are unable to raise ​production amid the US-Israel war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-05T17:51:03.807215+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/5/opec-agrees-to-hike-oil-output-warns-of-slow-recovery-after-attacks?traffic_source=rss"
+  },
+  {
+    "id": "2e961a852e2d",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T16:15",
+    "headline": "At least 14 people killed in Israeli strikes across Lebanon",
+    "excerpt": "Hezbollah fires projectiles at northern Israel while Israeli troops push deeper into southern Lebanon.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-05T17:51:03.807252+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "a0dd43cfecdd",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T16:06",
+    "headline": "Iranian missile strikes industrial area in southern Israel",
+    "excerpt": "Video captured the moment an Iranian missile hit the Ramat Hovav industrial area in southern Israel.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-05T17:51:03.807277+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/iranian-missile-strikes-industrial-area-in-southern-israel?traffic_source=rss"
+  },
+  {
+    "id": "ebbbfd144390",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T15:41",
+    "headline": "Israel’s Ben-Gvir details plans for Palestinian ‘death row’",
+    "excerpt": "Israeli National Security Minister Itamar Ben-Gvir excitedly outlined plans to establish a “death row” for Palestinians.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-05T17:51:03.807317+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israels-ben-gvir-details-plans-for-palestinian-death?traffic_source=rss"
+  },
+  {
+    "id": "dbf5c4dd88f9",
+    "source": "PressTV",
+    "date": "2026-04-05T17:51",
+    "headline": "IRGC vows severe retaliation if US, Israeli aggression against civilian infrastructure continues",
+    "excerpt": "The IRGC says the second phase of the 95th retaliatory operation would be even more intense if more civilian infrastructure is targeted.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-05T17:51:05.353803+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/05/766354/IRGC-warns-of-harsher-retaliation-if-US,-Israel-strike-civilian-targets"
+  },
+  {
+    "id": "3eba475448b7",
+    "source": "PressTV",
+    "date": "2026-04-05T17:51",
+    "headline": "Iran's army hits Israeli, US targets in renewed reprisal attack",
+    "excerpt": "Iran's army says it has targeted an Israeli petchem plant and a US weapons storage site in Kuwait.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-05T17:51:05.353844+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/05/766359/Iran-army-attacks-Israel-US-petchem-plant-military-camp"
+  },
+  {
+    "id": "00795349bb7a",
+    "source": "PressTV",
+    "date": "2026-04-05T17:51",
+    "headline": "‘Epstein elite’ must await more ‘new surprises’: IRGC’s Quds commander",
+    "excerpt": "Esmail Qa’ani says the US and Israel —whom he referred to as the “Epstein elite”—should expect further “surprises” across the region.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-05T17:51:05.353879+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/05/766360/Iran-IRGC-commander-warns-US-Israel-new-surprises-"
+  },
+  {
+    "id": "e28c54b29966",
+    "source": "PressTV",
+    "date": "2026-04-05T17:51",
+    "headline": "Trump’s ‘reckless’ moves will drag US into ‘living hell’: Qalibaf",
+    "excerpt": "The Iranian Parliament speaker says the US president’s reckless moves will drag the United States into \"a living HELL\" for every single family.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-05T17:51:05.353920+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/05/766363/Trump%E2%80%99s-%E2%80%98reckless%E2%80%99-moves-will-drag-US-into-%E2%80%98living-hell%E2%80%99--Qalibaf"
+  },
+  {
     "id": "81dd08215e08",
     "source": "Al Jazeera",
     "date": "2026-04-05T15:32",
@@ -5410,93 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-03-29T10:02:00.617554+00:00",
     "link": "https://www.aljazeera.com/video/quotable/2026/3/29/analyst-says-that-irans-interest-is-in-an-extended-war?traffic_source=rss"
-  },
-  {
-    "id": "77ee2136d7bb",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T08:21",
-    "headline": "Living in the dark: Gaza’s struggle for electricity",
-    "excerpt": "War has shattered Gaza’s power grid, forcing families to rely on generators and private charging points.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-03-29T10:02:00.617590+00:00",
-    "link": "https://www.aljazeera.com/features/2026/3/29/living-in-the-dark-gazas-struggle-for-electricity?traffic_source=rss"
-  },
-  {
-    "id": "e42e89bdf252",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T08:11",
-    "headline": "Pakistan hosts top Saudi, Turkish, Egyptian diplomats over war in Iran",
-    "excerpt": "Talks are under way in Islamabad, as the Pakistani government acts as mediator between the US and Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-03-29T10:02:00.617624+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-top-saudi-turkish-egyptian-diplomats-over-war-in-iran?traffic_source=rss"
-  },
-  {
-    "id": "8e6964ea7577",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T07:31",
-    "headline": "Lebanese resident stays behind with pet monkey despite evacuation orders",
-    "excerpt": "A Lebanese man has refused to leave Tyre in southern Lebanon, staying with his pet monkey despite evacuation orders.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-03-29T10:02:00.617658+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-resident-stays-behind-with-pet-monkey-despite-evacuation-orders?traffic_source=rss"
-  },
-  {
-    "id": "0caf4f3f6aa3",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T07:30",
-    "headline": "Iran’s IRGC claims attacks on UAE, Bahrain aluminium facilities",
-    "excerpt": "Iran targets Aluminium Bahrain, Emirates Global Aluminium in retaliation for US-Israeli attacks on its infrastructure.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-29T10:02:00.617731+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/29/irans-irgc-claim-attacks-on-uae-bahrain-facilities-linked-to-us-war?traffic_source=rss"
-  },
-  {
-    "id": "42f58e6729ba",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T00:00",
-    "headline": "Iran war live: Pakistan, Turkiye, Egypt, Saudi seek to de-escalate",
-    "excerpt": "Push for diplomacy as Iran threatens retaliatory attacks on Israeli, US universities in the Middle East.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-29T10:02:00.617778+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?traffic_source=rss"
-  },
-  {
-    "id": "e25d0859a1e3",
-    "source": "PressTV",
-    "date": "2026-03-29T10:02",
-    "headline": "Araghchi slams Israeli killing of Lebanese journalists as attempt to ‘assassinate truth’",
-    "excerpt": "Araghchi says the Israeli targeted killing of Lebanese journalists is “an attempt to kill truth.”",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-29T10:02:02.058319+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/29/766011/Araghchi-slams-Israeli-killing-Lebanese-journalists-attempt-assassinate-truth"
-  },
-  {
-    "id": "ba17e3bcb956",
-    "source": "PressTV",
-    "date": "2026-03-29T10:02",
-    "headline": "Iran condemns terrorist attack on residence of Iraqi Kurdistan president",
-    "excerpt": "Araghchi condemns the terrorist attack on the residence of the president of Iraq's Kurdistan Region.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-29T10:02:02.058355+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/29/766005/Iran-condemns-terrorist-attack-on-residence-of-Iraqi-Kurdistan-president"
-  },
-  {
-    "id": "291763dd6706",
-    "source": "PressTV",
-    "date": "2026-03-29T10:02",
-    "headline": "‘Attack on Iran’s scientific foundation’: US-Israeli bombing of top universities sparks outcry",
-    "excerpt": "A wave of international condemnation and shock has followed the US-Israeli bombing of Iran’s premier universities, including the prestigious Iran University of Science and Technology (IUST) in Tehran and Isfahan University of Technology.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-03-29T10:02:02.058379+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/29/766014/attack-iran-scientific-foundation-us-israeli-bombing-top-universities-sparks-outcry"
   }
 ]
