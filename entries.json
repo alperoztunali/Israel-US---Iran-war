@@ -1,5 +1,60 @@
 [
   {
+    "id": "53ef91bd0545",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T05:07",
+    "headline": "Trump’s unpopular war on Iran",
+    "excerpt": "Most Americans oppose the US-Israel war on Iran. ​​No recent US war has ever started off being this unpopular.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-05T05:56:33.438854+00:00",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "89b209f8e809",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T02:14",
+    "headline": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
+    "excerpt": "Tehran says Iraq will face no restrictions in waterway, praising country&#039;s &#039;struggle&#039; against the US.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-04-05T05:56:33.438895+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss"
+  },
+  {
+    "id": "ed143208062f",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T01:13",
+    "headline": "US satellite firm Planet Labs announces blackout on war on Iran images",
+    "excerpt": "Company says move amid US-Israel war on Iran comes after a request from the US government.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-05T05:56:33.438930+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss"
+  },
+  {
+    "id": "8dc6eb22ff7c",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T00:00",
+    "headline": "Iran war live: Trump confirms rescue of US officer, says ‘we got him’",
+    "excerpt": "Iran says US-Israeli attacks on the Mahshahr Petrochemical Zone have killed five and wounded 170.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-05T05:56:33.438960+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss"
+  },
+  {
+    "id": "4f8f8371712d",
+    "source": "PressTV",
+    "date": "2026-04-05T05:56",
+    "headline": "Iran slams US strikes on B1 bridge, Mahshahr petrochemical plants as ‘state terrorism’",
+    "excerpt": "Iran has called on the UN to condemn the US-Israeli strikes on the B1 bridge and Mahshahr petrochemical plants as blatant acts of \"state terrorism\" and \"war crimes.\"",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-05T05:56:35.158811+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/05/766336/US-strikes-on-B1-bridge-Mahshahr-petrochemical-plants-blatant-acts-of-state-terrorism-Iran-to-UN"
+  },
+  {
     "id": "e2d60893a9ae",
     "source": "Al Jazeera",
     "date": "2026-04-04T22:37",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-28T17:05:07.959048+00:00",
     "link": "https://www.aljazeera.com/news/2026/3/28/one-month-in-disapproval-high-but-us-lawmakers-take-no-action-on-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "56c557c1a286",
-    "source": "PressTV",
-    "date": "2026-03-28T17:05",
-    "headline": "Israel rations advanced interceptors amid relentless Iranian missile barrages: Report",
-    "excerpt": "Iran’s retaliatory missile strikes have strained Israel’s air defense systems, allowing more missiles to slip through, the Wall Street Journal says.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-28T17:05:09.893502+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/765982/Israel-rations-advanced-interceptors-amid-relentless-Iranian-missile-barrages-Report"
-  },
-  {
-    "id": "1e70599d714d",
-    "source": "PressTV",
-    "date": "2026-03-28T15:53",
-    "headline": "IRGC strikes US-Israeli industrial sites in retaliation for infrastructure attacks",
-    "excerpt": "The IRGC announces a large-scale missile and drone operation targeting heavy industries belonging to the American-Israeli enemy in occupied territories and other locations in the region.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-03-28T15:53:36.067736+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/765980/IRGC-strikes-US-Israeli-industrial-sites-in-retaliation-for-infrastructure-attacks%C2%A0"
-  },
-  {
-    "id": "8673becef326",
-    "source": "PressTV",
-    "date": "2026-03-28T15:53",
-    "headline": "Pezeshkian warns of Israel’s ‘vicious’ plan to expand Iran war across region",
-    "excerpt": "The Iranian president says the Israeli regime is pursuing malicious plans to expand the ongoing war with Iran to countries across the region.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-28T15:53:36.067788+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/765979/Pezeshkian-warns-of-Israel-s-vicious-plan-to-expand-Iran-war-across-region"
-  },
-  {
-    "id": "6543491710e7",
-    "source": "PressTV",
-    "date": "2026-03-28T15:53",
-    "headline": "US navy men 'ran for their lives' as Iranian forces struck USS Gerald R. Ford from 17 angles: Trump",
-    "excerpt": "Trump acknowledged that the world’s largest aircraft carrier came under fire from the Iranian Armed Forces.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-03-28T15:53:36.067818+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/765977/US-navy-men-ran-for-their-lives-as-Iranian-forces-struck-USS-Gerald-R-Ford-from-17-angles%C2%A0"
-  },
-  {
-    "id": "f8f15a3cdcd7",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T13:34",
-    "headline": "Iran warns neighbours not to let ‘enemies run the war’ from their land",
-    "excerpt": "President Pezeshkian&#039;s warning is the latest by Tehran to neighbours not to allow their territory to be used in the war.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-28T14:04:27.318748+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/28/iran-warns-neighbours-not-to-let-enemies-run-the-war-from-their-land?traffic_source=rss"
   }
 ]
