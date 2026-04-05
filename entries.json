@@ -1,5 +1,93 @@
 [
   {
+    "id": "c58304165312",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T19:07",
+    "headline": "Trump threatens Iran in expletive-filled social media post",
+    "excerpt": "Donald Trump unleashed a vulgar online tirade against Iran’s leaders as his deadline for reopening the Strait of Hormuz.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-05T19:50:42.657357+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/trump-threatens-iran-in-expletive-filled-social-media-post?traffic_source=rss"
+  },
+  {
+    "id": "7007d8f004f2",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T18:36",
+    "headline": "Israel continues deadly attacks on Gaza while striking Iran, Lebanon",
+    "excerpt": "Israel has kept up its attacks on Gaza while striking Iran and Lebanon, killing at least four Palestinians on Sunday.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-05T19:50:42.657394+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israel-continues-deadly-attacks-on-gaza-while-striking-iran-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "f9cfb579a1bd",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T18:29",
+    "headline": "Frustration grows as Iran’s wartime internet shutdown breaks grim record",
+    "excerpt": "Since January, Iran&#039;s near total internet blackout has impacted jobs and businesses.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-05T19:50:42.657438+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/5/frustration-grows-as-irans-wartime-internet-shutdown-breaks-grim-record?traffic_source=rss"
+  },
+  {
+    "id": "13ce05d5e214",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T18:22",
+    "headline": "Video captures Iranian missile striking residential building in Haifa",
+    "excerpt": "Video captured the moment of a direct hit by an Iranian missile on a residential building in Israel’s Haifa.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-05T19:50:42.657466+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/video-captures-iranian-missile-striking-residential-building-in-haifa?traffic_source=rss"
+  },
+  {
+    "id": "cfad436d6b27",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T18:20",
+    "headline": "Rodent infestations and attacks spread in Gaza tent camps",
+    "excerpt": "Rat infestations are spreading through Gaza’s displacement camps, Al Jazeera’s Tareq Abu Azzoum reports.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-05T19:50:42.657503+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/rodent-infestations-and-attacks-spread-in-gaza-tent-camps?traffic_source=rss"
+  },
+  {
+    "id": "03921d0c3328",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T18:01",
+    "headline": "‘Refuse to celebrate’: Christians in Gaza mark sombre Easter amid genocide",
+    "excerpt": "Christians pray in quiet gatherings to mark the resurrection of Christ while holding on to hope for survival and peace.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-05T19:50:42.657546+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/5/refuse-to-celebrate-christians-in-gaza-mark-sombre-easter-amid-genocide?traffic_source=rss"
+  },
+  {
+    "id": "f326bd1621bb",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T17:58",
+    "headline": "Israeli air strikes, shelling across Lebanon add to rising death toll",
+    "excerpt": "Widespread Israeli attacks pounded Lebanon from Beirut to Tyre on Sunday, adding to a rising death toll.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-05T19:50:42.657566+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strikes-shelling-across-lebanon-add-to-rising-death-toll?traffic_source=rss"
+  },
+  {
+    "id": "8bb2cc9f12f6",
+    "source": "PressTV",
+    "date": "2026-04-05T19:50",
+    "headline": "IRGC Navy pounds key US-Israeli targets in wave 97 of Operation True Promise 4",
+    "excerpt": "The 97th wave of Operation True Promise 4 was carried out on Sunday with a large-scale missile-and-drone strikes against pivotal US and Zionist targets.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-05T19:50:44.446412+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/05/766364/IRGC-navy-strikes-key-US-Israeli-targets-in-97th-wave-of-operation"
+  },
+  {
     "id": "99f1ea7c6421",
     "source": "Al Jazeera",
     "date": "2026-04-05T17:33",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-29T11:46:42.510065+00:00",
     "link": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss"
-  },
-  {
-    "id": "baf0ca6135e3",
-    "source": "PressTV",
-    "date": "2026-03-29T11:46",
-    "headline": "‘Sharks of Persian Gulf await US troops’: Iran military warns amid ground invasion threats",
-    "excerpt": "Iran’s military says American troops would become “good food for the sharks of the Persian Gulf” in the event of a ground offensive.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-03-29T11:46:43.758063+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/29/766020/Sharks-Persian-Gulf-await-US-troops-Iran-military-warns-amid-threats"
-  },
-  {
-    "id": "36d57cff8ace",
-    "source": "PressTV",
-    "date": "2026-03-29T11:46",
-    "headline": "IRGC strike destroys US surveillance aircraft in Saudi Arabia",
-    "excerpt": "The IRGC says it has targeted and destroyed a US military’s Boeing E3 Sentry surveillance aircraft at a US-run base in Saudi Arabia.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-03-29T11:46:43.758105+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/29/766022/IRGC-strike-destroys-US-surveillance-aircraft-Saudi-Arabia"
-  },
-  {
-    "id": "755890996a56",
-    "source": "PressTV",
-    "date": "2026-03-29T11:46",
-    "headline": "‘Enemy plot backfired’: Qalibaf hails nationwide rallies in support of Armed Forces",
-    "excerpt": "Qalibaf lauds the Iranian people for their mass rallies in support of the Armed Forces defending the country against an illegal act of aggression.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-03-29T11:46:43.758137+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/29/766019/Enemy-plot-backfired-Qalibaf-hails-nationwide-rallies-in-support-of-Armed-Forces"
-  },
-  {
-    "id": "7c293159379c",
-    "source": "PressTV",
-    "date": "2026-03-29T11:46",
-    "headline": "Israeli strike hits Al Araby TV office in Tehran, wounding several people",
-    "excerpt": "The Israeli regime's fighter jets have attacked the Al Araby TV headquarters in Tehran.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-03-29T11:46:43.758152+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/29/766016/Israeli-strike-destroys-Al-Araby-TV-office-in-Tehran-wounding-several-people"
-  },
-  {
-    "id": "a59f25930c32",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T09:30",
-    "headline": "Dozens detained in Tel Aviv as anti-war protest turns violent",
-    "excerpt": "Police in Tel Aviv dispersed protesters opposing the US-Israeli war on Iran on Saturday. Up to 18 people were arrested.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-29T10:02:00.617429+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/dozens-detained-in-tel-aviv-as-anti-war-protest-turns-violent?traffic_source=rss"
-  },
-  {
-    "id": "fbb45c5cafcd",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T09:15",
-    "headline": "Pentagon readies for weeks of US ground operations in Iran: Report",
-    "excerpt": "Uncertainty looms over Trump&#039;s approval of the Pentagon&#039;s plans for limited ground operations in Iran&#039;s strategic regions.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-29T10:02:00.617475+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss"
-  },
-  {
-    "id": "38a90420d6bd",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T08:54",
-    "headline": "US-Israel war on Iran: What’s happening on day 30 of attacks?",
-    "excerpt": "Foreign ministers from Pakistan, Turkiye, Egypt and Saudi Arabia hold talks in Islamabad to end US-Israel war on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-03-29T10:02:00.617515+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/29/us-israel-war-on-iran-whats-happening-on-day-30-of-attacks?traffic_source=rss"
-  },
-  {
-    "id": "08feed5b6e9e",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T08:44",
-    "headline": "Analyst says that Iran’s interest is in an extended war",
-    "excerpt": "Rob Geist-Pinfold, says that the United States has an interest in ending the war while Tehran is likely to prolong it.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-03-29T10:02:00.617554+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/3/29/analyst-says-that-irans-interest-is-in-an-extended-war?traffic_source=rss"
   }
 ]
