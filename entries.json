@@ -1,5 +1,93 @@
 [
   {
+    "id": "dc8bdd714e43",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T11:08",
+    "headline": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
+    "excerpt": "Drivers lined up for free gas in Chicago as fuel prices surge, driven by the US-Israeli war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-05T11:47:36.363273+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss"
+  },
+  {
+    "id": "da230acf7063",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T10:10",
+    "headline": "US pilot from downed F-15E plane rescued in Iran: What we know",
+    "excerpt": "The second pilot from the fighter jet shot down in Iran is rescued by US rescue forces after 48 hours.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-05T11:47:36.363304+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss"
+  },
+  {
+    "id": "91710da1ce46",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T10:04",
+    "headline": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
+    "excerpt": "CCTV footage circulated online shows the moment that an Israeli military dog attacks a worshipper leaving a mosque",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-04-05T11:47:36.363331+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss"
+  },
+  {
+    "id": "81263c948da4",
+    "source": "Al Jazeera",
+    "date": "2026-04-05T00:00",
+    "headline": "Iran war live: Iran claims downing of 2 US planes; Hormuz ‘deadline’ looms",
+    "excerpt": "Tehran says it shoots down two C-130 planes and two Blackhawk helicopters belonging to the US.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-04-05T11:47:36.363382+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss"
+  },
+  {
+    "id": "c1f2625ccfc3",
+    "source": "PressTV",
+    "date": "2026-04-05T11:47",
+    "headline": "‘Mission failed’: Iran crushes US ‘rescue’ bid, destroys several aircraft",
+    "excerpt": "The spokesman for the Khatam al-Anbiya Central Headquarters says Iranian forces have managed to destroy two US C-130 transport planes and two Black Hawk helicopters, which were conducting a mission to retrieve the pilot of a downed American fighter jet.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-05T11:47:38.731456+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/05/766340/Humiliating-defeat-Iran-destroys-US-flying-objects-during-pilot-rescue-mission"
+  },
+  {
+    "id": "edf5b44da4a3",
+    "source": "PressTV",
+    "date": "2026-04-05T11:47",
+    "headline": "Aircraft destroyed during US ‘rescue’ mission cost more than $100 million each",
+    "excerpt": "The aircraft the US used to rescue a crewman of a downed F-15 and destroyed by Iran cost more than $100 million each.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-05T11:47:38.731498+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/05/766348/Aircraft-destroyed-during-US-rescue-of-downed-F-15-pilot-cost-more-than--100-million"
+  },
+  {
+    "id": "9e52e4abb292",
+    "source": "PressTV",
+    "date": "2026-04-05T11:47",
+    "headline": "Hezbollah hits Israeli warship off Lebanon’s coast, sets it aflame",
+    "excerpt": "Lebanese Hezbollah resistance fighters have carried out an operation against an Israeli warship off the coast of Lebanon, setting it ablaze.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-05T11:47:38.731517+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/05/766347/Hezbollah-hits-Israeli-warship-off-Lebanon-coast-sets-aflame"
+  },
+  {
+    "id": "6ac49ce661e9",
+    "source": "PressTV",
+    "date": "2026-04-05T11:47",
+    "headline": "France says not supplying offensive weapons to Israel amid war on Iran",
+    "excerpt": "The French defense minister says the Paris government will not supply offensive weapons to Israel amid the ongoing large-scale and unprovoked military aggression against Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-05T11:47:38.731563+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/05/766349/France-says-not-supplying-offensive-weapons-Israel-amid-war-Iran"
+  },
+  {
     "id": "23d7242fbddd",
     "source": "Al Jazeera",
     "date": "2026-04-05T08:52",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-03-29T00:02:49.140592+00:00",
     "link": "https://presstv.ir/Detail/2026/03/29/766002/Iran-attack-UAE-Bahrain-United-States-Israel"
-  },
-  {
-    "id": "65c02af6b877",
-    "source": "PressTV",
-    "date": "2026-03-29T00:02",
-    "headline": "Millions join ‘No Kings’ protests against Trump across US amid war against Iran",
-    "excerpt": "Millions of demonstrators took to the streets in cities across the United States on Saturday to take part in the “No Kings” protest movement against President Donald Trump’s policies both at home and abroad.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-29T00:02:49.140653+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/766001/no-kings-protests-against-trump-amid-war-against-iran-draw-millions-across-us"
-  },
-  {
-    "id": "0bdc0231bda5",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T22:50",
-    "headline": "Key moments in first month of US-Israeli war on Iran",
-    "excerpt": "One month after US and Israel launched strikes on Iran, the conflict has escalated across the Middle East.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-28T23:02:56.076463+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/key-moments-in-first-month-of-us-israeli-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "d208de584d44",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T22:32",
-    "headline": "Air strikes in Iraq kill three PMF fighters, two police",
-    "excerpt": "Iraq turning into &#039;expanding battleground&#039; in war, which began on February 28 with US-Israeli strikes on Iran.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-03-28T23:02:56.076497+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/28/air-strikes-in-iraq-kill-three-pmf-fighters-and-two-iraqi-police?traffic_source=rss"
-  },
-  {
-    "id": "43cbb13cb84b",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T22:05",
-    "headline": "Reza Pahlavi pledges to ‘make Iran great again’ at 2026 CPAC conference",
-    "excerpt": "Iranian opposition leader calls on Trump administration to &#039;stay the course&#039; as the US and Israel wage war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-28T23:02:56.076539+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/28/reza-pahlavi-pledges-to-make-iran-great-again-at-2026-cpac-conference?traffic_source=rss"
-  },
-  {
-    "id": "92a4d99924f4",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T21:56",
-    "headline": "Pakistan secures Iran deal to send 20 ships through Strait of Hormuz",
-    "excerpt": "Islamabad&#039;s diplomatic push bears fruit as the world watches for signs of a broader breakthrough.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-03-28T23:02:56.076568+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "7fd622e4e449",
-    "source": "PressTV",
-    "date": "2026-03-28T23:02",
-    "headline": "IRGC: Israeli, US universities in region legitimate targets after strikes on Iranian university",
-    "excerpt": "The IRGC declares that Israeli and American universities in West Asia have become targets of Iran’s retaliatory strikes following attacks on a major Iranian university.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-28T23:02:57.523418+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/766000/Iran-IRGC-warning-Israel-United-States-universities-West-Asia"
-  },
-  {
-    "id": "73fe2e967c7c",
-    "source": "PressTV",
-    "date": "2026-03-28T23:02",
-    "headline": "Iran warns of US, Israeli plots to expand aggression",
-    "excerpt": "Foreign Minister Abbas Araghchi warns that the US and the Israeli regime might seek to expand their ongoing unprovoked aggression targeting Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-28T23:02:57.523455+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/28/765998/Iran-expand-war-Israel-United-States"
-  },
-  {
-    "id": "4d23032fc30f",
-    "source": "Al Jazeera",
-    "date": "2026-03-28T20:58",
-    "headline": "Kuwait airport hit by Iranian drone strikes",
-    "excerpt": "Thick, black smoke rose from Kuwait International Airport Saturday after suspected Iranian drone strikes caused damage.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-28T21:59:38.606567+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss"
   }
 ]
