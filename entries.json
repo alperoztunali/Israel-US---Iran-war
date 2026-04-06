@@ -1,5 +1,71 @@
 [
   {
+    "id": "d47d4690fd4c",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T06:09",
+    "headline": "Steph Curry returns from injury with 29 points but Warriors lose to Rockets",
+    "excerpt": "NBA star marks comeback after nine weeks as Houston Rockets beat Golden State Warriors 117-116 in San Francisco.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-04-06T06:19:34.618087+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/6/steph-curry-returns-from-injury-with-29-points-but-warriors-lose-to-rockets?traffic_source=rss"
+  },
+  {
+    "id": "59e44550f87a",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T05:40",
+    "headline": "A new regional order for the Strait of Hormuz",
+    "excerpt": "The GCC and Iran can come up with a new security architecture for the Strait of Hormuz that can give Trump an off-ramp.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-06T06:19:34.618152+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/4/6/a-new-regional-order-for-the-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "0b586674755b",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T01:14",
+    "headline": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
+    "excerpt": "Diesel prices have more than doubled in the Southeast Asian nation amid Iran&#039;s blockade of the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-06T06:19:34.618202+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "3f4354b557b3",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T00:00",
+    "headline": "Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa",
+    "excerpt": "Iranian officials dismiss Trump&#039;s ultimatum, condemn latest threats as &#039;incitement to war crimes&#039;.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-04-06T06:19:34.618233+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "11b19413d9e2",
+    "source": "PressTV",
+    "date": "2026-04-06T06:19",
+    "headline": "UK police arrest activists protesting US aggression on Iran near RAF base",
+    "excerpt": "British police have arrested seven pro-Palestine activists near an RAF base for protesting against the US aggression on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-06T06:19:36.202621+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/06/766375/Police-arrest-activists-protesting-against-US-aggression-on-Iran-near-RAF-base"
+  },
+  {
+    "id": "7da480d0fa2b",
+    "source": "PressTV",
+    "date": "2026-04-06T06:19",
+    "headline": "It's either security for all or security for none, warns Iraq's Kataeb Hezbollah",
+    "excerpt": "The Kataeb Hezbollah leader said, \"The Strait of Hormuz will not be opened to the enemies.”",
+    "category": "Statement",
+    "location": "Iraq",
+    "addedAt": "2026-04-06T06:19:36.202664+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/05/766373/It-s-either-security-for-all-or-security-for-none,-warns-Iraq-s-Kataeb-Hezbollah"
+  },
+  {
     "id": "6158e0b396fe",
     "source": "PressTV",
     "date": "2026-04-05T23:53",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-29T15:51:01.600818+00:00",
     "link": "https://www.aljazeera.com/video/digital-dilemma/2026/3/29/how-the-us-memeifies-its-war-on?traffic_source=rss"
-  },
-  {
-    "id": "33e39d64bd19",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T14:35",
-    "headline": "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks",
-    "excerpt": "Foreign ministers meet in Islamabad, seeking to de-escalate the US-Israel war on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-03-29T15:51:01.600855+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/29/pakistan-maintains-delicate-balancing-act-as-it-hosts-iran-talks?traffic_source=rss"
-  },
-  {
-    "id": "1f55166d21ae",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T14:26",
-    "headline": "‘Nowhere is really safe’: Iranian dissidents grapple with US war in Iran",
-    "excerpt": "Critics of Iran&#039;s government say they fear retribution while in exile, as well as growing anti-immigrant sentiment.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-29T15:51:01.600898+00:00",
-    "link": "https://www.aljazeera.com/features/longform/2026/3/29/nowhere-is-really-safe-iranian-dissidents-grapple-with-us-war-in-iran?traffic_source=rss"
-  },
-  {
-    "id": "acea7e691cd1",
-    "source": "PressTV",
-    "date": "2026-03-29T15:51",
-    "headline": "Iran Army launches drone strikes on US forces in Jordan",
-    "excerpt": "The Iranian Army has announced that it carried out drone strikes targeting US military positions in Jordan.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-29T15:51:03.943174+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/29/766031/Iran-Army-launches-drone-strikes-on-US-forces-in-Jordan"
-  },
-  {
-    "id": "b78b1bbc4b41",
-    "source": "PressTV",
-    "date": "2026-03-29T15:51",
-    "headline": "‘Regime change begins at home’: No Kings, No War protests held across US",
-    "excerpt": "Millions of people across all 50 US states joined more than 3,300 coordinated demonstrations, voicing their opposition to the ongoing US-Israeli military aggression against Iran and other grievances triggered by the aggressive policies of the Donald Trump administration.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-29T15:51:03.943233+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/29/766030/%E2%80%98Regime-change-begins-at-home%E2%80%99--No-Kings,-No-War-protests-held-across-US"
-  },
-  {
-    "id": "17f5195b12b3",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T13:42",
-    "headline": "Israeli footballer’s role in assault on southern Lebanon sparks outrage",
-    "excerpt": "Israeli Premier League player Menashe Zalka is seen opening fire with Israeli army soldiers in southern Lebanon assault.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-29T14:05:12.152864+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/3/29/israeli-footballers-role-in-assault-on-southern-lebanon-sparks-outrage?traffic_source=rss"
-  },
-  {
-    "id": "ee7941952281",
-    "source": "Al Jazeera",
-    "date": "2026-03-29T13:33",
-    "headline": "Iran ‘hits’ US AWACS, air tankers: What else has it targeted in past month?",
-    "excerpt": "Iran reportedly hits E-3 Sentry flying radars, which track drones, missiles, aircraft from hundreds of kilometres away.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-29T14:05:12.152901+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/29/iran-hits-us-awacs-air-tankers-what-else-has-it-targeted-in-past-month?traffic_source=rss"
   }
 ]
