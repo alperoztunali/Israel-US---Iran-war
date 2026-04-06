@@ -1,5 +1,115 @@
 [
   {
+    "id": "c21f85d4fec0",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T19:40",
+    "headline": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
+    "excerpt": "Israeli forces launched renewed strikes across Lebanon, hitting the south and Beirut’s outskirts, killing civilians.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-04-06T19:57:30.555487+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/renewed-israeli-strikes-pound-lebanon-as-ground-offensive-deepens?traffic_source=rss"
+  },
+  {
+    "id": "9c2c15b7c939",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T19:34",
+    "headline": "Child rescued from rubble after Russia ramps up strikes on Ukraine",
+    "excerpt": "A child was rescued from the rubble of a collapsed home in Odesa after a Russian strike killed at least three people.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-06T19:57:30.555530+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "9549bd80ff2c",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T19:08",
+    "headline": "Rescuers search for survivors after strikes hit homes in Iran",
+    "excerpt": "Iranian Red Crescent footage shows damage in Iran, as rescuers search for survivors after US-Israeli strikes hit homes.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-06T19:57:30.555566+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/rescuers-search-for-survivors-after-strikes-hit-homes-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "528dce2f7516",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T18:32",
+    "headline": "North Korea keeping Iran at arm’s length, reports Seoul",
+    "excerpt": "South Korea says Pyongyang is wary as it seeks to renew diplomatic dialogue with the US.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-06T19:57:30.555600+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/6/north-korea-keeping-iran-at-arms-length-reports-seoul?traffic_source=rss"
+  },
+  {
+    "id": "39a1b7382b4b",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T18:18",
+    "headline": "Hegseth says strikes on Iran increasing as Hormuz deadline looms",
+    "excerpt": "US Secretary of Defense Pete Hegseth said Monday will be the “largest volume of strikes” on Iran since the war began.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-06T19:57:30.555628+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/hegseth-says-strikes-on-iran-increasing-as-hormuz-deadline-looms?traffic_source=rss"
+  },
+  {
+    "id": "b0c341295792",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T18:17",
+    "headline": "Video: Iran’s top university hit in US-Israeli strikes",
+    "excerpt": "Footage shows damaged research buildings at Tehran’s Sharif University following a US-Israeli strike.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-06T19:57:30.555668+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-irans-top-university-hit-in-us-israeli-strikes?traffic_source=rss"
+  },
+  {
+    "id": "bec1b643b63c",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T17:51",
+    "headline": "Democrats blast Trump for Iran ‘war crimes’ threat; Republicans supportive",
+    "excerpt": "Several members of US Congress question president&#039;s fitness for office after his expletive-laden Easter Sunday message.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-06T19:57:30.555707+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/6/democrats-blast-trump-for-iran-war-crimes-threat-republicans-supportive?traffic_source=rss"
+  },
+  {
+    "id": "d5c467fc6fd4",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T17:47",
+    "headline": "How Asia became ground zero for the oil crisis",
+    "excerpt": "As the Iran war disrupts oil flows, fuel shortages hit Asia first. Is this the start of a wider global energy crisis?",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-06T19:57:30.555746+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/6/aje-onl-tt_irn_energyrevisited_av_v2-060426?traffic_source=rss"
+  },
+  {
+    "id": "0bce23a50a45",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T17:38",
+    "headline": "Trump warns deadline ‘final’ as Iran pushes proposal to end war",
+    "excerpt": "US president says proposal not enough to avert threat to infrastructure should Iran fail to open Strait of Hormuz.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-06T19:57:30.555773+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/6/trump-warns-deadline-final-as-iran-pushes-proposal-to-end-war?traffic_source=rss"
+  },
+  {
+    "id": "dc3cfbc118a2",
+    "source": "Al Jazeera",
+    "date": "2026-04-06T17:12",
+    "headline": "Trump praised airman’s rescue in Iran during White House Easter event",
+    "excerpt": "Donald Trump praised the rescue of a downed American airman in Iran during remarks at the White House Easter Egg roll.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-06T19:57:30.555809+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-praised-airmans-rescue-in-iran-during-white-house-easter-event?traffic_source=rss"
+  },
+  {
     "id": "1dabda3dfded",
     "source": "Al Jazeera",
     "date": "2026-04-06T16:50",
@@ -5388,115 +5498,5 @@
     "location": "Egypt",
     "addedAt": "2026-03-30T10:47:30.250096+00:00",
     "link": "https://www.aljazeera.com/sports/2026/3/30/mohamed-salah-warned-against-us-move-as-mls-clubs-eye-egyptian-footballer?traffic_source=rss"
-  },
-  {
-    "id": "733635d407bf",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T06:20",
-    "headline": "Settlers burn vehicles in town near Hebron",
-    "excerpt": "Video shows vehicles set on fire in the town of ad-Dhahiriya, near Hebron, during an attack by Israeli settlers.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-30T10:47:30.250125+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/settlers-burn-vehicles-in-town-near-hebron?traffic_source=rss"
-  },
-  {
-    "id": "d6f45d7ecd5c",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T06:18",
-    "headline": "Land Day: What happened in Palestine on March 30, 1976?",
-    "excerpt": "Fifty years ago, six unarmed Palestinians were killed and over 100 were injured protesting Israel’s land confiscations.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-03-30T10:47:30.250176+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/30/land-day-what-happened-in-palestine-on-march-30-1976?traffic_source=rss"
-  },
-  {
-    "id": "543ee61c892a",
-    "source": "PressTV",
-    "date": "2026-03-30T10:47",
-    "headline": "IRGC Navy commander Tangsiri martyred after sustaining injuries in US-Israeli aggression",
-    "excerpt": "IRGC announces the martyrdom of Navy Commander Rear Admiral Alireza Tangsiri following injuries he sustained in the US-Israeli aggression.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-03-30T10:47:32.012125+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/30/766063/IRGC-confirms-martyrdom-of-navy-chief-Tangsiri-after-sustaining-injuring-in-US-Israeli-aggression"
-  },
-  {
-    "id": "a95b68efea5b",
-    "source": "PressTV",
-    "date": "2026-03-30T10:47",
-    "headline": "Iran Army drones strike US radar stations, site for troops deployment in UAE",
-    "excerpt": "Iran’s Army says it targeted the US radar stations and a site for the deployment of American military forces in the UAE.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-30T10:47:32.012173+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/30/766067/Iran-Army-drones-strike-US-radar-stations-site-troops-deployment-UAE"
-  },
-  {
-    "id": "950066600e92",
-    "source": "PressTV",
-    "date": "2026-03-30T10:47",
-    "headline": "Iran: Accommodations of US, Israeli commanders, officials deemed legitimate targets",
-    "excerpt": "The spokesperson for the Khatam al-Anbiya Central Headquarters of Iran says the accommodations of US and Israeli commanders and officials could come under the country's retaliatory operations.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-30T10:47:32.012209+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/30/766053/Iran-warns-accommodations-of-US-Israeli-commanders-officials-could-come-under-strikes%C2%A0"
-  },
-  {
-    "id": "a72feec1b371",
-    "source": "PressTV",
-    "date": "2026-03-30T10:47",
-    "headline": "Two MKO members executed for acts of terror during Iran’s January riots",
-    "excerpt": "Two members of the terrorist Mujahedeen-e Khalq Organization (MKO) were executed for acts of terror during Iran's foreign-instigated riots in January.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-30T10:47:32.012245+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/30/766064/Two-MKO-members-executed-for-acts-of-terror-during-Iran-s-January-riots%C2%A0"
-  },
-  {
-    "id": "4366d896d659",
-    "source": "PressTV",
-    "date": "2026-03-30T10:47",
-    "headline": "Trump threatens to invade Iran’s Kharg Island ‘to take the oil’",
-    "excerpt": "Trump says the US may invade Kharg Island in order to take control of Iran’s oil exports.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-30T10:47:32.012276+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/30/766057/Trump-threatens-invade-Iran-Kharg-Island-take-the-oil"
-  },
-  {
-    "id": "d3128bd152f9",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T05:54",
-    "headline": "By the 50th anniversary of Land Day, Palestinians lose most of their land",
-    "excerpt": "Palestinians still face illegal Israeli settlement expansions, land seizures and restrictions on access to their land.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-30T06:25:55.663947+00:00",
-    "link": "https://www.aljazeera.com/features/2026/3/30/by-the-50th-anniversary-of-land-day-palestinians-lose-most-of-their-land?traffic_source=rss"
-  },
-  {
-    "id": "a230be87cfc2",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T05:54",
-    "headline": "‘We’re killing them, bro’: Israelis correct Iranian online streamer",
-    "excerpt": "Iranian musician thanks young Israeli women for ‘saving’ Iran through US-Israeli air strikes.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-03-30T06:25:55.663984+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/were-killing-them-bro-israelis-correct-iranian-online-streamer?traffic_source=rss"
-  },
-  {
-    "id": "206641cae372",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T05:20",
-    "headline": "Trump says Iran’s ‘had regime change’ as he describes ‘boatloads of oil’",
-    "excerpt": "US President Donald Trump says the US-Israeli war on Iran has effectively brought ‘regime change’.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-30T06:25:55.664035+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/trump-says-irans-had-regime-change-as-he-describes-boatloads-of-oil?traffic_source=rss"
   }
 ]
