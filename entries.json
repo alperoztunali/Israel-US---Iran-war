@@ -1,5 +1,126 @@
 [
   {
+    "id": "dbbfc4d680c2",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T19:45",
+    "headline": "Massive fire engulfs oil storage tanks near Baghdad",
+    "excerpt": "Video showed orange flames and thick black smoke pouring from “black oil” storage tanks in Nahrawan near Baghdad, Iraq.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-04-07T20:07:13.993195+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/massive-fire-engulfs-oil-storage-tanks-near-baghdad?traffic_source=rss"
+  },
+  {
+    "id": "b32f14fc270a",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T19:41",
+    "headline": "‘No end in sight’ if Trump acts on threat to destroy Iran infrastructure",
+    "excerpt": "Escalation by Donald Trump is likely to be met with more Iranian attacks, further destabilising region, experts say.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-07T20:07:13.993257+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/7/no-end-in-sight-if-trump-acts-on-threat-to-destroy-iran-infrastructure?traffic_source=rss"
+  },
+  {
+    "id": "b952f5b96f24",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T19:37",
+    "headline": "Iranians form human chains across bridges, at power plants",
+    "excerpt": "Iranians formed human chains across bridges and in front of power plants across the country.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-07T20:07:13.993292+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranians-form-human-chains-across-bridges-at-power-plants?traffic_source=rss"
+  },
+  {
+    "id": "843fe8d7acec",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T19:30",
+    "headline": "How AI is being used to target Palestinians",
+    "excerpt": "We examine how emerging military tech is used in war zones and how Palestinians try to use tech to their advantage.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-07T20:07:13.993333+00:00",
+    "link": "https://www.aljazeera.com/video/the-stream/2026/4/7/how-ai-is-being-used-to-target-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "297385eac6bc",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T19:14",
+    "headline": "Video: Historic building in Ukraine up in flames after Russia drone attack",
+    "excerpt": "A two-storey historical building in eastern Ukraine engulfed in flames after a Russian drone hit its infrastructure.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-04-07T20:07:13.993363+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/video-historic-building-in-ukraine-up-in-flames-after-russia-drone-attack?traffic_source=rss"
+  },
+  {
+    "id": "3eea430f81c7",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T19:07",
+    "headline": "French nationals return home following Iran prison release",
+    "excerpt": "Cecile Kohler and Jacques Paris were freed in November after more than three years at Evin prison.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-07T20:07:13.993398+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/7/french-nationals-return-home-following-iran-prison-release?traffic_source=rss"
+  },
+  {
+    "id": "9396c8508fdb",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T19:02",
+    "headline": "What we know about the shooting by Istanbul’s Israeli consulate",
+    "excerpt": "Gunmen opened fire near the Israeli consulate in Istanbul, triggering a gun battle with Turkish police.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-07T20:07:13.993435+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/what-we-know-about-the-shooting-by-istanbuls-israeli-consulate?traffic_source=rss"
+  },
+  {
+    "id": "b92fc3aa31b8",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T18:53",
+    "headline": "Iraqi armed group releases abducted US journalist Shelly Kittleson",
+    "excerpt": "The armed group Kataib Hezbollah said that it would free Kittleson on the condition that she leave Iraq immediately.",
+    "category": "Statement",
+    "location": "Iraq",
+    "addedAt": "2026-04-07T20:07:13.993484+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/7/iraqi-armed-group-releases-abducted-us-journalist-shelly-kittleson?traffic_source=rss"
+  },
+  {
+    "id": "870775e33deb",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T18:45",
+    "headline": "Tehran synagogue destroyed as US-Israeli strikes kill over a dozen",
+    "excerpt": "A synagogue in Tehran was struck in a wave of US-Israeli attacks overnight.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-07T20:07:13.993514+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/tehran-synagogue-destroyed-as-us-israeli-strikes-kill-over-a-dozen?traffic_source=rss"
+  },
+  {
+    "id": "3760b02f9d66",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T17:19",
+    "headline": "WHO suspends Gaza medical evacuations after Israeli fire kills driver",
+    "excerpt": "Evacuations will remain suspended until further notice, WHO says, adding that the incident is under investigation.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-07T20:07:13.993547+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/7/who-halts-gaza-medical-evacuations-after-worker-killed?traffic_source=rss"
+  },
+  {
+    "id": "63ed835550bf",
+    "source": "PressTV",
+    "date": "2026-04-07T20:07",
+    "headline": "IRGC downs six cruise missiles over Qazvin, Army intercepts two more",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC) intercepted and destroyed six advanced cruise missiles over the skies of Qazvin province, while the Army shot down two additional missiles north of Tehran and over Hamedan, military officials announced on Tuesday.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-04-07T20:07:15.547800+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/07/766462/IRGC-downs-six-cruise-missiles-over-Qazvin-Army-intercepts-two-more"
+  },
+  {
     "id": "07be0545a90a",
     "source": "Al Jazeera",
     "date": "2026-04-07T17:32",
@@ -5377,126 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-31T09:47:59.149756+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/south-korean-president-promises-maximum-response-to-energy-crisis?traffic_source=rss"
-  },
-  {
-    "id": "9ea86d47bda0",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T06:45",
-    "headline": "Drone attack sparks fire on Kuwaiti tanker in UAE amid Iran’s Gulf attacks",
-    "excerpt": "Dubai authorities say blaze contained with no oil leakage or injuries reported, as attacks are reported across the Gulf.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-31T09:47:59.149781+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/31/drone-attack-sparks-fire-on-kuwaiti-tanker-in-uae-amid-irans-gulf-attacks?traffic_source=rss"
-  },
-  {
-    "id": "108a6155c284",
-    "source": "PressTV",
-    "date": "2026-03-31T09:48",
-    "headline": "Op. True Promise 4, Wave 88: IRGC Navy says it launched 'heavy' attacks on US-Israeli targets",
-    "excerpt": "The Islamic Revolution Guards Corps announced the launch of wave 88 of Operation True Promise, saying its naval force has conducted four successful operations against positions of US-Israeli forces.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-03-31T09:48:05.297099+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/31/766105/True-Promise-4-Wave-88"
-  },
-  {
-    "id": "cebb99071329",
-    "source": "PressTV",
-    "date": "2026-03-31T09:48",
-    "headline": "Iran’s Armed Forces will cut off the feet of any aggressor: Top military command",
-    "excerpt": "Iran’s highest operational command unit asserts that the country’s Armed Forces and nation have always frustrated the enemies’ wrongheaded plots and will continue to do so.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-03-31T09:48:05.297140+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/31/766106/Iran-war-Israel-United-States-warning-Hormuz"
-  },
-  {
-    "id": "5f80ff86601d",
-    "source": "PressTV",
-    "date": "2026-03-31T09:48",
-    "headline": "Chechen units ready to deploy to Iran in the event of US ground invasion: Reports",
-    "excerpt": "Chechen military units have announced their readiness to deploy to Iran to support the Iranian armed forces in the event of a US ground invasion, according to reports.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-03-31T09:48:05.297170+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/31/766102/chechen-units-ready-iran-deployment-event-us-invasion-reports"
-  },
-  {
-    "id": "1b7816adf03b",
-    "source": "PressTV",
-    "date": "2026-03-31T09:48",
-    "headline": "Three civilians killed in US-Israeli attack on major mosque in NW Iran",
-    "excerpt": "At least three people have been killed and a dozen others wounded in a US-Israeli airstrike against a major mosque in Iran’s northwestern city of Zanjan.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-03-31T09:48:05.297187+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/31/766115/Three-civilians-killed-US-Israeli-attack-grand-mosque-northwestern-Iran"
-  },
-  {
-    "id": "a87d69c14507",
-    "source": "PressTV",
-    "date": "2026-03-31T09:48",
-    "headline": "Four Israeli troops killed, two wounded in Hezbollah operations",
-    "excerpt": "At least four Israeli soldiers have been killed and two others wounded during clashes with Hezbollah resistance fighters in southern Lebanon.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-03-31T09:48:05.297201+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/31/766104/Four-Israeli-troops-killed-two-wounded-Hezbollah-operations"
-  },
-  {
-    "id": "236cea0e6ec2",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T04:41",
-    "headline": "Children in Gaza reenact a funeral procession during play",
-    "excerpt": "A group of children reenacted a funeral with their doll as they played together in a displacement camp in Gaza.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-03-31T05:58:08.492500+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/children-in-gaza-reenact-a-funeral-procession-during-play?traffic_source=rss"
-  },
-  {
-    "id": "99a5fa46da83",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T04:40",
-    "headline": "Spain closes airspace to US warplanes involved in war on Iran",
-    "excerpt": "Spain has taken another step in rejecting the US-Israeli war on Iran, denying US warplanes the use of its airspace.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-03-31T05:58:08.492536+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/spain-closes-airspace-to-us-warplanes-involved-in-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "032ff33e84d5",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T04:30",
-    "headline": "Outrage and condemnation over Israel’s death penalty law for Palestinians",
-    "excerpt": "Outrage and widespread condemnation has followed Israel legalising the death penalty for Palestinians.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-31T05:58:08.492580+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/outrage-and-condemnation-over-israels-death-penalty-law-for-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "7b8674c7dbd6",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T02:32",
-    "headline": "Pentagon denies that Hegseth’s broker sought investment before Iran war",
-    "excerpt": "US Department of Defense demands retraction of report alleging broker sought multimillion-dollar investment for Hegseth.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-31T05:58:08.492621+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/3/31/pentagon-denies-hegseths-broker-sought-defence-investment-before-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "95245190f9d4",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T01:25",
-    "headline": "Intense US-Israeli attacks on Iranian city of Isfahan cause column of fire",
-    "excerpt": "Witnesses have captured intense US-Israeli attacks on Isfahan, a city in Iran with a population of 2.3M.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-31T05:58:08.492653+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/intense-us-israeli-attacks-on-iranian-city-of-isfahan-cause-column-of-fire?traffic_source=rss"
   }
 ]
