@@ -1,5 +1,82 @@
 [
   {
+    "id": "88b403a4bb06",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T04:33",
+    "headline": "Trump’s threat to strike Iran’s power plants looms",
+    "excerpt": "US President Donald Trump said ‘Tuesday will be power plant day’ in a vulgar post on social media.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-07T06:05:02.721759+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss"
+  },
+  {
+    "id": "82b435bc7b1e",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T04:11",
+    "headline": "‘Why would Iran agree to a ceasefire given US and Israeli track record?’",
+    "excerpt": "Political analyst Trita Parsi says no one should be surprised that Iran has rejected the idea of a US ceasefire deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-07T06:05:02.721808+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss"
+  },
+  {
+    "id": "a8f7442bfbc3",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T02:03",
+    "headline": "‘They want to create a rift’: Israeli attacks deepen Lebanon fissures",
+    "excerpt": "Lebanon grows increasingly divided as escalating Israeli bombardment and ground invasion worsen displacement crisis.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-07T06:05:02.721837+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss"
+  },
+  {
+    "id": "2c3362361286",
+    "source": "Al Jazeera",
+    "date": "2026-04-07T00:00",
+    "headline": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
+    "excerpt": "Defense Secretary Pete Hegseth says US forces are carrying out more strikes on Iran than any day since start of war.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-07T06:05:02.721864+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss"
+  },
+  {
+    "id": "75723a7c81a2",
+    "source": "PressTV",
+    "date": "2026-04-07T06:05",
+    "headline": "Trump's 'delusional' threats will not make up for US humiliation in West Asia: Iran military",
+    "excerpt": "The spokesman warned that each American action would be met with a fresh defeat.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-07T06:05:05.103021+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/06/766424/Trump-delusional-threats-will-not-make-up-for-US-humiliation-in-West-Asia-Iran-military-"
+  },
+  {
+    "id": "6bee19c36b7b",
+    "source": "PressTV",
+    "date": "2026-04-07T06:05",
+    "headline": "Iran condemns US-Israeli attacks on universities as ‘unprecedented barbarism’",
+    "excerpt": "Iran condemns the US-Israeli attacks on universities, stating that such “barbarism” is unprecedented in modern history.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-07T06:05:05.103068+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/07/766427/Iran-condemns-US-Israeli-attacks-universities-unprecedented-barbarism"
+  },
+  {
+    "id": "485e4a27549f",
+    "source": "PressTV",
+    "date": "2026-04-07T06:05",
+    "headline": "Iranian strike injures 15 US troops in Kuwait, report says amid Washington’s ‘cover-up’ drive",
+    "excerpt": "An Iranian retaliatory drone strike at an American airbase in Kuwait has injured 15 American personnel, according to a report.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-07T06:05:05.103091+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/07/766426/Iran-strike-United-States-base-Kuwait-15-casualties"
+  },
+  {
     "id": "4b640e2822ba",
     "source": "PressTV",
     "date": "2026-04-06T23:54",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-30T14:54:45.188060+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/homes-damaged-as-iranian-missiles-trigger-sirens-across-northern-israel?traffic_source=rss"
-  },
-  {
-    "id": "3ac2ad4c1830",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T12:38",
-    "headline": "Iran’s Foreign Ministry denies claims of US-Iran negotiations",
-    "excerpt": "Iran’s foreign ministry denied claims of negotiations with the US.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-30T14:54:45.188104+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-denies-claims-of-us-iran-negotiations?traffic_source=rss"
-  },
-  {
-    "id": "ffa7c50deac4",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T12:23",
-    "headline": "Trump ‘pretty sure’ of Iran deal, but can Pakistan-led efforts end the war?",
-    "excerpt": "Pakistan, Saudi Arabia, Turkiye and Egypt set up a team for backchannel talks with the US and Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-03-30T14:54:45.188137+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/30/trump-pretty-sure-of-iran-deal-but-can-pakistan-led-efforts-end-the-war?traffic_source=rss"
-  },
-  {
-    "id": "d2e19bb1ba53",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T11:32",
-    "headline": "Germany’s FM tells President al-Sharaa ‘We stand with Syria’",
-    "excerpt": "Syrian president Ahmed al-Sharaa met with top German officials in a visit to Berlin to discuss cooperation.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-03-30T14:54:45.188172+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/germanys-fm-tells-president-al-sharaa-we-stand-with-syria?traffic_source=rss"
-  },
-  {
-    "id": "bac9b56e3bb6",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T11:10",
-    "headline": "Beirut apartment damaged in Israeli strike",
-    "excerpt": "An Israeli air strike has heavily damaged a residential building in Beirut’s southern suburbs.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-03-30T14:54:45.188193+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/beirut-apartment-damaged-in-israeli-strike?traffic_source=rss"
-  },
-  {
-    "id": "9c9ad90d2d80",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T11:10",
-    "headline": "Sirens heard across Haifa port",
-    "excerpt": "Sirens were heard across the port of Haifa on Monday, amid expectations of incoming missiles.",
-    "category": "Missile/Drone",
-    "location": "Haifa",
-    "addedAt": "2026-03-30T14:54:45.188215+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/sirens-heard-across-haifa-port?traffic_source=rss"
-  },
-  {
-    "id": "7267cf71b282",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T11:09",
-    "headline": "Schools, water, industry: What civilian targets have US, Israel, Iran hit?",
-    "excerpt": "US and Israel have increasingly been hitting civilian sites in Iran as efforts to end the weeks-long war are under way.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-30T14:54:45.188244+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/30/schools-water-industry-what-civilian-targets-have-us-israel-iran-hit?traffic_source=rss"
-  },
-  {
-    "id": "a9c89bfc1b30",
-    "source": "Al Jazeera",
-    "date": "2026-03-30T10:56",
-    "headline": "Syria’s al-Sharaa visits Germany to talk reconstruction, return of refugees",
-    "excerpt": "President aims to address refugee repatriation and Syria&#039;s rebuilding during high-level meetings in Berlin.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-03-30T14:54:45.188281+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/30/syrian-president-in-berlin-for-talks-with-germanys-merz?traffic_source=rss"
   }
 ]
