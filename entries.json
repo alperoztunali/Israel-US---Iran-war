@@ -1,5 +1,148 @@
 [
   {
+    "id": "104dc40ec32a",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T05:04",
+    "headline": "US ceasefire allows negotiations on Iran’s ‘workable’ 10-point plan",
+    "excerpt": "Donald Trump’s announcement of a two-week ceasefire paves the way for negotiations on Iran&#039;s 10-point plan.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-08T06:09:04.315337+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/us-ceasefire-allows-negotiations-on-irans-workable-10-point-plan?traffic_source=rss"
+  },
+  {
+    "id": "245e7dcb65b5",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T04:34",
+    "headline": "US politicians react to Trump’s Iran ceasefire with caution, relief",
+    "excerpt": "Republican hawks voice scepticism about talks with Tehran as Democrats welcome the truce and call for accountability.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-08T06:09:04.315388+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/8/caution-relief-as-us-politicians-respond-to-trumps-ceasefire-with-iran?traffic_source=rss"
+  },
+  {
+    "id": "95050b9132f3",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T04:29",
+    "headline": "Iranians commemorate victims of Minab school strike",
+    "excerpt": "Iranians have commemorated the victims of the US strike on a girls school in Minab, that killed 168 people.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-08T06:09:04.315417+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iranians-commemorate-victims-of-minab-school-strike?traffic_source=rss"
+  },
+  {
+    "id": "293771902ef2",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T04:23",
+    "headline": "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East",
+    "excerpt": "Countries urge full commitment to two-week ceasefire, praise Pakistan for role in facilitating truce.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-08T06:09:04.315447+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/8/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-the-middle-east?traffic_source=rss"
+  },
+  {
+    "id": "10d50872ae91",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T03:17",
+    "headline": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
+    "excerpt": "Israeli prime minister welcomes US decision to suspend attacks on Iran, but says the truce does not apply to Lebanon.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-08T06:09:04.315483+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "0cf9772423d1",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T01:55",
+    "headline": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins",
+    "excerpt": "Celebrations have erupted in Iraq following the announcement of a two-week ceasefire between Iran and the US.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-08T06:09:04.315515+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iraqis-celebrates-us-iran-ceasefire-as-two-week-halt-in-war-begins?traffic_source=rss"
+  },
+  {
+    "id": "45d0df873286",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T01:53",
+    "headline": "Climate activist Greta Thunberg slams Trump’s threats against Iran",
+    "excerpt": "Polls have found that young people in the United States are more sceptical of foreign intervention and war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-08T06:09:04.315573+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/8/climate-activist-greta-thunberg-slams-trumps-threats-against-iran?traffic_source=rss"
+  },
+  {
+    "id": "3add1fab15ac",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T01:29",
+    "headline": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire",
+    "excerpt": "Investors welcome the possible resumption of oil and gas flows through the Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-08T06:09:04.315617+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "fa1ea200a08f",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T01:06",
+    "headline": "Iran says talks with US will begin in Pakistan’s Islamabad on Friday",
+    "excerpt": "Tehran says the negotiations will be based on its 10-point proposal, which calls for control over Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-08T06:09:04.315652+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/8/iran-says-talks-with-us-will-begin-in-pakistans-islamabad-on-friday?traffic_source=rss"
+  },
+  {
+    "id": "18595ff971a0",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T01:00",
+    "headline": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
+    "excerpt": "Iran’s Foreign Minister Abbas Araghchi says ‘if attacks against Iran are halted,’ then Iran agrees to a US ceasefire.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-08T06:09:04.315684+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "395db07913a9",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T00:06",
+    "headline": "White House confirms two-week suspension of strikes on Iran",
+    "excerpt": "The White House has confirmed the US has agreed to suspend all bombing and military attacks on Iran for two weeks.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-08T06:09:04.315701+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "ea1692ebff7b",
+    "source": "PressTV",
+    "date": "2026-04-08T06:09",
+    "headline": "FM Araghchi says Iran will cease defensive strikes if unprovoked attacks are halted",
+    "excerpt": "Foreign Minister Abbas Araghchi announces on behalf of Iran's top security body that the Islamic Republic will halt its defensive strikes if unprovoked attacks targeting the country are halted.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-08T06:09:06.117337+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/07/766474/Iran-United-States-Araghchi-Trump"
+  },
+  {
+    "id": "d217afdd7222",
+    "source": "PressTV",
+    "date": "2026-04-08T06:09",
+    "headline": "'Ultimate surrender': Pakistani media says Trump backed down to Iran after 40 days",
+    "excerpt": "Pakistani news networks describe Trump's announcement of suspension in the US's attacks on Iran as his ultimately surrendering to the Islamic Republic.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-08T06:09:06.117375+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/08/766476/Pakistan-Trump-Iran-war-surrender"
+  },
+  {
     "id": "2c860c9359e8",
     "source": "Al Jazeera",
     "date": "2026-04-07T23:25",
@@ -5355,148 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-03-31T16:13:45.741599+00:00",
     "link": "https://www.aljazeera.com/sports/2026/3/31/iran-will-play-world-cup-games-in-us-despite-war-fifas-infantino-says?traffic_source=rss"
-  },
-  {
-    "id": "01b563f983e6",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T14:26",
-    "headline": "Where to invest during Iran war? Ask – or don’t – Mohammad Bagher Ghalibaf",
-    "excerpt": "Iran’s parliamentary speaker is using X to shape market sentiment, blending war messaging with financial signalling.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-31T16:13:45.741645+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/31/where-to-invest-during-iran-war-ask-or-dont-mohammad-bagher-ghalibaf?traffic_source=rss"
-  },
-  {
-    "id": "03d25194e75e",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T13:56",
-    "headline": "War on Iran: US’s history of making other nations pay for conflicts",
-    "excerpt": "White House says Trump could ask Arab nations to bear the cost of the Iran war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-31T16:13:45.741680+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/31/war-on-iran-uss-history-of-making-other-nations-pay-for-conflicts?traffic_source=rss"
-  },
-  {
-    "id": "480f11e52c74",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T13:37",
-    "headline": "Cancer drug facility, religious site hit in Israeli-US strikes on Iran",
-    "excerpt": "The Iranian government said the company&#039;s drug production line has been damaged, as no diplomatic solution is in sight.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-03-31T16:13:45.741716+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/31/cancer-drug-facility-religious-site-hit-in-israeli-us-strikes-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "3d8981b47202",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T13:32",
-    "headline": "Will China join Pakistan-led efforts to mediate US-Iran peace?",
-    "excerpt": "Pakistan&#039;s Deputy PM Ishaq Dar visits China after Islamabad talks to broker negotiations between the US and Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-03-31T16:13:45.741745+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/31/will-china-join-pakistan-led-efforts-to-mediate-us-iran-peace?traffic_source=rss"
-  },
-  {
-    "id": "ad5286141187",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T13:29",
-    "headline": "Tyre hospital ‘hit five times’ since start of Israel’s attacks on Lebanon",
-    "excerpt": "A hospital in southern Lebanon has been subjected to Israeli attacks for a fifth time, as Israeli forces advance further",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-03-31T16:13:45.741787+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/tyre-hospital-hit-five-times-since-start-of-israels-attacks-on-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "bb82ad3fbd4c",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T13:12",
-    "headline": "US defence secretary says next few days in Iran war will be ‘decisive’",
-    "excerpt": "US Defence Secretary Pete Hegseth warned the coming days of the war with Iran will be ‘decisive.&#039;",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-03-31T16:13:45.741823+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/us-defence-secretary-says-next-few-days-in-iran-war-will-be?traffic_source=rss"
-  },
-  {
-    "id": "ac98596fbd5f",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T13:00",
-    "headline": "What’s Israel’s death penalty law that only applies to Palestinians?",
-    "excerpt": "Rights groups condemn Israel&#039;s new law, which will primarily apply to Palestinians, as discriminatory.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-03-31T16:13:45.741858+00:00",
-    "link": "https://www.aljazeera.com/news/2026/3/31/whats-israels-death-penalty-law-that-only-applies-to-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "19ff61231a2c",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T12:12",
-    "headline": "Three Indonesian peacekeepers killed by Israeli attacks in Lebanon",
-    "excerpt": "Two Israeli attacks in southern Lebanon have killed three Indonesian UN peacekeepers in the past 48 hours.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-03-31T16:13:45.741878+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/three-indonesian-peacekeepers-killed-by-israeli-attacks-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "6817f597b380",
-    "source": "Al Jazeera",
-    "date": "2026-03-31T12:01",
-    "headline": "Iranian rescuers save two civilians from rubble after US-Israeli strikes",
-    "excerpt": "Footage shows Iranian Red Crescent Society rescuers and firemen saving two civilians from underneath the rubble.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-31T16:13:45.741907+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/iranian-rescuers-save-two-civilians-from-rubble-after-us-israeli-strikes?traffic_source=rss"
-  },
-  {
-    "id": "addfb43a897c",
-    "source": "PressTV",
-    "date": "2026-03-31T16:13",
-    "headline": "IRGC warns it will target US tech companies for abetting terror in Iran",
-    "excerpt": "The IRGC says 18 US companies, including tech giants, have assisted US-Israeli terror acts in Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-03-31T16:13:47.381460+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/31/766134/IRGC-warns-it-will-target-US-tech-companies-for-abetting-terror-in-Iran"
-  },
-  {
-    "id": "186e2e1d9ee6",
-    "source": "PressTV",
-    "date": "2026-03-31T16:13",
-    "headline": "Iran, resistance front pursue long-term strategy to wear down US-Israeli capabilities: IRGC",
-    "excerpt": "In a series of combined operations, the Iranian armed forces and regional resistance fighters have struck American and Israeli targets as part of the 88th wave of Operation True Promise 4.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-03-31T16:13:47.381490+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/31/766131/Iran-resistance-front-pursue-long-term-strategy-to-wear-down-US%E2%80%93Israeli-capabilities-IRGC"
-  },
-  {
-    "id": "ab6988cc82a1",
-    "source": "PressTV",
-    "date": "2026-03-31T16:13",
-    "headline": "Iran warns of new false-flag attacks, denies reports of missile strike on Turkey",
-    "excerpt": "Iran’s Foreign Minister Abbas Araghchi has warned about an imminent wave of false-flag operations orchestrated by enemies attempting to drag the region into a wider conflict.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-31T16:13:47.381512+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/31/766133/Iran-warns-of-new-false-flag-attacks-denies-reports-of-missile-strike-on-Turkey"
-  },
-  {
-    "id": "c8e71cb9b6e7",
-    "source": "PressTV",
-    "date": "2026-03-31T16:13",
-    "headline": "‎Iran’s air defenses shoot down two more LUCAS drones, one missile ‎",
-    "excerpt": "‎The IRGC says Iran’s air defense systems have shot down two LUCAS drones and a cruise missile over the country’s sky.  ‎",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-03-31T16:13:47.381531+00:00",
-    "link": "https://presstv.ir/Detail/2026/03/31/766129/%E2%80%8EIran-s-air-defenses-shoot-down-two-more-LUCAS-drones-one-missile-%E2%80%8E"
   }
 ]
