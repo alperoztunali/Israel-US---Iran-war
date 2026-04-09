@@ -1,5 +1,104 @@
 [
   {
+    "id": "31f4bc301346",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T04:55",
+    "headline": "Man rescued after two weeks trapped in collapsed Mexico mine",
+    "excerpt": "A man trapped for nearly two weeks in a flooded gold mine in Sinaloa, Mexico, has been rescued by military divers.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-09T06:07:07.105062+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/man-rescued-after-two-weeks-trapped-in-collapsed-mexico-mine?traffic_source=rss"
+  },
+  {
+    "id": "c42465926b00",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T04:46",
+    "headline": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+    "excerpt": "US president meets NATO chief, expresses disappointment over member states failing to back war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-09T06:07:07.105109+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss"
+  },
+  {
+    "id": "3869cce1d7f0",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T03:27",
+    "headline": "13-year-old girl captures terrifying moment Israel bombed Beirut",
+    "excerpt": "A 13-year-old girl on Snapchat captured the moment Israel began its assault on Beirut.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-09T06:07:07.105133+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/13-year-old-girl-captures-terrifying-moment-israel-bombed-beirut?traffic_source=rss"
+  },
+  {
+    "id": "412ce09e3019",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T02:26",
+    "headline": "Turkish convoy condemns ‘lawless aggression’ of the US and Israel",
+    "excerpt": "Hundreds of vehicles have driven through Istanbul to condemn the ‘lawless aggression’ of the US and Israel.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-04-09T06:07:07.105168+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/turkish-convoy-condemns-lawless-aggression-of-the-us-and-israel?traffic_source=rss"
+  },
+  {
+    "id": "7f3ac2c82928",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T01:23",
+    "headline": "Protesters outside Israeli embassy in London condemn assault on Lebanon",
+    "excerpt": "Protesters have blocked roads outside the Israeli embassy in London, condemning Israel’s violent strikes on Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-09T06:07:07.105207+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/protesters-outside-israeli-embassy-in-london-condemn-assault-on-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "c611cf492a37",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T00:36",
+    "headline": "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire",
+    "excerpt": "US Vice President JD Vance says Lebanon is not part of the US-Iran ceasefire.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-09T06:07:07.105239+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/us-vp-jd-vance-says-lebanon-is-not-part-of-the-us-iran-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "778df35aee1a",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T00:00",
+    "headline": "Iran war live: Trump threatens action if Tehran fails to comply with deal",
+    "excerpt": "UN human rights chief Volker Turk describes Israel&#039;s attacks on Lebanon as &#039;horrific&#039;, coming so soon after ceasefire.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-09T06:07:07.105268+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "92c3da634535",
+    "source": "Al Jazeera",
+    "date": "2026-04-08T23:39",
+    "headline": "‘Israel must be restrained for US-Iran ceasefire to hold’",
+    "excerpt": "Former US counterterrorism chief Joe Kent had warned Israel could ‘sabotage’ the US-Iran ceasefire.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-09T06:07:07.105310+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss"
+  },
+  {
+    "id": "22c1b507ef38",
+    "source": "PressTV",
+    "date": "2026-04-09T06:07",
+    "headline": "Hezbollah returns fire with fire; vows to sustain strikes until US-Israeli aggression ends",
+    "excerpt": "Hezbollah unleashes a rocket barrage towards an illegal settlement lying on the northern side of the occupied territories in response to earlier deadly Israeli strikes.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-09T06:07:09.092047+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/09/766517/Lebanon-Hezbollah-attacks-Israel"
+  },
+  {
     "id": "c83e2796f153",
     "source": "Al Jazeera",
     "date": "2026-04-08T22:49",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-01T18:01:29.591286+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-a-marine-expeditionary-unit-is-and-other-us-military-terms?traffic_source=rss"
-  },
-  {
-    "id": "8b175622a3aa",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T15:11",
-    "headline": "Iran denies Trump’s claim Iranian president requested ceasefire",
-    "excerpt": "Donald Trump says US will continue &#039;blasting Iran into oblivion&#039; until Strait of Hormuz is reopened.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-01T18:01:29.591318+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/1/iran-denies-trumps-claim-iranian-president-requested-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "8f8678370b75",
-    "source": "PressTV",
-    "date": "2026-04-01T18:01",
-    "headline": "Iran’s Army urges families of US forces to check on them amid censorship",
-    "excerpt": "The commander of the Iranian Army’s Ground Force has called on the families of US military personnel deployed to West Asia to check on them, citing censorship of casualty figures by the United States Central Command (CENTCOM).",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-01T18:01:31.111633+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/01/766181/Iran-Army-urges-families-US-forces-to-check-on-them-amid-censorship"
-  },
-  {
-    "id": "7d2f57bc545e",
-    "source": "PressTV",
-    "date": "2026-04-01T18:01",
-    "headline": "33 days on, US war goals unmet as Iranian retaliation imposes heavy military, economic costs",
-    "excerpt": "After 33 days, US war objectives – 'regime change', nuclear rollback, and control of the Strait of Hormuz – remain unmet, while Iranian retaliation has imposed heavy military and economic costs on the US.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-01T18:01:31.111677+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/01/766186/33-days-us-war-goals-unmet-iranian-retaliation-imposes-heavy-military-economic-costs"
-  },
-  {
-    "id": "c2643d160786",
-    "source": "PressTV",
-    "date": "2026-04-01T18:01",
-    "headline": "Iran dismisses Trump claim it sought ceasefire as 'false and baseless'",
-    "excerpt": "Iran's Foreign Ministry spokesman has roundly rejected the claim made by the US President Donald Trump that Tehran had requested for a ceasefire.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-01T18:01:31.111702+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/01/766182/Trump-baseless-claim-ceasefire-request"
-  },
-  {
-    "id": "87ea9e33e1da",
-    "source": "PressTV",
-    "date": "2026-04-01T18:01",
-    "headline": "US-Israeli strikes hit over 115,000 civilian structures in Iran: Red Crescent",
-    "excerpt": "ICRS said US-Israeli strikes hit over 115,000 civilian structures in Iran.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-01T18:01:31.111728+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/01/766183/US-Israeli-strikes-hit-115000-civilian-structures-in-Iran-Red-Crescent"
-  },
-  {
-    "id": "7c52f9cdb774",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T13:55",
-    "headline": "Can Russia help fill the global energy gap?",
-    "excerpt": "Higher crude prices due to the disruption in the Strait of Hormuz have helped Russia earn more from energy exports.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-01T14:51:57.553140+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/1/can-russia-help-fill-the-global-energy-gap?traffic_source=rss"
-  },
-  {
-    "id": "6f074985defa",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T13:36",
-    "headline": "French President Macron visits Japan to discuss the energy crisis",
-    "excerpt": "France&#039;s Macron paid a visit to Tokyo to meet with Japan&#039;s Takaichi to discuss the economic war of the war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-01T14:51:57.553186+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/french-president-macron-visits-japan-to-discuss-the-energy-crisis?traffic_source=rss"
-  },
-  {
-    "id": "f1714efd23bc",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T13:24",
-    "headline": "Russia imposing ban on all gasoline exports due to Iran war",
-    "excerpt": "Russia imposing ban on all gasoline exports due to Iran war",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-01T14:51:57.553214+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/russia-imposing-ban-on-all-gasoline-exports-due-to-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "92890235d2b0",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T13:00",
-    "headline": "Lebanon faces growing displacement crisis",
-    "excerpt": "The UN warns Lebanon is facing a cycle of ‘coercive displacement’ as more than one million people flee Israeli attacks.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-01T14:51:57.553247+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/lebanon-faces-growing-displacement-crisis?traffic_source=rss"
   }
 ]
