@@ -1,5 +1,104 @@
 [
   {
+    "id": "362659784e6e",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T21:36",
+    "headline": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks",
+    "excerpt": "Doctors warn of worsening crises as vital supplies run low and Israeli attacks devastate Beirut and surrounding areas.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-09T22:09:53.942067+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss"
+  },
+  {
+    "id": "5e4e23138663",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T21:16",
+    "headline": "Rafah crossing restrictions derail Palestinian student’s academic dreams",
+    "excerpt": "A Medical student was holding onto hopes of being a doctor, when the Gaza war caused restriction on attaining education.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-09T22:09:53.942127+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/rafah-crossing-restrictions-derail-palestinian-students-academic-dreams?traffic_source=rss"
+  },
+  {
+    "id": "017700aa6ecf",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T20:45",
+    "headline": "Netanyahu: ‘No ceasefire in Lebanon’, Israel open to peace talks",
+    "excerpt": "Israeli Prime Minister Benjamin Netanyahu emphasised that a ceasefire is not in effect in Lebanon",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-09T22:09:53.942166+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/netanyahu-no-ceasefire-in-lebanon-israel-open-to-peace-talks?traffic_source=rss"
+  },
+  {
+    "id": "d53c232b69b6",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T20:41",
+    "headline": "Gaza journalists mourn Al Jazeera’s Wishah, killed by Israel",
+    "excerpt": "Wishah is latest Al Jazeera journalist to be killed by Israel in Gaza since the start of the war in October 2023.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-09T22:09:53.942196+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/9/gaza-journalists-mourn-al-jazeeras-wishah-killed-by-israel?traffic_source=rss"
+  },
+  {
+    "id": "3a30055960a1",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T20:16",
+    "headline": "Khamenei says Tehran ‘astonished the world’ during US-Israeli war on Iran",
+    "excerpt": "In a statement read out on television, Mojtaba Khamenei said Tehran will &#039;demand compensation&#039; for war damages.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-04-09T22:09:53.942233+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/9/khamenei-says-tehran-astonished-the-world-during-us-israeli-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "9ef4f93e94bb",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T20:13",
+    "headline": "Iran: Strait of Hormuz open with restrictions",
+    "excerpt": "Iran’s Deputy Foreign Minister says the Strait of Hormuz is open but ships must coordinate with Iranian forces.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-09T22:09:53.942267+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/iran-strait-of-hormuz-open-with-restrictions?traffic_source=rss"
+  },
+  {
+    "id": "096138e92201",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T20:09",
+    "headline": "Saudi Arabia says operational activities halted at several energy sites",
+    "excerpt": "Attacks on energy facilities cause a reduced supply and slow recovery, a Saudi official tells state news agency.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-04-09T22:09:53.942302+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/9/saudi-arabia-says-operational-activities-halted-at-several-energy-sites?traffic_source=rss"
+  },
+  {
+    "id": "2de476afd8d2",
+    "source": "PressTV",
+    "date": "2026-04-09T22:09",
+    "headline": "Qalibaf: ‘Time running out’ for US-Israel to honor ceasefire, stop attacks on Lebanon",
+    "excerpt": "Speaker of Iran’s Parliament Mohammad Bagher Qalibaf has warned the United States and the Israeli regime that “time is running out.\"”",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-09T22:09:57.459188+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/09/766558/Iran%E2%80%99s-Parliament-speaker-warns--%E2%80%98Time-running-out%E2%80%99-for-US-Israel-to-honor-ceasefire"
+  },
+  {
+    "id": "d46998e95533",
+    "source": "PressTV",
+    "date": "2026-04-09T22:09",
+    "headline": "Ex-Iran FM, Leader’s advisor Kamal Kharrazi attains martyrdom days after US-Israeli attack",
+    "excerpt": "Dr. Kamal Kharrazi, head of the Strategic Council on Foreign Relations and former Iranian foreign minister, has succumbed to injuries sustained in a US-Israeli attack earlier this week.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-09T22:09:57.459240+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/09/766559/ex-iran-fm-leader-advisor-dr-kamal-kharrazi-attains-martyrdom-days-after-attack"
+  },
+  {
     "id": "f0f5b8ddcbdf",
     "source": "Al Jazeera",
     "date": "2026-04-09T19:17",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-02T12:02:29.803439+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/2/muslim-majority-countries-condemn-israels-one-sided-new-death-penalty-law?traffic_source=rss"
-  },
-  {
-    "id": "cec47716f30f",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T10:36",
-    "headline": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
-    "excerpt": "Houthi actions align with Iran’s strategy, but maintain autonomy to maximise regional influence and domestic objectives.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-02T12:02:29.803482+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/yemen-houthis-analysis-iran?traffic_source=rss"
-  },
-  {
-    "id": "47d75a66b650",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T10:31",
-    "headline": "US-Israeli attacks and its impact on Iran’s economy",
-    "excerpt": "US-Israeli attacks and its impact on Iran’s economy",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-02T12:02:29.803514+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/us-israeli-attacks-and-its-impact-on-irans-economy?traffic_source=rss"
-  },
-  {
-    "id": "3d14a31b2f08",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T09:27",
-    "headline": "Nearly 1,200 children killed or injured in Yemen despite truce: NGO",
-    "excerpt": "Save the Children says nearly one in two child casualties are due to landmines and explosive remnants of war.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-04-02T12:02:29.803551+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/nearly-1200-children-killed-or-injured-in-yemen-despite-truce?traffic_source=rss"
-  },
-  {
-    "id": "12fd374a1d48",
-    "source": "PressTV",
-    "date": "2026-04-02T12:02",
-    "headline": "Wave 90: Iranian missiles pound US heavy metal facilities in latest retaliation",
-    "excerpt": "The Islamic Revolution Guards Corps has launched the 90th wave of its \"Operation True Promise 4\" specifically targeting American steel and aluminum industries in the region with a fresh barrage of missile strikes.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-02T12:02:31.513812+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/02/766219/True-Promise-4-wave-90"
-  },
-  {
-    "id": "4a35be091251",
-    "source": "PressTV",
-    "date": "2026-04-02T12:02",
-    "headline": "No a single enemy soldier to survive in case of ground invasion: Iran's Army chief",
-    "excerpt": "The commander-in-chief of the Iranian Army warns that no enemy soldier will survive if the United States and the Israeli regime wage a ground invasion of the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-02T12:02:31.513849+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/02/766213/No-a-single-enemy-soldier-to-survive-in-case-of-ground-invasion--Iran-s-Army-chief-"
-  },
-  {
-    "id": "4b351b59e08c",
-    "source": "PressTV",
-    "date": "2026-04-02T12:02",
-    "headline": "Lies, delusions, and spiking oil: US lawmakers blast Trump’s speech on war against Iran",
-    "excerpt": "American lawmakers have denounced US President Donald Trump’s address to the nation for being a bizarre mixture of delusions and lies about objectives and alleged accomplishments in Washington’s ongoing war of aggression against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-02T12:02:31.513899+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/02/766201/US-lawmakers-blast-Trump-speech-on-Iran-war"
-  },
-  {
-    "id": "c9eb966c4051",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T09:20",
-    "headline": "How Israel is expanding its use of AI warfare in Iran and Lebanon",
-    "excerpt": "Israel says AI systems first used in its war on Gaza are now helping plan strikes in Iran and Lebanon.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-02T09:42:49.750258+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/how-israel-is-expanding-its-use-of-ai-warfare-in-iran-and-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "aa53e9e4a229",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T08:13",
-    "headline": "Iran’s ex-foreign minister Kharazi ‘gravely wounded’ in attack on his home",
-    "excerpt": "Apparent assassination attempt comes as Iran&#039;s army pledges to fight until the US, Israel face &#039;permanent surrender&#039;.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-02T09:42:49.750301+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/irans-ex-foreign-minister-kharazi-gravely-wounded-in-attack-on-his-home?traffic_source=rss"
-  },
-  {
-    "id": "e4f033879720",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T08:07",
-    "headline": "Oil price surges, Asian stocks fall as Trump vows to continue Iran attacks",
-    "excerpt": "Asian stocks also took a hit after Trump’s speech as most Southeast Asian countries rely heavily on oil imports.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-02T09:42:49.750341+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/oil-surges-asian-stocks-plunge-as-trump-vows-to-keep-up-iran-attacks?traffic_source=rss"
   }
 ]
