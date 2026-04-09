@@ -1,5 +1,115 @@
 [
   {
+    "id": "fecb0849813a",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T14:52",
+    "headline": "Israeli attacks on Lebanon aimed to undermine ceasefire, critics say",
+    "excerpt": "More than 250 people have been killed in a barrage of air strikes on Lebanon since the ceasefire was declared.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-09T16:06:24.194263+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/9/israeli-attacks-on-lebanon-aimed-to-undermine-ceasefire-critics-say?traffic_source=rss"
+  },
+  {
+    "id": "66f08e0238c2",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T14:47",
+    "headline": "Has Iran’s 10-point plan changed, as JD Vance claims?",
+    "excerpt": "The proposal fuels uncertainty as US officials offer conflicting interpretations of the plan to permanently end hostilities.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-09T16:06:24.194318+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/9/has-irans-10-point-plan-changed-as-jd-vance-claims?traffic_source=rss"
+  },
+  {
+    "id": "b4aae0678f71",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T13:28",
+    "headline": "Israeli settlers storm Al-Aqsa Mosque compound after reopening",
+    "excerpt": "Israeli settlers storm Al-Aqsa Mosque compound after reopening",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-09T16:06:24.194353+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/israeli-settlers-storm-al-aqsa-mosque-compound-after-reopening?traffic_source=rss"
+  },
+  {
+    "id": "a8815e92aacb",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T13:23",
+    "headline": "What is Iran’s Strait of Hormuz protocol and will other nations accept it?",
+    "excerpt": "Tehran&#039;s plans to tax ships passing through the strait and raise money to rebuild is already seeing pushback.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-04-09T16:06:24.194385+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/9/what-is-irans-strait-of-hormuz-protocol-and-will-other-nations-accept-it?traffic_source=rss"
+  },
+  {
+    "id": "7b26e631ec2a",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T13:23",
+    "headline": "The economic cost of US-Israel war on Iran",
+    "excerpt": "The economic cost of US-Israel war on Iran",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-09T16:06:24.194416+00:00",
+    "link": "https://www.aljazeera.com/video/money-works/2026/4/9/the-economic-cost-of-us-israel-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "271487ddeb06",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T13:18",
+    "headline": "US-Iran talks in Pakistan: Who’s attending, what’s on the agenda?",
+    "excerpt": "Islamabad hosts negotiations as US and Iran seek off-ramp. But deep mistrust and regional tensions threaten talks.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-09T16:06:24.194451+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/9/us-iran-talks-in-pakistan-whos-attending-whats-on-the-agenda?traffic_source=rss"
+  },
+  {
+    "id": "53a4e98a9620",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T12:54",
+    "headline": "Lebanon Latest: Israel kills hundreds in one day",
+    "excerpt": "Israel launches a wave of strikes in Lebanon that has killed hundreds, despite a US-Iran ceasefire.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-09T16:06:24.194475+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/aje-onl-aje_onl_lebanon_wrap-090426?traffic_source=rss"
+  },
+  {
+    "id": "a51982abe724",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T11:54",
+    "headline": "Funeral held for Al Jazeera’s Wishah killed in Israeli strike in Gaza",
+    "excerpt": "More than 260 journalists have been killed by Israel in Gaza since the start of the genocide in October 2023.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-09T16:06:24.194512+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/9/funeral-held-for-al-jazeeras-wishah-killed-in-israeli-strike-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "e796550a6686",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T10:57",
+    "headline": "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire",
+    "excerpt": "Ceasefire dispute escalates as US and Israel exclude Lebanon, raising fears of a broader regional conflict.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-09T16:06:24.194545+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "7e41444ec7c3",
+    "source": "PressTV",
+    "date": "2026-04-09T16:06",
+    "headline": "President: Iran will never abandon Lebanon in face of Israeli aggression",
+    "excerpt": "Iran will never abandon the Lebanese people, President Pezeshkian says after ruthless Israeli bombing of residential buildings despite a ceasefire..",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-09T16:06:26.017102+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/09/766543/President--Iran-will-never-abandon-Lebanon-in-face-of-Israeli-aggression-"
+  },
+  {
     "id": "5f95ff186691",
     "source": "Al Jazeera",
     "date": "2026-04-09T09:29",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-02T05:52:24.452787+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "84dfc081ef46",
-    "source": "PressTV",
-    "date": "2026-04-02T05:52",
-    "headline": "Iran prepared for every scenario; US talk of diplomacy should be viewed with skepticism: Official",
-    "excerpt": "Foreign Ministry spokesman Esmaeil Baghaei says Iran’s Armed Forces are fully prepared for every scenario, including a potential American ground attack.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-04-02T05:52:26.147854+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/02/766198/Iran-United-States-ground-attack"
-  },
-  {
-    "id": "9a7411a375df",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T22:12",
-    "headline": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
-    "excerpt": "US has exerted growing influence over the Venezuelan government after abducting former President Nicolas Maduro.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-04-01T23:52:57.254746+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss"
-  },
-  {
-    "id": "0004ab8ed942",
-    "source": "PressTV",
-    "date": "2026-04-01T23:52",
-    "headline": "IRGC commander says Netanyahu’s ‘holiday gift’ to settlers was sirens, fear under Iranian strikes",
-    "excerpt": "IRGC commander highlights the abysmal conditions faced by Zionist settlers as a result of Iran's decisive retaliation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-01T23:52:59.083481+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/01/766197/Iran-Israel-missiles-Netanyahu-IRGC-Aerospace-Force"
-  },
-  {
-    "id": "e869cab301ca",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T21:20",
-    "headline": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
-    "excerpt": "Astronauts have boarded NASA’s Orion capsule as they prepare for the first crewed lunar mission in more than 50 years.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-01T22:06:17.152144+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss"
-  },
-  {
-    "id": "6d9462ce9040",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T21:01",
-    "headline": "Smoke and embers seen over Iran’s Isfahan after strike",
-    "excerpt": "Video captured a massive column of smoke and burning embers towering over Isfahan, Iran following a US-Israeli strike.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-01T22:06:17.152195+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss"
-  },
-  {
-    "id": "c15fed4d92af",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T20:42",
-    "headline": "What are the consequences of Israel’s death penalty law for Palestinians?",
-    "excerpt": "Israel has become the first country to vote in favour of capital punishment in the 21st century.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-01T22:06:17.152236+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/4/1/what-are-the-consequences-of-israels-death-penalty-law-for-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "ea56c3c03b2e",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T20:40",
-    "headline": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public",
-    "excerpt": "In open letter, Iranian President Masoud Pezeshkian urges Americans to see beyond &#039;flood of distortions&#039; as war rages.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-01T22:06:17.152275+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public?traffic_source=rss"
-  },
-  {
-    "id": "30bd9b93f4b5",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T20:20",
-    "headline": "Ecuador claims 28% drop in homicides amid concerns over anti-crime campaign",
-    "excerpt": "President Daniel Noboa has led a hardline effort against local criminal networks, including military operations with US.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-01T22:06:17.152314+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/1/ecuador-claims-28-drop-in-homicides-amid-concerns-over-anti-crime-campaign?traffic_source=rss"
-  },
-  {
-    "id": "7ff6f728c7b4",
-    "source": "Al Jazeera",
-    "date": "2026-04-01T20:16",
-    "headline": "Burundi says at least 13 killed, dozens injured in military base blast",
-    "excerpt": "Army spokesperson says houses, buildings, vehicles ​and military equipment were destroyed in ammunition depot blast.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-01T22:06:17.152353+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/1/burundi-says-at-least-13-killed-dozens-injured-in-military-base-blast?traffic_source=rss"
-  },
-  {
-    "id": "7402105adf6d",
-    "source": "PressTV",
-    "date": "2026-04-01T22:06",
-    "headline": "Leader urges nationwide effort at reconstruction, realization of Iran's 'bright future'",
-    "excerpt": "Iran's Leader urges nationwide efforts aimed at repairing the damages caused by unprovoked American-Zionist aggression and realizing the country's continued prosperity.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-01T22:06:18.860040+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/01/766194/Iran-Leader-message-nation-Islamic-Republic-Day-war-United-States-Israel"
   }
 ]
