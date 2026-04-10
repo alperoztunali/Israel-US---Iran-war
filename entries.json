@@ -1,5 +1,38 @@
 [
   {
+    "id": "4a8c4d1121fb",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T23:16",
+    "headline": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’",
+    "excerpt": "Iranian state TV has read out a message from new Supreme Leader Mojtaba Khamenei which says Iran ‘does not want war’.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-10T00:03:36.749660+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss"
+  },
+  {
+    "id": "9e7121e0ca06",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T22:48",
+    "headline": "US-Iran ceasefire: Uncertainty over what’s next",
+    "excerpt": "Two‑week US‑Iran ceasefire pauses war; “who won?” unresolved as Hormuz, Lebanon strikes, Iran capabilities persist.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-10T00:03:36.749710+00:00",
+    "link": "https://www.aljazeera.com/video/this-is-america/2026/4/9/us-iran-ceasefire-uncertainty-over-whats-next?traffic_source=rss"
+  },
+  {
+    "id": "94b3a8e18e9f",
+    "source": "PressTV",
+    "date": "2026-04-10T00:03",
+    "headline": "IRGC: Iranian forces launched no attacks during ceasefire hours",
+    "excerpt": "IRGC has categorically denied carrying out reported drone and missile strikes on facilities in countries along the southern edge of the Persian Gulf.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-10T00:03:38.384629+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/09/766564/IRGC--Iranian-forces-launched-no-attacks-during-ceasefire-hours"
+  },
+  {
     "id": "362659784e6e",
     "source": "Al Jazeera",
     "date": "2026-04-09T21:36",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-02T12:02:29.803321+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops?traffic_source=rss"
-  },
-  {
-    "id": "fbb499cc1715",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T11:09",
-    "headline": "How Israel’s record budget will finance expanding illegal settlements",
-    "excerpt": "Budget of $271bn comes against a backdrop of surging violence by Israeli settlers towards Palestinians in the West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-02T12:02:29.803365+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/2/how-israels-record-budget-will-finance-expanding-illegal-settlements?traffic_source=rss"
-  },
-  {
-    "id": "a387c85bdfef",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T11:01",
-    "headline": "Libyan military leader may have combat drones despite UN embargo",
-    "excerpt": "Reuters news agency says satellite images show ⁠at least three drones at Al Khadim airbase between April and December.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-02T12:02:29.803399+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/libyan-military-leader-may-have-combat-drones-despite-un-embargo?traffic_source=rss"
-  },
-  {
-    "id": "0e71a4cd9b9c",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T10:40",
-    "headline": "Eight countries condemn Israel’s one-sided death penalty for Palestinians",
-    "excerpt": "Muslim-majority nations denounce Israel&#039;s &#039;increasingly discriminatory&#039; practices that &#039;entrench a system of apartheid&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-02T12:02:29.803439+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/muslim-majority-countries-condemn-israels-one-sided-new-death-penalty-law?traffic_source=rss"
   }
 ]
