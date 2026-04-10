@@ -1,5 +1,82 @@
 [
   {
+    "id": "fc42ab518161",
+    "source": "Al Jazeera",
+    "date": "2026-04-10T05:00",
+    "headline": "Palestinian journalist describes losing prosthetic eye in Israeli prison",
+    "excerpt": "Palestinian journalist Muath Amarne said his prosthetic eye fell out after an infection while in Israeli detention.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-04-10T06:22:06.422037+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/palestinian-journalist-describes-losing-prosthetic-eye-in-israeli-prison?traffic_source=rss"
+  },
+  {
+    "id": "f5bca8543a7a",
+    "source": "Al Jazeera",
+    "date": "2026-04-10T04:57",
+    "headline": "Kuwait blames Iran for drone strike, Iran denies responsibility",
+    "excerpt": "Kuwait is blaming ‘Iran and its proxies’ for a drone attack on Thursday night, while Iran has denied responsibility.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-10T06:22:06.422078+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss"
+  },
+  {
+    "id": "040e51ec3e7d",
+    "source": "Al Jazeera",
+    "date": "2026-04-10T03:13",
+    "headline": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire",
+    "excerpt": "As UK PM Keir Starmer arrived in Doha as part of a Gulf tour he discussed efforts to secure the US-Iran ceasefire.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-10T06:22:06.422118+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "b13005c17d09",
+    "source": "Al Jazeera",
+    "date": "2026-04-10T02:47",
+    "headline": "Shipping in Strait of Hormuz at a standstill despite US-Iran ceasefire",
+    "excerpt": "Washington and Tehran accuse each other of not honouring truce agreement.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-04-10T06:22:06.422146+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "0d854e8fd1f0",
+    "source": "Al Jazeera",
+    "date": "2026-04-10T00:00",
+    "headline": "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks",
+    "excerpt": "Iran’s parliament speaker Mohammad Bagher Ghalibaf warns ‘time is running out’ amid Israel’s attacks on Lebanon.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-10T06:22:06.422178+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss"
+  },
+  {
+    "id": "fdb6386a214b",
+    "source": "Al Jazeera",
+    "date": "2026-04-09T23:50",
+    "headline": "Video shows explosion over Erbil in suspected drone interception",
+    "excerpt": "Video shows an explosion in the sky above Erbil, in the Kurdish region of northern Iraq.",
+    "category": "Missile/Drone",
+    "location": "Iraq",
+    "addedAt": "2026-04-10T06:22:06.422204+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss"
+  },
+  {
+    "id": "340ee854200d",
+    "source": "PressTV",
+    "date": "2026-04-10T06:22",
+    "headline": "Pakistani defense minister: Israel is ‘evil and a curse for humanity’",
+    "excerpt": "Pakistan’s Defense Minister Khawaja Muhammad Asif has blasted the Israeli regime as “evil and a curse for humanity.\"",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-10T06:22:08.162607+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/10/766566/Pakistani-defense-minister-blasts-Israel-over-genocide-in-Lebanon"
+  },
+  {
     "id": "4a8c4d1121fb",
     "source": "Al Jazeera",
     "date": "2026-04-09T23:16",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-02T15:43:02.691637+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/2/pakistan-to-continue-with-iran-us-mediation-despite-obstacles?traffic_source=rss"
-  },
-  {
-    "id": "29dab97333a1",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T12:13",
-    "headline": "Smoke rises over Mashhad, Iran, following strike near airport",
-    "excerpt": "Footage shows columns of smoke rising over the Iranian city of Mashhad, after US-Israeli strikes near the airport.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-02T15:43:02.691691+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/smoke-rises-over-mashhad-iran-following-strike-near-airport?traffic_source=rss"
-  },
-  {
-    "id": "eebf4efa798c",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T11:57",
-    "headline": "Pakistan-bound ships pass through Strait of Hormuz",
-    "excerpt": "Two ships have passed through the Strait of Hormuz and arrived at Karachi Port.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-02T15:43:02.691733+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pakistan-bound-ships-pass-through-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "1b0093646abf",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T11:44",
-    "headline": "Four children killed in nursery school stabbing attack in Uganda",
-    "excerpt": "Police say a suspect is in custody but the motive remains unknown after attack in Ugandan capital, Kampala.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-02T15:43:02.691763+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/four-children-killed-in-school-stabbing-attack-in-uganda?traffic_source=rss"
-  },
-  {
-    "id": "669585e94d65",
-    "source": "PressTV",
-    "date": "2026-04-02T15:43",
-    "headline": "Op. True Promise 4, Wave 90: Iranian missiles pound US heavy metal facilities in region",
-    "excerpt": "The Islamic Revolution Guards Corps has launched the 90th wave of its \"Operation True Promise 4\" specifically targeting American steel and aluminum industries in the region with a fresh barrage of missile strikes.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-02T15:43:04.283178+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/02/766219/True-Promise-4-wave-90"
-  },
-  {
-    "id": "8698a3673eaf",
-    "source": "PressTV",
-    "date": "2026-04-02T15:43",
-    "headline": "‘Locked, loaded, standing tall’: Qalibaf, a war veteran, challenges US after Trump’s threat",
-    "excerpt": "In a defiant message, Iranian parliament speaker and Holy Defense veteran Mohammad Baqer Qalibaf warns the US that millions are ready to defend the nation, invoking his experience in the 1980s war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-02T15:43:04.283229+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/02/766222/locked-loaded-standing-tall-qalibaf-war-veteran-challenges-us-after-trump-threat"
-  },
-  {
-    "id": "009cbf48479d",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T11:44",
-    "headline": "Four children killed in school stabbing attack in Uganda",
-    "excerpt": "This is a breaking news story.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-02T12:02:29.803278+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/four-children-killed-in-school-stabbing-attack-in-uganda?traffic_source=rss"
-  },
-  {
-    "id": "ba8a132b452f",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T11:26",
-    "headline": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
-    "excerpt": "Fighting in southern Lebanon continues as Israel seeks to establish a &#039;security zone&#039; and dismantle Hezbollah.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-02T12:02:29.803321+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops?traffic_source=rss"
   }
 ]
