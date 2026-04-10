@@ -1,5 +1,60 @@
 [
   {
+    "id": "53cdb0b85595",
+    "source": "Al Jazeera",
+    "date": "2026-04-10T09:36",
+    "headline": "Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks",
+    "excerpt": "Gaza&#039;s devastation grows as over 72,000 people killed and 172,000 injured amid Israeli violations of US-brokered truce.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-10T10:17:22.536284+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss"
+  },
+  {
+    "id": "b00aee4a4c81",
+    "source": "Al Jazeera",
+    "date": "2026-04-10T08:27",
+    "headline": "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat",
+    "excerpt": "A Middle Eastern country has for the first time single-handedly checked the war-making capabilities of the US and Israel",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-10T10:17:22.536328+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/4/10/iran-ceasefire-not-an-off-ramp-for-the-us-but-a-life-saving-ejection-seat?traffic_source=rss"
+  },
+  {
+    "id": "e9e87a91a029",
+    "source": "Al Jazeera",
+    "date": "2026-04-10T06:14",
+    "headline": "Iran war: What is happening on day 42 of US-Israeli attacks?",
+    "excerpt": "A Pakistan-brokered US-Iran ceasefire has taken effect but disputes over its scope are fuelling regional tensions.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-10T10:17:22.536361+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/10/iran-war-what-is-happening-on-day-42-of-us-israeli-attacks?traffic_source=rss"
+  },
+  {
+    "id": "8a1ccbcf624d",
+    "source": "Al Jazeera",
+    "date": "2026-04-10T00:00",
+    "headline": "Iran war live: Israel attacks Lebanon again on eve of US-Iran truce talks",
+    "excerpt": "Iran’s parliament speaker warns that ‘time is running out’ as Israel continues to bombard Lebanon.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-10T10:17:22.536399+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss"
+  },
+  {
+    "id": "546e48ef83e1",
+    "source": "PressTV",
+    "date": "2026-04-10T10:17",
+    "headline": "‘Tireless soldier of diplomacy’: Iranian officials mourn martyrdom of veteran diplomat",
+    "excerpt": "Iran’s highest-ranking officials have issued profound messages of condolence following the martyrdom of veteran diplomat Kamal Kharrazi.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-10T10:17:24.069475+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/10/766585/Top-Iranian-officials-mourn-martyrdom-of-Kamal-Kharrazi"
+  },
+  {
     "id": "fc42ab518161",
     "source": "Al Jazeera",
     "date": "2026-04-10T05:00",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-02T15:43:02.691449+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/centcom-releases-video-of-air-strikes-in-fifth-week-of-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "b5e288cf6f15",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T14:26",
-    "headline": "Can Starmer’s 40-nation coalition open the Strait of Hormuz?",
-    "excerpt": "About 20 percent of global oil and gas passes through the Gulf waterway.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-02T15:43:02.691502+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/can-starmers-40-nation-coalition-open-the-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "066d06c3347f",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T14:15",
-    "headline": "Why Lebanon should join the International Criminal Court",
-    "excerpt": "ICC jurisdiction in Lebanon would mean a chance of accountability for Israeli war crimes and renewed political pressure.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-02T15:43:02.691538+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/2/why-lebanon-should-join-the-international-criminal-court?traffic_source=rss"
-  },
-  {
-    "id": "aec13573b188",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T13:53",
-    "headline": "Burkina Faso military, allies committing ‘horrific’ civilian abuses: HRW",
-    "excerpt": "More than 1,800 civilians have been killed by the army and armed groups since 2023, Human Rights Watch says.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-02T15:43:02.691574+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/burkina-faso-military-allies-committing-horrific-civilian-abuses-hrw?traffic_source=rss"
-  },
-  {
-    "id": "0c534b3caa8d",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T13:27",
-    "headline": "UK-led coalition of 40 countries vows action on Hormuz Strait gridlock",
-    "excerpt": "UK PM Keir Starmer urges non-military solutions ahead of coalition meeting to ease gridlock in vital Strait of Hormuz.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-02T15:43:02.691609+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/uk-led-coalition-of-35-countries-vows-action-on-hormuz-strait-gridlock?traffic_source=rss"
-  },
-  {
-    "id": "8b6c1690d5c5",
-    "source": "Al Jazeera",
-    "date": "2026-04-02T13:19",
-    "headline": "Pakistan to continue with Iran-US mediation despite ‘obstacles’",
-    "excerpt": "Islamabad&#039;s statement follows Trump threatening to bomb Iran &#039;back to the Stone Ages&#039;.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-02T15:43:02.691637+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/2/pakistan-to-continue-with-iran-us-mediation-despite-obstacles?traffic_source=rss"
   }
 ]
