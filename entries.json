@@ -1,5 +1,38 @@
 [
   {
+    "id": "91ebda380741",
+    "source": "Al Jazeera",
+    "date": "2026-04-10T21:15",
+    "headline": "Muslims hold first Friday prayers at Al-Aqsa Mosque after reopening",
+    "excerpt": "Thousands of Muslims performed Friday prayers at Al-Aqsa Mosque after it reopened following a 40-day closure by Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-10T21:58:27.651133+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/muslims-hold-first-friday-prayers-at-al-aqsa-mosque-after-reopening?traffic_source=rss"
+  },
+  {
+    "id": "9efe45bdb0c2",
+    "source": "Al Jazeera",
+    "date": "2026-04-10T20:19",
+    "headline": "US-Iran negotiations in Islamabad: What to expect?",
+    "excerpt": "US and Iranian delegations are set to meet in Islamabad for peace talks to end six weeks of war.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-10T21:58:27.651175+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/us-iran-negotiations-in-islamabad-what-to-expect?traffic_source=rss"
+  },
+  {
+    "id": "8013cc57357e",
+    "source": "PressTV",
+    "date": "2026-04-10T21:58",
+    "headline": "Iranian delegation arrives in Islamabad for truce talks, insists on preconditions being met",
+    "excerpt": "High-ranking Iranian delegation arrives in the Pakistani capital for talks with the US, amid the Islamic Republic's insistence on acceptance of its preconditions.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-10T21:58:29.203451+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/10/766611/Iran-talks-United-States-Pakistan-Islamabad-Qalibaf-Araghchi-Vance-Witkoff-Kushner"
+  },
+  {
     "id": "a476a6c93d5b",
     "source": "Al Jazeera",
     "date": "2026-04-10T19:30",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-03T05:52:14.789589+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss"
-  },
-  {
-    "id": "58604636d8c6",
-    "source": "Al Jazeera",
-    "date": "2026-04-03T04:55",
-    "headline": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
-    "excerpt": "Pakistan braces for gas shortage crisis as  LNG supplies collapse amid escalating regional conflict.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-03T05:52:14.789638+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss"
-  },
-  {
-    "id": "6b5c66602c30",
-    "source": "Al Jazeera",
-    "date": "2026-04-03T02:11",
-    "headline": "Iran vows retaliation after deadly US strike on bridge in Karaj",
-    "excerpt": "Iranian officials say the country’s largest bridge will be “built back stronger,” but America’s standing won&#039;t recover.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-03T05:52:14.789670+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss"
-  },
-  {
-    "id": "1edf93ca1445",
-    "source": "PressTV",
-    "date": "2026-04-03T05:52",
-    "headline": "Iran downs two advanced US jets, including second F-35",
-    "excerpt": "Iranian forces shot down two more advanced US fighter jets.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-03T05:52:16.426863+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/03/766244/Another-advanced-US-jet-downed-secret-pilot-hideouts-obliterated"
   }
 ]
