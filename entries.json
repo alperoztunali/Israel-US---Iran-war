@@ -1,5 +1,60 @@
 [
   {
+    "id": "6a57e2a9c4fe",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T08:35",
+    "headline": "At least seven Palestinians killed in Israeli attacks on Gaza",
+    "excerpt": "An early-morning strike hits a group of civilians in ​​Bureij camp as drones attack a tent in Khan Younis.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-11T10:03:27.726448+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "b628e62b2e15",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T07:51",
+    "headline": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+    "excerpt": "Talks due in Washington as Israeli attacks on Lebanon continue, Iran says ceasefire must include them.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-11T10:03:27.726489+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss"
+  },
+  {
+    "id": "e1d25dd23360",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T07:51",
+    "headline": "Israeli drone attack kills Palestinians near Gaza mosque",
+    "excerpt": "An Israeli drone attack near a mosque in central Gaza has killed at least 6 people.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-11T10:03:27.726512+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss"
+  },
+  {
+    "id": "574aa76e935b",
+    "source": "PressTV",
+    "date": "2026-04-11T10:03",
+    "headline": "Iran VP: Deal possible if US negotiators are America Firsters rather than Israel Firsters",
+    "excerpt": "The Iranian vice president has warned that an agreement with the US is not possible if the US delegation represents the interests of the Israeli regime.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-11T10:03:29.045151+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/11/766630/No-deal-with-US-if-we-meet-the-representatives-of-Israel-First-Iranian-VP"
+  },
+  {
+    "id": "059075801de7",
+    "source": "PressTV",
+    "date": "2026-04-11T10:03",
+    "headline": "Iran enters talks with US in Islamabad with 'complete distrust': FM Araghchi",
+    "excerpt": "Araghchi says the country is entering negotiations with the United Stated in Pakistan with complete distrust.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-11T10:03:29.045185+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/11/766628/Iran-enters-talks-US-complete-distrust-Araghchi"
+  },
+  {
     "id": "606f9a8f486c",
     "source": "Al Jazeera",
     "date": "2026-04-11T07:34",
@@ -5443,60 +5498,5 @@
     "location": "Jerusalem",
     "addedAt": "2026-04-03T16:02:51.583344+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/whats-happening-to-christians-in-their-holy-land?traffic_source=rss"
-  },
-  {
-    "id": "2c2d8732a5de",
-    "source": "PressTV",
-    "date": "2026-04-03T16:02",
-    "headline": "'A massive war crime': Iran president denounces US 'Stone Age' threat",
-    "excerpt": "The Iranian president says US threats to bomb Iran back to the Stone Age do not have any meaning but a massive war crime.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-03T16:02:57.469345+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/03/766269/war-crime-Iran-president-denounces-US-Stone-Age-threat"
-  },
-  {
-    "id": "1000beaa6b35",
-    "source": "PressTV",
-    "date": "2026-04-03T16:02",
-    "headline": "IAEA’s silence makes it complicit in US-Israeli attacks on Iran’s nuclear facilities: AEOI",
-    "excerpt": "Iran’s Atomic Energy Organization (AEO) warns that the IAEA’s further silence makes the agency complicit in the US-Israeli strikes on the country’s nuclear sites.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-03T16:02:57.469393+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/03/766268/IAEA%E2%80%99s-silence-makes-it-complicit-in-US-Israeli-attacks-on-Iran%E2%80%99s-nuclear-facilities--AEOI"
-  },
-  {
-    "id": "68805573f7ea",
-    "source": "PressTV",
-    "date": "2026-04-03T16:02",
-    "headline": "Iran can sustain Strait of Hormuz closure for years, will cut US military logistics: Official",
-    "excerpt": "Iran can sustain the Strait of Hormuz closure for years and will cut US military logistics, a senior security official told Press TV, citing the sea-based supply of regional American bases.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-03T16:02:57.469431+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/03/766266/iran-can-sustain-strait-hormuz-closure-years-cut-us-military-logistics-official"
-  },
-  {
-    "id": "e30b8ead247e",
-    "source": "Al Jazeera",
-    "date": "2026-04-03T12:46",
-    "headline": "How the US and Israel are waging war on Iran’s medicines, vaccines",
-    "excerpt": "The Pasteur Institute of Iran is one of several healthcare facilities in the country to be targeted.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-03T14:08:34.222845+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/3/how-the-us-and-israel-are-waging-war-on-irans-medicines-vaccines?traffic_source=rss"
-  },
-  {
-    "id": "d6031f811e0b",
-    "source": "Al Jazeera",
-    "date": "2026-04-03T11:24",
-    "headline": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
-    "excerpt": "Years of war have fundamentally changed Israel&#039;s politics, economy and society, analysts say.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-03T14:08:34.222892+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/3/i-dont-know-how-well-emerge-from-this-how-much-more-can-israelis-take?traffic_source=rss"
   }
 ]
