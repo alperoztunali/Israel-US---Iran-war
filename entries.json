@@ -1,5 +1,93 @@
 [
   {
+    "id": "cea986d50fd3",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T17:32",
+    "headline": "Vigil held in Madrid for victims of Israeli strikes on Lebanon",
+    "excerpt": "Dozens gathered in Madrid for a vigil honouring the victims of Israeli airstrikes on Lebanon.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-11T17:51:15.622819+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/vigil-held-in-madrid-for-victims-of-israeli-strikes-on-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "7b1f75e54956",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T17:29",
+    "headline": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
+    "excerpt": "Activity picks up in Tehran&#039;s Grand Bazaar compared with before the ceasefire, but vendors say sales remain slow.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-11T17:51:15.622860+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim?traffic_source=rss"
+  },
+  {
+    "id": "ad09f027ba01",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T17:24",
+    "headline": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
+    "excerpt": "New president pledges &#039;Iraq First&#039; after securing 227 votes, ending five months of political deadlock.",
+    "category": "Casualties",
+    "location": "Iraq",
+    "addedAt": "2026-04-11T17:51:15.622885+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss"
+  },
+  {
+    "id": "d4933a08f686",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T17:15",
+    "headline": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
+    "excerpt": "US and Iran hold first direct talks since 1979 in Islamabad, with progress hinging on the Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-11T17:51:15.622912+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad?traffic_source=rss"
+  },
+  {
+    "id": "3dea2f196007",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T15:51",
+    "headline": "Machete-wielding man killed by police in New York’s Grand Central station",
+    "excerpt": "Three elderly victims were wounded at the transit hub attack as authorities continue to investigate, police said.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-11T17:51:15.622944+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss"
+  },
+  {
+    "id": "908c93fd78aa",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T15:01",
+    "headline": "Hundreds arrested at UK protest against Palestine Action ban",
+    "excerpt": "Hundreds of people gather in Trafalgar Square for demonstration, as elderly woman with cane is escorted away by police.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-04-11T17:51:15.622987+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/11/police-begin-arrests-at-uk-protest-against-palestine-action-ban?traffic_source=rss"
+  },
+  {
+    "id": "7e776c82fbb8",
+    "source": "PressTV",
+    "date": "2026-04-11T17:51",
+    "headline": "Iran condemns assassination threats against Iranian negotiators amid US talks",
+    "excerpt": "Iranian Foreign Ministry spokesman Esmaeil Baghaei has called for public condemnation of the assassination threats leveled against Iranian negotiators amid ongoing talks with the United States that are aimed at permanently ending the US-Israeli aggression against the country.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-11T17:51:17.543379+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/11/766666/Iran-condemns-assassination-threats-against-Iranian-negotiators-amid-US-talks"
+  },
+  {
+    "id": "1b21b094ccb2",
+    "source": "PressTV",
+    "date": "2026-04-11T17:51",
+    "headline": "Pezeshkian: Iranian negotiators defending national interests in Islamabad talks",
+    "excerpt": "The Iranian president says the country’s senior negotiators are bravely engaged in the talks with the US in Islamabad to defend national interests.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-11T17:51:17.543435+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/11/766664/Pezeshkian-Iranian-negotiators-defending-national-interests-in-Pakistan"
+  },
+  {
     "id": "07e2eb73d5ec",
     "source": "Al Jazeera",
     "date": "2026-04-11T15:04",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-04T05:16:00.166385+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
-  },
-  {
-    "id": "c6d422482212",
-    "source": "Al Jazeera",
-    "date": "2026-04-04T02:53",
-    "headline": "Iranian missile attack hits residential areas in central Israel",
-    "excerpt": "An Iranian missile attack has caused damage across residential areas in central Israel, according to Israeli media.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-04T05:16:00.166420+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss"
-  },
-  {
-    "id": "dd6c8bd25f90",
-    "source": "Al Jazeera",
-    "date": "2026-04-04T00:30",
-    "headline": "Palestinian Christians in Gaza mark Good Friday",
-    "excerpt": "Palestinian Christians in Gaza marked Good Friday at the Holy Family Church during a fragile ceasefire.",
-    "category": "Diplomatic",
-    "location": "Gaza",
-    "addedAt": "2026-04-04T05:16:00.166455+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss"
-  },
-  {
-    "id": "3e6e23364994",
-    "source": "Al Jazeera",
-    "date": "2026-04-04T00:00",
-    "headline": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
-    "excerpt": "Celebrations in Tehran as Iran&#039;s military says the strikes show its forces still have fighting capability.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-04-04T05:16:00.166480+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss"
-  },
-  {
-    "id": "29984abb3e0b",
-    "source": "Al Jazeera",
-    "date": "2026-04-03T23:40",
-    "headline": "Video shows the moment a Russian drone hit an apartment in Ukraine",
-    "excerpt": "Russia has unleashed a massive round of deadly air strikes across Ukraine, in a so-called &quot;Easter escalation.&quot;",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-04-04T05:16:00.166508+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "aaf145e70097",
-    "source": "PressTV",
-    "date": "2026-04-04T05:16",
-    "headline": "Iran hints at huge pending pressure on enemies after Yemen threatens to close Bab el-Mandeb Strait",
-    "excerpt": "Iran hints at the prospect of additional momentous pressure on aggressors and their allies with potential closure of the Bab el-Mandeb Strait.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-04T05:16:02.022129+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/03/766284/Iran-Yemen-Bab-el-Mandeb-closure"
-  },
-  {
-    "id": "486cb44d5b6f",
-    "source": "PressTV",
-    "date": "2026-04-03T23:50",
-    "headline": "‘Black day for US, Israeli air forces’: Iran downs 2 fighter jets, 2 missiles, 3 drones in one day",
-    "excerpt": "Iranian armed forces said its air defense forces downed at least two fighter jets, two cruise missiles and three drones on Friday, describing it as a \"black day\" for the American and Israeli air forces.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-03T23:50:11.740965+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/03/766281/black-day-us-israeli-air-forces-iran-downs-2-fighter-jets-2-missiles-3-drones-single-day"
-  },
-  {
-    "id": "255ca052be5f",
-    "source": "Al Jazeera",
-    "date": "2026-04-03T21:05",
-    "headline": "Christians in Lebanon observe Good Friday under Israeli attacks",
-    "excerpt": "Christians across Lebanon observed Good Friday, praying for peace as Israeli strikes and evacuation orders continue.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-03T21:52:16.644846+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss"
-  },
-  {
-    "id": "64bb430d8242",
-    "source": "Al Jazeera",
-    "date": "2026-04-03T20:55",
-    "headline": "Will force be used to reopen Strait of Hormuz?",
-    "excerpt": "Some countries threaten action against Iran&#039;s blockade of waterway.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-03T21:52:16.644889+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss"
   }
 ]
