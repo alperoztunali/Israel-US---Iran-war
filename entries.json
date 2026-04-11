@@ -1,5 +1,49 @@
 [
   {
+    "id": "6e0a36e823ee",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T20:55",
+    "headline": "“Diplomacy is not an event, it’s a process, it takes time.”",
+    "excerpt": "Former Pakistani diplomat says expectations from the Islamabad talks between the US and Iran should be realistic.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-11T22:02:50.685917+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss"
+  },
+  {
+    "id": "9e432d099e74",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T20:45",
+    "headline": "Iraqi parliament elects new president",
+    "excerpt": "Iraq’s parliament has elected Kurdish politician Nizar Amedi as president after months of political deadlock.",
+    "category": "Casualties",
+    "location": "Iraq",
+    "addedAt": "2026-04-11T22:02:50.685959+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iraqi-parliament-elects-new-president?traffic_source=rss"
+  },
+  {
+    "id": "ffc9760efcb5",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T20:40",
+    "headline": "Has Israeli society become conditioned to permanent war?",
+    "excerpt": "Opinion polls indicate opposition to ending war against Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-11T22:02:50.685992+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/4/11/has-israeli-society-become-conditioned-to-permament-war?traffic_source=rss"
+  },
+  {
+    "id": "55a7de043538",
+    "source": "PressTV",
+    "date": "2026-04-11T22:02",
+    "headline": "IRGC Navy warns military vessels of 'firm response' to attempts at crossing Strait of Hormuz",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC)'s Navy has warned military vessels of a \"firm response\" to their potential attempts at passing through the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-04-11T22:02:52.392005+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/11/766674/Iran-warning-military-vessels-Strait-of-Hormuz-IRGC"
+  },
+  {
     "id": "d912c3249abb",
     "source": "Al Jazeera",
     "date": "2026-04-11T20:25",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-04T14:06:02.478098+00:00",
     "link": "https://presstv.ir/Detail/2026/04/04/766315/Iran-strikes-US-Patriot-system-in-wave-95-of-retaliatory-operations"
-  },
-  {
-    "id": "22a95073a619",
-    "source": "PressTV",
-    "date": "2026-04-04T14:06",
-    "headline": "‘This war is Israel’s war’: World facing ‘security breakdown’, says Qalibaf",
-    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf says the ongoing aggression is “Israel’s war.\"",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-04T14:06:02.478147+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766313/Qalibaf--World-facing-security-breakdown-due-to-%E2%80%98Israel%E2%80%99s-war%E2%80%99"
-  },
-  {
-    "id": "4e6cee75adcd",
-    "source": "PressTV",
-    "date": "2026-04-04T14:06",
-    "headline": "Iran warns of radioactive catastrophe after 4th attack on Bushehr nuclear plant",
-    "excerpt": "Iran's FM says any radioactive fallout from attacks on Bushehr nuclear plant will end life in the region.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-04T14:06:02.478179+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766314/Iran-Araghchi-Bushehr-plant-attack-warning"
-  },
-  {
-    "id": "e76d4db961f6",
-    "source": "PressTV",
-    "date": "2026-04-04T14:06",
-    "headline": "Araghchi: Conclusive, lasting end to illegal US-Israeli war a priority for Iran",
-    "excerpt": "The Iranian foreign minister Tehran cares about a conclusive and lasting end to the illegal US-Israeli war.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-04T14:06:02.478208+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766310/Araghchi--Conclusive,-lasting-end-to-illegal-US-Israeli-war-a-priority-for-Iran-"
-  },
-  {
-    "id": "c76603b36e45",
-    "source": "Al Jazeera",
-    "date": "2026-04-04T00:00",
-    "headline": "Iran war live: US-Israel attacks hit petrochemical, nuclear sites in Iran",
-    "excerpt": "US and Israel step up attacks on Iran civilian infrastructure as search for downed US pilot continues.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-04T11:58:39.071108+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss"
   }
 ]
