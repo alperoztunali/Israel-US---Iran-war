@@ -1,5 +1,93 @@
 [
   {
+    "id": "d912c3249abb",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T20:25",
+    "headline": "Israeli strikes kill at least 18 people across southern Lebanon",
+    "excerpt": "Lebanon&#039;s Health Ministry says more than 2,000 people have been killed in Israeli attacks since March 2.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-11T21:04:52.317471+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "27e43de18618",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T20:08",
+    "headline": "Families gather to mourn victims of deadly shooting in Afghanistan",
+    "excerpt": "Dozens of mourners in Afghanistan gathered to pray for victims of a shooting in Herat that killed at least 11 people.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-11T21:04:52.317543+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/families-gather-to-mourn-victims-of-deadly-shooting-in-afghanistan?traffic_source=rss"
+  },
+  {
+    "id": "bd5269487c1a",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T19:46",
+    "headline": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
+    "excerpt": "Iran’s Gharibabadi says Tehran has entered negotiations from a position of strength and the war on Iran has failed.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-11T21:04:52.317611+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us?traffic_source=rss"
+  },
+  {
+    "id": "33fe17fd5c72",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T19:38",
+    "headline": "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
+    "excerpt": "Negotiations are ongoing between US-Iranian delegations in Islamabad, with control of the strait a key sticking point.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-11T21:04:52.317670+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing?traffic_source=rss"
+  },
+  {
+    "id": "8e409d94684f",
+    "source": "Al Jazeera",
+    "date": "2026-04-11T19:35",
+    "headline": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
+    "excerpt": "Deployment under mutual defence pact comes as Islamabad hosts US-Iran ceasefire talks.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-11T21:04:52.317710+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "96dea3361d20",
+    "source": "PressTV",
+    "date": "2026-04-11T21:04",
+    "headline": "Third round of US-Iran talks underway in Islamabad after exchange of written texts",
+    "excerpt": "The third and decisive round of Pakistan-mediated ceasefire talks between the United States and Iran is currently underway in Islamabad.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-11T21:04:53.950095+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/11/766670/First-phase-of-US-Iran-talks-concludes-in-Islamabad-with-exchange-of-written-texts"
+  },
+  {
+    "id": "d06c04006bb0",
+    "source": "PressTV",
+    "date": "2026-04-11T21:04",
+    "headline": "Iran condemns assassination threats against Iranian negotiators in US media",
+    "excerpt": "Iranian Foreign Ministry spokesman Esmaeil Baghaei has called for public condemnation of the assassination threats against Iranian negotiators in US media outlets.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-11T21:04:53.950149+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/11/766666/Iran-condemns-assassination-threats-against-Iranian-negotiators-amid-US-talks"
+  },
+  {
+    "id": "2bdeca31ad53",
+    "source": "PressTV",
+    "date": "2026-04-11T21:04",
+    "headline": "Iran entered talks with seriousness, outcome depends on US approach: Pezeshkian",
+    "excerpt": "President Masoud Pezeshkian says Iran has entered the talks with the United States in Islamabad with \"determination and seriousness,\" stressing that the success of the process depends on Washington's approach.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-11T21:04:53.950198+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/11/766673/Iran-talks-United-States-Pezeshkian-Macron-Islamabad"
+  },
+  {
     "id": "076912f79bf6",
     "source": "Al Jazeera",
     "date": "2026-04-11T18:47",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-04T11:58:39.071108+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss"
-  },
-  {
-    "id": "7452181863cf",
-    "source": "PressTV",
-    "date": "2026-04-04T11:58",
-    "headline": "Qalibaf: Economic front is key pillar of Iran’s resistance in US-Israeli war",
-    "excerpt": "Iran's parliament speaker has praised laborers, industrialists and businessmen as the backbone of the Islamic Republic's resistance in the face of the US-Israeli aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-04T11:58:40.763778+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766306/Laborers-industrialists-businessmen-backbone-of-Iran-s-resistance-against-US-Israeli-aggression-Qalibaf"
-  },
-  {
-    "id": "202885056683",
-    "source": "Al Jazeera",
-    "date": "2026-04-04T10:20",
-    "headline": "At least four people killed in Russian attacks on Ukraine",
-    "excerpt": "At least one person has also died in a Ukrainian attack on Russia&#039;s southern Rostov region.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-04T11:05:28.641162+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss"
-  },
-  {
-    "id": "efb4c561120f",
-    "source": "PressTV",
-    "date": "2026-04-04T11:05",
-    "headline": "US-Israeli airstrikes target six petrochemical plants in Khuzestan",
-    "excerpt": "The US-Israeli attacks on six petrochemical plants across Khuzestan province, southwest of Iran, left at least five wounded.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-04T11:05:40.946646+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766301/US-Israeli-attacks-on-6-petrochemical-plants-in-Khuzestan-left-at-least-5-wounded"
-  },
-  {
-    "id": "b0910408a5c8",
-    "source": "PressTV",
-    "date": "2026-04-04T11:05",
-    "headline": "IRGC: Israel’s industrial, military sites targeted in latest strikes",
-    "excerpt": "The IRGC says it has targeted the Israeli regime’s industrial and military sites.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-04T11:05:40.946691+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766303/IRGC-Israel-industrial-military-sites-targeted-latest-strikes"
-  },
-  {
-    "id": "2213caf7e963",
-    "source": "PressTV",
-    "date": "2026-04-04T11:05",
-    "headline": "Israeli embassies ‘legitimate targets’ if Iranian missions attacked: Military",
-    "excerpt": "The spokesperson for the Central Headquarters of Khatam al-Anbiya warns against any aggression targeting Iran’s diplomatic missions.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-04T11:05:40.946722+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766300/Israeli-embassies-legitimate-targets-if-Iranian-embassies-attacked-Military"
-  },
-  {
-    "id": "31342b139e32",
-    "source": "Al Jazeera",
-    "date": "2026-04-04T08:22",
-    "headline": "Iran executes two convicted members of banned opposition group",
-    "excerpt": "Abolhassan Montazer and Vahid Baniamerian have been hanged after Iran&#039;s Supreme Court upheld their sentences.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-04T09:57:42.867841+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss"
-  },
-  {
-    "id": "beab9d13abc7",
-    "source": "PressTV",
-    "date": "2026-04-04T09:57",
-    "headline": "Iran capable of destroying advanced hostile aircraft: Commander",
-    "excerpt": "A senior Iranian military commander says the country’s homegrown air defense systems are capable of destroying hostile drones and fighter jets.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-04T09:57:54.940922+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766295/Iran-air-defense-network-capable-destroying-advanced-hostile-aircraft-Commander"
-  },
-  {
-    "id": "d26e59da2035",
-    "source": "PressTV",
-    "date": "2026-04-04T09:57",
-    "headline": "IRGC: Iran had nothing to do with US embassy attack in Riyadh",
-    "excerpt": "The IRGC says the Iranian Armed Forces had nothing to do with an attack on the US Embassy in Riyadh.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-04-04T09:57:54.940954+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766294/IRGC-Iranian-Armed-forces-had-nothing-do-with-US-embassy-attack"
   }
 ]
