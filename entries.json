@@ -1,5 +1,60 @@
 [
   {
+    "id": "fd3f91ec5d45",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T20:44",
+    "headline": "Could the Iran war pose lasting risks to global food security?",
+    "excerpt": "United Nations warns impact could last well beyond conflict.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-12T21:52:44.136808+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss"
+  },
+  {
+    "id": "6b45513c2197",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T20:30",
+    "headline": "History of flotilla campaigns to end Israel’s siege of Gaza",
+    "excerpt": "A 70-boat flotilla sets sail from Spain, aiming to break Israel&#039;s naval blockade on Gaza amid history of interceptions.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-12T21:52:44.136851+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/12/history-of-flotilla-campaigns-to-end-israels-siege-of-gaza?traffic_source=rss"
+  },
+  {
+    "id": "fc8e7bd9ed79",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T20:19",
+    "headline": "What’s next for the US-Iran peace process after talks end without a deal?",
+    "excerpt": "Sources in Pakistan say “progress has been made” in talks between the US and Iran – even though they ended with no deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-12T21:52:44.136891+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/whats-next-for-the-us-iran-peace-process-after-talks-end-without-a-deal?traffic_source=rss"
+  },
+  {
+    "id": "ac87d14c728b",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T20:10",
+    "headline": "“The initiative is in the hands of Tehran, not Washington”",
+    "excerpt": "Defence analyst Mushahid Hussain Syed says the US-Iran conflict cannot be resolved through military force.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-12T21:52:44.136929+00:00",
+    "link": "https://www.aljazeera.com/video/quotable/2026/4/12/the-initiative-is-in-the-hands-of-tehran-not?traffic_source=rss"
+  },
+  {
+    "id": "cb9bc0b5883e",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T19:46",
+    "headline": "How shaky is the Iran-US ceasefire?",
+    "excerpt": "Will the Iran-US truce lead to peace, or more war?",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-12T21:52:44.136954+00:00",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/12/how-shaky-is-the-iran-us-ceasefire?traffic_source=rss"
+  },
+  {
     "id": "bc6eb332fd55",
     "source": "Al Jazeera",
     "date": "2026-04-12T18:44",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-05T11:47:36.363273+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss"
-  },
-  {
-    "id": "da230acf7063",
-    "source": "Al Jazeera",
-    "date": "2026-04-05T10:10",
-    "headline": "US pilot from downed F-15E plane rescued in Iran: What we know",
-    "excerpt": "The second pilot from the fighter jet shot down in Iran is rescued by US rescue forces after 48 hours.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-05T11:47:36.363304+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "91710da1ce46",
-    "source": "Al Jazeera",
-    "date": "2026-04-05T10:04",
-    "headline": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
-    "excerpt": "CCTV footage circulated online shows the moment that an Israeli military dog attacks a worshipper leaving a mosque",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-04-05T11:47:36.363331+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss"
-  },
-  {
-    "id": "81263c948da4",
-    "source": "Al Jazeera",
-    "date": "2026-04-05T00:00",
-    "headline": "Iran war live: Iran claims downing of 2 US planes; Hormuz ‘deadline’ looms",
-    "excerpt": "Tehran says it shoots down two C-130 planes and two Blackhawk helicopters belonging to the US.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-04-05T11:47:36.363382+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss"
-  },
-  {
-    "id": "c1f2625ccfc3",
-    "source": "PressTV",
-    "date": "2026-04-05T11:47",
-    "headline": "‘Mission failed’: Iran crushes US ‘rescue’ bid, destroys several aircraft",
-    "excerpt": "The spokesman for the Khatam al-Anbiya Central Headquarters says Iranian forces have managed to destroy two US C-130 transport planes and two Black Hawk helicopters, which were conducting a mission to retrieve the pilot of a downed American fighter jet.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-05T11:47:38.731456+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/05/766340/Humiliating-defeat-Iran-destroys-US-flying-objects-during-pilot-rescue-mission"
-  },
-  {
-    "id": "edf5b44da4a3",
-    "source": "PressTV",
-    "date": "2026-04-05T11:47",
-    "headline": "Aircraft destroyed during US ‘rescue’ mission cost more than $100 million each",
-    "excerpt": "The aircraft the US used to rescue a crewman of a downed F-15 and destroyed by Iran cost more than $100 million each.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-05T11:47:38.731498+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/05/766348/Aircraft-destroyed-during-US-rescue-of-downed-F-15-pilot-cost-more-than--100-million"
   }
 ]
