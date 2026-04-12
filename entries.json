@@ -1,5 +1,104 @@
 [
   {
+    "id": "6f7d2d9e9605",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T13:42",
+    "headline": "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
+    "excerpt": "Israel’s far-right security minister storms mosque compound with protection, drawing condemnation from Palestinians.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-12T14:04:56.084988+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/12/palestinians-condemn-storming-of-al-aqsa-mosque-by-israels-ben-gvir?traffic_source=rss"
+  },
+  {
+    "id": "350f841d5c62",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T13:10",
+    "headline": "Lessons from the Iran war",
+    "excerpt": "The past month and a half have shown that the nature of modern warfare is shifting.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-12T14:04:56.085029+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/4/12/lessons-from-the-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "2cb0d00f128b",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T12:47",
+    "headline": "US-Iran ceasefire talks: What are the key sticking points?",
+    "excerpt": "Talks between Iran and the US expose deep divisions, prolonging uncertainty during a two-week ceasefire.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-12T14:04:56.085060+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points?traffic_source=rss"
+  },
+  {
+    "id": "7f6062809139",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T12:02",
+    "headline": "Who is running US foreign policy? Varsha Gandikota and Jeremy Scahill",
+    "excerpt": "Varsha Gandikota-Nellutla asks journalist Jeremy Scahill who will benefit from the US-Israel war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-12T14:04:56.085093+00:00",
+    "link": "https://www.aljazeera.com/video/reframe/2026/4/12/who-is-running-us-foreign-policy-varsha-gandikota-and-jeremy-scahill?traffic_source=rss"
+  },
+  {
+    "id": "113cc009340e",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T11:40",
+    "headline": "Israeli army raids across the occupied West Bank overnight",
+    "excerpt": "Israeli army raids across the occupied West Bank overnight",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-12T14:04:56.085122+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israeli-army-raids-across-the-occupied-west-bank-overnight?traffic_source=rss"
+  },
+  {
+    "id": "72c6c241ef7c",
+    "source": "PressTV",
+    "date": "2026-04-12T14:04",
+    "headline": "Press TV Exclusive: US destroyers' Strait of Hormuz transit stunt failed, came close to destruction",
+    "excerpt": "An attempt by US destroyers to transit the Strait of Hormuz amid talks in Islamabad failed as a propaganda operation, with both coming minutes from destruction, Press TV investigation has found.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-04-12T14:04:58.424200+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/12/766678/us-destroyers-strait-hormuz-transit-failed-stunt-minutes-from-destruction-presstv-investigation"
+  },
+  {
+    "id": "37abf28cc0be",
+    "source": "PressTV",
+    "date": "2026-04-12T14:04",
+    "headline": "Strait of Hormuz firmly in Iran’s ‘capable hands’: Leader’s advisor",
+    "excerpt": "Velayati says the key to the Strait of Hormuz remains in Iran’s “capable hands.”",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-12T14:04:58.424240+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/12/766703/Key-Strait-Hormuz-remains-Iran-capable-hands-Leader-advisor"
+  },
+  {
+    "id": "559885b8fa58",
+    "source": "PressTV",
+    "date": "2026-04-12T14:04",
+    "headline": "Iran will stand firm on defending rights from Hormuz to compensation: VP",
+    "excerpt": "The Iranian first vice president says Tehran will stand firm on defending national rights from the Strait of Hormuz to pursuing compensation.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-12T14:04:58.424276+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/12/766706/Iran-will-stand-firm-on-defending-rights-from-Hormuz-to-compensationz-VP"
+  },
+  {
+    "id": "4e67b6ce6da7",
+    "source": "PressTV",
+    "date": "2026-04-12T14:04",
+    "headline": "Pezeshkian, Putin discuss ways to restore regional peace after US talks fail",
+    "excerpt": "Iran’s Pezeshkian and Russia’s Putin discuss ideas for boosting stability and security in the region.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-12T14:04:58.424307+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/12/766711/Iran-Russia-Pezeshkian-Putin-phone-call"
+  },
+  {
     "id": "0788e7236a0c",
     "source": "Al Jazeera",
     "date": "2026-04-12T10:14",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-05T08:06:54.189408+00:00",
     "link": "https://presstv.ir/Detail/2026/04/05/766339/Araghchi-warns-dire-consequences-US-Israeli-attacks-Iran-nuclear-facilities"
-  },
-  {
-    "id": "9e12baf6f1aa",
-    "source": "PressTV",
-    "date": "2026-04-05T08:06",
-    "headline": "Boosting ties with neighboring, Muslim states a priority for Iran: Parliament speaker",
-    "excerpt": "Qalibaf says Iran has always prioritized the development of its relations with neighboring and Muslim countries.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-05T08:06:54.189440+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/05/766337/Boosting-ties-with-neighboring-Muslim-states-priority-for-Iran-Parliament-speaker"
-  },
-  {
-    "id": "53ef91bd0545",
-    "source": "Al Jazeera",
-    "date": "2026-04-05T05:07",
-    "headline": "Trump’s unpopular war on Iran",
-    "excerpt": "Most Americans oppose the US-Israel war on Iran. ​​No recent US war has ever started off being this unpopular.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-05T05:56:33.438854+00:00",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "89b209f8e809",
-    "source": "Al Jazeera",
-    "date": "2026-04-05T02:14",
-    "headline": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
-    "excerpt": "Tehran says Iraq will face no restrictions in waterway, praising country&#039;s &#039;struggle&#039; against the US.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-04-05T05:56:33.438895+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss"
-  },
-  {
-    "id": "ed143208062f",
-    "source": "Al Jazeera",
-    "date": "2026-04-05T01:13",
-    "headline": "US satellite firm Planet Labs announces blackout on war on Iran images",
-    "excerpt": "Company says move amid US-Israel war on Iran comes after a request from the US government.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-05T05:56:33.438930+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss"
-  },
-  {
-    "id": "8dc6eb22ff7c",
-    "source": "Al Jazeera",
-    "date": "2026-04-05T00:00",
-    "headline": "Iran war live: Trump confirms rescue of US officer, says ‘we got him’",
-    "excerpt": "Iran says US-Israeli attacks on the Mahshahr Petrochemical Zone have killed five and wounded 170.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-05T05:56:33.438960+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss"
-  },
-  {
-    "id": "4f8f8371712d",
-    "source": "PressTV",
-    "date": "2026-04-05T05:56",
-    "headline": "Iran slams US strikes on B1 bridge, Mahshahr petrochemical plants as ‘state terrorism’",
-    "excerpt": "Iran has called on the UN to condemn the US-Israeli strikes on the B1 bridge and Mahshahr petrochemical plants as blatant acts of \"state terrorism\" and \"war crimes.\"",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-05T05:56:35.158811+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/05/766336/US-strikes-on-B1-bridge-Mahshahr-petrochemical-plants-blatant-acts-of-state-terrorism-Iran-to-UN"
-  },
-  {
-    "id": "e2d60893a9ae",
-    "source": "Al Jazeera",
-    "date": "2026-04-04T22:37",
-    "headline": "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque",
-    "excerpt": "Hebron’s Ibrahimi Mosque sees intensified control, with Israeli measures resembling policies applied at Al-Aqsa Mosque.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-04T23:50:13.094103+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/4/israel-measures-tighten-grip-hebron-ibrahimi-mosque?traffic_source=rss"
-  },
-  {
-    "id": "c8e68334157f",
-    "source": "PressTV",
-    "date": "2026-04-04T23:50",
-    "headline": "'Gates of hell await you': Senior cmdr. warns aggressors against targeting Iran's infrastructure",
-    "excerpt": "Iran's highest operational command unit sternly warns the United States and the Israeli regime against targeting the Islamic Republic's infrastructure.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-04T23:50:14.706539+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766333/Iran-warning-Israel-United-States-infrastructure"
-  },
-  {
-    "id": "bd3757378453",
-    "source": "PressTV",
-    "date": "2026-04-04T23:50",
-    "headline": "US's battle-tested generals defy Hegseth's betrayal of American lives for Israel: Parl. speaker",
-    "excerpt": "Iran's Majlis (Parliament) speaker reacts to Pete Hegseth's dismissing high-ranking generals, linking the trend to their defying the US war secretary.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-04T23:50:14.706587+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766335/Iran-United-States-Hegseth-Israel"
   }
 ]
