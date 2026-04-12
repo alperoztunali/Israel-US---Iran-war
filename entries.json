@@ -1,5 +1,60 @@
 [
   {
+    "id": "c518e5793d78",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T08:09",
+    "headline": "What happened in 40 days of war on Iran",
+    "excerpt": "Who got hit in the war on Iran? The attacks, the damage and the people caught in between.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-12T09:07:32.140662+00:00",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "318c33307a60",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T08:07",
+    "headline": "Iran war: What is happening on day 44 of the US-Iran conflict?",
+    "excerpt": "US-Iran talks in Islamabad end without a deal, with each side blaming the other for the failure.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-12T09:07:32.140704+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss"
+  },
+  {
+    "id": "4ae29b777dc8",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T05:19",
+    "headline": "US and Iran fail to reach deal after marathon talks in Pakistan",
+    "excerpt": "US VP JD Vance says Iran chose not to accept US terms, while Iran says it did not expect a deal at the first meeting.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-12T09:07:32.140736+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss"
+  },
+  {
+    "id": "e02c776b06cd",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T00:00",
+    "headline": "Iran war live: Vance says no deal reached after US made ‘best, final offer’",
+    "excerpt": "Iranian media say the US was looking for an excuse to leave the peace talks and that the &#039;ball is in America&#039;s court&#039;.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-12T09:07:32.140792+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss"
+  },
+  {
+    "id": "52bc3be4eff9",
+    "source": "PressTV",
+    "date": "2026-04-12T09:07",
+    "headline": "Iran denies US claim of vessels transit in Strait of Hormuz",
+    "excerpt": "The spokesperson for the Khatam al-Anbiya Central Headquarters dismisses US claim about the transit of military vessels in the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-12T09:07:33.732073+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/12/766682/Iran-denies-claim-US-vessels-transit-Strait-Hormuz"
+  },
+  {
     "id": "7be520378f12",
     "source": "Al Jazeera",
     "date": "2026-04-12T05:25",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-04T21:03:16.824561+00:00",
     "link": "https://presstv.ir/Detail/2026/04/04/766330/Yemen-attacks-Israel-Ben-Gurion-ballistic-missile-military-targets-Iran-Hezbollah"
-  },
-  {
-    "id": "071d75eb076c",
-    "source": "Al Jazeera",
-    "date": "2026-04-04T19:17",
-    "headline": "Universities hit as US, Israel ramp up attacks on Iran’s infrastructure",
-    "excerpt": "Authorities say at least 30 universities impacted by US and Israeli strikes since the start of the war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-04T19:46:07.680528+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/4/universities-hit-as-us-israel-ramp-up-attacks-on-irans-infrastructure?traffic_source=rss"
-  },
-  {
-    "id": "dd58600b0da6",
-    "source": "Al Jazeera",
-    "date": "2026-04-04T18:50",
-    "headline": "Iran’s coastline: architecture of control",
-    "excerpt": "We take you on a walkthrough of Iran’s coastline and strategic islands marking its architecture of control.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-04T19:46:07.680576+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/irans-coastline-architecture-of-control?traffic_source=rss"
-  },
-  {
-    "id": "2decbe0504ea",
-    "source": "Al Jazeera",
-    "date": "2026-04-04T18:43",
-    "headline": "Vehicle engulfed in flames after Israeli drone strike in central Gaza",
-    "excerpt": "Palestinians in Gaza scrambled to extinguish a vehicle engulfed in flames after it was targeted by an Israeli drone.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-04T19:46:07.680603+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicle-engulfed-in-flames-after-israeli-drone-strike-in-central-gaza?traffic_source=rss"
-  },
-  {
-    "id": "691802b9b5a2",
-    "source": "Al Jazeera",
-    "date": "2026-04-04T17:39",
-    "headline": "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war",
-    "excerpt": "Prime Minister Meloni is the first EU and NATO country leader to visit the region since the war began.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-04T19:46:07.680642+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/4/italys-meloni-meets-qatar-emir-to-discuss-energy-issues-amid-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "3ca4cc50e91d",
-    "source": "PressTV",
-    "date": "2026-04-04T19:46",
-    "headline": "Iran’s missile strikes force 1,500 US sailors out of Bahrain: Report",
-    "excerpt": "Iran’s retaliatory strikes on a US naval base in Bahrain have forced the US military to evacuate 1500 sailors and their families back to the US, a report says.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-04T19:46:09.907259+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/04/766323/1,500-US-sailors-forced-out-of-Bahrain-amid-Iran%E2%80%99s-strikes--Report"
   }
 ]
