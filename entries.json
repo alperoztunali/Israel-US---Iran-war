@@ -1,5 +1,49 @@
 [
   {
+    "id": "0c699eb84d34",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T15:27",
+    "headline": "Global Sumud Flotilla sets sail from Barcelona for Gaza",
+    "excerpt": "Thousands gathered at Barcelona’s port as the largest ever Global Sumud Flotilla prepared to depart for Gaza.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-12T15:58:44.101482+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/global-sumud-flotilla-sets-sail-from-barcelona-for-gaza?traffic_source=rss"
+  },
+  {
+    "id": "b60386ecebe5",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T15:17",
+    "headline": "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war",
+    "excerpt": "Mexican President Sheinbaum says FIFA will not relocate Iran&#039;s fixtures from US despite repeated requests.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-12T15:58:44.101536+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/12/fifa-rejects-irans-request-to-relocate-world-cup-games-amid-us-israel-war?traffic_source=rss"
+  },
+  {
+    "id": "9cce484f2c7b",
+    "source": "Al Jazeera",
+    "date": "2026-04-12T15:09",
+    "headline": "Trump says US to blockade ships crossing Strait of Hormuz",
+    "excerpt": "US President Donald Trump says the US Navy will immediately blockade the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-04-12T15:58:44.101566+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/james-bays-on-trump-blocking-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "64320f9157f0",
+    "source": "PressTV",
+    "date": "2026-04-12T15:58",
+    "headline": "Iran turned enemy’s ‘regime change’ dream into ‘change of governing regime in Hormuz’",
+    "excerpt": "The Iranian government spokeswoman says Tehran succeeds in turning the enemy’s wish of regime change into a change in Iran’s governing regime over the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-12T15:58:45.613373+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/12/766718/Iran-turned-enemy-s-regime-change-dream-into-change-of-governing-regime-in-Hormuz"
+  },
+  {
     "id": "6f7d2d9e9605",
     "source": "Al Jazeera",
     "date": "2026-04-12T13:42",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-05T08:05:07.734995+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/5/iran-war-what-is-happening-on-day-37-of-us-israeli-attacks?traffic_source=rss"
-  },
-  {
-    "id": "ed16ec5c2d46",
-    "source": "Al Jazeera",
-    "date": "2026-04-05T07:45",
-    "headline": "Yemen’s Houthis claim cluster missile attack on Israel’s Ben Gurion airport",
-    "excerpt": "Yemen’s Houthi military spokesman has claimed responsibility for a strike on Israel’s Ben Gurion airport in Jaffa.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-05T08:05:07.735035+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/yemens-houthis-claim-cluster-missile-attack-on-israels-ben-gurion-airport?traffic_source=rss"
-  },
-  {
-    "id": "e247f888f0e7",
-    "source": "Al Jazeera",
-    "date": "2026-04-05T06:51",
-    "headline": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms",
-    "excerpt": "Iran claims another US aircraft involved in the rescue of the F-15 fighter pilot has been shot down.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-05T08:05:07.735063+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/5/us-rescues-airman-whose-f-15-was-downed-in-iran-trump-confirms?traffic_source=rss"
-  },
-  {
-    "id": "9020e344bbca",
-    "source": "PressTV",
-    "date": "2026-04-05T08:06",
-    "headline": "‘Humiliating defeat’: Iran destroys several US warplanes on mission to retrieve pilot",
-    "excerpt": "The IRGC says Iranian forces have managed to destroy US flying objects which were conducting a mission to rescue the pilot of a downed American fighter jet.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-05T08:06:54.189379+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/05/766340/Humiliating-defeat-Iran-destroys-US-flying-objects-during-pilot-rescue-mission"
-  },
-  {
-    "id": "14bce61b93c5",
-    "source": "PressTV",
-    "date": "2026-04-05T08:06",
-    "headline": "Araghchi warns of dire consequences of US-Israeli attacks on Iran’s nuclear facilities",
-    "excerpt": "Araghchi says US-Israeli airstrikes on the Iranian civilian nuclear facilities expose the region to the risk of radioactive contamination.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-05T08:06:54.189408+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/05/766339/Araghchi-warns-dire-consequences-US-Israeli-attacks-Iran-nuclear-facilities"
   }
 ]
