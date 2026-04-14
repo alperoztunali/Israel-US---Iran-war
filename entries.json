@@ -1,5 +1,148 @@
 [
   {
+    "id": "e85c7dba713a",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T05:47",
+    "headline": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks",
+    "excerpt": "Relief for global markets comes after Trump says Iranian officials are keen on a deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-14T06:10:54.220166+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss"
+  },
+  {
+    "id": "2234e396204d",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T05:10",
+    "headline": "Indonesia, US sign ‘major’ defence cooperation agreement",
+    "excerpt": "Signing of defence partnership follows reports that US is seeking overflight access in Indonesia for military planes.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-04-14T06:10:54.220220+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement?traffic_source=rss"
+  },
+  {
+    "id": "cd73e0acc1e4",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T02:47",
+    "headline": "US military kills two men in new strike on vessel in eastern Pacific",
+    "excerpt": "Latest attack brings death toll from US strikes on vessels in the Pacific and Caribbean to at least 170 since September.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-04-14T06:10:54.220258+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/14/us-military-kills-two-men-in-new-strike-on-vessel-in-eastern-pacific?traffic_source=rss"
+  },
+  {
+    "id": "d354f7eb6756",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T02:27",
+    "headline": "Man charged with attempted murder after attack on OpenAI CEO Altman’s home",
+    "excerpt": "A 20-year-old Texan faces potential life imprisonment after arson attack on Sam Altman&#039;s San Francisco residence.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-14T06:10:54.220308+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/14/man-charged-with-attempted-murder-after-attack-on-openai-ceo-altmans-home?traffic_source=rss"
+  },
+  {
+    "id": "e487b28c7ea9",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T02:13",
+    "headline": "Anti-war protesters arrested in New York urging end to Israel weapon sales",
+    "excerpt": "Police in New York arrested around 100 anti-war protesters during a sit-in demanding an end to US arms for Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-14T06:10:54.220342+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/anti-war-protesters-arrested-in-new-york-urging-end-to-israel-weapon-sales?traffic_source=rss"
+  },
+  {
+    "id": "5e51bd37cb5e",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T00:00",
+    "headline": "Iran war live: Trump says Tehran wants deal amid US blockade in Hormuz",
+    "excerpt": "Iran accuses US of committing piracy as thousands rally in Tehran against the blockade in the Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-14T06:10:54.220376+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "bd469f5f3559",
+    "source": "Al Jazeera",
+    "date": "2026-04-13T22:46",
+    "headline": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
+    "excerpt": "Naim Qassem says planned talks in Washington, DC, are a ploy to pressure Hezbollah into laying down its weapons.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-14T06:10:54.220412+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss"
+  },
+  {
+    "id": "db1334b26755",
+    "source": "Al Jazeera",
+    "date": "2026-04-13T22:33",
+    "headline": "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
+    "excerpt": "UN Secretary-General is calling on ‘all parties’ to respect freedom of navigation in the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-04-14T06:10:54.220462+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/un-urges-all-parties-to-respect-navigation-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "ee788843437f",
+    "source": "Al Jazeera",
+    "date": "2026-04-13T22:17",
+    "headline": "Energy prices rise despite Jones Act suspension by Trump",
+    "excerpt": "Shipping costs have increased by more than 10 percent in the past month due to the US-Israel war on Iran.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-14T06:10:54.220489+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss"
+  },
+  {
+    "id": "f6abcbd17cfa",
+    "source": "Al Jazeera",
+    "date": "2026-04-13T22:04",
+    "headline": "UN experts slam attacks on Gaza shelters, forced displacement in West Bank",
+    "excerpt": "Panel details incidents of violence by Israeli forces and settlers against displaced Palestinians in Gaza and West Bank.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-04-14T06:10:54.220517+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/13/un-experts-slam-attacks-on-gaza-shelters-forced-displacement-in-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "a2eec4316ecc",
+    "source": "PressTV",
+    "date": "2026-04-14T06:10",
+    "headline": "Iravani: US naval blockade gross violation of Iran's territorial integrity",
+    "excerpt": "Iran has strongly condemned the US imposition of a naval blockade on Iranian ports as a flagrant violation of Iran's sovereignty and territorial integrity.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-14T06:10:55.864849+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/14/766813/Tehran--US-naval-blockade-gross-violation-of-Iran-s-sovereignty-and-territorial-integrity"
+  },
+  {
+    "id": "1e72eab3c7f9",
+    "source": "PressTV",
+    "date": "2026-04-14T06:10",
+    "headline": "Tehran warns of dangerous repercussions from US provocations in Strait of Hormuz",
+    "excerpt": "Abbas Araghchi has warned against the perilous consequences of provocative US actions in the Persian Gulf and the Strait of Hormuz.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-04-14T06:10:55.864886+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/14/766812/Tehran-warns-of-dangerous-repercussions-from-US-provocations-in-Strait-of-Hormuz"
+  },
+  {
+    "id": "f38ce51668fe",
+    "source": "PressTV",
+    "date": "2026-04-14T06:10",
+    "headline": "Iran seeks reparations from five Arab states for enabling US-Israeli aggression",
+    "excerpt": "Iran demands compensation from five Arab nations for committing internationally wrongful acts by allowing their territories to be used by aggressors.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-14T06:10:55.864922+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/14/766814/Iran-seeks-compensation-from-5-Arab-states-for-allowing-territories-to-be-used-for-aggression-"
+  },
+  {
     "id": "d93fd653d104",
     "source": "Al Jazeera",
     "date": "2026-04-13T21:35",
@@ -5355,148 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-04-06T17:13:02.187393+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss"
-  },
-  {
-    "id": "d501cb0c5a4b",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T15:58",
-    "headline": "Israeli army fire on WHO vehicle in southern Gaza kills one, medics report",
-    "excerpt": "WHO driver Majdi Aslan was killed and a WHO doctor wounded, along with several other Palestinians.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-06T17:13:02.187421+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/6/who-employee-killed-several-injured-in-israeli-attack-in-gaza-say-medics?traffic_source=rss"
-  },
-  {
-    "id": "62bd9b7e7411",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T15:45",
-    "headline": "Gaza grandmother loses her family due to Israeli attacks",
-    "excerpt": "Gaza grandmother loses her family due to Israeli attacks",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-06T17:13:02.187451+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-grandmother-loses-her-family-due-to-israeli-attacks?traffic_source=rss"
-  },
-  {
-    "id": "67b51d97f929",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T14:50",
-    "headline": "Where are Iran’s power plants that Trump has threatened to destroy?",
-    "excerpt": "US President Trump threatens to destroy power plants, bridges by 8pm Tuesday if Iran doesn&#039;t open the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-06T17:13:02.187491+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/6/where-are-irans-power-plants-that-trump-has-threatened-to-destroy?traffic_source=rss"
-  },
-  {
-    "id": "2bb2284d8d8e",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T14:14",
-    "headline": "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
-    "excerpt": "Ukraine increases attacks on Russia&#039;s energy infrastructure in bid to disrupt financing of its war.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-06T17:13:02.187556+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss"
-  },
-  {
-    "id": "59c0492d1efa",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T14:04",
-    "headline": "In maps and photos: Five Iranian civilian bridges at risk of US strikes",
-    "excerpt": "A look at the multimillion-dollar mega structures that could be threatened by Trump&#039;s &#039;Bridge Day&#039; ultimatum.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-06T17:13:02.187589+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/6/in-maps-and-photos-five-iranian-civilian-bridges-at-risk-of-us-strikes?traffic_source=rss"
-  },
-  {
-    "id": "0107e0b7ce23",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T13:01",
-    "headline": "The US could still try to play the ethnic card in Iran",
-    "excerpt": "But past experience and current geopolitical realities show such a strategy is doomed to failure.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-06T14:16:09.191927+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran?traffic_source=rss"
-  },
-  {
-    "id": "2fa7a09c2797",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T13:01",
-    "headline": "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
-    "excerpt": "With 80 percent unemployed, young Palestinians struggle to survive as Israeli blockade causes economic collapse",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-06T14:16:09.191978+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/6/jobless-young-palestinians-trapped-as-israel-holds-gazas-economy-hostage?traffic_source=rss"
-  },
-  {
-    "id": "6f1199de721d",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T12:58",
-    "headline": "‘Smell’ of war comes to St Petersburg as Ukraine hammers Russian refineries",
-    "excerpt": "Ukraine aims to drain Russia&#039;s war chest with drone strikes on Pokrovsk and Ust-Luga oil facilities on the Baltic Sea.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-06T14:16:09.192012+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/6/smell-of-war-comes-to-st-petersburg-as-ukraine-hammers-russian-refineries?traffic_source=rss"
-  },
-  {
-    "id": "1d7da7b29439",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T12:42",
-    "headline": "How US operation to rescue air officer from Iran unfolded",
-    "excerpt": "President Trump says US service member whose fighter jet was shot down over Iran is rescued during two raids.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-06T14:16:09.192032+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded?traffic_source=rss"
-  },
-  {
-    "id": "24c69e0eced4",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T11:52",
-    "headline": "Has Trump confirmed Iran’s claim that protesters were US-armed?",
-    "excerpt": "US president says Washington armed Kurdish Iranian opposition groups during the January demonstrations.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-06T14:16:09.192065+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/6/has-trump-confirmed-irans-claim-that-protesters-were-us-armed?traffic_source=rss"
-  },
-  {
-    "id": "f98c4697832d",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T11:49",
-    "headline": "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
-    "excerpt": "If the chokepoint were shut, along with the Strait of Hormuz, a quarter of the world&#039;s energy supply would be blocked.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-06T14:16:09.192097+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/6/iran-threatens-bab-al-mandeb-closure-how-would-that-affect-world-trade?traffic_source=rss"
-  },
-  {
-    "id": "39d97bc8a27c",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T11:25",
-    "headline": "Pakistan offers ‘two-phased’ truce deal to end US-Israel war on Iran",
-    "excerpt": "Iran, while still reviewing the proposal, says it won&#039;t reopen Hormuz as part of a temporary ceasefire.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-06T14:16:09.192128+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/6/pakistan-offers-two-tier-truce-iran-wont-open-hormuz-under-temporary-one?traffic_source=rss"
-  },
-  {
-    "id": "e88dc5bd9914",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T11:12",
-    "headline": "Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work?",
-    "excerpt": "Mediators Pakistan, Turkiye and Egypt are proposing a 45-day ceasefire plan. But Iran is reluctant.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-06T14:16:09.192168+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/6/trumps-bridge-day-threat-can-a-last-ditch-ceasefire-plan-work?traffic_source=rss"
   }
 ]
