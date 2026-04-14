@@ -1,5 +1,93 @@
 [
   {
+    "id": "87515e5d1328",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T09:58",
+    "headline": "Sanctioned tankers transit Strait of Hormuz amid US blockade",
+    "excerpt": "Chinese-owned tanker Rich Starry becomes the first sanctioned vessel to exit the Gulf after the US blockade.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-04-14T10:47:44.908144+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade?traffic_source=rss"
+  },
+  {
+    "id": "19dac0fd673a",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T09:08",
+    "headline": "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
+    "excerpt": "China and Russia have been vocal critics of the US-Israel war on Iran, an ally of both world powers.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-14T10:47:44.908196+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss"
+  },
+  {
+    "id": "2dbe781f2e4d",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T08:52",
+    "headline": "World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO",
+    "excerpt": "Global agriculture is highly exposed to the blockage of waterways, risking higher commodity prices and food inflation.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-04-14T10:47:44.908241+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss"
+  },
+  {
+    "id": "4d5b74260084",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T08:12",
+    "headline": "Palestine weekly wrap: ‘Master of the house’ says Ben-Gvir as Al-Aqsa opens",
+    "excerpt": "Nine-year-old Ritaj Rihan among multiple Palestinians killed in ongoing Gaza attacks amid fears of escalating violence.",
+    "category": "Casualties",
+    "location": "Gaza",
+    "addedAt": "2026-04-14T10:47:44.908270+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/14/palestine-weekly-wrap-master-of-the-house-says-ben-gvir-as-al-aqsa-opens?traffic_source=rss"
+  },
+  {
+    "id": "f0c935df4a00",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T06:58",
+    "headline": "Iran war: What is happening on day 46 of the US-Iran conflict?",
+    "excerpt": "The US started a blockade on Iranian ports, but Trump said there is still a chance for Tehran to reach a deal.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-14T10:47:44.908299+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/14/iran-war-what-is-happening-on-day-46-of-the-us-iran-conflict?traffic_source=rss"
+  },
+  {
+    "id": "e712ec495cda",
+    "source": "PressTV",
+    "date": "2026-04-14T10:47",
+    "headline": "Iran says damage caused by US-Israeli aggression estimated at $270 billion",
+    "excerpt": "The Iranian government says preliminary assessment of damage caused by the February 28-April 7 US-Israeli aggression has reached $270 billion.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-14T10:47:46.381422+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/14/766827/Iran-damages-war-Israel-United-States"
+  },
+  {
+    "id": "c396ce0eb227",
+    "source": "PressTV",
+    "date": "2026-04-14T10:47",
+    "headline": "Hezbollah unveils 'hard-to-detect' drone as retaliatory attacks intensify",
+    "excerpt": "Hezbollah stages scores of retaliatory strikes against Israeli military positions and illegal settlements across the northern part of the occupied territories.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-14T10:47:46.381450+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/14/766815/Hezbollah-attacks-Israel-military-settlements"
+  },
+  {
+    "id": "2a6be3ba1fd2",
+    "source": "PressTV",
+    "date": "2026-04-14T10:47",
+    "headline": "New York police arrest dozens demanding end to US military support for Israel",
+    "excerpt": "Police in New York have detained dozens of people protesting US’s arms sales to Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-14T10:47:46.381490+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/14/766817/New-York-police-arrest-dozens-of-people-demanding-end-of-US-military-support-for-Israel"
+  },
+  {
     "id": "e85c7dba713a",
     "source": "Al Jazeera",
     "date": "2026-04-14T05:47",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-06T19:57:30.555600+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/6/north-korea-keeping-iran-at-arms-length-reports-seoul?traffic_source=rss"
-  },
-  {
-    "id": "39a1b7382b4b",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T18:18",
-    "headline": "Hegseth says strikes on Iran increasing as Hormuz deadline looms",
-    "excerpt": "US Secretary of Defense Pete Hegseth said Monday will be the “largest volume of strikes” on Iran since the war began.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-06T19:57:30.555628+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/hegseth-says-strikes-on-iran-increasing-as-hormuz-deadline-looms?traffic_source=rss"
-  },
-  {
-    "id": "b0c341295792",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T18:17",
-    "headline": "Video: Iran’s top university hit in US-Israeli strikes",
-    "excerpt": "Footage shows damaged research buildings at Tehran’s Sharif University following a US-Israeli strike.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-06T19:57:30.555668+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-irans-top-university-hit-in-us-israeli-strikes?traffic_source=rss"
-  },
-  {
-    "id": "bec1b643b63c",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T17:51",
-    "headline": "Democrats blast Trump for Iran ‘war crimes’ threat; Republicans supportive",
-    "excerpt": "Several members of US Congress question president&#039;s fitness for office after his expletive-laden Easter Sunday message.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-06T19:57:30.555707+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/6/democrats-blast-trump-for-iran-war-crimes-threat-republicans-supportive?traffic_source=rss"
-  },
-  {
-    "id": "d5c467fc6fd4",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T17:47",
-    "headline": "How Asia became ground zero for the oil crisis",
-    "excerpt": "As the Iran war disrupts oil flows, fuel shortages hit Asia first. Is this the start of a wider global energy crisis?",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-06T19:57:30.555746+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/6/aje-onl-tt_irn_energyrevisited_av_v2-060426?traffic_source=rss"
-  },
-  {
-    "id": "0bce23a50a45",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T17:38",
-    "headline": "Trump warns deadline ‘final’ as Iran pushes proposal to end war",
-    "excerpt": "US president says proposal not enough to avert threat to infrastructure should Iran fail to open Strait of Hormuz.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-06T19:57:30.555773+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/6/trump-warns-deadline-final-as-iran-pushes-proposal-to-end-war?traffic_source=rss"
-  },
-  {
-    "id": "dc3cfbc118a2",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T17:12",
-    "headline": "Trump praised airman’s rescue in Iran during White House Easter event",
-    "excerpt": "Donald Trump praised the rescue of a downed American airman in Iran during remarks at the White House Easter Egg roll.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-06T19:57:30.555809+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-praised-airmans-rescue-in-iran-during-white-house-easter-event?traffic_source=rss"
-  },
-  {
-    "id": "1dabda3dfded",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T16:50",
-    "headline": "Libya’s oil disputes mirror Hormuz crisis, fuel European energy fears",
-    "excerpt": "Libyan oil sector proxy wars occur during Hormuz tensions, creating dangerous supply vulnerabilities for global markets.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-06T17:13:02.187346+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/6/libyas-oil-disputes-mirror-hormuz-crisis-fuel-european-energy-fears?traffic_source=rss"
-  },
-  {
-    "id": "b15b84ef1561",
-    "source": "Al Jazeera",
-    "date": "2026-04-06T16:06",
-    "headline": "Gaza camp offers children a sense of safety",
-    "excerpt": "The Samir Project is offering children in Gaza a camp where they can learn, heal, and regain some sense of safety.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-06T17:13:02.187393+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss"
   }
 ]
