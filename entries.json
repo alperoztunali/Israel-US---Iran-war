@@ -1,5 +1,104 @@
 [
   {
+    "id": "e9b6a8e26b78",
+    "source": "Al Jazeera",
+    "date": "2026-04-15T05:17",
+    "headline": "US military says blockade of Iran ports ‘completely’ halts economic trade",
+    "excerpt": "US Central Command say more than 10,000 armed forces members, as well as warships and planes, are involved in blockade.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-15T06:10:55.463282+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade?traffic_source=rss"
+  },
+  {
+    "id": "ee30030a2106",
+    "source": "Al Jazeera",
+    "date": "2026-04-15T02:54",
+    "headline": "US forces kill 4 people in latest strike on vessels in eastern Pacific",
+    "excerpt": "The killings mark the fourth US deadly strike in the past four days on vessels in the eastern Pacific Ocean.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-15T06:10:55.463326+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/15/us-forces-kill-4-people-in-latest-strike-on-vessels-in-eastern-pacific?traffic_source=rss"
+  },
+  {
+    "id": "24421ae85ff3",
+    "source": "Al Jazeera",
+    "date": "2026-04-15T01:47",
+    "headline": "Israel and Lebanon hold direct talks for first time in decades",
+    "excerpt": "After the first direct talks in decades, Israel and Lebanon have agreed to begin negotiations.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-15T06:10:55.463360+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-and-lebanon-hold-direct-talks-for-first-time-in-decades?traffic_source=rss"
+  },
+  {
+    "id": "68a7c7329593",
+    "source": "Al Jazeera",
+    "date": "2026-04-15T01:16",
+    "headline": "Israeli attacks kill 11, including two children, in day of strikes on Gaza",
+    "excerpt": "A three-year-old and a 14-year-old were among those killed in Israel&#039;s latest strikes on northern Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-15T06:10:55.463387+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "711fc85abaf5",
+    "source": "Al Jazeera",
+    "date": "2026-04-15T00:11",
+    "headline": "Haiti’s Culture Ministry fires workers over citadel stampede that killed 25",
+    "excerpt": "At least nine people have been arrested following the stampede, including police officers and ministry employees.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-15T06:10:55.463422+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/15/haitis-culture-ministry-fires-workers-over-citadel-stampede-that-killed-25?traffic_source=rss"
+  },
+  {
+    "id": "d5cb43fb1951",
+    "source": "Al Jazeera",
+    "date": "2026-04-15T00:00",
+    "headline": "Iran war live: Trump says war ‘close to over’ as Hormuz blockade continues",
+    "excerpt": "US president says second round of talks could be held in Pakistan as naval blockade of Iranian ports continues.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-15T06:10:55.463455+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "3c650f848c05",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T23:47",
+    "headline": "Delcy Rodriguez calls for a ‘Venezuela free of sanctions’ amid US detente",
+    "excerpt": "Venezuelan president says limited sanctions relief has not been enough to stabilise the country&#039;s turbulent economy.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-04-15T06:10:55.463497+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/14/delcy-rodriguez-calls-for-a-venezuela-free-of-sanctions-amid-us-detente?traffic_source=rss"
+  },
+  {
+    "id": "9ae27e2f3bae",
+    "source": "Al Jazeera",
+    "date": "2026-04-14T23:08",
+    "headline": "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war",
+    "excerpt": "The meeting marks the first direct talks between the two sides, though US officials say more time is needed.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-15T06:10:55.463535+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/14/israel-and-lebanon-hold-rare-talks-in-washington-dc-amid-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "6c66d6c899c1",
+    "source": "PressTV",
+    "date": "2026-04-15T06:10",
+    "headline": "Iranian academic jailed in France over anti-genocide stance returns home",
+    "excerpt": "An Iranian academic, charged and jailed in France over her condemnation of the Israeli regime's genocide in the Gaza Strip, returns home.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-15T06:10:57.179064+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/14/766886/Iran-France-academic-returns-Mahdieh-Esfandiary-genocide-Israel"
+  },
+  {
     "id": "f4d683250127",
     "source": "Al Jazeera",
     "date": "2026-04-14T21:49",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-07T14:56:44.161833+00:00",
     "link": "https://presstv.ir/Detail/2026/04/07/766453/IRGC-deploys-twin-missile-launch-systems-for-first-time-in-war"
-  },
-  {
-    "id": "13bcb53ab13c",
-    "source": "PressTV",
-    "date": "2026-04-07T14:56",
-    "headline": "Wave 99: IRGC pounds US petchem sites, vows 'no restraint’ if Iranian infrastructure hit",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) has launched \"Wave 99\" of its retaliatory \"True Promise 4\" operation, firing massive combined strikes against American and Zionist military and industrial targets across the region in response to recent attacks on Iranian infrastructure.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-07T14:56:44.161874+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/07/766439/True-promise-4-wave-99"
-  },
-  {
-    "id": "555d69015c97",
-    "source": "PressTV",
-    "date": "2026-04-07T14:56",
-    "headline": "Ansarullah stresses independence of its decision to act against Israeli-American aggression",
-    "excerpt": "Ansarullah stresses the independence of its decision to stage solidarity strikes in support of Iran and fellow regional resistance groups.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-07T14:56:44.161902+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/07/766438/Yemen-attacks-Israel-United-States-Iran-war"
-  },
-  {
-    "id": "6de2e9867ce7",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T09:53",
-    "headline": "US-Israeli strikes destroy buildings in northern Iran",
-    "excerpt": "Video shows widespread destruction in Pardis, northern Iran. The Israeli military said they bombed Iran on April 7.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-07T10:15:57.247268+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/us-israeli-strikes-destroy-buildings-in-northern-iran?traffic_source=rss"
-  },
-  {
-    "id": "930898798e72",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T09:28",
-    "headline": "USA striker Patrick Agyemang’s World Cup in doubt after stretcher exit",
-    "excerpt": "Agyemang looked emotional as he was stretchered off after an awkward fall during an English Championship game.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-04-07T10:15:57.247320+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/7/usa-striker-patrick-agyemangs-world-cup-in-doubt-after-stretcher-exit?traffic_source=rss"
-  },
-  {
-    "id": "47178d9c7776",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T09:13",
-    "headline": "‘Military action is not an effective means to pursue nonproliferation’",
-    "excerpt": "&#039;We’re now seeing very concerning strikes on nuclear facilities in Iran that risk further radioactive contamination.&#039;",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-07T10:15:57.247365+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/4/7/military-action-is-not-an-effective-means-to-pursue-nonproliferation?traffic_source=rss"
-  },
-  {
-    "id": "36b111f7864b",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T09:03",
-    "headline": "Trump and Hegseth invoke God and religion in Iran war press conference",
-    "excerpt": "Trump believes God backs US in Iran war, Hegseth compares airman&#039;s rescue to Jesus&#039; resurrection",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-07T10:15:57.247399+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-and-hegseth-invoke-god-and-religion-in-iran-war-press-conference?traffic_source=rss"
-  },
-  {
-    "id": "36a607e7024f",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T08:44",
-    "headline": "Iran releases on bail Japan national jailed amid antigovernment protests",
-    "excerpt": "The person released is believed to be Japanese broadcaster NHK&#039;s Tehran bureau chief, Shinnosuke Kawashima.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-07T10:15:57.247432+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/7/japanese-detained-in-iran-believed-to-be-journalist-released-on-bail?traffic_source=rss"
-  },
-  {
-    "id": "3823714ad533",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T08:43",
-    "headline": "Synagogue in Tehran ‘completely destroyed’ in US-Israeli attack",
-    "excerpt": "US-Israeli strikes destroy synagogue in Tehran, prompting outrage amid reports of 15 killed across Iran overnight.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-04-07T10:15:57.247464+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/7/synagogue-in-tehran-destroyed-in-us-israeli-strikes-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "5a7d0dfb7eb3",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T08:39",
-    "headline": "Lebanese firefighters respond to aftermath of Israeli strike",
-    "excerpt": "Video shows Lebanese firefighters trying to put out flames in the southern city of Maarakeh.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-04-07T10:15:57.247510+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/lebanese-firefighters-respond-to-aftermath-of-israeli-strike?traffic_source=rss"
   }
 ]
