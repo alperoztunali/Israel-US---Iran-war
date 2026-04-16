@@ -1,5 +1,115 @@
 [
   {
+    "id": "d4b95ef15e85",
+    "source": "Al Jazeera",
+    "date": "2026-04-16T03:51",
+    "headline": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
+    "excerpt": "US president says leaders of the two countries will speak for the first time in 34 years on Thursday.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-16T05:53:18.020694+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss"
+  },
+  {
+    "id": "2bf1e2c47833",
+    "source": "Al Jazeera",
+    "date": "2026-04-16T03:37",
+    "headline": "Hopes grow for a breakthrough in US-Iran talks as Pakistan mediates",
+    "excerpt": "Pakistani sources say there has been a &#039;major breakthrough&#039; over a deal on Iran’s nuclear programme.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-16T05:53:18.020742+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss"
+  },
+  {
+    "id": "c609f65f0422",
+    "source": "Al Jazeera",
+    "date": "2026-04-16T03:26",
+    "headline": "Democrats clash with US Energy Secretary over Iran war and gas prices",
+    "excerpt": "Watch the moment a Democratic congresswoman tells the US Energy Secretary he is ‘living in a different world’.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-16T05:53:18.020782+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/democrats-clash-with-us-energy-secretary-over-iran-war-and-gas-prices?traffic_source=rss"
+  },
+  {
+    "id": "8d79b2cf21ba",
+    "source": "Al Jazeera",
+    "date": "2026-04-16T02:23",
+    "headline": "Pakistan expecting ‘major breakthrough’ tied to Iran’s nuclear programme",
+    "excerpt": "A source has told Al Jazeera that Pakistan is expecting a breakthrough tied to Iran’s nuclear programme.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-16T05:53:18.020819+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/pakistan-expecting-major-breakthrough-tied-to-irans-nuclear-programme?traffic_source=rss"
+  },
+  {
+    "id": "595c34ad92e6",
+    "source": "Al Jazeera",
+    "date": "2026-04-16T01:54",
+    "headline": "Israeli forces fire stun grenades at journalists in occupied Nablus",
+    "excerpt": "Video shows Israeli forces firing stun grenades towards journalists who were reporting on the army’s raid of Nablus.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-04-16T05:53:18.020849+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-forces-fire-stun-grenades-at-journalists-in-occupied-nablus?traffic_source=rss"
+  },
+  {
+    "id": "3a50688f9128",
+    "source": "Al Jazeera",
+    "date": "2026-04-16T01:06",
+    "headline": "Russian attacks on Ukraine kill three, including a 12-year-old child",
+    "excerpt": "Kyiv&#039;s mayor says the attacks hit Podilskyi and Obolonskyi districts, causing fires and damage to residential buildings.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-16T05:53:18.020891+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/16/russian-attack-on-ukraines-kyiv-kills-12-year-old-child-wounds-10?traffic_source=rss"
+  },
+  {
+    "id": "29168fcaa928",
+    "source": "Al Jazeera",
+    "date": "2026-04-16T00:00",
+    "headline": "Iran war live: Pakistan in push for new round of US-Iran peace negotiations",
+    "excerpt": "At least 2,167 people have been killed and more than 7,000 injured in Israeli attacks on Lebanon since March 2.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-16T05:53:18.020914+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/16/iran-war-live-pakistan-in-push-for-new-round-of-us-iran-peace-negotiations?traffic_source=rss"
+  },
+  {
+    "id": "33b8167b7730",
+    "source": "Al Jazeera",
+    "date": "2026-04-15T22:53",
+    "headline": "Israel bombs homes in southern Lebanon",
+    "excerpt": "The Israeli army has bombed buildings in southern Lebanon’s Bint Jbeil district.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-16T05:53:18.020943+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "46720d95892f",
+    "source": "PressTV",
+    "date": "2026-04-16T05:53",
+    "headline": "Iran warns about 'dangerous consequences' of US actions targeting Persian Gulf, Hormuz Strait",
+    "excerpt": "Iran warns about the \"dangerous consequences\" of provocative US positions and actions targeting the Persian Gulf and the strategic Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-16T05:53:19.681082+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/16/766958/Iran-Hormuz-United-States-China"
+  },
+  {
+    "id": "0a26929b8c26",
+    "source": "PressTV",
+    "date": "2026-04-16T05:53",
+    "headline": "Potential Lebanon truce result of Hezbollah, Axis of Resistance's persistent struggle: Qalibaf",
+    "excerpt": "Iran's parliament speaker says emergence of a potential ceasefire in Lebanon will be down to persistence struggle put up by Hezbollah and other members of the regional Axis of Resistance.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-16T05:53:19.681124+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/15/766954/Iran-Lebanon-ceasefire-Hezbollah-Israel-United-States"
+  },
+  {
     "id": "a0db43541b9a",
     "source": "Al Jazeera",
     "date": "2026-04-15T21:09",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-08T06:09:06.117375+00:00",
     "link": "https://presstv.ir/Detail/2026/04/08/766476/Pakistan-Trump-Iran-war-surrender"
-  },
-  {
-    "id": "2c860c9359e8",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T23:25",
-    "headline": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
-    "excerpt": "US President Donald Trump says he has agreed to extend his threatened deadline to attack Iran by two weeks.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-08T00:04:35.864823+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss"
-  },
-  {
-    "id": "1b834714e7e9",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T22:48",
-    "headline": "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
-    "excerpt": "The US president nevertheless warned that the suspension was dependent on Iran reopening the Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-08T00:04:35.864865+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats?traffic_source=rss"
-  },
-  {
-    "id": "fb19dfc26f66",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T22:24",
-    "headline": "What we know about Pakistan’s proposed Iran war pause",
-    "excerpt": "Pakistan’s Prime Minister Shehbaz Sharif says diplomatic efforts to resolve the US-Israeli war on Iran are progressing.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-08T00:04:35.864902+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/what-we-know-about-pakistans-proposed-iran-war-pause?traffic_source=rss"
-  },
-  {
-    "id": "147e19fa60d3",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T22:13",
-    "headline": "Iranian musician stages protest at power station over Trump threats",
-    "excerpt": "Iranian musician Ali Ghamsari has been performing outside the Damavand power station in a symbolic protest.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-08T00:04:35.864933+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-musician-stages-protest-at-power-station-over-trump-threats?traffic_source=rss"
-  },
-  {
-    "id": "5a2ce3136a7a",
-    "source": "PressTV",
-    "date": "2026-04-08T00:04",
-    "headline": "Iran declares 'historic victory' over US, says enemy forced to accept its proposal",
-    "excerpt": "Iran has declared a \"historic and crushing defeat\" of the US and the Israeli regime after 40 days of war, announcing that Washington has been forced to accept a 10-point Iranian proposal that includes a permanent ceasefire, the lifting of all sanctions, and the withdrawal of US forces from the regio",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-04-08T00:04:38.068711+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/07/766472/iran-declares-historic-victory-enemy-forced-accept-its-proposal"
-  },
-  {
-    "id": "366a3d1fe2e1",
-    "source": "PressTV",
-    "date": "2026-04-08T00:04",
-    "headline": "US war secretary misleading Trump about 'American success' against Iran: Report",
-    "excerpt": "Report shows Pete Hegseth’s public claims of \"American success\" during the ongoing American-Israeli aggression against Iran, might not fully reflect the reality on the ground.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-08T00:04:38.068763+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/07/766470/Trump-war-Iran-Hegseth"
-  },
-  {
-    "id": "18fb3f595f5d",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T21:57",
-    "headline": "Djibouti and the Horn of Africa: new front in the war on Iran",
-    "excerpt": "Djibouti built its economy on the strategy of charging rent to different military world powers.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-07T22:08:15.739712+00:00",
-    "link": "https://www.aljazeera.com/video/2026/4/7/djibouti-and-the-horn-of-africa-new-front-in-the-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "4af74c5d6f30",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T21:48",
-    "headline": "Iran warns region and beyond as tension builds ahead of US ultimatum",
-    "excerpt": "Trump has threatened to step up the US-Israeli war on Iran by destroying every bridge and power plant in the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-07T22:08:15.739758+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/7/iran-warns-region-and-beyond-as-tension-builds-ahead-of-us-ultimatum?traffic_source=rss"
-  },
-  {
-    "id": "23dc5e4ce575",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T21:35",
-    "headline": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait",
-    "excerpt": "PM Sharif cites progress in diplomatic efforts for peaceful settlement of war, urges to allow diplomacy run its course.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-07T22:08:15.739787+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/7/pakistan-appeals-to-trump-to-extend-deadline-iran-to-reopen-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "83e39258430c",
-    "source": "Al Jazeera",
-    "date": "2026-04-07T21:12",
-    "headline": "Protesters in Iraq swarm Kuwaiti consulate after deadly rocket attack",
-    "excerpt": "Crowds of angry protesters stormed the Kuwaiti consulate building in Iraq’s Basra.",
-    "category": "Missile/Drone",
-    "location": "Iraq",
-    "addedAt": "2026-04-07T22:08:15.739814+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/protesters-in-iraq-swarm-kuwaiti-consulate-after-deadly-rocket-attack?traffic_source=rss"
   }
 ]
