@@ -1,5 +1,49 @@
 [
   {
+    "id": "88eafac09ee9",
+    "source": "Al Jazeera",
+    "date": "2026-04-17T00:00",
+    "headline": "Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close",
+    "excerpt": "Death toll from Israeli attacks on Lebanon reached 2,196 on Thursday as 10-day ceasefire announced.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-17T00:09:06.719961+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss"
+  },
+  {
+    "id": "69710c72172a",
+    "source": "Al Jazeera",
+    "date": "2026-04-16T22:55",
+    "headline": "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire",
+    "excerpt": "Lebanon’s residents say they are wary of trusting that Israel will abide by the ceasefire agreement announced by Trump.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-17T00:09:06.720009+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "8a89666c0c37",
+    "source": "Al Jazeera",
+    "date": "2026-04-16T22:42",
+    "headline": "Israel and Lebanon’s 10-day ceasefire goes into effect",
+    "excerpt": "A 10-day ceasefire between Israel and Lebanon has gone into effect. It began at midnight local time (21:00 GMT).",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-17T00:09:06.720046+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israel-and-lebanons-10-day-ceasefire-goes-into-effect?traffic_source=rss"
+  },
+  {
+    "id": "fa7cdd21897a",
+    "source": "Al Jazeera",
+    "date": "2026-04-16T22:04",
+    "headline": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
+    "excerpt": "Tensions linger as evacuees await clarity on the ceasefire’s terms before risking a return to war-torn villages.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-17T00:09:06.720082+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss"
+  },
+  {
     "id": "567695d0b431",
     "source": "Al Jazeera",
     "date": "2026-04-16T21:15",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-08T21:30:34.796390+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/8/white-house-says-trumps-red-line-against-iran-nuclear-enrichment-remains?traffic_source=rss"
-  },
-  {
-    "id": "11b867989aaa",
-    "source": "PressTV",
-    "date": "2026-04-08T21:30",
-    "headline": "Pezeshkian: Iran will respond decisively to any ceasefire violation",
-    "excerpt": "Iranian President Masoud Pezeshkian has condemned the violations of the ceasefire reached between Iran and the United States, vowing that the Islamic Republic will respond “decisively” to any attack.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-08T21:30:36.075881+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/08/766510/Pezeshkian-Iran-will-respond-decisively-to-any-ceasefire-violation"
-  },
-  {
-    "id": "f614153c4f50",
-    "source": "Al Jazeera",
-    "date": "2026-04-08T18:30",
-    "headline": "Trump backs Israel, says Lebanon a ‘separate skirmish’ after ceasefire",
-    "excerpt": "After Israeli strikes on Beirut, Donald Trump said Lebanon isn’t included in the Iran ceasefire.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-08T18:57:07.903772+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/trump-backs-israel-says-lebanon-a-separate-skirmish-after-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "e7790ef73979",
-    "source": "Al Jazeera",
-    "date": "2026-04-08T18:24",
-    "headline": "How Trump’s promise to ‘wipe out’ Iran could backfire on US power",
-    "excerpt": "The world counts down to Trump’s threats of destruction.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-08T18:57:07.903820+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/8/aje-onl-tt_irn_latestescalation_av_v2-080426?traffic_source=rss"
-  },
-  {
-    "id": "187fd1666a63",
-    "source": "Al Jazeera",
-    "date": "2026-04-08T18:08",
-    "headline": "‘A lot of work to do’ to reopen Strait of Hormuz after US-Iran ceasefire",
-    "excerpt": "British Prime Minister Keir Starmer said more work is needed to reopen the Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-08T18:57:07.903859+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/starmer-a-lot-of-work-to-do-to-reopen-strait-of-hormuz-after-us-iran-cea?traffic_source=rss"
   }
 ]
