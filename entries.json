@@ -1,5 +1,93 @@
 [
   {
+    "id": "e9a3df3c1336",
+    "source": "Al Jazeera",
+    "date": "2026-04-17T07:42",
+    "headline": "Iran war’s big winners: Wall Street, weapons firms, AI and green energy",
+    "excerpt": "The global economic outlook for 2026 looks grim if the Iran war continues, but some industries are booming.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-17T10:38:29.494284+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/17/iran-wars-big-winners-wall-street-weapons-firms-ai-and-green-energy?traffic_source=rss"
+  },
+  {
+    "id": "a33c9d29da80",
+    "source": "Al Jazeera",
+    "date": "2026-04-17T06:59",
+    "headline": "Palestinian Prisoner’s Day: What happened in Palestine on April 17, 1971?",
+    "excerpt": "Nearly 10,000 men, women and children are held in Israeli prisons, a third without charge or trial.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-17T10:38:29.494334+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/17/palestinian-prisoners-day-what-happened-in-palestine-on-april-17-1971?traffic_source=rss"
+  },
+  {
+    "id": "8c1c8664fe17",
+    "source": "Al Jazeera",
+    "date": "2026-04-17T06:38",
+    "headline": "Burkina Faso dissolves more than 100 NGOs and civil society groups",
+    "excerpt": "Amnesty International calls the latest Traore government crackdown a &#039;flagrant attack&#039; on basic rights.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-17T10:38:29.494376+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/17/burkina-faso-dissolves-more-than-100-ngos-and-civil-society-groups?traffic_source=rss"
+  },
+  {
+    "id": "9a758c6625c9",
+    "source": "Al Jazeera",
+    "date": "2026-04-17T06:23",
+    "headline": "Iran war: What is happening on day 49 of the US-Iran conflict?",
+    "excerpt": "Celebrations in Lebanon as a 10-day ceasefire begins, opening the door to talks on a longer-term Israel-Lebanon deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-17T10:38:29.494416+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/17/iran-war-day-49?traffic_source=rss"
+  },
+  {
+    "id": "ba362224f588",
+    "source": "PressTV",
+    "date": "2026-04-17T10:38",
+    "headline": "Hezbollah says truce owed to Iran, warns of 'treacherous enemy'",
+    "excerpt": "As a fragile ceasefire takes effect in Lebanon, Hezbollah is crediting decisive Iranian pressure for the halt in hostilities while urging displaced citizens to remain cautious of a “treacherous” Israeli military that is already violating the newly minted agreement.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-17T10:38:31.151196+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/17/767012/Hezbollah-says-truce-owed-to-Iran-warns-of-treacherous-enemy"
+  },
+  {
+    "id": "daec1d73366e",
+    "source": "PressTV",
+    "date": "2026-04-17T10:38",
+    "headline": "Top Iranian officials: Lebanon ceasefire step toward 'complete victory'",
+    "excerpt": "The speaker of the Iranian Parliament has stressed that the ceasefire announced in Lebanon is a result of the steadfastness of Hezbollah movement and the unity of the Axis of Resistance.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-17T10:38:31.151231+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/17/767032/Qalibaf-Lebanon-ceasefire-stems-from-unity-of-resistance-axis"
+  },
+  {
+    "id": "2133396c87c0",
+    "source": "PressTV",
+    "date": "2026-04-17T10:38",
+    "headline": "US hiding billion-dollar combat losses to Iran’s precision strikes: Report",
+    "excerpt": "Following 40 days of unrelenting US-Israeli aggression, mounting evidence reveals that the US Department of War is deliberately concealing catastrophic, billion-dollar military losses inflicted by highly effective Iranian retaliatory strikes, the Daily Mail reports.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-17T10:38:31.151278+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/17/767028/Washington-hiding-billion-dollar-combat-losses-to-Iran-precision-strikes-Daily-Mail"
+  },
+  {
+    "id": "673337601ef6",
+    "source": "PressTV",
+    "date": "2026-04-17T10:38",
+    "headline": "US delays weapons to Europe as war on Iran drains stockpile: Report",
+    "excerpt": "The United States has reportedly informed its European allies of weapons delivery delays as the illegal aggression that it waged jointly with the Israeli regime against Iran depletes the country’s stockpile.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-17T10:38:31.151323+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/17/767030/US-delays-delivery-of-weapons-to-European-allies-as-war-on-Iran-drains-stockpile-Report"
+  },
+  {
     "id": "07d3e8194fc0",
     "source": "Al Jazeera",
     "date": "2026-04-17T05:54",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-09T06:07:07.105310+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss"
-  },
-  {
-    "id": "22c1b507ef38",
-    "source": "PressTV",
-    "date": "2026-04-09T06:07",
-    "headline": "Hezbollah returns fire with fire; vows to sustain strikes until US-Israeli aggression ends",
-    "excerpt": "Hezbollah unleashes a rocket barrage towards an illegal settlement lying on the northern side of the occupied territories in response to earlier deadly Israeli strikes.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-09T06:07:09.092047+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/09/766517/Lebanon-Hezbollah-attacks-Israel"
-  },
-  {
-    "id": "c83e2796f153",
-    "source": "Al Jazeera",
-    "date": "2026-04-08T22:49",
-    "headline": "Woman given 15 years for role supplying drugs linked to Matthew Perry death",
-    "excerpt": "Drug dealer who supplied dose that eventually led to Perry&#039;s death in 2023 pleaded guilty to five felony drug counts.",
-    "category": "Diplomatic",
-    "location": "Oman",
-    "addedAt": "2026-04-08T23:53:57.638705+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death?traffic_source=rss"
-  },
-  {
-    "id": "99502855a4e8",
-    "source": "Al Jazeera",
-    "date": "2026-04-08T21:59",
-    "headline": "Americans question Trump’s instinct on Iran war",
-    "excerpt": "Americans are split on whether to trust Donald Trump&#039;s instinct-driven approach to the Iran conflict.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-08T23:53:57.638789+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "16067567a64c",
-    "source": "Al Jazeera",
-    "date": "2026-04-08T21:50",
-    "headline": "JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon",
-    "excerpt": "The US vice president says Iran had a &#039;legitimate misunderstanding&#039; about Lebanon&#039;s inclusion in this week&#039;s ceasefire.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-08T23:53:57.638860+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "257cacded683",
-    "source": "Al Jazeera",
-    "date": "2026-04-08T21:47",
-    "headline": "Trump administration signals it is mulling NATO withdrawal after Iran war",
-    "excerpt": "The US president has lashed out at European partners for declining to contribute military forces to the war on Iran.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-04-08T23:53:57.638915+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "02c49d13187d",
-    "source": "Al Jazeera",
-    "date": "2026-04-08T21:39",
-    "headline": "Macron welcomes US-Iran ceasefire and urges Lebanon’s inclusion",
-    "excerpt": "French President Emmanuel Macron welcomed the US-Iran ceasefire as “very good news&quot;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-08T23:53:57.638978+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/macron-welcomes-us-iran-ceasefire-and-urges-lebanons-inclusion?traffic_source=rss"
-  },
-  {
-    "id": "7fb01e84c11e",
-    "source": "Al Jazeera",
-    "date": "2026-04-08T21:28",
-    "headline": "Trump threatens 50% tariffs on countries that supply Iran with weapons",
-    "excerpt": "It&#039;s not clear under what legal authority Trump can tack on this tariff, and analysts called it an &#039;empty threat&#039;.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-08T23:53:57.639052+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons?traffic_source=rss"
-  },
-  {
-    "id": "c89c5079a3fe",
-    "source": "Al Jazeera",
-    "date": "2026-04-08T21:25",
-    "headline": "Devastation in Beirut after Israeli strikes reduce homes to rubble",
-    "excerpt": "Hours after Israel hammered Beirut with multiple air strikes following the US-Iran ceasefire, residents searched for sur",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-08T23:53:57.639104+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/devastation-in-beirut-after-israeli-strikes-reduce-homes-to-rubble?traffic_source=rss"
   }
 ]
