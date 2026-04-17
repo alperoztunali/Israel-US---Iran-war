@@ -1,5 +1,93 @@
 [
   {
+    "id": "7678ed621926",
+    "source": "Al Jazeera",
+    "date": "2026-04-17T19:10",
+    "headline": "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
+    "excerpt": "Politicians and industry welcome reopening of the vital waterway after throttling of traffic caused oil prices to spike.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-17T20:08:34.766508+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict?traffic_source=rss"
+  },
+  {
+    "id": "0fa6567f1282",
+    "source": "Al Jazeera",
+    "date": "2026-04-17T18:35",
+    "headline": "Shipping firms seek clarifications before crossing Hormuz",
+    "excerpt": "Shipping companies said several things had to be clarified, including the presence of mines, Iranian conditions.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-17T20:08:34.766551+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/17/shipping-firms-seek-clarifications-before-crossing-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "8066ab0751fd",
+    "source": "Al Jazeera",
+    "date": "2026-04-17T18:24",
+    "headline": "What has Trump said before possible US-Iran talks and what could it mean?",
+    "excerpt": "In rapid-fire posts, Trump says Iran will give up nuclear material and &#039;never close&#039; Hormuz, but questions remain.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-17T20:08:34.766585+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/17/what-has-trump-said-ahead-of-possible-us-iran-talks-and-what-could-it-mean?traffic_source=rss"
+  },
+  {
+    "id": "c5bbd0aaa2c7",
+    "source": "Al Jazeera",
+    "date": "2026-04-17T18:07",
+    "headline": "Inside Kharg Island, Iran’s oil lifeline under threat",
+    "excerpt": "With the US blockading Iran’s ports, Kharg Island is in focus. How are civilians caught in the middle?",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-17T20:08:34.766623+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/17/aje-onl-tt_irn_kharg_av_v3-170426?traffic_source=rss"
+  },
+  {
+    "id": "90819a0eff7b",
+    "source": "PressTV",
+    "date": "2026-04-17T20:08",
+    "headline": "'New order' in Strait of Hormuz: IRGC Navy mandates authorization for all vessels",
+    "excerpt": "IRGC Navy says a \"new order\" is now in place over the strategic Strait of Hormuz, outlining strict new regulations for all maritime traffic.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-04-17T20:08:36.496475+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/17/767056/new-order-strait-hormuz-irgc-navy-mandates-authorization-all-vessel-traffic"
+  },
+  {
+    "id": "c08209bd7edd",
+    "source": "PressTV",
+    "date": "2026-04-17T20:08",
+    "headline": "Tehran warns US of consequences for broken vows amid Hormuz Strait conditional reopening",
+    "excerpt": "As Iran conditionally reopens the strategic Strait of Hormuz following a decisive diplomatic and military victory, Tehran has warned the United States that any failure to honor its commitments will be met with severe consequences.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-17T20:08:36.496518+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/17/767055/Tehran-warns-US-conditional-hormuz-strait-opening"
+  },
+  {
+    "id": "326512125546",
+    "source": "PressTV",
+    "date": "2026-04-17T20:08",
+    "headline": "Iranian Navy prevented enemy carrier groups, marines from entering Sea of Oman: Commander",
+    "excerpt": "A top Iranian naval commander says Iranian forces successfully prevented US and Israeli aircraft carrier strike groups and marine forces from entering the Sea of Oman.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-17T20:08:36.496549+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/17/767059/iranian-navy-prevented-enemy-carrier-groups-entering-sea-oman-commander"
+  },
+  {
+    "id": "9668b0ebc8c8",
+    "source": "PressTV",
+    "date": "2026-04-17T20:08",
+    "headline": "Strait of Hormuz traffic to follow Iran-designated route under Iranian coordination: FM spox",
+    "excerpt": "Esmaeil Baghaei says Iran will take the necessary reciprocal actions in response to continued \"maritime blockade\" by the United States.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-17T20:08:36.496583+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/17/767060/Strait-Hormuz-conditional-reopening-baghaei"
+  },
+  {
     "id": "196193a71201",
     "source": "Al Jazeera",
     "date": "2026-04-17T16:14",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-09T20:05:23.045535+00:00",
     "link": "https://presstv.ir/Detail/2026/04/09/766548/Houthi--Ceasefire-a-%E2%80%98major-victory%E2%80%99-for-Iran-in-fight-against-US,-Israel"
-  },
-  {
-    "id": "fecb0849813a",
-    "source": "Al Jazeera",
-    "date": "2026-04-09T14:52",
-    "headline": "Israeli attacks on Lebanon aimed to undermine ceasefire, critics say",
-    "excerpt": "More than 250 people have been killed in a barrage of air strikes on Lebanon since the ceasefire was declared.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-04-09T16:06:24.194263+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/9/israeli-attacks-on-lebanon-aimed-to-undermine-ceasefire-critics-say?traffic_source=rss"
-  },
-  {
-    "id": "66f08e0238c2",
-    "source": "Al Jazeera",
-    "date": "2026-04-09T14:47",
-    "headline": "Has Iran’s 10-point plan changed, as JD Vance claims?",
-    "excerpt": "The proposal fuels uncertainty as US officials offer conflicting interpretations of the plan to permanently end hostilities.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-09T16:06:24.194318+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/9/has-irans-10-point-plan-changed-as-jd-vance-claims?traffic_source=rss"
-  },
-  {
-    "id": "b4aae0678f71",
-    "source": "Al Jazeera",
-    "date": "2026-04-09T13:28",
-    "headline": "Israeli settlers storm Al-Aqsa Mosque compound after reopening",
-    "excerpt": "Israeli settlers storm Al-Aqsa Mosque compound after reopening",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-09T16:06:24.194353+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/israeli-settlers-storm-al-aqsa-mosque-compound-after-reopening?traffic_source=rss"
-  },
-  {
-    "id": "a8815e92aacb",
-    "source": "Al Jazeera",
-    "date": "2026-04-09T13:23",
-    "headline": "What is Iran’s Strait of Hormuz protocol and will other nations accept it?",
-    "excerpt": "Tehran&#039;s plans to tax ships passing through the strait and raise money to rebuild is already seeing pushback.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-04-09T16:06:24.194385+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/9/what-is-irans-strait-of-hormuz-protocol-and-will-other-nations-accept-it?traffic_source=rss"
-  },
-  {
-    "id": "7b26e631ec2a",
-    "source": "Al Jazeera",
-    "date": "2026-04-09T13:23",
-    "headline": "The economic cost of US-Israel war on Iran",
-    "excerpt": "The economic cost of US-Israel war on Iran",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-09T16:06:24.194416+00:00",
-    "link": "https://www.aljazeera.com/video/money-works/2026/4/9/the-economic-cost-of-us-israel-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "271487ddeb06",
-    "source": "Al Jazeera",
-    "date": "2026-04-09T13:18",
-    "headline": "US-Iran talks in Pakistan: Who’s attending, what’s on the agenda?",
-    "excerpt": "Islamabad hosts negotiations as US and Iran seek off-ramp. But deep mistrust and regional tensions threaten talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-09T16:06:24.194451+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/9/us-iran-talks-in-pakistan-whos-attending-whats-on-the-agenda?traffic_source=rss"
-  },
-  {
-    "id": "53a4e98a9620",
-    "source": "Al Jazeera",
-    "date": "2026-04-09T12:54",
-    "headline": "Lebanon Latest: Israel kills hundreds in one day",
-    "excerpt": "Israel launches a wave of strikes in Lebanon that has killed hundreds, despite a US-Iran ceasefire.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-09T16:06:24.194475+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/aje-onl-aje_onl_lebanon_wrap-090426?traffic_source=rss"
-  },
-  {
-    "id": "a51982abe724",
-    "source": "Al Jazeera",
-    "date": "2026-04-09T11:54",
-    "headline": "Funeral held for Al Jazeera’s Wishah killed in Israeli strike in Gaza",
-    "excerpt": "More than 260 journalists have been killed by Israel in Gaza since the start of the genocide in October 2023.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-09T16:06:24.194512+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/9/funeral-held-for-al-jazeeras-wishah-killed-in-israeli-strike-in-gaza?traffic_source=rss"
   }
 ]
