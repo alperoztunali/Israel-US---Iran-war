@@ -1,5 +1,60 @@
 [
   {
+    "id": "69a6d87cb5f3",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T19:29",
+    "headline": "Mazzucato on the Iran war’s economic shock: Who pays the price?",
+    "excerpt": "Redi Tlhabi speaks to economist Mariana Mazzucato on the Iran war&#039;s economic fallout and who’s really paying the price.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-18T19:57:18.024233+00:00",
+    "link": "https://www.aljazeera.com/video/upfront/2026/4/18/mazzucato-on-the-iran-wars-economic-shock-who-pays-the-price?traffic_source=rss"
+  },
+  {
+    "id": "9e07761ffc09",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T18:02",
+    "headline": "Ukraine police shoot dead gunman who killed six in Kyiv, took hostages",
+    "excerpt": "The attacker has been identified as a &quot;58-year-old Moscow man&quot;, but no motive has been established.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-18T19:57:18.024278+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/18/ukraine-police-shoot-dead-gunman-who-killed-six-in-kyiv-took-hostages?traffic_source=rss"
+  },
+  {
+    "id": "85ab5244fe3d",
+    "source": "PressTV",
+    "date": "2026-04-18T19:57",
+    "headline": "Qalibaf warned US in Islamabad: If minesweeper in Strait of Hormuz moved an inch, Iran will fire",
+    "excerpt": "Speaker Qalibaf says he warned a US delegation in Islamabad that if their minesweeper in the Strait of Hormuz moved an inch, Iranian forces would fire, which forced them to retreat",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-04-18T19:57:19.961514+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/18/767132/qalibaf-warned-americans-if-minesweeper-strait-hormuz-moved-iran-will-fire"
+  },
+  {
+    "id": "7e962119f826",
+    "source": "PressTV",
+    "date": "2026-04-18T19:57",
+    "headline": "Iran’s closure of Hormuz forced US, Israel to accept Lebanon ceasefire: Hezbollah chief",
+    "excerpt": "Secretary-General of Hezbollah Sheikh Naim Qassem thanked Iran for its support in the face of Israeli aggression and said the closure of the Strait of Hormuz forced the United States and Israel to agree to a ceasefire in Lebanon.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-18T19:57:19.961565+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/18/767130/Iran-s-closure-of-Hormuz-forced-US-Israel-to-accept-Lebanon-ceasefire-Hezbollah-chief"
+  },
+  {
+    "id": "d89ee1077368",
+    "source": "PressTV",
+    "date": "2026-04-18T19:57",
+    "headline": "IRGC says 3 terrorist ringleaders killed in strike on Iraq’s Kurdistan region",
+    "excerpt": "The IRGC says its attacks on terrorist hideouts in Iraq’s Kurdistan killed three notorious anti-Iran figures.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-18T19:57:19.961593+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/18/767123/IRGC-says-3-terrorist-ringleaders-killed-in-strike-on-Iraq-s-Kurdistan-region"
+  },
+  {
     "id": "89f54a3b9127",
     "source": "PressTV",
     "date": "2026-04-18T18:04",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-10T17:36:37.449505+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss"
-  },
-  {
-    "id": "015bb392e727",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T16:05",
-    "headline": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
-    "excerpt": "Vice president says Trump gave &#039;pretty clear guidelines&#039; on talks, which will be productive if Iran does not &#039;play&#039; US.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-10T17:36:37.449536+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan?traffic_source=rss"
-  },
-  {
-    "id": "97f4f44cd156",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T15:59",
-    "headline": "US-Iran peace talks in Islamabad face massive hurdles",
-    "excerpt": "Ali Vaez, says upcoming talks between the US and Iran may be marred by a deficit of trust.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-10T17:36:37.449560+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/4/10/us-iran-peace-talks-in-islamabad-face-massive-hurdles?traffic_source=rss"
-  },
-  {
-    "id": "f853d6519237",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T15:20",
-    "headline": "Inflation rises in US amid Iran war, Hormuz blockade",
-    "excerpt": "Government report shows gasoline going up by 21.2 percent in March as petrol remains above $4 per gallon despite truce.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-10T17:36:37.449590+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/inflation-rises-in-us-amid-iran-war-hormuz-blockade?traffic_source=rss"
-  },
-  {
-    "id": "f12e48b8d9e2",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T15:19",
-    "headline": "Zelenskyy says Ukrainian interceptors downed Iran drones in the Middle East",
-    "excerpt": "Ukraine&#039;s Zelenskyy previously announced that 228 Ukrainian experts had been deployed to the region.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-10T17:36:37.449609+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/zelenskyy-says-ukrainian-interceptors-downed-iran-drones-in-the-middle-east?traffic_source=rss"
-  },
-  {
-    "id": "621636d97ef7",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T14:26",
-    "headline": "Pakistan sets modest goal for US-Iran summit: A deal to keep talks going",
-    "excerpt": "US-Iran talks open in Islamabad with mediators focused on keeping dialogue alive amid deep divisions.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-10T17:36:37.449643+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going?traffic_source=rss"
   }
 ]
