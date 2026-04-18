@@ -1,5 +1,49 @@
 [
   {
+    "id": "381b3be1be9a",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T21:09",
+    "headline": "Manchester United beat Chelsea as Cunha strike boosts Champions League hope",
+    "excerpt": "Man Utd strengthen their grip on third spot in the Premier League with 1-0 win that leaves Chelsea relying on favours.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-18T21:52:57.740183+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/18/manchester-united-beat-chelsea-as-cunha-strike-boosts-champions-league-hope?traffic_source=rss"
+  },
+  {
+    "id": "cc225d9bccb0",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T21:06",
+    "headline": "Iran military orders Indian ship to abort Strait of Hormuz passage",
+    "excerpt": "Video shows the moment Iran’s military ordered an Indian ship to abort its passage of the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-18T21:52:57.740226+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/iran-military-orders-indian-ship-to-abort-strait-of-hormuz-passage?traffic_source=rss"
+  },
+  {
+    "id": "35e77b27ce86",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T21:03",
+    "headline": "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza",
+    "excerpt": "It is the first time Israel has referred to such a &#039;yellow line&#039; in Lebanon, after using a similar measure in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-18T21:52:57.740265+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/18/israel-says-established-a-yellow-line-in-lebanon-as-it-has-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "7475f06766bc",
+    "source": "PressTV",
+    "date": "2026-04-18T21:52",
+    "headline": "Iran closed Strait of Hormuz as US maintains blockade in violation of ceasefire terms: IRGC Navy",
+    "excerpt": "IRGC Navy says Iran closed the Strait of Hormuz after the US decided to maintain its blockade of Iranian ports, in violation of ceasefire terms.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-18T21:52:59.193911+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/18/767134/Iran-closes-Hormuz-Trump-United-States-blockade"
+  },
+  {
     "id": "69a6d87cb5f3",
     "source": "Al Jazeera",
     "date": "2026-04-18T19:29",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-10T19:57:03.164717+00:00",
     "link": "https://presstv.ir/Detail/2026/04/10/766609/Iran-warns-US-Israel-against-any-ceasefire-violation"
-  },
-  {
-    "id": "4ed2075b6c7a",
-    "source": "PressTV",
-    "date": "2026-04-10T19:57",
-    "headline": "Leader offers condolences on martyrdom of veteran diplomat Kamal Kharrazi",
-    "excerpt": "Ayatollah Seyyed Mojtaba Khamenei has offered condolences on the martyrdom of Kamal Kharrazi, head of the Strategic Council on Foreign Relations and a former top diplomat, in terrorist US-Israeli strikes.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-10T19:57:03.164759+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/10/766610/Leader-offers-condolences-on-martyrdom-of-veteran-diplomat-Kamal-Kharrazi"
-  },
-  {
-    "id": "7f30c8aaae68",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T17:03",
-    "headline": "Starmer and Trump talked military options to reopen Strait of Hormuz",
-    "excerpt": "British PM Starmer said he and US President Donald Trump discussed “military capabilities” to reopen Hormuz.",
-    "category": "Statement",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-10T17:36:37.449429+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/starmer-and-trump-talked-military-options-to-reopen-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "6d17451c967a",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T16:56",
-    "headline": "Israeli settlers turn Passover into celebration of ethnic cleansing",
-    "excerpt": "Palestinians displaced by settler violence confront loss of community as settlers celebrate their forced expulsions.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-10T17:36:37.449471+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/10/israeli-settlers-turn-passover-celebration-ethnic-cleansing?traffic_source=rss"
-  },
-  {
-    "id": "e9aac5e00845",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T16:39",
-    "headline": "Netanyahu removes Spain from Gaza coordination centre over ‘hostility’",
-    "excerpt": "Israel&#039;s Netanyahu accused Spain of waging a &#039;diplomatic war&#039; against Israel.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-10T17:36:37.449505+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss"
   }
 ]
