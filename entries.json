@@ -1,5 +1,93 @@
 [
   {
+    "id": "8f2d87703bbc",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T13:03",
+    "headline": "Trump claims on Iranian concessions trigger questions, rejections in Tehran",
+    "excerpt": "The political drama culminates with the IRGC announcing that the Strait of Hormuz is once again restricted.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-18T14:29:59.628691+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss"
+  },
+  {
+    "id": "bd81898f4283",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T12:59",
+    "headline": "Iran’s supreme leader warns of ‘new bitter defeats’ for US and Israel",
+    "excerpt": "Iran’s Supreme Leader Mojtaba Khamenei warned the navy was ready to inflict ‘new bitter defeats’ on the US and Israel.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-18T14:29:59.628746+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/irans-supreme-leader-warns-of-new-bitter-defeats-for-us-and-israel?traffic_source=rss"
+  },
+  {
+    "id": "92ba08290b7d",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T12:46",
+    "headline": "Iran’s deputy FM says no date for more US talks until ‘framework’ agreed",
+    "excerpt": "Iran’s Deputy Foreign Minister said talks with the US cannot happen until the two sides agree on a shared ‘framework&#039;.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-18T14:29:59.628785+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/irans-deputy-fm-says-no-date-for-more-us-talks-until-framework-agreed?traffic_source=rss"
+  },
+  {
+    "id": "24a573b14690",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T12:03",
+    "headline": "Iran closes Strait of Hormuz again over US blockade of its ports",
+    "excerpt": "Reports of Iranian gunboats opening fire on tanker after Tehran says it is closing waterway until US lifts its blockade.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-04-18T14:29:59.628814+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/18/iran-closes-strait-of-hormuz-again-over-us-blockade-of-its-ports?traffic_source=rss"
+  },
+  {
+    "id": "d9566440f7ff",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T11:55",
+    "headline": "Gunfire reported by vessel in Strait of Hormuz",
+    "excerpt": "A maritime agency reported that a tanker was fired on by gunboats in the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-04-18T14:29:59.628842+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/gunfire-reported-by-vessel-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "5fca96b4299c",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T11:53",
+    "headline": "Displaced Lebanese return as Israeli shelling violates ceasefire in south",
+    "excerpt": "Al Jazeera correspondents on the ground report that Israeli bulldozers are also continuing home demolitions.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-18T14:29:59.628875+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/18/displaced-lebanese-return-as-israeli-shelling-violates-ceasefire-in-south?traffic_source=rss"
+  },
+  {
+    "id": "3702d1cfed2d",
+    "source": "Al Jazeera",
+    "date": "2026-04-18T11:52",
+    "headline": "Turkiye woos investors amid Iran war fallout in Gulf economies",
+    "excerpt": "Turkish officials are promoting Istanbul as a regional financial hub amid the war&#039;s fallout on the Gulf economies.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-18T14:29:59.628907+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/18/turkiye-woos-investors-amid-iran-war-fallout-in-gulf-economies?traffic_source=rss"
+  },
+  {
+    "id": "b04f0ce7c7b5",
+    "source": "PressTV",
+    "date": "2026-04-18T14:30",
+    "headline": "Iran to control Strait of Hormuz traffic until deal is reached to end war: Top security body",
+    "excerpt": "Iran’s Supreme National Security Council (SNSC) says the Islamic Republic will maintain control of all traffic through the strategic Strait of Hormuz until a negotiated end to the US-Israeli-imposed war is achieved.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-18T14:30:01.499119+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/18/767110/Iran-will-control-Strait-of-Hormuz-until-deal-reached-to-end-war-Top-security-body%C2%A0"
+  },
+  {
     "id": "a6742f797065",
     "source": "Al Jazeera",
     "date": "2026-04-18T11:35",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-10T14:33:24.240302+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/10/closer-to-a-break-than-ever-can-nato-survive-if-trump-pulls-the-us-out?traffic_source=rss"
-  },
-  {
-    "id": "9c38168fe7b9",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T11:06",
-    "headline": "Gaza families still unable to bury dead six months into ‘ceasefire’",
-    "excerpt": "About 10,000 Palestinians remain missing, believed to be buried under rubble of collapsed buildings during Israel&#039;s war.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-10T14:33:24.240328+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/gaza-families-still-unable-to-bury-dead-six-months-into-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "18eff0910146",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T10:39",
-    "headline": "Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi",
-    "excerpt": "KMT leader Cheng Li-wun stressed shared cultural heritage and suggested she would slow Taiwan&#039;s military build-up.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-10T14:33:24.240379+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi?traffic_source=rss"
-  },
-  {
-    "id": "1c079d1992b5",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T10:34",
-    "headline": "Will Israel and Lebanon start ceasefire talks?",
-    "excerpt": "Israel and Hezbollah continued to trade attacks on Friday - although at a reduced pace.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-10T14:33:24.240404+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks?traffic_source=rss"
-  },
-  {
-    "id": "97519b55b42d",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T10:17",
-    "headline": "Israel strikes residential areas, destroys homes in southern Lebanon",
-    "excerpt": "Lebanon is seeing not just a displacement crisis but a rapidly developing food crisis too, says UN.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-10T14:33:24.240433+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/israel-strikes-residential-areas-destroys-homes-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "35d60945b8ad",
-    "source": "PressTV",
-    "date": "2026-04-10T14:33",
-    "headline": "Iran forced Israel to halt attacks on Beirut by threatening to withdraw from talks with US: Source",
-    "excerpt": "Intense pressure and the threat to withdraw from talks with the United States in Islamabad from Tehran forced the Zionist regime to stop its military attacks on the Lebanese capital, Beirut, a high-ranking security source told Press TV on Friday.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-10T14:33:25.929644+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/10/766596/iran-forced-israel-halt-attacks-beirut-threatening-withdraw-from-talks-source"
-  },
-  {
-    "id": "8d0a51e92fce",
-    "source": "PressTV",
-    "date": "2026-04-10T14:33",
-    "headline": "Iran’s 10-point proposal to form basis of talks with US: Senior diplomat",
-    "excerpt": "A senior Iranian diplomat says Iran-US negotiations in Islamabad will be based upon the 10-point ceasefire plan proposed by Tehran.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-10T14:33:25.929687+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/10/766595/Iran-10-point-proposal-to-form-basis-of-talks-with-US-in-Islamabad"
-  },
-  {
-    "id": "e791c4d3d311",
-    "source": "PressTV",
-    "date": "2026-04-10T14:33",
-    "headline": "Management of Strait of Hormuz has entered new stage: IRGC",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) Navy says the management of the Strait of Hormuz has entered a new stage.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-10T14:33:25.929719+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/10/766580/Management-Strait-of-Hormuz-entered-new-stage-IRGC"
-  },
-  {
-    "id": "d8a634893f3f",
-    "source": "PressTV",
-    "date": "2026-04-10T14:33",
-    "headline": "Analysis: Why no power can undermine Iran's eternal dominance over the Strait of Hormuz",
-    "excerpt": "Iran's unchallenged and eternal dominance over the Strait of Hormuz — rooted in geography, law, and asymmetric power — is absolute, and no power can undermine or threaten it.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-10T14:33:25.929755+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/10/766586/why-no-matter-can-undermine-iran-eternal-dominance-over-strait-hormuz"
   }
 ]
