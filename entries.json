@@ -1,5 +1,38 @@
 [
   {
+    "id": "52a1592fef1c",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T17:00",
+    "headline": "Met Police investigate potential Iran links to London arson attacks",
+    "excerpt": "The latest attack at a Jewish site in the UK capital occurs at Kenton United Synagogue and causes minor damage.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-19T17:40:09.517169+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/met-police-investigate-potential-iran-links-to-london-arson-attacks?traffic_source=rss"
+  },
+  {
+    "id": "285b4f929801",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T16:33",
+    "headline": "Eight children killed in mass shooting in Louisiana, US media reports",
+    "excerpt": "This is a breaking news story.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-19T17:40:09.517217+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/eight-children-killed-in-mass-shooting-in-louisiana-us-media-reports?traffic_source=rss"
+  },
+  {
+    "id": "0f3f83847fb3",
+    "source": "PressTV",
+    "date": "2026-04-19T17:40",
+    "headline": "Iran replenishing missile launchers faster than before war: IRGC commander",
+    "excerpt": "According to a top military commander, the US has been “incapable” of achieving the same level of operational readiness as Iran within the current ceasefire window.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-19T17:40:11.333735+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767172/Iran-replenishing-missile-stockpiles-faster-than-before-war-IRGC-commander%C2%A0"
+  },
+  {
     "id": "6a3ed6f8be18",
     "source": "Al Jazeera",
     "date": "2026-04-19T15:38",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-11T11:47:49.322248+00:00",
     "link": "https://presstv.ir/Detail/2026/04/11/766641/US-agrees-to-release-frozen-Iranian-assets-in-Qatar-foreign-banks-Report"
-  },
-  {
-    "id": "ccbfe4d98074",
-    "source": "PressTV",
-    "date": "2026-04-11T11:47",
-    "headline": "Iran's powerful diplomacy in Islamabad proof of commitment to regional stability: Leader’s advisor",
-    "excerpt": "Ali Akbar Velayati, a senior advisor to the Leader of the Islamic Revolution, has said that Iran's powerful diplomacy today serves as evidence of its commitment to safeguarding regional stability in light of the country's national authority.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-11T11:47:49.322300+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766639/iran-powerful-diplomacy-islamabad-evidence-commitment-regional-stability-leader-advisor"
-  },
-  {
-    "id": "40c7b28957ba",
-    "source": "PressTV",
-    "date": "2026-04-11T11:47",
-    "headline": "Direct talks with Israel ‘blatant violation’ of Lebanon’s constitution: MP",
-    "excerpt": "A senior Lebanese lawmaker has censured the upcoming direct negotiations with Israel as a flagrant violation of Lebanon’s constitution.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-11T11:47:49.322333+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766645/Direct-talks-Israel-blatant-violation-Lebanon-constitution-MP"
-  },
-  {
-    "id": "a307e6fd5e26",
-    "source": "PressTV",
-    "date": "2026-04-11T11:47",
-    "headline": "Hezbollah conducts massive strikes against Israeli targets in response to Lebanon carnage",
-    "excerpt": "Hezbollah says it has attacked a number of Israeli targets in response to the regime’s invasion of Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-11T11:47:49.322366+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766637/Hezbollah-attacks-Israeli-targets-amid-regime-s-invasion-of-Lebanon"
   }
 ]
