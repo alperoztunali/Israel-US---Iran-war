@@ -1,5 +1,38 @@
 [
   {
+    "id": "eb18c22e6476",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T12:38",
+    "headline": "Trump says US negotiators to head to Pakistan for Iran ceasefire talks",
+    "excerpt": "Trump announces talks in Islamabad despite accusing Iran of violating truce, as he warns Tehran of severe repercussions.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-19T13:14:31.591304+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks?traffic_source=rss"
+  },
+  {
+    "id": "1ab1925f97f5",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T09:26",
+    "headline": "Iran war: What is happening on day 51 of the US-Israeli conflict?",
+    "excerpt": "Tehran says it will keep the strategic Strait of Hormuz closed until Washington ends its blockade of Iranian ports.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-19T13:14:31.591359+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/iran-war-what-is-happening-on-day-51-of-the-us-iran-conflict?traffic_source=rss"
+  },
+  {
+    "id": "d4e76f1f0f72",
+    "source": "PressTV",
+    "date": "2026-04-19T13:14",
+    "headline": "Pezeshkian: Iran does not seek expansion of war",
+    "excerpt": "The Iranian president says conflicts must be settled through dialogue and prevention of destruction.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-19T13:14:33.396932+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767167/Pezeshkian-Iran-does-not-seek-expansion-of-war%C2%A0"
+  },
+  {
     "id": "04dd27a1b2a4",
     "source": "Al Jazeera",
     "date": "2026-04-19T11:40",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-11T07:57:10.887278+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss"
-  },
-  {
-    "id": "0234d40b389e",
-    "source": "PressTV",
-    "date": "2026-04-11T07:57",
-    "headline": "Timing of Iran-US talks to be determined once preconditions clarified: Report",
-    "excerpt": "The timing of talks between Iran and the US in Pakistan will be determined once the preconditions are clarified, according to a report by Islamic Republic of Iran Broadcasting (IRIB).",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T07:57:12.511119+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766622/Timing-talks-with-US-be-determined-once-preconditions-clarified-Report"
-  },
-  {
-    "id": "06dc27e87536",
-    "source": "PressTV",
-    "date": "2026-04-11T07:57",
-    "headline": "Israeli military kills six Palestinians at Gaza checkpoint, medics say",
-    "excerpt": "An Israeli airstrike hit a police checkpoint in Bureij camp in central Gaza early Saturday, killing at least six people, medics say.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-04-11T07:57:12.511143+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766621/Israeli-military-kills-six-Palestinians-Gaza-checkpoint-medics-say"
-  },
-  {
-    "id": "6774443b85db",
-    "source": "PressTV",
-    "date": "2026-04-11T07:57",
-    "headline": "Netanyahu requests delay in corruption trial testimony amid Iran ceasefire",
-    "excerpt": "Benjamin Netanyahu has asked the court responsible for his corruption trial to postpone his testimony. ‌",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T07:57:12.511173+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766620/Netanyahu-requests-delay-in-corruption-trial-testimony"
   }
 ]
