@@ -1,5 +1,38 @@
 [
   {
+    "id": "dc717ed602af",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T14:08",
+    "headline": "What to know about US-Iran standoff over the Strait of Hormuz",
+    "excerpt": "Trump accuses Iran of violating the ceasefire as he announces plans to send US negotiators to Pakistan for more talks.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-19T14:59:55.049077+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/what-to-know-about-us-iran-standoff-over-the-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "030958dd5aab",
+    "source": "PressTV",
+    "date": "2026-04-19T14:59",
+    "headline": "Iran replenishing missile stockpiles faster than before war: IRGC commander",
+    "excerpt": "According to a top military commander, the US has been “incapable” of achieving the same level of operational readiness as Iran within the current ceasefire window.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-19T14:59:56.646055+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767172/Iran-replenishing-missile-stockpiles-faster-than-before-war-IRGC-commander%C2%A0"
+  },
+  {
+    "id": "80850057cfd8",
+    "source": "PressTV",
+    "date": "2026-04-19T14:59",
+    "headline": "Iran says US blockade of ports unlawful, criminal, and violation of ceasefire",
+    "excerpt": "Iran’s Foreign Ministry spokesman says the US has violated the UN Charter by imposing a naval blockade on the country.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-19T14:59:56.646090+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767174/Iran-says-US-blockade-of-ports-unlawful-and-a-war-crime"
+  },
+  {
     "id": "0a823f20a005",
     "source": "Al Jazeera",
     "date": "2026-04-19T13:23",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-11T10:03:27.726448+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "b628e62b2e15",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T07:51",
-    "headline": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
-    "excerpt": "Talks due in Washington as Israeli attacks on Lebanon continue, Iran says ceasefire must include them.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T10:03:27.726489+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss"
-  },
-  {
-    "id": "e1d25dd23360",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T07:51",
-    "headline": "Israeli drone attack kills Palestinians near Gaza mosque",
-    "excerpt": "An Israeli drone attack near a mosque in central Gaza has killed at least 6 people.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-11T10:03:27.726512+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss"
-  },
-  {
-    "id": "574aa76e935b",
-    "source": "PressTV",
-    "date": "2026-04-11T10:03",
-    "headline": "Iran VP: Deal possible if US negotiators are America Firsters rather than Israel Firsters",
-    "excerpt": "The Iranian vice president has warned that an agreement with the US is not possible if the US delegation represents the interests of the Israeli regime.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T10:03:29.045151+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766630/No-deal-with-US-if-we-meet-the-representatives-of-Israel-First-Iranian-VP"
   }
 ]
