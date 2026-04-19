@@ -1,5 +1,27 @@
 [
   {
+    "id": "9d4ae1cc4788",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T19:06",
+    "headline": "Did the US misjudge Iran? A military strategist answers",
+    "excerpt": "Strategist Bryan Clark examines shifting war aims, escalation traps, and whether Iran is now more dangerous to the US.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-19T19:25:27.057241+00:00",
+    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/19/did-the-us-misjudge-iran-a-military-strategist-answers-2?traffic_source=rss"
+  },
+  {
+    "id": "e74b342326a0",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T12:38",
+    "headline": "Trump to send US delegation to Pakistan for possible Iran talks",
+    "excerpt": "No ⁠decision has been taken ​by Tehran on sending ​a delegation for talks in Pakistan, Iran&#039;s Tasnim outlet says.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-19T19:25:27.057306+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks?traffic_source=rss"
+  },
+  {
     "id": "4c12f1cdc1b9",
     "source": "Al Jazeera",
     "date": "2026-04-19T18:02",
@@ -5476,27 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-04-11T14:07:07.258570+00:00",
     "link": "https://www.aljazeera.com/features/2026/4/11/makeshift-gaza-university-offers-chance-to-resurrect-academic-studies?traffic_source=rss"
-  },
-  {
-    "id": "29505be18b23",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T07:51",
-    "headline": "Israel rejects ceasefire with Hezbollah before Lebanon talks next week",
-    "excerpt": "At least 10 people, including three emergency workers, killed in latest Israeli attacks on southern Lebanon.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-11T14:07:07.258606+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss"
-  },
-  {
-    "id": "6aac4c0e9981",
-    "source": "PressTV",
-    "date": "2026-04-11T14:07",
-    "headline": "Iran-US negotiations kick off in Islamabad",
-    "excerpt": "Iran and the US start ceasefire negotiations mediated by Pakistan in Islamabad.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T14:07:09.718451+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766656/Iran-US-negotiations-start-Pakistan"
   }
 ]
