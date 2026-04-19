@@ -1,5 +1,27 @@
 [
   {
+    "id": "7bbef07b4ad1",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T21:53",
+    "headline": "US forces attack and seize Iranian ship Touska near Strait of Hormuz",
+    "excerpt": "US Central Command has published a video said to show a guided-missile destroyer firing at an Iranian-flagged ship.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-19T23:05:28.200497+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "8e55ce90b901",
+    "source": "PressTV",
+    "date": "2026-04-19T23:05",
+    "headline": "US commits maritime piracy, attacks Iranian merchant ship",
+    "excerpt": "The United States has carried out a flagrant act of aggression on an Iranian merchant vessel in the waters of the Sea of Oman.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-19T23:05:30.633438+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767193/US-commits-maritime-piracy,-attacks-Iranian-merchant-ship"
+  },
+  {
     "id": "8b78be5d3a08",
     "source": "Al Jazeera",
     "date": "2026-04-19T21:23",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-11T15:50:24.407337+00:00",
     "link": "https://www.aljazeera.com/video/this-is-america/2026/4/11/us-iran-ceasefire-can-pressure-incentives-and-risks-deliver-a-final-deal?traffic_source=rss"
-  },
-  {
-    "id": "4780e7e25abb",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T14:17",
-    "headline": "Lebanon mourns security forces killed in Israeli strike",
-    "excerpt": "Lebanon held funeral ceremonies for 13 members of the country’s State Security agency killed in an Israeli strike.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-11T15:50:24.407362+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/lebanon-mourns-security-forces-killed-in-israeli-strike?traffic_source=rss"
-  },
-  {
-    "id": "38435db2f6c2",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T13:26",
-    "headline": "US-Iran direct talks on ending war under way in Pakistan",
-    "excerpt": "Discussions between Iran and US delegations begin following separate bilateral meetings with Pakistani prime minister.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T15:50:24.407389+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/11/us-iran-talks-on-ending-war-begin-in-pakistan?traffic_source=rss"
   }
 ]
