@@ -1,5 +1,38 @@
 [
   {
+    "id": "d055e43ccd10",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T00:28",
+    "headline": "North Korea launches ballistic missiles towards sea off its east coast",
+    "excerpt": "Multiple ballistic missiles fired from eastern Sinpo area in seventh such test this year.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-04-19T03:50:53.426691+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast?traffic_source=rss"
+  },
+  {
+    "id": "adff64ae9779",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T00:00",
+    "headline": "Iran war live: Tehran says no date set for US talks, Hormuz Strait closed",
+    "excerpt": "IRGC says the Strait of Hormuz will remain closed until the US stops blockading Iranian ports.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-19T03:50:53.426735+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed?traffic_source=rss"
+  },
+  {
+    "id": "5f97a6cd7441",
+    "source": "PressTV",
+    "date": "2026-04-19T03:50",
+    "headline": "No enriched material to be shipped to US; maximalist demands preventing fresh talks: Official",
+    "excerpt": "An Iranian deputy foreign minister categorically rules out transfer of any enriched nuclear material from the Islamic Republic to the United States.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-19T03:50:54.976037+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767137/Iran-nuclear-United-States-Trump"
+  },
+  {
     "id": "61806812288e",
     "source": "Al Jazeera",
     "date": "2026-04-18T21:41",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-10T21:58:29.203451+00:00",
     "link": "https://presstv.ir/Detail/2026/04/10/766611/Iran-talks-United-States-Pakistan-Islamabad-Qalibaf-Araghchi-Vance-Witkoff-Kushner"
-  },
-  {
-    "id": "a476a6c93d5b",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T19:30",
-    "headline": "Can Iran negotiations lead to peace?",
-    "excerpt": "Redi Tlhabi speaks to former Iran and US diplomats on the hopes for negotiations to end the war in Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-10T19:57:01.453217+00:00",
-    "link": "https://www.aljazeera.com/video/upfront/2026/4/10/can-iran-negotiations-lead-to-peace?traffic_source=rss"
-  },
-  {
-    "id": "0a93ffd0e45a",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T19:21",
-    "headline": "New tensions emerge before US-Iran war ceasefire talks in Pakistan",
-    "excerpt": "Iranian official says conditions still not met before talks, as Trump re-ups threat of renewed attacks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-10T19:57:01.453260+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/new-tensions-emerge-before-us-iran-war-ceasefire-talks-in-pakistan?traffic_source=rss"
-  },
-  {
-    "id": "c90ae19fdd46",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T18:01",
-    "headline": "Is the US-Iran ceasefire already doomed?",
-    "excerpt": "Even if the talks fail to produce a deal, a return to an all-out war may still be averted.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-10T19:57:01.453291+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/10/is-trumps-iran-ceasefire-already-doomed?traffic_source=rss"
   }
 ]
