@@ -1,5 +1,71 @@
 [
   {
+    "id": "fc628b1681cf",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T09:26",
+    "headline": "Iran war: What is happening on day 51 of the US-Iran conflict?",
+    "excerpt": "Tehran will keep the strategic Strait of Hormuz closed until Washington ends the blockade of Iranian ports.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-19T10:02:32.729298+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/iran-war-what-is-happening-on-day-51-of-the-us-iran-conflict?traffic_source=rss"
+  },
+  {
+    "id": "ceeaeee60c04",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T09:12",
+    "headline": "How the Israeli military targets the people who save lives",
+    "excerpt": "Israeli attacks have killed at least 57 medical workers in Lebanon since early March. It is a pattern lifted from Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-19T10:02:32.729337+00:00",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/19/how-the-israeli-military-targets-the-people-who-save-lives?traffic_source=rss"
+  },
+  {
+    "id": "e303dc7fd586",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T08:49",
+    "headline": "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse",
+    "excerpt": "Tehran is &#039;fully prepared&#039; for the US to resume hostilities at any moment, says Iran&#039;s parliament speaker Ghalibaf.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-19T10:02:32.729379+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/iran-us-still-far-from-breakthrough-in-strait-of-hormuz-impasse?traffic_source=rss"
+  },
+  {
+    "id": "5521b007eaa3",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T00:00",
+    "headline": "Iran war live: Hormuz Strait ‘closed’ as Tehran says no date for US talks",
+    "excerpt": "IRGC says the Strait of Hormuz will remain closed until the US stops blockading Iranian ports.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-19T10:02:32.729427+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed?traffic_source=rss"
+  },
+  {
+    "id": "960cb3874575",
+    "source": "PressTV",
+    "date": "2026-04-19T10:02",
+    "headline": "Two young Palestinians killed in new Israeli strikes on Gaza",
+    "excerpt": "At least two young Palestinian men have been martyred in the latest rounds of Israeli strikes across the war-ravaged Gaza Strip.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-19T10:02:34.531075+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767157/Two-young-Palestinians-killed-new-Israeli-strikes-Gaza"
+  },
+  {
+    "id": "566925270941",
+    "source": "PressTV",
+    "date": "2026-04-19T10:02",
+    "headline": "Trump feared US troops would become ‘sitting ducks’ if they invaded Iran’s Kharg island: Report",
+    "excerpt": "Trump decided to not invade the Iranian Island of Kharg out of fear of heavy casualties, according to a report.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-19T10:02:34.531109+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767155/Trump-feared-US-troops-would-become-sitting-docks-for-Iran-if-they-invaded-Kharg-island-Report"
+  },
+  {
     "id": "bc9625fe4e7e",
     "source": "Al Jazeera",
     "date": "2026-04-19T05:51",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-11T05:21:28.452627+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/10/brazil-announces-us-partnership-to-intercept-weapons-drug-trafficking?traffic_source=rss"
-  },
-  {
-    "id": "eaaeefe2de08",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T22:58",
-    "headline": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
-    "excerpt": "Hezbollah fired a barrage of rockets at northern Israel, damaging a 1,500-year-old Byzantine church in Nahariya.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-10T23:54:20.516084+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss"
-  },
-  {
-    "id": "1b398898c09d",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T22:29",
-    "headline": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
-    "excerpt": "Police said the suspect targeted Altman&#039;s San Francisco residence before dawn and fled the scene on foot.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-04-10T23:54:20.516159+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack?traffic_source=rss"
-  },
-  {
-    "id": "cc3f144cb6fa",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T21:59",
-    "headline": "Iranian delegation arrives in Islamabad for talks with US",
-    "excerpt": "A senior Iranian delegation has arrived in Islamabad for talks with US officials.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-10T23:54:20.516190+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/iranian-delegation-arrives-in-islamabad-for-talks-with-us?traffic_source=rss"
-  },
-  {
-    "id": "c36c9e643a50",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T21:58",
-    "headline": "Islamabad on lockdown ahead of US-Iran talks",
-    "excerpt": "Islamabad has deployed more than 10,000 military and police personnel as US and Iranian delegations arrive.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-04-10T23:54:20.516215+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss"
-  },
-  {
-    "id": "f61e9db8157a",
-    "source": "PressTV",
-    "date": "2026-04-10T23:54",
-    "headline": "Hezbollah chief honors Ayatollah Khamenei's legacy 40 days after his martyrdom",
-    "excerpt": "Hezbollah's secretary-general marks the 40th day since the martyrdom of Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-10T23:54:22.061523+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/10/766615/Lebanon-Hezbollah-Iran-Leader-Ayatollah-Khamenei-martyrdom-message"
-  },
-  {
-    "id": "cd42219fef4d",
-    "source": "PressTV",
-    "date": "2026-04-10T23:54",
-    "headline": "Lebanon: 357 martyred during 3 days of Israeli strikes",
-    "excerpt": "Lebanon's health ministry says as many as 357 people have been martyred during Israeli strikes across Lebanon over the past three days.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-10T23:54:22.061557+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/10/766618/Lebanon-deaths-Israeli-attacks"
   }
 ]
