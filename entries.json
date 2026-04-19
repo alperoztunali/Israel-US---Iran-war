@@ -1,5 +1,38 @@
 [
   {
+    "id": "0a823f20a005",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T13:23",
+    "headline": "Displaced Lebanese woman returns to find home destroyed after ceasefire",
+    "excerpt": "A displaced woman returned to  southern Lebanon after a ceasefire to find her house reduced to rubble.",
+    "category": "Diplomatic",
+    "location": "Lebanon",
+    "addedAt": "2026-04-19T14:05:52.589069+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/displaced-lebanese-woman-returns-to-find-home-destroyed-after-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "ff05b557c127",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T12:38",
+    "headline": "Trump says US negotiators to head to Pakistan for Iran talks",
+    "excerpt": "US president announces talks in Islamabad and accuses Iran of violating truce, warning Tehran of severe repercussions.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-19T14:05:52.589111+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks?traffic_source=rss"
+  },
+  {
+    "id": "2651b557a1b8",
+    "source": "PressTV",
+    "date": "2026-04-19T14:05",
+    "headline": "Iranian armed forces turn back two oil tankers in Strait of Hormuz: Report",
+    "excerpt": "Iranian armed forces have intercepted two oil tankers attempting to navigate through the Strait of Hormuz, forcing them to alter their routes and retreat from the region",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-19T14:05:54.234529+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767164/Iran-armed-forces-intercept-oil-tankers-Strait-of-Hormuz-blockade-"
+  },
+  {
     "id": "eb18c22e6476",
     "source": "Al Jazeera",
     "date": "2026-04-19T12:38",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-11T10:03:29.045151+00:00",
     "link": "https://presstv.ir/Detail/2026/04/11/766630/No-deal-with-US-if-we-meet-the-representatives-of-Israel-First-Iranian-VP"
-  },
-  {
-    "id": "059075801de7",
-    "source": "PressTV",
-    "date": "2026-04-11T10:03",
-    "headline": "Iran enters talks with US in Islamabad with 'complete distrust': FM Araghchi",
-    "excerpt": "Araghchi says the country is entering negotiations with the United Stated in Pakistan with complete distrust.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T10:03:29.045185+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766628/Iran-enters-talks-US-complete-distrust-Araghchi"
-  },
-  {
-    "id": "606f9a8f486c",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T07:34",
-    "headline": "Video: Vance arrives in Pakistan for talks with Iran",
-    "excerpt": "US Vice President JD Vance has landed in Pakistan for talks with Iranian officials on a deal to end the war on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T07:57:10.887222+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss"
-  },
-  {
-    "id": "5316b3d6f964",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T00:00",
-    "headline": "Iran war live: Vance arrives in Pakistan to lead ceasefire talks",
-    "excerpt": "US Vice President J D Vance arrives in Pakistan to lead the highest level talks with Iran since 1979 Islamic revolution.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T07:57:10.887278+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss"
   }
 ]
