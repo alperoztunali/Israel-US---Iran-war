@@ -1,5 +1,27 @@
 [
   {
+    "id": "20b26f717e84",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T10:11",
+    "headline": "Displaced Lebanese families return home despite Israeli attacks",
+    "excerpt": "Families travel south to inspect destroyed homes, unsure whether to stay as concerns about renewed conflict increase.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-19T11:01:43.880645+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/4/19/displaced-lebanese-families-return-south-despite-risks-near-israeli-border?traffic_source=rss"
+  },
+  {
+    "id": "49f0e3a27f3f",
+    "source": "PressTV",
+    "date": "2026-04-19T11:01",
+    "headline": "Pezeshkian: Trump ‘in no place’ to oppose Iran’s inalienable nuclear rights",
+    "excerpt": "President Pezeshkian says Trump is in no position to deprive the Iranian nation of its inalienable right to a peaceful nuclear energy program.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-19T11:01:46.154443+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767160/Pezeshkian-Trump-no-place-oppose-Iran-inalienable-nuclear-rights"
+  },
+  {
     "id": "fc628b1681cf",
     "source": "Al Jazeera",
     "date": "2026-04-19T09:26",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-11T05:21:28.452571+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss"
-  },
-  {
-    "id": "27c7d828e79a",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T23:55",
-    "headline": "Israeli strike on government building kills Lebanese officers",
-    "excerpt": "Israeli air strike on a government building in southern Lebanon’s Nabatieh kills at least 13.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-04-11T05:21:28.452597+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss"
-  },
-  {
-    "id": "61b8e873ca89",
-    "source": "Al Jazeera",
-    "date": "2026-04-10T23:39",
-    "headline": "Brazil announces US partnership to intercept weapons, drug trafficking",
-    "excerpt": "President Lula&#039;s government said it has seized 1,168 illicit arms imported from the US in the last 12 months alone.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-11T05:21:28.452627+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/10/brazil-announces-us-partnership-to-intercept-weapons-drug-trafficking?traffic_source=rss"
   }
 ]
