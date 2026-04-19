@@ -1,5 +1,60 @@
 [
   {
+    "id": "04dd27a1b2a4",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T11:40",
+    "headline": "Iran war: 10 frequently used words and their meanings",
+    "excerpt": "The US-Israel war on Iran nears two months.  We break down some of the frequently used terminology in this war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-19T11:51:45.987589+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/iran-war-10-frequently-used-words-and-their-meanings?traffic_source=rss"
+  },
+  {
+    "id": "1c062ce3e4fd",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T11:31",
+    "headline": "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
+    "excerpt": "Tehran is threatening to keep the Strait of Hormuz shut unless Washington lifts the ‘US siege’ on Iranian ports.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-19T11:51:45.987639+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-warns-hormuz-will-stay-shut-unless-us-lifts-siege-on-its-ports?traffic_source=rss"
+  },
+  {
+    "id": "542688241bfc",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T11:30",
+    "headline": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
+    "excerpt": "The Israeli &#039;Yellow Line&#039; in Lebanon raises fears that a temporary military zone could become a longer-term occupation.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-19T11:51:45.987676+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/does-israels-yellow-line-violate-the-lebanon-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "a26515ff08f6",
+    "source": "PressTV",
+    "date": "2026-04-19T11:51",
+    "headline": "‘Myth of US stealth fighters over’: Iranian hunter of US F-35 jet declares",
+    "excerpt": "The senior Iranian officer, who downed an intruding American F-35 fighter jet, says the myth of warplanes designed to evade radar detection has ended.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-19T11:51:47.523348+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767161/Myth-of-stealth-fighters-over-Iranian-hunter-of-US-F-35-jet"
+  },
+  {
+    "id": "cf2bf6a1ed65",
+    "source": "PressTV",
+    "date": "2026-04-19T11:51",
+    "headline": "Iran Army chief hails Leader’s message on Army Day",
+    "excerpt": "The chief commander of the Islamic Republic of Iran Army has hailed the message of the Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei on the occasion of the Army Day.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-19T11:51:47.523394+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/19/767163/Iran-Army-chief-hails-Leader-message-Army-Day"
+  },
+  {
     "id": "20b26f717e84",
     "source": "Al Jazeera",
     "date": "2026-04-19T10:11",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-11T07:57:12.511173+00:00",
     "link": "https://presstv.ir/Detail/2026/04/11/766620/Netanyahu-requests-delay-in-corruption-trial-testimony"
-  },
-  {
-    "id": "6dd1987218a9",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T04:49",
-    "headline": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-    "excerpt": "Senior Iranian officials arrive in Islamabad for ceasefire talks with the United States.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T05:21:28.452409+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss"
-  },
-  {
-    "id": "08bee218bd69",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T04:15",
-    "headline": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
-    "excerpt": "Pakistan’s ambassador to the US said weeks of intense diplomatic efforts have led to a shared commitment from all sides.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T05:21:28.452471+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss"
-  },
-  {
-    "id": "f21c6b4439a1",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T04:02",
-    "headline": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
-    "excerpt": "Pakistan’s Prime Minister Shehbaz Sharif has described the upcoming US-Iran talks in Islamabad as “make or break”.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T05:21:28.452510+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss"
-  },
-  {
-    "id": "5ea93174b9e6",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T03:06",
-    "headline": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
-    "excerpt": "Trump says Washington will not accept Iran&#039;s imposition of a de facto toll booth system in the critical waterway.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T05:21:28.452546+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss"
-  },
-  {
-    "id": "f1f9108dae94",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T00:00",
-    "headline": "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks",
-    "excerpt": "Lebanese Health Ministry says people killed in Israeli attacks since March 2 rises to 1,953 with 6,303 wounded.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-11T05:21:28.452571+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss"
   }
 ]
