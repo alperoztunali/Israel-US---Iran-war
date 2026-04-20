@@ -1,5 +1,104 @@
 [
   {
+    "id": "55af00648e7f",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T11:23",
+    "headline": "Russia claims Ukraine-linked bomb plot foiled, German woman arrested",
+    "excerpt": "Russia&#039;s FSB accuses the woman, found with a bomb in her backpack, of taking part in a plot hatched by Ukraine.",
+    "category": "Airstrike",
+    "location": "Oman",
+    "addedAt": "2026-04-20T11:53:01.883100+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/russia-claims-foiled-bomb-plot-involving-german-woman?traffic_source=rss"
+  },
+  {
+    "id": "42333ee96747",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T10:21",
+    "headline": "The EU must not wait till Israel starts executing Palestinians",
+    "excerpt": "It must cancel the EU-Israel Association Agreement immediately over Israeli violations of the human rights clause.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-20T11:53:01.883146+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/4/20/the-eu-must-not-wait-till-israel-starts-executing-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "3f3baaab0c1a",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T10:06",
+    "headline": "Second round in Islamabad: Who are the main US-Iran negotiators?",
+    "excerpt": "Fresh talks between the US and Iran are uncertain. But these are the key figures who have driven negotiations so far.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-20T11:53:01.883180+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table?traffic_source=rss"
+  },
+  {
+    "id": "fce52b2d2c3e",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T10:06",
+    "headline": "US captures Iranian ship Touska amid mediation efforts: All we know",
+    "excerpt": "The US claims the ship was trying to evade its naval blockade. Iran calls it &#039;piracy&#039;.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-20T11:53:01.883207+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/us-captures-iranian-ship-touska-amid-mediation-efforts-all-we-know?traffic_source=rss"
+  },
+  {
+    "id": "36365a8ad50d",
+    "source": "PressTV",
+    "date": "2026-04-20T11:53",
+    "headline": "Iran: US not serious about talks, will face decisive response if it repeats past mistakes",
+    "excerpt": "Iran says the US is not serious about talks, asserting that Washington will face the Islamic Republic's decisive retaliation if it repeats its past mistakes concerning the country.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-20T11:53:03.522530+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767212/US-not-serious-about-talks--will-receive-decisive-response-if-repeats-past-mistakes--Foreign-Ministry"
+  },
+  {
+    "id": "ef30844f9d1e",
+    "source": "PressTV",
+    "date": "2026-04-20T11:53",
+    "headline": "Iran's military vows 'decisive action' against US army after attack on Iranian vessel",
+    "excerpt": "Iran's military has vowed to take decisive action against the \"terrorist US Army,\" following an American attack on an Iranian commercial vessel.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-20T11:53:03.522568+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767219/Iran-s-Armed-Forces-to-take-necessary-action-against-terrorist-US-army"
+  },
+  {
+    "id": "7450fcc79641",
+    "source": "PressTV",
+    "date": "2026-04-20T11:53",
+    "headline": "‘Gross violation of intl. law’: 87 global lawyers denounce US-Israeli war on Iran, Lebanon",
+    "excerpt": "At least 87 international lawyers have issued an unprecedented joint statement calling the US-Zionist war on Iran and Lebanon a gross violation of international law and crime of aggression.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-20T11:53:03.522614+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767222/gross-violation-intl-law-87-top-lawyers-denounce-us-israeli-war-iran-lebanon"
+  },
+  {
+    "id": "6f1cc64d1d2a",
+    "source": "PressTV",
+    "date": "2026-04-20T11:53",
+    "headline": "Over 3,300 Iranians martyred in US-Israeli war of aggression: Forensic body",
+    "excerpt": "The head of the Iranian Legal Medicine Organization says at least 3,375 people, including hundreds of children, were martyred during the 40-day war by the US and Israel.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-20T11:53:03.522642+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767210/Forensic-authority--At-least-3,375-Iranians-martyred-in-US-Israeli-war"
+  },
+  {
+    "id": "6eb457799806",
+    "source": "PressTV",
+    "date": "2026-04-20T11:53",
+    "headline": "No 'free security' in Strait of Hormuz if Iranian oil exports are restricted: VP",
+    "excerpt": "Iran's Vice President Mohammad Reza Aref says there will be no \"free security\" for others in the Strait of Hormuz if Iranian oil exports are restricted.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-20T11:53:03.522674+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767197/VP-Providing-security-in-Strait-of-Hormuz-not-free"
+  },
+  {
     "id": "4c1333412d0e",
     "source": "Al Jazeera",
     "date": "2026-04-20T09:55",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-12T06:12:31.890680+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss"
-  },
-  {
-    "id": "449b31bf075c",
-    "source": "PressTV",
-    "date": "2026-04-12T06:12",
-    "headline": "Iran-US talks end without a deal after 21 hours due to excessive US demands",
-    "excerpt": "The American and Iranian officials seeking a conclusive end to the illegal US-Israeli aggression against Iran have failed to reach a consensus after 21 hours of negotiations in Pakistan.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T06:12:33.493061+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766679/US-Iranian-officials-fail-to-reach-deal-after-hours-of-talks-in-Pakistan"
-  },
-  {
-    "id": "a7f44a99750f",
-    "source": "PressTV",
-    "date": "2026-04-12T06:12",
-    "headline": "Iran, US end third round of Pakistan-mediated negotiations; talks extended for another day",
-    "excerpt": "Iran and the US end the third round of Pakistan-mediated ceasefire negotiations in Islamabad pending fresh resumption of the talks on Sunday.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T06:12:33.493095+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766670/First-phase-of-US-Iran-talks-concludes-in-Islamabad-with-exchange-of-written-texts"
-  },
-  {
-    "id": "1bd9154a1449",
-    "source": "PressTV",
-    "date": "2026-04-12T06:12",
-    "headline": "Global scholars, ex-officials support Iran's terms for ending aggression",
-    "excerpt": "International coalition of academics, former officials, diplomats, and public figures support Iran's terms for bringing about a conclusive end to aggression against the country.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T06:12:33.493132+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766677/Iran-United-States-war-letter-coalition-scholars-former-officials"
-  },
-  {
-    "id": "dc7e73d9c085",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T22:09",
-    "headline": "US President Trump says US ‘wins’ regardless of how Iran talks go",
-    "excerpt": "US President Donald Trump says ‘we win regardless of what happens’ in Iran talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T23:56:30.265150+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss"
-  },
-  {
-    "id": "16d978804df2",
-    "source": "PressTV",
-    "date": "2026-04-11T23:56",
-    "headline": "Iran, US end third round of Pakistan-mediated talks",
-    "excerpt": "Iran and the US end the third round of Pakistan-mediated ceasefire talks in Islamabad.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T23:56:32.724793+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766670/First-phase-of-US-Iran-talks-concludes-in-Islamabad-with-exchange-of-written-texts"
-  },
-  {
-    "id": "ba16812cff08",
-    "source": "PressTV",
-    "date": "2026-04-11T23:56",
-    "headline": "Axis of Resistance stronger than ever: IRGC Quds Force cmdr.",
-    "excerpt": "The commander of the Quds Force of the Islamic Revolution Guards Corps (IRGC) asserts that the regional Axis of Resistance today exhibits more strength and resilience than any other time throughout its history.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-11T23:56:32.724847+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766676/Iran-IRGC-resistance-Israel-Quds-Force-commander-Qa-ani"
-  },
-  {
-    "id": "6e0a36e823ee",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T20:55",
-    "headline": "“Diplomacy is not an event, it’s a process, it takes time.”",
-    "excerpt": "Former Pakistani diplomat says expectations from the Islamabad talks between the US and Iran should be realistic.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T22:02:50.685917+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss"
-  },
-  {
-    "id": "9e432d099e74",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T20:45",
-    "headline": "Iraqi parliament elects new president",
-    "excerpt": "Iraq’s parliament has elected Kurdish politician Nizar Amedi as president after months of political deadlock.",
-    "category": "Casualties",
-    "location": "Iraq",
-    "addedAt": "2026-04-11T22:02:50.685959+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iraqi-parliament-elects-new-president?traffic_source=rss"
-  },
-  {
-    "id": "ffc9760efcb5",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T20:40",
-    "headline": "Has Israeli society become conditioned to permanent war?",
-    "excerpt": "Opinion polls indicate opposition to ending war against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-11T22:02:50.685992+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/4/11/has-israeli-society-become-conditioned-to-permament-war?traffic_source=rss"
   }
 ]
