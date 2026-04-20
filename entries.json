@@ -1,5 +1,49 @@
 [
   {
+    "id": "8b27a55c4c4e",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T16:48",
+    "headline": "At least 21 killed as bus crashes into Kashmir gorge",
+    "excerpt": "The overcrowded bus skidded as it navigated a sharp curve in the mountainous region.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-20T17:43:52.122081+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/at-least-21-killed-as-bus-skids-off-kashmir-road-into-gorge?traffic_source=rss"
+  },
+  {
+    "id": "b00be7c4460d",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T16:28",
+    "headline": "Iran expands limited internet access but restrictions remain for most",
+    "excerpt": "More Iranians being sold &#039;privilege&#039; of limited internet access, but most remain in the dark.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-20T17:43:52.122131+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/iran-expands-limited-internet-access-but-restrictions-remain-for-most?traffic_source=rss"
+  },
+  {
+    "id": "f046682b16e8",
+    "source": "PressTV",
+    "date": "2026-04-20T17:43",
+    "headline": "US seeks Iran’s surrender; Iranians don’t submit to force: Pezeshkian",
+    "excerpt": "President Masoud Pezeshkian says Iranians will never submit to force despite “bitter messages” from American officials.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-20T17:43:53.761535+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767238/US-seeks-Iran-s-surrender-Iranians-don-t-submit-to-force-Pezeshkian%C2%A0"
+  },
+  {
+    "id": "6995a30714ab",
+    "source": "PressTV",
+    "date": "2026-04-20T17:43",
+    "headline": "Iran doesn’t trust US in talks, will respond decisively to any threats: IRGC",
+    "excerpt": "The Aerospace Force of the Islamic Revolution Guards Corps (IRGC) says Iran does not trust negotiations with the United States but puts faith in national power.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-20T17:43:53.761582+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767239/Iran-doesn-t-trust-US-in-talks-will-respond-decisively-to-any-threats-IRGC%C2%A0"
+  },
+  {
     "id": "42c46892ce99",
     "source": "Al Jazeera",
     "date": "2026-04-20T15:58",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-12T11:10:04.160956+00:00",
     "link": "https://presstv.ir/Detail/2026/04/12/766688/US-Israeli-strikes-killed-258-women-221-minors-Iran-Official"
-  },
-  {
-    "id": "af9c90a4ca00",
-    "source": "PressTV",
-    "date": "2026-04-12T11:10",
-    "headline": "Israeli forces attack Christian worshipers during Holy Saturday in occupied al-Quds",
-    "excerpt": "Israeli forces attack Christian worshipers in occupied al-Quds during Holy Saturday, one of the most important Christian holidays marking the final day before Easter.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-04-12T11:10:04.160987+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766696/Israeli-forces-attack-Christian-worshipers-during-Holy-Saturday-in-occupied-al-Quds"
-  },
-  {
-    "id": "c518e5793d78",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T08:09",
-    "headline": "What happened in 40 days of war on Iran",
-    "excerpt": "Who got hit in the war on Iran? The attacks, the damage and the people caught in between.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-12T09:07:32.140662+00:00",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "318c33307a60",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T08:07",
-    "headline": "Iran war: What is happening on day 44 of the US-Iran conflict?",
-    "excerpt": "US-Iran talks in Islamabad end without a deal, with each side blaming the other for the failure.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T09:07:32.140704+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss"
-  },
-  {
-    "id": "4ae29b777dc8",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T05:19",
-    "headline": "US and Iran fail to reach deal after marathon talks in Pakistan",
-    "excerpt": "US VP JD Vance says Iran chose not to accept US terms, while Iran says it did not expect a deal at the first meeting.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T09:07:32.140736+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss"
   }
 ]
