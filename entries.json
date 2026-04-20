@@ -1,5 +1,38 @@
 [
   {
+    "id": "09432040384e",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T20:13",
+    "headline": "Funerals held across Lebanon during 10-day ceasefire",
+    "excerpt": "Mourners across Lebanon are burying victims of the war with Israel during a 10-day ceasefire.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-20T20:55:41.195705+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/funerals-held-across-lebanon-during-10-day-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "e111079c7ab0",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T19:45",
+    "headline": "Gunman kills Canadian woman, injures six at Mexico’s Teotihuacan pyramids",
+    "excerpt": "Canadian tourist is killed and 6 people injured in shooting at Teotihuacan pyramid near Mexico City, government says.",
+    "category": "Casualties",
+    "location": "Oman",
+    "addedAt": "2026-04-20T20:55:41.195752+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/gunman-kills-canadian-woman-injures-more-at-mexicos-teotihuacan-pyramids?traffic_source=rss"
+  },
+  {
+    "id": "d21dd98af6c1",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T19:26",
+    "headline": "Louisiana mass shooting: What we know about suspect, eight children killed",
+    "excerpt": "The Shreveport attack is the deadliest mass shooting reported in the US in over two years.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-20T20:55:41.195782+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/louisiana-mass-shooting-what-we-know-about-suspect-eight-children-killed?traffic_source=rss"
+  },
+  {
     "id": "201e9389dbd3",
     "source": "Al Jazeera",
     "date": "2026-04-20T19:05",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-12T14:04:56.085060+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points?traffic_source=rss"
-  },
-  {
-    "id": "7f6062809139",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T12:02",
-    "headline": "Who is running US foreign policy? Varsha Gandikota and Jeremy Scahill",
-    "excerpt": "Varsha Gandikota-Nellutla asks journalist Jeremy Scahill who will benefit from the US-Israel war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-12T14:04:56.085093+00:00",
-    "link": "https://www.aljazeera.com/video/reframe/2026/4/12/who-is-running-us-foreign-policy-varsha-gandikota-and-jeremy-scahill?traffic_source=rss"
-  },
-  {
-    "id": "113cc009340e",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T11:40",
-    "headline": "Israeli army raids across the occupied West Bank overnight",
-    "excerpt": "Israeli army raids across the occupied West Bank overnight",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-12T14:04:56.085122+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israeli-army-raids-across-the-occupied-west-bank-overnight?traffic_source=rss"
-  },
-  {
-    "id": "72c6c241ef7c",
-    "source": "PressTV",
-    "date": "2026-04-12T14:04",
-    "headline": "Press TV Exclusive: US destroyers' Strait of Hormuz transit stunt failed, came close to destruction",
-    "excerpt": "An attempt by US destroyers to transit the Strait of Hormuz amid talks in Islamabad failed as a propaganda operation, with both coming minutes from destruction, Press TV investigation has found.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-12T14:04:58.424200+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766678/us-destroyers-strait-hormuz-transit-failed-stunt-minutes-from-destruction-presstv-investigation"
   }
 ]
