@@ -1,5 +1,60 @@
 [
   {
+    "id": "42c46892ce99",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T15:58",
+    "headline": "Palestinians not welcome as Israel marks Memorial Day",
+    "excerpt": "As Israel remembers its war dead, critics say it reinforces one-sided narrative of sacrifice that excludes Palestinians.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-20T16:41:54.161792+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/palestinians-not-welcome-as-israel-marks-memorial-day?traffic_source=rss"
+  },
+  {
+    "id": "ae13cd270380",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T15:53",
+    "headline": "Lebanon Latest: Israel establishes ‘yellow line’ in south",
+    "excerpt": "Al Jazeera’s Zeina Khod brings you the latest on the fragile ceasefire between Israel and Hezbollah.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-20T16:41:54.161844+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/lebanon-latest-israel-establishes-yellow-line-in-south?traffic_source=rss"
+  },
+  {
+    "id": "eaba6919e25c",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T15:44",
+    "headline": "Iranian FM spokesman says ceasefire ‘violated’ by US in shipment seizure",
+    "excerpt": "Iran is accusing the US of ‘ceasefire violations’, with Ministry of Foreign Affairs spokesman Esmail Baghaei.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-20T16:41:54.161881+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/iranian-fm-spokesman-says-ceasefire-violated-by-us-in-shipment-seizure?traffic_source=rss"
+  },
+  {
+    "id": "c0c3d09dc5ee",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T15:23",
+    "headline": "‘Israel never talked me into the war with Iran,’ Trump says",
+    "excerpt": "US president suggests attacking Iran was his own decision as war struggles to garner public support amid energy crisis.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-20T16:41:54.161920+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/israel-never-talked-me-into-the-war-with-iran-trump-says?traffic_source=rss"
+  },
+  {
+    "id": "a59fee2a3b49",
+    "source": "PressTV",
+    "date": "2026-04-20T16:41",
+    "headline": "US has no option but to drop excessive demands, respect Iran’s rights: Deputy FM",
+    "excerpt": "An Iranian deputy foreign minister says the United States has no choice but to abandon its excessive demands and fully respect Iran’s rights.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-20T16:41:55.583795+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767237/US-has-no-option-but-to-drop-excessive-demands-respect-Iran-s-rights-Deputy-FM"
+  },
+  {
     "id": "22de370a3e87",
     "source": "Al Jazeera",
     "date": "2026-04-20T13:51",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-12T09:07:32.140736+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss"
-  },
-  {
-    "id": "e02c776b06cd",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T00:00",
-    "headline": "Iran war live: Vance says no deal reached after US made ‘best, final offer’",
-    "excerpt": "Iranian media say the US was looking for an excuse to leave the peace talks and that the &#039;ball is in America&#039;s court&#039;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T09:07:32.140792+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss"
-  },
-  {
-    "id": "52bc3be4eff9",
-    "source": "PressTV",
-    "date": "2026-04-12T09:07",
-    "headline": "Iran denies US claim of vessels transit in Strait of Hormuz",
-    "excerpt": "The spokesperson for the Khatam al-Anbiya Central Headquarters dismisses US claim about the transit of military vessels in the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-12T09:07:33.732073+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766682/Iran-denies-claim-US-vessels-transit-Strait-Hormuz"
-  },
-  {
-    "id": "7be520378f12",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T05:25",
-    "headline": "Pakistan urges US and Iran to uphold ceasefire after talks end",
-    "excerpt": "Pakistani Foreign Minister Ishaq Dar has insisted the US and Iran must uphold their ceasefire agreement.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T06:12:31.890336+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss"
-  },
-  {
-    "id": "39855cb27bc9",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T05:19",
-    "headline": "US and Iran fail to reach peace deal after marathon talks in Pakistan",
-    "excerpt": "Vice President JD Vance says Iran chose not to accept US terms, while Iran says it did not expect a deal at the first meeting.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T06:12:31.890388+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss"
-  },
-  {
-    "id": "4c34e881725a",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T05:00",
-    "headline": "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire",
-    "excerpt": "Three supertankers laden with oil exit waterway amid global energy crunch, shipping data shows.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-12T06:12:31.890416+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire?traffic_source=rss"
   }
 ]
