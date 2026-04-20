@@ -1,5 +1,93 @@
 [
   {
+    "id": "6515f8a7c231",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T18:13",
+    "headline": "Ukrainian drone attack hits Russia’s Tuapse port",
+    "excerpt": "Plumes of black smoke were seen after Ukrainian drones targeted Russia’s Black Sea port of Tuapse.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-04-20T18:44:27.730211+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/ukrainian-drone-attack-hits-russias-tuapse-port?traffic_source=rss"
+  },
+  {
+    "id": "d9831846200a",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T18:00",
+    "headline": "UAE reports dismantling of Iran-linked ‘terror’ cell",
+    "excerpt": "Arrests come after United Arab Emirates bore the brunt of Iranian attacks on Gulf neighbours.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-20T18:44:27.730261+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/uae-reports-dismantling-of-iran-linked-terror-cell?traffic_source=rss"
+  },
+  {
+    "id": "dec2b408c5d0",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T17:46",
+    "headline": "Woman charged in US with trafficking arms to Sudan for Iranian government",
+    "excerpt": "US accuses Iranian citizen of brokering arms deals, including for drones and ammunition, with Sudan Ministry of Defence.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-20T18:44:27.730288+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/woman-charged-in-us-with-trafficking-arms-to-sudan-for-iranian-government?traffic_source=rss"
+  },
+  {
+    "id": "7f60554591f2",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T17:35",
+    "headline": "‘Nothing left’: Hong Kong fire survivors return to burnt homes",
+    "excerpt": "Hong Kong fire survivors return to Wang Fuk Court five months after a blaze killed 168 people.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-20T18:44:27.730322+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/nothing-left-hong-kong-fire-survivors-return-to-burnt-homes?traffic_source=rss"
+  },
+  {
+    "id": "6963581b0fbf",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T17:33",
+    "headline": "These are difficult times for the world, so what will Pakistan do?",
+    "excerpt": "The talks between the United States and Iran mediated by Pakistan have not failed. They do face significant challenges.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-20T18:44:27.730350+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/4/20/these-are-difficult-times-for-the-world-so-what-will-pakistan-do?traffic_source=rss"
+  },
+  {
+    "id": "b69ebcaee273",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T17:15",
+    "headline": "Lebanon, Israel to meet again Thursday for direct talks, US says",
+    "excerpt": "US confirms second round of negotiations between the two countries as the Israeli military annihilates Lebanese towns.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-20T18:44:27.730383+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/lebanon-israel-to-meet-again-thursday-for-direct-talks-us-says?traffic_source=rss"
+  },
+  {
+    "id": "3c8b7a48c487",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T17:11",
+    "headline": "‘Everyone must calm down’, Macron urges as US-Iran talks near",
+    "excerpt": "French President Emmanuel Macron said that “everyone must calm down” and maintain the US-Israel-Iran-Lebanon ceasefire.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-20T18:44:27.730417+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/everyone-must-calm-down-macron-urges-as-us-iran-talks-near?traffic_source=rss"
+  },
+  {
+    "id": "9f722cb2d445",
+    "source": "PressTV",
+    "date": "2026-04-20T18:44",
+    "headline": "No ceasefire without Israel withdrawing from south Lebanon: MP",
+    "excerpt": "A senior Lebanese lawmaker says any extension of the ongoing ten-day ceasefire between Lebanon and Israel depends on the withdrawal of Israeli occupation forces from southern Lebanon.  ‎",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-04-20T18:44:29.270455+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767240/No-ceasefire-without-Israel-withdrawing-from-south-Lebanon-MP%C2%A0"
+  },
+  {
     "id": "8b27a55c4c4e",
     "source": "Al Jazeera",
     "date": "2026-04-20T16:48",
@@ -5410,93 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-12T14:04:58.424276+00:00",
     "link": "https://presstv.ir/Detail/2026/04/12/766706/Iran-will-stand-firm-on-defending-rights-from-Hormuz-to-compensationz-VP"
-  },
-  {
-    "id": "4e67b6ce6da7",
-    "source": "PressTV",
-    "date": "2026-04-12T14:04",
-    "headline": "Pezeshkian, Putin discuss ways to restore regional peace after US talks fail",
-    "excerpt": "Iran’s Pezeshkian and Russia’s Putin discuss ideas for boosting stability and security in the region.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T14:04:58.424307+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766711/Iran-Russia-Pezeshkian-Putin-phone-call"
-  },
-  {
-    "id": "0788e7236a0c",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T10:14",
-    "headline": "Union Berlin’s Marie-Louise Eta becomes first woman manager of men’s team",
-    "excerpt": "Berlin&#039;s Eta becomes first female head coach of a top-tier European club after her appointment by the Bundesliga side.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-04-12T11:10:02.738214+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/12/union-berlins-marie-louise-eta-becomes-first-woman-manager-of-mens-team?traffic_source=rss"
-  },
-  {
-    "id": "9628ece961cf",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T09:47",
-    "headline": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
-    "excerpt": "The Ministry of Energy says the East-West pipeline is back to pumping about 7 million barrels per day.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-04-12T11:10:02.738259+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/12/saudi-arabia-says-key-oil-pipeline-back-to-full-capacity-after-attacks?traffic_source=rss"
-  },
-  {
-    "id": "e4a3ad7e56d7",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T09:36",
-    "headline": "More than 500 people arrested at London rally for Palestine Action",
-    "excerpt": "Protest organisers accuse UK government of complicity in Gaza genocide as arrests made at Trafalgar Square rally.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-12T11:10:02.738294+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss"
-  },
-  {
-    "id": "458bc00166cb",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T05:19",
-    "headline": "US and Iran fail to reach a deal after marathon talks in Pakistan",
-    "excerpt": "US VP JD Vance says Iran chose not to accept US terms, while Iran says it did not expect a deal at the first meeting.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T11:10:02.738330+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss"
-  },
-  {
-    "id": "d5e99d24f47e",
-    "source": "PressTV",
-    "date": "2026-04-12T11:10",
-    "headline": "US failed to win Iran’s trust during Islamabad talks: Parliament speaker",
-    "excerpt": "Iranian Parliament Speaker Mohammad-Baqer Qalibaf says Washington failed to win Tehran’s trust during negotiations in Pakistan seeking a conclusive end to the US-Israeli aggression against the Islamic Republic.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-12T11:10:04.160887+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766694/US-failed-to-win-Iran-s-trust-during-Pakistan-talks-Parliament-speaker"
-  },
-  {
-    "id": "0f9491d9a118",
-    "source": "PressTV",
-    "date": "2026-04-12T11:10",
-    "headline": "Judiciary chief hails negotiators as ‘guardians’ of Iran’s war rights",
-    "excerpt": "Mohseni-Ejei praises the continuous and intensive efforts of the Iranian delegation in Islamabad to secure an agreement with the United States.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T11:10:04.160932+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766701/Judiciary-chief-hails-negotiators-guardians-Iran-war-rights"
-  },
-  {
-    "id": "77cc6842d1fb",
-    "source": "PressTV",
-    "date": "2026-04-12T11:10",
-    "headline": "US-Israeli aggression killed 258 women, 221 minors in Iran: Health official",
-    "excerpt": "The head of Iran’s Emergency Organization says at least 258 women and 221 individuals under the age of 18 have been martyred in the US-Israeli assaults.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-12T11:10:04.160956+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766688/US-Israeli-strikes-killed-258-women-221-minors-Iran-Official"
   }
 ]
