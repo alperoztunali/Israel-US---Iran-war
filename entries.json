@@ -1,5 +1,38 @@
 [
   {
+    "id": "e4688ffa17b6",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T02:41",
+    "headline": "Oil prices surge amid mixed signals on US-Iran peace talks",
+    "excerpt": "Brent crude rises more than 7 percent as Washington and Tehran offer conflicting accounts on ceasefire negotiations.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-20T03:31:40.395737+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks?traffic_source=rss"
+  },
+  {
+    "id": "5be0c65c96c6",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T00:00",
+    "headline": "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response",
+    "excerpt": "Attack comes hours after US President Donald Trump announced he is sending his team to Islamabad for possible talks.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-04-20T03:31:40.395786+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss"
+  },
+  {
+    "id": "51a18563a46e",
+    "source": "Al Jazeera",
+    "date": "2026-04-19T23:41",
+    "headline": "Outrage after photo shows Israeli soldier smashing Jesus statue in Lebanon",
+    "excerpt": "Social media users condemn Western silence on attacks on religious symbols and sites by Israeli soldiers and settlers.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-20T03:31:40.395825+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/19/outrage-after-photo-shows-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss"
+  },
+  {
     "id": "986a709c5b51",
     "source": "PressTV",
     "date": "2026-04-19T23:54",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-11T17:51:17.543379+00:00",
     "link": "https://presstv.ir/Detail/2026/04/11/766666/Iran-condemns-assassination-threats-against-Iranian-negotiators-amid-US-talks"
-  },
-  {
-    "id": "1b21b094ccb2",
-    "source": "PressTV",
-    "date": "2026-04-11T17:51",
-    "headline": "Pezeshkian: Iranian negotiators defending national interests in Islamabad talks",
-    "excerpt": "The Iranian president says the country’s senior negotiators are bravely engaged in the talks with the US in Islamabad to defend national interests.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T17:51:17.543435+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766664/Pezeshkian-Iranian-negotiators-defending-national-interests-in-Pakistan"
-  },
-  {
-    "id": "07e2eb73d5ec",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T15:04",
-    "headline": "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction",
-    "excerpt": "Orthodox Christians celebrated Easter’s Holy Fire ceremony at Jerusalem’s Holy Sepulchre.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-11T15:50:24.407247+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/christians-return-to-jerusalems-holy-sepulchre-as-israel-eases-restriction?traffic_source=rss"
-  },
-  {
-    "id": "13e8e0516cf5",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T15:01",
-    "headline": "Police begin arrests at UK protest against Palestine Action ban",
-    "excerpt": "Hundreds of people gather in Trafalgar Square for demonstration, as elderly woman with cane is escorted away by police.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-04-11T15:50:24.407301+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/11/police-begin-arrests-at-uk-protest-against-palestine-action-ban?traffic_source=rss"
   }
 ]
