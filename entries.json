@@ -1,5 +1,27 @@
 [
   {
+    "id": "201e9389dbd3",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T19:05",
+    "headline": "Report finds Gaza needs more than $71bn in next decade for recovery",
+    "excerpt": "Devastated sectors in Palestinian enclave include housing, health, education, commerce and agriculture, EU and UN find.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-20T19:48:54.758708+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/report-finds-gaza-needs-more-than-71bn-in-next-decade-for-recovery?traffic_source=rss"
+  },
+  {
+    "id": "740d3cedcf5b",
+    "source": "PressTV",
+    "date": "2026-04-20T19:48",
+    "headline": "Russia calls US naval blockade of Iran unlawful, urges continued talks",
+    "excerpt": "Russia’s Lavrov criticizes US naval blockade of Iran and its seizure of an Iranian container ship.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-20T19:48:56.523888+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767244/Russia-Iran-US-naval-blockade-Lavrov-Araghchi"
+  },
+  {
     "id": "6515f8a7c231",
     "source": "Al Jazeera",
     "date": "2026-04-20T18:13",
@@ -5476,27 +5498,5 @@
     "location": "Strait Of Hormuz",
     "addedAt": "2026-04-12T14:04:58.424200+00:00",
     "link": "https://presstv.ir/Detail/2026/04/12/766678/us-destroyers-strait-hormuz-transit-failed-stunt-minutes-from-destruction-presstv-investigation"
-  },
-  {
-    "id": "37abf28cc0be",
-    "source": "PressTV",
-    "date": "2026-04-12T14:04",
-    "headline": "Strait of Hormuz firmly in Iran’s ‘capable hands’: Leader’s advisor",
-    "excerpt": "Velayati says the key to the Strait of Hormuz remains in Iran’s “capable hands.”",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-12T14:04:58.424240+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766703/Key-Strait-Hormuz-remains-Iran-capable-hands-Leader-advisor"
-  },
-  {
-    "id": "559885b8fa58",
-    "source": "PressTV",
-    "date": "2026-04-12T14:04",
-    "headline": "Iran will stand firm on defending rights from Hormuz to compensation: VP",
-    "excerpt": "The Iranian first vice president says Tehran will stand firm on defending national rights from the Strait of Hormuz to pursuing compensation.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-12T14:04:58.424276+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766706/Iran-will-stand-firm-on-defending-rights-from-Hormuz-to-compensationz-VP"
   }
 ]
