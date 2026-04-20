@@ -1,5 +1,104 @@
 [
   {
+    "id": "4c1333412d0e",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T09:55",
+    "headline": "British universities paid security firm to ‘spy’ on pro-Palestine students",
+    "excerpt": "Investigation reveals how Horus, a company led by ex-military intelligence officials, was hired during protest movement.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-20T10:19:42.664240+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/uk-universities-pay-to-spy-on-students-social-media-accounts?traffic_source=rss"
+  },
+  {
+    "id": "06183ef908e1",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T09:26",
+    "headline": "Magnitude 7.5 earthquake strikes northern Japan; tsunami warning issued",
+    "excerpt": "Prime Minister Sanae Takaichi says the government has set up a crisis management team following the strong earthquake.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-20T10:19:42.664293+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/powerful-7-4-earthquake-strikes-northern-japan-tsunami-warning-issued?traffic_source=rss"
+  },
+  {
+    "id": "a6c6f9e1633e",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T09:23",
+    "headline": "Ukraine claims attack on Russian warships in occupied Crimea",
+    "excerpt": "Ukraine&#039;s military intelligence says two large landing ships struck in Sevastopol Bay in Russian-occupied Crimea.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-04-20T10:19:42.664328+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/kyiv-claims-to-hit-russian-landing-ships-as-both-sides-trade-deadly-attacks?traffic_source=rss"
+  },
+  {
+    "id": "b2a3f7cf4016",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T08:50",
+    "headline": "Palestinian children protest against siege on their school",
+    "excerpt": "Palestinian children protested against Israeli settlers and troops blocking the only safe route to their school.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-04-20T10:19:42.664357+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/palestinian-children-protest-against-siege-on-their-school?traffic_source=rss"
+  },
+  {
+    "id": "f3357c1e388f",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T07:21",
+    "headline": "Iran war: What is happening on day 52 of US-Israeli attacks?",
+    "excerpt": "Islamabad talks in limbo as Iran says it will retaliate after US marines capture an Iranian ship near Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-20T10:19:42.664389+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/iran-war-what-is-happening-on-day-52-of-the-us-israeli-conflict?traffic_source=rss"
+  },
+  {
+    "id": "e066a615cd32",
+    "source": "PressTV",
+    "date": "2026-04-20T10:19",
+    "headline": "Iran: US not serious about talks, will receive decisive response if repeats past mistakes",
+    "excerpt": "Iran says the US is not serious about talks, asserting that Washington will face the Islamic Republic's decisive retaliation if it repeats its past mistakes concerning the country.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-20T10:19:49.099092+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767212/US-not-serious-about-talks--will-receive-decisive-response-if-repeats-past-mistakes--Foreign-Ministry"
+  },
+  {
+    "id": "c84d415cfbf0",
+    "source": "PressTV",
+    "date": "2026-04-20T10:19",
+    "headline": "Pezeshkian urges unity among Muslim nations to foil foreign plots",
+    "excerpt": "Iran’s President Masoud Pezeshkian says strengthening unity among Islamic countries is the most important way to counter conspiracies and prevent foreign powers from taking advantage.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-20T10:19:49.099137+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767209/Pezeshkian-Unity-in-Islamic-world-key-to-countering-conspiracies"
+  },
+  {
+    "id": "e392fa9ac0de",
+    "source": "PressTV",
+    "date": "2026-04-20T10:19",
+    "headline": "Two spies convicted of working for Israel's Mossad executed in Iran",
+    "excerpt": "Two individuals convicted of espionage for the Israeli Mossad spy agency were executed in Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-20T10:19:49.099172+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767216/Two-spies-convicted-of-working-for-Israel-s-Mossad-executed-in-Iran"
+  },
+  {
+    "id": "ac8d25f36616",
+    "source": "PressTV",
+    "date": "2026-04-20T10:19",
+    "headline": "Over 3,300 Iranians martyred in US-Israeli aggression: Official",
+    "excerpt": "The head of the Iranian Legal Medicine Organization says at least 3,375 people, including hundreds of children, were martyred during the 40-day war by the US and Israel.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-20T10:19:49.099195+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767210/Forensic-authority--At-least-3,375-Iranians-martyred-in-US-Israeli-war"
+  },
+  {
     "id": "01655cd3bd4f",
     "source": "Al Jazeera",
     "date": "2026-04-20T08:15",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-11T22:02:50.685992+00:00",
     "link": "https://www.aljazeera.com/video/inside-story/2026/4/11/has-israeli-society-become-conditioned-to-permament-war?traffic_source=rss"
-  },
-  {
-    "id": "55a7de043538",
-    "source": "PressTV",
-    "date": "2026-04-11T22:02",
-    "headline": "IRGC Navy warns military vessels of 'firm response' to attempts at crossing Strait of Hormuz",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC)'s Navy has warned military vessels of a \"firm response\" to their potential attempts at passing through the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-11T22:02:52.392005+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766674/Iran-warning-military-vessels-Strait-of-Hormuz-IRGC"
-  },
-  {
-    "id": "d912c3249abb",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T20:25",
-    "headline": "Israeli strikes kill at least 18 people across southern Lebanon",
-    "excerpt": "Lebanon&#039;s Health Ministry says more than 2,000 people have been killed in Israeli attacks since March 2.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-11T21:04:52.317471+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "27e43de18618",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T20:08",
-    "headline": "Families gather to mourn victims of deadly shooting in Afghanistan",
-    "excerpt": "Dozens of mourners in Afghanistan gathered to pray for victims of a shooting in Herat that killed at least 11 people.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-11T21:04:52.317543+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/families-gather-to-mourn-victims-of-deadly-shooting-in-afghanistan?traffic_source=rss"
-  },
-  {
-    "id": "bd5269487c1a",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T19:46",
-    "headline": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
-    "excerpt": "Iran’s Gharibabadi says Tehran has entered negotiations from a position of strength and the war on Iran has failed.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-11T21:04:52.317611+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us?traffic_source=rss"
-  },
-  {
-    "id": "33fe17fd5c72",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T19:38",
-    "headline": "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
-    "excerpt": "Negotiations are ongoing between US-Iranian delegations in Islamabad, with control of the strait a key sticking point.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-11T21:04:52.317670+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing?traffic_source=rss"
-  },
-  {
-    "id": "8e409d94684f",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T19:35",
-    "headline": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
-    "excerpt": "Deployment under mutual defence pact comes as Islamabad hosts US-Iran ceasefire talks.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-11T21:04:52.317710+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "96dea3361d20",
-    "source": "PressTV",
-    "date": "2026-04-11T21:04",
-    "headline": "Third round of US-Iran talks underway in Islamabad after exchange of written texts",
-    "excerpt": "The third and decisive round of Pakistan-mediated ceasefire talks between the United States and Iran is currently underway in Islamabad.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T21:04:53.950095+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766670/First-phase-of-US-Iran-talks-concludes-in-Islamabad-with-exchange-of-written-texts"
-  },
-  {
-    "id": "d06c04006bb0",
-    "source": "PressTV",
-    "date": "2026-04-11T21:04",
-    "headline": "Iran condemns assassination threats against Iranian negotiators in US media",
-    "excerpt": "Iranian Foreign Ministry spokesman Esmaeil Baghaei has called for public condemnation of the assassination threats against Iranian negotiators in US media outlets.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-11T21:04:53.950149+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766666/Iran-condemns-assassination-threats-against-Iranian-negotiators-amid-US-talks"
-  },
-  {
-    "id": "2bdeca31ad53",
-    "source": "PressTV",
-    "date": "2026-04-11T21:04",
-    "headline": "Iran entered talks with seriousness, outcome depends on US approach: Pezeshkian",
-    "excerpt": "President Masoud Pezeshkian says Iran has entered the talks with the United States in Islamabad with \"determination and seriousness,\" stressing that the success of the process depends on Washington's approach.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T21:04:53.950198+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766673/Iran-talks-United-States-Pezeshkian-Macron-Islamabad"
   }
 ]
