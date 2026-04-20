@@ -1,5 +1,60 @@
 [
   {
+    "id": "9bca059a9a50",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T05:41",
+    "headline": "To stay or to go? No good options for Lebanon’s displaced",
+    "excerpt": "Residents of southern Lebanon face a stark choice: stay home and risk being killed, or flee and risk deepening poverty.",
+    "category": "Casualties",
+    "location": "Lebanon",
+    "addedAt": "2026-04-20T06:04:19.003550+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/20/to-stay-or-to-go-no-good-options-for-lebanon-displaced?traffic_source=rss"
+  },
+  {
+    "id": "94f9ace2c6f1",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T03:47",
+    "headline": "Outrage after Israeli soldier desecrates statue of Jesus Christ in Lebanon",
+    "excerpt": "A photo of an Israeli soldier smashing a statue of Jesus Christ in southern Lebanon has sparked widespread outrage.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-20T06:04:19.003635+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/outrage-after-israeli-soldier-desecrates-statue-of-jesus-christ-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "3fa4ba21254a",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T00:00",
+    "headline": "Iran war live: Tehran may skip talks as tensions rise over US ship seizure",
+    "excerpt": "Attack comes hours after US President Donald Trump announced he is sending his team to Islamabad for possible talks.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-04-20T06:04:19.003680+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss"
+  },
+  {
+    "id": "ef990ebf1210",
+    "source": "PressTV",
+    "date": "2026-04-20T06:04",
+    "headline": "US shows bad faith, lack of seriousness in diplomacy: Iran’s FM",
+    "excerpt": "The Iranian foreign minister says the US pursues malicious goals and lacks the necessary seriousness in dealing with Tehran.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-20T06:04:20.494998+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767198/Iran-FM-says-US-lacks-seriousness-in-diplomacy,-pledges-country-s-determination-to-defend-national-security-"
+  },
+  {
+    "id": "1302caaec061",
+    "source": "PressTV",
+    "date": "2026-04-20T06:04",
+    "headline": "Providing security in Strait of Hormuz not free: Iran's VP",
+    "excerpt": "Iran's Vice President says providing security in the Strait of Hormuz is not free.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-20T06:04:20.495035+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/20/767197/VP-Providing-security-in-Strait-of-Hormuz-not-free"
+  },
+  {
     "id": "e4688ffa17b6",
     "source": "Al Jazeera",
     "date": "2026-04-20T02:41",
@@ -5443,60 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-11T17:51:15.622860+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim?traffic_source=rss"
-  },
-  {
-    "id": "ad09f027ba01",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T17:24",
-    "headline": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
-    "excerpt": "New president pledges &#039;Iraq First&#039; after securing 227 votes, ending five months of political deadlock.",
-    "category": "Casualties",
-    "location": "Iraq",
-    "addedAt": "2026-04-11T17:51:15.622885+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss"
-  },
-  {
-    "id": "d4933a08f686",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T17:15",
-    "headline": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
-    "excerpt": "US and Iran hold first direct talks since 1979 in Islamabad, with progress hinging on the Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T17:51:15.622912+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad?traffic_source=rss"
-  },
-  {
-    "id": "3dea2f196007",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T15:51",
-    "headline": "Machete-wielding man killed by police in New York’s Grand Central station",
-    "excerpt": "Three elderly victims were wounded at the transit hub attack as authorities continue to investigate, police said.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-11T17:51:15.622944+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss"
-  },
-  {
-    "id": "908c93fd78aa",
-    "source": "Al Jazeera",
-    "date": "2026-04-11T15:01",
-    "headline": "Hundreds arrested at UK protest against Palestine Action ban",
-    "excerpt": "Hundreds of people gather in Trafalgar Square for demonstration, as elderly woman with cane is escorted away by police.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-04-11T17:51:15.622987+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/11/police-begin-arrests-at-uk-protest-against-palestine-action-ban?traffic_source=rss"
-  },
-  {
-    "id": "7e776c82fbb8",
-    "source": "PressTV",
-    "date": "2026-04-11T17:51",
-    "headline": "Iran condemns assassination threats against Iranian negotiators amid US talks",
-    "excerpt": "Iranian Foreign Ministry spokesman Esmaeil Baghaei has called for public condemnation of the assassination threats leveled against Iranian negotiators amid ongoing talks with the United States that are aimed at permanently ending the US-Israeli aggression against the country.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-11T17:51:17.543379+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/11/766666/Iran-condemns-assassination-threats-against-Iranian-negotiators-amid-US-talks"
   }
 ]
