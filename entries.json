@@ -1,5 +1,38 @@
 [
   {
+    "id": "3fcf3cfe5658",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T21:30",
+    "headline": "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
+    "excerpt": "Ouster of EU &#039;spoiler-in-chief&#039; Viktor Orban unlocks key foreign policy decisions in the 27-member bloc.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-20T21:53:59.169837+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss"
+  },
+  {
+    "id": "14f55b90ef7b",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T21:15",
+    "headline": "How is the war on Iran affecting the Russia-Ukraine conflict?",
+    "excerpt": "The global energy crisis has implications for both sides.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-20T21:53:59.169883+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/4/20/how-is-the-iran-war-affecting-the-russia-ukraine-conflict?traffic_source=rss"
+  },
+  {
+    "id": "a69f949b81d6",
+    "source": "Al Jazeera",
+    "date": "2026-04-20T20:48",
+    "headline": "What to know about the next round of US-Iran talks in Pakistan",
+    "excerpt": "The US and Iran are supposed to have another round of direct talks in Pakistan on Tuesday, but will the Iranians skip?",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-20T21:53:59.169916+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/what-to-know-about-the-next-round-of-us-iran-talks-in-pakistan?traffic_source=rss"
+  },
+  {
     "id": "09432040384e",
     "source": "Al Jazeera",
     "date": "2026-04-20T20:13",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-12T15:58:45.613373+00:00",
     "link": "https://presstv.ir/Detail/2026/04/12/766718/Iran-turned-enemy-s-regime-change-dream-into-change-of-governing-regime-in-Hormuz"
-  },
-  {
-    "id": "6f7d2d9e9605",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T13:42",
-    "headline": "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
-    "excerpt": "Israel’s far-right security minister storms mosque compound with protection, drawing condemnation from Palestinians.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-12T14:04:56.084988+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/12/palestinians-condemn-storming-of-al-aqsa-mosque-by-israels-ben-gvir?traffic_source=rss"
-  },
-  {
-    "id": "350f841d5c62",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T13:10",
-    "headline": "Lessons from the Iran war",
-    "excerpt": "The past month and a half have shown that the nature of modern warfare is shifting.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-12T14:04:56.085029+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/12/lessons-from-the-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "2cb0d00f128b",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T12:47",
-    "headline": "US-Iran ceasefire talks: What are the key sticking points?",
-    "excerpt": "Talks between Iran and the US expose deep divisions, prolonging uncertainty during a two-week ceasefire.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T14:04:56.085060+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points?traffic_source=rss"
   }
 ]
