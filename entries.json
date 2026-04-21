@@ -1,5 +1,38 @@
 [
   {
+    "id": "ce6e55f9d298",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T17:29",
+    "headline": "What’s the bill to rebuild Gaza, and who will pay?",
+    "excerpt": "UN-EU report says $71bn needed over 10 years.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-21T17:45:48.817594+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/4/21/whats-the-bill-to-rebuild-gaza-and-who-will-pay?traffic_source=rss"
+  },
+  {
+    "id": "0ef01f8faacb",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T16:38",
+    "headline": "Israeli sexual violence helping push Palestinians from West Bank: Report",
+    "excerpt": "NGO finds at least 16 cases of conflict-related sexual violence attributed to Israeli settlers and soldiers.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-21T17:45:48.817642+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss"
+  },
+  {
+    "id": "07f00e5b62d1",
+    "source": "PressTV",
+    "date": "2026-04-21T17:45",
+    "headline": "Yemen will ‘return to war’ if US, Israel resume aggression against Iran: Houthi",
+    "excerpt": "Ansarullah leader Abdul-Malik al-Houthi says the Yemeni armed forces will return to fighting if a fragile ceasefire that halted 40 days of American-Israeli aggression against Iran expires without an agreement to permanently end the war.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-04-21T17:45:50.364633+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/21/767297/Ansarullah-return-to-war-if-US-Israel-resume-aggression-against-Iran-Houthi"
+  },
+  {
     "id": "ff4694af0022",
     "source": "Al Jazeera",
     "date": "2026-04-21T15:35",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-13T11:55:27.702381+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/13/how-a-uk-military-college-sought-to-distance-itself-from-ban-on-israelis?traffic_source=rss"
-  },
-  {
-    "id": "aea84aa51982",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T09:52",
-    "headline": "US blockade of Iran would worsen global energy crisis, analysts say",
-    "excerpt": "While US military says it will blockade Iranian ports only, move would have ripples worldwide, according to analysts.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-13T11:55:27.702412+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/13/us-blockade-of-iran-would-worsen-global-energy-crisis-analysts-say?traffic_source=rss"
-  },
-  {
-    "id": "08db2e8bdcb4",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T08:54",
-    "headline": "What Iran is saying about US plan to blockade ports",
-    "excerpt": "Iran’s military has called US blockade plans in the Strait of Hormuz an “act of piracy”.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-13T11:55:27.702454+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-iran-is-saying-about-us-plan-to-blockade-ports?traffic_source=rss"
-  },
-  {
-    "id": "31abda8c71ea",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T08:37",
-    "headline": "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company",
-    "excerpt": "Despite the relentless bombing, Sana refuses to flee Tehran, clinging to resilience and fleeting moments of normalcy.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-04-13T11:55:27.702478+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/13/refugee-in-my-own-city-surviving-tehrans-bombing-with-my-cat-for-company?traffic_source=rss"
   }
 ]
