@@ -1,5 +1,49 @@
 [
   {
+    "id": "2c79eb164b48",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T02:05",
+    "headline": "Global Sumud Flotilla disrupts cargo ship bound for Israel",
+    "excerpt": "Activists with the Global Sumud Flotilla have disrupted a cargo ship they say carried materials for Israeli weapons.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-04-21T03:23:14.419406+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/global-sumud-flotilla-disrupts-cargo-ship-bound-for-israel?traffic_source=rss"
+  },
+  {
+    "id": "c43c65db425f",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T01:37",
+    "headline": "US is ‘pretty far behind where they started’ the war on Iran",
+    "excerpt": "Daniel Benaim says the US missed the early off-ramps to declare victory over Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-21T03:23:14.419455+00:00",
+    "link": "https://www.aljazeera.com/video/quotable/2026/4/21/us-is-pretty-far-behind-where-they-started-the-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "37902ab75d8a",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T01:33",
+    "headline": "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon",
+    "excerpt": "Outrage continues to grow over the Israeli soldier who was photographed desecrating a statue of Jesus Christ in Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-21T03:23:14.419492+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/global-fallout-grows-over-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "8789fb2422a5",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T00:00",
+    "headline": "Iran war live: Tehran spurns talks under threats; Trump says blockade stays",
+    "excerpt": "Iran says will not accept negotiations &#039;under the shadow of threats&#039;, as Trump promises to continue blockade in Hormuz.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-21T03:23:14.419522+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/21/iran-war-live-tehran-shuns-talks-trump-says-us-blockade-to-remain?traffic_source=rss"
+  },
+  {
     "id": "f829a7bb9456",
     "source": "Al Jazeera",
     "date": "2026-04-20T23:08",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-12T17:55:16.706670+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/12/iranian-authorities-remain-defiant-urge-supporters-to-stay-in?traffic_source=rss"
-  },
-  {
-    "id": "c9218de9264f",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T16:21",
-    "headline": "Video: Severe flooding closes schools in Saudi Arabia",
-    "excerpt": "Saudi Arabia has ordered schools to close after severe flooding swept through parts of the country.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-04-12T17:55:16.706715+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/video-severe-flooding-closes-schools-in-saudi-arabia?traffic_source=rss"
-  },
-  {
-    "id": "4153057100fa",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T15:47",
-    "headline": "Trump announces Strait of Hormuz blockade after US-Iran peace talks end",
-    "excerpt": "US Navy to enforce blockade, Trump says after condemning Iran for blocking waterway, complaining of no deal in Pakistan.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T17:55:16.706748+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/12/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end?traffic_source=rss"
-  },
-  {
-    "id": "b33129a29ad2",
-    "source": "PressTV",
-    "date": "2026-04-12T17:55",
-    "headline": "IRGC: Any wrong move will turn Strait of Hormuz into ‘deadly whirlpool’ for enemies",
-    "excerpt": "Iran’s enemies will plunge “into a deadly whirlpool of destruction” in the event of any wrong move in the Strait of Hormuz, the IRGC warns.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-12T17:55:18.074208+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766722/IRGC-Any-wrong-move-will-turn-Strait-of-Hormuz-into-deadly-whirlpool-for-enemies%C2%A0"
-  },
-  {
-    "id": "0c699eb84d34",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T15:27",
-    "headline": "Global Sumud Flotilla sets sail from Barcelona for Gaza",
-    "excerpt": "Thousands gathered at Barcelona’s port as the largest ever Global Sumud Flotilla prepared to depart for Gaza.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-12T15:58:44.101482+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/global-sumud-flotilla-sets-sail-from-barcelona-for-gaza?traffic_source=rss"
   }
 ]
