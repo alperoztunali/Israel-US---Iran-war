@@ -1,5 +1,49 @@
 [
   {
+    "id": "1c8320bf3d6b",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T20:42",
+    "headline": "US issues more Iran sanctions on eve of possible talks in Pakistan",
+    "excerpt": "The Trump administration targets 14 individuals and entities over alleged links to Iran&#039;s arms industry.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-21T21:24:29.668118+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss"
+  },
+  {
+    "id": "4365aba167cb",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T20:33",
+    "headline": "EU eyes options as Iran conflict threatens jet fuel shortages",
+    "excerpt": "The blockade of the Strait of Hormuz is causing concern in Europe, which relies heavily on imported jet fuel.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-21T21:24:29.668152+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss"
+  },
+  {
+    "id": "709297cfe641",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T20:22",
+    "headline": "Trump announces Iran ceasefire extension but says blockade remains",
+    "excerpt": "US president says attacks will be held off until Iranian leaders &#039;come up with a unified proposal&#039; to end war.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-21T21:24:29.668183+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss"
+  },
+  {
+    "id": "d7f4cdfa5bf4",
+    "source": "PressTV",
+    "date": "2026-04-21T21:24",
+    "headline": "One enemy misstep after truce, we strike where you say: IRGC commander to people",
+    "excerpt": "If the enemy oversteps and commits any act of aggression against the Islamic Republic of Iran after the ceasefire, the Islamic Revolution Guards Corps (IRGC) will target wherever the people want them to, the IRGC aerospace commander said on Tuesday.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-21T21:24:31.832878+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/21/767313/one-enemy-misstep-after-truce-we-strike-where-you-say-irgc-commander-people"
+  },
+  {
     "id": "cb5bd3812a33",
     "source": "Al Jazeera",
     "date": "2026-04-21T20:16",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-13T16:40:20.599290+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/13/israeli-forces-kill-three-palestinians-in-gaza-arrest-dozens-in-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "82362e95eaa5",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T12:39",
-    "headline": "At least six killed in Israeli strikes in southern Lebanon",
-    "excerpt": "Attacks come as Israel says it is close to taking over a major town in the south, and before peace talks in the US.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-13T16:40:20.599314+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "0ba57357af6f",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T12:18",
-    "headline": "Cement company Lafarge found guilty in Syria terrorism financing case",
-    "excerpt": "A French court has found cement company Lafarge guilty of financing armed groups during the Syrian war.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-04-13T16:40:20.599353+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/cement-company-lafarge-found-guilty-in-syria-terrorism-financing-case?traffic_source=rss"
-  },
-  {
-    "id": "b980678995a3",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T12:02",
-    "headline": "Israel is trying to change Jerusalem’s religious identity",
-    "excerpt": "Israel is destroying the Status Quo to establish full control over Muslim and Christian religious life at holy sites.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-13T16:40:20.599390+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/13/israel-is-trying-to-change-jerusalems-religious-identity?traffic_source=rss"
-  },
-  {
-    "id": "3a3fa9768b06",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T11:35",
-    "headline": "Tear gas fired at India workers demanding higher wages as living costs rise",
-    "excerpt": "Factory workers protest in national capital&#039;s suburb of Noida as living costs across the world rise due to the Iran war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-13T16:40:20.599420+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/13/tear-gas-fired-at-indian-workers-demanding-higher-wage-as-living-costs-rise?traffic_source=rss"
   }
 ]
