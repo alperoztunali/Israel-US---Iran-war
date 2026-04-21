@@ -1,5 +1,38 @@
 [
   {
+    "id": "4fc838141b4b",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T05:20",
+    "headline": "US veterans arrested in Capitol during protest against the war on Iran",
+    "excerpt": "US veterans were arrested while staging a protest in the US Capitol building in opposition to the war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-21T05:39:27.002335+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/us-veterans-arrested-in-capitol-during-protest-against-the-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "7c54263e4957",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T04:55",
+    "headline": "Amnesty International slams ‘predatory world order’ led by US and Israel",
+    "excerpt": "Amnesty’s Secretary General says the US, Israel and Russia have waged war on civilians with impunity.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-21T05:39:27.002386+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/amnesty-international-slams-predatory-world-order-led-by-us-and-israel?traffic_source=rss"
+  },
+  {
+    "id": "82665b69482c",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T04:46",
+    "headline": "Japan lifts ban on lethal weapons exports in major shift of pacifist policy",
+    "excerpt": "Japan could soon sell weapons overseas, including fighter jets, in a shift from its decades-old pacifist policy.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-04-21T05:39:27.002414+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/21/japan-lifts-ban-on-lethal-weapons-exports-in-major-shift-of-pacifist-policy?traffic_source=rss"
+  },
+  {
     "id": "2c79eb164b48",
     "source": "Al Jazeera",
     "date": "2026-04-21T02:05",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-12T19:55:12.169892+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/12/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end?traffic_source=rss"
-  },
-  {
-    "id": "4b6542200d8a",
-    "source": "PressTV",
-    "date": "2026-04-12T19:55",
-    "headline": "Military ships approaching Hormuz Strait ‘a violation of ceasefire’, IRGC warns",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) warns that any attempt by military vessels to transit the Strait of Hormuz will be deemed a violation of the two-week ceasefire with the United States.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-12T19:55:13.722710+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766725/Military-ships-approaching-Hormuz-Strait-a-violation-of-ceasefire-IRGC-warns%C2%A0"
-  },
-  {
-    "id": "7dc82f6ea98f",
-    "source": "PressTV",
-    "date": "2026-04-12T19:55",
-    "headline": "‘We will teach you a greater lesson’: Qalibaf warns Trump not to test Iran’s resolve again",
-    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf said on Sunday that the Iranian nation has proved it does not bend to US threats, warning that the country was prepared to “teach a greater lesson” if confronted again.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-12T19:55:13.722764+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766728/We-will-teach-you-a-greater-lesson-Qalibaf-warns-Trump-not-to-test-Iran-s-resolve-again%C2%A0"
-  },
-  {
-    "id": "1066095711b9",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T16:51",
-    "headline": "Iranian authorities remain defiant, urge supporters to stay in streets",
-    "excerpt": "Mohammad Bagher Ghalibaf, who led Iran&#039;s delegation in talks to end the war, said US delegation &#039;failed to gain trust&#039;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T17:55:16.706670+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/12/iranian-authorities-remain-defiant-urge-supporters-to-stay-in?traffic_source=rss"
   }
 ]
