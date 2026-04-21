@@ -1,5 +1,49 @@
 [
   {
+    "id": "bc0ff6b08766",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T09:32",
+    "headline": "Spain, Slovenia, Ireland push EU to debate Israel pact suspension",
+    "excerpt": "In a letter to EU foreign policy chief Kaja Kallas, the three governments say Israel is violating &#039;human rights&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-21T10:46:48.272617+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/21/spain-slovenia-ireland-push-eu-to-debate-israel-pact-suspension?traffic_source=rss"
+  },
+  {
+    "id": "cf7587768d71",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T09:24",
+    "headline": "Burn treatment for Gaza children threatened by Israeli restrictions",
+    "excerpt": "Burn treatment for Gaza children threatened by Israeli restrictions",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-21T10:46:48.272660+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/burn-treatment-for-gaza-children-threatened-by-israeli-restrictions?traffic_source=rss"
+  },
+  {
+    "id": "82b0ee2d120c",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T09:02",
+    "headline": "As Iran crisis drags on, fears of global food catastrophe grow",
+    "excerpt": "While global food prices have risen modestly so far, the full impact of the conflict has yet to be felt, analysts say.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-21T10:46:48.272692+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/21/as-iran-crisis-drags-on-fears-of-global-food-crisis-grow?traffic_source=rss"
+  },
+  {
+    "id": "966825d7b13c",
+    "source": "PressTV",
+    "date": "2026-04-21T10:46",
+    "headline": "No Iranian delegation in Islamabad, says report as Tehran rejects talks under threats",
+    "excerpt": "No Iranian delegation has arrived in Islamabad for talks with the United States, according to a report.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-21T10:46:49.972077+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/21/767279/No-Iranian-delegation-in-Islamabad-report"
+  },
+  {
     "id": "2f571fa92670",
     "source": "Al Jazeera",
     "date": "2026-04-21T08:21",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-13T07:27:28.657332+00:00",
     "link": "https://presstv.ir/Detail/2026/04/12/766733/Iran-parl-speaker-warns-Americans-will-be-nostalgic-for-cheap-gasoline-as-US-threatens-naval-blockade"
-  },
-  {
-    "id": "33cc1c7617e8",
-    "source": "PressTV",
-    "date": "2026-04-13T07:27",
-    "headline": "‘Ridiculous’: Iran army’s navy chief mocks Trump threats to block Hormuz strait",
-    "excerpt": "Iran’s Navy commander has dismissed President Donald Trump’s latest threats to impose a naval blockade on the Strait of Hormuz as “very ridiculous and laughable,” saying the Iranian military is closely monitoring every move of the US fleet in the region.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-13T07:27:28.657364+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/13/766735/-Ridiculous-Iran-army-navy-chief-mocks-Trump-threats-to-block-Hormuz-strait"
-  },
-  {
-    "id": "bc074be46423",
-    "source": "Al Jazeera",
-    "date": "2026-04-12T21:44",
-    "headline": "These are people Israel killed in Lebanon on a single day",
-    "excerpt": "In a matter of minutes, Israel killed more than 350 people across Lebanon on Wednesday, April 8.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-12T23:54:39.355900+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss"
-  },
-  {
-    "id": "2f55922107b7",
-    "source": "PressTV",
-    "date": "2026-04-12T23:54",
-    "headline": "Iran parl. speaker warns Americans will be ‘nostalgic’ for cheap gasoline as U.S. threatens naval bl",
-    "excerpt": "Iran’s Parliament Speaker Mohammad Baqer Qalibaf has issued a warning to Americans to “enjoy” today’s gas prices, adding that they will soon be “nostalgic” for $4–$5 per gallon fuel as the United States threatens to impose a naval blockade on Iranian ports.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-12T23:54:40.900112+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766733/Iran-parl-speaker-warns-Americans-will-be-nostalgic-for-cheap-gasoline-as-US-threatens-naval-blockade"
-  },
-  {
-    "id": "7911a46de6c1",
-    "source": "PressTV",
-    "date": "2026-04-12T23:54",
-    "headline": "‘Zero lessons earned’: Iran FM says US maximalism blocked progress at Islamabad talks",
-    "excerpt": "Iran’s foreign minister said the United States’ “maximalism, shifting goalposts, and blockade” derailed what was just inches away from becoming the “Islamabad MoU.\"",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-12T23:54:40.900158+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766731/Zero-lessons-earned-Iran-FM-says-US-maximalism-blocked-progress-at-Islamabad-talks-"
   }
 ]
