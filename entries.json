@@ -1,5 +1,93 @@
 [
   {
+    "id": "90eb41c9f863",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T13:33",
+    "headline": "Palestine weekly wrap: Coordinated attacks and evictions in Gaza, West Bank",
+    "excerpt": "The killings of Palestinians in Gaza and settler violence across the West Bank are both continuing to surge.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-21T14:10:01.978536+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/21/palestine-weekly-wrap-coordinated-attacks-and-evictions-in-gaza-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "5c5bb2489268",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T13:26",
+    "headline": "Shot by Israeli forces, Hala, 18 and Mohammad, 13 fight for their lives",
+    "excerpt": "A Gaza bride-to-be and a 13-year-old West Bank boy fight for their lives after being shot in the head by Israeli forces.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-04-21T14:10:01.978579+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/21/shot-by-israeli-forces-hala-18-and-mohammad-13-fight-for-their-lives?traffic_source=rss"
+  },
+  {
+    "id": "6a9cb9ac790c",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T13:04",
+    "headline": "Pakistan races against time to get Iran back to US talks as truce end nears",
+    "excerpt": "But a series of escalations by the US is complicating those efforts, say analysts.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-21T14:10:01.978611+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/21/pakistan-races-against-time-to-get-iran-back-to-us-talks-as-truce-end-nears?traffic_source=rss"
+  },
+  {
+    "id": "894cbe0b7af7",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T12:46",
+    "headline": "EU credibility is on the line over Israel, says Spanish foreign minister",
+    "excerpt": "Spain warns EU credibility at risk without unified stance on Israel, urges consistency with its Russia policy.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-21T14:10:01.978644+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/eu-credibility-is-on-the-line-over-israel-says-spanish-foreign-minister?traffic_source=rss"
+  },
+  {
+    "id": "fde206c3bd25",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T12:22",
+    "headline": "Iran-US war: Four scenarios for what’s next as talks stumble",
+    "excerpt": "Between an expiring ceasefire and a possible deal lies a range of ways in which the war could proceed, analysts say.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-21T14:10:01.978679+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/21/iran-us-war-four-scenarios-for-whats-next-as-talks-stumble?traffic_source=rss"
+  },
+  {
+    "id": "a4f2be870317",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T11:44",
+    "headline": "What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?",
+    "excerpt": "Trump withdrew the US from the JCPOA in 2018, branding it &#039;the worst deal ever&#039; and seeking stronger terms.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-21T14:10:01.978719+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/21/what-was-the-iran-nuclear-deal-trump-dumped-in-search-of-better-terms?traffic_source=rss"
+  },
+  {
+    "id": "744d32a04768",
+    "source": "PressTV",
+    "date": "2026-04-21T14:10",
+    "headline": "Iran has new surprises ready for potential resumption of war: Report",
+    "excerpt": "Iran has fully prepared for the possible resumption of war as the ceasefire deadline approaches, with new surprises ready for any new round of imposed war, the Tasnim News Agency reported on Tuesday, citing informed sources.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-21T14:10:03.628603+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/21/767282/Iran-has-new-surprises-ready-for-potential-resumption-of-war-Report"
+  },
+  {
+    "id": "72ae9211d913",
+    "source": "PressTV",
+    "date": "2026-04-21T14:10",
+    "headline": "‎US-Israeli war on Iran causing biggest energy crisis in history: IEA",
+    "excerpt": "‎The IEA has warned that US-Israeli aggression against Iran has caused the most severe energy crisis in history.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-21T14:10:03.628651+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/21/767283/%E2%80%8EUS-Israeli-war-on-Iran-causing-biggest-energy-crisis-in-history-IEA"
+  },
+  {
     "id": "2eac9dc4811b",
     "source": "Al Jazeera",
     "date": "2026-04-21T11:11",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-13T11:55:29.324009+00:00",
     "link": "https://presstv.ir/Detail/2026/04/13/766768/unhinged-unchristian-global-outrage-erupts-after-trump-attack-pope-pose-jesus"
-  },
-  {
-    "id": "f3d6327c991d",
-    "source": "PressTV",
-    "date": "2026-04-13T11:55",
-    "headline": "‘Zero lessons learned’: Iran FM says US maximalism blocked progress at Islamabad talks",
-    "excerpt": "Iran’s foreign minister said the United States’ “maximalism, shifting goalposts, and blockade” derailed what was just inches away from becoming the “Islamabad MoU.\"",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-13T11:55:29.324047+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/12/766731/Zero-lessons-earned-Iran-FM-says-US-maximalism-blocked-progress-at-Islamabad-talks-"
-  },
-  {
-    "id": "7a7da7b8501f",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T05:42",
-    "headline": "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal",
-    "excerpt": "Leo, ​who last year became the first US-born pope, has emerged as an outspoken critic of the US-Israeli ⁠war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-13T07:27:27.142093+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss"
-  },
-  {
-    "id": "54a8fd5eb376",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T01:30",
-    "headline": "Oil prices surge past $103 a barrel after US announces blockade of Iran",
-    "excerpt": "Asian stocks fall as naval blockade threat injects new turmoil into financial markets.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-13T07:27:27.142133+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss"
-  },
-  {
-    "id": "0aec7899afc4",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T00:32",
-    "headline": "US military threatens to blockade all Iranian ports starting on Monday",
-    "excerpt": "Vessels will still be able to transit the Strait of Hormuz to and from non-Iranian ports, says US Central Command.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-13T07:27:27.142162+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss"
-  },
-  {
-    "id": "97d66293e4ad",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T00:00",
-    "headline": "Iran war live: US military says it will block Iranian traffic in Hormuz",
-    "excerpt": "CENTCOM says the blockade will begin at 14:00 GMT, as Iran warns of even higher prices at the pump.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-13T07:27:27.142193+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss"
-  },
-  {
-    "id": "728f23008170",
-    "source": "PressTV",
-    "date": "2026-04-13T07:27",
-    "headline": "Yemen vows military escalation if US, Israel resume war on Iran",
-    "excerpt": "Yemen says it will have an active participation and escalate military operation in case of the resumption of US-Israel war of aggression against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-13T07:27:28.657209+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/13/766743/Yemen-vows-military-escalation-if-US,-Israel-launch-new-anti-Iran-aggression"
-  },
-  {
-    "id": "6e1758fc3566",
-    "source": "PressTV",
-    "date": "2026-04-13T07:27",
-    "headline": "Oil prices spike above $103 after US announces Iran 'naval blockade'",
-    "excerpt": "Global oil prices surge after US President Donald Trump said the US Navy would enforce a blockade on the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-13T07:27:28.657238+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/13/766742/Oil-prices-spike-above--103-after-US-announces-Iran-blockade"
-  },
-  {
-    "id": "faf3286b1742",
-    "source": "PressTV",
-    "date": "2026-04-13T07:27",
-    "headline": "Hungary election: Netanyahu, Trump lose close ally in Europe as Orban defeated",
-    "excerpt": "Hungary enters a new political phase after Prime Minister Viktor Orban, a close ally of Israeli Prime Minister Benjamin Netanyahu and US President Donald Trump, loses power.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-13T07:27:28.657269+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/13/766744/Netanyahu-Trump-lose-close-EU-ally-with-Hungarian-PM-Orban-s-electoral-defeat"
   }
 ]
