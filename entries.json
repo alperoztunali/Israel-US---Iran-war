@@ -1,5 +1,27 @@
 [
   {
+    "id": "59c8ab007d9f",
+    "source": "Al Jazeera",
+    "date": "2026-04-21T21:21",
+    "headline": "Myanmar’s military government rebuffed on peace talks offer",
+    "excerpt": "Min Aung Hlaing elected by parliament as president earlier this month after election derided as a sham.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-04-21T22:09:49.205627+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer?traffic_source=rss"
+  },
+  {
+    "id": "4460805e3120",
+    "source": "PressTV",
+    "date": "2026-04-21T22:09",
+    "headline": "Trump announces unilateral extension of ceasefire with Iran amid illegal blockade",
+    "excerpt": "Donald Trump has extended a two-week ceasefire with Iran while announcing the continuation of an illegal blockade on the Islamic Republic's ports and vessels.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-21T22:09:51.045866+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/21/767314/Trump-ceasefire-Iran-blockade-talks-Pakistan"
+  },
+  {
     "id": "1c8320bf3d6b",
     "source": "Al Jazeera",
     "date": "2026-04-21T20:42",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-13T16:40:20.599227+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation?traffic_source=rss"
-  },
-  {
-    "id": "89c5381cc3d8",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T13:54",
-    "headline": "Pakistan eyes narrow window to resuscitate US-Iran talks after breakdown",
-    "excerpt": "US and Iran end marathon Islamabad talks without agreement, leaving fragile ceasefire under growing strain.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-13T16:40:20.599257+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/13/pakistan-eyes-narrow-window-to-resuscitate-us-iran-talks-after-breakdown?traffic_source=rss"
-  },
-  {
-    "id": "32d0f5a83437",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T12:52",
-    "headline": "Israeli forces kill three Palestinians in Gaza, arrest dozens in West Bank",
-    "excerpt": "Attacks come as Palestinian groups meet mediators from Egypt, Turkiye and Qatar in Cairo to discuss fragile &#039;ceasefire&#039;.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-13T16:40:20.599290+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/13/israeli-forces-kill-three-palestinians-in-gaza-arrest-dozens-in-west-bank?traffic_source=rss"
   }
 ]
