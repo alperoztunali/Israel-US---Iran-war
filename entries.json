@@ -1,5 +1,49 @@
 [
   {
+    "id": "cd6fb5b14351",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T19:25",
+    "headline": "Iran blames Trump’s blockade for diplomatic impasse as fragile truce holds",
+    "excerpt": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf says US and Israel will not achieve their goals &#039;through bullying&#039;.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-22T19:52:48.159907+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/22/iran-blames-trumps-blockade-for-diplomatic-impasse-as-fragile-truce-holds?traffic_source=rss"
+  },
+  {
+    "id": "8fc45cfc2e7b",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T18:10",
+    "headline": "At least four killed in Israeli attacks on Lebanon, journalists wounded",
+    "excerpt": "Journalists wounded in Israeli attacks in at-Tiri, Lebanon&#039;s National News Agency (NNA) reports.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-22T19:52:48.159951+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss"
+  },
+  {
+    "id": "b6a27f045f79",
+    "source": "PressTV",
+    "date": "2026-04-22T19:52",
+    "headline": "Violations, threats, blockade main obstacle to genuine talks: President",
+    "excerpt": "The Islamic Republic of Iran has invariably welcomed dialogue and agreement, but Washington’s constant breach of commitments, naval blockade and military threats remain the main obstacles to genuine negotiations, President Masoud Pezeshkian said on Wednesday.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-22T19:52:49.869054+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/22/767379/Violations,-threats,-blockade-main-obstacle-to-genuine-talks--President-Pezeshkian"
+  },
+  {
+    "id": "efa3ea729a3d",
+    "source": "PressTV",
+    "date": "2026-04-22T19:52",
+    "headline": "Military aggression failed, US bullying won’t open Strait of Hormuz: Qalibaf",
+    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf says the country will not open the Strait of Hormuz under bullying from the United States.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-22T19:52:49.869097+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/22/767376/Iran-Hormuz-reopening-Ghalibaf-US-bullying"
+  },
+  {
     "id": "1bd83f29f4f1",
     "source": "Al Jazeera",
     "date": "2026-04-22T18:22",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-14T15:53:03.524643+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/14/why-are-the-us-iran-arguing-over-duration-of-uranium-enrichment-ban?traffic_source=rss"
-  },
-  {
-    "id": "8140d93b8e4d",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T13:19",
-    "headline": "Can Pakistan juggle US-Iran mediation with Saudi defence commitments?",
-    "excerpt": "Pakistani officials and a number of analysts say it can do both. But the balancing act won&#039;t be easy.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-14T15:53:03.524679+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/can-pakistan-juggle-us-iran-mediation-with-saudi-defence-commitments?traffic_source=rss"
-  },
-  {
-    "id": "9884410ef81b",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T13:13",
-    "headline": "Israel ‘wants to reach peace and normalisation with Lebanon’",
-    "excerpt": "Israeli Foreign Minister Gideon Saar has said Israel wants to reach “peace and normalisation” with Lebanon.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-04-14T15:53:03.524719+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israel-wants-to-reach-peace-and-normalisation-with?traffic_source=rss"
-  },
-  {
-    "id": "bc9f6077fa5d",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T12:55",
-    "headline": "Italy suspends defence agreement with Israel",
-    "excerpt": "Prime Minister Giorgia Meloni&#039;s government freezes automatic renewal of defence cooperation deal with Israel.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-14T15:53:03.524749+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/italian-suspends-defence-agreement-with-israel?traffic_source=rss"
-  },
-  {
-    "id": "e0c1bb77b9d0",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T12:33",
-    "headline": "Iran remains an obstacle to the ‘Greater Israel’ project",
-    "excerpt": "Israel wants to expand in the Middle East. Its failure to defeat Iran is a major setback for its hegemonic plans.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-14T15:53:03.524791+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/14/iran-remains-an-obstacle-to-the-greater-israel-project?traffic_source=rss"
   }
 ]
