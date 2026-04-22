@@ -1,5 +1,38 @@
 [
   {
+    "id": "f95989b065b5",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T20:30",
+    "headline": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
+    "excerpt": "Israeli forces raided the funeral of two Palestinians killed by settlers at a school in the occupied West Bank.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-22T21:02:26.335020+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-forces-fire-tear-gas-at-funeral-of-palestinians-killed-by-settlers?traffic_source=rss"
+  },
+  {
+    "id": "96094041f4aa",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T19:59",
+    "headline": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians",
+    "excerpt": "Systematic sexual violence and harassment by Israeli soldiers, settlers displacing Palestinians in occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-22T21:02:26.335069+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/22/sexual-violence-in-the-west-bank-emerges-as-tool-to-intimidate-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "974cebe0ecee",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T19:57",
+    "headline": "Can a divided EU become a united voice against Israeli aggression?",
+    "excerpt": "Bloc&#039;s relationship with its biggest trading partner under increasing scrutiny.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-04-22T21:02:26.335100+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/4/22/can-a-divided-eu-become-a-united-voice-against-israeli-aggression?traffic_source=rss"
+  },
+  {
     "id": "cd6fb5b14351",
     "source": "Al Jazeera",
     "date": "2026-04-22T19:25",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-14T19:55:48.747210+00:00",
     "link": "https://presstv.ir/Detail/2026/04/14/766872/Iran-UN-mission-reaction-claims-nuclear-weapons-US-Israel-"
-  },
-  {
-    "id": "7d16e4ac8bfb",
-    "source": "PressTV",
-    "date": "2026-04-14T19:55",
-    "headline": "US hosts rare Israel-Lebanon talks as Tel Aviv escalates attacks",
-    "excerpt": "The US hosts controversial talks as Israel continues its aggression against Lebanon in violation of a broader regional ceasefire.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-14T19:55:48.747237+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/14/766880/US-hosts-rare-Israel-Lebanon-talks-as-Tel-Aviv-escalates-attacks"
-  },
-  {
-    "id": "fa9a04ee9735",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T15:25",
-    "headline": "Historic but not enough? Colombia’s Gustavo Petro defends cocaine seizures",
-    "excerpt": "Colombia&#039;s president has intercepted historic volumes of illicit cocaine. But will it be enough to lessen US pressure?",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-14T15:53:03.524592+00:00",
-    "link": "https://www.aljazeera.com/news/longform/2026/4/14/historic-but-not-enough-colombias-gustavo-petro-defends-cocaine-seizures?traffic_source=rss"
-  },
-  {
-    "id": "9cfb92b93e69",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T14:52",
-    "headline": "Why are the US, Iran arguing over duration of uranium enrichment ban?",
-    "excerpt": "The US reportedly wants Iran to stop enriching for 20 years. Iran has agreed to five years. Here&#039;s why that matters.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-14T15:53:03.524643+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/why-are-the-us-iran-arguing-over-duration-of-uranium-enrichment-ban?traffic_source=rss"
   }
 ]
