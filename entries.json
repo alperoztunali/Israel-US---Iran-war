@@ -1,5 +1,38 @@
 [
   {
+    "id": "1bd83f29f4f1",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T18:22",
+    "headline": "Bad optics? Israel jails soldiers who smashed Jesus statue in Lebanon",
+    "excerpt": "Critics say Israeli attacks on Christian sites challenge claims of a Judeo-Christian shared heritage and mutual respect.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-22T18:40:25.248838+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/22/bad-optics-israel-jails-soldiers-who-smashed-jesus-statue-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "e45375204a1e",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T18:21",
+    "headline": "Did UK universities pay to ‘spy’ on pro‑Palestine students?",
+    "excerpt": "UK universities allegedly hired a security firm with military intelligence ties to monitor pro-Palestine students.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-22T18:40:25.248895+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/22/aje-onl-tt_gbr_unispying_av_v2-220426?traffic_source=rss"
+  },
+  {
+    "id": "f86c41a1cf25",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T18:10",
+    "headline": "At least four killed in Israeli strikes on Lebanon, journalists wounded",
+    "excerpt": "Journalists wounded in Israeli attacks in at-Tiri, Lebanon&#039;s National News Agency (NNA) reports.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-22T18:40:25.248923+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss"
+  },
+  {
     "id": "3c1eaf4860a5",
     "source": "Al Jazeera",
     "date": "2026-04-22T16:39",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-14T15:53:03.524791+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/4/14/iran-remains-an-obstacle-to-the-greater-israel-project?traffic_source=rss"
-  },
-  {
-    "id": "eb4bcd264acf",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T12:31",
-    "headline": "How much will US Hormuz blockade hurt Iran, and does Tehran have an escape?",
-    "excerpt": "Iran earned $5bn in oil exports in past month while it shut the strait for most other ships. That revenue is at risk.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-04-14T15:53:03.524820+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/how-much-will-us-hormuz-blockade-hurt-iran-and-does-tehran-have-an-escape?traffic_source=rss"
-  },
-  {
-    "id": "adca000cfd42",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T12:27",
-    "headline": "How many ships have passed the Strait of Hormuz and how many were attacked?",
-    "excerpt": "Ship-tracking data shows 279 ships have passed through the strait and 22 have been attacked since the war on Iran began.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-14T15:53:03.524855+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/how-many-ships-have-passed-the-strait-of-hormuz-and-how-many-were-attacked?traffic_source=rss"
-  },
-  {
-    "id": "f60ae70a6007",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T11:48",
-    "headline": "Who controls the Strait of Hormuz?",
-    "excerpt": "A US move to block the strait has intensified a broader struggle over who controls access and under what terms.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-14T15:53:03.524888+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/14/who-controls-the-strait-of-hormuz?traffic_source=rss"
   }
 ]
