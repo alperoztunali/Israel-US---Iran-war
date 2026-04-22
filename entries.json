@@ -1,5 +1,38 @@
 [
   {
+    "id": "39e35f195fd0",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T22:44",
+    "headline": "Top ministers quit after Peru’s president postpones F-16 fighter jet deal",
+    "excerpt": "The Trump administration has warned against Peru pulling out of the deal, saying it reflects &#039;bad faith&#039; negotiations.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-04-22T23:07:46.979574+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/22/top-ministers-quit-after-perus-president-postpones-f-16-fighter-jet-deal?traffic_source=rss"
+  },
+  {
+    "id": "566acf0fad48",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T22:26",
+    "headline": "US Treasury Secretary Bessent says Gulf, Asian allies request swap lines",
+    "excerpt": "Bessent pushed back on allegations that Trump family&#039;s financial ties with UAE are driving decision to offer swap line.",
+    "category": "Other",
+    "location": "Uae",
+    "addedAt": "2026-04-22T23:07:46.979623+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines?traffic_source=rss"
+  },
+  {
+    "id": "6bf5ce4d4166",
+    "source": "PressTV",
+    "date": "2026-04-22T23:07",
+    "headline": "US officials say Iran retains significant military capability despite strikes",
+    "excerpt": "Iran continues to maintain substantial military capabilities, despite weeks of US and Israeli strikes, according to multiple US officials familiar with intelligence assessments.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-22T23:07:48.692495+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/22/767384/Iran-military-United-States-capability-missiles-drones-Trump-Hegseth"
+  },
+  {
     "id": "f46e0625dd89",
     "source": "Al Jazeera",
     "date": "2026-04-22T18:10",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-14T19:55:36.405509+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/14/drones-iran-war-escalating-horror-as-sudan-war-enters-fourth-year?traffic_source=rss"
-  },
-  {
-    "id": "8b4c8f66e16a",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T18:16",
-    "headline": "Video: UN chief Antonio Guterres says talks on Iran war likely to restart",
-    "excerpt": "UN Secretary-General Antonio Guterres says it’s “highly probable” talks to end the US-Israel war on Iran will resume.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-14T19:55:36.405551+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/video-un-chief-antonio-guterres-says-talks-on-iran-war-likely-to-restart?traffic_source=rss"
-  },
-  {
-    "id": "3d314912266a",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T17:53",
-    "headline": "No ships ‘make it past US blockade’ in Hormuz strait in first day: Pentagon",
-    "excerpt": "CENTCOM contradicts reports on ships breaking blockade as Trump says US-Iran talks could resume in the next two days.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-14T19:55:36.405582+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/no-ships-make-it-past-us-blockade-in-hormuz-strait-in-first-day-pentagon?traffic_source=rss"
-  },
-  {
-    "id": "19263b1c7b51",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T17:50",
-    "headline": "Video shows drone exploding in northern Israel",
-    "excerpt": "Video captured the moment a drone exploded in northern Israel’s Nahariya, about 10 kilometres from the Lebanese border.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-14T19:55:36.405605+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/video-shows-drone-exploding-in-northern-israel?traffic_source=rss"
   }
 ]
