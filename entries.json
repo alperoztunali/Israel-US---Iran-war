@@ -1,5 +1,71 @@
 [
   {
+    "id": "fd535c62fa8f",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T08:26",
+    "headline": "Israel’s ‘digital occupation’ of south Lebanon",
+    "excerpt": "Al Jazeera’s Linh Nguyen explains Israeli drones above the skies in Lebanon, which critics call a &quot;digital occupation.&quot;",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-22T08:59:53.026191+00:00",
+    "link": "https://www.aljazeera.com/video/digital-dilemma/2026/4/22/israels-digital-occupation-of-south-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "f7dd1d84445c",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T08:24",
+    "headline": "How China is gaining from Iran war by showing it is different from US",
+    "excerpt": "Beijing has leveraged its strong economic relationship with the US, Israel, Iran and the Gulf to keep its stakes safe.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-22T08:59:53.026231+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/22/how-china-is-gaining-from-iran-war-by-showing-it-is-different-from-us?traffic_source=rss"
+  },
+  {
+    "id": "36c64fb647d4",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T07:33",
+    "headline": "Iran’s UN ambassador responds to US ceasefire extension",
+    "excerpt": "Iran’s UN Ambassador has responded to US President Donald Trump’s announcement of an extension to the ceasefire.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-22T08:59:53.026269+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/irans-un-ambassador-responds-to-us-ceasefire-extension?traffic_source=rss"
+  },
+  {
+    "id": "3c200dfba74b",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T07:18",
+    "headline": "US halts shipment of Iraq’s oil dollars in bid to curb Iran-linked groups",
+    "excerpt": "A plane carrying nearly $500m in US banknotes was blocked by the US Treasury, according to The Wall Street Journal.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-22T08:59:53.026302+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss"
+  },
+  {
+    "id": "9f6d0766cc4e",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T07:15",
+    "headline": "World Cup host Mexico pledges security at tourist sites after shooting",
+    "excerpt": "Mexican president admits the archaeological site outside Mexico City lacked security measures to prevent the attack.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-22T08:59:53.026340+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/22/world-cup-host-mexico-pledges-security-at-tourist-sites-after-shooting?traffic_source=rss"
+  },
+  {
+    "id": "2de19a9ebc26",
+    "source": "PressTV",
+    "date": "2026-04-22T08:59",
+    "headline": "IRGC vows ‘shocking events’ beyond enemy's calculation on battlefield",
+    "excerpt": "The IRGC announces its readiness to create shocking events far beyond the comprehension and calculation of the enemy on the battlefield.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-22T08:59:54.663768+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/22/767336/IRGC-ready-create-shocking-events-beyond-enemy-comprehension-battlefield"
+  },
+  {
     "id": "3495515a4a6a",
     "source": "Al Jazeera",
     "date": "2026-04-22T05:25",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-13T22:32:18.207096+00:00",
     "link": "https://presstv.ir/Detail/2026/04/13/766809/Hezbollah-chief--%E2%80%98We-will-not-surrender--the-battlefield-will-speak%E2%80%99"
-  },
-  {
-    "id": "5506fd1056c3",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T19:43",
-    "headline": "Trump doubles down in Pope feud, refuses to apologise",
-    "excerpt": "Donald Trump says he won&#039;t apologise after attacking Pope Leo XIV as “WEAK”.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-13T20:13:28.593229+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/trump-doubles-down-in-pope-feud-refuses-to-apologise?traffic_source=rss"
-  },
-  {
-    "id": "3c185d210140",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T19:30",
-    "headline": "Trump says Iran wants ‘peace deal’ but insists on ‘no nukes’",
-    "excerpt": "Donald Trump says Iran wants to make a peace deal “very badly” after talks in Islamabad ended without agreement.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-13T20:13:28.593278+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/trump-says-iran-wants-peace-deal-but-insists-on-no?traffic_source=rss"
-  },
-  {
-    "id": "a012a54fc355",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T18:52",
-    "headline": "French court rules cement giant Lafarge guilty of funding Syria ‘terrorism’",
-    "excerpt": "Long-running case regarding Lafarte&#039;s actions amid Syrian civil war sees company ordered to pay fine, executives jailed.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-04-13T20:13:28.593319+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/13/french-court-rules-cement-giant-lafarge-guilty-of-funding-syrian-terrorism?traffic_source=rss"
-  },
-  {
-    "id": "7592ea76c56d",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T17:46",
-    "headline": "Starmer announces talks to address the Strait of Hormuz crisis",
-    "excerpt": "Starmer has announced talks to be held this week and co-hosted with France, aiming at diplomatic end to the war on Iran",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-13T20:13:28.593351+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/starmer-announces-talks-to-address-the-strait-of-hormuz-crisis?traffic_source=rss"
-  },
-  {
-    "id": "5d5f7c5979a0",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T17:28",
-    "headline": "EU: No peace possible while “Lebanon is in flames”",
-    "excerpt": "Von der Leyen warns Hormuz closure and Israeli strikes on Lebanon threaten regional stability.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-13T20:13:28.593406+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/eu-no-peace-possible-while-lebanon-is-in?traffic_source=rss"
-  },
-  {
-    "id": "f268bbb3c1a8",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T17:15",
-    "headline": "What are the pros and cons of Trump’s Iranian naval blockade?",
-    "excerpt": "What does Donald Trump’s naval blockade of Iranian ports look like and can it achieve what the US president wants?",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-13T20:13:28.593446+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-are-the-pros-and-cons-of-trumps-iranian-naval-blockade?traffic_source=rss"
   }
 ]
