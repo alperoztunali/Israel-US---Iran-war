@@ -1,5 +1,82 @@
 [
   {
+    "id": "d450c5ebbce1",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T16:00",
+    "headline": "How Israel is destroying Lebanon’s water infrastructure",
+    "excerpt": "Israel is &#039;deliberately&#039; attacking Lebanon&#039;s water, experts say, aiming to displace or kill south Lebanon&#039;s population.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-22T16:12:43.378446+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/22/how-israel-is-destroying-lebanons-water-infrastructure?traffic_source=rss"
+  },
+  {
+    "id": "07afbdf9fd80",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T15:44",
+    "headline": "Israeli settlers block Palestinian children from school in the West Bank",
+    "excerpt": "Students, teachers and families stage daily peaceful sit-ins at the site of the fence near Umm al-Khair village.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-22T16:12:43.378494+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/22/israeli-settlers-block-palestinian-children-from-school-in-the-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "6a012576d2cf",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T15:42",
+    "headline": "Iran’s leaders debate war and peace after Trump ceasefire extension",
+    "excerpt": "State television pushes line that Iranians want more war, but others urge reason and moderation.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-22T16:12:43.378533+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/22/irans-leaders-debate-war-and-peace-after-trump-ceasefire-extension?traffic_source=rss"
+  },
+  {
+    "id": "9c1c0b0928e8",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T15:26",
+    "headline": "Trump calls Iran’s leadership ‘fractured’. Is it, and who’s in charge?",
+    "excerpt": "Almost 53 days into war, there is little evidence suggesting that Iranian government is fragmented.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-22T16:12:43.378562+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/22/trump-calls-irans-leadership-fractured-is-it-and-whos-in-charge?traffic_source=rss"
+  },
+  {
+    "id": "900e556a18b7",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T15:19",
+    "headline": "Fires ignited by Ukrainian drones rage at Russian oil refinery",
+    "excerpt": "Hundreds of firefighters are trying to contain fires at Russia’s Tuapse oil refinery.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-04-22T16:12:43.378590+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/fires-ignited-by-ukrainian-drones-rage-at-russian-oil-refinery?traffic_source=rss"
+  },
+  {
+    "id": "9a4c6832134a",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T14:50",
+    "headline": "The war on Iran: Breaking down the words you’re hearing",
+    "excerpt": "The terminology of the US-Israel war on Iran is drawn from a range of linguistic origins.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-22T16:12:43.378625+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/the-war-on-iran-breaking-down-the-words-youre-hearing?traffic_source=rss"
+  },
+  {
+    "id": "7f8b35462d64",
+    "source": "PressTV",
+    "date": "2026-04-22T16:12",
+    "headline": "IRIB poll: Vast majority of Iranians reject curbs on missiles, uranium, and Strait of Hormuz control",
+    "excerpt": "A nationwide IRIB Research Center poll reveals overwhelming support for the country's leadership and armed forces, and firm rejection of curbs on missile and nuclear programs and control over the Strait of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-22T16:12:45.321598+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/22/767355/irib-poll-vast-majority-iranians-reject-curbs-missiles-uranium-strait-hormuz-control"
+  },
+  {
     "id": "f17f79134a4e",
     "source": "Al Jazeera",
     "date": "2026-04-22T13:52",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-14T15:53:05.283857+00:00",
     "link": "https://presstv.ir/Detail/2026/04/14/766854/Iran-vp-White-House-turned-into-reporting-branch-for-Israel"
-  },
-  {
-    "id": "e43dcd480ab1",
-    "source": "PressTV",
-    "date": "2026-04-14T15:53",
-    "headline": "China slams US blockade on Iranian ports as ‘dangerous, irresponsible’",
-    "excerpt": "China condemns the blockade imposed by the US President Donald Trump’s administration on Iranian ports as “dangerous and irresponsible.”",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-14T15:53:05.283901+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/14/766846/China-slams-US-blockade-Iranian-ports-dangerous-irresponsible"
-  },
-  {
-    "id": "c7bace67d2e9",
-    "source": "PressTV",
-    "date": "2026-04-14T15:53",
-    "headline": "Iran in continuous message exchange with mediator Pakistan after US talks: Report",
-    "excerpt": "Iran is continuously exchanging messages with Pakistan amid Islamabad’s efforts to mediate a permanent end to the US-Israeli aggression, according to a report.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-14T15:53:05.283933+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/14/766860/Iran-US-talks-new-round-diplomatic-efforts-sources"
-  },
-  {
-    "id": "ac50d97ce555",
-    "source": "PressTV",
-    "date": "2026-04-14T15:53",
-    "headline": "Fearing Red Sea disruptions, Saudi Arabia pushes Trump to lift Iran blockade: Report",
-    "excerpt": "Regional officials say Riyadh warns the US naval blockade risks disrupting vital shipping routes, including Bab al-Mandeb, if retaliation escalates.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-14T15:53:05.283954+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/14/766863/Fearing-Red-Sea-disruptions-Saudi-Arabia-pushes-Trump-to-lift-Iran-blockade"
-  },
-  {
-    "id": "4c9ad8561b7b",
-    "source": "PressTV",
-    "date": "2026-04-14T15:53",
-    "headline": "Italy suspends military agreement with Israel as cracks grow in their relationship",
-    "excerpt": "Italy has suspended military agreement with the Israeli regime, halting the exchange of military equipment and technology research between them.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-04-14T15:53:05.283978+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/14/766847/italy-suspends-military-agreement-israel-cracks-relationship-grow"
-  },
-  {
-    "id": "87515e5d1328",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T09:58",
-    "headline": "Sanctioned tankers transit Strait of Hormuz amid US blockade",
-    "excerpt": "Chinese-owned tanker Rich Starry becomes the first sanctioned vessel to exit the Gulf after the US blockade.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-14T10:47:44.908144+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade?traffic_source=rss"
-  },
-  {
-    "id": "19dac0fd673a",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T09:08",
-    "headline": "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
-    "excerpt": "China and Russia have been vocal critics of the US-Israel war on Iran, an ally of both world powers.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-14T10:47:44.908196+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss"
-  },
-  {
-    "id": "2dbe781f2e4d",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T08:52",
-    "headline": "World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO",
-    "excerpt": "Global agriculture is highly exposed to the blockage of waterways, risking higher commodity prices and food inflation.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-14T10:47:44.908241+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss"
   }
 ]
