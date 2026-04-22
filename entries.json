@@ -1,5 +1,38 @@
 [
   {
+    "id": "f46e0625dd89",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T18:10",
+    "headline": "Israeli attacks on Lebanon kill at least five people, including journalist",
+    "excerpt": "Journalist Amal Khalil killed in Israeli attack in at-Tiri, Lebanon&#039;s Al Akhbar reports.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-22T22:06:23.827149+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss"
+  },
+  {
+    "id": "122239df3183",
+    "source": "PressTV",
+    "date": "2026-04-22T22:06",
+    "headline": "Aggressors fully responsible for any instability affecting Strait of Hormuz: Iran FM",
+    "excerpt": "Foreign Minister Abbas Araghchi says the aggressors targeting Iran are fully responsible for whatever instance of instability affecting the strategic Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-22T22:06:25.346671+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/22/767381/Iran-Strait-of-Hormuz-Israel-United-States-South-Korea-Araghchi"
+  },
+  {
+    "id": "9f35b73414f6",
+    "source": "PressTV",
+    "date": "2026-04-22T22:06",
+    "headline": "Lebanese journalist Amal Khalil deliberately killed in Israeli airstrike, body found in rubble",
+    "excerpt": "Lebanese Civil Defense confirms the death of Amal Khalil, a journalist with the country's al-Akhbar daily, saying she was deliberately targeted in an Israeli strike.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-22T22:06:25.346699+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/22/767382/Lebanon-Israel-kills-journalist-female-al-Akhbar"
+  },
+  {
     "id": "f95989b065b5",
     "source": "Al Jazeera",
     "date": "2026-04-22T20:30",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-14T19:55:36.405605+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/video-shows-drone-exploding-in-northern-israel?traffic_source=rss"
-  },
-  {
-    "id": "5a0d4719eaa3",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T17:45",
-    "headline": "Somalia reports hit on al-Shabab with ‘international support’",
-    "excerpt": "Army killed the fighters with the help of an international partner that carried out air strikes.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-04-14T19:55:36.405632+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/somalia-reports-hit-on-al-shabab-with-international-support?traffic_source=rss"
-  },
-  {
-    "id": "8b85b3fcdd74",
-    "source": "PressTV",
-    "date": "2026-04-14T19:55",
-    "headline": "Ships leave Iranian ports in Persian Gulf despite US ‘blockade’: Data",
-    "excerpt": "At least two ships sailing from Iranian ports crossed the Strait of Hormuz despite a blockade threat by the US military, maritime tracking reports have indicated.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-14T19:55:48.747161+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/14/766870/Ships-leave-Iranian-ports-in-Persian-Gulf-despite-US-blockade-Data"
-  },
-  {
-    "id": "6e12c1fb283f",
-    "source": "PressTV",
-    "date": "2026-04-14T19:55",
-    "headline": "Iran seeking nukes ‘Big Lie’ that never changes reality: UN mission",
-    "excerpt": "Iran’s UN mission in Vienna says that claims about the country seeking a nuclear weapon will never change realities on the ground.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-14T19:55:48.747210+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/14/766872/Iran-UN-mission-reaction-claims-nuclear-weapons-US-Israel-"
   }
 ]
