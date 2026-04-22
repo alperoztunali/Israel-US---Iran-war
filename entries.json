@@ -1,5 +1,49 @@
 [
   {
+    "id": "8d53503d2dcb",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T11:33",
+    "headline": "Five major issues affecting the FIFA World Cup with 50 days to go",
+    "excerpt": "From the US-Israel war on Iran to exorbitant ticket prices and violence in host nations, here&#039;s what&#039;s gone wrong.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-22T12:48:38.378815+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/22/five-major-issues-affecting-the-fifa-world-cup-with-50-days-to-go?traffic_source=rss"
+  },
+  {
+    "id": "d6c71f3b839d",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T11:30",
+    "headline": "Israeli settlers set Palestinian home on fire in occupied West Bank",
+    "excerpt": "Israeli settlers set Palestinian home on fire in occupied West Bank",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-22T12:48:38.378850+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-settlers-set-palestinian-home-on-fire-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "23172d45e2b3",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T11:20",
+    "headline": "Kyrie Irving changes Instagram photo to show solidarity with Palestine",
+    "excerpt": "NBA player&#039;s profile image shows a Palestinian child blocked from school by Israeli soldiers in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-22T12:48:38.378877+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/22/kyrie-irving-changes-instagram-photo-to-show-solidarity-with-palestine?traffic_source=rss"
+  },
+  {
+    "id": "fc8101f1a506",
+    "source": "Al Jazeera",
+    "date": "2026-04-22T09:32",
+    "headline": "Iran seizes two vessels in Strait of Hormuz after ship comes under fire",
+    "excerpt": "The IRGC says the aggression came in response to what it described as the US&#039;s capture of an Iranian commercial vessel.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-22T12:48:38.378897+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/22/iranian-gunboat-fires-on-container-ship-off-oman-coast?traffic_source=rss"
+  },
+  {
     "id": "7ebe95237372",
     "source": "Al Jazeera",
     "date": "2026-04-22T09:32",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-14T06:10:54.220342+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/anti-war-protesters-arrested-in-new-york-urging-end-to-israel-weapon-sales?traffic_source=rss"
-  },
-  {
-    "id": "5e51bd37cb5e",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T00:00",
-    "headline": "Iran war live: Trump says Tehran wants deal amid US blockade in Hormuz",
-    "excerpt": "Iran accuses US of committing piracy as thousands rally in Tehran against the blockade in the Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-14T06:10:54.220376+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "bd469f5f3559",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T22:46",
-    "headline": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
-    "excerpt": "Naim Qassem says planned talks in Washington, DC, are a ploy to pressure Hezbollah into laying down its weapons.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-14T06:10:54.220412+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss"
-  },
-  {
-    "id": "db1334b26755",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T22:33",
-    "headline": "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
-    "excerpt": "UN Secretary-General is calling on ‘all parties’ to respect freedom of navigation in the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-14T06:10:54.220462+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/un-urges-all-parties-to-respect-navigation-in-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "ee788843437f",
-    "source": "Al Jazeera",
-    "date": "2026-04-13T22:17",
-    "headline": "Energy prices rise despite Jones Act suspension by Trump",
-    "excerpt": "Shipping costs have increased by more than 10 percent in the past month due to the US-Israel war on Iran.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-14T06:10:54.220489+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss"
   }
 ]
