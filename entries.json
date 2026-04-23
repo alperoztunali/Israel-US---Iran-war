@@ -1,5 +1,38 @@
 [
   {
+    "id": "0bb2ae868185",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T19:08",
+    "headline": "How Trump’s Iran war is driving military dissent",
+    "excerpt": "From protests to quiet resistance, dissent is rising inside the United States military over the US-Israel war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-23T19:42:04.693949+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss"
+  },
+  {
+    "id": "bf29dbb041e2",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T18:09",
+    "headline": "Mixed views in Lebanon ahead of controversial talks with Israel",
+    "excerpt": "Lebanon remains divided over the best way to end the conflict with Israel, with some backing Hezbollah&#039;s armed response.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-23T19:42:04.693992+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/23/mixed-views-in-lebanon-ahead-of-controversial-talks-with-israel?traffic_source=rss"
+  },
+  {
+    "id": "35fa39c67286",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T17:34",
+    "headline": "Italy slams Trump envoy proposal of taking Iran’s place in World Cup 2026",
+    "excerpt": "Italy officials slam suggestion that national football team should replace Iran at World Cup; fans also underwhelmed.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-23T19:42:04.694034+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/23/italy-officials-say-replacing-iran-at-world-cup-2026-would-be-shameful?traffic_source=rss"
+  },
+  {
     "id": "9feb893ca0c0",
     "source": "Al Jazeera",
     "date": "2026-04-23T17:45",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-15T14:56:38.332230+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/15/us-iran-talks-whats-the-latest-on-mediation-efforts?traffic_source=rss"
-  },
-  {
-    "id": "ba9a9c544ec0",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T13:48",
-    "headline": "What people in Lebanon are saying about talks with Israel",
-    "excerpt": "This is how people in Lebanon are reacting to the country’s first direct talks with Israel in decades.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-15T14:56:38.332264+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-people-in-lebanon-are-saying-about-talks-with-israel?traffic_source=rss"
-  },
-  {
-    "id": "747b5eee6e44",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T13:40",
-    "headline": "What are Iran’s $100bn in frozen assets and where are they held?",
-    "excerpt": "Iran wants the US to release its frozen assets as part of talks. The money could help it rebuild its battered economy.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-15T14:56:38.332298+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/15/what-are-irans-100bn-in-frozen-assets-and-where-are-they-held?traffic_source=rss"
-  },
-  {
-    "id": "cda775af72ea",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T12:40",
-    "headline": "As world focuses on Iran, Israel ‘engineering starvation policy’ in Gaza",
-    "excerpt": "The weaponisation of logistics has caused severe shortage of fuel, food and medicines piling misery on Palestinians.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-15T14:56:38.332341+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/15/as-world-focuses-on-iran-israel-engineering-starvation-policy-in-gaza?traffic_source=rss"
   }
 ]
