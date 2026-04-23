@@ -1,5 +1,16 @@
 [
   {
+    "id": "09ef752398f3",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T04:53",
+    "headline": "Protesters stabbed at London rally against war on Iran",
+    "excerpt": "Videos show multiple individuals with what appear to be knife wounds, who were taking part in a protest in London.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-23T06:10:05.085348+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protesters-stabbed-at-london-rally-against-war-on-iran?traffic_source=rss"
+  },
+  {
     "id": "16f227889596",
     "source": "Al Jazeera",
     "date": "2026-04-23T03:27",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-14T22:32:51.777831+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/how-us-blockade-on-iran-will-worsen-energy-crisis?traffic_source=rss"
-  },
-  {
-    "id": "c38c25fddc59",
-    "source": "PressTV",
-    "date": "2026-04-14T22:32",
-    "headline": "Ships leave Iranian ports in Persian Gulf despite US ‘naval blockade’: Data",
-    "excerpt": "At least two ships sailing from Iranian ports crossed the Strait of Hormuz despite a blockade threat by the US military, maritime tracking reports have indicated.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-14T22:32:53.562094+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/14/766870/Ships-leave-Iranian-ports-in-Persian-Gulf-despite-US-blockade-Data"
   }
 ]
