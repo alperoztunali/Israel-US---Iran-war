@@ -1,5 +1,82 @@
 [
   {
+    "id": "c502ecb66827",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T11:08",
+    "headline": "Iran war: How big is the global energy shock?",
+    "excerpt": "More than 500 million barrels of oil disrupted in just weeks, reshaping global energy flows.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-23T11:18:46.018197+00:00",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/23/iran-war-how-big-is-the-global-energy-shock?traffic_source=rss"
+  },
+  {
+    "id": "81384622e45c",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T10:59",
+    "headline": "Africa’s abandoned workers in Lebanon",
+    "excerpt": "African migrant workers in Lebanon are caught in a war.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-04-23T11:18:46.018244+00:00",
+    "link": "https://www.aljazeera.com/video/africa-now/2026/4/23/africas-abandoned-workers-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "030449274012",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T10:29",
+    "headline": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
+    "excerpt": "The German airline says 20,000 short-haul flights would be removed from its ⁠schedule between now and October.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-23T11:18:46.018272+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss"
+  },
+  {
+    "id": "2ebc2ac70ecb",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T10:02",
+    "headline": "What we know about Israel killing Lebanese journalist Amal Khalil",
+    "excerpt": "Khalil was killed and her colleague injured in what Lebanese officials are calling a &#039;double-tap&#039; strike by Israel.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-23T11:18:46.018298+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss"
+  },
+  {
+    "id": "5e8b07391efa",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T09:59",
+    "headline": "Israeli forces levelling Lebanese villages behind ‘yellow line’",
+    "excerpt": "Israeli forces levelling Lebanese villages behind ‘yellow line’",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-04-23T11:18:46.018329+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-forces-levelling-lebanese-villages-behind-yellow?traffic_source=rss"
+  },
+  {
+    "id": "3fde49d82f8d",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T09:49",
+    "headline": "Who is John Phelan, the US Navy Secretary fired by Pete Hegseth?",
+    "excerpt": "Phelan&#039;s firing reveals turbulence in US military leadership amid the ongoing US-Israeli war with Iran.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-23T11:18:46.018385+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/23/who-is-john-phelan-the-us-navy-secretary-fired-by-pete-hegseth?traffic_source=rss"
+  },
+  {
+    "id": "9eb2fe202fef",
+    "source": "PressTV",
+    "date": "2026-04-23T11:18",
+    "headline": "IRGC speedboats, UUVs waiting for intruding US vessels: Judiciary chief",
+    "excerpt": "Iran’s Judiciary chief says the IRGC speedboats and Unmanned Underwater Vehicles are waiting for intruding US vessels to fully destroy them.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-23T11:18:48.142251+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/23/767409/IRGC-speedboats,-UUVs-waiting-for-intruding-US-vessels--Judiciary-chief-"
+  },
+  {
     "id": "b9b199b9bb8b",
     "source": "Al Jazeera",
     "date": "2026-04-23T09:49",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-15T10:43:28.605015+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/15/iran-war-what-is-happening-on-day-47-of-the-us-iran-conflict?traffic_source=rss"
-  },
-  {
-    "id": "8a8d1510724e",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T07:05",
-    "headline": "Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran",
-    "excerpt": "The US president says he is &#039;shocked at her&#039;, delivering a blunt public rebuke to one of his closest European allies.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-15T10:43:28.605053+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/15/trump-turns-on-meloni-saying-she-lacks-courage-over-us-israel-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "cf7edbddcff7",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T06:37",
-    "headline": "China’s Xi meets Russian FM Lavrov, calls relations with Moscow ‘precious’",
-    "excerpt": "Russian Foreign Minister Sergey Lavrov met with top Chinese leadership to discuss the Iran war and other concerns.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-15T10:43:28.605083+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/15/chinas-xi-meets-russian-fm-lavrov-calls-relations-with-moscow-precious?traffic_source=rss"
-  },
-  {
-    "id": "605356c73e55",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T06:28",
-    "headline": "Iran says $270bn war loss must be compensated, as fresh talks with US loom",
-    "excerpt": "Iran demands compensation for war damages caused by US and Israeli attacks on critical infrastructure.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-15T10:43:28.605109+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/15/iran-says-270bn-war-loss-must-be-compensated-as-fresh-talks-with-us-loom?traffic_source=rss"
-  },
-  {
-    "id": "228f26611836",
-    "source": "PressTV",
-    "date": "2026-04-15T10:43",
-    "headline": "US Navy confirms 'mishap' to $250 million spy drone downed by Iran",
-    "excerpt": "The US Navy confirms that an MQ-4C Triton surveillance drone crashed on April 9 while operating in the Persian Gulf.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-15T10:43:30.086951+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/15/766907/US-Navy-confirms-crash-MQ-4C-Triton-surveillance-drone-West-Asia"
-  },
-  {
-    "id": "ddec10ad1fdd",
-    "source": "PressTV",
-    "date": "2026-04-15T10:43",
-    "headline": "Russia backs Iran’s ‘inalienable right’ to uranium enrichment: Lavrov",
-    "excerpt": "Lavrov defends Iran’s inalienable right to enrich uranium for peaceful purposes, saying Russia accepts any decision that suits the Iranian side.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-15T10:43:30.086998+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/15/766910/Russia-backs-Iran-inalienable-right-uranium-enrichment-Lavrov"
-  },
-  {
-    "id": "e9b6a8e26b78",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T05:17",
-    "headline": "US military says blockade of Iran ports ‘completely’ halts economic trade",
-    "excerpt": "US Central Command say more than 10,000 armed forces members, as well as warships and planes, are involved in blockade.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-15T06:10:55.463282+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade?traffic_source=rss"
-  },
-  {
-    "id": "ee30030a2106",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T02:54",
-    "headline": "US forces kill 4 people in latest strike on vessels in eastern Pacific",
-    "excerpt": "The killings mark the fourth US deadly strike in the past four days on vessels in the eastern Pacific Ocean.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-15T06:10:55.463326+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/15/us-forces-kill-4-people-in-latest-strike-on-vessels-in-eastern-pacific?traffic_source=rss"
   }
 ]
