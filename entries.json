@@ -1,5 +1,38 @@
 [
   {
+    "id": "9feb893ca0c0",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T17:45",
+    "headline": "Israeli forces kill Palestinian teenager in occupied West Bank raid",
+    "excerpt": "Teenager dies in hospital after Israeli forces shot him with live ammunition in the shoulder, Palestinian media reports.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-04-23T18:09:07.468517+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/23/israeli-forces-kill-palestinian-teenager-in-occupied-west-bank-raid?traffic_source=rss"
+  },
+  {
+    "id": "b4ed9f22c0dd",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T17:35",
+    "headline": "Decapitating cartels? Mexico leans into ‘kingpin strategy’ but at a cost",
+    "excerpt": "Under pressure from the US, President Claudia Sheinbaum has authorised military operations to arrest cartel leaders.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-23T18:09:07.468579+00:00",
+    "link": "https://www.aljazeera.com/features/longform/2026/4/23/decapitating-cartels-mexico-leans-into-kingpin-strategy-but-at-a-cost?traffic_source=rss"
+  },
+  {
+    "id": "4af0b61ec4bb",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T17:34",
+    "headline": "World Cup 2026: Italy government officials slam idea of taking Iran’s place",
+    "excerpt": "Italy officials slam suggestion that national football team should replace Iran at World Cup; fans also underwhelmed.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-23T18:09:07.468622+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/23/italy-officials-say-replacing-iran-at-world-cup-2026-would-be-shameful?traffic_source=rss"
+  },
+  {
     "id": "e53335482c7f",
     "source": "Al Jazeera",
     "date": "2026-04-23T16:00",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-15T14:56:38.332341+00:00",
     "link": "https://www.aljazeera.com/economy/2026/4/15/as-world-focuses-on-iran-israel-engineering-starvation-policy-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "ad525301f33b",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T12:19",
-    "headline": "Four people killed in Turkiye’s second school shooting in two days",
-    "excerpt": "Three students and a teacher are killed in the south-central province of ​Kahramanmaras, governor says.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-15T14:56:38.332375+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/15/four-killed-in-turkiyes-second-school-shooting-in-two-days?traffic_source=rss"
-  },
-  {
-    "id": "44fce9b51bc0",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T12:01",
-    "headline": "Asian Cup 2027 draw in Saudi Arabia moved to May 9 over Iran war",
-    "excerpt": "Draw for the 24-team 2027 AFC Asian Cup, originally set for Saturday, moved to May 9.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-15T14:56:38.332414+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/15/saudi-arabia-hosted-asian-cup-draw-rescheduled-due-to-us-israel-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "1a9397098d7a",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T11:52",
-    "headline": "Anger in Lebanon as Israel launches deadly strikes despite diplomatic drive",
-    "excerpt": "Hezbollah lawmaker Hassan Fadlallah says negotiating &#039;with the enemy is wrong&#039;, warns of &#039;internal division&#039;.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-15T14:56:38.332438+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/15/anger-in-lebanon-as-israel-launches-deadly-strikes-despite-diplomatic-drive?traffic_source=rss"
   }
 ]
