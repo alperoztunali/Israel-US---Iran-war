@@ -1,5 +1,60 @@
 [
   {
+    "id": "9eadb641d756",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T14:07",
+    "headline": "How Iran war has triggered soaring cost of medicines",
+    "excerpt": "Pharmacists in some countries have seen the cost of painkillers more than quadruple.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-23T14:58:16.458238+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/23/how-iran-war-has-triggered-soaring-cost-of-medicines-condoms?traffic_source=rss"
+  },
+  {
+    "id": "ce03936ab230",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T13:26",
+    "headline": "How Lebanese journalist Amal Khalil was pursued and killed by Israel",
+    "excerpt": "Details of how Lebanese journalist Amal Khalil was “pursued” and killed by Israeli forces have been released.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-23T14:58:16.458282+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/how-lebanese-journalist-amal-khalil-was-pursued-and-killed-by-israel?traffic_source=rss"
+  },
+  {
+    "id": "6a299067e14b",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T13:12",
+    "headline": "‘Solutions, not slogans’: Gaza holds first election in 21 years",
+    "excerpt": "Deir el-Balah holds Gaza&#039;s first local election in 21 years amid war ruins, with residents demanding real solutions.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-23T14:58:16.458326+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/23/solutions-not-slogans-gaza-holds-first-election-in-21-years?traffic_source=rss"
+  },
+  {
+    "id": "692460d76521",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T13:08",
+    "headline": "Makan Nasiri, the only child still missing from the school bombed in Iran",
+    "excerpt": "After nearly seven weeks of searching for remains, authorities tell the seven-year-old&#039;s parents his case is closed.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-23T14:58:16.458350+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/23/makan-nasiri-the-only-missing-child-from-the-school-bombed-in-irans-minab?traffic_source=rss"
+  },
+  {
+    "id": "8ff9accfeb2f",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T13:00",
+    "headline": "Infiltration from Within: Israelis recruited to spy for enemy countries",
+    "excerpt": "Israel’s intelligence exposed - spies, moles and blind spots from early betrayals to October 7 and the war with Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-23T14:58:16.458388+00:00",
+    "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/4/23/infiltration-from-within-israelis-recruited-to-spy-for-enemy-countries?traffic_source=rss"
+  },
+  {
     "id": "a931109f7711",
     "source": "Al Jazeera",
     "date": "2026-04-23T12:32",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-15T14:57:10.107959+00:00",
     "link": "https://presstv.ir/Detail/2026/04/15/766923/Iran-s-top-general-warns-US-over-illegal-naval-blockage-in-Persian-Gulf-"
-  },
-  {
-    "id": "67eb6f20dc75",
-    "source": "PressTV",
-    "date": "2026-04-15T14:57",
-    "headline": "Over 180 Iranian students, professors martyred in US-Israeli war of terror",
-    "excerpt": "Iran’s Minister of Science, Research, and Technology Hossein Simaei has confirmed that over 60 university students and 10 professors have been martyred in the recent US-Israeli aggression.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-15T14:57:10.107987+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/15/766914/Iran--60-university-students,-10-professors-killed-during-US-Israeli-aggression"
-  },
-  {
-    "id": "c96af58fafaf",
-    "source": "PressTV",
-    "date": "2026-04-15T14:57",
-    "headline": "Hundreds of Turkish citizens in 500-vehicle convoy head to Iran border",
-    "excerpt": "A convoy of hundreds of Turkish citizens in more than 500 vehicles has travelled to the Gurbulak border crossing with Iran in a show of solidarity with the Iranian people, as activists called for the formation of a \"resistance media\" stretching from Turkey to Iran.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-04-15T14:57:10.108012+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/15/766891/Hundreds-of-Turkish-citizens-in-500-vehicle-convoy-head-to-Iran-border"
-  },
-  {
-    "id": "5cdc5f190983",
-    "source": "PressTV",
-    "date": "2026-04-15T14:57",
-    "headline": "Iran to host Pakistani delegation as exchanges continue with US",
-    "excerpt": "Iran will be hosting a high-ranking political and security delegation from Pakistan on Wednesday, as indirect exchanges of messages between Tehran and Washington continue, the Iranian Foreign Ministry spokesman announced.",
-    "category": "Statement",
-    "location": "Tehran",
-    "addedAt": "2026-04-15T14:57:10.108042+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/15/766932/Iran-says-to-host-Pakistani-delegation-as-exchanges-continue-with-US"
-  },
-  {
-    "id": "fe89e2f7e56e",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T10:11",
-    "headline": "Italy suspends long-standing defence agreement with Israel",
-    "excerpt": "Italy suspended the renewal of a 20-year-long defence agreement with Israel, following recent tensions between them.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-15T10:43:28.604689+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/italy-suspends-long-standing-defence-agreement-with-israel?traffic_source=rss"
-  },
-  {
-    "id": "a03b39726b68",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T10:10",
-    "headline": "What you need to know about Israel’s ambassador to the US",
-    "excerpt": "Israel’s ambassador held talks with his Lebanese counterpart. But critics say Yechiel Leiter is a problematic negotiator",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-15T10:43:28.604741+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-you-need-to-know-about-israels-ambassador-to-the-us?traffic_source=rss"
   }
 ]
