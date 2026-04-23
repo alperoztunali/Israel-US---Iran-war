@@ -1,5 +1,60 @@
 [
   {
+    "id": "b9b199b9bb8b",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T09:49",
+    "headline": "Who is John Phelan the US Navy Secretary fired by Pete Hegseth?",
+    "excerpt": "Phelan&#039;s firing reveals turbulence in US military leadership amid the ongoing US-Israeli war with Iran.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-23T09:58:48.800410+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/23/who-is-john-phelan-the-us-navy-secretary-fired-by-pete-hegseth?traffic_source=rss"
+  },
+  {
+    "id": "047b279a7f3d",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T09:34",
+    "headline": "India to Iran: How two wars shaped the rise of Pakistan’s Asim Munir",
+    "excerpt": "The war against India a year ago led to Munir&#039;s elevation to the status of field marshal. Now he&#039;s playing peacemaker.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-23T09:58:48.800465+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/23/india-to-iran-how-two-wars-shaped-the-rise-of-pakistans-asim-munir?traffic_source=rss"
+  },
+  {
+    "id": "f1f94bac1ab0",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T09:07",
+    "headline": "Gaza’s second front: The battle against disease-carrying rats",
+    "excerpt": "Palestinian families in Gaza endure daily terror from rats in unsanitary camps, but help is hard to come by.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-23T09:58:48.800507+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss"
+  },
+  {
+    "id": "b0198169a19a",
+    "source": "PressTV",
+    "date": "2026-04-23T09:58",
+    "headline": "‘State terrorism’: Iran slams US-Israeli attacks on civilian space infrastructure",
+    "excerpt": "Iran’s UN ambassador says US-Israeli attacks on the country’s civilian space and communications infrastructure during the imposed war are tantamount to “acts of state terrorism.”",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-23T09:58:50.824844+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/23/767399/%E2%80%98State-terrorism%E2%80%99--Iran-slams-US-Israeli-attacks-on-civilian-space-infrastructure"
+  },
+  {
+    "id": "3a25ffe76997",
+    "source": "PressTV",
+    "date": "2026-04-23T09:58",
+    "headline": "Three children among fatalities in fresh Israeli strike on northern Gaza",
+    "excerpt": "At least five people, including three children, have been martyred in a fresh airstrike against the northern part of the war-battered Gaza Strip. ‎",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-23T09:58:50.824875+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/23/767390/Three-children-among-fatalities-in-fresh-Israeli-strike-on-northern-Gaza"
+  },
+  {
     "id": "8b5955b2f40f",
     "source": "Al Jazeera",
     "date": "2026-04-23T07:53",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-15T06:10:55.463326+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/15/us-forces-kill-4-people-in-latest-strike-on-vessels-in-eastern-pacific?traffic_source=rss"
-  },
-  {
-    "id": "24421ae85ff3",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T01:47",
-    "headline": "Israel and Lebanon hold direct talks for first time in decades",
-    "excerpt": "After the first direct talks in decades, Israel and Lebanon have agreed to begin negotiations.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-15T06:10:55.463360+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-and-lebanon-hold-direct-talks-for-first-time-in-decades?traffic_source=rss"
-  },
-  {
-    "id": "68a7c7329593",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T01:16",
-    "headline": "Israeli attacks kill 11, including two children, in day of strikes on Gaza",
-    "excerpt": "A three-year-old and a 14-year-old were among those killed in Israel&#039;s latest strikes on northern Gaza.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-15T06:10:55.463387+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "711fc85abaf5",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T00:11",
-    "headline": "Haiti’s Culture Ministry fires workers over citadel stampede that killed 25",
-    "excerpt": "At least nine people have been arrested following the stampede, including police officers and ministry employees.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-15T06:10:55.463422+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/15/haitis-culture-ministry-fires-workers-over-citadel-stampede-that-killed-25?traffic_source=rss"
-  },
-  {
-    "id": "d5cb43fb1951",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T00:00",
-    "headline": "Iran war live: Trump says war ‘close to over’ as Hormuz blockade continues",
-    "excerpt": "US president says second round of talks could be held in Pakistan as naval blockade of Iranian ports continues.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-15T06:10:55.463455+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "3c650f848c05",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T23:47",
-    "headline": "Delcy Rodriguez calls for a ‘Venezuela free of sanctions’ amid US detente",
-    "excerpt": "Venezuelan president says limited sanctions relief has not been enough to stabilise the country&#039;s turbulent economy.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-04-15T06:10:55.463497+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/delcy-rodriguez-calls-for-a-venezuela-free-of-sanctions-amid-us-detente?traffic_source=rss"
   }
 ]
