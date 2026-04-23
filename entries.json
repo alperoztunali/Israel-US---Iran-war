@@ -1,5 +1,60 @@
 [
   {
+    "id": "e53335482c7f",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T16:00",
+    "headline": "US-Israeli war on Iran will push 30 million back into poverty, UN warns",
+    "excerpt": "Disruption to fuel and fertiliser supplies due to the Strait of Hormuz closure will hit crop yields, UNDP chief warns.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-23T16:49:17.010460+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/23/us-israeli-war-on-iran-will-push-30-million-back-into-poverty-un-warns?traffic_source=rss"
+  },
+  {
+    "id": "bc2f99aec4a9",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T15:53",
+    "headline": "Journalist recalls Israeli strike killing Amal Khalil in southern Lebanon",
+    "excerpt": "Journalist Zainab Faraj recalled the final moments of fellow journalist Amal Khalil.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-04-23T16:49:17.010507+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/journalist-recalls-israeli-strike-killing-amal-khalil-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "9d7b0171b0de",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T15:16",
+    "headline": "US military board, seize another ship in international waters",
+    "excerpt": "The Pentagon has released video of US soldiers descending from helicopters to board and seize another ship.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-04-23T16:49:17.010540+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/us-military-board-seize-another-ship-in-international-waters?traffic_source=rss"
+  },
+  {
+    "id": "7fffb62633c4",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T15:03",
+    "headline": "Lebanon Latest: Israel attacks kill journalist and target first responders",
+    "excerpt": "A fragile ceasefire holds as Israeli strikes kill a journalist and target first responders in Lebanon.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-23T16:49:17.010569+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/aje-onl-aje_onl_lebanon_wrap-230426?traffic_source=rss"
+  },
+  {
+    "id": "78766d1cf51b",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T14:58",
+    "headline": "US to ‘shoot and kill’ Iranian boats laying mines in Hormuz, Trump says",
+    "excerpt": "US says it intercepted another tanker carrying Iranian oil as Trump underscores alleged infighting within Iran&#039;s leadership.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-23T16:49:17.010595+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/23/us-to-shoot-and-kill-iranian-boats-laying-mines-in-hormuz-trump-says?traffic_source=rss"
+  },
+  {
     "id": "9eadb641d756",
     "source": "Al Jazeera",
     "date": "2026-04-23T14:07",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-15T14:56:38.332438+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/15/anger-in-lebanon-as-israel-launches-deadly-strikes-despite-diplomatic-drive?traffic_source=rss"
-  },
-  {
-    "id": "a5fb50c369fa",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T11:40",
-    "headline": "Double standards? Why Iran’s nukes are scrutinised, Israel gets a pass",
-    "excerpt": "Israel’s policy of ambiguity about its nuclear capability contrasts sharply with the focus on Iran’s programme.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-15T14:56:38.332473+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/15/double-standards-why-irans-nukes-are-scrutinised-israel-gets-a-pass?traffic_source=rss"
-  },
-  {
-    "id": "2a854939b425",
-    "source": "PressTV",
-    "date": "2026-04-15T14:57",
-    "headline": "Pakistan’s Army chief Asim Munir arrives in Tehran to deliver US message",
-    "excerpt": "Pakistan’s Army chief Field Marshal Asim Munir has arrived in Tehran at the head of a high-level political-security delegation, carrying a new message from the United States as diplomatic efforts to extend a fragile ceasefire between Iran and America gain momentum.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-15T14:57:10.107860+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/15/766938/Pakistan%E2%80%99s-Army-chief-Asim-Munir-arrives-in-Tehran-to-deliver-US-message"
-  },
-  {
-    "id": "389b0156b4d8",
-    "source": "PressTV",
-    "date": "2026-04-15T14:57",
-    "headline": "No power can force Iranian nation into submission: Pezeshkian",
-    "excerpt": "The Iranian president says no power can force the Iranian nation into surrender, slamming double standards in international policies.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-15T14:57:10.107895+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/15/766917/No-power-can-force-Iranian-nation-into-submission--Pezeshkian"
-  },
-  {
-    "id": "ef8f8864ed06",
-    "source": "PressTV",
-    "date": "2026-04-15T14:57",
-    "headline": "Erdogan: Israel must not be allowed to sabotage US-Iran ceasefire",
-    "excerpt": "The Turkish president says his government is making the “necessary appeals and initiatives” to extend the ceasefire.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-15T14:57:10.107926+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/15/766933/Turkey%E2%80%99s-Erdogan--Israel-must-not-be-allowed-to-sabotage-US-Iran-ceasefire"
-  },
-  {
-    "id": "d880b6031fe5",
-    "source": "PressTV",
-    "date": "2026-04-15T14:57",
-    "headline": "Iran's top general warns US over illegal blockade in Persian Gulf",
-    "excerpt": "Iran's top military commander, Major General Ali Abdollahi, has issued a stern warning to the United States, stating that any attempt to block maritime trade in the Persian Gulf or Sea of Oman would be met with decisive action.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-15T14:57:10.107959+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/15/766923/Iran-s-top-general-warns-US-over-illegal-naval-blockage-in-Persian-Gulf-"
   }
 ]
