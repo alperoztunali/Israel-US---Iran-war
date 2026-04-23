@@ -1,5 +1,115 @@
 [
   {
+    "id": "16f227889596",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T03:27",
+    "headline": "Israel kills journalist and wounds another in south Lebanon targeted attack",
+    "excerpt": "Israel has killed journalist Amal Khalil and injured Zeinab Faraj in a ‘double-tap’ attack in southern Lebanon.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-23T03:48:06.666892+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss"
+  },
+  {
+    "id": "d7ee19e395ba",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T02:02",
+    "headline": "Ultra-Orthodox Jews burn Israeli flags to protest national day",
+    "excerpt": "Ultra-Orthodox Jewish protesters have burned Israeli flags and brandished anti-Zionist banners in West Jerusalem.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-23T03:48:06.666963+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss"
+  },
+  {
+    "id": "97d5be0a7fa9",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T00:40",
+    "headline": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
+    "excerpt": "Iran’s revolutionary guard has released a video said to show its forces seizing a ship in the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-23T03:48:06.667001+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "5c4f4b96b781",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T00:00",
+    "headline": "Iran war live: Israel kills Lebanese journalist; Tehran-US talks stalled",
+    "excerpt": "Israeli attacks on Lebanon killed at least five people on Wednesday, including Lebanese journalist Amal Khalil.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-04-23T03:48:06.667027+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss"
+  },
+  {
+    "id": "e090ba120858",
+    "source": "Arab News",
+    "date": "2026-03-25T02:03",
+    "headline": "EMEA ports have rating headroom to weather Hormuz closure: Fitch",
+    "excerpt": "RIYADH: Ports across Europe, the Middle East and Africa are broadly well-positioned to absorb the economic shock of a prolonged Iran conflict and a potential closure of the Strait of Hormuz, with most maintaining sufficient rating headroom, Fitch Ratings said.\n\n\tDespite the war significantly disrupt",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-23T03:48:11.757934+00:00",
+    "link": "https://www.arabnews.com/node/2637608/business-economy"
+  },
+  {
+    "id": "0f66a8e7000d",
+    "source": "Arab News",
+    "date": "2026-03-25T01:03",
+    "headline": "Russia says it shot down almost 400 Ukrainian drones as Moscow and Kyiv escalate aerial barrages",
+    "excerpt": "Russian air defenses downed 389 incoming Ukrainian drones, Russia’s Defense Ministry said Wednesday, in what was the largest reported overnight attack on Russian regions and Crimea since Moscow’s forces invaded Ukraine more than four years ago.\n\tThe drones were stopped over 13 Russian regions as wel",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-04-23T03:48:11.757996+00:00",
+    "link": "https://www.arabnews.com/node/2637605/world"
+  },
+  {
+    "id": "5cc15304871d",
+    "source": "Arab News",
+    "date": "2026-03-25T12:03",
+    "headline": "PIF’s Folk Maritime redirects its routes to Red Sea to keep pace with shipping shifts",
+    "excerpt": "RIYADH: Amid the rapid shifts in regional maritime transport and the increasing rerouting of shipping away from the Arabian Gulf, Red Sea ports, particularly Jeddah Port, are emerging as key hubs for accommodating container traffic and enhancing the stability of supply chains in the region.",
+    "category": "Naval",
+    "location": "Red Sea",
+    "addedAt": "2026-04-23T03:48:11.758044+00:00",
+    "link": "https://www.arabnews.com/node/2637602/business-economy"
+  },
+  {
+    "id": "bf81115b8f0e",
+    "source": "Arab News",
+    "date": "2026-03-25T12:03",
+    "headline": "Egypt targeting 5.4% GDP growth in 2026/27 budget",
+    "excerpt": "RIYADH: Egypt is targeting gross domestic product growth of 5.4 percent, inflation stabilization, and a primary surplus of 1.2 trillion Egyptian pounds ($22.7 billion) during the 2026/27 fiscal year, a top official revealed.",
+    "category": "Other",
+    "location": "Egypt",
+    "addedAt": "2026-04-23T03:48:11.758090+00:00",
+    "link": "https://www.arabnews.com/node/2637598/business-economy"
+  },
+  {
+    "id": "4f55eca152c2",
+    "source": "Arab News",
+    "date": "2026-03-25T12:03",
+    "headline": "Deadliest year ever for Red Sea migrants with 922 deaths: UN",
+    "excerpt": "ADDIS ABABA: The number of migrants who died on the “Eastern Route” from the Horn of Africa to the Arabian Peninsula doubled to a record high of 922 last year, the UN migration agency said Wednesday.\n\tTens of thousands of migrants from Ethiopia, Somalia and neighboring countries take the route acros",
+    "category": "Casualties",
+    "location": "Red Sea",
+    "addedAt": "2026-04-23T03:48:11.758129+00:00",
+    "link": "https://www.arabnews.com/node/2637597/world"
+  },
+  {
+    "id": "80ac0bc5582c",
+    "source": "Arab News",
+    "date": "2026-03-25T12:03",
+    "headline": "Fashion insiders Amina Muaddi, Loli Bahia celebrate Courreges designer",
+    "excerpt": "DUBAI: After five years as Courreges’ artistic director, Nicolas Di Felice is stepping away from the brand as fashion insiders across the world take to social media to celebrate the Belgian designer.\n\n\tFrench Algerian model Loli Bahia and Jordanian Romanian shoe designer Amina Muaddi were among thos",
+    "category": "Other",
+    "location": "Jordan",
+    "addedAt": "2026-04-23T03:48:11.758177+00:00",
+    "link": "https://www.arabnews.com/node/2637594/lifestyle"
+  },
+  {
     "id": "39e35f195fd0",
     "source": "Al Jazeera",
     "date": "2026-04-22T22:44",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-14T22:32:53.562094+00:00",
     "link": "https://presstv.ir/Detail/2026/04/14/766870/Ships-leave-Iranian-ports-in-Persian-Gulf-despite-US-blockade-Data"
-  },
-  {
-    "id": "5949637a1049",
-    "source": "PressTV",
-    "date": "2026-04-14T22:32",
-    "headline": "Iran reiterates firm support for Lebanese resistance; Turkey warns of Israel's regional schemes",
-    "excerpt": "Foreign Minister Abbas Araghchi reiterates Iran's firm support for legitimate resistance in Lebanon in the face of Israeli aggression and occupation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-14T22:32:53.562136+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/14/766884/Iran-Israel-Lebanon-Turkey-Araghchi-Fidan"
-  },
-  {
-    "id": "0145f539531b",
-    "source": "PressTV",
-    "date": "2026-04-14T22:32",
-    "headline": "FM: Cessation of war depends on US's commitment to halting aggression, reining in Israel",
-    "excerpt": "Foreign Minister Abbas Araghchi says ultimate cessation of the cycle of unprovoked aggression targeting Iran and the Islamic Republic's due retaliation hinges on the US's commitment.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-14T22:32:53.562167+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/14/766882/Iran-war-United-States-Araghchi-Spain-Albarez"
-  },
-  {
-    "id": "b1efd1836150",
-    "source": "PressTV",
-    "date": "2026-04-14T22:32",
-    "headline": "Iran seeking nukes ‘big lie’ that never changes reality: UN mission",
-    "excerpt": "Iran’s UN mission in Vienna says that claims about the country seeking a nuclear weapon will never change realities on the ground.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-14T22:32:53.562202+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/14/766872/Iran-UN-mission-reaction-claims-nuclear-weapons-US-Israel-"
-  },
-  {
-    "id": "653bdc01a298",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T19:30",
-    "headline": "Why are global views of the US getting worse?",
-    "excerpt": "We discuss the global standing of the US after launching war against Iran and years of worsening views of the nation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-14T19:55:36.405323+00:00",
-    "link": "https://www.aljazeera.com/video/the-stream/2026/4/14/why-are-global-views-of-the-us-getting-worse?traffic_source=rss"
-  },
-  {
-    "id": "b29dd4fc1ce2",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T19:21",
-    "headline": "Pakistan PM headed to Riyadh and Ankara amid prospect of new US-Iran talks",
-    "excerpt": "Sharif pushing for further negotiations. Trump says talks could resume in Pakistan in next two days.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-14T19:55:36.405366+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/pakistan-pm-headed-to-saudi-and-turkiye-amid-prospect-of-new-us-iran-talks?traffic_source=rss"
-  },
-  {
-    "id": "a126c6bf8fcd",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T19:16",
-    "headline": "Israeli strike on Gaza police car kills child",
-    "excerpt": "An Israeli airstrike on a police vehicle in Gaza City killed at least four people, including a three-year-old child.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-04-14T19:55:36.405389+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-strike-on-gaza-police-car-kills-child?traffic_source=rss"
-  },
-  {
-    "id": "f19f384dd02e",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T18:56",
-    "headline": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah",
-    "excerpt": "Israel&#039;s ambassador to the US said Lebanon revealed a mutual desire to be liberated from Hezbollah.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-04-14T19:55:36.405421+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-ambassador-lebanon-wants-to-be-liberated-from-hezbollah?traffic_source=rss"
-  },
-  {
-    "id": "a2575678ac83",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T18:52",
-    "headline": "Aid groups bidding to boost relief shipments into Iran",
-    "excerpt": "Supply of humanitarian aid for people displaced by the conflict has been complicated by air and sea route closures.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-14T19:55:36.405447+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/aid-groups-bidding-to-boost-relief-shipments-into-iran?traffic_source=rss"
-  },
-  {
-    "id": "6d7765282405",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T18:39",
-    "headline": "Over-sold and under-delivered: Israel’s Netanyahu faces ceasefire backlash",
-    "excerpt": "Polls show Israeli public frustration over a showdown that did not fully defeat Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-14T19:55:36.405486+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/over-sold-and-under-delivered-israels-netanyahu-faces-ceasefire-backlash?traffic_source=rss"
-  },
-  {
-    "id": "a2260436a38b",
-    "source": "Al Jazeera",
-    "date": "2026-04-14T18:27",
-    "headline": "Drones, Iran war escalating horror as Sudan war enters fourth year",
-    "excerpt": "UN says hundreds killed by drone strikes over past three months, as medical charity reports two more deaths in Darfur.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-14T19:55:36.405509+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/14/drones-iran-war-escalating-horror-as-sudan-war-enters-fourth-year?traffic_source=rss"
   }
 ]
