@@ -1,5 +1,16 @@
 [
   {
+    "id": "d0622407e47c",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T17:14",
+    "headline": "How Israel targeted and killed Lebanese journalist Amal Khalil",
+    "excerpt": "Amal Khalil was killed while reporting on an Israeli air strike in southern Lebanon during a 10-day ceasefire.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-24T18:03:03.639053+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss"
+  },
+  {
     "id": "98b2a7168ab0",
     "source": "Al Jazeera",
     "date": "2026-04-24T16:52",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-16T16:10:18.351196+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/16/hegseth-says-us-blockade-to-continue-ready-for-new-attacks-on-iran-energy?traffic_source=rss"
-  },
-  {
-    "id": "0c1785052ae4",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T13:26",
-    "headline": "US defence secretary Pete Hegseth attacks press coverage of war on Iran",
-    "excerpt": "US defence secretary Hegseth criticised media coverage of the war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-16T16:10:18.351225+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/us-defence-secretary-pete-hegseth-attacks-press-coverage-of-war-on-iran?traffic_source=rss"
   }
 ]
