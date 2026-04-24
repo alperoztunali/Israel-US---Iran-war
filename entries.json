@@ -1,5 +1,60 @@
 [
   {
+    "id": "87acd4e44dc9",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T11:06",
+    "headline": "US considers suspending Spain from NATO, reported internal email suggests",
+    "excerpt": "Pentagon email obtained by Reuters reveals US anger at Spain and the UK as Iran war tensions persist.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-24T11:35:47.448234+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters?traffic_source=rss"
+  },
+  {
+    "id": "709048b3ac4c",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T10:58",
+    "headline": "Explosions by Israeli forces in south Lebanon despite ceasefire",
+    "excerpt": "Smoke rise above Khiam in southern Lebanon after Israel carries out explosions despite the ceasefire.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-04-24T11:35:47.448276+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/explosions-by-israeli-forces-in-south-lebanon-despite-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "3a3d4151c648",
+    "source": "PressTV",
+    "date": "2026-04-24T11:35",
+    "headline": "‘Fingers on trigger, target bank ready’: Iran warns US of ‘eye for head’ reprisal",
+    "excerpt": "Iranian military officials says that their fingers remain on the trigger with a designated bank of targets, warning the United States of a devastating \"eye for a head\" reprisal if it resumes its military aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-24T11:35:48.712850+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/24/767455/Tehran-warns-US-of-eye-for-head-reprisal"
+  },
+  {
+    "id": "c02e3f488ec5",
+    "source": "PressTV",
+    "date": "2026-04-24T11:35",
+    "headline": "‘Trump will never defeat Iranian nation’: IRGC cmdr. highlights US strategic failure",
+    "excerpt": "A senior IRGC commander says the United States will never defeat the Iranian nation.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-24T11:35:48.712891+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/24/767449/Trump-will-never-defeat-Iranian-nation-IRGC-cmdr"
+  },
+  {
+    "id": "2729876a4997",
+    "source": "PressTV",
+    "date": "2026-04-24T11:35",
+    "headline": "Russian general hails Iran's 'shining' defense against US-Israeli aggression",
+    "excerpt": "The Russian military official says Iran demonstrated a “shining example” of defense during the recent illegal US-Israeli war of aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-24T11:35:48.712927+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/24/767454/Russian-military-official-hails-Iran-shining-defense-during-imposed-war"
+  },
+  {
     "id": "a5d7540d746a",
     "source": "Al Jazeera",
     "date": "2026-04-24T09:27",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-16T05:53:18.020782+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/democrats-clash-with-us-energy-secretary-over-iran-war-and-gas-prices?traffic_source=rss"
-  },
-  {
-    "id": "8d79b2cf21ba",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T02:23",
-    "headline": "Pakistan expecting ‘major breakthrough’ tied to Iran’s nuclear programme",
-    "excerpt": "A source has told Al Jazeera that Pakistan is expecting a breakthrough tied to Iran’s nuclear programme.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-16T05:53:18.020819+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/pakistan-expecting-major-breakthrough-tied-to-irans-nuclear-programme?traffic_source=rss"
-  },
-  {
-    "id": "595c34ad92e6",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T01:54",
-    "headline": "Israeli forces fire stun grenades at journalists in occupied Nablus",
-    "excerpt": "Video shows Israeli forces firing stun grenades towards journalists who were reporting on the army’s raid of Nablus.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-16T05:53:18.020849+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-forces-fire-stun-grenades-at-journalists-in-occupied-nablus?traffic_source=rss"
-  },
-  {
-    "id": "3a50688f9128",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T01:06",
-    "headline": "Russian attacks on Ukraine kill three, including a 12-year-old child",
-    "excerpt": "Kyiv&#039;s mayor says the attacks hit Podilskyi and Obolonskyi districts, causing fires and damage to residential buildings.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-16T05:53:18.020891+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/russian-attack-on-ukraines-kyiv-kills-12-year-old-child-wounds-10?traffic_source=rss"
-  },
-  {
-    "id": "29168fcaa928",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T00:00",
-    "headline": "Iran war live: Pakistan in push for new round of US-Iran peace negotiations",
-    "excerpt": "At least 2,167 people have been killed and more than 7,000 injured in Israeli attacks on Lebanon since March 2.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-16T05:53:18.020914+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/16/iran-war-live-pakistan-in-push-for-new-round-of-us-iran-peace-negotiations?traffic_source=rss"
-  },
-  {
-    "id": "33b8167b7730",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T22:53",
-    "headline": "Israel bombs homes in southern Lebanon",
-    "excerpt": "The Israeli army has bombed buildings in southern Lebanon’s Bint Jbeil district.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-04-16T05:53:18.020943+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss"
   }
 ]
