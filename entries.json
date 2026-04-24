@@ -1,5 +1,16 @@
 [
   {
+    "id": "5b38be471808",
+    "source": "Al Jazeera",
+    "date": "2026-04-23T23:04",
+    "headline": "US soldier charged with using Polymarket to bet on Nicolas Maduro abduction",
+    "excerpt": "The suspect, 38-year-old Gannon Ken Van Dyke, allegedly made $400,000 from insider knowledge of the Venezuela attack.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-24T00:10:44.641923+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/23/us-soldier-charged-with-using-polymarket-to-bet-on-nicolas-maduro-abduction?traffic_source=rss"
+  },
+  {
     "id": "f93f2555fd8c",
     "source": "PressTV",
     "date": "2026-04-23T23:27",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-15T18:53:16.345487+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/15/un-experts-urge-member-states-to-suspend-israel-arms-transfers?traffic_source=rss"
-  },
-  {
-    "id": "e6921cc107ec",
-    "source": "Al Jazeera",
-    "date": "2026-04-15T16:59",
-    "headline": "Is Iran beating the US at its own propaganda game?",
-    "excerpt": "Iran has condemned a ban imposed by YouTube on a pro-Iranian group that releases Lego-style AI videos.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-15T18:53:16.345533+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/is-iran-beating-the-us-at-its-own-propaganda-game?traffic_source=rss"
   }
 ]
