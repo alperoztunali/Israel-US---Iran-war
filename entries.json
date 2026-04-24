@@ -1,5 +1,49 @@
 [
   {
+    "id": "c663f384588a",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T20:54",
+    "headline": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
+    "excerpt": "Iranian Foreign Minister Abbas Araghchi arrives in Islamabad, but Tehran yet to commit to more talks with US delegation.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-24T22:03:42.099596+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss"
+  },
+  {
+    "id": "fe0b8a63b9d9",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T20:53",
+    "headline": "Mass wedding for 300 brides and grooms in central Gaza",
+    "excerpt": "A festive moment in Gaza as a charity-sponsored mass wedding ceremony for 300 brides and grooms in Deir el-Balah.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-24T22:03:42.099642+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss"
+  },
+  {
+    "id": "513833df8a1b",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T20:46",
+    "headline": "Israel continues attacks on Lebanon despite extension of ceasefire",
+    "excerpt": "Israeli forces killed six Hezbollah fighters in an exchange of fire in the area of Bint Jbeil, southern Lebanon.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-24T22:03:42.099665+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "e4faee34765e",
+    "source": "PressTV",
+    "date": "2026-04-24T22:03",
+    "headline": "No talks with US during FM's Islamabad visit, observations to be conveyed to Pakistan: FM spox",
+    "excerpt": "Iran's foreign ministry confirms that no meeting is planned between Iran and the United States in Islamabad during the foreign minister's ongoing visit.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-24T22:03:43.589026+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/24/767483/Iran-US-talks-Islamabad-Araghchi"
+  },
+  {
     "id": "c41509396b8d",
     "source": "PressTV",
     "date": "2026-04-24T21:07",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-16T19:53:26.553000+00:00",
     "link": "https://presstv.ir/Detail/2026/04/16/766988/US,-Israel-will-carry-their-desire-of-bringing-Iranians-to-knees-into-grave--Military-chief"
-  },
-  {
-    "id": "73dd446c4c82",
-    "source": "PressTV",
-    "date": "2026-04-16T19:53",
-    "headline": "Trump siphons $17 billion from Gaza Fund to benefit Israel: Report",
-    "excerpt": "US President Donald Trump reportedly redirects $17 billion earmarked for the Gaza Strip to the Israeli regime.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-16T19:53:26.553026+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/766985/Trump-siphons--17-billion-from-Gaza-Fund-to-benefit-Israel--Report"
-  },
-  {
-    "id": "a58cf3bc26d5",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T15:52",
-    "headline": "Trump says Israel and Lebanon agree to temporary ceasefire",
-    "excerpt": "This is a breaking news story.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-16T16:10:18.350906+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanon-agree-to-temporary-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "78950910736a",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T15:47",
-    "headline": "Israel says it’s West’s defender, but cares little for European critics",
-    "excerpt": "Israel’s widening wars and disregard for its traditional allies are deepening international criticism and isolation.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-16T16:10:18.350962+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/israel-says-its-wests-defender-but-cares-little-for-european-critics?traffic_source=rss"
-  },
-  {
-    "id": "4ef1f6514671",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T15:44",
-    "headline": "Jet fuel shortage: Why Iran war could ground flights in Europe",
-    "excerpt": "Europe&#039;s aviation faces fuel shortages as Hormuz tensions threaten travel at the start of the summer season.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-16T16:10:18.350988+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/jet-fuel-shortage-why-iran-war-could-ground-flights-in-europe?traffic_source=rss"
   }
 ]
