@@ -1,5 +1,49 @@
 [
   {
+    "id": "98b2a7168ab0",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T16:52",
+    "headline": "Russian oil exports slump as Ukraine hammers ports and refineries",
+    "excerpt": "Despite US sanctions waiver, Russian oil exports could fall to lowest levels since 2023, sources say.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-04-24T17:14:14.953429+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss"
+  },
+  {
+    "id": "4baaf443d021",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T16:04",
+    "headline": "US has three aircraft carriers in the Middle East for first time since 2003",
+    "excerpt": "As tensions ramp up amid fragile truce, US military says it &#039;redirected&#039; 34 vessels as part of blockade on Iran&#039;s ports.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-24T17:14:14.953471+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss"
+  },
+  {
+    "id": "9a852609add9",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T15:58",
+    "headline": "PM Sanchez rebuffs US idea of suspending Spain from NATO",
+    "excerpt": "PM Sanchez responded to reports that the US may suspend Madrid from NATO over its opposition to the war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-24T17:14:14.953507+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pm-sanchez-rebuffs-us-idea-of-suspending-spain-from-nato?traffic_source=rss"
+  },
+  {
+    "id": "33cb0450d1b6",
+    "source": "PressTV",
+    "date": "2026-04-24T17:14",
+    "headline": "Sound of the US 'broken bones' will soon echo across the globe: Leader’s advisor",
+    "excerpt": "A senior advisor to the Leader of the Islamic Revolution says Iran stands unified, whereas the United States is plagued by confusion.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-24T17:14:16.524170+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/24/767471/US-sound-breaking-bones-Mohsen-Rezaei"
+  },
+  {
     "id": "0d6b06e4df4d",
     "source": "Al Jazeera",
     "date": "2026-04-24T15:47",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-16T16:10:18.351225+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/us-defence-secretary-pete-hegseth-attacks-press-coverage-of-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "d270cf3f1e6d",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T13:08",
-    "headline": "Pope Leo decries world ruled by ‘tyrants’ after Trump attacks",
-    "excerpt": "Pope, in Cameroon, calls for &#039;decisive change of course&#039; that leads away from conflict and the exploitation of the land.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-16T16:10:18.351266+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/pope-leo-decries-world-ruled-by-tyrants-after-trump-attacks?traffic_source=rss"
-  },
-  {
-    "id": "9b07317c38e6",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T13:05",
-    "headline": "Kyiv hit by deadly missile attack amid shortage of interceptors",
-    "excerpt": "Al Jazeera’s Audrey Macalpine explains how Ukraine’s ballistic missile interceptor shortage left Kyiv exposed to Russia’",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-16T16:10:18.351294+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/kyiv-hit-by-deadly-missile-attack-amid-shortage-of-interceptors?traffic_source=rss"
-  },
-  {
-    "id": "5c4722eeac01",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T12:29",
-    "headline": "Why the Iran war did not go according to US plans",
-    "excerpt": "Washington misread Iran, overestimated its own leverage and found itself trapped in a costly 40-day war of attrition.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-16T16:10:18.351321+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/16/why-the-iran-war-did-not-go-according-to-us-plans?traffic_source=rss"
-  },
-  {
-    "id": "477e67c1274d",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T12:21",
-    "headline": "Israeli strike destroys last working bridge over Lebanon’s Litani River",
-    "excerpt": "An Israeli strike has destroyed the last operational bridge over the Litani River.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-16T16:10:18.351352+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-strike-destroys-last-working-bridge-over-lebanons-litani-river?traffic_source=rss"
   }
 ]
