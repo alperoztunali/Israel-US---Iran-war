@@ -1,5 +1,60 @@
 [
   {
+    "id": "3753a18b859e",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T12:14",
+    "headline": "Syrian authorities arrest main suspect in 2013 Tadamon massacre",
+    "excerpt": "Ex-intelligence officer Amjad Youssef was seen shooting blindfolded civilians in a leaked video.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-04-24T12:45:38.679682+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/24/main-suspect-in-tadamon-massacre-arrested-in-operation?traffic_source=rss"
+  },
+  {
+    "id": "d6f5d83e4029",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T11:53",
+    "headline": "With 3,000 containers stuck in Pakistan, Iran explores more land routes",
+    "excerpt": "Documents seen by Al Jazeera say Iran is seeking land transit for stranded sea cargo to bypass US blockade.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-24T12:45:38.679747+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/24/with-3000-containers-stuck-in-pakistan-iran-explores-more-land-routes?traffic_source=rss"
+  },
+  {
+    "id": "7e042a79aff3",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T11:51",
+    "headline": "Russian troops, warships in India soon? Why their new military pact matters",
+    "excerpt": "In a significant pact, India and Russia agree to the deployment of soldiers and warships on each other&#039;s soil during peace and wartime.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-04-24T12:45:38.679789+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/24/russian-troops-warships-in-india-soon-why-their-new-military-pact-matters?traffic_source=rss"
+  },
+  {
+    "id": "448cb5b0c59c",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T11:26",
+    "headline": "How long can Iran survive the US’s Hormuz blockade?",
+    "excerpt": "And just how long can the US hold out?",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-24T12:45:38.679823+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/24/how-long-can-iran-survive-the-uss-hormuz-blockade?traffic_source=rss"
+  },
+  {
+    "id": "5b02e36ebc31",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T11:20",
+    "headline": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
+    "excerpt": "Thousands of amputees cannot access care and are struggling with basic mobility.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-24T12:45:38.679854+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss"
+  },
+  {
     "id": "87acd4e44dc9",
     "source": "Al Jazeera",
     "date": "2026-04-24T11:06",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-16T10:44:13.957896+00:00",
     "link": "https://presstv.ir/Detail/2026/04/16/766963/Iran-envoy--Criminal-US-Israeli-war-symbol-of-misuse-of-advanced-tech-against-humanity"
-  },
-  {
-    "id": "a6d35e0153d1",
-    "source": "PressTV",
-    "date": "2026-04-16T10:44",
-    "headline": "Iranian launchers ready to sink all US warships: Leader's advisor",
-    "excerpt": "A senior Iranian official says the Armed Forces’ launchers are ready to sink all US warships.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-16T10:44:13.957918+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/766964/Iranian-launchers-ready-to-sink-all-US-warships--Ex-IRGC-chief"
-  },
-  {
-    "id": "89c5feb5b149",
-    "source": "PressTV",
-    "date": "2026-04-16T10:44",
-    "headline": "Israeli destruction of houses in Lebanon consistent with Gaza domicide: UN experts",
-    "excerpt": "UN experts rebuke the blanket Israeli evacuations, and destruction of houses in southern Lebanon as consistent with the regime’s domicide pattern in the Gaza Strip.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-16T10:44:13.957958+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/766965/Israeli-evacuation-orders-housing-destruction-Lebanon-consistent-Gaza-domicide"
-  },
-  {
-    "id": "d4b95ef15e85",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T03:51",
-    "headline": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
-    "excerpt": "US president says leaders of the two countries will speak for the first time in 34 years on Thursday.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-16T05:53:18.020694+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss"
-  },
-  {
-    "id": "2bf1e2c47833",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T03:37",
-    "headline": "Hopes grow for a breakthrough in US-Iran talks as Pakistan mediates",
-    "excerpt": "Pakistani sources say there has been a &#039;major breakthrough&#039; over a deal on Iran’s nuclear programme.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-16T05:53:18.020742+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss"
-  },
-  {
-    "id": "c609f65f0422",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T03:26",
-    "headline": "Democrats clash with US Energy Secretary over Iran war and gas prices",
-    "excerpt": "Watch the moment a Democratic congresswoman tells the US Energy Secretary he is ‘living in a different world’.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-16T05:53:18.020782+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/democrats-clash-with-us-energy-secretary-over-iran-war-and-gas-prices?traffic_source=rss"
   }
 ]
