@@ -1,5 +1,93 @@
 [
   {
+    "id": "7bd4c90b4189",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T13:57",
+    "headline": "‘Silent suffering’: Why children in Gaza are losing their ability to speak",
+    "excerpt": "Estimated 1 million children in Gaza need mental health support, as growing number lose ability to speak due to trauma.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-24T14:46:41.162252+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/24/silent-suffering-why-children-in-gaza-are-losing-their-ability-to-speak?traffic_source=rss"
+  },
+  {
+    "id": "e431a433e43b",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T13:06",
+    "headline": "Pro-Palestinian activists break into suspected Elbit Systems drone factory",
+    "excerpt": "Pro-Palestine activists have broken into a UK factory where they said drones were being made for Israel’s military.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-24T14:46:41.162297+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pro-palestinian-activists-break-into-suspected-elbit-systems-drone-factory?traffic_source=rss"
+  },
+  {
+    "id": "d93c1f258922",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T13:03",
+    "headline": "Negotiations that enable Israel’s land-grabs",
+    "excerpt": "Since Oslo, negotiations have coincided with illegal settlement expansion and the continued loss of Palestinian land.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-24T14:46:41.162339+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/4/24/negotiations-that-enable-israels-land-grabs?traffic_source=rss"
+  },
+  {
+    "id": "c6b4805a8401",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T12:57",
+    "headline": "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
+    "excerpt": "As Pakistan hosts US-Iran talks, twin-city residents face road closures, halted courts and growing economic strain.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-24T14:46:41.162370+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/24/iranian-fm-araghchi-to-visit-pakistan-as-talks-with-us-set-to-resume?traffic_source=rss"
+  },
+  {
+    "id": "6d30af48f488",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T12:49",
+    "headline": "What’s been happening during the Lebanon ceasefire?",
+    "excerpt": "Trump has extended the Lebanon ceasefire by 3 weeks. But Israel has been accused of using the truce to further its war.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-24T14:46:41.162404+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/whats-been-happening-during-the-lebanon-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "b4b5f0632bee",
+    "source": "Al Jazeera",
+    "date": "2026-04-24T12:26",
+    "headline": "Syria arrests main suspect in civil war Tadamon massacre",
+    "excerpt": "Syrian authorities have arrested Amjad Yousef, the main suspect in the 2013 Tadamon massacre in Damascus.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-04-24T14:46:41.162441+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/syria-arrests-main-suspect-in-civil-war-tadamon-massacre?traffic_source=rss"
+  },
+  {
+    "id": "829c688d5c49",
+    "source": "PressTV",
+    "date": "2026-04-24T14:46",
+    "headline": "Iran FM to embark on regional tour to Pakistan, Oman, Russia",
+    "excerpt": "The Iranian foreign minister is set to start a three-leg regional tour to Pakistan, Oman and Russia late on Friday.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-24T14:46:43.017228+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/24/767460/Araghchi-Islamabad-Muscat-Moscow-tour"
+  },
+  {
+    "id": "2b09f1f6e653",
+    "source": "PressTV",
+    "date": "2026-04-24T14:46",
+    "headline": "Hezbollah MP: Ceasefire meaningless amid ongoing Israeli aggression",
+    "excerpt": "A Hezbollah representative in the Lebanese parliament says Israel’s ongoing hostilities render any ceasefire meaningless.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-24T14:46:43.017278+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/24/767461/Hezbollah-MP-Ceasefire-meaningless-amid-ongoing-Israeli-aggression"
+  },
+  {
     "id": "3753a18b859e",
     "source": "Al Jazeera",
     "date": "2026-04-24T12:14",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-16T10:44:12.402971+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-air-attack-destroys-buildings-around-south-lebanon-hospital?traffic_source=rss"
-  },
-  {
-    "id": "ff4c4928f18f",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T08:04",
-    "headline": "Fire at key Australian refinery deepens fuel risks amid Iran war shortages",
-    "excerpt": "A major fire at a key refinery in Australia refinery has disrupted fuel production, raising fears of fuel shortages.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-16T10:44:12.403003+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/fire-at-key-australian-refinery-deepens-fuel-risks-amid-iran-war-shortages?traffic_source=rss"
-  },
-  {
-    "id": "f1d7cbfa41db",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T06:56",
-    "headline": "Why many Kashmiris are donating gold, breaking piggy banks for Iran",
-    "excerpt": "A centuries-old historical bond has come alive again amid the war on Iran, with Kashmiris sharing whatever they can.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-16T10:44:12.403031+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/why-many-kashmiris-are-donating-gold-breaking-piggy-banks-for-iran?traffic_source=rss"
-  },
-  {
-    "id": "9a365bfbba90",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T06:34",
-    "headline": "US military kills three in new Eastern Pacific boat strike",
-    "excerpt": "The attack is the latest in a string of killings by the United States that rights groups say are &#039;unlawful&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-16T10:44:12.403069+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/us-military-kills-three-in-new-eastern-pacific-boat-strike?traffic_source=rss"
-  },
-  {
-    "id": "424026ac537d",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T06:13",
-    "headline": "Iran war: What is happening on day 48 of the US-Iran conflict?",
-    "excerpt": "US–Iran talks gain pace as Pakistan mediates, optimism for a new round of talks in Islamabad.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-16T10:44:12.403097+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/iran-war-what-is-happening-on-day-48-of-the-us-iran-conflict?traffic_source=rss"
-  },
-  {
-    "id": "decdd2fbdaa6",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T05:56",
-    "headline": "Israel’s military kills four Lebanese paramedics in consecutive strikes",
-    "excerpt": "An Israeli triple-tap attack on rescue workers in southern Lebanon has killed four and left several others injured.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-16T10:44:12.403133+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israels-military-kills-four-lebanese-paramedics-in-consecutive-strikes?traffic_source=rss"
-  },
-  {
-    "id": "aa3b249c2e7f",
-    "source": "PressTV",
-    "date": "2026-04-16T10:44",
-    "headline": "Iran increases production rate of attack drones tenfold: Army",
-    "excerpt": "A senior Iranian Army commander says the country increased the production rate of attack drones after the US-Israeli war in June tenfold.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-16T10:44:13.957827+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/766978/Iran-increases-production-rate-of-attack-drones-tenfold--Army-cmdr-"
-  },
-  {
-    "id": "8ee113cc6287",
-    "source": "PressTV",
-    "date": "2026-04-16T10:44",
-    "headline": "Pakistani army chief meets Iranian Parliament speaker in Tehran",
-    "excerpt": "Pakistani Army Chief Field Marshal Asim Munir met with Iranian Parliament Speaker Mohammad Bagher Ghalibaf on Thursday morning.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-16T10:44:13.957867+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/766977/Pakistani-army-chief-meets-Iranian-Parliament-speaker-in-Tehran"
-  },
-  {
-    "id": "264f271a109c",
-    "source": "PressTV",
-    "date": "2026-04-16T10:44",
-    "headline": "Iran envoy: Criminal US-Israeli war symbol of misuse of advanced tech against humanity",
-    "excerpt": "The Iranian representative to the UN Commission on Population and Development says the recent US-Israel act of aggression against the Islamic Republic reflects misuse of advanced technology against mankind.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-16T10:44:13.957896+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/766963/Iran-envoy--Criminal-US-Israeli-war-symbol-of-misuse-of-advanced-tech-against-humanity"
   }
 ]
