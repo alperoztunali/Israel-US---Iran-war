@@ -1,5 +1,38 @@
 [
   {
+    "id": "78283a400e6c",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T08:44",
+    "headline": "Overnight Russian attacks on Ukraine kill five, injure 30",
+    "excerpt": "Russia launched more than 600 drones and 47 missiles as it targeted eight regions in Dnipro, authorities say.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-04-25T09:11:48.566547+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/25/overnight-russian-attacks-on-ukraine-kill-five-wound-over-30?traffic_source=rss"
+  },
+  {
+    "id": "b797672531cd",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T08:37",
+    "headline": "Polls open in Gaza area in first municipal election in 20 years",
+    "excerpt": "Gaza officials say Deir el-Balah vote is a &#039;pilot&#039;, while occupied West Bank also goes to first polls since 2023 war.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-25T09:11:48.566595+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss"
+  },
+  {
+    "id": "b50e21ab0d46",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T08:06",
+    "headline": "Ireland to demand Israel pay for settler demolition of Palestinian school",
+    "excerpt": "Ireland will demand that Israeli authorities repay the cost of a school that was demolished by settlers.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-25T09:11:48.566630+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss"
+  },
+  {
     "id": "81cbc5cd7d62",
     "source": "Al Jazeera",
     "date": "2026-04-25T07:16",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-16T22:09:35.280898+00:00",
     "link": "https://presstv.ir/Detail/2026/04/16/767003/lebanon-truce-result-hezbollah-steadfast-resistance-iran-support-quds-force-chief"
-  },
-  {
-    "id": "d93ab757c22e",
-    "source": "PressTV",
-    "date": "2026-04-16T22:09",
-    "headline": "Pezeshkian: People's steadfastness forced aggressors to retreat",
-    "excerpt": "Iran's President Masoud Pezeshkian has reiterated the necessity of accurately conveying the realities and unique scenes created during the 40-day resistance of the Iranian nation against the US-Israeli aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-16T22:09:35.280940+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/767001/Pezeshkian--People-s-steadfastness-forced-aggressors-to-retreat-during-40-day-war"
-  },
-  {
-    "id": "0fca5f02c854",
-    "source": "PressTV",
-    "date": "2026-04-16T22:09",
-    "headline": "US breach of commitments main obstacle to peace in the region: Speaker Qalibaf",
-    "excerpt": "Qalibaf has said that repeated breaches of commitments by the United States and Israel remain the main obstacle to establishing lasting peace and security in the region.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-04-16T22:09:35.280970+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/767004/Qalibaf--US-breach-of-commitments-main-obstacle-to-regional-peace"
-  },
-  {
-    "id": "91b98e17d7d0",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T19:42",
-    "headline": "Cuban president defiant amid US pressure and energy blockade threats",
-    "excerpt": "Miguel Diaz-Canel marks anniversary of socialist revolutionary declaration under threat of US attacks.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-16T19:53:24.884446+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/cuban-president-defiant-amid-us-pressure-and-energy-blockade-threats?traffic_source=rss"
   }
 ]
