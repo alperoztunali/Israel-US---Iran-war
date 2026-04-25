@@ -1,5 +1,82 @@
 [
   {
+    "id": "6adc6c8a8a85",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T09:55",
+    "headline": "Palestinians cast their ballots as Gaza holds first election in 21 years",
+    "excerpt": "Palestinians are voting in Gaza’s first municipal elections in 21 years. Around 70,000 people are registered to vote.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-25T10:08:18.329749+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss"
+  },
+  {
+    "id": "886b9434e335",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T09:21",
+    "headline": "Mali army says armed groups launch nationwide attacks; gunfire near airport",
+    "excerpt": "This is a breaking news story.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-25T10:08:18.329793+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/25/mali-army-says-armed-groups-launch-nationwide-attacks-gunfire-near-airport?traffic_source=rss"
+  },
+  {
+    "id": "62e581ca4b88",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T08:57",
+    "headline": "Top Iranian and Pakistani officials meet in Islamabad",
+    "excerpt": "Iran’s FM Abbas Araghchi is in Islamabad for talks with Pakistani officials, as US envoys are also set to arrive.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-25T10:08:18.329825+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss"
+  },
+  {
+    "id": "8f1ab3c4ddd2",
+    "source": "PressTV",
+    "date": "2026-04-25T10:08",
+    "headline": "‘Get out while you can’: Qalibaf warns of limits on US asset sales if tensions soar",
+    "excerpt": "Qalibaf warns that access to US assets could tighten if tensions escalate in the region.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-25T10:08:22.107353+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/25/767490/Get-out-while-open-Qalibaf-warns-of-limits-on-US-asset-sales-if-tensions-soar"
+  },
+  {
+    "id": "049648d63fdf",
+    "source": "PressTV",
+    "date": "2026-04-25T10:08",
+    "headline": "Leader’s aide: Unified Iran stands tall while ‘deep fracture’ grips US-Europe alliance",
+    "excerpt": "Velayati says a “deep fracture” is widening in the relations between the United States and its traditional European allies.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-25T10:08:22.107397+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/25/767505/Leader-aide-Unified-Iran-stands-tall-while-deep-fracture-grips-US-Europe-alliance"
+  },
+  {
+    "id": "dbde36c2ea30",
+    "source": "PressTV",
+    "date": "2026-04-25T10:08",
+    "headline": "Iran arrests ‘veteran’ Mossad spy, separatist terrorists in nationwide operations",
+    "excerpt": "Iran's Ministry of Intelligence has announced the arrest of a “veteran” spy working for the Israeli regime, along with 15 members of separatist terrorist groups, following operations in different provinces.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-25T10:08:22.107436+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/25/767502/Iran-arrests-Mossad-spy-separatist-terrorists-anti-revolutionary-groups-across-country"
+  },
+  {
+    "id": "41b62c0d242b",
+    "source": "PressTV",
+    "date": "2026-04-25T10:08",
+    "headline": "No regional, international power can force Hezbollah to disarm: Top official",
+    "excerpt": "A high-ranking Hezbollah official says no regional and international power can force the Lebanese resistance movement to hand over its weapons.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-25T10:08:22.107471+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/25/767501/No-regional-international-power-can-force-Hezbollah-disarm-Top-official"
+  },
+  {
     "id": "78283a400e6c",
     "source": "Al Jazeera",
     "date": "2026-04-25T08:44",
@@ -5421,82 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-16T22:09:33.666376+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/turkiye-grieves-students-killed-in-school-shooting?traffic_source=rss"
-  },
-  {
-    "id": "02ef1509ac18",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T20:58",
-    "headline": "A ceasefire in Lebanon — will it hold?",
-    "excerpt": "After rare talks, a ceasefire in Lebanon raises one question: what happens on the ground next?",
-    "category": "Diplomatic",
-    "location": "Lebanon",
-    "addedAt": "2026-04-16T22:09:33.666425+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-aj_tt_leb_wartalks_full_v1-160426?traffic_source=rss"
-  },
-  {
-    "id": "05f5f77535f0",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T20:54",
-    "headline": "Qatar hosts talks aimed at putting Iran peace process back on track",
-    "excerpt": "Pakistan&#039;s PM arrived in Doha Thursday for regional talks across the Middle East in a possibility to end the war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-16T22:09:33.666459+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/qatar-hosts-talks-aimed-at-putting-iran-peace-process-back-on-track?traffic_source=rss"
-  },
-  {
-    "id": "a557df281d42",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T20:34",
-    "headline": "What role is China playing in the Iran war and how is it affected?",
-    "excerpt": "Beijing balancing Tehran alliance with its wider global interests",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-16T22:09:33.666490+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/4/16/what-role-is-china-playing-in-the-iran-war-and-how-is-it-affected?traffic_source=rss"
-  },
-  {
-    "id": "e4f0f9454a15",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T20:10",
-    "headline": "Displaced Lebanese in Beirut uncertain if they can trust ceasefire",
-    "excerpt": "Displaced Lebanese in Beirut said they do not yet trust whether the ceasefire between Israel and Lebanon will hold.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-16T22:09:33.666520+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/displaced-lebanese-in-beirut-uncertain-if-they-can-trust-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "4ca32cee1043",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T20:08",
-    "headline": "Sectarian fears increase as a Beirut area says no to displacement centre",
-    "excerpt": "Tensions rise in Karantina as civil war-era sectarian fears resurface over a cancelled displacement centre project.",
-    "category": "Other",
-    "location": "Beirut",
-    "addedAt": "2026-04-16T22:09:33.666559+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/sectarian-fears-increase-as-a-beirut-area-says-no-to-displacement-centre?traffic_source=rss"
-  },
-  {
-    "id": "e65f96da8978",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T20:03",
-    "headline": "Senate vote on arms sale shows ‘massive cracks’ in US support for Israel",
-    "excerpt": "Rights advocates hail &#039;historic&#039; shift as 40 out of 47 Democratic senators vote to block military bulldozers to Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-16T22:09:33.666598+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/senate-vote-on-arms-sale-shows-massive-cracks-in-us-support-for-israel?traffic_source=rss"
-  },
-  {
-    "id": "5ca646247147",
-    "source": "PressTV",
-    "date": "2026-04-16T22:09",
-    "headline": "Lebanon truce result of Hezbollah’s steadfast resistance, Iran’s support: Quds Force chief",
-    "excerpt": "IRGC Quds Force commander says Hezbollah's steadfast resistance, with support from Iran, was the decisive factor behind the ceasefire in Lebanon.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-16T22:09:35.280898+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/767003/lebanon-truce-result-hezbollah-steadfast-resistance-iran-support-quds-force-chief"
   }
 ]
