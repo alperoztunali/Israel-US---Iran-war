@@ -1,5 +1,49 @@
 [
   {
+    "id": "75870331621b",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T20:55",
+    "headline": "How serious is the rift in NATO?",
+    "excerpt": "Trump fury over Europeans&#039; refusal to join Iran war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-25T21:41:38.582021+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/4/25/how-serious-is-the-rift-in-nato?traffic_source=rss"
+  },
+  {
+    "id": "3e56bd403e75",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T19:54",
+    "headline": "Trump puts onus on Iran’s authorities as they project hardened stance",
+    "excerpt": "Some officials say Tehran must not even entertain any more talks on the nuclear issue amid the threats and blockade.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-25T21:41:38.582074+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
+  },
+  {
+    "id": "579eac62854d",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T13:25",
+    "headline": "Israel kills four in Lebanon as it escalates ceasefire breaches",
+    "excerpt": "Raids on a truck and a motorcycle in the town of Yohmor al-Shaqif kill four people, state media report.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-25T21:41:38.582124+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "5177b33a8105",
+    "source": "PressTV",
+    "date": "2026-04-25T21:41",
+    "headline": "Handala hacking group exposes identities of senior officers from Israeli 'elite special ops unit'",
+    "excerpt": "Pro-resistance hacking group reveals carrying out a \"historic\" operation against a much-vaunted reconnaissance unit of the Israeli military.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-25T21:41:40.529294+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/25/767546/Israel-hackers-special-operations-unit-Maglan-elite-Handala"
+  },
+  {
     "id": "d2b9c756b780",
     "source": "Al Jazeera",
     "date": "2026-04-25T19:54",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-17T14:42:35.578503+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/lebanese-celebrate-return-to-homes-as-10-day-ceasefire-begins?traffic_source=rss"
-  },
-  {
-    "id": "5fd233b27b37",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T11:11",
-    "headline": "Israeli attacks kill several over two days in Gaza despite ‘ceasefire’",
-    "excerpt": "As Gaza violence continues, activist says Israeli settlers torch vehicles, attack homes in occupied West Bank.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-17T14:42:35.578539+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/17/israeli-attacks-kill-several-over-two-days-in-gaza-despite-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "7d7c01b029d2",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T10:57",
-    "headline": "What we know about the Israel-Lebanon ceasefire",
-    "excerpt": "US President Donald Trump announced the 10-day ceasefire between the two countries.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-17T14:42:35.578589+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/17/what-we-know-about-the-israel-lebanon-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "01794c504d9f",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T10:32",
-    "headline": "Lebanese return to devastated south as fragile 10-day truce takes hold",
-    "excerpt": "Hezbollah warns it has its &#039;finger on the trigger&#039; in case of Israeli violations of the temporary ceasefire.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-17T14:42:35.578625+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/17/lebanese-return-to-devastated-south-as-fragile-10-day-truce-takes-hold?traffic_source=rss"
-  },
-  {
-    "id": "a4677254b6e7",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T10:09",
-    "headline": "Australia scrambles to secure energy as war on Iran fuels uncertainty",
-    "excerpt": "Heavily dependent on imported oil, Australia looks for quick fixes from regional diplomacy to free train rides.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-17T14:42:35.578656+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/17/australia-scrambles-to-secure-energy-as-war-on-iran-fuels-uncertainty?traffic_source=rss"
   }
 ]
