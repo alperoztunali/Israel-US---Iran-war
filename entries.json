@@ -1,5 +1,38 @@
 [
   {
+    "id": "d2b9c756b780",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T19:54",
+    "headline": "Iran’s authorities project hardened stance with more talks on horizon",
+    "excerpt": "Abbas Araghchi met senior Pakistani officials in Islamabad and left for Oman to be later bound for Russia.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-25T20:49:35.823073+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
+  },
+  {
+    "id": "3ac1fcfc3879",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T19:40",
+    "headline": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
+    "excerpt": "Activists organised a protest in solidarity with Palestine on Saturday in Stockholm, Sweden.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-25T20:49:35.823118+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss"
+  },
+  {
+    "id": "68a955d65224",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T17:26",
+    "headline": "CIA agents reported killed in Mexico were not authorised to operate: Gov’t",
+    "excerpt": "Mexican government says it is seeking details after incident raises questions about US activities on its territory.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-25T20:49:35.823159+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss"
+  },
+  {
     "id": "3503d9d98d22",
     "source": "Al Jazeera",
     "date": "2026-04-25T18:16",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-17T14:42:35.578656+00:00",
     "link": "https://www.aljazeera.com/features/2026/4/17/australia-scrambles-to-secure-energy-as-war-on-iran-fuels-uncertainty?traffic_source=rss"
-  },
-  {
-    "id": "79ada3eab7a1",
-    "source": "PressTV",
-    "date": "2026-04-17T14:42",
-    "headline": "Iran reopens Strait of Hormuz to commercial traffic following Lebanon ceasefire",
-    "excerpt": "Iran has announced the complete opening of the Strait of Hormuz to commercial vessels following ceasefire in Lebanon.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-17T14:42:37.104530+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/17/767038/Strait-of-Hormuz-open"
-  },
-  {
-    "id": "a73d6497f287",
-    "source": "PressTV",
-    "date": "2026-04-17T14:42",
-    "headline": "Leader’s advisor outlines four ‘uncompromisable’ pillars of Iran’s future",
-    "excerpt": "Mohammad Mokhber has identified internal unity, government-people bonds, official cohesion, and the Axis of Resistance as non-negotiable assets that guarantee Iran’s sovereign future.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-17T14:42:37.104598+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/17/767043/Leader-advisor-outlines-four-uncompromisable-pillars-of-Iran-future"
-  },
-  {
-    "id": "5b0a91ac1638",
-    "source": "PressTV",
-    "date": "2026-04-17T14:42",
-    "headline": "Victory for resistance: Yemeni, Palestinian groups hail Lebanon ceasefire",
-    "excerpt": "Yemen’s Ansarullah movement and Palestinian factions have hailed the ceasefire announced in Lebanon as a victory for Hezbollah and the axis of resistance against Israel.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-17T14:42:37.104639+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/17/767024/Victory-for-resistance-against-Israel-%C2%A0Yemen,-Palestinian-factions-hail-Lebanon-ceasefire"
   }
 ]
