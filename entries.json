@@ -1,5 +1,38 @@
 [
   {
+    "id": "0f69a7f2df97",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T02:07",
+    "headline": "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter",
+    "excerpt": "Tech firm suspended mass shooter&#039;s ChatGPT account before attacks, but did not inform law enforcement.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-25T02:55:36.650609+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/25/chkopenaissamaltmanapologises-over-failure-to-report-canadian-mass-shooter?traffic_source=rss"
+  },
+  {
+    "id": "ab05332626ae",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T00:00",
+    "headline": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
+    "excerpt": "Israeli air strikes, tank shelling in Gaza killed at least 12 Palestinians, including six police officers.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-04-25T02:55:36.650638+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss"
+  },
+  {
+    "id": "a5627da714df",
+    "source": "PressTV",
+    "date": "2026-04-25T02:55",
+    "headline": "Iran yet to deploy 'significant' portion of its missile capability: Defense Ministry",
+    "excerpt": "The Defense Ministry says a significant portion of Iran’s missile capabilities remains unused.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-04-25T02:55:38.853281+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/25/767487/Iran-missiles-war-United-States-Israel"
+  },
+  {
     "id": "5889d3f75e0e",
     "source": "PressTV",
     "date": "2026-04-24T23:52",
@@ -5465,38 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-04-16T19:53:24.884778+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/16/syria-takes-control-of-all-bases-where-us-forces-were-deployed?traffic_source=rss"
-  },
-  {
-    "id": "d3cbe6d24864",
-    "source": "PressTV",
-    "date": "2026-04-16T19:53",
-    "headline": "Hezbollah confirms ceasefire in war with Israel to take effect at midnight",
-    "excerpt": "A Lebanese parliamentarian from the Loyalty to the Resistance bloc says Iran’s ambassador in Beirut has informed Lebanese officials that a ceasefire will begin Thursday night.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-16T19:53:26.552866+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/766997/Hezbollah-MP-says-ceasefire-in-war-with-Israel-to-begin-midnight-"
-  },
-  {
-    "id": "1c4974011be2",
-    "source": "PressTV",
-    "date": "2026-04-16T19:53",
-    "headline": "Berri denounces Lebanon's direct talks with Israel in Washington",
-    "excerpt": "The speaker of the Lebanese Parliament, Nabih Berri, has strongly denounced direct talks held between a Lebanese government delegation and Israeli officials in Washington.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-16T19:53:26.552901+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/766998/Berri-denounces-Lebanon-talks-with-Israel-in-Washington"
-  },
-  {
-    "id": "740b1caa5b83",
-    "source": "PressTV",
-    "date": "2026-04-16T19:53",
-    "headline": "Iran's Armed Forces ready for all-out defense: Top general",
-    "excerpt": "A top Iranian commander says Iran’s Armed Forces are totally prepared for all-out defense of the country against aggressors, nearly 50 days after a US-Israeli military coalition waged an unprovoked war of aggression against the Islamic Republic.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-04-16T19:53:26.552935+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/16/766996/Iran-s-Armed-Forces-ready-for-all-out-defense--Top-general-tells-visiting-Pakistani-Army-chief--"
   }
 ]
