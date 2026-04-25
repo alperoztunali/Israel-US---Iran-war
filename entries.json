@@ -1,5 +1,38 @@
 [
   {
+    "id": "fcb1d96592e7",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T04:30",
+    "headline": "What’s at stake for Iran and the US in Islamabad?",
+    "excerpt": "Iran’s foreign minister is in Islamabad, with US envoys also on the way.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-25T05:19:29.022929+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss"
+  },
+  {
+    "id": "f7ed7d48c9c2",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T03:23",
+    "headline": "Israel escalates attacks in Gaza, killing 12 people",
+    "excerpt": "Israeli forces have killed 12 Palestinians, including six police officers, in multiple attacks across Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-25T05:19:29.022967+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss"
+  },
+  {
+    "id": "64f96bdda4f0",
+    "source": "Al Jazeera",
+    "date": "2026-04-25T02:58",
+    "headline": "Iran war: What’s happening on day 57 as Trump dispatches negotiating team?",
+    "excerpt": "US envoys Steve Witkoff and Jared Kushner will travel to Pakistan, as Iranian FM Abbas Araghchi arrived in Islamabad.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-25T05:19:29.023004+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss"
+  },
+  {
     "id": "0f69a7f2df97",
     "source": "Al Jazeera",
     "date": "2026-04-25T02:07",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-16T19:53:24.884701+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/10-day-lebanon-israel-ceasefire-announced-by-trump?traffic_source=rss"
-  },
-  {
-    "id": "28f965d0aefe",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T17:03",
-    "headline": "No date set for US-Iran talks, as Pakistan pushes to keep diplomacy alive",
-    "excerpt": "Pakistan&#039;s prime minister and army chief are both travelling to key players in the war, attempting to keep talks going.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-16T19:53:24.884728+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/no-date-set-for-us-iran-talks-as-pakistan-pushes-to-keep-diplomacy-alive?traffic_source=rss"
-  },
-  {
-    "id": "ad000e41288c",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T16:55",
-    "headline": "US general clarifies Iranian ports under blockade, not Strait of Hormuz",
-    "excerpt": "A US general had to clarify that the US military is only blockading Iranian ports, not the entire Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-16T19:53:24.884756+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/us-general-clarifies-iranian-ports-under-blockade-not-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "f48dbc3b33a6",
-    "source": "Al Jazeera",
-    "date": "2026-04-16T16:06",
-    "headline": "Syria takes control of all bases where US forces were deployed",
-    "excerpt": "Final convoy of US soldiers and equipment departs Qasrak air base in the northeastern governorate of Hasakah.",
-    "category": "Movement",
-    "location": "Syria",
-    "addedAt": "2026-04-16T19:53:24.884778+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/16/syria-takes-control-of-all-bases-where-us-forces-were-deployed?traffic_source=rss"
   }
 ]
