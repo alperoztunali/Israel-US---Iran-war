@@ -1,5 +1,27 @@
 [
   {
+    "id": "cd9f5822edc0",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T12:31",
+    "headline": "Syria puts first Assad-era official on trial in Damascus",
+    "excerpt": "Atef Najib, ex-head of political security in Deraa province, is charged with &#039;crimes against the Syrian people&#039;.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-04-26T13:25:28.000966+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/syria-puts-al-assad-era-officials-on?traffic_source=rss"
+  },
+  {
+    "id": "fd07a001486a",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T10:50",
+    "headline": "Mali’s Defence Minister Sadio Camara killed during coordinated attacks",
+    "excerpt": "Death of influential minister seen as a big blow for Mali&#039;s military government during fighting with armed groups.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-26T13:25:28.001004+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks?traffic_source=rss"
+  },
+  {
     "id": "c0a31dc7c5ad",
     "source": "Al Jazeera",
     "date": "2026-04-26T10:50",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-17T20:08:34.766623+00:00",
     "link": "https://www.aljazeera.com/video/the-take-2/2026/4/17/aje-onl-tt_irn_kharg_av_v3-170426?traffic_source=rss"
-  },
-  {
-    "id": "90819a0eff7b",
-    "source": "PressTV",
-    "date": "2026-04-17T20:08",
-    "headline": "'New order' in Strait of Hormuz: IRGC Navy mandates authorization for all vessels",
-    "excerpt": "IRGC Navy says a \"new order\" is now in place over the strategic Strait of Hormuz, outlining strict new regulations for all maritime traffic.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-17T20:08:36.496475+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/17/767056/new-order-strait-hormuz-irgc-navy-mandates-authorization-all-vessel-traffic"
-  },
-  {
-    "id": "c08209bd7edd",
-    "source": "PressTV",
-    "date": "2026-04-17T20:08",
-    "headline": "Tehran warns US of consequences for broken vows amid Hormuz Strait conditional reopening",
-    "excerpt": "As Iran conditionally reopens the strategic Strait of Hormuz following a decisive diplomatic and military victory, Tehran has warned the United States that any failure to honor its commitments will be met with severe consequences.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-17T20:08:36.496518+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/17/767055/Tehran-warns-US-conditional-hormuz-strait-opening"
   }
 ]
