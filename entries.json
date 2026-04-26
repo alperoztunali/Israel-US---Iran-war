@@ -1,5 +1,49 @@
 [
   {
+    "id": "b375559b6172",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T20:15",
+    "headline": "Bomb attack on Colombia highway kills 19 ahead of election",
+    "excerpt": "Highway bombing in Colombia’s Cauca kills 19, injures dozens amid a surge in violence ahead of next month’s election.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-04-26T20:51:56.306675+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss"
+  },
+  {
+    "id": "1a6ad46b2583",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T20:05",
+    "headline": "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections",
+    "excerpt": "The two politicians&#039; alliance is aimed at uniting a fragmented opposition against current PM Benjamin Netanyahu.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-26T20:51:56.306715+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss"
+  },
+  {
+    "id": "b17be1e66314",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T19:55",
+    "headline": "Has Iran exposed the limits of what US can achieve by force?",
+    "excerpt": "Political scientist Vali Nasr argues that US and Israeli military options ‘have come up short&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-26T20:51:56.306742+00:00",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/26/has-iran-exposed-the-limits-of-what-us-can-achieve-by-force?traffic_source=rss"
+  },
+  {
+    "id": "3b43a113a586",
+    "source": "PressTV",
+    "date": "2026-04-26T20:51",
+    "headline": "Russian envoy to US: Abandon blackmail, ultimatums and threats against Iran",
+    "excerpt": "A Russian envoy says Washington’s long-standing policy of negotiating from a position of strength through military threats and illegal sanctions has failed against of Iran and must be abandoned.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-26T20:51:58.036003+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/26/767599/Russian-envoy-to-US--Abandon-blackmail,-ultimatums-and-threats-against-Iran"
+  },
+  {
     "id": "e3d33db1bd4a",
     "source": "Al Jazeera",
     "date": "2026-04-26T19:09",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-18T08:08:44.792783+00:00",
     "link": "https://presstv.ir/Detail/2026/04/18/767067/More-than-38000-girls-women-killed-in-Israeli-genocide-in-Gaza-UN"
-  },
-  {
-    "id": "613605386100",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T04:42",
-    "headline": "Al-Noor centre: A lifeline for blind children in Gaza",
-    "excerpt": "Al-Noor is a UNRWA centre in Gaza providing education and support for visually impaired children.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-18T05:55:05.149203+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/al-noor-centre-a-lifeline-for-blind-children-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "a806f6622493",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T02:14",
-    "headline": "Lebanese man removes Israeli flag from castle in southern Lebanon",
-    "excerpt": "A Lebanese man who returned to southern Lebanon removes the Israeli flag from Beaufort Castle (Qalaat al-Shaqif).",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-18T05:55:05.149248+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/lebanese-man-removes-israeli-flag-from-castle-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "1ccc01d570a3",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T00:54",
-    "headline": "Trump thanks Gulf states for their ‘tremendous’ support",
-    "excerpt": "‘This will be a great and brilliant day for the world’ Donald Trump said as Iran fully opens the Strait of Hormuz.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-18T05:55:05.149288+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss"
-  },
-  {
-    "id": "e902cb3cf38e",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T00:00",
-    "headline": "Iran war live: Tehran says US blockade of ports must end as strait opens",
-    "excerpt": "Tens of thousands of people forcibly displaced by Israeli attacks on Lebanon use first day of ceasefire to return home.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-18T05:55:05.149319+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss"
   }
 ]
