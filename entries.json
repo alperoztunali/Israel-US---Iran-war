@@ -1,5 +1,60 @@
 [
   {
+    "id": "d33acb2a268e",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T20:47",
+    "headline": "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
+    "excerpt": "Abbas Araghchi travels to Russia, where he will speak with &quot;senior officials&quot;, Iran&#039;s foreign ministry says.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-26T21:45:22.435357+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss"
+  },
+  {
+    "id": "a90df1c94bcc",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T20:27",
+    "headline": "Israeli settler attacks Hebron activist’s home as soldier looks on",
+    "excerpt": "An Israeli settler was filmed throwing rocks and trying to break into the home of Palestinian activist Issa Amro.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-26T21:45:22.435413+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israeli-settler-attacks-hebron-activists-home-as-soldier-looks-on?traffic_source=rss"
+  },
+  {
+    "id": "54ef8ab08d01",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T20:26",
+    "headline": "What’s driving attacks against gov’t and Russian forces in Mali?",
+    "excerpt": "Opponents, including al-Qaeda-linked group, join forces.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-04-26T21:45:22.435454+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/4/26/whats-driving-attacks-against-govt-and-russian-forces-in-mali?traffic_source=rss"
+  },
+  {
+    "id": "a1146496b6d0",
+    "source": "PressTV",
+    "date": "2026-04-26T21:45",
+    "headline": "‘Don’t brag about the cards’: Qalibaf warns US has burned its oil options",
+    "excerpt": "Speaker Bagher Qalibaf delivers a sharp rebuke to US threats, exposing Washington’s exhausted playbook in the oil market while Tehran holds decisive strategic cards.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-26T21:45:24.047557+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/26/767601/%E2%80%98Don%E2%80%99t-brag-about-the-cards%E2%80%99--Qalibaf-warns-US-has-burned-its-oil-options"
+  },
+  {
+    "id": "cfaa03253f87",
+    "source": "PressTV",
+    "date": "2026-04-26T21:45",
+    "headline": "US policy of threats and sanctions against Iran has failed, must be abandoned: Russia envoy",
+    "excerpt": "A Russian envoy says Washington’s long-standing policy of negotiating from a position of strength through military threats and illegal sanctions has failed against of Iran and must be abandoned.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-26T21:45:24.047607+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/26/767599/Russian-envoy-to-US--Abandon-blackmail,-ultimatums-and-threats-against-Iran"
+  },
+  {
     "id": "b375559b6172",
     "source": "Al Jazeera",
     "date": "2026-04-26T20:15",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-18T08:08:42.568180+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/israeli-police-destroy-childrens-footballs-at-al-aqsa-mosque?traffic_source=rss"
-  },
-  {
-    "id": "76e096554d71",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T06:10",
-    "headline": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
-    "excerpt": "US President Donald Trump says the US will “have to start dropping bombs again” if no US-Iran deal is reached.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-18T08:08:42.568215+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss"
-  },
-  {
-    "id": "86fecebb4c9c",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T06:07",
-    "headline": "Iran war: What is happening on day 50 of the US-Iran conflict?",
-    "excerpt": "Iran reopens the Strait of Hormuz with conditions and threatens closure if the US blockade of Iranian ports continues.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-18T08:08:42.568248+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict?traffic_source=rss"
-  },
-  {
-    "id": "a42d999f6f66",
-    "source": "PressTV",
-    "date": "2026-04-18T08:08",
-    "headline": "Israeli forces blow up homes in southern Lebanon despite ceasefire",
-    "excerpt": "Israeli forces reportedly carry out house demolitions in several southern Lebanese border towns.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-18T08:08:44.792723+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767068/Israeli-forces-blow-up-homes-southern-Lebanon-despite-ceasefire"
-  },
-  {
-    "id": "2c250e166931",
-    "source": "PressTV",
-    "date": "2026-04-18T08:08",
-    "headline": "Israeli spying devices uncovered inside Gaza refugees’ tents",
-    "excerpt": "Palestinian resistance forces have uncovered a number of Israeli spying devices inside makeshift tents set up by refugees in the southern part of the Gaza Strip.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-18T08:08:44.792765+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767070/Israeli-spying-devices-uncovered-inside-Gaza-refugees-tents"
-  },
-  {
-    "id": "ac2e849d69f8",
-    "source": "PressTV",
-    "date": "2026-04-18T08:08",
-    "headline": "More than 38,000 girls, women killed in Israeli genocide in Gaza: UN",
-    "excerpt": "UN says by the end of 2025, the Israeli regime killed more than 38,000 girls and women in the Gaza genocide.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-18T08:08:44.792783+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767067/More-than-38000-girls-women-killed-in-Israeli-genocide-in-Gaza-UN"
   }
 ]
