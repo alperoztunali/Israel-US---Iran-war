@@ -1,5 +1,16 @@
 [
   {
+    "id": "c0a31dc7c5ad",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T10:50",
+    "headline": "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
+    "excerpt": "Camara&#039;s house in the garrison town of Kati came under attack amid simultaneous attacks across the country.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-26T11:57:02.389959+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks?traffic_source=rss"
+  },
+  {
     "id": "c091e6aa4f45",
     "source": "Al Jazeera",
     "date": "2026-04-26T10:20",
@@ -5487,16 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-17T20:08:36.496518+00:00",
     "link": "https://presstv.ir/Detail/2026/04/17/767055/Tehran-warns-US-conditional-hormuz-strait-opening"
-  },
-  {
-    "id": "326512125546",
-    "source": "PressTV",
-    "date": "2026-04-17T20:08",
-    "headline": "Iranian Navy prevented enemy carrier groups, marines from entering Sea of Oman: Commander",
-    "excerpt": "A top Iranian naval commander says Iranian forces successfully prevented US and Israeli aircraft carrier strike groups and marine forces from entering the Sea of Oman.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-17T20:08:36.496549+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/17/767059/iranian-navy-prevented-enemy-carrier-groups-entering-sea-oman-commander"
   }
 ]
