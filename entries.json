@@ -1,5 +1,38 @@
 [
   {
+    "id": "57bb6585eacc",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T08:41",
+    "headline": "Russian attacks on Ukraine kill at least five, damage ship in port",
+    "excerpt": "Ukrainian attacks on Russia injure at least six people in Vologda region and annexed Crimea.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-04-26T09:07:52.369146+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/russian-strikes-kill-at-least-five-civilians-across-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "1960a6cb84dd",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T07:57",
+    "headline": "World reacts to shooting at White House correspondents’ dinner",
+    "excerpt": "US politicians from across the aisle, world leaders condemn the attack and express relief that Trump is safe.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-26T09:07:52.369204+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss"
+  },
+  {
+    "id": "c14fc8eb27ad",
+    "source": "PressTV",
+    "date": "2026-04-26T09:07",
+    "headline": "Militant convicted of terrorist acts in southeast Iran executed: Judiciary",
+    "excerpt": "A militant affiliated with the so-called Jaish al-Adl terrorist group in the southeastern province of Sistan and Baluchestan has been executed, Iran’s Judiciary says.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-26T09:07:53.840422+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/26/767562/Militant-convicted-terrorist--acts-southeast-Iran-executed-Judiciary"
+  },
+  {
     "id": "18993a259ad3",
     "source": "Al Jazeera",
     "date": "2026-04-26T06:29",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-17T17:36:12.959500+00:00",
     "link": "https://presstv.ir/Detail/2026/04/17/767045/Iranian-official-rejects-any-temporary-ceasefire,-says-new-Hormuz-protocol-possible"
-  },
-  {
-    "id": "993fab955ae3",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T13:37",
-    "headline": "‘Waiting without answers’: Gaza mother’s fear for her three imprisoned sons",
-    "excerpt": "As Palestinians mark Prisoners&#039; Day, Inaam al-Dahdouh waits for news of her three sons, taken by Israel two years ago.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-17T14:42:35.578246+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/17/waiting-without-answers-gaza-mothers-fear-for-her-three-imprisoned-sons?traffic_source=rss"
-  },
-  {
-    "id": "b56d793847ff",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T13:37",
-    "headline": "Iran foreign minister says Strait of Hormuz ‘completely open’",
-    "excerpt": "Iran says &#039;passage for all commercial vessels through Strait of Hormuz&#039; open during the Israel-Lebanon ceasefire.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-17T14:42:35.578295+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/17/iran-foreign-minister-says-strait-of-hormuz-completely-open?traffic_source=rss"
-  },
-  {
-    "id": "a3a22ce1ec68",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T13:20",
-    "headline": "The three clocks of the Iran war",
-    "excerpt": "Trump is racing against the midterms, Iran is betting on endurance, and Netanyahu needs a war with no end.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-17T14:42:35.578334+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/17/the-three-clocks-of-the-iran-war?traffic_source=rss"
   }
 ]
