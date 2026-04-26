@@ -1,5 +1,38 @@
 [
   {
+    "id": "f33b5baaf304",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T15:32",
+    "headline": "‘State of war’: Why Israel has escalated attacks in Gaza",
+    "excerpt": "Israel escalates attacks and expands control in Gaza Strip, sidelining the new US-backed technocratic administration.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-26T16:58:01.967116+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "a7742065ad2c",
+    "source": "PressTV",
+    "date": "2026-04-26T16:58",
+    "headline": "Iran FM returns to Islamabad for further consultations with Pakistani mediators ‌",
+    "excerpt": "Iranian Foreign Minister Abbas Araghchi has returned to Islamabad for a second official visit in two days for further consultations with Pakistani mediators amid stalled negotiations with the United States.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-26T16:58:04.066305+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/26/767583/Iran-FM-returns-to-Islamabad-for-further-consultations-with-Pakistani-mediators"
+  },
+  {
+    "id": "bccf233b55a1",
+    "source": "PressTV",
+    "date": "2026-04-26T16:58",
+    "headline": "IRGC says to reverse engineer 15 undetonated US missiles uncovered in southern Iran",
+    "excerpt": "IRGC bomb disposal teams discover 15 heavy US missiles in Iran’s southern province of Hormuzgan.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-26T16:58:04.066336+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/26/767582/Iran-IRGC-bomb-disposal-operations-Hormuzgan-Zanjan"
+  },
+  {
     "id": "c4fb0052116f",
     "source": "PressTV",
     "date": "2026-04-26T15:10",
@@ -5465,38 +5498,5 @@
     "location": "Lebanon",
     "addedAt": "2026-04-17T22:09:17.920734+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/displaced-family-reunited-with-grandfather-in-lebanons-tyre?traffic_source=rss"
-  },
-  {
-    "id": "985762df13ba",
-    "source": "PressTV",
-    "date": "2026-04-17T22:09",
-    "headline": "Trump's post 'prohibiting' Israeli strikes on Lebanon leaves Netanyahu 'stunned, alarmed': Report",
-    "excerpt": "The Israeli prime minister was personally \"stunned and alarmed\" by Trump's post, in which the latter \"PROHIBITED\" Tel Aviv from attacking Lebanon, a report says.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-17T22:09:19.390626+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/17/767063/Israel-Netanyahu-Trump-post-Lebanon-ceasefire-Iran-Hezbollah"
-  },
-  {
-    "id": "1404fe10d18d",
-    "source": "Arab News",
-    "date": "2026-03-05T11:03",
-    "headline": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy",
-    "excerpt": "CAIRO: Egyptian President Abdel Fattah El-Sisi said Thursday his country was in an economic “state of near-emergency” as a result of the Middle East war, warning of runaway inflation.\n\tThe Arab world’s most populous nation has not been physically impacted by the US and Israeli war with Iran, which h",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-17T22:09:22.978515+00:00",
-    "link": "https://www.arabnews.com/node/2635410/middle-east"
-  },
-  {
-    "id": "60b4b010e1fe",
-    "source": "Arab News",
-    "date": "2026-03-05T10:03",
-    "headline": "How Israel’s ‘buffer zone’ plan could redraw the map of southern Lebanon",
-    "excerpt": "BEIRUT: Lebanon faces what officials described as “one of the most dangerous moments in recent memory” after Hezbollah launched attacks on Israeli forces from areas both south and north of the Litani River, triggering a renewed Israeli air and ground campaign.\n\n\tAnnouncing its ground incursion into ",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-17T22:09:22.978567+00:00",
-    "link": "https://www.arabnews.com/node/2635409/middle-east"
   }
 ]
