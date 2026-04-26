@@ -1,5 +1,38 @@
 [
   {
+    "id": "13614a6af8aa",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T17:00",
+    "headline": "Iran shifts economic focus to essentials during war uncertainty",
+    "excerpt": "The government is partly reversing a currency decision for basic items and tapping into the country&#039;s sovereign fund.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-26T17:51:45.323201+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss"
+  },
+  {
+    "id": "2c0360403064",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T16:50",
+    "headline": "Abbas loyalists sweep Palestinian elections, including some seats in Gaza",
+    "excerpt": "Voter turnout in Gaza remained low due to the ongoing impact of the genocide.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-26T17:51:45.323245+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city?traffic_source=rss"
+  },
+  {
+    "id": "9b10aa5823a8",
+    "source": "PressTV",
+    "date": "2026-04-26T17:51",
+    "headline": "‘Unbreakable unity’: IRGC Quds Force chief vows continued support for Hezbollah",
+    "excerpt": "The commander of the Islamic Revolution Guards Corps (IRGC) Quds Force has vowed continued support for the Resistance Front, especially Hezbollah.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-26T17:51:47.078388+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/26/767593/Unbreakable-unity-IRGC-Quds-Force-chief-vows-continued-support-for-Hezbollah"
+  },
+  {
     "id": "f33b5baaf304",
     "source": "Al Jazeera",
     "date": "2026-04-26T15:32",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-17T22:09:17.920620+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss"
-  },
-  {
-    "id": "ab2df3d4d023",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T20:45",
-    "headline": "Lebanon president says country is no longer a pawn amid Israel ceasefire",
-    "excerpt": "President Joseph Aoun promised to work to preserve Lebanon&#039;s sovereignty and freedom.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-17T22:09:17.920664+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "e24780eb2053",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T20:20",
-    "headline": "Will the ceasefire in Lebanon hold?",
-    "excerpt": "Lebanon and Israel are holding first direct talks in decades.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-17T22:09:17.920695+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/4/17/will-the-ceasefire-in-lebanon-hold?traffic_source=rss"
-  },
-  {
-    "id": "aa4fa7b61c3f",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T20:10",
-    "headline": "Displaced family reunited with grandfather in Lebanon’s Tyre",
-    "excerpt": "A grandfather was reunited with his son and grandchildren in Tyre, southern Lebanon.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-04-17T22:09:17.920734+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/displaced-family-reunited-with-grandfather-in-lebanons-tyre?traffic_source=rss"
   }
 ]
