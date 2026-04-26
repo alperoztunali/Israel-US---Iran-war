@@ -1,5 +1,49 @@
 [
   {
+    "id": "c091e6aa4f45",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T10:20",
+    "headline": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
+    "excerpt": "Israeli forces keep advancing further into western Gaza, slowly expanding the area of their control in the east.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-04-26T11:05:52.688249+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "d365a34d5a0a",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T10:17",
+    "headline": "Israel destroys solar panels in south Lebanon",
+    "excerpt": "Israel destroys solar panels in south Lebanon",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-26T11:05:52.688293+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "879ab9de5caa",
+    "source": "PressTV",
+    "date": "2026-04-26T11:05",
+    "headline": "Iran’s FM discusses regional developments in meeting with Oman’s Sultan",
+    "excerpt": "Araghchi and Oman’s sultan met and exchanged viewpoints on the latest regional developments.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-26T11:05:54.780919+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/26/767572/Iranian-foreign-minister-Omani-Sultan-exchange-views-regional-developments"
+  },
+  {
+    "id": "2adde0e15f99",
+    "source": "PressTV",
+    "date": "2026-04-26T11:05",
+    "headline": "Iranian forces arrest terrorists behind shooting at anti-war demonstrators in Kerman",
+    "excerpt": "Iran's Intelligence Ministry says its forces have detained terrorists behind the shooting at people who participated in street rallies in Kerman province to condemn the illegal US-Israeli war of aggression against the country.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-04-26T11:05:54.780959+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/26/767571/Iranian-forces-arrest-terrorists-behind-shooting-at-anti-war-protesters-in-Kerman"
+  },
+  {
     "id": "e62212bdef52",
     "source": "Al Jazeera",
     "date": "2026-04-26T09:43",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-17T20:08:36.496549+00:00",
     "link": "https://presstv.ir/Detail/2026/04/17/767059/iranian-navy-prevented-enemy-carrier-groups-entering-sea-oman-commander"
-  },
-  {
-    "id": "9668b0ebc8c8",
-    "source": "PressTV",
-    "date": "2026-04-17T20:08",
-    "headline": "Strait of Hormuz traffic to follow Iran-designated route under Iranian coordination: FM spox",
-    "excerpt": "Esmaeil Baghaei says Iran will take the necessary reciprocal actions in response to continued \"maritime blockade\" by the United States.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-17T20:08:36.496583+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/17/767060/Strait-Hormuz-conditional-reopening-baghaei"
-  },
-  {
-    "id": "196193a71201",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T16:14",
-    "headline": "Macron demands assurances after Iran opens Strait of Hormuz",
-    "excerpt": "French President Emmanuel Macron said he welcomed the reopening of the Strait of Hormuz and the Lebanon ceasefire.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-17T17:36:11.118211+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/macron-demands-assurances-after-iran-opens-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "80e14655ba03",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T15:48",
-    "headline": "Southern Lebanon’s only functioning hospital damaged by Israeli strikes",
-    "excerpt": "Al Jazeera’s Obaida Hitto reports from Tibnin Hospital - the only functioning hospital in southern Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-17T17:36:11.118262+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/southern-lebanons-only-functioning-hospital-damaged-by-israeli-strikes?traffic_source=rss"
-  },
-  {
-    "id": "f1ce05a9dfbe",
-    "source": "Al Jazeera",
-    "date": "2026-04-17T15:46",
-    "headline": "Ukraine’s long-range strikes prompt new Russian threat against Europe",
-    "excerpt": "Ukraine has penetrated Russian airspace with unprecedented numbers of drones, denying Russia windfall oil profits.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-17T17:36:11.118296+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/17/ukraines-long-range-strikes-prompt-new-russian-threat-against-europe?traffic_source=rss"
   }
 ]
