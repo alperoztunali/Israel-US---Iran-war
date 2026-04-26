@@ -1,5 +1,16 @@
 [
   {
+    "id": "e3d33db1bd4a",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T19:09",
+    "headline": "Israel issues forced evacuation orders for southern Lebanon in escalation",
+    "excerpt": "Hezbollah rejects allegations from Israeli PM Benjamin Netanyahu that it is undermining the Israel-Lebanon ceasefire.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-26T19:57:00.392798+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation?traffic_source=rss"
+  },
+  {
     "id": "d5f215e13b0e",
     "source": "Al Jazeera",
     "date": "2026-04-26T17:49",
@@ -5487,16 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-18T05:55:05.149319+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss"
-  },
-  {
-    "id": "79b2ee59c420",
-    "source": "PressTV",
-    "date": "2026-04-18T05:55",
-    "headline": "IRGC aerospace cmdr. warns of enemy's 'false narratives' on Strait of Hormuz",
-    "excerpt": "The commander of the IRGC's Aerospace Force warns about the enemy's attempts at spreading false narratives regarding the realities governing the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-18T05:55:06.585883+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767066/Iran-Hormuz-IRGC-commander-United-States-Trump"
   }
 ]
