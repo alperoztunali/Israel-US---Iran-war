@@ -1,5 +1,49 @@
 [
   {
+    "id": "864f61012fc9",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T02:29",
+    "headline": "Satellite images show scale of Israeli destruction of south Lebanon towns",
+    "excerpt": "Satellite images taken reveal the Israeli military&#039;s massive scale of damage to towns in south Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-27T03:53:46.139532+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss"
+  },
+  {
+    "id": "f7593072636b",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T02:06",
+    "headline": "Oil prices rise amid stalled US-Iran peace talks",
+    "excerpt": "Brent crude rises more than 2 percent after Washington and Tehran fail to hold second round of talks in Pakistan.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-27T03:53:46.139573+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss"
+  },
+  {
+    "id": "c691580301ae",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T00:00",
+    "headline": "Iran war live: Araghchi to meet Putin; Trump says Tehran can call for talks",
+    "excerpt": "Iran&#039;s foreign minister heads to Russia as Trump says Iranian leaders can call on the phone if they want to talk.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-27T03:53:46.139603+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss"
+  },
+  {
+    "id": "cf683f68c707",
+    "source": "Al Jazeera",
+    "date": "2026-04-26T23:59",
+    "headline": "Video: Israeli ‘ceasefire’ violations on the rise in Gaza",
+    "excerpt": "Israel has violated the so-called Gaza “ceasefire” more than 2,400 times. Al Jazeera’s Hala Al Shami explains.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-27T03:53:46.139637+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-israeli-ceasefire-violations-on-the-rise-in-gaza?traffic_source=rss"
+  },
+  {
     "id": "a7e6ffa6325c",
     "source": "PressTV",
     "date": "2026-04-26T23:57",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-18T10:27:09.276504+00:00",
     "link": "https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent?traffic_source=rss"
-  },
-  {
-    "id": "8c3388e80682",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T00:00",
-    "headline": "Iran war live: Hormuz Strait shut down again over US ‘piracy’, says Tehran",
-    "excerpt": "Tens of thousands of people forcibly displaced by Israeli attacks on Lebanon use first day of ceasefire to return home.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-18T10:27:09.276559+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss"
-  },
-  {
-    "id": "cf189e27fa8e",
-    "source": "PressTV",
-    "date": "2026-04-18T10:27",
-    "headline": "Iran: Strait of Hormuz returns to previous state amid US 'piracy, blockade'",
-    "excerpt": "The spokesperson for the Khatam al-Anbiya Central Headquarters says Iran has reasserted control over the Strait of Hormuz due to the United States' so-called naval blockade of the waterway and “piracy.”",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-18T10:27:10.950265+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767079/Iran-Strait-of-Hormuz-returns-to-previous-state"
-  },
-  {
-    "id": "99380662cf5b",
-    "source": "PressTV",
-    "date": "2026-04-18T10:27",
-    "headline": "Iran’s show of power after US-Israeli aggression further strengthens Hezbollah: Top official",
-    "excerpt": "A senior Hezbollah official says Iran’s show of power after the recent US-Israeli aggression against the country has further strengthened the resistance movement.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-18T10:27:10.950318+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767084/Iran-show-power-after-US-Israeli-aggression-further-strengthens-Hezbollah-Top-official"
-  },
-  {
-    "id": "3a863d4ae82a",
-    "source": "PressTV",
-    "date": "2026-04-18T10:27",
-    "headline": "IRGC dismantles US-Israeli-UK-affiliated cells in three Iranian provinces",
-    "excerpt": "The IRGC says cells affiliated with the United States, the Israeli regime, and Britain have been identified and dismantled in three Iranian provinces.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-18T10:27:10.950350+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767077/IRGC-dismantles-US-Israeli-UK-affiliated-cells-three-Iranian-provinces"
   }
 ]
