@@ -1,5 +1,93 @@
 [
   {
+    "id": "42ba08455995",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T08:43",
+    "headline": "The war on Iran is eroding nuclear non-proliferation",
+    "excerpt": "US-Israeli attacks on Iran under the pretext of ending a nuclear weapons programme are damaging confidence in the NPT.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-27T09:09:31.259640+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/4/27/the-war-on-iran-is-eroding-nuclear-non-proliferation?traffic_source=rss"
+  },
+  {
+    "id": "92821c1a606e",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T08:10",
+    "headline": "Iran’s top diplomat in Russia as Tehran intensifies efforts to end the war",
+    "excerpt": "Pakistan and Oman remain involved in backchannel efforts to prevent a return to open US-Israel war on Iran.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-04-27T09:09:31.259693+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/27/iran-foreign-minister-in-russia-for-putin-talks?traffic_source=rss"
+  },
+  {
+    "id": "33d434aec139",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T07:37",
+    "headline": "ACL injury ends Xavi Simons’ World Cup 2026 dream with the Netherlands",
+    "excerpt": "Dutch midfielder suffers a suspected ACL injury to his right knee, ending his chances of playing in the FIFA World Cup.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-27T09:09:31.259742+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/27/acl-injury-ends-xavi-simons-world-cup-2026-dream-with-netherlands?traffic_source=rss"
+  },
+  {
+    "id": "b37c15f7e1d4",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T07:22",
+    "headline": "Iran war: What’s happening on day 59 amid diplomatic push to end conflict?",
+    "excerpt": "Iran discusses diplomatic solutions with regional partners as Trump says Iran could telephone if it wants to talk.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-27T09:09:31.259778+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/27/iran-war-whats-happening-on-day-59-amid-diplomatic-push-to-end-conflict?traffic_source=rss"
+  },
+  {
+    "id": "a62d101dc442",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T07:06",
+    "headline": "King Charles US visit: What to know about the itinerary, Congress address",
+    "excerpt": "King Charles III and Queen Camilla’s visit comes amid US–UK tensions and the 250th anniversary of US independence.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-27T09:09:31.259822+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/27/king-charles-us-visit-what-to-know-about-the-itinerary-congress-address?traffic_source=rss"
+  },
+  {
+    "id": "ff090960e5d1",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T06:36",
+    "headline": "Activists accused of raiding Israeli weapons factory face trial in Germany",
+    "excerpt": "Five European nationals known as the &#039;Ulm Five&#039; are said to have targeted a site linked to Elbit Systems.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-04-27T09:09:31.259857+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid?traffic_source=rss"
+  },
+  {
+    "id": "e865909c7195",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T06:21",
+    "headline": "Rockets thrash LeBron’s Lakers; Wembanyama triumphant on Spurs’ return",
+    "excerpt": "Spurs beat Trail Blazers 114–93 series lead as DPOY Wembanyama returns from concussion protocol.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-04-27T09:09:31.259889+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/27/rockets-thrash-lebrons-lakers-wembanyama-triumphant-on-spurs-return?traffic_source=rss"
+  },
+  {
+    "id": "e9573be56b19",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T00:00",
+    "headline": "Iran war live: Araghchi to meet Putin; Strait of Hormuz remains shut",
+    "excerpt": "Iran&#039;s foreign minister heads to Russia as Trump says Iranian leaders can call on the phone if they want to talk.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-27T09:09:31.259935+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss"
+  },
+  {
     "id": "f03697a8a733",
     "source": "Al Jazeera",
     "date": "2026-04-27T04:46",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-18T14:29:59.628907+00:00",
     "link": "https://www.aljazeera.com/economy/2026/4/18/turkiye-woos-investors-amid-iran-war-fallout-in-gulf-economies?traffic_source=rss"
-  },
-  {
-    "id": "b04f0ce7c7b5",
-    "source": "PressTV",
-    "date": "2026-04-18T14:30",
-    "headline": "Iran to control Strait of Hormuz traffic until deal is reached to end war: Top security body",
-    "excerpt": "Iran’s Supreme National Security Council (SNSC) says the Islamic Republic will maintain control of all traffic through the strategic Strait of Hormuz until a negotiated end to the US-Israeli-imposed war is achieved.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-18T14:30:01.499119+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767110/Iran-will-control-Strait-of-Hormuz-until-deal-reached-to-end-war-Top-security-body%C2%A0"
-  },
-  {
-    "id": "a6742f797065",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T11:35",
-    "headline": "US blockade of Iran needs to end before the Strait of Hormuz is fully reope",
-    "excerpt": "Michael Shoebridge says US may be forced to end blockade of Iran to see the full reopening of the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-18T12:00:44.437083+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/4/18/us-blockade-of-iran-needs-to-end-before-the-strait-of-hormuz-is-fully-reope?traffic_source=rss"
-  },
-  {
-    "id": "300934b0897f",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T10:39",
-    "headline": "Ambulance crew in south Lebanon describes Israel’s ‘triple-tap’ attack",
-    "excerpt": "Ambulance workers in Lebanon recall Israeli ‘triple-tap’ targeted strikes which killed four paramedics and wounded six.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-18T12:00:44.437124+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/ambulance-crew-in-south-lebanon-describes-israels-triple-tap-attack?traffic_source=rss"
-  },
-  {
-    "id": "503524a946b7",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T10:29",
-    "headline": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges",
-    "excerpt": "Brent crude falls over 9 percent after Iran said it will reopen waterway, only to shut it again over US blockade.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-18T12:00:44.437156+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss"
-  },
-  {
-    "id": "e4b27667745e",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T10:07",
-    "headline": "Death penalty law proves the EU must treat Israel as an apartheid state",
-    "excerpt": "Pernando Barrena says Israel’s death penalty for Palestinians adds to the case that Europe should cut ties with it.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-18T12:00:44.437191+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/4/18/death-penalty-law-proves-the-eu-must-treat-israel-as-an-apartheid-state?traffic_source=rss"
-  },
-  {
-    "id": "323198652b2f",
-    "source": "PressTV",
-    "date": "2026-04-18T12:00",
-    "headline": "Army Day: Leader hails Iran's army for courageously defending country from aggressors",
-    "excerpt": "In a message marking Army Day, Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei hailed the country's army for courageously defending the nation in the recent war, like in previous imposed wars.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-18T12:00:46.281079+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767094/army-day-leader-hails-army-courageously-defending-country-aggressors"
-  },
-  {
-    "id": "72750000c29c",
-    "source": "PressTV",
-    "date": "2026-04-18T12:00",
-    "headline": "Iran officials hail army as ‘symbol of power and security’ on Army Day",
-    "excerpt": "Several high-ranking Iranian officials have congratulated Iran’s Army commanders and personnel on Army Day.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-18T12:00:46.281124+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767092/Senior-Iranian-officials-congratulate-Army-personnel-commanders-on-Army-Day"
-  },
-  {
-    "id": "283c007fce48",
-    "source": "PressTV",
-    "date": "2026-04-18T12:00",
-    "headline": "Iran yet to approve next round of indirect talks with US: Report",
-    "excerpt": "The Islamic Republic of Iran has not yet approved the next round of indirect negotiations with the United States, according to a report.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-18T12:00:46.281149+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767095/Iran-yet-approve-next-round-indirect-talks-US-Report"
   }
 ]
