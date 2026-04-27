@@ -1,5 +1,60 @@
 [
   {
+    "id": "6517e14f4638",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T19:17",
+    "headline": "What people in Beirut think about the Lebanon-Israel negotiations",
+    "excerpt": "Lebanese leaders were in Washington earlier this month for the first direct negotiations with Israel in over 30 years.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-27T19:59:35.060521+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/what-people-in-beirut-think-about-the-lebanon-israel-negotiations?traffic_source=rss"
+  },
+  {
+    "id": "9f47c0b1367a",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T19:12",
+    "headline": "Iraqi president names Shia bloc candidate Ali al-Zaidi as PM-designate",
+    "excerpt": "Choice of al-Zaidi breaks a months-long deadlock after Trump opposed appointment of pro-Iran former PM al-Maliki.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-27T19:59:35.060558+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/27/iraqi-president-names-shia-bloc-candidate-ali-al-zaidi-as-pm-designate?traffic_source=rss"
+  },
+  {
+    "id": "e99d5011d13d",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T18:40",
+    "headline": "Timeline: The highs and lows of the US-UK ‘special relationship’",
+    "excerpt": "Tensions between the allies punctuate King Charles&#039;s US visit, designed to strengthen the UK-US partnership.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-04-27T19:59:35.060601+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/27/timeline-the-highs-and-lows-of-the-us-uk-special-relationship?traffic_source=rss"
+  },
+  {
+    "id": "912f26263318",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T18:07",
+    "headline": "US press gala shooting suspect charged with attempting to kill Trump",
+    "excerpt": "Prosecutor says Cole Tomas Allen &#039;attempted to assassinate the president of the United States&#039; in Saturday attack.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-27T19:59:35.060642+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/27/white-house-correspondents-dinner-shooting-suspect-charged?traffic_source=rss"
+  },
+  {
+    "id": "f04f2340b33a",
+    "source": "PressTV",
+    "date": "2026-04-27T19:59",
+    "headline": "Iran’s steadfastness gave it global influence: Vice president",
+    "excerpt": "Iran’s Vice President Aref says the country has gone from being a nation under sanctions to a source of global influence.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-27T19:59:36.481135+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/27/767656/Iran-Aref-resilience-sanctions-global-energy-crisis"
+  },
+  {
     "id": "c0f915aeaccb",
     "source": "Al Jazeera",
     "date": "2026-04-27T17:27",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-19T11:01:46.154443+00:00",
     "link": "https://presstv.ir/Detail/2026/04/19/767160/Pezeshkian-Trump-no-place-oppose-Iran-inalienable-nuclear-rights"
-  },
-  {
-    "id": "fc628b1681cf",
-    "source": "Al Jazeera",
-    "date": "2026-04-19T09:26",
-    "headline": "Iran war: What is happening on day 51 of the US-Iran conflict?",
-    "excerpt": "Tehran will keep the strategic Strait of Hormuz closed until Washington ends the blockade of Iranian ports.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-19T10:02:32.729298+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/19/iran-war-what-is-happening-on-day-51-of-the-us-iran-conflict?traffic_source=rss"
-  },
-  {
-    "id": "ceeaeee60c04",
-    "source": "Al Jazeera",
-    "date": "2026-04-19T09:12",
-    "headline": "How the Israeli military targets the people who save lives",
-    "excerpt": "Israeli attacks have killed at least 57 medical workers in Lebanon since early March. It is a pattern lifted from Gaza.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-19T10:02:32.729337+00:00",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/19/how-the-israeli-military-targets-the-people-who-save-lives?traffic_source=rss"
-  },
-  {
-    "id": "e303dc7fd586",
-    "source": "Al Jazeera",
-    "date": "2026-04-19T08:49",
-    "headline": "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse",
-    "excerpt": "Tehran is &#039;fully prepared&#039; for the US to resume hostilities at any moment, says Iran&#039;s parliament speaker Ghalibaf.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-19T10:02:32.729379+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/19/iran-us-still-far-from-breakthrough-in-strait-of-hormuz-impasse?traffic_source=rss"
-  },
-  {
-    "id": "5521b007eaa3",
-    "source": "Al Jazeera",
-    "date": "2026-04-19T00:00",
-    "headline": "Iran war live: Hormuz Strait ‘closed’ as Tehran says no date for US talks",
-    "excerpt": "IRGC says the Strait of Hormuz will remain closed until the US stops blockading Iranian ports.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-19T10:02:32.729427+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed?traffic_source=rss"
-  },
-  {
-    "id": "960cb3874575",
-    "source": "PressTV",
-    "date": "2026-04-19T10:02",
-    "headline": "Two young Palestinians killed in new Israeli strikes on Gaza",
-    "excerpt": "At least two young Palestinian men have been martyred in the latest rounds of Israeli strikes across the war-ravaged Gaza Strip.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-19T10:02:34.531075+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/19/767157/Two-young-Palestinians-killed-new-Israeli-strikes-Gaza"
   }
 ]
