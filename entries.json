@@ -1,5 +1,115 @@
 [
   {
+    "id": "ce6e53eed084",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T14:48",
+    "headline": "Lebanon Latest: Israel’s deadly attacks amid ceasefire breaches",
+    "excerpt": "Israeli airstrikes hit southern Lebanon as ceasefire falters, killing at least 14 and forcing new displacement.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-04-27T15:20:17.767130+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/aje-onl-aje_onl_lebanon_wrap-270426?traffic_source=rss"
+  },
+  {
+    "id": "98b9f5fa5685",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T14:45",
+    "headline": "Rival armed groups join forces against the Malian state: What next?",
+    "excerpt": "Armed groups with differing ideologies have launched coordinated attacks across Mali. Can they remain united?",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-04-27T15:20:17.767168+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/27/rival-armed-groups-join-forces-against-the-malian-state-what-next?traffic_source=rss"
+  },
+  {
+    "id": "8e4fcc9da9dd",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T14:43",
+    "headline": "NPT summit: Can nuclear pact survive US-Israel war on Iran?",
+    "excerpt": "Analysts say a review conference is unlikely to halt nuclear powers from continuing to flout the treaty&#039;s rules.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-27T15:20:17.767193+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/27/npt-summit-can-nuclear-pact-survive-us-israel-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "e61374aeb499",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T12:54",
+    "headline": "‘Clearly stronger’: Germany’s Merz says Iran ‘humiliated’ US in its war",
+    "excerpt": "German chancellor warns the US risks becoming bogged down in another quagmire similar to Iraq and Afghanistan.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-27T15:20:17.767220+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/27/iran-very-skilful-as-us-humiliated-says-german-chancellor?traffic_source=rss"
+  },
+  {
+    "id": "684d4af36d54",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T12:47",
+    "headline": "Have US-Iran talks failed? Why no deal yet doesn’t mean diplomacy is dead",
+    "excerpt": "US-Iran diplomacy in a deadlock, but analysts say both sides are unlikely to return to fighting.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-27T15:20:17.767239+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/27/have-us-iran-talks-failed-why-no-deal-yet-doesnt-mean-diplomacy-is-dead?traffic_source=rss"
+  },
+  {
+    "id": "06cdd3052a05",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T12:44",
+    "headline": "Lebanon cannot be bombed into sovereignty",
+    "excerpt": "A sovereign Lebanon and a demilitarised Hezbollah cannot be achieved without a credible political transition.",
+    "category": "Airstrike",
+    "location": "Lebanon",
+    "addedAt": "2026-04-27T15:20:17.767256+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/4/27/lebanon-cannot-be-bombed-into-sovereignty?traffic_source=rss"
+  },
+  {
+    "id": "b39323067757",
+    "source": "PressTV",
+    "date": "2026-04-27T15:20",
+    "headline": "People of Iran are fighting bravely and heroically for their sovereignty: Putin tells Araghchi",
+    "excerpt": "The people of Iran are fighting bravely and heroically for their sovereignty, Russian President Vladimir Putin told Iranian Foreign Minister Abbas Araghchi during their meeting on Monday.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-27T15:20:19.461496+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/27/767638/Putin-vows-utmost-efforts-to-establish-peace-in-meeting-with-Iran-FM"
+  },
+  {
+    "id": "54936a521db8",
+    "source": "PressTV",
+    "date": "2026-04-27T15:20",
+    "headline": "Iran to charge ships passing Strait of Hormuz in rial: Lawmaker",
+    "excerpt": "A senior Iranian lawmaker says ships passing through the Strait of Hormuz must pay charges in Iran's rial.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-27T15:20:19.461532+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/27/767637/Iran-Hormuz-Strait-toll-payment-parliament-motion-Azizi"
+  },
+  {
+    "id": "f9675ec596a4",
+    "source": "PressTV",
+    "date": "2026-04-27T15:20",
+    "headline": "Rights official slams UNICEF’s inaction on US-Israeli war crimes against Iranian children",
+    "excerpt": "The deputy chief of Iran’s Judiciary and secretary of the High Council for Human Rights criticizes the UN's children agency for failing to condemn war crimes committed by the US and the Israeli regime against Iranian children during the recent illegal war of aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-27T15:20:19.461567+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/27/767641/Rights-official-slams-UNICEF-s-inaction-on-US-Israeli-war-crimes-against-Iranian-children"
+  },
+  {
+    "id": "b8e3c0bedd40",
+    "source": "PressTV",
+    "date": "2026-04-27T15:20",
+    "headline": "Israel destroys power, water infrastructure of Christian-majority town in south Lebanon",
+    "excerpt": "The Israeli forces have destroyed the power and water systems of a Christian town in southern Lebanon.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-04-27T15:20:19.461588+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/27/767622/Israel-destroys-power,-water-infrastructure-of-Christian-town-in-south-Lebanon"
+  },
+  {
     "id": "cc71876d6907",
     "source": "Al Jazeera",
     "date": "2026-04-27T12:02",
@@ -5388,115 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-18T21:52:57.740183+00:00",
     "link": "https://www.aljazeera.com/sports/2026/4/18/manchester-united-beat-chelsea-as-cunha-strike-boosts-champions-league-hope?traffic_source=rss"
-  },
-  {
-    "id": "cc225d9bccb0",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T21:06",
-    "headline": "Iran military orders Indian ship to abort Strait of Hormuz passage",
-    "excerpt": "Video shows the moment Iran’s military ordered an Indian ship to abort its passage of the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-18T21:52:57.740226+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/iran-military-orders-indian-ship-to-abort-strait-of-hormuz-passage?traffic_source=rss"
-  },
-  {
-    "id": "35e77b27ce86",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T21:03",
-    "headline": "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza",
-    "excerpt": "It is the first time Israel has referred to such a &#039;yellow line&#039; in Lebanon, after using a similar measure in Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-18T21:52:57.740265+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/18/israel-says-established-a-yellow-line-in-lebanon-as-it-has-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "7475f06766bc",
-    "source": "PressTV",
-    "date": "2026-04-18T21:52",
-    "headline": "Iran closed Strait of Hormuz as US maintains blockade in violation of ceasefire terms: IRGC Navy",
-    "excerpt": "IRGC Navy says Iran closed the Strait of Hormuz after the US decided to maintain its blockade of Iranian ports, in violation of ceasefire terms.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-18T21:52:59.193911+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767134/Iran-closes-Hormuz-Trump-United-States-blockade"
-  },
-  {
-    "id": "69a6d87cb5f3",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T19:29",
-    "headline": "Mazzucato on the Iran war’s economic shock: Who pays the price?",
-    "excerpt": "Redi Tlhabi speaks to economist Mariana Mazzucato on the Iran war&#039;s economic fallout and who’s really paying the price.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-18T19:57:18.024233+00:00",
-    "link": "https://www.aljazeera.com/video/upfront/2026/4/18/mazzucato-on-the-iran-wars-economic-shock-who-pays-the-price?traffic_source=rss"
-  },
-  {
-    "id": "9e07761ffc09",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T18:02",
-    "headline": "Ukraine police shoot dead gunman who killed six in Kyiv, took hostages",
-    "excerpt": "The attacker has been identified as a &quot;58-year-old Moscow man&quot;, but no motive has been established.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-18T19:57:18.024278+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/18/ukraine-police-shoot-dead-gunman-who-killed-six-in-kyiv-took-hostages?traffic_source=rss"
-  },
-  {
-    "id": "85ab5244fe3d",
-    "source": "PressTV",
-    "date": "2026-04-18T19:57",
-    "headline": "Qalibaf warned US in Islamabad: If minesweeper in Strait of Hormuz moved an inch, Iran will fire",
-    "excerpt": "Speaker Qalibaf says he warned a US delegation in Islamabad that if their minesweeper in the Strait of Hormuz moved an inch, Iranian forces would fire, which forced them to retreat",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-04-18T19:57:19.961514+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767132/qalibaf-warned-americans-if-minesweeper-strait-hormuz-moved-iran-will-fire"
-  },
-  {
-    "id": "7e962119f826",
-    "source": "PressTV",
-    "date": "2026-04-18T19:57",
-    "headline": "Iran’s closure of Hormuz forced US, Israel to accept Lebanon ceasefire: Hezbollah chief",
-    "excerpt": "Secretary-General of Hezbollah Sheikh Naim Qassem thanked Iran for its support in the face of Israeli aggression and said the closure of the Strait of Hormuz forced the United States and Israel to agree to a ceasefire in Lebanon.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-18T19:57:19.961565+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767130/Iran-s-closure-of-Hormuz-forced-US-Israel-to-accept-Lebanon-ceasefire-Hezbollah-chief"
-  },
-  {
-    "id": "d89ee1077368",
-    "source": "PressTV",
-    "date": "2026-04-18T19:57",
-    "headline": "IRGC says 3 terrorist ringleaders killed in strike on Iraq’s Kurdistan region",
-    "excerpt": "The IRGC says its attacks on terrorist hideouts in Iraq’s Kurdistan killed three notorious anti-Iran figures.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-18T19:57:19.961593+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767123/IRGC-says-3-terrorist-ringleaders-killed-in-strike-on-Iraq-s-Kurdistan-region"
-  },
-  {
-    "id": "89f54a3b9127",
-    "source": "PressTV",
-    "date": "2026-04-18T18:04",
-    "headline": "Pezeshkian praises Army for defending Iran’s territorial integrity during war",
-    "excerpt": "President Masoud Pezeshkian says the Iranian Army is firmly determined to continue its path to defend Iran’s territorial integrity and the Islamic Revolution.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-18T18:04:48.419822+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/18/767120/Pezeshkian-praises-Army-for-defending-Iran-s-territorial-integrity-during-war%C2%A0"
-  },
-  {
-    "id": "e49f6c7f6374",
-    "source": "Al Jazeera",
-    "date": "2026-04-18T15:16",
-    "headline": "French soldier serving with UNIFIL killed in Lebanon attack",
-    "excerpt": "The deadly incident comes just days after Israel and Lebanon announced a 10-day ceasefire.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-18T16:06:28.275718+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/18/french-soldier-serving-with-unifil-killed-in-lebanon-attack?traffic_source=rss"
   }
 ]
