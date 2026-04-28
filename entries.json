@@ -1,5 +1,82 @@
 [
   {
+    "id": "7bc354649eee",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T03:54",
+    "headline": "Mexican military captures cartel commander Audias Flores",
+    "excerpt": "The Mexican military released footage of an operation resulting in the capture of Audias Flores.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-28T04:08:03.609700+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/mexican-military-captures-cartel-commander-audias-flores?traffic_source=rss"
+  },
+  {
+    "id": "0fe371f5d318",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T02:01",
+    "headline": "14 killed in South Sudan plane crash near capital Juba",
+    "excerpt": "A passenger plane crashed southwest of South Sudan’s capital Juba, killing all 14 people on board.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-28T04:08:03.609746+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/14-killed-in-south-sudan-plane-crash-near-capital-juba?traffic_source=rss"
+  },
+  {
+    "id": "531bd89a33c9",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T01:33",
+    "headline": "What’s driving the coordinated attacks across Mali?",
+    "excerpt": "Al Jazeera’s Nada Qaddourah explains how armed groups in Mali appear to be joining forces.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-04-28T04:08:03.609785+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/whats-driving-the-coordinated-attacks-across-mali?traffic_source=rss"
+  },
+  {
+    "id": "3b2e349a481d",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T00:00",
+    "headline": "Iran war live: Trump reviews peace plan; UN calls for Hormuz to reopen",
+    "excerpt": "UN chief says US-Iran standoff in the Strait of Hormuz risks triggering a global food emergency.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-28T04:08:03.609815+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen?traffic_source=rss"
+  },
+  {
+    "id": "a79ab50175b2",
+    "source": "Al Jazeera",
+    "date": "2026-04-27T23:58",
+    "headline": "Israeli settlers attack Palestinians and set house on fire",
+    "excerpt": "Israeli settlers set fire to a Palestinian home in the occupied West Bank village of Jalud.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-28T04:08:03.609844+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/israeli-settlers-attack-palestinians-and-set-house-on-fire?traffic_source=rss"
+  },
+  {
+    "id": "32e9e2ae7007",
+    "source": "PressTV",
+    "date": "2026-04-28T04:08",
+    "headline": "Araghchi hails 'depth and strength’ of Iran-Russia strategic partnership",
+    "excerpt": "Iranian Foreign Minister Seyed Abbas Araghchi has affirmed the unbreakable strategic partnership between Iran and Russia.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-28T04:08:05.315097+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/28/767666/Araghchi-hails--depth-and-strength-of-strategic-partnership--between-Iran-and-Russia"
+  },
+  {
+    "id": "089a9695bdaa",
+    "source": "PressTV",
+    "date": "2026-04-28T04:08",
+    "headline": "Iran: Responsibility for any disruption in Strait of Hormuz lies squarely with US aggression",
+    "excerpt": "Iran has categorically stated that any disruption or obstruction in maritime traffic through the Strait of Hormuz and surrounding waters is the direct responsibility of the United States and its allies.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-28T04:08:05.315141+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/28/767664/Iran--Responsibility-for-any-disruption-in-Strait-of-Hormuz-lies-squarely-with-US-aggression"
+  },
+  {
     "id": "d29f80df1da4",
     "source": "PressTV",
     "date": "2026-04-28T00:08",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-19T17:40:11.333735+00:00",
     "link": "https://presstv.ir/Detail/2026/04/19/767172/Iran-replenishing-missile-stockpiles-faster-than-before-war-IRGC-commander%C2%A0"
-  },
-  {
-    "id": "6a3ed6f8be18",
-    "source": "Al Jazeera",
-    "date": "2026-04-19T15:38",
-    "headline": "Satellite images reveal Israel expanding Gaza military sites",
-    "excerpt": "Images show Israel building permanent military bases in Gaza as US-backed reconstruction plans stall.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-19T16:50:26.185292+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/19/satellite-images-reveal-israel-expanding-gaza-military-sites?traffic_source=rss"
-  },
-  {
-    "id": "dc717ed602af",
-    "source": "Al Jazeera",
-    "date": "2026-04-19T14:08",
-    "headline": "What to know about US-Iran standoff over the Strait of Hormuz",
-    "excerpt": "Trump accuses Iran of violating the ceasefire as he announces plans to send US negotiators to Pakistan for more talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-19T14:59:55.049077+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/19/what-to-know-about-us-iran-standoff-over-the-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "030958dd5aab",
-    "source": "PressTV",
-    "date": "2026-04-19T14:59",
-    "headline": "Iran replenishing missile stockpiles faster than before war: IRGC commander",
-    "excerpt": "According to a top military commander, the US has been “incapable” of achieving the same level of operational readiness as Iran within the current ceasefire window.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-19T14:59:56.646055+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/19/767172/Iran-replenishing-missile-stockpiles-faster-than-before-war-IRGC-commander%C2%A0"
-  },
-  {
-    "id": "80850057cfd8",
-    "source": "PressTV",
-    "date": "2026-04-19T14:59",
-    "headline": "Iran says US blockade of ports unlawful, criminal, and violation of ceasefire",
-    "excerpt": "Iran’s Foreign Ministry spokesman says the US has violated the UN Charter by imposing a naval blockade on the country.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-19T14:59:56.646090+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/19/767174/Iran-says-US-blockade-of-ports-unlawful-and-a-war-crime"
-  },
-  {
-    "id": "0a823f20a005",
-    "source": "Al Jazeera",
-    "date": "2026-04-19T13:23",
-    "headline": "Displaced Lebanese woman returns to find home destroyed after ceasefire",
-    "excerpt": "A displaced woman returned to  southern Lebanon after a ceasefire to find her house reduced to rubble.",
-    "category": "Diplomatic",
-    "location": "Lebanon",
-    "addedAt": "2026-04-19T14:05:52.589069+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/displaced-lebanese-woman-returns-to-find-home-destroyed-after-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "ff05b557c127",
-    "source": "Al Jazeera",
-    "date": "2026-04-19T12:38",
-    "headline": "Trump says US negotiators to head to Pakistan for Iran talks",
-    "excerpt": "US president announces talks in Islamabad and accuses Iran of violating truce, warning Tehran of severe repercussions.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-19T14:05:52.589111+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks?traffic_source=rss"
-  },
-  {
-    "id": "2651b557a1b8",
-    "source": "PressTV",
-    "date": "2026-04-19T14:05",
-    "headline": "Iranian armed forces turn back two oil tankers in Strait of Hormuz: Report",
-    "excerpt": "Iranian armed forces have intercepted two oil tankers attempting to navigate through the Strait of Hormuz, forcing them to alter their routes and retreat from the region",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-19T14:05:54.234529+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/19/767164/Iran-armed-forces-intercept-oil-tankers-Strait-of-Hormuz-blockade-"
   }
 ]
