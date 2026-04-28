@@ -1,5 +1,49 @@
 [
   {
+    "id": "6405b66e1e2d",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T19:59",
+    "headline": "Trump scolds Germany’s Merz for criticism of Iran war",
+    "excerpt": "US president says German chancellor &#039;doesn&#039;t know what he&#039;s talking about&#039;, defends war on Iran as necessary.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-28T21:12:16.685435+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/28/trump-scolds-germanys-merz-for-criticism-of-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "b9add8573e04",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T19:40",
+    "headline": "After 60 days of war in Iran, does US Congress want a say?",
+    "excerpt": "Under law, Trump needs Congressional approval to continue war, experts say, but Congress may avoid the issue altogether.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-28T21:12:16.685480+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/28/after-60-days-of-war-in-iran-does-us-congress-want-a-say?traffic_source=rss"
+  },
+  {
+    "id": "06a9d5f4ef81",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T19:34",
+    "headline": "Massive explosion from Israeli operation seen in southern Lebanon",
+    "excerpt": "Video captured massive explosions in southern Lebanon in what the Israeli military called strikes on a Hezbollah tunnel.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-04-28T21:12:16.685513+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/massive-explosion-from-israeli-operation-seen-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "4fb55a1ac33d",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T19:32",
+    "headline": "Can the Nuclear Non-Proliferation Treaty prevent a disaster?",
+    "excerpt": "The United Nations chief warns of the waning influence of the global agreement.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-04-28T21:12:16.685545+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/4/28/can-the-nuclear-non-proliferation-treaty-prevent-a-disaster?traffic_source=rss"
+  },
+  {
     "id": "d7a6d7e25ec9",
     "source": "Al Jazeera",
     "date": "2026-04-28T19:06",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-20T13:56:55.283690+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/20/powerful-7-4-earthquake-strikes-northern-japan-tsunami-warning-issued?traffic_source=rss"
-  },
-  {
-    "id": "d421cd3197fb",
-    "source": "PressTV",
-    "date": "2026-04-20T13:56",
-    "headline": "Pakistan tells Trump blockade of Iran hampering efforts to resume talks",
-    "excerpt": "Pakistan’s top mediator has told Trump that the US blockade on Iran is an obstacle to the resumption of Iran-US talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-20T13:56:56.964873+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/20/767228/Pakistan-Iran-US-talks-Munir-Trump-blockade"
-  },
-  {
-    "id": "55af00648e7f",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T11:23",
-    "headline": "Russia claims Ukraine-linked bomb plot foiled, German woman arrested",
-    "excerpt": "Russia&#039;s FSB accuses the woman, found with a bomb in her backpack, of taking part in a plot hatched by Ukraine.",
-    "category": "Airstrike",
-    "location": "Oman",
-    "addedAt": "2026-04-20T11:53:01.883100+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/20/russia-claims-foiled-bomb-plot-involving-german-woman?traffic_source=rss"
-  },
-  {
-    "id": "42333ee96747",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T10:21",
-    "headline": "The EU must not wait till Israel starts executing Palestinians",
-    "excerpt": "It must cancel the EU-Israel Association Agreement immediately over Israeli violations of the human rights clause.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-20T11:53:01.883146+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/20/the-eu-must-not-wait-till-israel-starts-executing-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "3f3baaab0c1a",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T10:06",
-    "headline": "Second round in Islamabad: Who are the main US-Iran negotiators?",
-    "excerpt": "Fresh talks between the US and Iran are uncertain. But these are the key figures who have driven negotiations so far.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-20T11:53:01.883180+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table?traffic_source=rss"
   }
 ]
