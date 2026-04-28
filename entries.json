@@ -1,5 +1,38 @@
 [
   {
+    "id": "8e0de7c444fc",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T22:50",
+    "headline": "Israeli soldier shows Gaza’s Beit Hanoon completely flattened",
+    "excerpt": "A video filmed by an Israeli soldier shows widespread destruction in northern Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-28T23:12:49.422208+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/israeli-soldier-shows-gazas-beit-hanoon-completely-flattened?traffic_source=rss"
+  },
+  {
+    "id": "212d372440ad",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T22:08",
+    "headline": "As US-Iran talks remain ‘stalled’, experts warn of ‘long-term disruptions’",
+    "excerpt": "With the two sides locked in a standoff, oil prices have continued to soar.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-28T23:12:49.422258+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/28/as-us-iran-talks-remain-stalled-experts-warn-of-long-term-disruptions?traffic_source=rss"
+  },
+  {
+    "id": "5f53764797c4",
+    "source": "PressTV",
+    "date": "2026-04-28T23:12",
+    "headline": "IRGC Navy to confront any fresh American aggression with 'surprise tactics': Official",
+    "excerpt": "The IRGC Navy's deputy for political affairs says the naval force's \"surprise tactics\" await the United States in the event of any fresh miscalculation.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-04-28T23:12:51.173919+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/28/767719/Iran-IRGC-Navy-warning-United-States"
+  },
+  {
     "id": "112cc5a9255f",
     "source": "Al Jazeera",
     "date": "2026-04-28T21:49",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-20T15:22:27.450266+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points?traffic_source=rss"
-  },
-  {
-    "id": "994969eb0aa2",
-    "source": "PressTV",
-    "date": "2026-04-20T15:22",
-    "headline": "Rights body slams US-Israeli ‘organized massacre’ of 344 Iranian students, teachers",
-    "excerpt": "Iran's High Council for Human Rights condemns the “organized massacre” of 344 Iranian students and teachers during the recent war of aggression waged by the Unites States and the Israeli regime against the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-20T15:22:28.928923+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/20/767230/Rights-body-slams-US-Israeli-organized-massacre-of-344-Iranian-students-teachers"
-  },
-  {
-    "id": "123887214c30",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T13:09",
-    "headline": "Tight security in Islamabad as US-Iran talks set to go ahead",
-    "excerpt": "Security is on lockdown in Islamabad where preparations are being made for new US‑Iran talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-20T13:56:55.283518+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/tight-security-in-islamabad-as-us-iran-talks-set-to-go-ahead?traffic_source=rss"
-  },
-  {
-    "id": "97b627bc4322",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T12:43",
-    "headline": "What we know about the US capture of Iranian vessel near Hormuz",
-    "excerpt": "US releases video showing the capture of Iranian-flagged ship near Hormuz, Trump says it tried to breach its blockade.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-20T13:56:55.283560+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/what-we-know-about-the-us-capture-of-iranian-vessel-near-hormuz?traffic_source=rss"
   }
 ]
