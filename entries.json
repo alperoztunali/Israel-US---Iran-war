@@ -1,5 +1,82 @@
 [
   {
+    "id": "a602d5423748",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T16:48",
+    "headline": "Ukrainian drones strike Russia’s Tuapse refinery for third time",
+    "excerpt": "Ukraine targeted a major Russian oil refinery in the Black Sea port city of Tuapse for the third time within two weeks.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-04-28T17:54:11.653625+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/ukrainian-drones-strike-russias-tuapse-refinery-for-third-time?traffic_source=rss"
+  },
+  {
+    "id": "61c7f4da8bdb",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T16:28",
+    "headline": "Is a US-Iran deal still possible?",
+    "excerpt": "As the Strait of Hormuz stays largely shut and Washington sends mixed signals, talks run through Islamabad and Moscow.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-28T17:54:11.653668+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/28/is-a-us-iran-deal-still-possible?traffic_source=rss"
+  },
+  {
+    "id": "f9610e05cf99",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T16:19",
+    "headline": "UAE leaves OPEC in blow to oil cartel amid war on Iran",
+    "excerpt": "The United ‌Arab Emirates has announced it’s withdrawing from OPEC and OPEC+.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-28T17:54:11.653706+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/uae-leaves-opec-in-blow-to-oil-cartel-amid-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "522dc101e0ef",
+    "source": "Al Jazeera",
+    "date": "2026-04-28T15:54",
+    "headline": "Gulf leaders meet in Saudi Arabia for first time since start of war on Iran",
+    "excerpt": "High-level GCC summit in Jeddah embodies &#039;unified Gulf stance&#039; towards the war, Qatar&#039;s emir says.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-28T17:54:11.653737+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/28/gulf-leaders-meet-in-saudi-arabia-for-first-time-since-start-of-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "42818cc4d14a",
+    "source": "PressTV",
+    "date": "2026-04-28T17:54",
+    "headline": "Iran says post-war transit through Strait of Hormuz only possible under its security protocols",
+    "excerpt": "Iran says it will allow post-war transit via Hormuz if its security protocols are complied with.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-28T17:54:13.576913+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/28/767692/Iran-deputy-defense-minister-Talayi-Nik-Hormuz-Strait-comments"
+  },
+  {
+    "id": "fbc58e78c757",
+    "source": "PressTV",
+    "date": "2026-04-28T17:54",
+    "headline": "Iran's Air Force conducted sorties to strike US bases in Iraq, Kuwait, Qatar early in war: Army",
+    "excerpt": "The Iranian Army’s Air Force carried out multiple sorties against enemy bases in regional countries.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-28T17:54:13.576968+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/28/767702/Iranian-Air-Force-conducted-sorties-to-strike-US-bases-in-Iraq,-Kuwait,-Qatar--Army"
+  },
+  {
+    "id": "9385f00c8595",
+    "source": "PressTV",
+    "date": "2026-04-28T17:54",
+    "headline": "‎Israeli military issues fresh displacement orders for south Lebanon beyond ‘yellow line’",
+    "excerpt": "‎Israel’s military has issued displacement orders for residents of more than a dozen villages and towns in southern Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-28T17:54:13.577008+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/28/767699/%E2%80%8EIsrael-issues-displacement-orders-for-south-Lebanon-beyond-%E2%80%98yellow-line%E2%80%99"
+  },
+  {
     "id": "5b34884fff88",
     "source": "Al Jazeera",
     "date": "2026-04-28T14:55",
@@ -5421,82 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-20T10:19:42.664240+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/20/uk-universities-pay-to-spy-on-students-social-media-accounts?traffic_source=rss"
-  },
-  {
-    "id": "06183ef908e1",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T09:26",
-    "headline": "Magnitude 7.5 earthquake strikes northern Japan; tsunami warning issued",
-    "excerpt": "Prime Minister Sanae Takaichi says the government has set up a crisis management team following the strong earthquake.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-20T10:19:42.664293+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/20/powerful-7-4-earthquake-strikes-northern-japan-tsunami-warning-issued?traffic_source=rss"
-  },
-  {
-    "id": "a6c6f9e1633e",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T09:23",
-    "headline": "Ukraine claims attack on Russian warships in occupied Crimea",
-    "excerpt": "Ukraine&#039;s military intelligence says two large landing ships struck in Sevastopol Bay in Russian-occupied Crimea.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-04-20T10:19:42.664328+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/20/kyiv-claims-to-hit-russian-landing-ships-as-both-sides-trade-deadly-attacks?traffic_source=rss"
-  },
-  {
-    "id": "b2a3f7cf4016",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T08:50",
-    "headline": "Palestinian children protest against siege on their school",
-    "excerpt": "Palestinian children protested against Israeli settlers and troops blocking the only safe route to their school.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-20T10:19:42.664357+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/palestinian-children-protest-against-siege-on-their-school?traffic_source=rss"
-  },
-  {
-    "id": "f3357c1e388f",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T07:21",
-    "headline": "Iran war: What is happening on day 52 of US-Israeli attacks?",
-    "excerpt": "Islamabad talks in limbo as Iran says it will retaliate after US marines capture an Iranian ship near Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-20T10:19:42.664389+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/20/iran-war-what-is-happening-on-day-52-of-the-us-israeli-conflict?traffic_source=rss"
-  },
-  {
-    "id": "e066a615cd32",
-    "source": "PressTV",
-    "date": "2026-04-20T10:19",
-    "headline": "Iran: US not serious about talks, will receive decisive response if repeats past mistakes",
-    "excerpt": "Iran says the US is not serious about talks, asserting that Washington will face the Islamic Republic's decisive retaliation if it repeats its past mistakes concerning the country.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-20T10:19:49.099092+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/20/767212/US-not-serious-about-talks--will-receive-decisive-response-if-repeats-past-mistakes--Foreign-Ministry"
-  },
-  {
-    "id": "c84d415cfbf0",
-    "source": "PressTV",
-    "date": "2026-04-20T10:19",
-    "headline": "Pezeshkian urges unity among Muslim nations to foil foreign plots",
-    "excerpt": "Iran’s President Masoud Pezeshkian says strengthening unity among Islamic countries is the most important way to counter conspiracies and prevent foreign powers from taking advantage.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-20T10:19:49.099137+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/20/767209/Pezeshkian-Unity-in-Islamic-world-key-to-countering-conspiracies"
-  },
-  {
-    "id": "e392fa9ac0de",
-    "source": "PressTV",
-    "date": "2026-04-20T10:19",
-    "headline": "Two spies convicted of working for Israel's Mossad executed in Iran",
-    "excerpt": "Two individuals convicted of espionage for the Israeli Mossad spy agency were executed in Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-20T10:19:49.099172+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/20/767216/Two-spies-convicted-of-working-for-Israel-s-Mossad-executed-in-Iran"
   }
 ]
