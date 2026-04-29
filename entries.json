@@ -1,5 +1,60 @@
 [
   {
+    "id": "08c35e033ade",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T21:59",
+    "headline": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
+    "excerpt": "Organisers of a Gaza-bound aid mission say their vessels are being intercepted by Israeli military speedboats.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-29T22:39:47.257796+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss"
+  },
+  {
+    "id": "b63c1e28e651",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T21:46",
+    "headline": "Israel intercepts Global Sumud boats, demands activists halt their mission",
+    "excerpt": "Seven out of 58 vessels captured by Israel near Crete as flotilla aims to deliver aid to Gaza under blockade.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-29T22:39:47.257829+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss"
+  },
+  {
+    "id": "c2342c173328",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T21:30",
+    "headline": "UAE quits OPEC",
+    "excerpt": "The UAE announced it’s withdrawing from OPEC on May 1st.",
+    "category": "Statement",
+    "location": "Uae",
+    "addedAt": "2026-04-29T22:39:47.257861+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss"
+  },
+  {
+    "id": "3b73b304b1ee",
+    "source": "PressTV",
+    "date": "2026-04-29T22:39",
+    "headline": "Iran to soon unveil a weapon the enemy is 'deeply afraid of': Navy commander",
+    "excerpt": "Iran's Navy commander says the Islamic Republic will \"very soon\" confront the enemy with a weapon \"it is deeply afraid of.\"",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-29T22:39:48.999598+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/29/767772/Iran-Navy-warning-United-States-weapon"
+  },
+  {
+    "id": "eb95f34f3464",
+    "source": "PressTV",
+    "date": "2026-04-29T22:39",
+    "headline": "Explainer: How an Iranian fighter jet slid through layered air defenses to bomb US base in Kuwait",
+    "excerpt": "In a historic feat, an Iranian fighter jet evaded layered US air defenses to bomb Camp Buehring in Kuwait in the early days of the 40-day war, shattering the myth of US air superiority and validating Iran's indigenous aerospace power.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-04-29T22:39:48.999624+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/28/767667/explainer-how-irans-indigenous-fighter-breached-us-air-defenses-and-bombed-an-american-base"
+  },
+  {
     "id": "74e78985fbf4",
     "source": "Al Jazeera",
     "date": "2026-04-29T20:52",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-21T16:43:51.733924+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/21/rabbi-accused-of-war-crimes-selected-for-israels-national-celebration?traffic_source=rss"
-  },
-  {
-    "id": "35e2aecf9943",
-    "source": "PressTV",
-    "date": "2026-04-21T16:43",
-    "headline": "Ansarullah will ‘return to war’ if US, Israel resume aggression against Iran: Houthi",
-    "excerpt": "Ansarullah leader Abdul-Malik al-Houthi says the Yemeni resistance movement will return to fighting if a fragile ceasefire that halted 40 days of American-Israeli aggression against Iran expires without an agreement to permanently end the war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-21T16:43:53.273060+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/21/767297/Ansarullah-return-to-war-if-US-Israel-resume-aggression-against-Iran-Houthi"
-  },
-  {
-    "id": "28ba26452371",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T14:58",
-    "headline": "Video: US forces board sanctioned tanker in Asia Pacific",
-    "excerpt": "The Department of War has released a video it says shows US forces boarding a sanctioned tanker in the Asia Pacific.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-04-21T15:44:04.198001+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-us-forces-board-sanctioned-tanker-in-asia-pacific?traffic_source=rss"
-  },
-  {
-    "id": "abcc3b6d393b",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T14:56",
-    "headline": "Trump says he opposes extending Iran ceasefire amid talks uncertainty",
-    "excerpt": "US president says Iran has &#039;no choice&#039; but to show up to the negotiations in Pakistan and accept a &#039;great&#039; deal.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-21T15:44:04.198045+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/21/trump-says-he-opposes-extending-iran-ceasefire-amid-talks-uncertainty?traffic_source=rss"
-  },
-  {
-    "id": "f54bcc0363f3",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T14:53",
-    "headline": "Why is the EU under pressure to suspend its trade agreement with Israel?",
-    "excerpt": "Divided EU nations debate suspending Israel deal as pressure mounts over rights violations in Gaza and the West Bank.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-21T15:44:04.198080+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/21/why-is-the-eu-under-pressure-to-suspend-its-trade-agreement-with-israel?traffic_source=rss"
-  },
-  {
-    "id": "d83fc2fffa24",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T14:03",
-    "headline": "Nigeria charges six people with ‘terrorism’, treason over 2025 coup plot",
-    "excerpt": "Nigerian authorities have charged six military officers over an alleged plot to overthrow President Bola Tinubu.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-21T15:44:04.198151+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/21/nigeria-charges-six-people-with-terrorism-treason-over-2025-coup-plot?traffic_source=rss"
   }
 ]
