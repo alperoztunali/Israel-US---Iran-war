@@ -1,5 +1,82 @@
 [
   {
+    "id": "6a8cd65db233",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T08:25",
+    "headline": "‘Particularly badly exposed’: How the Iran war is hitting the UK",
+    "excerpt": "The likelihood of economic woes and unrest grows as the conflict shows no sign of ending.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-29T09:02:04.330730+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk?traffic_source=rss"
+  },
+  {
+    "id": "d7b06d5e70df",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T07:46",
+    "headline": "Is India’s Chabahar dream in Iran dead?",
+    "excerpt": "The port has been a centrepiece of India&#039;s regional strategic ambitions. Now, those hopes are sinking.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-29T09:02:04.330767+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/29/is-indias-chabahar-dream-in-iran-dead?traffic_source=rss"
+  },
+  {
+    "id": "65ca0757771b",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T07:00",
+    "headline": "Two Kashmir brothers: One killed by rebels, another by army 26 years later",
+    "excerpt": "The killings encapsulate the tragedy unfolding in region for decades, as the family grapples with unanswered questions.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-04-29T09:02:04.330797+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/29/two-kashmir-brothers-one-killed-by-rebels-another-by-army-26-years-later?traffic_source=rss"
+  },
+  {
+    "id": "a274d56bd982",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T06:58",
+    "headline": "Life in limbo: How Iranians navigate a state of ‘no war, no peace’",
+    "excerpt": "Tehran’s residents are living through a fragile truce and deep economic uncertainty.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-29T09:02:04.330831+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/29/life-in-limbo-how-iranians-navigate-a-state-of-no-war-no-peace?traffic_source=rss"
+  },
+  {
+    "id": "61a538e046e9",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T06:58",
+    "headline": "Iran war: What’s happening on day 61 as UAE exits OPEC?",
+    "excerpt": "Trump says Iran is in a &#039;state of collapse&#039; as Gulf leaders meet in Saudi Arabia.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-29T09:02:04.330861+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/29/iran-war-whats-happening-on-day-61-as-uae-exits-opec?traffic_source=rss"
+  },
+  {
+    "id": "b41406652e8d",
+    "source": "PressTV",
+    "date": "2026-04-29T09:02",
+    "headline": "Iran has every right to counter US piracy, terrorism: UN envoy",
+    "excerpt": "Iran's UN ambassador says the Islamic Republic reserves all rights to duly confront the United States' acts of state-sponsored piracy and terrorism.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-29T09:02:09.829649+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/29/767720/Iran-piracy-terrorism-United-States"
+  },
+  {
+    "id": "4bc45b173d1d",
+    "source": "PressTV",
+    "date": "2026-04-29T09:02",
+    "headline": "Yemen says not neutral on any new US 'adventurism' against Iran",
+    "excerpt": "Yemen has pledged support for Iran’s stance on the Strait of Hormuz, warning Trump against further adventurism in the region.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-29T09:02:09.829689+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/29/767723/Yemen-supports-Iran,-warns-Trump-against-adventurism,-barbarism-"
+  },
+  {
     "id": "c0b53793123b",
     "source": "Al Jazeera",
     "date": "2026-04-29T06:02",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-20T18:44:27.730261+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/20/uae-reports-dismantling-of-iran-linked-terror-cell?traffic_source=rss"
-  },
-  {
-    "id": "dec2b408c5d0",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T17:46",
-    "headline": "Woman charged in US with trafficking arms to Sudan for Iranian government",
-    "excerpt": "US accuses Iranian citizen of brokering arms deals, including for drones and ammunition, with Sudan Ministry of Defence.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-20T18:44:27.730288+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/20/woman-charged-in-us-with-trafficking-arms-to-sudan-for-iranian-government?traffic_source=rss"
-  },
-  {
-    "id": "7f60554591f2",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T17:35",
-    "headline": "‘Nothing left’: Hong Kong fire survivors return to burnt homes",
-    "excerpt": "Hong Kong fire survivors return to Wang Fuk Court five months after a blaze killed 168 people.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-20T18:44:27.730322+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/nothing-left-hong-kong-fire-survivors-return-to-burnt-homes?traffic_source=rss"
-  },
-  {
-    "id": "6963581b0fbf",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T17:33",
-    "headline": "These are difficult times for the world, so what will Pakistan do?",
-    "excerpt": "The talks between the United States and Iran mediated by Pakistan have not failed. They do face significant challenges.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-20T18:44:27.730350+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/20/these-are-difficult-times-for-the-world-so-what-will-pakistan-do?traffic_source=rss"
-  },
-  {
-    "id": "b69ebcaee273",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T17:15",
-    "headline": "Lebanon, Israel to meet again Thursday for direct talks, US says",
-    "excerpt": "US confirms second round of negotiations between the two countries as the Israeli military annihilates Lebanese towns.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-20T18:44:27.730383+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/20/lebanon-israel-to-meet-again-thursday-for-direct-talks-us-says?traffic_source=rss"
-  },
-  {
-    "id": "3c8b7a48c487",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T17:11",
-    "headline": "‘Everyone must calm down’, Macron urges as US-Iran talks near",
-    "excerpt": "French President Emmanuel Macron said that “everyone must calm down” and maintain the US-Israel-Iran-Lebanon ceasefire.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-20T18:44:27.730417+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/everyone-must-calm-down-macron-urges-as-us-iran-talks-near?traffic_source=rss"
-  },
-  {
-    "id": "9f722cb2d445",
-    "source": "PressTV",
-    "date": "2026-04-20T18:44",
-    "headline": "No ceasefire without Israel withdrawing from south Lebanon: MP",
-    "excerpt": "A senior Lebanese lawmaker says any extension of the ongoing ten-day ceasefire between Lebanon and Israel depends on the withdrawal of Israeli occupation forces from southern Lebanon.  ‎",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-20T18:44:29.270455+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/20/767240/No-ceasefire-without-Israel-withdrawing-from-south-Lebanon-MP%C2%A0"
-  },
-  {
-    "id": "8b27a55c4c4e",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T16:48",
-    "headline": "At least 21 killed as bus crashes into Kashmir gorge",
-    "excerpt": "The overcrowded bus skidded as it navigated a sharp curve in the mountainous region.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-20T17:43:52.122081+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/20/at-least-21-killed-as-bus-skids-off-kashmir-road-into-gorge?traffic_source=rss"
   }
 ]
