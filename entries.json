@@ -1,5 +1,60 @@
 [
   {
+    "id": "08f8ec92343f",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T03:11",
+    "headline": "Lebanon’s PM slams Israel’s ‘war crimes’ as attack kills 3 rescue workers",
+    "excerpt": "Lebanese President Joseph Aoun says Israel violating international law that protects civilians and humanitarian workers.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-29T04:03:51.396775+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/29/lebanons-pm-slams-israels-war-crimes-as-attack-kills-3-rescue-workers?traffic_source=rss"
+  },
+  {
+    "id": "aebe2939fca9",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T03:06",
+    "headline": "UAE quits OPEC as oil cartel takes blow during war on Iran",
+    "excerpt": "The UAE’s decision to quit OPEC to prioritise its ‘national interests’ deals a blow to the oil group.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-29T04:03:51.396823+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec-as-oil-cartel-takes-blow-during-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "a14a8dbddb00",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T02:51",
+    "headline": "Mali’s military leader emerges after alleged coup attempt",
+    "excerpt": "Mali’s military leader says the country is ‘under control’ after what’s been described as an attempted coup.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-29T04:03:51.396872+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/malis-military-leader-emerges-after-alleged-coup-attempt?traffic_source=rss"
+  },
+  {
+    "id": "f9ccb3112f3c",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T00:00",
+    "headline": "Iran war live: Trump says Tehran wants end to blockade; Israel kills medics",
+    "excerpt": "US president says Iran has reached out and asked Washington to lift its naval blockade on Iranian ports.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-04-29T04:03:51.396900+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss"
+  },
+  {
+    "id": "b4fa317227ed",
+    "source": "PressTV",
+    "date": "2026-04-29T04:03",
+    "headline": "Iran has every right to counter US's state-sponsored piracy, terrorism: UN envoy",
+    "excerpt": "Iran's UN ambassador says the Islamic Republic reserves all rights to duly confront the United States' acts of state-sponsored piracy and terrorism.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-04-29T04:03:52.915529+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/29/767720/Iran-piracy-terrorism-United-States"
+  },
+  {
     "id": "8e0de7c444fc",
     "source": "Al Jazeera",
     "date": "2026-04-28T22:50",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-20T16:41:54.161792+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/20/palestinians-not-welcome-as-israel-marks-memorial-day?traffic_source=rss"
-  },
-  {
-    "id": "ae13cd270380",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T15:53",
-    "headline": "Lebanon Latest: Israel establishes ‘yellow line’ in south",
-    "excerpt": "Al Jazeera’s Zeina Khod brings you the latest on the fragile ceasefire between Israel and Hezbollah.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-20T16:41:54.161844+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/lebanon-latest-israel-establishes-yellow-line-in-south?traffic_source=rss"
-  },
-  {
-    "id": "eaba6919e25c",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T15:44",
-    "headline": "Iranian FM spokesman says ceasefire ‘violated’ by US in shipment seizure",
-    "excerpt": "Iran is accusing the US of ‘ceasefire violations’, with Ministry of Foreign Affairs spokesman Esmail Baghaei.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-20T16:41:54.161881+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/iranian-fm-spokesman-says-ceasefire-violated-by-us-in-shipment-seizure?traffic_source=rss"
-  },
-  {
-    "id": "c0c3d09dc5ee",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T15:23",
-    "headline": "‘Israel never talked me into the war with Iran,’ Trump says",
-    "excerpt": "US president suggests attacking Iran was his own decision as war struggles to garner public support amid energy crisis.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-20T16:41:54.161920+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/20/israel-never-talked-me-into-the-war-with-iran-trump-says?traffic_source=rss"
-  },
-  {
-    "id": "a59fee2a3b49",
-    "source": "PressTV",
-    "date": "2026-04-20T16:41",
-    "headline": "US has no option but to drop excessive demands, respect Iran’s rights: Deputy FM",
-    "excerpt": "An Iranian deputy foreign minister says the United States has no choice but to abandon its excessive demands and fully respect Iran’s rights.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-20T16:41:55.583795+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/20/767237/US-has-no-option-but-to-drop-excessive-demands-respect-Iran-s-rights-Deputy-FM"
-  },
-  {
-    "id": "22de370a3e87",
-    "source": "Al Jazeera",
-    "date": "2026-04-20T13:51",
-    "headline": "Cloud over US-Iran talks: What are the key sticking points?",
-    "excerpt": "Trump announces new talks with Iran as fragile Pakistan-brokered ceasefire raises stakes for future negotiations.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-20T15:22:27.450266+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points?traffic_source=rss"
   }
 ]
