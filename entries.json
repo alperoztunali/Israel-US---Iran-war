@@ -1,5 +1,49 @@
 [
   {
+    "id": "705e4b693863",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T11:12",
+    "headline": "Will the Iran war reshape the global energy order?",
+    "excerpt": "As oil markets shift, OPEC&#039;s grip is under pressure, US exports rise, and China drives the push towards renewables.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-30T11:42:18.740479+00:00",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/30/will-the-iran-war-reshape-the-global-energy-order?traffic_source=rss"
+  },
+  {
+    "id": "fc8e6022bb0b",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T09:52",
+    "headline": "Civilians or Hezbollah: Who did Israel hit on Lebanon’s ‘Black Wednesday’?",
+    "excerpt": "Israel says it targeted Hezbollah, but experts say the evidence proves otherwise.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-30T11:42:18.740533+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/civilians-or-hezbollah-who-did-israel-hit-on-lebanons-black-wednesday?traffic_source=rss"
+  },
+  {
+    "id": "3a5a428e8f60",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T09:46",
+    "headline": "Rise in caesarean section births in Gaza brings danger and infection risks",
+    "excerpt": "Caesarean Awareness Month is marked in April. Conditions in Gaza can lead to risks for mothers who undergo the procedure",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-04-30T11:42:18.740569+00:00",
+    "link": "https://www.aljazeera.com/features/2026/4/30/rise-in-caesarean-section-births-in-gaza-brings-danger-and-infection-risks?traffic_source=rss"
+  },
+  {
+    "id": "0a6458a73bf1",
+    "source": "PressTV",
+    "date": "2026-04-30T11:42",
+    "headline": "‘A new chapter’: Leaders says Iran will determine ‘new legal rules’ in Strait of Hormuz",
+    "excerpt": "Leader of the Islamic Revolution, declared the dawn of a \"new chapter\" for the strategic waterway.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-30T11:42:20.548690+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/30/767799/Leader-Persian-Gulf-Day-Message"
+  },
+  {
     "id": "bcd21dddc66d",
     "source": "Al Jazeera",
     "date": "2026-04-30T08:44",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-22T03:21:35.262559+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day?traffic_source=rss"
-  },
-  {
-    "id": "ea163676d354",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T00:51",
-    "headline": "Trump extends ceasefire and hopes for ‘unified proposal’",
-    "excerpt": "In a social media post, President Trump announced an extension of the ceasefire in the war on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-22T03:21:35.262605+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/trump-extends-ceasefire-and-hopes-for-unified?traffic_source=rss"
-  },
-  {
-    "id": "c4f5f7984b4c",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T00:00",
-    "headline": "Iran war live: Trump says ceasefire extended as talks with Tehran in limbo",
-    "excerpt": "Lebanon&#039;s disaster management unit raises death toll from weeks of Israeli attacks to 2,454, with 7,658 people injured.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-04-22T03:21:35.262631+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo?traffic_source=rss"
-  },
-  {
-    "id": "1b4df8473757",
-    "source": "PressTV",
-    "date": "2026-04-22T03:21",
-    "headline": "Trump's erratic behavior signals US deadlock: Ansarullah",
-    "excerpt": "Senior Ansarullah member says Trump's erratic behavior signals his entanglement in a deadlock amid Iran's continued successful steadfastness.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-22T03:21:37.071719+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/22/767318/Yemen-Iran-Trump-ceasefire-talks"
-  },
-  {
-    "id": "434d46e9cfb6",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T23:26",
-    "headline": "Trump remains ‘in a quandary’ despite Iran war ceasefire extension",
-    "excerpt": "Barbara Slavin says Trump’s decision to extend a ceasefire with Iran is a relief, but a diplomatic solution is far off.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-21T23:48:35.208341+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/4/21/trump-remains-in-a-quandary-despite-iran-war-ceasefire-extension?traffic_source=rss"
   }
 ]
