@@ -1,5 +1,115 @@
 [
   {
+    "id": "138be963af9d",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T14:42",
+    "headline": "‘Act of piracy’: World reacts to Israeli interception of Gaza aid flotilla",
+    "excerpt": "World leaders condemn the interception of the boats bound for Gaza as violating international law.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-30T15:24:03.521953+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/act-of-piracy-world-reacts-to-israeli-interception-of-gaza-aid-flotilla?traffic_source=rss"
+  },
+  {
+    "id": "2445c2fa47a1",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T13:47",
+    "headline": "US military equipment worth billions of dollars destroyed in Iran war",
+    "excerpt": "The United States lost aerial equipment worth up to $2.8bn, according to a US-based think tank.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-30T15:24:03.522000+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/us-military-equipment-worth-billions-of-dollars-destroyed-in-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "0e33922fdad2",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T13:44",
+    "headline": "Indonesian soldiers accused of acid attack. What happened and why?",
+    "excerpt": "Analysts say the attack is part of a wider pattern of repression amid concerns over the growing role of the military.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-30T15:24:03.522039+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/indonesian-soldiers-accused-of-acid-attack-what-happened-and-why?traffic_source=rss"
+  },
+  {
+    "id": "63108a3c8b92",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T13:36",
+    "headline": "Hormuz effect? How US, China are ramping up tensions over the Panama Canal",
+    "excerpt": "Rising tensions over Panama Canal prompt US-China showdown in global shipping power struggle.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-04-30T15:24:03.522083+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/hormuz-effect-how-us-china-are-ramping-up-tensions-over-the-panama-canal?traffic_source=rss"
+  },
+  {
+    "id": "4220ff31b6b0",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T13:35",
+    "headline": "Was Israeli PM’s Lebanon destruction video a snub to Trump?",
+    "excerpt": "Hours after Trump asked Netanyahu to stop destroying buildings in Lebanon, Israel&#039;s leader posted a destruction montage.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-30T15:24:03.522120+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/was-israeli-pms-lebanon-destruction-video-a-snub-to-trump-2?traffic_source=rss"
+  },
+  {
+    "id": "bb716c580069",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T13:24",
+    "headline": "Anti-immigrant attacks and protests in South Africa",
+    "excerpt": "Anti-immigrant attacks and protests in South Africa",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-30T15:24:03.522154+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/anti-immigrant-attacks-and-protests-in-south-africa?traffic_source=rss"
+  },
+  {
+    "id": "b1edc70c6359",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T13:00",
+    "headline": "Why are Western feminists silent on the war on Iranian women?",
+    "excerpt": "Those who backed Iranian women’s protests against compulsory hijab are silent as those same women are killed.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-04-30T15:24:03.522179+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/4/30/why-are-western-feminists-silent-on-the-war-on-iranian-women?traffic_source=rss"
+  },
+  {
+    "id": "7bb78b0b3ef9",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T12:53",
+    "headline": "$25bn or $1 trillion: How much has Iran war really cost the US?",
+    "excerpt": "Heated exchange on Capitol Hill reflects growing unease among lawmakers over a lack of transparency in cost of Iran war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-30T15:24:03.522218+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/25bn-or-1-trillion-how-much-has-iran-war-really-cost-the-us?traffic_source=rss"
+  },
+  {
+    "id": "e24fa9585b35",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T12:52",
+    "headline": "World’s top media outlets urge Israel to allow independent access to Gaza",
+    "excerpt": "Israel continues to deny foreign reporters access to the Gaza Strip despite a &#039;ceasefire&#039; being in place.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-30T15:24:03.522252+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/media-organisations-call-on-israel-to-allow-independent-access-to-gaza?traffic_source=rss"
+  },
+  {
+    "id": "961283959e88",
+    "source": "PressTV",
+    "date": "2026-04-30T15:24",
+    "headline": "IRGC: US warships will burn like bases if Iran attacked again",
+    "excerpt": "A top IRGC commander says Iran will respond to any enemy aggression with prolonged and painful blows, adding that American naval vessels will share the fate of US military bases in the region.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-30T15:24:05.122526+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/30/767813/IRGC--US-warships-will-burn-like-bases-if-Iran-attacked-again-"
+  },
+  {
     "id": "392748bf7038",
     "source": "Al Jazeera",
     "date": "2026-04-30T12:40",
@@ -5388,115 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-04-22T10:39:58.709830+00:00",
     "link": "https://www.aljazeera.com/features/2026/4/22/gazas-unseen-casualties-a-surge-in-stillbirths-and-birth-defects?traffic_source=rss"
-  },
-  {
-    "id": "68b7ea5eb754",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T08:34",
-    "headline": "LeBron James nets 28, Lakers grab 2-0 lead on Rockets in NBA Playoff series",
-    "excerpt": "Kevin Durant scores 23 for Houston but the Lakers bag a 101-94 win despite a depleted team, with Luka Doncic missing.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-22T10:39:58.709865+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/22/lebron-james-nets-28-lakers-grab-2-0-lead-on-rockets-in-nba-playoff-series?traffic_source=rss"
-  },
-  {
-    "id": "420923190fa9",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T07:18",
-    "headline": "US halts shipment of Iraq’s oil dollars to curb Iran-linked groups: WSJ",
-    "excerpt": "A plane carrying nearly $500m in US banknotes was blocked by the US Treasury, according to The Wall Street Journal.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-22T10:39:58.709909+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss"
-  },
-  {
-    "id": "4a42213fb6f2",
-    "source": "PressTV",
-    "date": "2026-04-22T10:40",
-    "headline": "IRGC seizes Israeli ship, second vessel in Strait of Hormuz",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) Navy says it has intercepted and transferred to Iranian territorial waters two vessels for having committed violations in the Strait of Hormuz.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-22T10:40:00.218528+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/22/767348/IRGC-seizes-Israeli-ship,-second-vessel-in-Strait-of-Hormuz"
-  },
-  {
-    "id": "44098c7bff8a",
-    "source": "PressTV",
-    "date": "2026-04-22T10:40",
-    "headline": "Iran knows how to confront restrictions, defend itself: FM",
-    "excerpt": "Araghchi says Iran knows well how to confront restrictions and defend itself, following the US attack on an Iranian commercial vessel.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-22T10:40:00.218572+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/22/767319/Iran-knows-how-confront-restrictions-defend-itself-FM"
-  },
-  {
-    "id": "b034ad1a9e59",
-    "source": "PressTV",
-    "date": "2026-04-22T10:40",
-    "headline": "US missile stockpiles severely depleted amid war on Iran: Report",
-    "excerpt": "The US armed forces used nearly half of Patriot air defense interceptor missiles during the aggression against Iran, anew analysis shows.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-22T10:40:00.218589+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/22/767323/US-military-used-up-nearly-half-of-Patriot-missiles-during-aggression-against-Iran--Analysis-"
-  },
-  {
-    "id": "9816e16f4cf3",
-    "source": "PressTV",
-    "date": "2026-04-22T10:40",
-    "headline": "Iranians show stable social endurance in face of US-Israeli war: Poll",
-    "excerpt": "A nationwide survey has revealed that the Iranian nation still shows stable social endurance and cohesion in the face of the US-Israeli war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-22T10:40:00.218617+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/22/767333/Iranians-show-stable-social-endurance-in-face-of-US-Israeli-war--Survey-"
-  },
-  {
-    "id": "fd535c62fa8f",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T08:26",
-    "headline": "Israel’s ‘digital occupation’ of south Lebanon",
-    "excerpt": "Al Jazeera’s Linh Nguyen explains Israeli drones above the skies in Lebanon, which critics call a &quot;digital occupation.&quot;",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-22T08:59:53.026191+00:00",
-    "link": "https://www.aljazeera.com/video/digital-dilemma/2026/4/22/israels-digital-occupation-of-south-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "f7dd1d84445c",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T08:24",
-    "headline": "How China is gaining from Iran war by showing it is different from US",
-    "excerpt": "Beijing has leveraged its strong economic relationship with the US, Israel, Iran and the Gulf to keep its stakes safe.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-22T08:59:53.026231+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/22/how-china-is-gaining-from-iran-war-by-showing-it-is-different-from-us?traffic_source=rss"
-  },
-  {
-    "id": "36c64fb647d4",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T07:33",
-    "headline": "Iran’s UN ambassador responds to US ceasefire extension",
-    "excerpt": "Iran’s UN Ambassador has responded to US President Donald Trump’s announcement of an extension to the ceasefire.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-22T08:59:53.026269+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/irans-un-ambassador-responds-to-us-ceasefire-extension?traffic_source=rss"
-  },
-  {
-    "id": "3c200dfba74b",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T07:18",
-    "headline": "US halts shipment of Iraq’s oil dollars in bid to curb Iran-linked groups",
-    "excerpt": "A plane carrying nearly $500m in US banknotes was blocked by the US Treasury, according to The Wall Street Journal.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-22T08:59:53.026302+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss"
   }
 ]
