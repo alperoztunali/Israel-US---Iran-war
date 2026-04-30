@@ -1,5 +1,60 @@
 [
   {
+    "id": "bcd21dddc66d",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T08:44",
+    "headline": "Pakistan opens up road trade routes into Iran amid Hormuz blockade",
+    "excerpt": "With shipping disrupted by US-Iran tensions, Islamabad activates overland corridor to move stranded cargo into Iran.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-30T09:53:09.779934+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/pakistan-opens-up-road-trade-routes-into-iran-amid-hormuz-blockade?traffic_source=rss"
+  },
+  {
+    "id": "b50a17a3323b",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T08:00",
+    "headline": "Rockets defeat Lakers in Reaves’s return, force Game 6 in NBA playoffs",
+    "excerpt": "Despite the return of star Austin Reaves, the LA Lakers were defeated by Houston Rockets in Game 5 of their series.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-04-30T09:53:09.779984+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/30/rockets-defeat-lakers-in-reavess-return-force-game-6-in-nba-playoffs?traffic_source=rss"
+  },
+  {
+    "id": "1832fc1bab1a",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T07:30",
+    "headline": "Iran war: What’s happening on day 62 as Trump asks Iran to ‘give up’?",
+    "excerpt": "Trump says the US blockade of Iranian ports is working, urging Tehran to &#039;give up&#039; amid tensions.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-30T09:53:09.780026+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/iran-war-whats-happening-on-day-62-as-trump-asks-iran-to-give-up?traffic_source=rss"
+  },
+  {
+    "id": "f47156824f94",
+    "source": "PressTV",
+    "date": "2026-04-30T09:53",
+    "headline": "Naval blockade poses threat to global peace, doomed to fail: Pezeshkian",
+    "excerpt": "The Iranian president says any unlawful bid to impose naval blockade threatens regional interests and global peace and is doomed to fail.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-30T09:53:11.766787+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/30/767788/On-Persian-Gulf-Day,-Pezeshkian-says-naval-blockade-poses-threat-to-regional-interests,-global-peace-"
+  },
+  {
+    "id": "2a63627f738b",
+    "source": "PressTV",
+    "date": "2026-04-30T09:53",
+    "headline": "Pentagon’s $25 billion claim masks true cost of war on Iran as US losses mount: US media",
+    "excerpt": "New revelations say the true financial and military toll of the US’s aggression against Iran is far higher than the Pentagon’s $25 billion estimate.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-30T09:53:11.766845+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/30/767783/Pentagon-25-billion-claim-masks-true-cost-war-on-Iran-as-US-losses-mount-Sources"
+  },
+  {
     "id": "99e82c067f98",
     "source": "Al Jazeera",
     "date": "2026-04-30T07:03",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-21T23:48:35.208341+00:00",
     "link": "https://www.aljazeera.com/video/quotable/2026/4/21/trump-remains-in-a-quandary-despite-iran-war-ceasefire-extension?traffic_source=rss"
-  },
-  {
-    "id": "91882126a637",
-    "source": "PressTV",
-    "date": "2026-04-21T23:48",
-    "headline": "Iran's military warns US, Israel about 'an even harsher lesson'",
-    "excerpt": "Iran's highest operational command unit strongly warns the US and the Israeli regime against any instance of aggression targeting the Islamic Republic.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-21T23:48:36.870605+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/21/767317/Iran-warning-United-States-Israel-harsher-lesson-Trump"
-  },
-  {
-    "id": "52d05cd45753",
-    "source": "PressTV",
-    "date": "2026-04-21T23:00",
-    "headline": "Iran urges UN to compel US to release Iranian commercial vessel, crew; calls seizure 'act of piracy'",
-    "excerpt": "Iran's UN envoy formally requests that the world body compel the US to release the Iranian commercial vessel Touska, its crew, their families, and all affected individuals.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-21T23:00:17.949184+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/21/767316/Iran-United-States-blockade-Touska-United-Nations"
-  },
-  {
-    "id": "59c8ab007d9f",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T21:21",
-    "headline": "Myanmar’s military government rebuffed on peace talks offer",
-    "excerpt": "Min Aung Hlaing elected by parliament as president earlier this month after election derided as a sham.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-04-21T22:09:49.205627+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer?traffic_source=rss"
-  },
-  {
-    "id": "4460805e3120",
-    "source": "PressTV",
-    "date": "2026-04-21T22:09",
-    "headline": "Trump announces unilateral extension of ceasefire with Iran amid illegal blockade",
-    "excerpt": "Donald Trump has extended a two-week ceasefire with Iran while announcing the continuation of an illegal blockade on the Islamic Republic's ports and vessels.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-21T22:09:51.045866+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/21/767314/Trump-ceasefire-Iran-blockade-talks-Pakistan"
-  },
-  {
-    "id": "1c8320bf3d6b",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T20:42",
-    "headline": "US issues more Iran sanctions on eve of possible talks in Pakistan",
-    "excerpt": "The Trump administration targets 14 individuals and entities over alleged links to Iran&#039;s arms industry.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-21T21:24:29.668118+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss"
   }
 ]
