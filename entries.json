@@ -1,5 +1,60 @@
 [
   {
+    "id": "392748bf7038",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T12:40",
+    "headline": "Israel kills nine people in southern Lebanon despite ‘ceasefire’",
+    "excerpt": "Israeli attacks and threats on southern Lebanon escalate, as Lebanese government calls out Israel&#039;s ceasefire violations",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-04-30T13:10:09.241284+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/israel-kills-nine-people-in-southern-lebanon-despite-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "545363d3eeda",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T12:38",
+    "headline": "Russia has given Iran something more important than weapons",
+    "excerpt": "Russia&#039;s political backing and objection to escalation have proved much more consequential in shaping the conflict.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-30T13:10:09.241330+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/4/30/russia-has-given-iran-something-more-important-than-weapons?traffic_source=rss"
+  },
+  {
+    "id": "82199f8861b7",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T11:54",
+    "headline": "Tracking the shadow fleet: How Iran evaded the US naval blockade in Hormuz",
+    "excerpt": "Iran&#039;s shadow fleet uses fake flags and dark ships to evade the US naval blockade in the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-04-30T13:10:09.241359+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/4/30/tracking-the-shadow-fleet-how-iran-evaded-the-us-naval-blockade-in-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "9192fc2ed835",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T11:42",
+    "headline": "Manchester United’s Kobbie Mainoo signs new five-year deal",
+    "excerpt": "England midfielder Kobbie Mainoo was heavily linked with a move away after losing place at Man Utd under Ruben Amorim.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-04-30T13:10:09.241403+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/4/30/manchester-uniteds-kobbie-mainoo-signs-new-five-year-deal?traffic_source=rss"
+  },
+  {
+    "id": "8e01ec831404",
+    "source": "PressTV",
+    "date": "2026-04-30T13:10",
+    "headline": "‘A new chapter’: Leader says Iran will determine ‘new legal rules’ in Strait of Hormuz",
+    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei has declared the dawn of a \"new chapter\" for the Strait of Hormuz.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-04-30T13:10:10.829657+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/30/767799/Leader-Persian-Gulf-Day-Message"
+  },
+  {
     "id": "705e4b693863",
     "source": "Al Jazeera",
     "date": "2026-04-30T11:12",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-22T08:59:53.026302+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss"
-  },
-  {
-    "id": "9f6d0766cc4e",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T07:15",
-    "headline": "World Cup host Mexico pledges security at tourist sites after shooting",
-    "excerpt": "Mexican president admits the archaeological site outside Mexico City lacked security measures to prevent the attack.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-22T08:59:53.026340+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/22/world-cup-host-mexico-pledges-security-at-tourist-sites-after-shooting?traffic_source=rss"
-  },
-  {
-    "id": "2de19a9ebc26",
-    "source": "PressTV",
-    "date": "2026-04-22T08:59",
-    "headline": "IRGC vows ‘shocking events’ beyond enemy's calculation on battlefield",
-    "excerpt": "The IRGC announces its readiness to create shocking events far beyond the comprehension and calculation of the enemy on the battlefield.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-22T08:59:54.663768+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/22/767336/IRGC-ready-create-shocking-events-beyond-enemy-comprehension-battlefield"
-  },
-  {
-    "id": "3495515a4a6a",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T05:25",
-    "headline": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
-    "excerpt": "Trump said the US would extend the ceasefire with Iran until it presents a proposal and talks conclude.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-22T05:38:32.089755+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "3a08b381337b",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T03:21",
-    "headline": "Tehran held military parades as ceasefire was set to end",
-    "excerpt": "Videos show large crowds attending a military parade in Tehran on Tuesday as the US-Iran ceasefire deadline approached.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-04-22T05:38:32.089794+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/tehran-held-military-parades-as-ceasefire-was-set-to-end?traffic_source=rss"
-  },
-  {
-    "id": "324fb8e1c9a8",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T00:53",
-    "headline": "Argentina’s Milei sings and lights torch for Israeli national day",
-    "excerpt": "Argentine President Javier Milei sang and lit a ceremonial torch at Israel&#039;s 78th Independence Day celebrations.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-22T03:21:35.262559+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day?traffic_source=rss"
   }
 ]
