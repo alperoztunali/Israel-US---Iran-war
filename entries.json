@@ -1,5 +1,49 @@
 [
   {
+    "id": "a56815356e7b",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T17:50",
+    "headline": "UAE exit signals OPEC’s declining grip on oil markets",
+    "excerpt": "Chris Weafer says the UAE&#039;s OPEC exit leaves the organisation less influential on global oil pricing.",
+    "category": "Other",
+    "location": "Uae",
+    "addedAt": "2026-04-30T18:19:28.232237+00:00",
+    "link": "https://www.aljazeera.com/video/quotable/2026/4/30/uae-exit-signals-opecs-declining-grip-on-oil-markets?traffic_source=rss"
+  },
+  {
+    "id": "97b916207792",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T17:35",
+    "headline": "Israel rights group petitions top court to order release of 14 Gaza doctors",
+    "excerpt": "Physicians for Human Rights-Israel accuses authorities of hindering the rehabilitation of Gaza&#039;s healthcare system.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-30T18:19:28.232298+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/israel-rights-group-petitions-top-court-to-order-release-of-14-gaza-doctors?traffic_source=rss"
+  },
+  {
+    "id": "1c0021e5807a",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T17:19",
+    "headline": "Trump slams Germany’s Merz again as rift over Iran war widens",
+    "excerpt": "Berlin says &#039;prepared&#039; for fewer US troops, as Trump says German chancellor should focus on European affairs, not Iran.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-04-30T18:19:28.232325+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/trump-slams-germanys-merz-again-as-rift-over-iran-war-widens?traffic_source=rss"
+  },
+  {
+    "id": "736eca695ceb",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T17:11",
+    "headline": "How rebels teamed up to shake Mali and the Kremlin’s grip",
+    "excerpt": "Bamako woke to explosions as JNIM and Tuareg rebels attacked nationwide, killing Mali’s defence minister. Why now?",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-30T18:19:28.232359+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/30/how-rebels-teamed-up-to-shake-mali-and-the-kremlins-grip?traffic_source=rss"
+  },
+  {
     "id": "640112dc658b",
     "source": "Al Jazeera",
     "date": "2026-04-30T14:59",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-22T14:49:29.139596+00:00",
     "link": "https://presstv.ir/Detail/2026/04/22/767360/Data-shows-Iran-bypassing-US-blockade-despite-Trump%E2%80%99s-claims-of-its-success"
-  },
-  {
-    "id": "8d53503d2dcb",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T11:33",
-    "headline": "Five major issues affecting the FIFA World Cup with 50 days to go",
-    "excerpt": "From the US-Israel war on Iran to exorbitant ticket prices and violence in host nations, here&#039;s what&#039;s gone wrong.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-22T12:48:38.378815+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/22/five-major-issues-affecting-the-fifa-world-cup-with-50-days-to-go?traffic_source=rss"
-  },
-  {
-    "id": "d6c71f3b839d",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T11:30",
-    "headline": "Israeli settlers set Palestinian home on fire in occupied West Bank",
-    "excerpt": "Israeli settlers set Palestinian home on fire in occupied West Bank",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-22T12:48:38.378850+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-settlers-set-palestinian-home-on-fire-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "23172d45e2b3",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T11:20",
-    "headline": "Kyrie Irving changes Instagram photo to show solidarity with Palestine",
-    "excerpt": "NBA player&#039;s profile image shows a Palestinian child blocked from school by Israeli soldiers in the occupied West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-22T12:48:38.378877+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/22/kyrie-irving-changes-instagram-photo-to-show-solidarity-with-palestine?traffic_source=rss"
-  },
-  {
-    "id": "fc8101f1a506",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T09:32",
-    "headline": "Iran seizes two vessels in Strait of Hormuz after ship comes under fire",
-    "excerpt": "The IRGC says the aggression came in response to what it described as the US&#039;s capture of an Iranian commercial vessel.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-22T12:48:38.378897+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/22/iranian-gunboat-fires-on-container-ship-off-oman-coast?traffic_source=rss"
   }
 ]
