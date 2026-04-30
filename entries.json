@@ -1,5 +1,82 @@
 [
   {
+    "id": "9a669b14a832",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T04:25",
+    "headline": "Video emerges of heavy firefight in Mali",
+    "excerpt": "Video has been published by Russian mercenaries showing a heavy gun battle between Mali’s military and rebels.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-04-30T04:59:22.186515+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/video-emerges-of-heavy-firefight-in-mali?traffic_source=rss"
+  },
+  {
+    "id": "c3f1840cff5a",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T04:06",
+    "headline": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
+    "excerpt": "US President Trump meets with oil firms over ways to minimise impact on fuel supplies amid US blockade of Iranian ports.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-04-30T04:59:22.186562+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss"
+  },
+  {
+    "id": "e92605998438",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T02:10",
+    "headline": "Israel seizes Global Sumud Flotilla boats 1,000km away from Gaza",
+    "excerpt": "Israeli forces have intercepted around a dozen Gaza-bound aid boats from the Global Sumud Flotilla.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-30T04:59:22.186588+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/israel-seizes-global-sumud-flotilla-boats-1000km-away-from-gaza?traffic_source=rss"
+  },
+  {
+    "id": "207ace8c913c",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T01:37",
+    "headline": "Pro-government rally in Tehran demands end to US threats",
+    "excerpt": "Hundreds of Iranians have rallied in Tehran to demand an end to US threats and the ongoing blockade of Iranian ports.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-30T04:59:22.186621+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats?traffic_source=rss"
+  },
+  {
+    "id": "21d8b1f4d3f5",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T01:16",
+    "headline": "Hundreds of Ultra-Orthodox Jews protest Israel’s military draft",
+    "excerpt": "Hundreds of Ultra-Orthodox Jews blocked a main road, as part of protests against Israel’s mandatory military service.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-04-30T04:59:22.186660+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss"
+  },
+  {
+    "id": "16999d3c3e02",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T00:00",
+    "headline": "Iran war live: Trump urges Tehran to ‘give up’; Ghalibaf mocks US strategy",
+    "excerpt": "Mohammad Bagher Ghalibaf ridicules US&#039;s economic pressure campaign as oil prices surge and Hormuz standoff continues.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-30T04:59:22.186702+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss"
+  },
+  {
+    "id": "a336b8603c54",
+    "source": "PressTV",
+    "date": "2026-04-30T04:59",
+    "headline": "Israeli forces intercept Gaza-bound flotilla in Mediterranean, organizers say",
+    "excerpt": "Israeli forces move to stop a large humanitarian flotilla bound for Gaza, intercepting several vessels in international waters.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-04-30T04:59:23.821627+00:00",
+    "link": "https://presstv.ir/Detail/2026/04/30/767780/Israel-Gaza-Global-Sumud-Flotilla"
+  },
+  {
     "id": "7da6d91e4fad",
     "source": "Al Jazeera",
     "date": "2026-04-30T00:00",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-21T20:27:40.927838+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-israeli-soldiers-sing-national-anthem-on-ruins-of-lebanese-town?traffic_source=rss"
-  },
-  {
-    "id": "d8fcd25139e6",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T18:47",
-    "headline": "Nicaragua’s president says Trump ‘mentally deranged’ over war on Iran",
-    "excerpt": "Nicaraguan President has criticised his US counterpart Donald Trump, over the war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-21T19:20:49.532913+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/nicaraguas-president-says-trump-mentally-deranged-over-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "b6806ac60669",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T18:45",
-    "headline": "US forces detain Iran-linked tanker Tifani with ceasefire talks on edge",
-    "excerpt": "Ship, detained under US policy to stop all Tehran-linked vessels, is under sanctions for smuggling Iranian crude.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-04-21T19:20:49.532953+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/21/us-forces-detain-iran-linked-tanker-tifani-with-ceasefire-talks-on-edge?traffic_source=rss"
-  },
-  {
-    "id": "1845a7d1a113",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T18:04",
-    "headline": "Flu vaccine no longer mandatory for soldiers, says US military chief",
-    "excerpt": "Pete Hegseth says the decision is based on principle of &#039;medical autonomy&#039; and criticises the mandate as &#039;overreaching&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-21T19:20:49.532996+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/21/flu-vaccine-no-longer-mandatory-for-soldiers-says-us-military-chief?traffic_source=rss"
-  },
-  {
-    "id": "7251913a4ebb",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T17:53",
-    "headline": "The US exit from Syria, explained",
-    "excerpt": "The US exits Syria after 10 years – what it means for Kurdish forces, regional tensions, and the country’s future.",
-    "category": "Movement",
-    "location": "Syria",
-    "addedAt": "2026-04-21T19:20:49.533029+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/21/aje-onl-aj_tt_syr_uswithdrawal_full_v1-210426?traffic_source=rss"
-  },
-  {
-    "id": "c54069f9551a",
-    "source": "PressTV",
-    "date": "2026-04-21T19:20",
-    "headline": "Iran: No decision yet on new talks in Pakistan due to US contradictory messages",
-    "excerpt": "Iran has not made a final decision on whether to participate in the next round of Pakistan-mediated talks with the United States, citing contradictory messages, inconsistent behavior and unacceptable actions by the American side, the Foreign Ministry spokesman said on Tuesday.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-21T19:20:51.128433+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/21/767303/Iran-No-decision-yet-on-new-talks-in-Pakistan-due-to-US-contradictory-messages"
-  },
-  {
-    "id": "1941954ee9f8",
-    "source": "PressTV",
-    "date": "2026-04-21T19:20",
-    "headline": "Qalibaf: What is Trump trying to 'make great again' as he sells war to Americans?",
-    "excerpt": "Iranian Parliament Speaker Mohammad Bagher Qalibaf says the US is trying to prolong the war with Iran to serve objectives other than “making America great again”.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-21T19:20:51.128480+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/21/767302/Iran-Ghalibaf-US-war-selling-intentions"
-  },
-  {
-    "id": "6d49c60f9585",
-    "source": "PressTV",
-    "date": "2026-04-21T19:20",
-    "headline": "Analysis - Never again: Why Iran denies concessions, negotiates from position of strength",
-    "excerpt": "Iran, the victor of the 40-day imposed war, will negotiate only to permanently end the imposed war, not over its missile, nuclear, or defense capabilities. Those red lines are non-negotiable.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-21T19:20:51.128500+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/21/767305/never-again-why-iran-denies-concessions-negotiates-position-strength"
   }
 ]
