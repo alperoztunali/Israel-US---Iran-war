@@ -1,5 +1,27 @@
 [
   {
+    "id": "7da6d91e4fad",
+    "source": "Al Jazeera",
+    "date": "2026-04-30T00:00",
+    "headline": "Iran war live: Trump urges Tehran to ‘just give up’ as oil prices surge",
+    "excerpt": "Standoff in the Strait of Hormuz pushes global oil prices above $120 per barrel.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-04-30T01:24:26.203249+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss"
+  },
+  {
+    "id": "96a6fc6bf6a4",
+    "source": "Al Jazeera",
+    "date": "2026-04-29T21:46",
+    "headline": "Israeli forces raid Global Sumud Flotilla boats in international waters",
+    "excerpt": "Seven out of 58 vessels were captured by Israel near Crete, as flotilla aims to deliver aid to Gaza under blockade.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-04-30T01:24:26.203284+00:00",
+    "link": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss"
+  },
+  {
     "id": "9f8e17256cdb",
     "source": "Al Jazeera",
     "date": "2026-04-29T22:33",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-21T19:20:51.128500+00:00",
     "link": "https://presstv.ir/Detail/2026/04/21/767305/never-again-why-iran-denies-concessions-negotiates-position-strength"
-  },
-  {
-    "id": "ce6e55f9d298",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T17:29",
-    "headline": "What’s the bill to rebuild Gaza, and who will pay?",
-    "excerpt": "UN-EU report says $71bn needed over 10 years.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-21T17:45:48.817594+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/4/21/whats-the-bill-to-rebuild-gaza-and-who-will-pay?traffic_source=rss"
-  },
-  {
-    "id": "0ef01f8faacb",
-    "source": "Al Jazeera",
-    "date": "2026-04-21T16:38",
-    "headline": "Israeli sexual violence helping push Palestinians from West Bank: Report",
-    "excerpt": "NGO finds at least 16 cases of conflict-related sexual violence attributed to Israeli settlers and soldiers.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-21T17:45:48.817642+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss"
   }
 ]
