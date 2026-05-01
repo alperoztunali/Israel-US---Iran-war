@@ -1,5 +1,27 @@
 [
   {
+    "id": "38569b43e46b",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T19:07",
+    "headline": "Photos: Cuba holds May Day celebrations amid US threats",
+    "excerpt": "March celebrating International Workers&#039; Day coincided with announcement of further US sanctions on island.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-05-01T19:53:23.818967+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/5/1/photos-cuba-holds-may-day-celebrations-amid-us-threats?traffic_source=rss"
+  },
+  {
+    "id": "e043a026607e",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T18:46",
+    "headline": "Trump says Iran seeks terms he ‘can’t agree to’ in latest peace proposal",
+    "excerpt": "Trump says the Iranian offer sent via Pakistan contains terms he&#039;s not satisfied with.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-01T19:53:23.819007+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/1/us-president-trump-not-satisfied-with-irans-latest-peace-proposal?traffic_source=rss"
+  },
+  {
     "id": "66952819f7ea",
     "source": "Al Jazeera",
     "date": "2026-05-01T17:51",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-23T09:58:48.800410+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/23/who-is-john-phelan-the-us-navy-secretary-fired-by-pete-hegseth?traffic_source=rss"
-  },
-  {
-    "id": "047b279a7f3d",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T09:34",
-    "headline": "India to Iran: How two wars shaped the rise of Pakistan’s Asim Munir",
-    "excerpt": "The war against India a year ago led to Munir&#039;s elevation to the status of field marshal. Now he&#039;s playing peacemaker.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-23T09:58:48.800465+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/23/india-to-iran-how-two-wars-shaped-the-rise-of-pakistans-asim-munir?traffic_source=rss"
-  },
-  {
-    "id": "f1f94bac1ab0",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T09:07",
-    "headline": "Gaza’s second front: The battle against disease-carrying rats",
-    "excerpt": "Palestinian families in Gaza endure daily terror from rats in unsanitary camps, but help is hard to come by.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-23T09:58:48.800507+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss"
   }
 ]
