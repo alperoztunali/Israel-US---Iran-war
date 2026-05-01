@@ -1,5 +1,49 @@
 [
   {
+    "id": "b2fa712ddb28",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T11:31",
+    "headline": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
+    "excerpt": "Israel’s military reportedly seized 22 vessels sailing among the Global Sumud Flotilla.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-05-01T12:01:56.801643+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss"
+  },
+  {
+    "id": "a30989fc8395",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T10:56",
+    "headline": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
+    "excerpt": "Defence secretary claims hostilities have ceased, but lawmakers say US forces remain active despite halted air raids.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-05-01T12:01:56.801673+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss"
+  },
+  {
+    "id": "0daf98447855",
+    "source": "PressTV",
+    "date": "2026-05-01T12:01",
+    "headline": "Netanyahu's gamble cost US $100bn, four times official estimate: Araghchi",
+    "excerpt": "The Pentagon is lying about the financial toll of the aggression on Iran, says Iranian foreign minister.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-01T12:01:58.278962+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/01/767847/Netanyahu-gamble-cost-America-100-billion-Araghchi"
+  },
+  {
+    "id": "7f3d09df160c",
+    "source": "PressTV",
+    "date": "2026-05-01T12:01",
+    "headline": "Most advanced US warship retreats as war on Iran breaks American Navy",
+    "excerpt": "The USS Gerald R. Ford retreats after 309 days supporting Israel's war on Iran. Fire, sewage failures, and 14 months of repairs expose a crumbling US Navy.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-01T12:01:58.278988+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/01/767846/Largest-US-aircraft-carrier-Ford-to-return-home-Report"
+  },
+  {
     "id": "028e58bafece",
     "source": "Al Jazeera",
     "date": "2026-05-01T10:13",
@@ -5454,49 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-23T03:48:06.667027+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss"
-  },
-  {
-    "id": "e090ba120858",
-    "source": "Arab News",
-    "date": "2026-03-25T02:03",
-    "headline": "EMEA ports have rating headroom to weather Hormuz closure: Fitch",
-    "excerpt": "RIYADH: Ports across Europe, the Middle East and Africa are broadly well-positioned to absorb the economic shock of a prolonged Iran conflict and a potential closure of the Strait of Hormuz, with most maintaining sufficient rating headroom, Fitch Ratings said.\n\n\tDespite the war significantly disrupt",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-23T03:48:11.757934+00:00",
-    "link": "https://www.arabnews.com/node/2637608/business-economy"
-  },
-  {
-    "id": "0f66a8e7000d",
-    "source": "Arab News",
-    "date": "2026-03-25T01:03",
-    "headline": "Russia says it shot down almost 400 Ukrainian drones as Moscow and Kyiv escalate aerial barrages",
-    "excerpt": "Russian air defenses downed 389 incoming Ukrainian drones, Russia’s Defense Ministry said Wednesday, in what was the largest reported overnight attack on Russian regions and Crimea since Moscow’s forces invaded Ukraine more than four years ago.\n\tThe drones were stopped over 13 Russian regions as wel",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-23T03:48:11.757996+00:00",
-    "link": "https://www.arabnews.com/node/2637605/world"
-  },
-  {
-    "id": "5cc15304871d",
-    "source": "Arab News",
-    "date": "2026-03-25T12:03",
-    "headline": "PIF’s Folk Maritime redirects its routes to Red Sea to keep pace with shipping shifts",
-    "excerpt": "RIYADH: Amid the rapid shifts in regional maritime transport and the increasing rerouting of shipping away from the Arabian Gulf, Red Sea ports, particularly Jeddah Port, are emerging as key hubs for accommodating container traffic and enhancing the stability of supply chains in the region.",
-    "category": "Naval",
-    "location": "Red Sea",
-    "addedAt": "2026-04-23T03:48:11.758044+00:00",
-    "link": "https://www.arabnews.com/node/2637602/business-economy"
-  },
-  {
-    "id": "bf81115b8f0e",
-    "source": "Arab News",
-    "date": "2026-03-25T12:03",
-    "headline": "Egypt targeting 5.4% GDP growth in 2026/27 budget",
-    "excerpt": "RIYADH: Egypt is targeting gross domestic product growth of 5.4 percent, inflation stabilization, and a primary surplus of 1.2 trillion Egyptian pounds ($22.7 billion) during the 2026/27 fiscal year, a top official revealed.",
-    "category": "Other",
-    "location": "Egypt",
-    "addedAt": "2026-04-23T03:48:11.758090+00:00",
-    "link": "https://www.arabnews.com/node/2637598/business-economy"
   }
 ]
