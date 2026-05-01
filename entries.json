@@ -1,5 +1,60 @@
 [
   {
+    "id": "9cc2c8d8a6c9",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T08:47",
+    "headline": "Commercial flights from Tehran’s main airport resume amid cautious normalcy",
+    "excerpt": "Flights are gradually back in the air, but uncertainty on the ground still lingers.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-01T09:13:47.272949+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/1/commercial-flights-from-tehrans-main-airport-resume-amid-cautious-normalcy?traffic_source=rss"
+  },
+  {
+    "id": "ada33d4173bc",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T08:02",
+    "headline": "Ukraine begins to flex muscle as an emerging air power, angering Russia",
+    "excerpt": "Russian officials cast Ukrainian attacks as &#039;terrorism&#039; as they urge &#039;vigilance&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-01T09:13:47.272999+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/1/ukraine-begins-to-flex-muscle-as-an-emerging-air-power-angering-russia?traffic_source=rss"
+  },
+  {
+    "id": "a7faaa7974b7",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T07:32",
+    "headline": "Iran vows ‘long, painful’ response if US renews attacks",
+    "excerpt": "Diplomatic efforts to resolve the conflict have hit an impasse, with a ceasefire in place since April 8.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-01T09:13:47.273033+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/1/iran-vows-long-painful-response-if-us-renews-attacks?traffic_source=rss"
+  },
+  {
+    "id": "f39ab78ca784",
+    "source": "PressTV",
+    "date": "2026-05-01T09:13",
+    "headline": "Iran demands reparations from six Arab states for enabling aggression",
+    "excerpt": "Iran’s UN ambassador renews the call for holding to account the states that participated in the unjustified US-Israeli aggression against the Islamic Republic.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-01T09:13:48.921967+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/01/767836/All-states-complicit-in-US-Israeli-aggression-against-Iran-must-be-held-accountable-UN-envoy"
+  },
+  {
+    "id": "66f546c8729a",
+    "source": "PressTV",
+    "date": "2026-05-01T09:13",
+    "headline": "Iran slams US ‘moving goalposts’, disarray in decision-making",
+    "excerpt": "Tehran says shifting positions of the US negotiators, lack of coordination in decision-making in Washington, and also total collapse of trust between Iran and the US are among the main obstacles to reaching an agreement to end the war.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-01T09:13:48.922013+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/01/767833/Tehran-rebukes-Washington-moving-goalposts-disarray-in-decision-making-amid-stalled-talks"
+  },
+  {
     "id": "3beb537cdfa1",
     "source": "Al Jazeera",
     "date": "2026-05-01T06:42",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-22T23:07:48.692495+00:00",
     "link": "https://presstv.ir/Detail/2026/04/22/767384/Iran-military-United-States-capability-missiles-drones-Trump-Hegseth"
-  },
-  {
-    "id": "f46e0625dd89",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T18:10",
-    "headline": "Israeli attacks on Lebanon kill at least five people, including journalist",
-    "excerpt": "Journalist Amal Khalil killed in Israeli attack in at-Tiri, Lebanon&#039;s Al Akhbar reports.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-22T22:06:23.827149+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss"
-  },
-  {
-    "id": "122239df3183",
-    "source": "PressTV",
-    "date": "2026-04-22T22:06",
-    "headline": "Aggressors fully responsible for any instability affecting Strait of Hormuz: Iran FM",
-    "excerpt": "Foreign Minister Abbas Araghchi says the aggressors targeting Iran are fully responsible for whatever instance of instability affecting the strategic Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-22T22:06:25.346671+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/22/767381/Iran-Strait-of-Hormuz-Israel-United-States-South-Korea-Araghchi"
-  },
-  {
-    "id": "9f35b73414f6",
-    "source": "PressTV",
-    "date": "2026-04-22T22:06",
-    "headline": "Lebanese journalist Amal Khalil deliberately killed in Israeli airstrike, body found in rubble",
-    "excerpt": "Lebanese Civil Defense confirms the death of Amal Khalil, a journalist with the country's al-Akhbar daily, saying she was deliberately targeted in an Israeli strike.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-04-22T22:06:25.346699+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/22/767382/Lebanon-Israel-kills-journalist-female-al-Akhbar"
-  },
-  {
-    "id": "f95989b065b5",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T20:30",
-    "headline": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
-    "excerpt": "Israeli forces raided the funeral of two Palestinians killed by settlers at a school in the occupied West Bank.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-22T21:02:26.335020+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-forces-fire-tear-gas-at-funeral-of-palestinians-killed-by-settlers?traffic_source=rss"
-  },
-  {
-    "id": "96094041f4aa",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T19:59",
-    "headline": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians",
-    "excerpt": "Systematic sexual violence and harassment by Israeli soldiers, settlers displacing Palestinians in occupied West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-22T21:02:26.335069+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/22/sexual-violence-in-the-west-bank-emerges-as-tool-to-intimidate-palestinians?traffic_source=rss"
   }
 ]
