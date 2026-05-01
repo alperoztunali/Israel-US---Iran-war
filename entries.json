@@ -1,5 +1,49 @@
 [
   {
+    "id": "30594d202ff3",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T13:26",
+    "headline": "Woman killed, children injured as Israel attacks Lebanon",
+    "excerpt": "Israel&#039;s assault, which has displaced more than one people in Lebanon, escalates despite US brokered &#039;ceasefire&#039;.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-01T13:55:34.228832+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "b2c352acb790",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T13:25",
+    "headline": "Trump’s threat: Why cutting US troops in Europe won’t be easy",
+    "excerpt": "Amid transatlantic tensions over the Iran war, Trump has threatened to reduce troops in Germany.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-05-01T13:55:34.228877+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy?traffic_source=rss"
+  },
+  {
+    "id": "1dafd7e9e2e0",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T12:33",
+    "headline": "Giorgia Meloni’s moral retreat on Gaza",
+    "excerpt": "The Italian PM’s response to Israel’s genocidal war on Gaza reflects not moral conviction, but political calculation.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-01T13:55:34.228919+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/5/1/giorgia-melonis-moral-retreat-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "10a5db417678",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T12:22",
+    "headline": "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem",
+    "excerpt": "Warning follows Jewish man&#039;s arrest over brutal attack on nun in Jerusalem this week.",
+    "category": "Other",
+    "location": "Jerusalem",
+    "addedAt": "2026-05-01T13:55:34.228955+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/1/greek-orthodox-church-sounds-alarm-over-attacks-on-christians-in-jerusalem?traffic_source=rss"
+  },
+  {
     "id": "b2fa712ddb28",
     "source": "Al Jazeera",
     "date": "2026-05-01T11:31",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-23T06:10:05.085348+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protesters-stabbed-at-london-rally-against-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "16f227889596",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T03:27",
-    "headline": "Israel kills journalist and wounds another in south Lebanon targeted attack",
-    "excerpt": "Israel has killed journalist Amal Khalil and injured Zeinab Faraj in a ‘double-tap’ attack in southern Lebanon.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-23T03:48:06.666892+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss"
-  },
-  {
-    "id": "d7ee19e395ba",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T02:02",
-    "headline": "Ultra-Orthodox Jews burn Israeli flags to protest national day",
-    "excerpt": "Ultra-Orthodox Jewish protesters have burned Israeli flags and brandished anti-Zionist banners in West Jerusalem.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-23T03:48:06.666963+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss"
-  },
-  {
-    "id": "97d5be0a7fa9",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T00:40",
-    "headline": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
-    "excerpt": "Iran’s revolutionary guard has released a video said to show its forces seizing a ship in the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-23T03:48:06.667001+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "5c4f4b96b781",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T00:00",
-    "headline": "Iran war live: Israel kills Lebanese journalist; Tehran-US talks stalled",
-    "excerpt": "Israeli attacks on Lebanon killed at least five people on Wednesday, including Lebanese journalist Amal Khalil.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-04-23T03:48:06.667027+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss"
   }
 ]
