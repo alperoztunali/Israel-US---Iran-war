@@ -1,5 +1,27 @@
 [
   {
+    "id": "0a7e30cda40e",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T16:32",
+    "headline": "UAE exit from OPEC signals closer alignment with US interests, experts say",
+    "excerpt": "UAE wants to supply more oil than its OPEC quota and that could help push down prices once the Strait of Hormuz opens.",
+    "category": "Other",
+    "location": "Uae",
+    "addedAt": "2026-05-01T17:15:39.162677+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss"
+  },
+  {
+    "id": "6b9887ba5df2",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T15:57",
+    "headline": "Pentagon announces deal with seven AI companies for classified systems",
+    "excerpt": "Most recent instance of department integrating with AI comes amid Anthropic standoff, concern over use in Iran war.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-01T17:15:39.162724+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems?traffic_source=rss"
+  },
+  {
     "id": "ce09362fcbc1",
     "source": "PressTV",
     "date": "2026-05-01T16:10",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-23T08:12:04.482852+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/dozens-of-israeli-settlers-cross-into-syria-to-demand-settlement?traffic_source=rss"
-  },
-  {
-    "id": "449f6e94d167",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T07:34",
-    "headline": "Iran war: What’s happening on day 55 after Trump extended ceasefire?",
-    "excerpt": "Iran says it wants talks, but blames US “breach of commitments, blockade and threats” for stalling negotiations.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-23T08:12:04.482892+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "a8ea5c7d6d96",
-    "source": "PressTV",
-    "date": "2026-04-23T08:12",
-    "headline": "Tehran protests to UN over US misuse of Arab states’ soil for anti-Iran attacks",
-    "excerpt": "Iran’s UN ambassador protests the United States’ misuse of the airspace and territory of five Persian Gulf Arab countries for illegal strikes on the Islamic Republic.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-23T08:12:06.272899+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/23/767389/Tehran-protests-to-UN-over-US-misuse-of-Arab-states%E2%80%99-soil-for-anti-Iran-attacks"
   }
 ]
