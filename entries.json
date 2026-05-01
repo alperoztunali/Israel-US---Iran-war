@@ -1,5 +1,27 @@
 [
   {
+    "id": "34c3da061a46",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T22:27",
+    "headline": "Trump considering option to ‘blast the hell out of’ Iran",
+    "excerpt": "US President Donald Trump said he is &quot;not happy&quot; with the latest peace proposal from Iran.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-01T23:00:57.849066+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss"
+  },
+  {
+    "id": "e9328804aae6",
+    "source": "PressTV",
+    "date": "2026-05-01T23:00",
+    "headline": "IRGC Navy vows to enforce Leader's 'historic' directive in Persian Gulf",
+    "excerpt": "The IRGC's Navy pledges to enforce Iran's Leader's recent directive concerning the Persian Gulf and the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-01T23:00:59.578460+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/01/767877/Iran-Strait-of-Hormuz-Persian-Gulf-IRGC-Leader"
+  },
+  {
     "id": "3dd489b0e3e1",
     "source": "Al Jazeera",
     "date": "2026-05-01T21:10",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-23T11:18:46.018197+00:00",
     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/23/iran-war-how-big-is-the-global-energy-shock?traffic_source=rss"
-  },
-  {
-    "id": "81384622e45c",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T10:59",
-    "headline": "Africa’s abandoned workers in Lebanon",
-    "excerpt": "African migrant workers in Lebanon are caught in a war.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-04-23T11:18:46.018244+00:00",
-    "link": "https://www.aljazeera.com/video/africa-now/2026/4/23/africas-abandoned-workers-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "030449274012",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T10:29",
-    "headline": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
-    "excerpt": "The German airline says 20,000 short-haul flights would be removed from its ⁠schedule between now and October.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-23T11:18:46.018272+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss"
   }
 ]
