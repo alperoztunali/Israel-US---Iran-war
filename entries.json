@@ -1,5 +1,27 @@
 [
   {
+    "id": "a18f23fefc03",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T02:31",
+    "headline": "Condemnation and protests against Israel’s raid of Gaza aid flotilla",
+    "excerpt": "Israel has provoked international condemnation for its interception of Gaza-bound aid boats in international waters.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-05-01T04:19:21.817868+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss"
+  },
+  {
+    "id": "1150eb45b405",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T00:00",
+    "headline": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
+    "excerpt": "Israeli attacks on Lebanon killed at least 2,586 people and wounded more than 8,000 since March 2, local media report.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-05-01T04:19:21.817934+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss"
+  },
+  {
     "id": "b5a1c25a096e",
     "source": "Al Jazeera",
     "date": "2026-04-30T21:53",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-22T19:52:49.869097+00:00",
     "link": "https://presstv.ir/Detail/2026/04/22/767376/Iran-Hormuz-reopening-Ghalibaf-US-bullying"
-  },
-  {
-    "id": "1bd83f29f4f1",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T18:22",
-    "headline": "Bad optics? Israel jails soldiers who smashed Jesus statue in Lebanon",
-    "excerpt": "Critics say Israeli attacks on Christian sites challenge claims of a Judeo-Christian shared heritage and mutual respect.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-22T18:40:25.248838+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/22/bad-optics-israel-jails-soldiers-who-smashed-jesus-statue-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "e45375204a1e",
-    "source": "Al Jazeera",
-    "date": "2026-04-22T18:21",
-    "headline": "Did UK universities pay to ‘spy’ on pro‑Palestine students?",
-    "excerpt": "UK universities allegedly hired a security firm with military intelligence ties to monitor pro-Palestine students.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-22T18:40:25.248895+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/22/aje-onl-tt_gbr_unispying_av_v2-220426?traffic_source=rss"
   }
 ]
