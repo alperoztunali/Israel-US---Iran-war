@@ -1,5 +1,60 @@
 [
   {
+    "id": "021a55c9ea87",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T13:12",
+    "headline": "The dark side of Gaza’s new fancy cafes and restaurants",
+    "excerpt": "The new establishments popping up in the devastated Strip reveal a new genocidal reality.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-02T14:00:11.949269+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/5/2/the-dark-side-of-gazas-new-fancy-cafes-and-restaurants?traffic_source=rss"
+  },
+  {
+    "id": "ce7633420837",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T13:03",
+    "headline": "Mali probes soldiers suspected of involvement in military base attacks",
+    "excerpt": "Five army personnel, including three active-duty soldiers, identified as suspects in last week&#039;s coordinated attacks.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-02T14:00:11.949345+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks?traffic_source=rss"
+  },
+  {
+    "id": "9a5eeeca37c9",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T12:55",
+    "headline": "Israeli air strikes kill 10 people in southern Lebanon",
+    "excerpt": "Drones and planes hit several towns despite &#039;ceasefire&#039; since April 17 as Hezbollah pledges to continue its attacks.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-02T14:00:11.949374+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "6aa7852f91df",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T12:46",
+    "headline": "Flotilla activists return to Istanbul after Israel detains them at sea",
+    "excerpt": "Global Sumud Flotilla activists have arrived in Istanbul after Israel intercepted their Gaza-bound aid convoy at sea.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-05-02T14:00:11.949399+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss"
+  },
+  {
+    "id": "c12462d9c97d",
+    "source": "PressTV",
+    "date": "2026-05-02T14:00",
+    "headline": "Iran slams terrorist attack, assassination of Shia cleric near Damascus shrine",
+    "excerpt": "Iran denounces a terrorist attack near the Sayyida Zaynab shrine in Syria and the assassination of a prominent Shia preacher.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-02T14:00:13.617020+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/02/767905/Iran-slams-terrorist-attack-assassination-of-Shia-cleric-near-Damascus-shrine%C2%A0"
+  },
+  {
     "id": "ff3d5f6ee24e",
     "source": "Al Jazeera",
     "date": "2026-05-02T11:34",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-23T20:40:04.624760+00:00",
     "link": "https://presstv.ir/Detail/2026/04/23/767415/Iran-s-Red-Crescent--US-pirated-ship-carried-vital-kidney-dialysis-supplies"
-  },
-  {
-    "id": "e5bfc67335c9",
-    "source": "PressTV",
-    "date": "2026-04-23T20:40",
-    "headline": "Iran central bank confirms Strait of Hormuz fees received in cash",
-    "excerpt": "Iran's central bank has confirmed the successful deposit of revenue from newly established transit fees for ships passing through the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-23T20:40:04.624788+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/23/767419/Iran-central-bank-confirms-Strait-of-Hormuz-fees-received-in-cash"
-  },
-  {
-    "id": "0bb2ae868185",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T19:08",
-    "headline": "How Trump’s Iran war is driving military dissent",
-    "excerpt": "From protests to quiet resistance, dissent is rising inside the United States military over the US-Israel war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-23T19:42:04.693949+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss"
-  },
-  {
-    "id": "bf29dbb041e2",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T18:09",
-    "headline": "Mixed views in Lebanon ahead of controversial talks with Israel",
-    "excerpt": "Lebanon remains divided over the best way to end the conflict with Israel, with some backing Hezbollah&#039;s armed response.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-23T19:42:04.693992+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/23/mixed-views-in-lebanon-ahead-of-controversial-talks-with-israel?traffic_source=rss"
-  },
-  {
-    "id": "35fa39c67286",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T17:34",
-    "headline": "Italy slams Trump envoy proposal of taking Iran’s place in World Cup 2026",
-    "excerpt": "Italy officials slam suggestion that national football team should replace Iran at World Cup; fans also underwhelmed.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-23T19:42:04.694034+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/23/italy-officials-say-replacing-iran-at-world-cup-2026-would-be-shameful?traffic_source=rss"
-  },
-  {
-    "id": "9feb893ca0c0",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T17:45",
-    "headline": "Israeli forces kill Palestinian teenager in occupied West Bank raid",
-    "excerpt": "Teenager dies in hospital after Israeli forces shot him with live ammunition in the shoulder, Palestinian media reports.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-23T18:09:07.468517+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/23/israeli-forces-kill-palestinian-teenager-in-occupied-west-bank-raid?traffic_source=rss"
   }
 ]
