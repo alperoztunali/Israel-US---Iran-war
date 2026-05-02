@@ -1,5 +1,49 @@
 [
   {
+    "id": "a6079df03a40",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T14:23",
+    "headline": "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
+    "excerpt": "Murder rates in Israel&#039;s Palestinian areas soar, fueling allegations of state complicity and neglect.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-02T15:00:59.255437+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss"
+  },
+  {
+    "id": "08d8dbd06e24",
+    "source": "PressTV",
+    "date": "2026-05-02T15:01",
+    "headline": "Iran's undeclared factors could turn any new aggression into bigger defeat for US: Analysis",
+    "excerpt": "Amid a fragile ceasefire and enemy desperation to resume all-out war on Iran, multiple factors could inflict a larger US defeat if it resorts to another military adventure, a Press TV analysis reveals.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-02T15:01:00.905291+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/02/767907/iran-undeclared-factors-could-turn-new-aggression-bigger-defeat-us-analysis"
+  },
+  {
+    "id": "1fd677b12003",
+    "source": "PressTV",
+    "date": "2026-05-02T15:01",
+    "headline": "Attack on Gaza-bound aid flotilla sign of Israel’s moral decadence: Hamas",
+    "excerpt": "The Hamas resistance movement has denounced the violent interception of the Gaza-bound Sumud-2 flotilla as a sign of Israel's moral decadence",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-05-02T15:01:00.905326+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/02/767912/Attack-on-Gaza-bound-aid-flotilla-sign-of-Israel-s-moral-decadence-Hamas%C2%A0"
+  },
+  {
+    "id": "41f48e283445",
+    "source": "PressTV",
+    "date": "2026-05-02T15:01",
+    "headline": "US-struck girls' school in Iran’s Minab to become museum of resistance: Minister",
+    "excerpt": "Iran's Minister of Education says the school in Minab, which was struck by the United States on the first day of the US-Israeli aggression against Iran, will be converted into a permanent museum of resistance.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-02T15:01:00.905368+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/02/767911/US-struck-girls-school-in-Iran-s-Minab-to-become-museum-of-resistance-Minister"
+  },
+  {
     "id": "021a55c9ea87",
     "source": "Al Jazeera",
     "date": "2026-05-02T13:12",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-23T21:33:02.115886+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/trump-says-he-is-keeping-strait-of-hormuz-closed-not-iran?traffic_source=rss"
-  },
-  {
-    "id": "623d0bd99603",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T20:52",
-    "headline": "US sanctions Cambodian senator over purported scam network links",
-    "excerpt": "US Treasury Department accuses Kok An and associates of using political influence to protect network of fraud centres.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-04-23T21:33:02.115922+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/23/us-sanctions-cambodian-senator-over-purported-scam-network-links?traffic_source=rss"
-  },
-  {
-    "id": "50cf6d9db726",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T20:26",
-    "headline": "Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’",
-    "excerpt": "Several Iranian officials share same message, emphasising what they call the &#039;iron unity of the nation and government&#039;.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-23T21:33:02.115955+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul?traffic_source=rss"
-  },
-  {
-    "id": "568aa9f197f3",
-    "source": "PressTV",
-    "date": "2026-04-23T20:40",
-    "headline": "Collective slap: Heads of Iran’s three state branches strike back at Trump",
-    "excerpt": "The three heads of Iran's executive, legislative, and judicial branches have issued a collective response to US President Donald Trump, denouncing his remarks about “divisions between extremists and moderates” in Iran as unwarranted provocations.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-23T20:40:04.624726+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/23/767429/Collective-slap--Heads-of-Iran%E2%80%99s-three-state-branches-strike-back-at-Trump"
-  },
-  {
-    "id": "4acf21dcf1b6",
-    "source": "PressTV",
-    "date": "2026-04-23T20:40",
-    "headline": "Iran's Red Crescent: US-pirated ship carried vital medical supplies",
-    "excerpt": "The Iranian Red Crescent Society expresses concern that a cargo shipment on a vessel recently intercepted by US forces includes vital supplies needed for kidney dialysis patients.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-23T20:40:04.624760+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/23/767415/Iran-s-Red-Crescent--US-pirated-ship-carried-vital-kidney-dialysis-supplies"
   }
 ]
