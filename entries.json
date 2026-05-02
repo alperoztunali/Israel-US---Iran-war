@@ -1,5 +1,27 @@
 [
   {
+    "id": "0ef95bd01788",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T00:00",
+    "headline": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
+    "excerpt": "White House tells Congress that Iran hostilities have &#039;terminated&#039; despite continued US troop presence in Middle East.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-02T03:52:28.041459+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss"
+  },
+  {
+    "id": "d3aa02e940d2",
+    "source": "PressTV",
+    "date": "2026-05-02T03:52",
+    "headline": "Majority of US bases in West Asia damaged in retaliatory strikes by Iran, allies: Probe",
+    "excerpt": "CNN probe says a large portion of the US's military installations across West Asia have sustained damage following strikes by Iran and its allies.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-02T03:52:29.822610+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/02/767880/United-States-military-damaged-Iran-retaliation"
+  },
+  {
     "id": "04e90789d5ca",
     "source": "Al Jazeera",
     "date": "2026-05-01T22:54",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-23T12:41:16.890830+00:00",
     "link": "https://www.aljazeera.com/video/money-works/2026/4/23/the-economic-winners-losers-in-the-us-israel-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "81a6d5b83425",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T11:48",
-    "headline": "Indian physicists voice solidarity with Iran, Palestine, Lebanon academics",
-    "excerpt": "In a statement, prominent string theorists condemn the attacks on universities across the Middle Eastern countries.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-23T12:41:16.890862+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/23/indian-physicists-voice-solidarity-with-iran-palestine-lebanon-academics?traffic_source=rss"
-  },
-  {
-    "id": "dce4b56bd774",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T11:25",
-    "headline": "How Iran raised Hormuz stakes by capturing ships",
-    "excerpt": "After the US and Israel launched a war on Iran on February 28, Tehran blocked the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-04-23T12:41:16.890887+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/23/how-iran-raised-hormuz-stakes-by-capturing-ships?traffic_source=rss"
   }
 ]
