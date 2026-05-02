@@ -1,5 +1,16 @@
 [
   {
+    "id": "ff3d5f6ee24e",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T11:34",
+    "headline": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
+    "excerpt": "The US president says the ongoing naval blockade of the Strait of Hormuz is &#039;a very profitable business&#039;.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-02T12:36:16.146872+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss"
+  },
+  {
     "id": "bc091441bb51",
     "source": "PressTV",
     "date": "2026-05-02T11:31",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-23T18:09:07.468517+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/23/israeli-forces-kill-palestinian-teenager-in-occupied-west-bank-raid?traffic_source=rss"
-  },
-  {
-    "id": "b4ed9f22c0dd",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T17:35",
-    "headline": "Decapitating cartels? Mexico leans into ‘kingpin strategy’ but at a cost",
-    "excerpt": "Under pressure from the US, President Claudia Sheinbaum has authorised military operations to arrest cartel leaders.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-23T18:09:07.468579+00:00",
-    "link": "https://www.aljazeera.com/features/longform/2026/4/23/decapitating-cartels-mexico-leans-into-kingpin-strategy-but-at-a-cost?traffic_source=rss"
   }
 ]
