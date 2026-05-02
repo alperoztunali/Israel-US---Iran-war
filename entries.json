@@ -1,5 +1,38 @@
 [
   {
+    "id": "11d4fb995c17",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T12:55",
+    "headline": "Israeli air strikes on Lebanon kill 41 people in 24-hours",
+    "excerpt": "Death toll from Israeli attacks on Lebanon since March 2 increases to 2,659, 8,183 injured.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-02T17:07:50.738390+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "fe07cea620b5",
+    "source": "PressTV",
+    "date": "2026-05-02T17:07",
+    "headline": "No limit on uranium enrichment level under IAEA supervision: Iran’s UN mission",
+    "excerpt": "Iran’s mission to the UN says there is no restriction on the level of uranium enrichment under the IAEA’s supervision.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-02T17:07:52.403511+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/02/767921/No-limit-on-uranium-enrichment-level-under-IAEA-supervision-Iran-s-UN-mission"
+  },
+  {
+    "id": "c981576d3fba",
+    "source": "PressTV",
+    "date": "2026-05-02T17:07",
+    "headline": "China blocks US sanctions on refineries buying Iranian oil",
+    "excerpt": "Ministry of Commerce has issued an injunction to block US sanctions imposed on five Chinese refineries.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-02T17:07:52.403550+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/02/767923/China-blocks-US-sanctions-on-refineries-buying-Iranian-oil"
+  },
+  {
     "id": "37d3093b9d16",
     "source": "Al Jazeera",
     "date": "2026-05-02T12:55",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-23T23:27:00.178046+00:00",
     "link": "https://presstv.ir/Detail/2026/04/23/767433/Leader--Remarkable-unity-among-Iranians-shatters-enemy-ranks"
-  },
-  {
-    "id": "e13f60044faa",
-    "source": "PressTV",
-    "date": "2026-04-23T22:27",
-    "headline": "Araghchi: Israeli terror assassinations collapse against Iran’s unity and resistance",
-    "excerpt": "​​​​​​​Iran’s Foreign Minister Abbas Araghchi has stated that the Israeli regime’s repeated terrorist assassinations have completely failed.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-23T22:27:29.495958+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/23/767432/Araghchi--Israeli-terror-assassinations-collapse-against-Iran%E2%80%99s-unity-and-resistance"
-  },
-  {
-    "id": "79d9198ce0a3",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T21:11",
-    "headline": "Funeral held for journalist killed in targeted Israeli strike",
-    "excerpt": "Mourners attended the funeral of Amal Khalil, a journalist who was killed in an Israeli attack in south Lebanon.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-23T21:33:02.115800+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/funeral-held-for-journalist-killed-in-targeted-israeli-strike?traffic_source=rss"
-  },
-  {
-    "id": "c728a21de8fa",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T21:03",
-    "headline": "EU formally approves 90bn euro Ukraine loan and new sanctions on Russia",
-    "excerpt": "Ukrainian President Zelenskyy welcomes the development, urging that the first tranche be disbursed by May or June.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-04-23T21:33:02.115851+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia?traffic_source=rss"
   }
 ]
