@@ -1,5 +1,49 @@
 [
   {
+    "id": "49810321b507",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T18:12",
+    "headline": "Spain demands Israel release arrested Gaza flotilla crew member",
+    "excerpt": "Saif Abukeshek was taken to Israel after forces raided the Global Sumid Flotilla off the coast of Greece.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-02T19:19:01.958457+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss"
+  },
+  {
+    "id": "ed8b2e791160",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T18:05",
+    "headline": "Devastation of Southern Lebanon continues under ‘ceasefire’",
+    "excerpt": "At least 41 people killed as Israel launches 50 airstrikes on southern Lebanon in 24 hours.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-02T19:19:01.958497+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss"
+  },
+  {
+    "id": "cc02927e5954",
+    "source": "PressTV",
+    "date": "2026-05-02T19:19",
+    "headline": "Iran says ‘ball is in US court’ after submitting proposal to mediators",
+    "excerpt": "Iran’s deputy FM says it is up to the US to decide whether it wants a deal with Tehran.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-02T19:19:03.465956+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/02/767931/Iran-says-ball-is-in-US-court-after-submitting-proposal-to-mediators"
+  },
+  {
+    "id": "006a5bddac21",
+    "source": "PressTV",
+    "date": "2026-05-02T19:19",
+    "headline": "IRGC Quds Force chief: Israel’s kidnapping of Gaza flotilla activists ‘international terrorism’",
+    "excerpt": "The commander of the Quds Force of the Islamic Revolution Guards Corps (IRGC) has condemned the violent interception of the Gaza-bound Global Sumud Flotilla vessels and detention of pro-Palestinian activists by Israeli forces as a prime example of international terrorism.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-05-02T19:19:03.466004+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/02/767932/IRGC-Quds-Force-chief-Israel-s-kidnapping-of-Gaza-flotilla-activists-international-terrorism"
+  },
+  {
     "id": "f2ebe837400c",
     "source": "Al Jazeera",
     "date": "2026-05-02T17:10",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-24T08:24:37.047224+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "9ea2776dd89e",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T05:44",
-    "headline": "How fake AI victims are being used to provide rationale for attacking Iran",
-    "excerpt": "In the battle of propaganda, fake videos and images of female victims of Iran&#039;s government are going viral.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T06:12:16.106694+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/how-fake-ai-victims-are-being-used-to-provide-rationale-for-attacking-iran?traffic_source=rss"
-  },
-  {
-    "id": "7a8b798f7b86",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T02:50",
-    "headline": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
-    "excerpt": "Jump in prices comes as Donald Trump says vessels will need permission of US Navy to transit key waterway.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-24T03:52:49.953780+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "01e189955e7a",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T00:00",
-    "headline": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side",
-    "excerpt": "Death toll from Israel&#039;s ongoing genocidal war on Gaza has reached 72,568 with 172,338 injured: Gaza&#039;s Health Ministry.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-04-24T03:52:49.953825+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss"
-  },
-  {
-    "id": "02440ce66cf6",
-    "source": "PressTV",
-    "date": "2026-04-24T03:52",
-    "headline": "IRGC commander: Unyielding unity of people and officials defying US-Zionist enemy",
-    "excerpt": "Esmail Qaani has stated that the unity displayed by the Iranian nation in the streets and the complete cohesion among state officials represent the decisive support for the Resistance Front.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T03:52:51.641365+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/23/767434/IRGC-commander--Unyielding-unity-of-people-and-officials-defying-US-Zionist-enemy"
   }
 ]
