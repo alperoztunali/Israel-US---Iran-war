@@ -1,5 +1,49 @@
 [
   {
+    "id": "6c04e93d4b7f",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T07:37",
+    "headline": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
+    "excerpt": "China&#039;s UN Ambassador Fu Cong says maintaining the ceasefire and reopening the Strait of Hormuz are “urgent” priorities.",
+    "category": "Diplomatic",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-02T08:00:27.236734+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss"
+  },
+  {
+    "id": "3d7e7a367b02",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T06:47",
+    "headline": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
+    "excerpt": "The UNIFIL mission has faced a growing number of casualties as Israel and Hezbollah continue to fight.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-02T08:00:27.236799+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss"
+  },
+  {
+    "id": "08d1b8e8477d",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T06:27",
+    "headline": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+    "excerpt": "US President Donald Trump says the latest Iranian peace proposal includes demands he &#039;can’t agree to&#039;.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-02T08:00:27.236847+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss"
+  },
+  {
+    "id": "53c43f30b870",
+    "source": "PressTV",
+    "date": "2026-05-02T08:00",
+    "headline": "US public undeniably entitled to question legality of anti-Iran war: FM spox",
+    "excerpt": "US public undeniably entitled to question legality of anti-Iran war: FM spox",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-02T08:00:28.629596+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/02/767889/US-public-undeniably-entitled-question-legality-anti-Iran-war-FM-spox"
+  },
+  {
     "id": "fec7e58ae953",
     "source": "Al Jazeera",
     "date": "2026-05-02T04:35",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-23T16:49:17.010569+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/aje-onl-aje_onl_lebanon_wrap-230426?traffic_source=rss"
-  },
-  {
-    "id": "78766d1cf51b",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T14:58",
-    "headline": "US to ‘shoot and kill’ Iranian boats laying mines in Hormuz, Trump says",
-    "excerpt": "US says it intercepted another tanker carrying Iranian oil as Trump underscores alleged infighting within Iran&#039;s leadership.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-23T16:49:17.010595+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/23/us-to-shoot-and-kill-iranian-boats-laying-mines-in-hormuz-trump-says?traffic_source=rss"
-  },
-  {
-    "id": "9eadb641d756",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T14:07",
-    "headline": "How Iran war has triggered soaring cost of medicines",
-    "excerpt": "Pharmacists in some countries have seen the cost of painkillers more than quadruple.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-23T14:58:16.458238+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/23/how-iran-war-has-triggered-soaring-cost-of-medicines-condoms?traffic_source=rss"
-  },
-  {
-    "id": "ce03936ab230",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T13:26",
-    "headline": "How Lebanese journalist Amal Khalil was pursued and killed by Israel",
-    "excerpt": "Details of how Lebanese journalist Amal Khalil was “pursued” and killed by Israeli forces have been released.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-23T14:58:16.458282+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/how-lebanese-journalist-amal-khalil-was-pursued-and-killed-by-israel?traffic_source=rss"
-  },
-  {
-    "id": "6a299067e14b",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T13:12",
-    "headline": "‘Solutions, not slogans’: Gaza holds first election in 21 years",
-    "excerpt": "Deir el-Balah holds Gaza&#039;s first local election in 21 years amid war ruins, with residents demanding real solutions.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-23T14:58:16.458326+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/23/solutions-not-slogans-gaza-holds-first-election-in-21-years?traffic_source=rss"
   }
 ]
