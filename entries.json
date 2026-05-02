@@ -1,5 +1,27 @@
 [
   {
+    "id": "04e90789d5ca",
+    "source": "Al Jazeera",
+    "date": "2026-05-01T22:54",
+    "headline": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
+    "excerpt": "President Donald Trump has feuded with European allies over their reluctance to step up support for war on Iran.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-05-02T00:07:21.397484+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss"
+  },
+  {
+    "id": "020d1aadbb0e",
+    "source": "PressTV",
+    "date": "2026-05-02T00:07",
+    "headline": "Iran welcomes nomination of Iraq's new PM-designate; reaffirms support for Iraqi stability",
+    "excerpt": "Foreign Minister Abbas Araghchi welcomes nomination of Ali Faleh al‑Zaidi as Iraq's new prime minister-designate.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-02T00:07:23.690781+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/01/767878/Iran-Iraq-prime-minister-designate-Zaidi"
+  },
+  {
     "id": "34c3da061a46",
     "source": "Al Jazeera",
     "date": "2026-05-01T22:27",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-23T12:41:16.890887+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/23/how-iran-raised-hormuz-stakes-by-capturing-ships?traffic_source=rss"
-  },
-  {
-    "id": "27736eebb8d3",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T11:22",
-    "headline": "Israeli strike near mosque kills five in Gaza, including three children",
-    "excerpt": "An Israeli air strike near a mosque in Gaza killed at least five Palestinians, including three children.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-04-23T12:41:16.890910+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-strike-near-mosque-kills-five-in-gaza-including-three-children?traffic_source=rss"
-  },
-  {
-    "id": "c502ecb66827",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T11:08",
-    "headline": "Iran war: How big is the global energy shock?",
-    "excerpt": "More than 500 million barrels of oil disrupted in just weeks, reshaping global energy flows.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-23T11:18:46.018197+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/23/iran-war-how-big-is-the-global-energy-shock?traffic_source=rss"
   }
 ]
