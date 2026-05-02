@@ -1,5 +1,38 @@
 [
   {
+    "id": "f2ebe837400c",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T17:10",
+    "headline": "Yemen reports hijacked oil tanker headed for Somalia",
+    "excerpt": "The incident marks at least the fourth vessel hijacking near Somalia in recent weeks.",
+    "category": "Naval",
+    "location": "Yemen",
+    "addedAt": "2026-05-02T18:03:01.102343+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss"
+  },
+  {
+    "id": "5548d7f8f51d",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T17:06",
+    "headline": "Spain’s Sanchez demands Netanyahu free Spaniard seized on aid flotilla",
+    "excerpt": "Spanish Prime Minister Pedro Sanchez is demanding Israel to release the &#039;abducted&#039; Spaniard taken from the flotilla.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-02T18:03:01.102400+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spains-sanchez-demands-netanyahu-free-spaniard-seized-on-aid-flotilla?traffic_source=rss"
+  },
+  {
+    "id": "7a760c5797d8",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T16:58",
+    "headline": "Prices surge, jobs disappear as war strains Iran’s economy",
+    "excerpt": "New Supreme Leader Mojtaba Khamenei says the country must defeat its enemies in an economic and cultural struggle, as we",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-02T18:03:01.102442+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss"
+  },
+  {
     "id": "11d4fb995c17",
     "source": "Al Jazeera",
     "date": "2026-05-02T12:55",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-24T03:52:51.641365+00:00",
     "link": "https://presstv.ir/Detail/2026/04/23/767434/IRGC-commander--Unyielding-unity-of-people-and-officials-defying-US-Zionist-enemy"
-  },
-  {
-    "id": "4c488d8ab752",
-    "source": "PressTV",
-    "date": "2026-04-24T03:52",
-    "headline": "French president rejects coercive US blockades against Iran",
-    "excerpt": "French President Emmanuel Macron has publicly rejected Washington’s coercive blockades against the Islamic Republic of Iran,.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T03:52:51.641411+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/24/767435/Europe-cracks--French-president-rejects-coercive-US-blockades-against-Iran"
-  },
-  {
-    "id": "5b38be471808",
-    "source": "Al Jazeera",
-    "date": "2026-04-23T23:04",
-    "headline": "US soldier charged with using Polymarket to bet on Nicolas Maduro abduction",
-    "excerpt": "The suspect, 38-year-old Gannon Ken Van Dyke, allegedly made $400,000 from insider knowledge of the Venezuela attack.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-24T00:10:44.641923+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/23/us-soldier-charged-with-using-polymarket-to-bet-on-nicolas-maduro-abduction?traffic_source=rss"
-  },
-  {
-    "id": "f93f2555fd8c",
-    "source": "PressTV",
-    "date": "2026-04-23T23:27",
-    "headline": "Leader: Remarkable unity among Iranians shatters enemy ranks",
-    "excerpt": "Ayatollah Mojtaba Khamenei has praised the profound impact of the Iranian nation’s extraordinary unity, saying that it has inflicted a significant fracture on the enemy.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-23T23:27:00.178046+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/23/767433/Leader--Remarkable-unity-among-Iranians-shatters-enemy-ranks"
   }
 ]
