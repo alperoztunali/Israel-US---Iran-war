@@ -1,5 +1,27 @@
 [
   {
+    "id": "22e900abc671",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T14:06",
+    "headline": "On World Press Freedom Day, Pope honours journalists killed in war zones",
+    "excerpt": "Pope Leo XIV asks faithful to remember journalists who have lost their lives pursuing the truth.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-03T15:26:01.013609+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/pope-honors-journalists-killed-in-war-zones-on-world-press-freedom-day?traffic_source=rss"
+  },
+  {
+    "id": "af4233a8785a",
+    "source": "PressTV",
+    "date": "2026-05-03T15:26",
+    "headline": "Analysis: US-Israeli-Arab war alliance crumbles as united Iran solidifies strategic leverage",
+    "excerpt": "Despite military and economic aggression, Iran has emerged unscathed, holding strategic leverage through military prowess, popular resilience, united leadership, and firm control over the Strait of Hormuz – while the US-Israeli-Arab alliance crumbles.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-03T15:26:02.727366+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/03/767982/us-israeli-arab-war-alliance-crumbles-united-resilient-iran-solidifies-strategic-leverage"
+  },
+  {
     "id": "2fcc232cfbc6",
     "source": "Al Jazeera",
     "date": "2026-05-03T14:00",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-24T21:07:47.189949+00:00",
     "link": "https://presstv.ir/Detail/2026/04/24/767483/Iran-US-talks-Islamabad-Araghchi"
-  },
-  {
-    "id": "68588cf41aa3",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T19:05",
-    "headline": "Can Europe help the Middle East resolve the war on Iran?",
-    "excerpt": "Al Jazeera’s Rory Challands reports from the EU summit in Cyprus.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-24T20:03:26.152202+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "333e4cbd63e9",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T18:24",
-    "headline": "Israeli attacks on Lebanon may violate international law, UN warns",
-    "excerpt": "UN report says Hezbollah rocket attacks on Israel may have breached international humanitarian law.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-24T19:13:36.066614+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss"
   }
 ]
