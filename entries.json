@@ -1,5 +1,49 @@
 [
   {
+    "id": "693716e82765",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T06:21",
+    "headline": "In Yemen, Starlink internet brings opportunities – for some",
+    "excerpt": "Despite Houthi resistance and affordability challenges, Starlink fuels growth in Yemen&#039;s digital workforce.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-05-03T06:31:08.445310+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss"
+  },
+  {
+    "id": "975d5a949450",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T04:35",
+    "headline": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
+    "excerpt": "A fragile ceasefire may have paused the US-Israeli war on Iran, but the economic cost is crippling life in Tehran.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-03T06:31:08.445353+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss"
+  },
+  {
+    "id": "896cd14ab3e5",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T02:37",
+    "headline": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
+    "excerpt": "US president says he is considering the 14-point peace plan, but warns strikes could resume if Tehran &#039;misbehaves&#039;.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-03T06:31:08.445393+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss"
+  },
+  {
+    "id": "8dbf1b4f596e",
+    "source": "PressTV",
+    "date": "2026-05-03T06:31",
+    "headline": "Organized Israeli settler violence against Christians hits new high: Report",
+    "excerpt": "Israeli settler attacks targeting Christians and non-Jewish communities in occupied al-Quds have significantly increased, according to a report.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-03T06:31:13.946312+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/03/767944/Organized-settler-violence-against-non-Jewish-Palestinians-hits-new-high-Report"
+  },
+  {
     "id": "dbdef4ca1b94",
     "source": "Al Jazeera",
     "date": "2026-05-03T03:29",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-24T12:45:38.679789+00:00",
     "link": "https://www.aljazeera.com/features/2026/4/24/russian-troops-warships-in-india-soon-why-their-new-military-pact-matters?traffic_source=rss"
-  },
-  {
-    "id": "448cb5b0c59c",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T11:26",
-    "headline": "How long can Iran survive the US’s Hormuz blockade?",
-    "excerpt": "And just how long can the US hold out?",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T12:45:38.679823+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/24/how-long-can-iran-survive-the-uss-hormuz-blockade?traffic_source=rss"
-  },
-  {
-    "id": "5b02e36ebc31",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T11:20",
-    "headline": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
-    "excerpt": "Thousands of amputees cannot access care and are struggling with basic mobility.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-24T12:45:38.679854+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss"
-  },
-  {
-    "id": "87acd4e44dc9",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T11:06",
-    "headline": "US considers suspending Spain from NATO, reported internal email suggests",
-    "excerpt": "Pentagon email obtained by Reuters reveals US anger at Spain and the UK as Iran war tensions persist.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T11:35:47.448234+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters?traffic_source=rss"
-  },
-  {
-    "id": "709048b3ac4c",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T10:58",
-    "headline": "Explosions by Israeli forces in south Lebanon despite ceasefire",
-    "excerpt": "Smoke rise above Khiam in southern Lebanon after Israel carries out explosions despite the ceasefire.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-24T11:35:47.448276+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/explosions-by-israeli-forces-in-south-lebanon-despite-ceasefire?traffic_source=rss"
   }
 ]
