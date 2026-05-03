@@ -1,5 +1,49 @@
 [
   {
+    "id": "7c39b29c7068",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T11:10",
+    "headline": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+    "excerpt": "Trump is reviewing Iran&#039;s latest proposal to end the war, but the mistrust between the two sides is a big obstacle.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-03T11:53:31.952087+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss"
+  },
+  {
+    "id": "929a47572968",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T10:36",
+    "headline": "Strait of Hormuz blockade and other major naval sieges in modern times",
+    "excerpt": "Naval blockades are among the oldest weapons of war, using sea control to cut supplies and force an enemy’s surrender.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-03T11:53:31.952136+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss"
+  },
+  {
+    "id": "59a0ff552263",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T10:35",
+    "headline": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
+    "excerpt": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-03T11:53:31.952166+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/hospitals-in-lebanon-overwhelmed-with-patients-injured-by-israeli-attacks?traffic_source=rss"
+  },
+  {
+    "id": "7cb28f6f6f82",
+    "source": "PressTV",
+    "date": "2026-05-03T11:53",
+    "headline": "IRGC: Trump has to choose between ‘impossible’ war or ‘bad deal’ with Iran",
+    "excerpt": "The IRGC says the United States now faces a sharply narrowed choice between an “impossible military operation” against Iran and a “bad deal” with the country.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-03T11:53:33.581227+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/03/767964/Room-for-US-decision-making-narrowed-between-impossible-war-bad-Iran-deal-IRGC"
+  },
+  {
     "id": "d51c1b171762",
     "source": "Al Jazeera",
     "date": "2026-05-03T09:57",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-24T16:07:56.959245+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/24/israels-benjamin-netanyahu-says-he-received-treatment-for-prostate-cancer?traffic_source=rss"
-  },
-  {
-    "id": "dce35a9da69f",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T14:47",
-    "headline": "Iranians bring music to sites devastated by US-Israeli attacks",
-    "excerpt": "Iranian musicians perform on city streets and venture to sites devastated in US-Israeli attacks.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T16:07:56.959269+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/iranians-bring-music-to-sites-devastated-by-us-israeli-attacks?traffic_source=rss"
-  },
-  {
-    "id": "363bb7d8f334",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T14:37",
-    "headline": "UK to end project tracking potential Israeli violations",
-    "excerpt": "UK&#039;s Guardian newspaper reports that Foreign Office unit logging possible war crimes has shut amid funding cuts.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-24T16:07:56.959291+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/24/uk-to-end-project-tracking-potential-israeli-violations-report?traffic_source=rss"
-  },
-  {
-    "id": "2a6f2be83ca8",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T14:33",
-    "headline": "US Navy authorised to target Iranian fast boats in Strait of Hormuz",
-    "excerpt": "Hegseth says President Trump authorised the navy to target Iranian fast boats in the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T16:07:56.959317+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/us-navy-authorised-to-target-iranian-fast-boats-in-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "7bd4c90b4189",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T13:57",
-    "headline": "‘Silent suffering’: Why children in Gaza are losing their ability to speak",
-    "excerpt": "Estimated 1 million children in Gaza need mental health support, as growing number lose ability to speak due to trauma.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-24T14:46:41.162252+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/24/silent-suffering-why-children-in-gaza-are-losing-their-ability-to-speak?traffic_source=rss"
   }
 ]
