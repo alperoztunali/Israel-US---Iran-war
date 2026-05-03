@@ -1,5 +1,38 @@
 [
   {
+    "id": "2acf1cf978a8",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T17:52",
+    "headline": "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban",
+    "excerpt": "Israeli forces have raided the city of Nablus in the occupied West Bank, killing a 26-year-old man.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-03T19:20:03.176051+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss"
+  },
+  {
+    "id": "89f3af414685",
+    "source": "PressTV",
+    "date": "2026-05-03T19:20",
+    "headline": "Iran says it is reviewing US response to 14-point plan delivered via Pakistani intermediary",
+    "excerpt": "Iran confirmed on Sunday that the United States has delivered its response to Tehran’s proposed 14-point plan through Pakistani mediators.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-05-03T19:20:04.798581+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/03/767992/Iran-says-is-reviewing-US-response-to-14-point-plan-delivered-via-Pakistani-intermediary"
+  },
+  {
+    "id": "c435a68255e6",
+    "source": "PressTV",
+    "date": "2026-05-03T19:20",
+    "headline": "Iranian ports active, US blockade failing, says shipping syndicate chief",
+    "excerpt": "Head of Iran’s shipping syndicate says the country’s ports are operating normally despite the so-called US blockade.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-03T19:20:04.798622+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/03/767995/Iran-ports-operations-US-blockade-Palmeh"
+  },
+  {
     "id": "ef88312655ea",
     "source": "PressTV",
     "date": "2026-05-03T18:05",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-25T02:55:36.650638+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss"
-  },
-  {
-    "id": "a5627da714df",
-    "source": "PressTV",
-    "date": "2026-04-25T02:55",
-    "headline": "Iran yet to deploy 'significant' portion of its missile capability: Defense Ministry",
-    "excerpt": "The Defense Ministry says a significant portion of Iran’s missile capabilities remains unused.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-04-25T02:55:38.853281+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767487/Iran-missiles-war-United-States-Israel"
-  },
-  {
-    "id": "5889d3f75e0e",
-    "source": "PressTV",
-    "date": "2026-04-24T23:52",
-    "headline": "IRGC releases details of vessel seized on suspicion of cooperation with US military",
-    "excerpt": "The IRGC releases the details of a ship it had recently seized and transferred to Iranian territorial waters after suspecting it of cooperation with the US military.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-24T23:52:46.223480+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/24/767485/Iran-seizes-vessel-IRGC-cooperation-United-States-military"
-  },
-  {
-    "id": "b5ded2f73eca",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T21:42",
-    "headline": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
-    "excerpt": "Hamas says the Israeli escalation represents the failure of the international community to uphold the truce in Gaza.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-24T22:59:49.669202+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss"
   }
 ]
