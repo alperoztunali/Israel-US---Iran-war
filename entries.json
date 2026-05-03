@@ -1,5 +1,60 @@
 [
   {
+    "id": "0fcc959f320a",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T07:39",
+    "headline": "South Korea holds pro-Palestine protest in solidarity with Gaza",
+    "excerpt": "Protesters in South Korea’s capital, Seoul, were in solidarity with Palestinians in Gaza enduring genocidal attacks.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-03T08:26:41.059680+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/south-korea-holds-pro-palestine-protest-in-solidarity-with-gaza?traffic_source=rss"
+  },
+  {
+    "id": "6f5bbe5a4e15",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T07:02",
+    "headline": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+    "excerpt": "Iran has sent the US a new 14-point proposal to end the war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-03T08:26:41.059728+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss"
+  },
+  {
+    "id": "3b2a495cd71d",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T06:57",
+    "headline": "China blocks US sanctions against five ‘teapot’ refineries",
+    "excerpt": "Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-03T08:26:41.059767+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss"
+  },
+  {
+    "id": "39419fb7de36",
+    "source": "PressTV",
+    "date": "2026-05-03T08:26",
+    "headline": "Gas prices hit new high in US amid Trump's threats to continue Iran war",
+    "excerpt": "Gas prices in the US have increased once more, as President Donald Trump threatens to continue the war of aggression against Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-03T08:26:47.697152+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/03/767952/Gas-prices-hit-new-high-in-the-US-as-Iran-continues-to-restrict-traffic-in-Hormuz-Strait"
+  },
+  {
+    "id": "78b5d7808d5c",
+    "source": "PressTV",
+    "date": "2026-05-03T08:26",
+    "headline": "Gaza aid flotilla activists tortured in Israeli custody after abduction, testimony shows",
+    "excerpt": "New testimony has revealed that two activists abroad the Gaza-bound Sumud-2 flotilla have suffered torture and beatings after being kidnapped in international waters.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-03T08:26:47.697192+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/03/767949/Gaza-aid-flotilla-activists-tortured-Israeli-custody-after-abduction-testimony"
+  },
+  {
     "id": "693716e82765",
     "source": "Al Jazeera",
     "date": "2026-05-03T06:21",
@@ -5443,60 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-04-24T14:46:41.162441+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/syria-arrests-main-suspect-in-civil-war-tadamon-massacre?traffic_source=rss"
-  },
-  {
-    "id": "829c688d5c49",
-    "source": "PressTV",
-    "date": "2026-04-24T14:46",
-    "headline": "Iran FM to embark on regional tour to Pakistan, Oman, Russia",
-    "excerpt": "The Iranian foreign minister is set to start a three-leg regional tour to Pakistan, Oman and Russia late on Friday.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T14:46:43.017228+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/24/767460/Araghchi-Islamabad-Muscat-Moscow-tour"
-  },
-  {
-    "id": "2b09f1f6e653",
-    "source": "PressTV",
-    "date": "2026-04-24T14:46",
-    "headline": "Hezbollah MP: Ceasefire meaningless amid ongoing Israeli aggression",
-    "excerpt": "A Hezbollah representative in the Lebanese parliament says Israel’s ongoing hostilities render any ceasefire meaningless.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-24T14:46:43.017278+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/24/767461/Hezbollah-MP-Ceasefire-meaningless-amid-ongoing-Israeli-aggression"
-  },
-  {
-    "id": "3753a18b859e",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T12:14",
-    "headline": "Syrian authorities arrest main suspect in 2013 Tadamon massacre",
-    "excerpt": "Ex-intelligence officer Amjad Youssef was seen shooting blindfolded civilians in a leaked video.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-04-24T12:45:38.679682+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/24/main-suspect-in-tadamon-massacre-arrested-in-operation?traffic_source=rss"
-  },
-  {
-    "id": "d6f5d83e4029",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T11:53",
-    "headline": "With 3,000 containers stuck in Pakistan, Iran explores more land routes",
-    "excerpt": "Documents seen by Al Jazeera say Iran is seeking land transit for stranded sea cargo to bypass US blockade.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T12:45:38.679747+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/24/with-3000-containers-stuck-in-pakistan-iran-explores-more-land-routes?traffic_source=rss"
-  },
-  {
-    "id": "7e042a79aff3",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T11:51",
-    "headline": "Russian troops, warships in India soon? Why their new military pact matters",
-    "excerpt": "In a significant pact, India and Russia agree to the deployment of soldiers and warships on each other&#039;s soil during peace and wartime.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-04-24T12:45:38.679789+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/24/russian-troops-warships-in-india-soon-why-their-new-military-pact-matters?traffic_source=rss"
   }
 ]
