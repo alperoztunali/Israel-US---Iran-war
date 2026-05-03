@@ -1,5 +1,38 @@
 [
   {
+    "id": "d51c1b171762",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T09:57",
+    "headline": "Ukraine drone attack hits Russian Baltic port, governor says",
+    "excerpt": "Ukrainian forces also strike two shadow fleet tankers near port of Novorossiysk, President Volodymyr Zelenskyy says.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-03T10:58:01.641982+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss"
+  },
+  {
+    "id": "acff18de6a36",
+    "source": "PressTV",
+    "date": "2026-05-03T10:58",
+    "headline": "Man convicted of murdering Basij member in Iran riots executed",
+    "excerpt": "A man convicted of murdering a member of the volunteer Basij force during the foreign-backed January riots in the northwestern Iranian city of Urmia has been executed.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-03T10:58:14.720980+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/03/767963/Man-convicted-murdering-Basij-member-Iran-riots-executed"
+  },
+  {
+    "id": "1921742da3ee",
+    "source": "PressTV",
+    "date": "2026-05-03T10:58",
+    "headline": "Israeli minister Ben-Gvir boasts noose-decorated cake on his birthday",
+    "excerpt": "Israel’s so-called security minister Itamar Ben-Gvir has celebrated his 50th birthday with a noose-decorated cake.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-05-03T10:58:14.721028+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/03/767960/Israeli-minister-Ben-Gvir-boasts-noose-decorated-cake-on-his-birthday-"
+  },
+  {
     "id": "41c523e999f1",
     "source": "Al Jazeera",
     "date": "2026-05-03T08:35",
@@ -5465,38 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-04-24T14:46:41.162252+00:00",
     "link": "https://www.aljazeera.com/features/2026/4/24/silent-suffering-why-children-in-gaza-are-losing-their-ability-to-speak?traffic_source=rss"
-  },
-  {
-    "id": "e431a433e43b",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T13:06",
-    "headline": "Pro-Palestinian activists break into suspected Elbit Systems drone factory",
-    "excerpt": "Pro-Palestine activists have broken into a UK factory where they said drones were being made for Israel’s military.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-24T14:46:41.162297+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pro-palestinian-activists-break-into-suspected-elbit-systems-drone-factory?traffic_source=rss"
-  },
-  {
-    "id": "d93c1f258922",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T13:03",
-    "headline": "Negotiations that enable Israel’s land-grabs",
-    "excerpt": "Since Oslo, negotiations have coincided with illegal settlement expansion and the continued loss of Palestinian land.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-24T14:46:41.162339+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/24/negotiations-that-enable-israels-land-grabs?traffic_source=rss"
-  },
-  {
-    "id": "c6b4805a8401",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T12:57",
-    "headline": "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
-    "excerpt": "As Pakistan hosts US-Iran talks, twin-city residents face road closures, halted courts and growing economic strain.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-24T14:46:41.162370+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/24/iranian-fm-araghchi-to-visit-pakistan-as-talks-with-us-set-to-resume?traffic_source=rss"
   }
 ]
