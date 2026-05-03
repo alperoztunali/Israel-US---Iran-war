@@ -1,5 +1,27 @@
 [
   {
+    "id": "41c523e999f1",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T08:35",
+    "headline": "Israel issues new forced displacement orders in southern Lebanon",
+    "excerpt": "Warning covers more than 10 villages and towns, including several in Nabatieh district that lie north of Litani River.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-03T09:51:02.206024+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "cc093dc7589d",
+    "source": "PressTV",
+    "date": "2026-05-03T09:51",
+    "headline": "US hit with sharpest fuel price hike in G7 caused by war on Iran",
+    "excerpt": "The illegal American-Israeli war of aggression against Iran pushes up fuel prices faster in the United States than in any other member state of the Group of Seven (G7).",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-03T09:51:03.811208+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/03/767954/US-hit-with-sharpest-fuel-price-hike-in-G7-caused-by-war-on-Iran"
+  },
+  {
     "id": "0fcc959f320a",
     "source": "Al Jazeera",
     "date": "2026-05-03T07:39",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-24T14:46:41.162370+00:00",
     "link": "https://www.aljazeera.com/features/2026/4/24/iranian-fm-araghchi-to-visit-pakistan-as-talks-with-us-set-to-resume?traffic_source=rss"
-  },
-  {
-    "id": "6d30af48f488",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T12:49",
-    "headline": "What’s been happening during the Lebanon ceasefire?",
-    "excerpt": "Trump has extended the Lebanon ceasefire by 3 weeks. But Israel has been accused of using the truce to further its war.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-24T14:46:41.162404+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/whats-been-happening-during-the-lebanon-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "b4b5f0632bee",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T12:26",
-    "headline": "Syria arrests main suspect in civil war Tadamon massacre",
-    "excerpt": "Syrian authorities have arrested Amjad Yousef, the main suspect in the 2013 Tadamon massacre in Damascus.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-04-24T14:46:41.162441+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/syria-arrests-main-suspect-in-civil-war-tadamon-massacre?traffic_source=rss"
   }
 ]
