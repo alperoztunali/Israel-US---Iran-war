@@ -1,5 +1,60 @@
 [
   {
+    "id": "dbdef4ca1b94",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T03:29",
+    "headline": "UAE lifts all air traffic restrictions introduced since Iran war",
+    "excerpt": "UAE aviation authority&#039;s announcement is the latest sign of the travel sector&#039;s recovery across the Middle East.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-03T03:52:46.932312+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "fcd07aa3a09b",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T02:37",
+    "headline": "Trump reviews Iranian peace proposal, warns strikes could resume",
+    "excerpt": "US president says he is considering the 14-point peace plan, but warns strikes could resume if Tehran &#039;misbehaves&#039;.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-03T03:52:46.932359+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss"
+  },
+  {
+    "id": "c02d5c23470d",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T00:00",
+    "headline": "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
+    "excerpt": "US president says he will &#039;soon be reviewing the plan Iran has just sent to us&#039;, but doesn&#039;t think he can make a deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-03T03:52:46.932394+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "e6733b341c51",
+    "source": "Al Jazeera",
+    "date": "2026-05-02T19:59",
+    "headline": "Khartoum drone strike kills five in Sudan, NGO reports",
+    "excerpt": "The attack, the second in a week, follows months of relative calm in the city after government forces regained control.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-03T03:52:46.932424+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss"
+  },
+  {
+    "id": "87f4f58b8986",
+    "source": "PressTV",
+    "date": "2026-05-03T03:52",
+    "headline": "Iran calls Trump's piracy boast 'direct admission' of criminal blockade",
+    "excerpt": "Iran reacts to Trump's boasting about the US Navy's acting \"like pirates\" in carrying out Washington’s illegal naval blockade of Iranian vessels and ports.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-03T03:52:48.492381+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/03/767943/Iran-United-States-Trump-blockade-Hormuz"
+  },
+  {
     "id": "a7054336a421",
     "source": "PressTV",
     "date": "2026-05-02T23:55",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-24T11:35:47.448276+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/explosions-by-israeli-forces-in-south-lebanon-despite-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "3a3d4151c648",
-    "source": "PressTV",
-    "date": "2026-04-24T11:35",
-    "headline": "‘Fingers on trigger, target bank ready’: Iran warns US of ‘eye for head’ reprisal",
-    "excerpt": "Iranian military officials says that their fingers remain on the trigger with a designated bank of targets, warning the United States of a devastating \"eye for a head\" reprisal if it resumes its military aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T11:35:48.712850+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/24/767455/Tehran-warns-US-of-eye-for-head-reprisal"
-  },
-  {
-    "id": "c02e3f488ec5",
-    "source": "PressTV",
-    "date": "2026-04-24T11:35",
-    "headline": "‘Trump will never defeat Iranian nation’: IRGC cmdr. highlights US strategic failure",
-    "excerpt": "A senior IRGC commander says the United States will never defeat the Iranian nation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T11:35:48.712891+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/24/767449/Trump-will-never-defeat-Iranian-nation-IRGC-cmdr"
-  },
-  {
-    "id": "2729876a4997",
-    "source": "PressTV",
-    "date": "2026-04-24T11:35",
-    "headline": "Russian general hails Iran's 'shining' defense against US-Israeli aggression",
-    "excerpt": "The Russian military official says Iran demonstrated a “shining example” of defense during the recent illegal US-Israeli war of aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T11:35:48.712927+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/24/767454/Russian-military-official-hails-Iran-shining-defense-during-imposed-war"
-  },
-  {
-    "id": "a5d7540d746a",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T09:27",
-    "headline": "Environmental crisis in Russian city after drone attack on refinery",
-    "excerpt": "People in the Russian city of Tuapse are worried about the effects of an oil refinery fire after a Ukrainian attack.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-24T10:07:36.078469+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/environmental-crisis-in-russian-city-after-drone-attack-on-refinery?traffic_source=rss"
-  },
-  {
-    "id": "3c6a48d3c938",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T08:49",
-    "headline": "Why is there a political deadlock in Lebanon?",
-    "excerpt": "The Lebanese government wants Hezbollah to disarm as it aims for a state monopoly on weapons.",
-    "category": "Casualties",
-    "location": "Lebanon",
-    "addedAt": "2026-04-24T10:07:36.078498+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/why-is-there-a-political-deadlock-in-lebanon?traffic_source=rss"
   }
 ]
