@@ -1,5 +1,49 @@
 [
   {
+    "id": "8db0838d7cba",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T12:36",
+    "headline": "Israel approves purchase of fighter jets from the US",
+    "excerpt": "Purchase includes two new combat squadrons of F-35 and F-15IA aircraft from Lockheed Martin and Boeing.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-03T13:23:45.324734+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/israel-approves-purchase-of-fighter-jets-from-the-us?traffic_source=rss"
+  },
+  {
+    "id": "f0cef5d6fda3",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T12:23",
+    "headline": "US military says two service members taking part in Morocco drills missing",
+    "excerpt": "AFRICOM says search and rescue operations under way in southwestern Morocco during African Lion exercise.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-03T13:23:45.324787+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/us-military-says-two-service-members-taking-part-in-morocco-drills-missing?traffic_source=rss"
+  },
+  {
+    "id": "47ae18a44176",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T11:41",
+    "headline": "Gaza aid flotilla activists appear in Israeli court after abduction",
+    "excerpt": "Court extends activists’ detention by two days for further interrogation, rights group tells Al Jazeera.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-03T13:23:45.324828+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/gaza-flotilla-activists-appear-in-israeli-court-allege-torture-in-custody?traffic_source=rss"
+  },
+  {
+    "id": "139d78a26e22",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T09:57",
+    "headline": "Ukraine drone attack hits Russian Baltic port",
+    "excerpt": "President Volodymyr Zelenskyy said attack was &#039;successful destruction&#039; of the port, as Russia warns of oil price rises.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-03T13:23:45.324867+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss"
+  },
+  {
     "id": "7c39b29c7068",
     "source": "Al Jazeera",
     "date": "2026-05-03T11:10",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-24T17:14:14.953507+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pm-sanchez-rebuffs-us-idea-of-suspending-spain-from-nato?traffic_source=rss"
-  },
-  {
-    "id": "33cb0450d1b6",
-    "source": "PressTV",
-    "date": "2026-04-24T17:14",
-    "headline": "Sound of the US 'broken bones' will soon echo across the globe: Leader’s advisor",
-    "excerpt": "A senior advisor to the Leader of the Islamic Revolution says Iran stands unified, whereas the United States is plagued by confusion.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-24T17:14:16.524170+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/24/767471/US-sound-breaking-bones-Mohsen-Rezaei"
-  },
-  {
-    "id": "0d6b06e4df4d",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T15:47",
-    "headline": "Chornobyl at 40: Settlers and horses survive Russian drones, contamination",
-    "excerpt": "A radiation survivor and expert, an elderly returnee, and a wildlife researcher paint a picture of life 40 years later.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-24T16:07:56.959175+00:00",
-    "link": "https://www.aljazeera.com/features/longform/2026/4/24/chornobyl-at-40-settlers-and-horses-survive-russian-drones-contamination?traffic_source=rss"
-  },
-  {
-    "id": "108501a924df",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T15:00",
-    "headline": "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
-    "excerpt": "The Tanker War between Iran and Iraq in the 1980s also disrupted global shipping. But the situation today is different.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-24T16:07:56.959207+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different?traffic_source=rss"
-  },
-  {
-    "id": "2926173bd83d",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T15:00",
-    "headline": "Israel’s Benjamin Netanyahu says he received treatment for prostate cancer",
-    "excerpt": "Netanyahu&#039;s medical report said the Israeli leader was treated with radiation therapy for early-stage prostate cancer.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-04-24T16:07:56.959245+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/24/israels-benjamin-netanyahu-says-he-received-treatment-for-prostate-cancer?traffic_source=rss"
   }
 ]
