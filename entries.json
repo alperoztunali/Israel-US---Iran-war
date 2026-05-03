@@ -1,5 +1,27 @@
 [
   {
+    "id": "be3ad5c84c46",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T19:42",
+    "headline": "Germany’s Merz downplays rift with Washington despite US troop drawdown",
+    "excerpt": "German chancellor says criticism of Donald Trump&#039;s strategy in Iran unrelated to troop withdrawal announcement.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-05-03T20:06:59.305277+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown?traffic_source=rss"
+  },
+  {
+    "id": "41597aa810f0",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T19:36",
+    "headline": "Israel’s strategy of ‘permanent war’: A race against time?",
+    "excerpt": "Political analyst Daniel Levy says US policy is so ‘marinated’ in Israeli narratives, the two are indistinguishable.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-03T20:06:59.305340+00:00",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss"
+  },
+  {
     "id": "2acf1cf978a8",
     "source": "Al Jazeera",
     "date": "2026-05-03T17:52",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-25T05:19:29.023004+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss"
-  },
-  {
-    "id": "0f69a7f2df97",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T02:07",
-    "headline": "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter",
-    "excerpt": "Tech firm suspended mass shooter&#039;s ChatGPT account before attacks, but did not inform law enforcement.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-25T02:55:36.650609+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/25/chkopenaissamaltmanapologises-over-failure-to-report-canadian-mass-shooter?traffic_source=rss"
-  },
-  {
-    "id": "ab05332626ae",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T00:00",
-    "headline": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
-    "excerpt": "Israeli air strikes, tank shelling in Gaza killed at least 12 Palestinians, including six police officers.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-04-25T02:55:36.650638+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss"
   }
 ]
