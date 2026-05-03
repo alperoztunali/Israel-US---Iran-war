@@ -1,5 +1,49 @@
 [
   {
+    "id": "b22b98524c3e",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T16:54",
+    "headline": "Man United beat Liverpool 3-2 to secure Champions League qualification",
+    "excerpt": "Kobbie Mainoo&#039;s late strike earns a thrilling victory after bitter rivals Liverpool had fought back from two goals down.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-03T17:10:13.663412+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/3/man-united-beat-liverpool-3-2-to-secure-champions-league-qualification?traffic_source=rss"
+  },
+  {
+    "id": "198d44c4ab96",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T16:47",
+    "headline": "Bulk carrier attacked by multiple small craft off Iran, UKMTO says",
+    "excerpt": "Crew is safe and no environmental impact has been reported after the incident 11 nautical miles (20km) west of Sirik.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-03T17:10:13.663445+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says?traffic_source=rss"
+  },
+  {
+    "id": "c3ba5bb2984a",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T15:58",
+    "headline": "The US vs Latin America: Varsha Gandikota and Susana Muhamad",
+    "excerpt": "Gandikota asks Muhamad: What does the military‑industrial machine mean for the sovereignty of the Global South?",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-03T17:10:13.663480+00:00",
+    "link": "https://www.aljazeera.com/video/reframe/2026/5/3/the-us-v-latin-america-varsha-gandikota-susana-muhamad?traffic_source=rss"
+  },
+  {
+    "id": "dc1f17ecbcd1",
+    "source": "Al Jazeera",
+    "date": "2026-05-03T15:40",
+    "headline": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
+    "excerpt": "Palestinian factions reject US-backed plans linking aid to weapons surrender, demanding clear political path forward.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-03T17:10:13.663511+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays?traffic_source=rss"
+  },
+  {
     "id": "22e900abc671",
     "source": "Al Jazeera",
     "date": "2026-05-03T14:06",
@@ -5454,49 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-24T22:03:42.099596+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss"
-  },
-  {
-    "id": "fe0b8a63b9d9",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T20:53",
-    "headline": "Mass wedding for 300 brides and grooms in central Gaza",
-    "excerpt": "A festive moment in Gaza as a charity-sponsored mass wedding ceremony for 300 brides and grooms in Deir el-Balah.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-24T22:03:42.099642+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss"
-  },
-  {
-    "id": "513833df8a1b",
-    "source": "Al Jazeera",
-    "date": "2026-04-24T20:46",
-    "headline": "Israel continues attacks on Lebanon despite extension of ceasefire",
-    "excerpt": "Israeli forces killed six Hezbollah fighters in an exchange of fire in the area of Bint Jbeil, southern Lebanon.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-04-24T22:03:42.099665+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "e4faee34765e",
-    "source": "PressTV",
-    "date": "2026-04-24T22:03",
-    "headline": "No talks with US during FM's Islamabad visit, observations to be conveyed to Pakistan: FM spox",
-    "excerpt": "Iran's foreign ministry confirms that no meeting is planned between Iran and the United States in Islamabad during the foreign minister's ongoing visit.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-24T22:03:43.589026+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/24/767483/Iran-US-talks-Islamabad-Araghchi"
-  },
-  {
-    "id": "c41509396b8d",
-    "source": "PressTV",
-    "date": "2026-04-24T21:07",
-    "headline": "Iran FM to hold no talks with Americans in Islamabad; US media lied again: Report",
-    "excerpt": "Foreign Minister Abbas Araghchi will not hold any talks with US officials in the Pakistani capital Islamabad, despite CNN's claiming otherwise, a report says.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-24T21:07:47.189949+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/24/767483/Iran-US-talks-Islamabad-Araghchi"
   }
 ]
