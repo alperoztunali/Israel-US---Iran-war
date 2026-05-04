@@ -1,5 +1,137 @@
 [
   {
+    "id": "7e551ad9c7f6",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T16:27",
+    "headline": "Captain warns ‘no ship will be a hero’ by risking Hormuz transit",
+    "excerpt": "Captain Raman Kapoor says no vessel will attempt to exit the Strait of Hormuz without assurance of safety.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-04T17:12:25.494264+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/captain-warns-no-ship-will-be-a-hero-by-risking-hormuz-transit?traffic_source=rss"
+  },
+  {
+    "id": "1375c788bdf5",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T16:05",
+    "headline": "Lebanon Latest",
+    "excerpt": "Israel intensifies airstrikes",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-04T17:12:25.494296+00:00",
+    "link": "https://www.aljazeera.com/video/2026/5/4/lebanon-latest?traffic_source=rss"
+  },
+  {
+    "id": "05b312ea17c5",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T15:59",
+    "headline": "US releases Touska container ship crew: Why it matters",
+    "excerpt": "Pakistan said the release of the crew members reflected a &#039;confidence-building measure&#039; between Tehran and Washington.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-05-04T17:12:25.494325+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/us-releases-touska-container-ship-crew-why-it-matters?traffic_source=rss"
+  },
+  {
+    "id": "b946a50b4404",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T15:55",
+    "headline": "US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz",
+    "excerpt": "Scott Bessent says US has &#039;absolute control&#039; of Hormuz, but calls on China to &#039;step up&#039; with diplomacy to reopen strait.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-04T17:12:25.494364+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "c530130592e2",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T15:37",
+    "headline": "UAE reports missile and drone strikes incoming from Iran",
+    "excerpt": "There are no immediate reports of casualties. There has been no immediate comment from ‌Iran.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-04T17:12:25.494386+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss"
+  },
+  {
+    "id": "4036b1e9d23c",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T14:56",
+    "headline": "Does Trump hold ‘all the cards’ against Iran in the Strait of Hormuz?",
+    "excerpt": "Trump signals confidence in Iran standoff as tensions rise in the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-04T17:12:25.494422+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "f721d60129c8",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T13:41",
+    "headline": "Russian strikes kill at least eight in Ukraine, drones hit Moscow",
+    "excerpt": "Kharkiv and Kherson targeted by missiles, while Russian capital suffers rare hit from drones.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-04T17:12:25.494447+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/five-people-killed-in-russian-missile-attack-on-ukraines-kharkiv-region?traffic_source=rss"
+  },
+  {
+    "id": "a8b226c14678",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T13:12",
+    "headline": "War preparations under way in Iran as Hormuz tensions with US escalate",
+    "excerpt": "Amid stalled talks and sparring over key waterway, Iranian media say US warship struck, but Washington denies incident.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-04T17:12:25.494479+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/war-preparations-under-way-in-iran-as-hormuz-tensions-with-us-escalate?traffic_source=rss"
+  },
+  {
+    "id": "eaec0dcaee48",
+    "source": "PressTV",
+    "date": "2026-05-04T17:12",
+    "headline": "No commercial ship or oil tanker transited Strait of Hormuz in past hours: IRGC",
+    "excerpt": "No commercial vessels or oil tankers have transited the Strait of Hormuz in the past several hours, the Islamic Revolution Guards Corps (IRGC) said Monday, dismissing recent US claims as “baseless and outright false.”",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-04T17:12:26.812011+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768042/No-commercial-or-tanker-vessels-transited-strait-of-Hurmuz-in-past-hours--IRGC"
+  },
+  {
+    "id": "a1474081a48b",
+    "source": "PressTV",
+    "date": "2026-05-04T17:12",
+    "headline": "Iran Navy confirms it fired missiles, drones to warn US warships approaching Hormuz Strait",
+    "excerpt": "The Iranian Navy has fired missiles and drones to warn US warships approaching the Strait of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-04T17:12:26.812041+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768039/Iran-Navy-warning-shots-US-warships-Hormuz-Strait"
+  },
+  {
+    "id": "874fb8715999",
+    "source": "PressTV",
+    "date": "2026-05-04T17:12",
+    "headline": "No nuclear talks on agenda with US, Araghchi tells lawmakers",
+    "excerpt": "A senior Iranian lawmaker quotes Foreign Minister Abbas Araghchi as saying that the Islamic Republic is not currently engaged in negotiations with the enemy on the nuclear issue.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-04T17:12:26.812073+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768041/No-nuclear-talks-on-agenda-with-US-Araghchi-tells-lawmakers"
+  },
+  {
+    "id": "54fd8671934a",
+    "source": "PressTV",
+    "date": "2026-05-04T17:12",
+    "headline": "15 crew members of US-seized Iranian ship return home",
+    "excerpt": "Fifteen crew members of the US-seized Iranian commercial vessel Touska have arrived home from Pakistan.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-04T17:12:26.812096+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768036/15-crew-members-of-US-seized-Iranian-ship-return-home"
+  },
+  {
     "id": "0879cc7d8fcb",
     "source": "Al Jazeera",
     "date": "2026-05-04T11:44",
@@ -5366,137 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-25T21:41:38.582074+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
-  },
-  {
-    "id": "579eac62854d",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T13:25",
-    "headline": "Israel kills four in Lebanon as it escalates ceasefire breaches",
-    "excerpt": "Raids on a truck and a motorcycle in the town of Yohmor al-Shaqif kill four people, state media report.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-25T21:41:38.582124+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "5177b33a8105",
-    "source": "PressTV",
-    "date": "2026-04-25T21:41",
-    "headline": "Handala hacking group exposes identities of senior officers from Israeli 'elite special ops unit'",
-    "excerpt": "Pro-resistance hacking group reveals carrying out a \"historic\" operation against a much-vaunted reconnaissance unit of the Israeli military.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-25T21:41:40.529294+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767546/Israel-hackers-special-operations-unit-Maglan-elite-Handala"
-  },
-  {
-    "id": "d2b9c756b780",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T19:54",
-    "headline": "Iran’s authorities project hardened stance with more talks on horizon",
-    "excerpt": "Abbas Araghchi met senior Pakistani officials in Islamabad and left for Oman to be later bound for Russia.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-25T20:49:35.823073+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
-  },
-  {
-    "id": "3ac1fcfc3879",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T19:40",
-    "headline": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
-    "excerpt": "Activists organised a protest in solidarity with Palestine on Saturday in Stockholm, Sweden.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-25T20:49:35.823118+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss"
-  },
-  {
-    "id": "68a955d65224",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T17:26",
-    "headline": "CIA agents reported killed in Mexico were not authorised to operate: Gov’t",
-    "excerpt": "Mexican government says it is seeking details after incident raises questions about US activities on its territory.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-25T20:49:35.823159+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss"
-  },
-  {
-    "id": "3503d9d98d22",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T18:16",
-    "headline": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
-    "excerpt": "Trump later suggests that next talks will be over phone, saying &#039;If they want to talk, all they have to do is call!!!&#039;",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-25T19:01:54.638737+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss"
-  },
-  {
-    "id": "d09404f079d9",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T17:26",
-    "headline": "Reported US CIA agents killed in crash not authorised to operate: Mexico",
-    "excerpt": "Mexican government says it is seeking details after incident raises questions about US activities on its territory.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-25T19:01:54.638787+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss"
-  },
-  {
-    "id": "fe3e5ba5d313",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T17:25",
-    "headline": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
-    "excerpt": "Deir el-Balah residents vote for first time since 2006 despite destruction, displacement and genocide.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-25T19:01:54.638828+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss"
-  },
-  {
-    "id": "78841f9c98ec",
-    "source": "PressTV",
-    "date": "2026-04-25T19:01",
-    "headline": "Araghchi shares Iran’s ‘workable framework’ with Pakistani mediators on lasting end to war",
-    "excerpt": "The Iranian foreign minister says he shared Tehran’s “workable framework” with Pakistani mediators to permanently end the war against Iran during his very fruitful visit to Pakistan.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-25T19:01:56.292757+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767540/Araghchi-shares-Iran-s-workable-framework-with-Pakistani-mediators-on-lasting-end-to-war"
-  },
-  {
-    "id": "166863f9910e",
-    "source": "PressTV",
-    "date": "2026-04-25T19:01",
-    "headline": "Iran will deliver ‘strategic deterrence’ response if attacked again: IRGC",
-    "excerpt": "The IRGC says any new attack on Iran would be met with a response at the “strategic deterrence” level.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-25T19:01:56.292812+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767542/Iran-IRGC-warning-new-aggression-US-Israel"
-  },
-  {
-    "id": "d55267752260",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T17:06",
-    "headline": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
-    "excerpt": "Iranian FM Araghchi met Pakistani PM Sharif in Islamabad as part of efforts to revive direct negotiations with the US.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-25T17:49:20.523262+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss"
-  },
-  {
-    "id": "96f44a78d94b",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T10:04",
-    "headline": "Mali attacks updates: Coordinated attacks in Bamako, Kidal and elsewhere",
-    "excerpt": "These were the updates about the attacks across Mali on Saturday, April 25, 2026.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-25T17:49:20.523335+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss"
   }
 ]
