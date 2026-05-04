@@ -1,5 +1,49 @@
 [
   {
+    "id": "0879cc7d8fcb",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T11:44",
+    "headline": "‘Israel is not implementing the ceasefire agreement in Gaza’",
+    "excerpt": "‘Israel is not implementing the ceasefire agreement in Gaza’",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-04T13:10:59.400003+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/israel-is-not-implementing-the-ceasefire-agreement-in?traffic_source=rss"
+  },
+  {
+    "id": "dfaa2470903c",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T11:27",
+    "headline": "What is the Ukrainian anti-drone system Sky Map being used in the Gulf?",
+    "excerpt": "Ukraine’s battle-tested system uses thousands of acoustic sensors and interceptors to find and destroy incoming drones.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-04T13:10:59.400050+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/what-is-the-ukrainian-anti-drone-system-sky-map-being-used-in-the-gulf?traffic_source=rss"
+  },
+  {
+    "id": "d82d6ec10290",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T11:18",
+    "headline": "Winning peace in Lebanon is harder than winning war",
+    "excerpt": "Resolving the conflict in Lebanon necessitates taking into account its long history and new geopolitical realities.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-05-04T13:10:59.400088+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war?traffic_source=rss"
+  },
+  {
+    "id": "b9d5785ddd34",
+    "source": "PressTV",
+    "date": "2026-05-04T13:11",
+    "headline": "Two missiles hit US Navy vessel near Strait of Hormuz after it ignored Iran's warning: Report",
+    "excerpt": "Two missiles hit a US Navy vessel near the strategic Strait of Hormuz after it ignored warnings from Iran's naval forces, according to a report.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-04T13:11:23.979234+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768028/Two-missiles-hit-US-Navy-vessel-after-it-ignored-Iran-s-warning-Report"
+  },
+  {
     "id": "c131185e1d83",
     "source": "Al Jazeera",
     "date": "2026-05-04T10:55",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-25T17:49:20.523335+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss"
-  },
-  {
-    "id": "0b64c973536f",
-    "source": "PressTV",
-    "date": "2026-04-25T16:56",
-    "headline": "Iran’s foreign minister leaves Pakistan as Trump cancels visit by US envoys ‌",
-    "excerpt": "Iran’s Foreign Minister Abbas Araghchi left Islamabad on Saturday after holding discussions with senior Pakistani officials on regional security and a ceasefire with the United States, during which he presented Iran’s demands on ending the eight-week war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-25T16:56:32.829705+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767531/Iran-s-foreign-minister-leaves-Pakistan-before-planned-visit-by-US-envoys%C2%A0"
-  },
-  {
-    "id": "ce87780e2193",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T14:27",
-    "headline": "African governments need to take urgent action on fertiliser shortages",
-    "excerpt": "Tensions in the Strait of Hormuz have slowed fertiliser shipments which could put harvests at risk.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-25T15:09:53.957566+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/25/african-governments-need-to-take-urgent-action-on-fertiliser-shortages?traffic_source=rss"
-  },
-  {
-    "id": "d4aa345516fc",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T14:25",
-    "headline": "Deporting soldiers? Why immigrant veterans fear removal from the US",
-    "excerpt": "Trump&#039;s push for mass deportation has heightened fears that immigrant veterans of the US military could be expelled.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-25T15:09:53.957619+00:00",
-    "link": "https://www.aljazeera.com/news/longform/2026/4/25/deporting-soldiers-why-immigrant-veterans-fear-removal-from-the-us?traffic_source=rss"
-  },
-  {
-    "id": "86327f542ad7",
-    "source": "PressTV",
-    "date": "2026-04-25T15:09",
-    "headline": "US must learn historic lesson from crushing defeats in Tabas and Isfahan: Pezeshkian",
-    "excerpt": "President Pezeshkian marked the anniversary of the US humiliating defeat in Tabas in 1980, saying Washington once again faced a similar defeat on Iranian soil this year in Isfahan.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-25T15:09:55.656862+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767525/US-must-learn-historic-lesson-from-crushing-defeats-in-Tabas-and-Isfahan-Pezeshkian"
   }
 ]
