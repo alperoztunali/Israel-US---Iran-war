@@ -1,5 +1,93 @@
 [
   {
+    "id": "5edb59001c1b",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T09:11",
+    "headline": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
+    "excerpt": "Trump orders new Hormuz mission after Iran says it receives US response to its peace proposal.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-04T09:38:24.744749+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss"
+  },
+  {
+    "id": "b277a3faf502",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T08:27",
+    "headline": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
+    "excerpt": "Japan’s PM says the effective closure of the Strait of Hormuz is ‘inflicting an ‘enormous impact’ on Asia Pacific.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-04T09:38:24.744801+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss"
+  },
+  {
+    "id": "1d5114736a7e",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T08:20",
+    "headline": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
+    "excerpt": "President Trump said the US will begin Project Freedom on Monday to guide stranded ships out of the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-04T09:38:24.744835+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss"
+  },
+  {
+    "id": "91498fc5e9b2",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T07:36",
+    "headline": "Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says",
+    "excerpt": "Twenty-two crew members from the seized Iranian ship MV Touska have been transferred to Pakistan for repatriation.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-04T09:38:24.744868+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss"
+  },
+  {
+    "id": "d0304ed111d9",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T03:47",
+    "headline": "Trump says US to begin ‘guiding’ ships in Strait of Hormuz",
+    "excerpt": "US President Donald Trump has announced a naval mission to &#039;guide&#039; stranded ships through the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-04T09:38:24.744913+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/trump-says-us-to-begin-escorting-ships-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "6af598585e9f",
+    "source": "PressTV",
+    "date": "2026-05-04T09:38",
+    "headline": "Crew of US-seized Iranian vessel transferred to Pakistan for repatriation: Report",
+    "excerpt": "US-seized Iranian vessel's crew have been transferred to Pakistan in preparation for their return to Iran, a report says.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-04T09:38:26.607481+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768005/Iran-United-States-ship-crew-Pakistan"
+  },
+  {
+    "id": "d11f70190d8d",
+    "source": "PressTV",
+    "date": "2026-05-04T09:38",
+    "headline": "Truce breach: Heavy clashes erupt in southern Syria; no casualties",
+    "excerpt": "Syrian forces and the so-called National Guard units exchange heavy machine gun and mortar fire in west of Sweida, southern Syria.",
+    "category": "Casualties",
+    "location": "Syria",
+    "addedAt": "2026-05-04T09:38:26.607511+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768009/Truce-breach--Heavy-clashes-erupt-in-southern-Syria--no-casualties-"
+  },
+  {
+    "id": "20f724103823",
+    "source": "PressTV",
+    "date": "2026-05-04T09:38",
+    "headline": "Russia condemns NATO for significantly expanding its military activities in Baltic region",
+    "excerpt": "Russia has condemned NATO for significantly expanding its military operations in the Baltic Sea, particularly near the Kaliningrad region.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-04T09:38:26.607555+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768011/Russia-condemns-NATO-for-significantly-expanding-its-military-activities-in-Baltic-region"
+  },
+  {
     "id": "f6a12270b0c7",
     "source": "Al Jazeera",
     "date": "2026-05-04T06:45",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-25T13:21:54.445078+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/armed-groups-stage-simultaneous-attacks-across-mali?traffic_source=rss"
-  },
-  {
-    "id": "79f4f59c2561",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T11:58",
-    "headline": "Iran resumes commercial flights from Tehran airport",
-    "excerpt": "Commercial flights begin for the first time since the conflict with the US and Israel began about two months ago.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-25T13:21:54.445104+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss"
-  },
-  {
-    "id": "743fad5afdec",
-    "source": "PressTV",
-    "date": "2026-04-25T13:21",
-    "headline": "Iran's military warns of decisive response if illegal US naval blockade continues",
-    "excerpt": "Iran’s central military command warns that the continued naval “piracy, blockade, and banditry” by American forces in the region will be met with a decisive response from the Iranian armed forces.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-25T13:21:56.013885+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767517/Iran-military-warns-of-decisive-response-if-US-naval-blockade-continues"
-  },
-  {
-    "id": "d7eebdadf144",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T08:37",
-    "headline": "Gaza area votes in first municipal election in 20 years",
-    "excerpt": "Gaza officials say Deir el-Balah vote is a &#039;pilot&#039;, while occupied West Bank also goes to first polls since 2023 war.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-25T11:55:57.562368+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss"
-  },
-  {
-    "id": "61bb54f86cca",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T10:13",
-    "headline": "Iran’s Infowar: Lego, AI and ever tightening control",
-    "excerpt": "The tools and techniques behind Iran’s push in the battle of narratives.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-25T11:05:37.841808+00:00",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss"
-  },
-  {
-    "id": "76740154b2f7",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T10:04",
-    "headline": "Mali attacks live: Gunfire heard near Bamako airport and in several cities",
-    "excerpt": "Unrest reported in several locations around the country.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-25T11:05:37.841857+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss"
-  },
-  {
-    "id": "6588e1ac30dc",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T09:21",
-    "headline": "Gunmen stage simultaneous attacks across Mali, army says",
-    "excerpt": "Capital Bamako and several other locations hit in an apparently coordinated ⁠assault involving multiple groups.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-25T11:05:37.841906+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/25/mali-army-says-armed-groups-launch-nationwide-attacks-gunfire-near-airport?traffic_source=rss"
-  },
-  {
-    "id": "c87ec73b1722",
-    "source": "PressTV",
-    "date": "2026-04-25T11:05",
-    "headline": "Iran judiciary chief: US defeats in Isfahan, Tabas will be repeated in Persian Gulf",
-    "excerpt": "Iran’s judiciary chief Mohseni Ejei warns that the historic defeats of American forces at Tabas and Isfahan will be repeated in the waters of the Persian Gulf.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-04-25T11:05:39.472835+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767496/Iran-Judiciary-chief-warns-US-defeats-Isfahan-Tabas-repeated-Persian-Gulf"
-  },
-  {
-    "id": "36a9dc6f61fc",
-    "source": "PressTV",
-    "date": "2026-04-25T11:05",
-    "headline": "Iran’s foreign minister, Pakistan’s army chief meet in Islamabad",
-    "excerpt": "The Iranian foreign minister and chief of the army staff of Pakistan have met in Islamabad, and discussed regional peace efforts.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-25T11:05:39.472878+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767509/Iran-foreign-minister-Pakistan-army-chief-meet-Islamabad"
   }
 ]
