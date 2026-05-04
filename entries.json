@@ -1,5 +1,38 @@
 [
   {
+    "id": "be01ed5dfd58",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T03:37",
+    "headline": "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm markets",
+    "excerpt": "Brent crude largely unmoved by Trump&#039;s announcement of operation dubbed Project Freedom.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-04T04:11:05.149746+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/4/oil-prices-flat-as-trumps-plan-for-strait-of-hormuz-fails-to-move-markets?traffic_source=rss"
+  },
+  {
+    "id": "d1f8b411256a",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T00:40",
+    "headline": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
+    "excerpt": "Tens of thousands of partygoers gathered for an illegal “free party” at a military firing range near Bourges.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-04T04:11:05.149804+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/illegal-free-party-at-french-military-site-draws-up-to-40000-ravers?traffic_source=rss"
+  },
+  {
+    "id": "50050d4fb453",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T00:00",
+    "headline": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire",
+    "excerpt": "Iran protests as Trump announces &#039;Project Freedom&#039; to escort stranded ships out of the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-05-04T04:11:05.149839+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss"
+  },
+  {
     "id": "92467d55114d",
     "source": "PressTV",
     "date": "2026-05-04T00:05",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-25T09:11:48.566547+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/25/overnight-russian-attacks-on-ukraine-kill-five-wound-over-30?traffic_source=rss"
-  },
-  {
-    "id": "b797672531cd",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T08:37",
-    "headline": "Polls open in Gaza area in first municipal election in 20 years",
-    "excerpt": "Gaza officials say Deir el-Balah vote is a &#039;pilot&#039;, while occupied West Bank also goes to first polls since 2023 war.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-25T09:11:48.566595+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss"
-  },
-  {
-    "id": "b50e21ab0d46",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T08:06",
-    "headline": "Ireland to demand Israel pay for settler demolition of Palestinian school",
-    "excerpt": "Ireland will demand that Israeli authorities repay the cost of a school that was demolished by settlers.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-25T09:11:48.566630+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss"
-  },
-  {
-    "id": "81cbc5cd7d62",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T07:16",
-    "headline": "West Bank scepticism as Palestinians doubt local elections will change much",
-    "excerpt": "Frustration with the Palestinian Authority and Israeli occupation fuel voter apathy in local West Bank elections.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-25T08:08:13.789957+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss"
   }
 ]
