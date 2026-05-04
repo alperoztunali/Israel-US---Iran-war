@@ -1,5 +1,38 @@
 [
   {
+    "id": "2bc5c0ed7a6b",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T19:02",
+    "headline": "Iran-US clash over alleged warship attack in Strait of Hormuz",
+    "excerpt": "Iran claims its navy forced a US warship to turn back from the Strait of Hormuz as Washington denies any clash.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-04T20:23:29.395507+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-us-clash-over-alleged-warship-attack-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "b9d8adf4443c",
+    "source": "PressTV",
+    "date": "2026-05-04T20:23",
+    "headline": "Fujairah Port fire consequence of ‘US adventurism’ in Strait of Hormuz: IRIB source",
+    "excerpt": "A massive blaze at oil facilities in Fujairah Port in the UAE on Monday was a direct consequence of 'American adventurism' in the strategic Strait of Hormuz, a senior military source told IRIB.",
+    "category": "Other",
+    "location": "Uae",
+    "addedAt": "2026-05-04T20:23:31.232895+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768056/fujairah-port-fire-consequence-us-adventurism-strait-hormuz-report"
+  },
+  {
+    "id": "24c373631b12",
+    "source": "PressTV",
+    "date": "2026-05-04T20:23",
+    "headline": "Senior Israeli commander admits killing Palestinians 'like we haven't since 1967'",
+    "excerpt": "A senior Israeli military commander has admitted that the army is killing Palestinians at a rate “not seen since 1967” in the West Bank, as regime forces continue their aggressive campaign of raids, arrests, killings, and destruction across the occupied territory",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-04T20:23:31.232942+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768054/Senior-Israeli-commander-admits-killing-Palestinians-like-we-havent-since-1967"
+  },
+  {
     "id": "7aee69e3ed66",
     "source": "Al Jazeera",
     "date": "2026-05-04T18:34",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-26T07:50:48.246988+00:00",
     "link": "https://presstv.ir/Detail/2026/04/26/767554/Israeli-forces-raid-Syria-Dara-Quneitra-countryside"
-  },
-  {
-    "id": "70f943133d25",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T02:00",
-    "headline": "Hundreds of Israelis rally as US-Iran peace talks stall",
-    "excerpt": "Crowds of protesters took to the streets of Tel Aviv on Sunday, amid fears the US-Israeli war on Iran will resume.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-26T03:34:36.821698+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss"
-  },
-  {
-    "id": "d36c873895c0",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T00:00",
-    "headline": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
-    "excerpt": "Trump says Iran did not make a satisfactory offer, as Iranian Foreign Minister Abbas Araghchi departs Pakistan.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-26T03:34:36.821752+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
-  },
-  {
-    "id": "f5ac5f893e20",
-    "source": "PressTV",
-    "date": "2026-04-25T23:07",
-    "headline": "Iran not to enter talks under pressure, threats, blockade: Pres. Pezeshkian",
-    "excerpt": "Pezeshkian highlights the contradiction between the US's applying pressure tactics against Iran and its self-described will to engage in diplomatic process.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-25T23:07:05.253628+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767547/Iran-United-States-blockade-threats-pressure-Pezeshkian-Pakistan"
   }
 ]
