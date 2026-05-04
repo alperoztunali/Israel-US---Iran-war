@@ -1,5 +1,93 @@
 [
   {
+    "id": "c131185e1d83",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T10:55",
+    "headline": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
+    "excerpt": "Iranian state media says two missiles have struck a US navy destroyer to prevent it entering the Strait of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-04T11:27:45.674345+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-says-it-fired-missiles-at-us-warship-to-prevent-it-entering-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "c823fb519fa1",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T09:57",
+    "headline": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
+    "excerpt": "The US president has accused some NATO countries of not doing enough to support the US-Israel war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-04T11:27:45.674400+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss"
+  },
+  {
+    "id": "c56c794160b6",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T09:44",
+    "headline": "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
+    "excerpt": "Al Jazeera visits refugee camp in the occupied West Bank where Israeli soldiers have killed or maimed many young people.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-04T11:27:45.674434+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/i-cant-feel-my-leg-israeli-gunfire-disables-teenagers-in-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "f8fd86e512e8",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T00:00",
+    "headline": "Iran war live: US warship attacked with missiles in Hormuz by Iran’s navy",
+    "excerpt": "Attack comes after President Trump announced &#039;Project Freedom&#039; to free stranded ships out of the Strait of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-04T11:27:45.674489+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "52c40a4bcece",
+    "source": "PressTV",
+    "date": "2026-05-04T11:27",
+    "headline": "Two missiles hit US Navy vessel after it ignored Iran's warning: Report",
+    "excerpt": "Two missiles hit a US Navy vessel near the strategic Strait of Hormuz after it ignored warnings from Iran's naval forces, according to a report.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-04T11:27:47.788174+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768028/Two-missiles-hit-US-Navy-vessel-after-it-ignored-Iran-s-warning-Report"
+  },
+  {
+    "id": "6d06b0439e76",
+    "source": "PressTV",
+    "date": "2026-05-04T11:27",
+    "headline": "After receiving response, Iran says ‘endless US greed’ knows no bounds",
+    "excerpt": "Iran says it has received Washington’s response to its latest proposal but stresses there is no limit to the excessive US demands and its endless greed.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-04T11:27:47.788221+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768024/After-receiving-response,-Iran-says-%E2%80%98endless-US-greed%E2%80%99-knows-no-bounds-"
+  },
+  {
+    "id": "fa12a9b9f2d2",
+    "source": "PressTV",
+    "date": "2026-05-04T11:27",
+    "headline": "IRGC vows to 'forcefully stop' ships violating Strait of Hormuz regulations",
+    "excerpt": "The IRGC vows to “forcefully stop” vessels attempting to defy the management rules imposed by its Navy regarding the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-04T11:27:47.788256+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768022/Iran-Hormuz-IRGC-warning-international-transit-Persian-Gulf"
+  },
+  {
+    "id": "6ad247b9b5d7",
+    "source": "PressTV",
+    "date": "2026-05-04T11:27",
+    "headline": "Hezbollah chief: Israeli plots will never materialize; Lebanon neither weak nor under guardianship",
+    "excerpt": "The Hezbollah chief says Israeli plots will never materialize, dismissing illusions that Lebanon is a weak county and under guardianship of others.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-05-04T11:27:47.788287+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768031/Hezbollah-chief-Israeli-plots-will-never-materialize-Lebanon-neither-weak-nor-under-guardianship"
+  },
+  {
     "id": "5edb59001c1b",
     "source": "Al Jazeera",
     "date": "2026-05-04T09:11",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-25T15:09:55.656862+00:00",
     "link": "https://presstv.ir/Detail/2026/04/25/767525/US-must-learn-historic-lesson-from-crushing-defeats-in-Tabas-and-Isfahan-Pezeshkian"
-  },
-  {
-    "id": "986429eee96f",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T13:25",
-    "headline": "Israeli attacks kill four in southern Lebanon",
-    "excerpt": "Raids on a truck and a motorcycle in the town of Yohmor al-Shaqif kill four people, state media report.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-25T14:24:10.333000+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "7f54d7ab08f9",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T10:04",
-    "headline": "Mali attacks live: Coordinated attacks in Bamako, Kati, Kidal and elsewhere",
-    "excerpt": "The army says armed groups targeted strategic locations in various parts of the country including in the capital Bamako.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-25T14:24:10.333068+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss"
-  },
-  {
-    "id": "8427f25edb09",
-    "source": "PressTV",
-    "date": "2026-04-25T14:24",
-    "headline": "US blockade of Iranian ports ‘collective punishment’ of civilians: Top rights body",
-    "excerpt": "Iran’s High Council for Human Rights says the US blockade of Iranian ports and the seizure of a commercial vessel, are a collective punishment against millions of civilians.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-25T14:24:12.116677+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767521/US-blockade-of-Iranian-ports-collective-punishment-of-civilians-Rights-body"
-  },
-  {
-    "id": "e504b06020b4",
-    "source": "PressTV",
-    "date": "2026-04-25T14:24",
-    "headline": "Araghchi meets Pakistan’s premier as he conveys Iran’s views amid stalled talks with US",
-    "excerpt": "Iran’s Foreign Minister Abbas Araghchi has met with Pakistani Prime Minister Shehbaz Sharif in the Pakistani capital to discuss regional developments, amid efforts by Islamabad to revive stalled talks between Tehran and Washington to end the war.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-25T14:24:12.116726+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/25/767518/Araghchi-meets-Pakistan-s-premier-as-he-conveys-Iran-s-views-amid-stalled-talks-with-US%C2%A0"
-  },
-  {
-    "id": "0293aff03edf",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T12:40",
-    "headline": "‘Scale and coordination of Mali attacks appear unprecedented’",
-    "excerpt": "Clashes between the Malian army and rebel groups are being reported in cities across the country.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-25T13:21:54.444958+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/scale-and-coordination-of-mali-attacks-appear-unprecedented?traffic_source=rss"
-  },
-  {
-    "id": "034548a13a1d",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T12:32",
-    "headline": "Indonesian UN peacekeeper becomes sixth killed in Lebanon",
-    "excerpt": "An Indonesian soldier has become the sixth UN peacekeeper killed in recent hostilities in southern Lebanon.",
-    "category": "Casualties",
-    "location": "Lebanon",
-    "addedAt": "2026-04-25T13:21:54.445006+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/indonesian-un-peacekeeper-becomes-sixth-killed-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "4b8357a6cda5",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T12:23",
-    "headline": "Flights resume at Tehran airport as US-Iran ceasefire holds",
-    "excerpt": "International flights have resumed at Tehran’s Imam Khomeini International Airport, after weeks of disruption by the war",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-25T13:21:54.445040+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss"
-  },
-  {
-    "id": "27372f9676b6",
-    "source": "Al Jazeera",
-    "date": "2026-04-25T12:00",
-    "headline": "Armed groups stage simultaneous attacks across Mali",
-    "excerpt": "Armed groups have attacked Mali’s capital, its main airport, and several locations across the country.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-25T13:21:54.445078+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/armed-groups-stage-simultaneous-attacks-across-mali?traffic_source=rss"
   }
 ]
