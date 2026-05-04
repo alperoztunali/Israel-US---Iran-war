@@ -1,5 +1,27 @@
 [
   {
+    "id": "4c8841cb656b",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T22:14",
+    "headline": "For Christians in Israel and Jerusalem, intolerance is becoming normal",
+    "excerpt": "Despite official framing, for Christians there is little new in last week&#039;s assault on a French nun in East Jerusalem.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-04T22:41:18.826404+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal?traffic_source=rss"
+  },
+  {
+    "id": "363e556a9df1",
+    "source": "PressTV",
+    "date": "2026-05-04T22:41",
+    "headline": "Iranian defense official: Enemy’s cost will exceed tolerance threshold",
+    "excerpt": "A senior Iranian defense official has warned that any hostile move by the US and Israeli enemy against the Islamic Republic will exact a price far beyond their threshold of tolerance.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-04T22:41:20.573041+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768059/Iranian-defense-official--Enemy%E2%80%99s-cost-will-exceed-tolerance-threshold"
+  },
+  {
     "id": "9ae51cb36381",
     "source": "Al Jazeera",
     "date": "2026-05-04T21:08",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-26T10:07:55.303754+00:00",
     "link": "https://www.aljazeera.com/gallery/2026/4/26/survivors-return-to-chernobyl-40-years-after-devastating-explosion?traffic_source=rss"
-  },
-  {
-    "id": "a4bbd5deeb73",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T00:00",
-    "headline": "Iran war live: Tehran rejects talks under siege, Araghchi in Oman",
-    "excerpt": "Trump says Iran did not make a satisfactory offer, as Iranian Foreign Minister Abbas Araghchi departs Pakistan.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-26T10:07:55.303797+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
-  },
-  {
-    "id": "7aa959a57099",
-    "source": "PressTV",
-    "date": "2026-04-26T10:07",
-    "headline": "IRGC forces destroy 3 US bunker-buster bombs, neutralize 9,500 bomblets in Iran’s Zanjan",
-    "excerpt": "The IRGC says its specialized forces have managed to destroy three American GBU-57 Massive Ordnance Penetrators (MOPs) and defuse another one left behind the recent war of aggression in Iran’s Zanjan Province.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-26T10:07:57.192322+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/26/767565/IRGC-forces-destroy-3-US-bunker-buster-bombs-defuse-another-in-Iran-s-Zanjan"
   }
 ]
