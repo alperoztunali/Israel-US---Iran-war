@@ -1,5 +1,49 @@
 [
   {
+    "id": "904a834acfcb",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T06:31",
+    "headline": "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
+    "excerpt": "The UAE says it intercepted Iranian missiles after a suspected drone attack, with no comment from Iran.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-05T07:07:57.350058+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/5/iran-war-whats-happening-on-day-67-as-hormuz-crisis-deepens?traffic_source=rss"
+  },
+  {
+    "id": "15d2938be1ec",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T05:52",
+    "headline": "Iran says US military killed five civilians in attacks on passenger boats",
+    "excerpt": "Iranian commander says US military attacked two passenger boats, not IRGC vessels, in the Strait of Hormuz on Monday.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-05-05T07:07:57.350095+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss"
+  },
+  {
+    "id": "a8a4a3952e49",
+    "source": "PressTV",
+    "date": "2026-05-05T07:07",
+    "headline": "US attacks civilian cargo boats heading to Iran's shores, killing 5 on board: Report",
+    "excerpt": "The US has attacked two civilian cargo boats heading from the Omani coast to the Iranian shoreline, killing at least five people on board, a report says.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-05T07:07:58.837759+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/05/768066/US-attacks-civilian-cargo-boats-heading-to-Iran-s-shores,-killing-5-on-board--Report"
+  },
+  {
+    "id": "90c6e8b1adbb",
+    "source": "PressTV",
+    "date": "2026-05-05T07:07",
+    "headline": "Iran rejects Arab League resolution: Shielding perpetuators will not absolve intl. obligations",
+    "excerpt": "Iran rejects a recent resolution adopted by the Arab League, saying “no attempt to shield the perpetrators of aggression” will absolve those responsible of their international obligations.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-05T07:07:58.837812+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/05/768063/Iran-rejects-Arab-League-resolution-Shielding-perpetuators-will-not-absolve-intl-obligations"
+  },
+  {
     "id": "fde039068189",
     "source": "Al Jazeera",
     "date": "2026-05-05T03:49",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-26T14:23:54.241404+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/4/26/israel-feared-amal-khalil-just-as-it-did-shireen-abu-akleh?traffic_source=rss"
-  },
-  {
-    "id": "5ea263374807",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T13:42",
-    "headline": "Mali defence minister killed after coordinated attacks",
-    "excerpt": "Mali’s Defence Minister Sadio Camara has been killed after coordinated attacks on military sites and his home.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-26T14:23:54.241438+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/mali-defence-minister-killed-after-coordinated-attacks?traffic_source=rss"
-  },
-  {
-    "id": "c8ff1772baca",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T13:20",
-    "headline": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
-    "excerpt": "Regional de-escalation may shift focus to Gaza, where deadlock over Hamas weapons, future governance threatens &#039;truce&#039;.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-26T14:23:54.241464+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "0658e2afa98d",
-    "source": "PressTV",
-    "date": "2026-04-26T14:23",
-    "headline": "Iran FM returns to Islamabad for further consultations with Pakistani mediators",
-    "excerpt": "Iranian Foreign Minister Abbas Araghchi has returned to Islamabad for a second official visit in two days for further consultations with Pakistani mediators amid stalled negotiations with the United States.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-26T14:23:56.647970+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/26/767583/Iran-FM-returns-to-Islamabad-for-further-consultations-with-Pakistani-mediators"
-  },
-  {
-    "id": "cd9f5822edc0",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T12:31",
-    "headline": "Syria puts first Assad-era official on trial in Damascus",
-    "excerpt": "Atef Najib, ex-head of political security in Deraa province, is charged with &#039;crimes against the Syrian people&#039;.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-04-26T13:25:28.000966+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/26/syria-puts-al-assad-era-officials-on?traffic_source=rss"
   }
 ]
