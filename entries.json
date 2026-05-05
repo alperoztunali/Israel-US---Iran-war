@@ -1,5 +1,49 @@
 [
   {
+    "id": "7c7eab723eac",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T00:11",
+    "headline": "Newborn born in Nablus a day after his father was killed in Israeli raid",
+    "excerpt": "A Palestinian family in Nablus has welcomed a newborn whose father was shot dead by Israeli forces.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-05T01:20:35.369604+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/newborn-born-in-nablus-a-day-after-his-father-was-killed-in-israeli-raid?traffic_source=rss"
+  },
+  {
+    "id": "ea73a5b49ac4",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T00:00",
+    "headline": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz",
+    "excerpt": "Israeli attacks have killed 2,696 people in Lebanon since March 2, the country&#039;s Health Ministry reports.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-05-05T01:20:35.369644+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "bc278b172ad1",
+    "source": "Al Jazeera",
+    "date": "2026-05-04T23:37",
+    "headline": "‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians",
+    "excerpt": "ISIL-linked group has tortured, killed and abducted civilians in the Democratic Republic of Congo, including children.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-05T01:20:35.369687+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/4/extensive-brutality-rebel-attacks-reap-hell-on-congolese-civilians?traffic_source=rss"
+  },
+  {
+    "id": "183e9a4a4212",
+    "source": "PressTV",
+    "date": "2026-05-05T01:20",
+    "headline": "Events in Strait of Hormuz prove there’s no military solution to political crisis: Iranian FM",
+    "excerpt": "Abbas Araghchi has stated that recent developments in the Strait of Hormuz have once again made it crystal clear that there is no military solution to the political crisis.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-05T01:20:48.635608+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/04/768060/Events-in-Strait-of-Hormuz-prove-there%E2%80%99s-no-military-solution-to-political-crisis--Iranian-FM"
+  },
+  {
     "id": "4c8841cb656b",
     "source": "Al Jazeera",
     "date": "2026-05-04T22:14",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-26T11:05:52.688293+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "879ab9de5caa",
-    "source": "PressTV",
-    "date": "2026-04-26T11:05",
-    "headline": "Iran’s FM discusses regional developments in meeting with Oman’s Sultan",
-    "excerpt": "Araghchi and Oman’s sultan met and exchanged viewpoints on the latest regional developments.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-26T11:05:54.780919+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/26/767572/Iranian-foreign-minister-Omani-Sultan-exchange-views-regional-developments"
-  },
-  {
-    "id": "2adde0e15f99",
-    "source": "PressTV",
-    "date": "2026-04-26T11:05",
-    "headline": "Iranian forces arrest terrorists behind shooting at anti-war demonstrators in Kerman",
-    "excerpt": "Iran's Intelligence Ministry says its forces have detained terrorists behind the shooting at people who participated in street rallies in Kerman province to condemn the illegal US-Israeli war of aggression against the country.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-04-26T11:05:54.780959+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/26/767571/Iranian-forces-arrest-terrorists-behind-shooting-at-anti-war-protesters-in-Kerman"
-  },
-  {
-    "id": "e62212bdef52",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T09:43",
-    "headline": "Yemen’s landmine crisis endures despite truce and de-mining efforts",
-    "excerpt": "Landmines in Yemen continue to kill and maim, even amid ceasefire efforts and ongoing de-mining initiatives.",
-    "category": "Diplomatic",
-    "location": "Yemen",
-    "addedAt": "2026-04-26T10:07:55.303709+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss"
-  },
-  {
-    "id": "d1ab5abf4ca0",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T08:52",
-    "headline": "Chornobyl’s surviving ‘liquidators’ return 40 years after nuclear disaster",
-    "excerpt": "About 600,000 soldiers, firefighters, engineers, miners and medics cleaned up after the nuclear plant explosion.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-04-26T10:07:55.303754+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/4/26/survivors-return-to-chernobyl-40-years-after-devastating-explosion?traffic_source=rss"
   }
 ]
