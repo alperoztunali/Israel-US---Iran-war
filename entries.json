@@ -1,5 +1,27 @@
 [
   {
+    "id": "e4199a929ef8",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T12:00",
+    "headline": "UK counterterrorism police investigate arson attack at former synagogue",
+    "excerpt": "The incident in London comes after the UK&#039;s national threat level was raised to severe last week.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-05T12:13:57.358660+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/5/uk-counterterrorism-police-investigate-arson-attack-at-former-synagogue?traffic_source=rss"
+  },
+  {
+    "id": "69fe70757efd",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T11:23",
+    "headline": "Bayern Munich vs PSG: Champions League – preview, team news, start, lineups",
+    "excerpt": "PSG travel to Munich defending a 5-4 lead from the semifinal first leg, as both coaches promise more attacking football.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-05T12:13:57.358739+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/5/bayern-munich-vs-psg-champions-league-preview-team-news-start?traffic_source=rss"
+  },
+  {
     "id": "63d1293b130b",
     "source": "Al Jazeera",
     "date": "2026-05-05T09:14",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-26T17:51:45.323201+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss"
-  },
-  {
-    "id": "2c0360403064",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T16:50",
-    "headline": "Abbas loyalists sweep Palestinian elections, including some seats in Gaza",
-    "excerpt": "Voter turnout in Gaza remained low due to the ongoing impact of the genocide.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-26T17:51:45.323245+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city?traffic_source=rss"
-  },
-  {
-    "id": "9b10aa5823a8",
-    "source": "PressTV",
-    "date": "2026-04-26T17:51",
-    "headline": "‘Unbreakable unity’: IRGC Quds Force chief vows continued support for Hezbollah",
-    "excerpt": "The commander of the Islamic Revolution Guards Corps (IRGC) Quds Force has vowed continued support for the Resistance Front, especially Hezbollah.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-26T17:51:47.078388+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/26/767593/Unbreakable-unity-IRGC-Quds-Force-chief-vows-continued-support-for-Hezbollah"
   }
 ]
