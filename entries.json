@@ -1,5 +1,38 @@
 [
   {
+    "id": "63d1293b130b",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T09:14",
+    "headline": "Russian air attacks kill five at Ukraine’s Naftogaz gas facilities",
+    "excerpt": "Three workers and two emergency service rescuers ​killed and 37 others wounded, Naftogaz CEO Serhiy ​Koretskyi says.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-05T11:02:42.670915+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/5/russian-attack-kills-five-at-ukraines-naftogaz-gas-facility?traffic_source=rss"
+  },
+  {
+    "id": "a69e2b50e4ad",
+    "source": "PressTV",
+    "date": "2026-05-05T11:02",
+    "headline": "UAE deports tens of thousands of Pakistanis, seizes their savings amid war on Iran: Report",
+    "excerpt": "Authorities in the UAE are conducting a sweeping deportation campaign targeting tens of thousands of Pakistani workers.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-05T11:02:44.251696+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/05/768087/UAE-deports-tens-of-thousands-of-Pakistanis,-seizes-their-savings-amid-war-on-Iran--Report-"
+  },
+  {
+    "id": "792802760c1e",
+    "source": "PressTV",
+    "date": "2026-05-05T11:02",
+    "headline": "FM Araghchi to travel to Beijing for continued diplomatic consultations with key partners",
+    "excerpt": "Iranian Foreign Minister Abbas Araghchi will travel to Beijing on Tuesday for high-level talks with his Chinese counterpart on bilateral ties and regional developments.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-05T11:02:44.251730+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/05/768081/Araghchi-China-visit-regional-developments"
+  },
+  {
     "id": "877017199d77",
     "source": "Al Jazeera",
     "date": "2026-05-05T08:29",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-26T17:51:47.078388+00:00",
     "link": "https://presstv.ir/Detail/2026/04/26/767593/Unbreakable-unity-IRGC-Quds-Force-chief-vows-continued-support-for-Hezbollah"
-  },
-  {
-    "id": "f33b5baaf304",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T15:32",
-    "headline": "‘State of war’: Why Israel has escalated attacks in Gaza",
-    "excerpt": "Israel escalates attacks and expands control in Gaza Strip, sidelining the new US-backed technocratic administration.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-26T16:58:01.967116+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "a7742065ad2c",
-    "source": "PressTV",
-    "date": "2026-04-26T16:58",
-    "headline": "Iran FM returns to Islamabad for further consultations with Pakistani mediators ‌",
-    "excerpt": "Iranian Foreign Minister Abbas Araghchi has returned to Islamabad for a second official visit in two days for further consultations with Pakistani mediators amid stalled negotiations with the United States.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-26T16:58:04.066305+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/26/767583/Iran-FM-returns-to-Islamabad-for-further-consultations-with-Pakistani-mediators"
-  },
-  {
-    "id": "bccf233b55a1",
-    "source": "PressTV",
-    "date": "2026-04-26T16:58",
-    "headline": "IRGC says to reverse engineer 15 undetonated US missiles uncovered in southern Iran",
-    "excerpt": "IRGC bomb disposal teams discover 15 heavy US missiles in Iran’s southern province of Hormuzgan.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-26T16:58:04.066336+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/26/767582/Iran-IRGC-bomb-disposal-operations-Hormuzgan-Zanjan"
   }
 ]
