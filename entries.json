@@ -1,5 +1,49 @@
 [
   {
+    "id": "fde039068189",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T03:49",
+    "headline": "An explosion at a fireworks plant in China has killed at least 21 people",
+    "excerpt": "An explosion at a fireworks plant in a central Chinese province has killed at least 21 people and injured 61 others.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-05T04:44:48.122146+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss"
+  },
+  {
+    "id": "8463b5b85ffb",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T03:38",
+    "headline": "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
+    "excerpt": "Saudi Arabia, Qatar, Kuwait and Bahrain denounce strikes, as Germany, UK and Canada urge Iran to return to talks.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-05T04:44:48.122196+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/5/dangerous-escalation-world-condemns-iran-after-attacks-on-uae?traffic_source=rss"
+  },
+  {
+    "id": "bd3d2cb53b3e",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T03:23",
+    "headline": "Oil prices surge as violence flares in Strait of Hormuz",
+    "excerpt": "Brent crude rises nearly 6 percent as soaring tensions in waterway push ceasefire to the brink.",
+    "category": "Diplomatic",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-05T04:44:48.122229+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "ac077ae25594",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T01:57",
+    "headline": "Israeli strike sparks fire in northern Gaza City",
+    "excerpt": "Video from Gaza City shows flames rising after an Israeli strike targeted a group of civilians.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-05T04:44:48.122258+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israeli-strike-sparks-fire-in-northern-gaza-city?traffic_source=rss"
+  },
+  {
     "id": "7c7eab723eac",
     "source": "Al Jazeera",
     "date": "2026-05-05T00:11",
@@ -5454,49 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-04-26T13:25:28.000966+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/26/syria-puts-al-assad-era-officials-on?traffic_source=rss"
-  },
-  {
-    "id": "fd07a001486a",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T10:50",
-    "headline": "Mali’s Defence Minister Sadio Camara killed during coordinated attacks",
-    "excerpt": "Death of influential minister seen as a big blow for Mali&#039;s military government during fighting with armed groups.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-26T13:25:28.001004+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks?traffic_source=rss"
-  },
-  {
-    "id": "c0a31dc7c5ad",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T10:50",
-    "headline": "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
-    "excerpt": "Camara&#039;s house in the garrison town of Kati came under attack amid simultaneous attacks across the country.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-26T11:57:02.389959+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks?traffic_source=rss"
-  },
-  {
-    "id": "c091e6aa4f45",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T10:20",
-    "headline": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
-    "excerpt": "Israeli forces keep advancing further into western Gaza, slowly expanding the area of their control in the east.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-04-26T11:05:52.688249+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "d365a34d5a0a",
-    "source": "Al Jazeera",
-    "date": "2026-04-26T10:17",
-    "headline": "Israel destroys solar panels in south Lebanon",
-    "excerpt": "Israel destroys solar panels in south Lebanon",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-26T11:05:52.688293+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss"
   }
 ]
