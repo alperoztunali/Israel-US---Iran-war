@@ -1,5 +1,60 @@
 [
   {
+    "id": "7c015fa0e528",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T16:50",
+    "headline": "UAE comes under Iranian attacks for second consecutive day",
+    "excerpt": "The strikes come a day after the Gulf nation was attacked by 15 missiles amid a shaky US-Iran ceasefire.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-05T17:53:48.460426+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss"
+  },
+  {
+    "id": "c1c89f5e115d",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T16:50",
+    "headline": "Ukraine, Russia exchange drone strikes ahead of V-Day ‘ceasefire’",
+    "excerpt": "Ukraine strikes multiple sites in Moscow, following Russia’s strikes on a Ukrainian gas production facility.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-05T17:53:48.460474+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss"
+  },
+  {
+    "id": "25f1724e401a",
+    "source": "Al Jazeera",
+    "date": "2026-05-05T16:25",
+    "headline": "Iran’s judiciary vows action against ‘enemy’s mercenaries’ amid executions",
+    "excerpt": "Authorities target accused foreign agents, citing national security, as executions and confiscation of assets intensify.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-05T17:53:48.460520+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/5/irans-judiciary-vows-action-against-enemys-mercenaries-amid-executions?traffic_source=rss"
+  },
+  {
+    "id": "685be15a09f4",
+    "source": "PressTV",
+    "date": "2026-05-05T17:53",
+    "headline": "Exclusive: Iran launches new maritime mechanism for Strait of Hormuz transit",
+    "excerpt": "Iran has officially launched a new mechanism for governing maritime traffic through the strategic Strait of Hormuz, Press TV has learned.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-05T17:53:50.229266+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/05/768102/Exclsuive--Iran-implements-new-maritime-mechanism-for-vessels-transiting-Strait-of-Hormuz"
+  },
+  {
+    "id": "092d3904f876",
+    "source": "PressTV",
+    "date": "2026-05-05T17:53",
+    "headline": "Hegseth ‘war criminal’ and ‘murderer’ over Iran boat attacks: Ex-UN official",
+    "excerpt": "Mohamad Safa, a UN representative who recently resigned, said US War Secretary Pete Hegseth is either a “war criminal” or “murderer”, saying the US military deliberately targeted two civilian boats traveling from Oman to Iran, killing five unarmed civilians.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-05T17:53:50.229329+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/05/768097/Former-UN-representative-accuses-Hegseth-of-war-crimes-over-Iran-boat-attacks"
+  },
+  {
     "id": "01c47e3bbfdd",
     "source": "Al Jazeera",
     "date": "2026-05-05T15:47",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-27T06:33:05.318993+00:00",
     "link": "https://www.aljazeera.com/economy/2026/4/27/from-australia-to-vietnam-the-iran-war-is-fuelling-demand-for-evs?traffic_source=rss"
-  },
-  {
-    "id": "eeb9c1985bca",
-    "source": "PressTV",
-    "date": "2026-04-27T06:33",
-    "headline": "Iran FM in Russia for close consultations on regional, international issues",
-    "excerpt": "Araghchi arrives in Russia to continue close consultations between Tehran and Moscow on regional and international issues.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-27T06:33:07.026853+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/27/767606/Iran-FM-in-Russia-for-close-consultations-on-regional-Intl-issues"
-  },
-  {
-    "id": "2670632157da",
-    "source": "PressTV",
-    "date": "2026-04-27T06:33",
-    "headline": "Former Israeli PMs join forces to dethrone Netanyahu in upcoming elections",
-    "excerpt": "Two former Israeli PMs say they will join forces in the upcoming elections in a bid to dethrone longtime Prime Minister Benjamin Netanyahu.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-27T06:33:07.026888+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/27/767607/Israel-Netanyahu-Lapid-Bennet-elections"
-  },
-  {
-    "id": "864f61012fc9",
-    "source": "Al Jazeera",
-    "date": "2026-04-27T02:29",
-    "headline": "Satellite images show scale of Israeli destruction of south Lebanon towns",
-    "excerpt": "Satellite images taken reveal the Israeli military&#039;s massive scale of damage to towns in south Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-27T03:53:46.139532+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss"
-  },
-  {
-    "id": "f7593072636b",
-    "source": "Al Jazeera",
-    "date": "2026-04-27T02:06",
-    "headline": "Oil prices rise amid stalled US-Iran peace talks",
-    "excerpt": "Brent crude rises more than 2 percent after Washington and Tehran fail to hold second round of talks in Pakistan.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-27T03:53:46.139573+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss"
-  },
-  {
-    "id": "c691580301ae",
-    "source": "Al Jazeera",
-    "date": "2026-04-27T00:00",
-    "headline": "Iran war live: Araghchi to meet Putin; Trump says Tehran can call for talks",
-    "excerpt": "Iran&#039;s foreign minister heads to Russia as Trump says Iranian leaders can call on the phone if they want to talk.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-04-27T03:53:46.139603+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss"
   }
 ]
