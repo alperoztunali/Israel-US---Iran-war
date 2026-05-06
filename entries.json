@@ -1,5 +1,49 @@
 [
   {
+    "id": "fb7aeba489c4",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T21:30",
+    "headline": "Russia tells diplomats to leave Kyiv in case Moscow launches mass strikes",
+    "excerpt": "Moscow threatens retaliatory strikes if Ukraine attacks Russia during Victory Day commemorations.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-05-06T22:01:45.096263+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/6/russia-tells-diplomats-to-leave-kyiv-in-case-moscow-launches-mass-strikes?traffic_source=rss"
+  },
+  {
+    "id": "b08f32efcc87",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T21:17",
+    "headline": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
+    "excerpt": "Momentum could be building for Washington and Tehran to strike a deal that could ultimately end the war.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-06T22:01:45.096310+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss"
+  },
+  {
+    "id": "f037f8e92631",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T21:01",
+    "headline": "Israel bombs Beirut’s southern suburbs",
+    "excerpt": "Israel bombed Beirut’s southern suburbs for the first time since the ‘ceasefire’ took effect on April 17.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-06T22:01:45.096337+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss"
+  },
+  {
+    "id": "5f71dc296dd2",
+    "source": "PressTV",
+    "date": "2026-05-06T22:01",
+    "headline": "Iran to confront any fresh attack with a strategy 'beyond enemy's calculations': IRGC official",
+    "excerpt": "The IRGC Navy's deputy for political affairs warns adversaries about the unpredictable scale, shrewdness, and manner of Iran's response to any fresh aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-06T22:01:46.644760+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/06/768174/Iran-IRGC-warning-enemies-United-States-Israel"
+  },
+  {
     "id": "f9b14ba7783a",
     "source": "Al Jazeera",
     "date": "2026-05-06T20:28",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-28T11:22:50.575583+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/28/how-iran-has-changed-and-how-it-hasnt-in-two-months-of-war?traffic_source=rss"
-  },
-  {
-    "id": "ef331d1ec4ce",
-    "source": "PressTV",
-    "date": "2026-04-28T11:22",
-    "headline": "US can no longer dictate its policies to independent nations: Iran Defense Ministry",
-    "excerpt": "The spokesperson for Iran’s Ministry of Defense says the United States is no longer in a position to dictate its policies to independent nations.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-28T11:22:52.353562+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/28/767680/US-can-no-longer-dictate-policies-independent-nations-Iran-Defense-Ministry"
-  },
-  {
-    "id": "bb0c6310570e",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T08:24",
-    "headline": "Palestine weekly wrap: Under cover of ceasefire, Israel increases grip",
-    "excerpt": "Settler violence surges deeper into Palestinian-administered areas, and Gaza&#039;s police forces are decimated further.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-28T09:27:32.107333+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/palestine-weekly-wrap-under-cover-of-ceasefire-israel-increases-grip?traffic_source=rss"
-  },
-  {
-    "id": "754002d359f5",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T08:20",
-    "headline": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
-    "excerpt": "Despite setbacks, Hezbollah emerges as a key player, tied to Lebanon’s stability and US-Iran negotiations.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-28T09:27:32.107386+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss"
-  },
-  {
-    "id": "1391e18e72a9",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T07:55",
-    "headline": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz",
-    "excerpt": "The White House confirms Trump met his national security advisers on Monday to discuss the plan.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-28T09:27:32.107421+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz?traffic_source=rss"
   }
 ]
