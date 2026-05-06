@@ -1,5 +1,38 @@
 [
   {
+    "id": "f9b14ba7783a",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T20:28",
+    "headline": "Russia cuts mobile internet in Moscow citing drone security concerns",
+    "excerpt": "Russia has begun rolling mobile internet shutdowns in Moscow and other cities.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-06T20:50:46.303570+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russia-cuts-mobile-internet-in-moscow-citing-drone-security-concerns?traffic_source=rss"
+  },
+  {
+    "id": "7eeecff77438",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T19:43",
+    "headline": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
+    "excerpt": "Fighters attack &#039;Africa&#039;s Alcatraz&#039;, which detains high-value prisoners, and disrupt crucial supply chains to capital.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-06T20:50:46.303610+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss"
+  },
+  {
+    "id": "be4441dff51e",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T19:31",
+    "headline": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
+    "excerpt": "At least 17 others wounded in a targeted attack on Naseem al-Kalazani&#039;s vehicle in western Khan Younis city.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-06T20:50:46.303636+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics?traffic_source=rss"
+  },
+  {
     "id": "c2c38ad4ca86",
     "source": "Al Jazeera",
     "date": "2026-05-06T18:25",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-28T09:27:32.107421+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "516d94b88d9f",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T07:42",
-    "headline": "Athletics great Allyson Felix aiming to compete at 2028 Los Angeles Games",
-    "excerpt": "Felix, the most decorated woman in Olympic athletics history with 11 medals, plans a comeback at age 40 at the Olympics.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-04-28T09:27:32.107458+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/28/athletics-great-allyson-felix-aiming-to-compete-at-2028-los-angeles-games?traffic_source=rss"
-  },
-  {
-    "id": "a8093109c54b",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T07:34",
-    "headline": "Ukraine summons Israeli ambassador over ‘stolen’ grain shipments",
-    "excerpt": "The diplomatic spat unfolds as Ukrainian drones hit Russia&#039;s Tuapse oil refinery, causing a &#039;massive&#039; fire.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-28T09:27:32.107484+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments?traffic_source=rss"
-  },
-  {
-    "id": "31e2ab215742",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T07:06",
-    "headline": "Iran war: What’s happening on day 60 as diplomacy gathers pace?",
-    "excerpt": "Trump team reviews Iran peace plan to reopen Hormuz with nuclear talks potentially delayed to a later stage.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-28T09:27:32.107522+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/iran-war-whats-happening-on-day-60-as-diplomacy-gathers-pace?traffic_source=rss"
   }
 ]
