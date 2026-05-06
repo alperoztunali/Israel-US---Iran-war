@@ -1,5 +1,71 @@
 [
   {
+    "id": "b6d5e420c826",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T05:51",
+    "headline": "In Gaza, the simplest of weddings are barely affordable",
+    "excerpt": "Couples marry in tents in Gaza as war, displacement, and soaring prices strip weddings of joy.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-06T06:45:52.609976+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/6/in-gaza-the-simplest-of-weddings-are-barely-affordable?traffic_source=rss"
+  },
+  {
+    "id": "2d39d7fc019b",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T05:45",
+    "headline": "What to know about Israeli President Herzog’s trip to Central America?",
+    "excerpt": "Israeli Foreign Ministry says that four-day visit to Panama and Costa Rica will deepen ties with partners in the region.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-06T06:45:52.610028+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/6/what-to-know-about-israeli-president-herzogs-trip-to-central-america?traffic_source=rss"
+  },
+  {
+    "id": "a4893c80f497",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T05:23",
+    "headline": "US president Trump restarts Pope feud ahead of Rubio visit to Vatican",
+    "excerpt": "Donald Trump has reignited his public attacks on Pope Leo, claiming he supports Iran obtaining nuclear weapons.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-06T06:45:52.610062+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-president-trump-restarts-pope-feud-ahead-of-rubio-visit-to-vatican?traffic_source=rss"
+  },
+  {
+    "id": "86b21ba214d8",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T04:55",
+    "headline": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
+    "excerpt": "Iran&#039;s foreign minister meets his Chinese counterpart one week before President Donald Trump&#039;s visit to Beijing.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-06T06:45:52.610095+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss"
+  },
+  {
+    "id": "c32a9e74206e",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T04:22",
+    "headline": "Romania’s pro-EU government ousted after no-confidence vote",
+    "excerpt": "The pro-European Union coalition of Romanian Prime Minister Ilie Bolojan has collapsed after a vote of no confidence.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-05-06T06:45:52.610135+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/romanias-pro-eu-government-ousted-after-no-confidence-vote?traffic_source=rss"
+  },
+  {
+    "id": "20cd553fdc43",
+    "source": "PressTV",
+    "date": "2026-05-06T06:45",
+    "headline": "China blasts ‘illegitimate’ war on Iran as it hosts FM Araghchi",
+    "excerpt": "China has hosted Iran’s Foreign Minister Abbas Araghchi for talks in Beijing, with Chinese Foreign Minister Wang Yi calling the US-Israeli war on Tehran “illegitimate” and urging a complete ceasefire.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-06T06:45:55.018233+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/06/768119/Iranian-FM-meets-with-Chinese-counterpart-in-Beijing,-holds-diplomatic-consultations-"
+  },
+  {
     "id": "cbaed9134c6e",
     "source": "Al Jazeera",
     "date": "2026-05-06T03:39",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-27T15:20:17.767239+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/27/have-us-iran-talks-failed-why-no-deal-yet-doesnt-mean-diplomacy-is-dead?traffic_source=rss"
-  },
-  {
-    "id": "06cdd3052a05",
-    "source": "Al Jazeera",
-    "date": "2026-04-27T12:44",
-    "headline": "Lebanon cannot be bombed into sovereignty",
-    "excerpt": "A sovereign Lebanon and a demilitarised Hezbollah cannot be achieved without a credible political transition.",
-    "category": "Airstrike",
-    "location": "Lebanon",
-    "addedAt": "2026-04-27T15:20:17.767256+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/27/lebanon-cannot-be-bombed-into-sovereignty?traffic_source=rss"
-  },
-  {
-    "id": "b39323067757",
-    "source": "PressTV",
-    "date": "2026-04-27T15:20",
-    "headline": "People of Iran are fighting bravely and heroically for their sovereignty: Putin tells Araghchi",
-    "excerpt": "The people of Iran are fighting bravely and heroically for their sovereignty, Russian President Vladimir Putin told Iranian Foreign Minister Abbas Araghchi during their meeting on Monday.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-27T15:20:19.461496+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/27/767638/Putin-vows-utmost-efforts-to-establish-peace-in-meeting-with-Iran-FM"
-  },
-  {
-    "id": "54936a521db8",
-    "source": "PressTV",
-    "date": "2026-04-27T15:20",
-    "headline": "Iran to charge ships passing Strait of Hormuz in rial: Lawmaker",
-    "excerpt": "A senior Iranian lawmaker says ships passing through the Strait of Hormuz must pay charges in Iran's rial.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-27T15:20:19.461532+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/27/767637/Iran-Hormuz-Strait-toll-payment-parliament-motion-Azizi"
-  },
-  {
-    "id": "f9675ec596a4",
-    "source": "PressTV",
-    "date": "2026-04-27T15:20",
-    "headline": "Rights official slams UNICEF’s inaction on US-Israeli war crimes against Iranian children",
-    "excerpt": "The deputy chief of Iran’s Judiciary and secretary of the High Council for Human Rights criticizes the UN's children agency for failing to condemn war crimes committed by the US and the Israeli regime against Iranian children during the recent illegal war of aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-27T15:20:19.461567+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/27/767641/Rights-official-slams-UNICEF-s-inaction-on-US-Israeli-war-crimes-against-Iranian-children"
-  },
-  {
-    "id": "b8e3c0bedd40",
-    "source": "PressTV",
-    "date": "2026-04-27T15:20",
-    "headline": "Israel destroys power, water infrastructure of Christian-majority town in south Lebanon",
-    "excerpt": "The Israeli forces have destroyed the power and water systems of a Christian town in southern Lebanon.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-04-27T15:20:19.461588+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/27/767622/Israel-destroys-power,-water-infrastructure-of-Christian-town-in-south-Lebanon"
-  },
-  {
-    "id": "cc71876d6907",
-    "source": "Al Jazeera",
-    "date": "2026-04-27T12:02",
-    "headline": "Mbappe could miss El Clasico after Real Madrid confirm thigh injury",
-    "excerpt": "French striker doubtful after sustaining an injury to the semitendinosus muscle in his left leg, his club says.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-27T13:06:23.901440+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/27/mbappe-could-miss-el-clasico-after-real-madrid-confirm-thigh-injury?traffic_source=rss"
   }
 ]
