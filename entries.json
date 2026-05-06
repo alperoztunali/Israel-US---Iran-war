@@ -1,5 +1,93 @@
 [
   {
+    "id": "94d7566f100b",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T15:03",
+    "headline": "Four killed in post-election violence in India’s West Bengal",
+    "excerpt": "Unrest grips the key eastern state after Modi&#039;s Hindu nationalist BJP wins the state election for the first time.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-06T15:41:33.355829+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/6/four-killed-in-post-election-violence-in-indias-west-bengal?traffic_source=rss"
+  },
+  {
+    "id": "0a9d54b12716",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T14:07",
+    "headline": "Pro-Palestine group protests outside Israeli real estate event in New York",
+    "excerpt": "Demonstration against event featuring properties for sale in occupied West Bank is the second protest in six months.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-06T15:41:33.355878+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/6/pro-palestine-group-protests-outside-israeli-real-estate-event-in-new-york?traffic_source=rss"
+  },
+  {
+    "id": "d2c7f183a6e6",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T14:06",
+    "headline": "UN demands Israel release Gaza flotilla activists, investigate abuse claims",
+    "excerpt": "Israel must &#039;immediately and unconditionally&#039; release Saif Abu Keshek and Thiago de Avila, rights office spokesman says.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-06T15:41:33.355914+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/6/un-demands-israel-release-gaza-flotilla-activists-investigate-abuse-claims?traffic_source=rss"
+  },
+  {
+    "id": "434eb307a792",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T13:47",
+    "headline": "Araghchi in Beijing: How China could shape the direction of the US-Iran war",
+    "excerpt": "Analysts say shared US and Chinese interests in reopening the Strait of Hormuz could create a path towards peace.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-06T15:41:33.355948+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/6/araghchi-in-beijing-how-china-could-shape-the-direction-of-the-us-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "a7e4cc2ea3bf",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T13:42",
+    "headline": "Russian drone hits kindergarten in Ukraine",
+    "excerpt": "A Russian drone strike has hit a kindergarten in Ukraine’s Sumy region.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-06T15:41:33.355978+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russian-drone-hits-kindergarten-in-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "aca000ba83df",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T13:31",
+    "headline": "Elderly man rescued from rubble after Israeli strike on Lebanon",
+    "excerpt": "An 80-year-old man has been pulled out from under the rubble of his house in the south.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-06T15:41:33.356013+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/elderly-man-rescued-from-rubble-after-israeli-strike-on-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "efa29f0066ca",
+    "source": "PressTV",
+    "date": "2026-05-06T15:41",
+    "headline": "China believes post-war Iran has higher international standing: Araghchi",
+    "excerpt": "The minister said that Iran trusts China and looks forward to its continued active role in promoting peace and ending the conflict in the region.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-06T15:41:38.586049+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/06/768148/Iran-China-agree-on-new-era-of-post-war-coop-as-FMs-meet-in-Beijing"
+  },
+  {
+    "id": "20cb0b4ed0da",
+    "source": "PressTV",
+    "date": "2026-05-06T15:41",
+    "headline": "Iran’s retaliatory attacks hit far more US military assets than acknowledged: Report",
+    "excerpt": "Iranian retaliatory airstrikes have damaged or destroyed at least 228 structures or pieces of equipment at US military sites across the region, according to satellite imagery.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-05-06T15:41:38.586088+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/06/768146/Iran%E2%80%99s-retaliatory-attacks-hit-far-more-US-military-assets-than-acknowledged--Report"
+  },
+  {
     "id": "2961f4220572",
     "source": "Al Jazeera",
     "date": "2026-05-06T12:41",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-28T04:08:03.609815+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen?traffic_source=rss"
-  },
-  {
-    "id": "a79ab50175b2",
-    "source": "Al Jazeera",
-    "date": "2026-04-27T23:58",
-    "headline": "Israeli settlers attack Palestinians and set house on fire",
-    "excerpt": "Israeli settlers set fire to a Palestinian home in the occupied West Bank village of Jalud.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-28T04:08:03.609844+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/israeli-settlers-attack-palestinians-and-set-house-on-fire?traffic_source=rss"
-  },
-  {
-    "id": "32e9e2ae7007",
-    "source": "PressTV",
-    "date": "2026-04-28T04:08",
-    "headline": "Araghchi hails 'depth and strength’ of Iran-Russia strategic partnership",
-    "excerpt": "Iranian Foreign Minister Seyed Abbas Araghchi has affirmed the unbreakable strategic partnership between Iran and Russia.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-28T04:08:05.315097+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/28/767666/Araghchi-hails--depth-and-strength-of-strategic-partnership--between-Iran-and-Russia"
-  },
-  {
-    "id": "089a9695bdaa",
-    "source": "PressTV",
-    "date": "2026-04-28T04:08",
-    "headline": "Iran: Responsibility for any disruption in Strait of Hormuz lies squarely with US aggression",
-    "excerpt": "Iran has categorically stated that any disruption or obstruction in maritime traffic through the Strait of Hormuz and surrounding waters is the direct responsibility of the United States and its allies.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-28T04:08:05.315141+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/28/767664/Iran--Responsibility-for-any-disruption-in-Strait-of-Hormuz-lies-squarely-with-US-aggression"
-  },
-  {
-    "id": "d29f80df1da4",
-    "source": "PressTV",
-    "date": "2026-04-28T00:08",
-    "headline": "Iran’s election as NPT vice president delivers major diplomatic slap to US",
-    "excerpt": "Iran has been elected as one of the vice presidents of the 2026 Nuclear Non-Proliferation Treaty (NPT) Review Conference at the United Nations headquarters.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-28T00:08:57.806193+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/27/767663/Iran%E2%80%99s-election-as-NPT-vice-president-delivers-major-diplomatic-slap-to-US"
-  },
-  {
-    "id": "a062c9ffee51",
-    "source": "PressTV",
-    "date": "2026-04-27T23:12",
-    "headline": "Tehran slams US piracy on high seas as Washington illegally seizes Iranian oil tankers",
-    "excerpt": "Iran has condemned the United States for the outright legalization of piracy and armed robbery on the high seas following the interception of Iranian oil tankers by US forces.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-04-27T23:12:02.002228+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/27/767658/Tehran-slams-US--legalized-piracy--on-high-seas-as-Washington-seizes-Iranian-oil-tankers"
-  },
-  {
-    "id": "566444be93dd",
-    "source": "Al Jazeera",
-    "date": "2026-04-27T21:51",
-    "headline": "Bahrain strips 69 people of citizenship over Iran support",
-    "excerpt": "Rights groups have described the move as a &#039;blatant abuse of power&#039;.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-27T22:09:45.408806+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss"
-  },
-  {
-    "id": "6165af8933fa",
-    "source": "Al Jazeera",
-    "date": "2026-04-27T21:07",
-    "headline": "Will vote make a difference to Palestinians under Israeli occupation?",
-    "excerpt": "The Palestinian Authority&#039;s Fatah party and its affiliates sweep council vote.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-27T22:09:45.408871+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/4/27/will-vote-make-a-difference-to-palestinians-under-israeli-occupation?traffic_source=rss"
-  },
-  {
-    "id": "dbe6b6591988",
-    "source": "Al Jazeera",
-    "date": "2026-04-27T21:00",
-    "headline": "Who holds the cards in Iran-US talks?",
-    "excerpt": "Both the US and Iran claim to have the upper hand in negotiations over the war, but who holds the cards?",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-27T22:09:45.408921+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss"
   }
 ]
