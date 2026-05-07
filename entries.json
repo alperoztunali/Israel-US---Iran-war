@@ -1,5 +1,71 @@
 [
   {
+    "id": "4e93994d57f8",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T19:51",
+    "headline": "‘This is my last voice note’: how piracy returned to Somalia and Yemen",
+    "excerpt": "Three ships were hijacked near the Gulf of Aden, raising alarms over key sea routes. Is piracy returning to Somalia?",
+    "category": "Naval",
+    "location": "Yemen",
+    "addedAt": "2026-05-07T20:23:15.884535+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/7/aje-onl-aj_tt_som_waratsea_full-060526?traffic_source=rss"
+  },
+  {
+    "id": "2152f1629b56",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T19:32",
+    "headline": "Gulf states urge UN action to ensure Strait of Hormuz safety",
+    "excerpt": "Draft resolution demands Iran halt attacks, pin-point mines and ensure passage of humanitarian aid through strait.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-07T20:23:15.884581+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/gulf-states-urge-un-action-to-ensure-strait-of-hormuz-safety?traffic_source=rss"
+  },
+  {
+    "id": "2a5418f5dc9b",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T19:02",
+    "headline": "Can China help end the Iran war?",
+    "excerpt": "Chinese and Iranian foreign ministers meet while a tense ceasefire holds.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-07T20:23:15.884611+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/7/can-china-help-end-the-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "1b93ab009a73",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T18:51",
+    "headline": "Inside the Israeli bloc that could topple Netanyahu",
+    "excerpt": "Netanyahu’s rivals unite ahead of elections, but is this alliance strong enough to actually unseat him?",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-07T20:23:15.884647+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/7/aje-onl-isr_bibipressure_av_v1-070526?traffic_source=rss"
+  },
+  {
+    "id": "ee0d9fc6e592",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T18:41",
+    "headline": "Israel’s attacks and pressure sowing seeds for division in tense Lebanon",
+    "excerpt": "Analysts say Israel aiming to exploit Lebanon’s divisions to force concessions amid military and political pressures.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-07T20:23:15.884685+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/israels-attacks-and-pressure-sowing-seeds-for-division-in-tense-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "2c2fc23aedae",
+    "source": "PressTV",
+    "date": "2026-05-07T20:23",
+    "headline": "Growing public anger in US toward Trump's war on Iran: New poll",
+    "excerpt": "New poll shows growing US anger toward Trump's Iran war: 61% say it did \"more harm than good,\" 62% believe Trump weakened America's global standing, and 80% cite fuel cost strain.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-07T20:23:17.697778+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/07/768230/Growing-public-anger-in-US-toward-Trump-s-Iran-war,-new-poll-shows-"
+  },
+  {
     "id": "1e6d195f38d3",
     "source": "Al Jazeera",
     "date": "2026-05-07T18:33",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-29T06:38:42.284642+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/afghan-students-recount-harrowing-university-strike?traffic_source=rss"
-  },
-  {
-    "id": "cb8687e389b9",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T05:06",
-    "headline": "US Senate blocks bid to stop Trump using military against Cuba",
-    "excerpt": "Senator ​Tim Kaine says if anyone did to the US &#039;what we are doing to Cuba&#039;, it would be considered &#039;an act of war&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-29T06:38:42.284694+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/29/us-senate-blocks-bid-to-stop-trump-using-military-against-cuba?traffic_source=rss"
-  },
-  {
-    "id": "0a8cc89ee9a5",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T04:49",
-    "headline": "UN aid chief says situation in Somalia worsened by US war on Iran",
-    "excerpt": "UN relief coordinator Tom Fletcher has slammed the war on Iran during a visit to Somalia.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T06:38:42.284725+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/un-aid-chief-says-situation-in-somalia-worsened-by-us-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "08f8ec92343f",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T03:11",
-    "headline": "Lebanon’s PM slams Israel’s ‘war crimes’ as attack kills 3 rescue workers",
-    "excerpt": "Lebanese President Joseph Aoun says Israel violating international law that protects civilians and humanitarian workers.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-29T04:03:51.396775+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/29/lebanons-pm-slams-israels-war-crimes-as-attack-kills-3-rescue-workers?traffic_source=rss"
-  },
-  {
-    "id": "aebe2939fca9",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T03:06",
-    "headline": "UAE quits OPEC as oil cartel takes blow during war on Iran",
-    "excerpt": "The UAE’s decision to quit OPEC to prioritise its ‘national interests’ deals a blow to the oil group.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-29T04:03:51.396823+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec-as-oil-cartel-takes-blow-during-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "a14a8dbddb00",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T02:51",
-    "headline": "Mali’s military leader emerges after alleged coup attempt",
-    "excerpt": "Mali’s military leader says the country is ‘under control’ after what’s been described as an attempted coup.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-29T04:03:51.396872+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/malis-military-leader-emerges-after-alleged-coup-attempt?traffic_source=rss"
-  },
-  {
-    "id": "f9ccb3112f3c",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T00:00",
-    "headline": "Iran war live: Trump says Tehran wants end to blockade; Israel kills medics",
-    "excerpt": "US president says Iran has reached out and asked Washington to lift its naval blockade on Iranian ports.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-04-29T04:03:51.396900+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss"
   }
 ]
