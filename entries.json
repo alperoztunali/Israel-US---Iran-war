@@ -1,5 +1,49 @@
 [
   {
+    "id": "eff9ead31b72",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T16:26",
+    "headline": "US pushing Israeli de-escalation ahead of new talks: Lebanese official",
+    "excerpt": "Talks between Lebanese and Israeli delegations to be held in Washington, DC, next week, the official tells Al Jazeera.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-07T17:04:54.686301+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official?traffic_source=rss"
+  },
+  {
+    "id": "be6e08b04bc3",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T16:22",
+    "headline": "Lebanon Latest Israeli strikes Beirut despite ‘ceasefire’",
+    "excerpt": "Israel has carried out its first airstrike on Beirut’s southern suburbs since the April 16 US-brokered ceasefire.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-07T17:04:54.686337+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/lebanon-latest-israeli-strikes-beirut-despite?traffic_source=rss"
+  },
+  {
+    "id": "c7ca8a9d7be9",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T16:18",
+    "headline": "Iran’s president says he has spoken to the country’s Supreme Leader",
+    "excerpt": "Iranian President Masoud Pezeshkian says he has met with Iranian Supreme Leader Mojtaba Khamenei.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-07T17:04:54.686379+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/irans-president-says-he-has-spoken-to-the-countrys-supreme-leader?traffic_source=rss"
+  },
+  {
+    "id": "bfeee9ddc2b9",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T15:58",
+    "headline": "Iran’s President Pezeshkian seeks to quash divided leadership narrative",
+    "excerpt": "Tehran emphasises solidarity among top officials as Washington pressures Iran during Strait of Hormuz disputes.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-05-07T17:04:54.686410+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/irans-president-pezeshkian-seeks-to-quash-divided-leadership-narrative?traffic_source=rss"
+  },
+  {
     "id": "e5ffb5b7d07c",
     "source": "Al Jazeera",
     "date": "2026-05-07T13:57",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-28T21:12:16.685435+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/28/trump-scolds-germanys-merz-for-criticism-of-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "b9add8573e04",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T19:40",
-    "headline": "After 60 days of war in Iran, does US Congress want a say?",
-    "excerpt": "Under law, Trump needs Congressional approval to continue war, experts say, but Congress may avoid the issue altogether.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-28T21:12:16.685480+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/after-60-days-of-war-in-iran-does-us-congress-want-a-say?traffic_source=rss"
-  },
-  {
-    "id": "06a9d5f4ef81",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T19:34",
-    "headline": "Massive explosion from Israeli operation seen in southern Lebanon",
-    "excerpt": "Video captured massive explosions in southern Lebanon in what the Israeli military called strikes on a Hezbollah tunnel.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-04-28T21:12:16.685513+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/massive-explosion-from-israeli-operation-seen-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "4fb55a1ac33d",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T19:32",
-    "headline": "Can the Nuclear Non-Proliferation Treaty prevent a disaster?",
-    "excerpt": "The United Nations chief warns of the waning influence of the global agreement.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-04-28T21:12:16.685545+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/4/28/can-the-nuclear-non-proliferation-treaty-prevent-a-disaster?traffic_source=rss"
-  },
-  {
-    "id": "d7a6d7e25ec9",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T19:06",
-    "headline": "Austrian pleads guilty to ISIL-planned attack on Taylor Swift concert",
-    "excerpt": "Beran A admits conspiring in other plans abroad as well as planning attack on Swift&#039;s Vienna concert.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-28T19:48:53.285109+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/austrian-pleads-guilty-to-isil-planned-attack-on-taylor-swift-concert?traffic_source=rss"
   }
 ]
