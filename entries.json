@@ -1,5 +1,104 @@
 [
   {
+    "id": "56db315076f9",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T09:37",
+    "headline": "Iran’s stance on US war negotiations explained",
+    "excerpt": "Iran’s stance on US war negotiations explained",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-07T10:01:16.554968+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/irans-stance-on-us-war-negotiations-explained?traffic_source=rss"
+  },
+  {
+    "id": "e964a91fb398",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T09:22",
+    "headline": "Rubio arrives at Vatican to meet Pope Leo amid Trump attacks",
+    "excerpt": "Vatican Secretary of State Cardinal Pietro Parolin says the meeting was requested by the US.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-07T10:01:16.555019+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/rubio-arrives-at-vatican-to-meet-pope-leo-amid-trump-attacks?traffic_source=rss"
+  },
+  {
+    "id": "5138fd4c4e22",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T09:21",
+    "headline": "Iran releases video said to show US drone shot down over Hormuz",
+    "excerpt": "Iranian media has released video purporting to show the wreckage of a US  drone that was shot down by Iran.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-07T10:01:16.555046+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "42a46dfa96af",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T08:36",
+    "headline": "French warship moves towards Hormuz for possible defensive mission",
+    "excerpt": "Iran says it is reviewing a US proposal that Donald Trump says could bring the war to an end.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-07T10:01:16.555092+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss"
+  },
+  {
+    "id": "a21506030dcb",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T08:12",
+    "headline": "The Gaza journalist killed on the day his daughter was born",
+    "excerpt": "Sana&#039;s first birthday is shadowed by loss; her father Yahya was killed in an Israeli attack hours after her birth.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-07T10:01:16.555123+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss"
+  },
+  {
+    "id": "4f997246c5b4",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T08:01",
+    "headline": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
+    "excerpt": "Trump says US-Iran talks are progressing as Tehran reviews a US proposal delivered through Pakistan.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-05-07T10:01:16.555152+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss"
+  },
+  {
+    "id": "27481e056b22",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T06:37",
+    "headline": "Israeli attack on Gaza kills son of Hamas leader Khalil al-Hayya",
+    "excerpt": "Senior Hamas official Basem Naim confirms death of Azzam Khalil Al-Hayya in social media post.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-07T10:01:16.555183+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss"
+  },
+  {
+    "id": "38c439ba603d",
+    "source": "PressTV",
+    "date": "2026-05-07T10:01",
+    "headline": "Iran maritime authority 'ready to provide services' to commercial vessels operating in Hormuz Strait",
+    "excerpt": "Iran's maritime authority says it is ready to offer maritime, technical, and medical support services to commercial vessels operating in the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-07T10:01:18.102532+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/07/768182/Iran-ready-to-provide-maritime-services-to-commercial-vessels-operating-in-Strait-of-Hormuz"
+  },
+  {
+    "id": "7685c4916f39",
+    "source": "PressTV",
+    "date": "2026-05-07T10:01",
+    "headline": "Hamas: Israel adheres to no obligations, ceasefire talks at standstill over broken commitments",
+    "excerpt": "The leader of the Hamas resistance movement in the Gaza Strip says the occupying Israeli regime does not abide by any obligations.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-07T10:01:18.102566+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/07/768190/Hamas-says-Israel-adheres-to-no-commitment"
+  },
+  {
     "id": "f1729142af6f",
     "source": "Al Jazeera",
     "date": "2026-05-07T06:37",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-28T17:54:13.577008+00:00",
     "link": "https://presstv.ir/Detail/2026/04/28/767699/%E2%80%8EIsrael-issues-displacement-orders-for-south-Lebanon-beyond-%E2%80%98yellow-line%E2%80%99"
-  },
-  {
-    "id": "5b34884fff88",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T14:55",
-    "headline": "Qatar says using Hormuz Strait as political weapon is ‘unacceptable’",
-    "excerpt": "Qatar’s foreign ministry spokesman Majed al-Ansari said that the Strait of Hormuz must not be used as a bargaining chip.",
-    "category": "Statement",
-    "location": "Qatar",
-    "addedAt": "2026-04-28T15:58:07.969393+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/qatar-says-using-hormuz-strait-as-political-weapon-is?traffic_source=rss"
-  },
-  {
-    "id": "da0733622db5",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T14:50",
-    "headline": "Is Egypt threatening Israel through its military exercises on the border?",
-    "excerpt": "Residents along Israel&#039;s border with Egypt have expressed alarm at Egypt&#039;s plans for live-fire drills in Sinai.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-28T15:58:07.969440+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/is-egypt-threatening-israel-through-its-military-exercises-on-the-border?traffic_source=rss"
-  },
-  {
-    "id": "28dcded4b89a",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T14:40",
-    "headline": "What is the Azawad Liberation Front, part of the Mali attacks?",
-    "excerpt": "Tuaregs have long fought for independence in northern Mali, and the FLA represents the latest of many rebellions.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-28T15:58:07.969482+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/what-is-the-azawad-liberation-front-part-of-the-mali-attacks?traffic_source=rss"
-  },
-  {
-    "id": "3096344bb479",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T14:30",
-    "headline": "The cost of 76 years of US wars, from Korea to Iran",
-    "excerpt": "Al Jazeera breaks down the human and financial cost of decades of US-led wars and its latest war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-28T15:58:07.969513+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/the-cost-of-76-years-of-us-wars-from-korea-to-iran?traffic_source=rss"
-  },
-  {
-    "id": "cffe933b58d1",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T13:51",
-    "headline": "Who is Ali al-Zaidi, the businessman named as Iraq’s PM-designate?",
-    "excerpt": "Political outsider Ali al-Zaidi is tapped as Iraq&#039;s new PM to break a months-long political deadlock.",
-    "category": "Casualties",
-    "location": "Iraq",
-    "addedAt": "2026-04-28T15:58:07.969542+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/who-is-ali-al-zaidi-the-businessman-named-as-iraqs-pm-designate?traffic_source=rss"
-  },
-  {
-    "id": "eddcca4da38d",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T12:33",
-    "headline": "UAE leaves OPEC in blow to oil cartel during war on Iran",
-    "excerpt": "Announcement comes as Gulf producers are already struggling to ship exports through the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-28T15:58:07.969580+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/uae-leaves-opec-and-opec?traffic_source=rss"
-  },
-  {
-    "id": "df258bf4a880",
-    "source": "PressTV",
-    "date": "2026-04-28T15:58",
-    "headline": "Japanese tanker transits Strait of Hormuz after obtaining Iran’s permission",
-    "excerpt": "A Japanese-owned supertanker carrying two million barrels of crude oil has successfully transited the Strait of Hormuz after securing permission from Iranian authorities.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-28T15:58:10.190917+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/28/767694/Japanese-tanker-transits-Strait-of-Hormuz-after-obtaining-Iran%E2%80%99s-permission"
-  },
-  {
-    "id": "bb40b9ac3e10",
-    "source": "PressTV",
-    "date": "2026-04-28T15:58",
-    "headline": "‎Israel issues displacement orders for south Lebanon beyond ‘yellow line’",
-    "excerpt": "‎Israel’s military has issued displacement orders for residents of more than a dozen villages and towns in southern Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-28T15:58:10.190970+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/28/767699/%E2%80%8EIsrael-issues-displacement-orders-for-south-Lebanon-beyond-%E2%80%98yellow-line%E2%80%99"
-  },
-  {
-    "id": "3662a84b52ac",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T12:56",
-    "headline": "What’s in Iran’s latest proposal – and how has the US responded?",
-    "excerpt": "Trump administration signals rejection of Iran’s offer, citing incomplete resolution of Tehran’s nuclear ambitions.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-28T13:15:22.295497+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/whats-in-irans-latest-proposal-and-how-has-the-us-responded?traffic_source=rss"
   }
 ]
