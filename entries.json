@@ -1,5 +1,71 @@
 [
   {
+    "id": "eb246c1d61c0",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T03:15",
+    "headline": "Israeli soldier caught desecrating statue of Virgin Mary in Lebanon",
+    "excerpt": "Outrage is growing over a photo of an Israeli soldier pushing a cigarette into the mouth of a statue of the Virgin Mary.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-07T04:06:52.422226+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/israeli-soldier-caught-desecrating-statue-of-virgin-mary-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "26a96dcb8e9e",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T02:13",
+    "headline": "US says Hezbollah is ‘trying to derail talks’ with Israel",
+    "excerpt": "US State Department spokesperson says Hezbollah is ‘trying to derail talks’ with Israel.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-07T04:06:52.422277+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/us-says-hezbollah-is-trying-to-derail-talks-with-israel?traffic_source=rss"
+  },
+  {
+    "id": "da329f2334d6",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T00:55",
+    "headline": "North Korea says it is not bound by any treaty on nuclear non-proliferation",
+    "excerpt": "Pyongyang says its status as nuclear-armed state &#039;will not change based on external rhetorical claims&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-07T04:06:52.422319+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/north-korea-says-it-is-not-bound-by-any-treaty-on-nuclear-non-proliferation?traffic_source=rss"
+  },
+  {
+    "id": "e9089454a3cb",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T00:00",
+    "headline": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut",
+    "excerpt": "UN calls on Israel to free two members of Gaza aid flotilla abducted in international waters and held without charge.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-05-07T04:06:52.422344+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss"
+  },
+  {
+    "id": "05746758ff4a",
+    "source": "Al Jazeera",
+    "date": "2026-05-06T21:17",
+    "headline": "Trump says war will be ‘over quickly’ as Iran reviews US peace proposal",
+    "excerpt": "US president indicates momentum building for a deal, but Iran says it is still reviewing Washington&#039;s proposal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-07T04:06:52.422393+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss"
+  },
+  {
+    "id": "a78ff3248c26",
+    "source": "PressTV",
+    "date": "2026-05-07T04:06",
+    "headline": "Senior Hamas leader's son wounded, five others killed in Israeli strikes on Gaza: Report",
+    "excerpt": "Israeli airstrikes have injured the son of senior Hamas leader Khalil al-Hayya and killed at least five other people across the Gaza Strip, a report says.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-07T04:06:54.145690+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/07/768178/Hamas-leader-son-injured-five-killed-Gaza-Israel"
+  },
+  {
     "id": "2e2605a4b373",
     "source": "Al Jazeera",
     "date": "2026-05-06T23:43",
@@ -5432,71 +5498,5 @@
     "location": "Uae",
     "addedAt": "2026-04-28T13:15:22.295598+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/28/uae-leaves-opec-and-opec?traffic_source=rss"
-  },
-  {
-    "id": "abb637a5fc87",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T11:27",
-    "headline": "Amnesty calls for US strike on Yemen to be investigated as war crime",
-    "excerpt": "The attack last year on a migrant detention facility killed at least 68 people.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-04-28T13:15:22.295619+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/amnesty-calls-for-us-strike-on-yemen-to-be-investigated-as-war-crime?traffic_source=rss"
-  },
-  {
-    "id": "ed7e8c190424",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T11:19",
-    "headline": "How the US-Israeli war is collapsing the sanctions regime on Iran",
-    "excerpt": "Circumvention mechanisms already exist and the conflict is encouraging more entities to work with them.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-28T13:15:22.295649+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/28/how-the-us-israeli-war-is-collapsing-the-sanctions-regime-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "ecb43f28bda2",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T11:19",
-    "headline": "Mapping the destruction: How Israel ‘wiped out’ Lebanon’s Bint Jbeil",
-    "excerpt": "An Al Jazeera visual probe maps the systematic demolition of Lebanon&#039;s border towns, mirroring the devastation in Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-28T13:15:22.295685+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/mapping-the-destruction-how-israel-wiped-out-lebanons-bint-jbeil?traffic_source=rss"
-  },
-  {
-    "id": "599df397efc6",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T11:18",
-    "headline": "When will Strait of Hormuz be ‘safe’ for commercial shipping again?",
-    "excerpt": "Even if the strait reopens, shipping insurance could cost 20 times more than before the war, analysts say.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-04-28T13:15:22.295727+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again?traffic_source=rss"
-  },
-  {
-    "id": "c4c802909f71",
-    "source": "PressTV",
-    "date": "2026-04-28T13:15",
-    "headline": "Iran says post-war transit through Hormuz only possible under its security protocols",
-    "excerpt": "Iran says it will allow post-war transit via Hormuz if its security protocols are complied with.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-28T13:15:23.894266+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/28/767692/Iran-deputy-defense-minister-Talayi-Nik-Hormuz-Strait-comments"
-  },
-  {
-    "id": "da7dc61f5fcd",
-    "source": "PressTV",
-    "date": "2026-04-28T13:15",
-    "headline": "Cracks in Washington as Vance challenges US war claims: Report",
-    "excerpt": "US Vice President J. D. Vance has secretly challenged the Pentagon’s optimistic narrative of the war on Iran, voicing concerns over depleting weapons stockpiles.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-28T13:15:23.894321+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/28/767684/Cracks-in-Washington-as-Vice-President-JD-Vance-challenges-US-war-claims--Report"
   }
 ]
