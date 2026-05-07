@@ -1,5 +1,82 @@
 [
   {
+    "id": "e5ffb5b7d07c",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T13:57",
+    "headline": "US-Israel war on Iran leaves Jordan’s Petra nearly empty of tourists",
+    "excerpt": "Middle East war devastates tourism in Petra, leaving sites empty and Jordanians facing severe loss of income.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-07T15:06:23.909483+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/5/7/us-israel-war-on-iran-leaves-jordans-petra-nearly-empty-of-tourists?traffic_source=rss"
+  },
+  {
+    "id": "6675b2d7f71c",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T13:21",
+    "headline": "Chad declares national mourning after deadly Boko Haram ambush",
+    "excerpt": "The killing of two generals near Lake Chad follows a recent Boko Haram attack in the same region that left dozens dead.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-07T15:06:23.909529+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/chad-declares-national-mourning-after-deadly-boko-haram-ambush?traffic_source=rss"
+  },
+  {
+    "id": "c9e93c23b80a",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T13:16",
+    "headline": "Somali pirates abandon hijacked UAE dhow due to dwindling supplies",
+    "excerpt": "The lemon-laden Fahad-4, hijacked in late April, was used as a mothership to attack other ships.",
+    "category": "Naval",
+    "location": "Uae",
+    "addedAt": "2026-05-07T15:06:23.909562+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/somali-pirates-abandon-hijacked-uae-dhow-due-to-dwindling-supplies?traffic_source=rss"
+  },
+  {
+    "id": "a52394831c7c",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T13:10",
+    "headline": "Ancient Ziggurat of Ur restored in Iraq using traditional methods",
+    "excerpt": "Restoration work is underway at the ancient Ziggurat of Ur, a monumental stepped temple in Iraq.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-05-07T15:06:23.909595+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/ancient-ziggurat-of-ur-restored-in-iraq-using-traditional-methods?traffic_source=rss"
+  },
+  {
+    "id": "64bf0afeda4f",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T13:05",
+    "headline": "Why is the US seeking UN help to open Hormuz after undermining it?",
+    "excerpt": "Marco Rubio has called on the UN for a Hormuz solution as talks for a peace deal in Iran continue.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-07T15:06:23.909624+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/us-seeks-un-help-to-open-hormuz-can-its-resolution-succeed?traffic_source=rss"
+  },
+  {
+    "id": "3644ac9e7da9",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T13:05",
+    "headline": "All Hail the Military",
+    "excerpt": "A series exploring the systems of power that sustain militarism and the profound impact they have on us all.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-07T15:06:23.909668+00:00",
+    "link": "https://www.aljazeera.com/features/longform/2026/5/7/all-hail-the-military?traffic_source=rss"
+  },
+  {
+    "id": "10fccc217aba",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T12:21",
+    "headline": "MSF accuses Israel of manufacturing a malnutrition crisis in Gaza",
+    "excerpt": "Doctors Without Borders said it identified its first cases of child malnutrition in January 2024, three months into war.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-05-07T15:06:23.909700+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/msf-accuses-israel-of-manufacturing-a-malnutrition-crisis-in-gaza?traffic_source=rss"
+  },
+  {
     "id": "b64d3ecb656f",
     "source": "Al Jazeera",
     "date": "2026-05-07T11:42",
@@ -5421,82 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-28T19:48:53.285109+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/28/austrian-pleads-guilty-to-isil-planned-attack-on-taylor-swift-concert?traffic_source=rss"
-  },
-  {
-    "id": "d0aea25e50d1",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T19:02",
-    "headline": "Trump approval dips to record low amid Iran war, inflation woes: Poll",
-    "excerpt": "Only 22 percent of US voters back the president&#039;s performance on the cost of living, Reuters/Ipsos survey suggests.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-28T19:48:53.285154+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/trump-approval-dips-to-record-low-amid-iran-war-inflation-woes-poll?traffic_source=rss"
-  },
-  {
-    "id": "de8787618c3f",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T18:48",
-    "headline": "Mali military leader Goita emerges as Russia declares it halted coup",
-    "excerpt": "First sighting of Goita since rebel attacks comes as Russia seeks to dampen speculation over ally&#039;s military government.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-28T19:48:53.285203+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/malis-military-leader-goita-emerges-as-russia-declares-it-halted-coup?traffic_source=rss"
-  },
-  {
-    "id": "38f747a92304",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T18:05",
-    "headline": "What are OPEC and OPEC +, and why has the UAE quit?",
-    "excerpt": "The Gulf state is the latest to quit the group, which was created to form a united ⁠front on oil pricing.",
-    "category": "Other",
-    "location": "Uae",
-    "addedAt": "2026-04-28T19:48:53.285242+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/28/what-are-opec-and-opec-and-why-has-the-uae-quit?traffic_source=rss"
-  },
-  {
-    "id": "89567c74341d",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T17:49",
-    "headline": "From exile to judge: Symbolism in Syria’s trial of Assad, former officials",
-    "excerpt": "Formerly sentenced to death, Judge al-Aryan now oversees trial, but transitional justice still far from complete.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-04-28T19:48:53.285281+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/28/from-exile-to-judge-symbolism-in-syrias-trial-of-assad-former-officials?traffic_source=rss"
-  },
-  {
-    "id": "598d1aaa1f3c",
-    "source": "PressTV",
-    "date": "2026-04-28T19:48",
-    "headline": "Iran has legal right to act in Hormuz, holds US responsible for disruptions: UN mission",
-    "excerpt": "The Permanent Mission of the Islamic Republic of Iran to the United Nations says the US is responsible for any disruptions to maritime transport in the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-28T19:48:54.884801+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/28/767709/Iran-has-legal-right-to-act-in-Hormuz,-holds-US-responsible-for-disruptions--UN-mission%C2%A0"
-  },
-  {
-    "id": "bf800c33f20e",
-    "source": "PressTV",
-    "date": "2026-04-28T19:48",
-    "headline": "‎World Bank warns of record energy price surge due to US-Israeli war on Iran",
-    "excerpt": "The World Bank says energy prices are projected to surge by 24% in 2026 due to severe disruptions caused by the US-Israeli war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-28T19:48:54.884865+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/28/767710/%E2%80%8EWorld-Bank-warns-of-largest-energy-price-surge-amid-US-Israeli-war-on-Iran"
-  },
-  {
-    "id": "a602d5423748",
-    "source": "Al Jazeera",
-    "date": "2026-04-28T16:48",
-    "headline": "Ukrainian drones strike Russia’s Tuapse refinery for third time",
-    "excerpt": "Ukraine targeted a major Russian oil refinery in the Black Sea port city of Tuapse for the third time within two weeks.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-28T17:54:11.653625+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/ukrainian-drones-strike-russias-tuapse-refinery-for-third-time?traffic_source=rss"
   }
 ]
