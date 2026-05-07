@@ -1,5 +1,49 @@
 [
   {
+    "id": "fd8573973f25",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T22:20",
+    "headline": "Videos show interceptions over the skies of Tehran",
+    "excerpt": "Iranian state media says air defence systems were activated in western Tehran as multiple explosions were reported.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-05-07T22:44:16.467655+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss"
+  },
+  {
+    "id": "e8c4336fe856",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T21:11",
+    "headline": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
+    "excerpt": "US military says it intercepted and responded to &#039;unprovoked&#039; Iranian attack, stressing that it doesn&#039;t seek escalation.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-07T22:44:16.467696+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss"
+  },
+  {
+    "id": "3d0a51dd296d",
+    "source": "PressTV",
+    "date": "2026-05-07T22:44",
+    "headline": "Iranian forces strike US vessels in swift retaliation for tanker attack: Top military command",
+    "excerpt": "A spokesperson for the Khatam al-Anbiya Central Headquarters said Thursday that Iranian forces delivered an immediate, decisive response to US military aggressions in the Strait of Hormuz and along Iran's southern coastline",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-07T22:44:18.253968+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/07/768234/iranian-forces-struck-us-vessels-swift-retaliation-tanker-attack-top-command"
+  },
+  {
+    "id": "02f7a8a7498d",
+    "source": "PressTV",
+    "date": "2026-05-07T22:44",
+    "headline": "US destroyers flee Strait of Hormuz after massive Iranian missile and drone barrage: IRGC Navy",
+    "excerpt": "IRGC Navy says its forces inflicted significant damage on US naval assets in a large-scale combined operation on Thursday evening, forcing three American destroyers to flee the Strait of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-07T22:44:18.254008+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/07/768236/us-destroyers-flee-strait-hormuz-massive-iranian-missile-drone-barrage-irgc-navy"
+  },
+  {
     "id": "02d13fa7c7cf",
     "source": "Al Jazeera",
     "date": "2026-05-07T21:11",
@@ -5454,49 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-04-29T11:04:57.955338+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/3-year-old-rescued-after-falling-into-18-metre-deep-well-in-syria?traffic_source=rss"
-  },
-  {
-    "id": "7398aca9e9b8",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T08:55",
-    "headline": "Indonesia puts four soldiers on trial over acid attack on activist",
-    "excerpt": "The accused face up to 12 years in prison for the attack that burned one-fifth of activist Andrie Yunus&#039;s body.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-29T11:04:57.955377+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/29/indonesia-court-starts-trial-of-soldiers-accused-of-acid-attack-on-activist?traffic_source=rss"
-  },
-  {
-    "id": "cae17d2bc5d5",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T06:02",
-    "headline": "Can Russia serve as an economic lifeline for Iran amid the Hormuz blockade?",
-    "excerpt": "Analysts say that Moscow could offer a &#039;lifeline&#039; but  logistical issues, costs offer little incentive in the long-run.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T11:04:57.955425+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/29/can-russia-serve-as-an-economic-lifeline-for-iran-amid-the-hormuz-blockade?traffic_source=rss"
-  },
-  {
-    "id": "928e8a5ae298",
-    "source": "PressTV",
-    "date": "2026-04-29T11:04",
-    "headline": "Iranian oil being sold at twice the contracted price: MP",
-    "excerpt": "Ghodrati says the country’s oil is being sold at twice the contracted price.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T11:04:59.773605+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/29/767733/Oil-revenue-being-sold-twice-contracted-price-Iran-MP"
-  },
-  {
-    "id": "6a8cd65db233",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T08:25",
-    "headline": "‘Particularly badly exposed’: How the Iran war is hitting the UK",
-    "excerpt": "The likelihood of economic woes and unrest grows as the conflict shows no sign of ending.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T09:02:04.330730+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk?traffic_source=rss"
   }
 ]
