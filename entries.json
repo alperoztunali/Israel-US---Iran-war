@@ -1,5 +1,93 @@
 [
   {
+    "id": "02d13fa7c7cf",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T21:11",
+    "headline": "Explosions heard in Iran as state media reports clashes with US Navy",
+    "excerpt": "Iran&#039;s Tasnim agency says three US destroyers came under Iranian fire and fled Hormuz towards the Gulf of Oman.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-07T21:31:57.659512+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss"
+  },
+  {
+    "id": "3a393173ebdd",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T20:53",
+    "headline": "Senators press US military on Israel’s displacement campaign in Lebanon",
+    "excerpt": "In letter to CENTCOM commander, 12 Democrats raise questions about possible US role in Israel&#039;s &#039;mass evacuation zones&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-07T21:31:57.659566+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "a92221d90507",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T20:48",
+    "headline": "Armed fighters kill at least 30 people in attacks in central Mali",
+    "excerpt": "Several sources tell Reuters and AFP the al-Qaeda-affiliated assailants hit two villages in Mopti region on Wednesday.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-07T21:31:57.659595+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/armed-fighters-kill-at-least-30-people-in-attacks-in-central-mali?traffic_source=rss"
+  },
+  {
+    "id": "cdc739678fc2",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T20:37",
+    "headline": "Palestinians expose torture and sexual violence in Israeli detention",
+    "excerpt": "Palestinian detainees and rights groups share disturbing accounts of rape, sexual violence and physical abuse.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-07T21:31:57.659626+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss"
+  },
+  {
+    "id": "9aae09cdc7c7",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T20:10",
+    "headline": "Palestinian boy mourns father killed in Israeli strike on security post",
+    "excerpt": "A Palestinian boy mourns his father, one of three people killed in an Israeli strike on a security post in Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-07T21:31:57.659647+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/palestinian-boy-mourns-father-killed-in-israeli-strike-on-security-post?traffic_source=rss"
+  },
+  {
+    "id": "c106463f4f1d",
+    "source": "Al Jazeera",
+    "date": "2026-05-07T20:10",
+    "headline": "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
+    "excerpt": "Latest sanctions target military-controlled conglomerate, come as effective US fuel blockade continues.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-05-07T21:31:57.659689+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/7/us-issues-new-cuba-sanctions-as-un-experts-warn-of-energy-starvation?traffic_source=rss"
+  },
+  {
+    "id": "3662ae0d46b6",
+    "source": "PressTV",
+    "date": "2026-05-07T21:31",
+    "headline": "Iranian missiles force US aggressors to flee Strait of Hormuz after tanker attack",
+    "excerpt": "Iranian naval and missile forces have delivered a swift and precise response to yet another act of US aggression in the Strait of Hormuz, forcing enemy units to flee after sustaining damage, according to reports.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-07T21:31:59.864000+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/07/768232/Iranian-missiles-force-US-aggressors-to-flee-Strait-of-Hormuz-after-tanker-attack"
+  },
+  {
+    "id": "c905b669bcba",
+    "source": "PressTV",
+    "date": "2026-05-07T21:31",
+    "headline": "Enemy strikes Iran’s vital Qeshm Island pier; explosions heard in Bandar Abbas",
+    "excerpt": "An explosion has been reported at the Bahman Pier in the Qeshm island of Iran during an exchange of fire between Iranian armed forces and enemy troops.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-05-07T21:31:59.864047+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/07/768233/Enemy-strikes-Iran%E2%80%99s-vital-Qeshm-Island-pier--Israel-issues-hasty-denial"
+  },
+  {
     "id": "4e93994d57f8",
     "source": "Al Jazeera",
     "date": "2026-05-07T19:51",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-29T09:02:04.330730+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk?traffic_source=rss"
-  },
-  {
-    "id": "d7b06d5e70df",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T07:46",
-    "headline": "Is India’s Chabahar dream in Iran dead?",
-    "excerpt": "The port has been a centrepiece of India&#039;s regional strategic ambitions. Now, those hopes are sinking.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-29T09:02:04.330767+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/29/is-indias-chabahar-dream-in-iran-dead?traffic_source=rss"
-  },
-  {
-    "id": "65ca0757771b",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T07:00",
-    "headline": "Two Kashmir brothers: One killed by rebels, another by army 26 years later",
-    "excerpt": "The killings encapsulate the tragedy unfolding in region for decades, as the family grapples with unanswered questions.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-04-29T09:02:04.330797+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/29/two-kashmir-brothers-one-killed-by-rebels-another-by-army-26-years-later?traffic_source=rss"
-  },
-  {
-    "id": "a274d56bd982",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T06:58",
-    "headline": "Life in limbo: How Iranians navigate a state of ‘no war, no peace’",
-    "excerpt": "Tehran’s residents are living through a fragile truce and deep economic uncertainty.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-29T09:02:04.330831+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/29/life-in-limbo-how-iranians-navigate-a-state-of-no-war-no-peace?traffic_source=rss"
-  },
-  {
-    "id": "61a538e046e9",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T06:58",
-    "headline": "Iran war: What’s happening on day 61 as UAE exits OPEC?",
-    "excerpt": "Trump says Iran is in a &#039;state of collapse&#039; as Gulf leaders meet in Saudi Arabia.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T09:02:04.330861+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/29/iran-war-whats-happening-on-day-61-as-uae-exits-opec?traffic_source=rss"
-  },
-  {
-    "id": "b41406652e8d",
-    "source": "PressTV",
-    "date": "2026-04-29T09:02",
-    "headline": "Iran has every right to counter US piracy, terrorism: UN envoy",
-    "excerpt": "Iran's UN ambassador says the Islamic Republic reserves all rights to duly confront the United States' acts of state-sponsored piracy and terrorism.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-29T09:02:09.829649+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/29/767720/Iran-piracy-terrorism-United-States"
-  },
-  {
-    "id": "4bc45b173d1d",
-    "source": "PressTV",
-    "date": "2026-04-29T09:02",
-    "headline": "Yemen says not neutral on any new US 'adventurism' against Iran",
-    "excerpt": "Yemen has pledged support for Iran’s stance on the Strait of Hormuz, warning Trump against further adventurism in the region.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T09:02:09.829689+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/29/767723/Yemen-supports-Iran,-warns-Trump-against-adventurism,-barbarism-"
-  },
-  {
-    "id": "c0b53793123b",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T06:02",
-    "headline": "Can Russia serve as an economic lifeline for Iran amid the Hormuz blockade?",
-    "excerpt": "Analysts say that Moscow could offer a &#039;lifeline&#039; but  logistical issues, costs offer little incentive in the long-run.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T06:38:42.284561+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/29/can-russia-serve-as-an-economic-lifeline-for-iran-amid-the-hormuz-blockade?traffic_source=rss"
-  },
-  {
-    "id": "bff01ee1b242",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T05:10",
-    "headline": "Afghan students recount harrowing university strike",
-    "excerpt": "Afghan students have described the moment a missile hit their university. Officials blame Pakistan for Monday’s attack.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-29T06:38:42.284642+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/afghan-students-recount-harrowing-university-strike?traffic_source=rss"
   }
 ]
