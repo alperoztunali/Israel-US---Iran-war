@@ -1,5 +1,49 @@
 [
   {
+    "id": "59f0c9980bca",
+    "source": "Al Jazeera",
+    "date": "2026-05-08T14:10",
+    "headline": "Thousands run Palestine Marathon under shadow of Israel’s war on Gaza",
+    "excerpt": "Marathon draws 13,000 runners globally to amplify unity and resilience amid escalating violence in Gaza and West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-08T14:56:12.152597+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/5/8/thousands-run-palestine-marathon-under-shadow-of-israels-war-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "52f7e7897ed8",
+    "source": "Al Jazeera",
+    "date": "2026-05-08T13:41",
+    "headline": "Italy-US ties strained as pope and Iran war dominate talks",
+    "excerpt": "Rome balances US ties with domestic pressure as the Iran war strains the alliance and fuels economic fallout.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-08T14:56:12.152639+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/8/italy-us-ties-strained-as-pope-and-iran-war-dominate-talks?traffic_source=rss"
+  },
+  {
+    "id": "ad96ac01681b",
+    "source": "PressTV",
+    "date": "2026-05-08T14:56",
+    "headline": "Iranians never bow to pressure, says Araghchi after US ceasefire violations",
+    "excerpt": "Araghchi has warned that the United States tends to resort to military adventurism precisely when a diplomatic solution appears imminent.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-08T14:56:13.554680+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/08/768269/Iranians-never-bow-to-pressure--Foreign-Minister-Araghchi"
+  },
+  {
+    "id": "04bc50851b22",
+    "source": "PressTV",
+    "date": "2026-05-08T14:56",
+    "headline": "Iran blasts US ceasefire violations, says Washington trapped in ‘self-created quagmire’",
+    "excerpt": "Iran's Foreign Ministry says US acts of aggression against Iranian oil tankers and coastal infrastructure was a blatant violation of the ceasefire agreement.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-08T14:56:13.554721+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/08/768266/Iran-Foreign-Ministry-blasts-US-ceasefire-violations"
+  },
+  {
     "id": "e2ad7177ed1b",
     "source": "Al Jazeera",
     "date": "2026-05-08T12:22",
@@ -5454,49 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-29T21:34:04.542280+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/29/trump-vows-to-maintain-iran-blockade-tehran-threaten-practical-action?traffic_source=rss"
-  },
-  {
-    "id": "efc23ec1e2c3",
-    "source": "PressTV",
-    "date": "2026-04-29T21:34",
-    "headline": "Iran to soon confront enemy with a 'very dreadful weapon': Navy cmdr.",
-    "excerpt": "Iran's Navy commander says the Islamic Republic will \"very soon\" confront the enemy with a weapon \"it is deeply afraid of.\"",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T21:34:05.999031+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/29/767772/Iran-Navy-warning-United-States-weapon"
-  },
-  {
-    "id": "2b761df0f35a",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T19:39",
-    "headline": "US lawmakers question Pete Hegseth over budget for war on Iran",
-    "excerpt": "US Defense Secretary Pete Hegseth testified before Congress on the Pentagon’s budget for the US-Israeli war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T20:14:09.124192+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/us-lawmakers-question-pete-hegseth-over-budget-for-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "1c70064a98f8",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T19:38",
-    "headline": "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
-    "excerpt": "Pete Hegseth testifies alongside General Dan Caine, responds to questions on war Pentagon says has cost $25bn.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T20:14:09.124239+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss"
-  },
-  {
-    "id": "41b5f8c205e2",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T19:32",
-    "headline": "Two Jewish men stabbed in London ‘terrorist attack’",
-    "excerpt": "Two Jewish men were stabbed in north London, after a man armed with a knife was seen running through the area.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-29T20:14:09.124286+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss"
   }
 ]
