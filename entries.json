@@ -1,5 +1,16 @@
 [
   {
+    "id": "91a3fb0e9b67",
+    "source": "Al Jazeera",
+    "date": "2026-05-08T19:20",
+    "headline": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
+    "excerpt": "Israel has increased its attacks across southern Lebanon. Al Jazeera’s Obaida Hitto reports from Tyre.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-08T20:35:15.901079+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss"
+  },
+  {
     "id": "e396b65a7458",
     "source": "Al Jazeera",
     "date": "2026-05-08T18:07",
@@ -5487,16 +5498,5 @@
     "location": "Uae",
     "addedAt": "2026-04-29T22:39:47.257861+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss"
-  },
-  {
-    "id": "3b73b304b1ee",
-    "source": "PressTV",
-    "date": "2026-04-29T22:39",
-    "headline": "Iran to soon unveil a weapon the enemy is 'deeply afraid of': Navy commander",
-    "excerpt": "Iran's Navy commander says the Islamic Republic will \"very soon\" confront the enemy with a weapon \"it is deeply afraid of.\"",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T22:39:48.999598+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/29/767772/Iran-Navy-warning-United-States-weapon"
   }
 ]
