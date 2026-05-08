@@ -1,5 +1,27 @@
 [
   {
+    "id": "d967d879791b",
+    "source": "Al Jazeera",
+    "date": "2026-05-08T17:18",
+    "headline": "More than a dozen reported killed in Israeli attacks on south Lebanon",
+    "excerpt": "Israeli air raids on southern Lebanon escalate ahead of new round of talks expected next week in Washington, DC.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-08T17:52:44.787696+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "b26c06d08593",
+    "source": "Al Jazeera",
+    "date": "2026-05-08T16:19",
+    "headline": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
+    "excerpt": "Real do not impose sporting sanctions saying 500,000 euro fines concludes the &#039;internal procedures&#039; against the pair.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-05-08T17:52:44.787748+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight?traffic_source=rss"
+  },
+  {
     "id": "be011b9cb6e5",
     "source": "Al Jazeera",
     "date": "2026-05-08T15:33",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-29T22:39:48.999624+00:00",
     "link": "https://presstv.ir/Detail/2026/04/28/767667/explainer-how-irans-indigenous-fighter-breached-us-air-defenses-and-bombed-an-american-base"
-  },
-  {
-    "id": "74e78985fbf4",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T20:52",
-    "headline": "Trump: Putin offered to help settle Iranian nuclear enrichment impasse",
-    "excerpt": "Donald Trump said that Vladimir Putin told him he’d “like to be involved” in settling Iranian nuclear enrichment.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-29T21:34:04.542090+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/trump-putin-offered-to-help-settle-iranian-nuclear-enrichment-impasse?traffic_source=rss"
-  },
-  {
-    "id": "d898aae50dd9",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T20:51",
-    "headline": "Why is the UAE quitting OPEC – and what’s the impact?",
-    "excerpt": "The decision by the United Arab Emirates comes during the worst global energy crisis of modern times.",
-    "category": "Other",
-    "location": "Uae",
-    "addedAt": "2026-04-29T21:34:04.542139+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/4/29/why-is-the-uae-quitting-opec-and-whats-the-impact?traffic_source=rss"
   }
 ]
