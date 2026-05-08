@@ -1,5 +1,71 @@
 [
   {
+    "id": "e2ad7177ed1b",
+    "source": "Al Jazeera",
+    "date": "2026-05-08T12:22",
+    "headline": "Iran claims to have seized ‘offending’ oil tanker in Gulf of Oman",
+    "excerpt": "State TV releases a video of IRGC forces boarding and detaining the Barbados-flagged vessel, Ocean Koi.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-08T12:54:29.755094+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports?traffic_source=rss"
+  },
+  {
+    "id": "a2ef8195813a",
+    "source": "Al Jazeera",
+    "date": "2026-05-08T11:47",
+    "headline": "What we know about Iran’s response to the latest US ceasefire proposal",
+    "excerpt": "Iran has not formally responded, but officials indicate a large divide remains between the two sides.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-08T12:54:29.755169+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal?traffic_source=rss"
+  },
+  {
+    "id": "6c9496f495d9",
+    "source": "Al Jazeera",
+    "date": "2026-05-08T11:45",
+    "headline": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’",
+    "excerpt": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’, says analyst",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-08T12:54:29.755218+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/sexual-violence-against-palestinians-in-israeli-prisons-is?traffic_source=rss"
+  },
+  {
+    "id": "c9949e7fed68",
+    "source": "Al Jazeera",
+    "date": "2026-05-08T11:15",
+    "headline": "After 18 months of mourning, a Gaza son is found alive in an Israeli prison",
+    "excerpt": "A Gaza family&#039;s nightmare ends after discovering their &#039;martyred&#039; son alive in an Israeli prison.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-08T12:54:29.755248+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/8/after-18-months-of-mourning-a-gaza-son-is-found-alive-in-israeli-prison?traffic_source=rss"
+  },
+  {
+    "id": "73cebb2eaef9",
+    "source": "PressTV",
+    "date": "2026-05-08T12:54",
+    "headline": "‘Bared fangs are not a smile’: Iran Navy repels US destroyers from Strait of Hormuz",
+    "excerpt": "Iran's Army Navy struck American destroyers with cruise missiles and combat drones near the Strait of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-08T12:54:31.502064+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/08/768247/Iran-Navy-repels-US-destroyers-from-Strait-of-Hormuz-as-Tehran-warns-bared-fangs-not-a-smile"
+  },
+  {
+    "id": "112713297038",
+    "source": "PressTV",
+    "date": "2026-05-08T12:54",
+    "headline": "Iran Navy seizes oil tanker Ocean Koi off Gulf of Oman over maritime violations",
+    "excerpt": "The Iranian Navy seizes the Ocean Koi oil tanker in the Gulf of Oman for attempting to disrupt Iran’s oil exports.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-08T12:54:31.502106+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/08/768264/Iran-Navy-seizes-oil-tanker-Ocean-Koi-off-Oman-over-violations"
+  },
+  {
     "id": "bfabba382048",
     "source": "Al Jazeera",
     "date": "2026-05-08T10:45",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-29T20:14:09.124286+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss"
-  },
-  {
-    "id": "900847ef38c9",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T19:24",
-    "headline": "Indonesian soldiers on trial after acid attack on activist",
-    "excerpt": "Four Indonesian soldiers are on trial for an acid attack on a prominent activist in Jakarta.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-29T20:14:09.124324+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss"
-  },
-  {
-    "id": "6ec28437cc05",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T19:08",
-    "headline": "CCTV footage shows moment Israeli strike targets Palestinians",
-    "excerpt": "Surveillance cameras captured the moment an Israeli strike hit a group of Palestinians in Gaza City on Friday.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-29T20:14:09.124355+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/cctv-footage-shows-moment-israeli-strike-targets-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "262ed74e9051",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T19:00",
-    "headline": "Trump vows to maintain Iran blockade, Tehran threaten ‘practical’ action",
-    "excerpt": "US president says Washington&#039;s naval siege on Iranian ports is &#039;more effective than the bombing&#039; as oil price soars.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-04-29T20:14:09.124383+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/29/trump-vows-to-maintain-iran-blockade-tehran-threaten-practical-action?traffic_source=rss"
-  },
-  {
-    "id": "d5c90029a93a",
-    "source": "PressTV",
-    "date": "2026-04-29T20:14",
-    "headline": "Mass rallies across Iran signal national unity, support for leadership on Imam Reza anniversary",
-    "excerpt": "Iranians have taken to the streets of Tehran and other cities nationwide to renew their pledge of allegiance to Leader of the Islamic Revolution Sayyed Mojtaba Khamenei on the birth anniversary of Imam Reza, the eighth Shia Imam.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-04-29T20:14:10.653749+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/29/767767/Mass-rallies-across-Iran-signal-national-unity-support-for-leadership-on-Imam-Reza-anniversary"
-  },
-  {
-    "id": "4e189eeee656",
-    "source": "PressTV",
-    "date": "2026-04-29T20:14",
-    "headline": "Pentagon chief grilled in Congress over huge cost of war against Iran",
-    "excerpt": "US Defense Secretary Pete Hegseth was grilled by members of Congress over the enormous cost of the joint American-Israeli military aggression against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T20:14:10.653793+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/29/767766/US-Hegseth-Congress-hearing-Iran-war-costs"
-  },
-  {
-    "id": "22c6a577b3d0",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T17:47",
-    "headline": "UAE quits OPEC: What that means for the Gulf, energy markets and beyond",
-    "excerpt": "UAE signalling intent to pursue independent economic policies and reshape Gulf oil politics.",
-    "category": "Other",
-    "location": "Uae",
-    "addedAt": "2026-04-29T18:49:54.532578+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/29/uae-quits-opec-what-that-means-for-the-gulf-energy-markets-and-beyond?traffic_source=rss"
   }
 ]
