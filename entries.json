@@ -1,5 +1,49 @@
 [
   {
+    "id": "789c62534215",
+    "source": "Al Jazeera",
+    "date": "2026-05-08T03:03",
+    "headline": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
+    "excerpt": "Brent crude rises amid clashes in critical waterway.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-08T04:41:51.743685+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "fb7fba25b21d",
+    "source": "Al Jazeera",
+    "date": "2026-05-08T01:45",
+    "headline": "Seafarers trapped in limbo as US and Iran clash in Strait of Hormuz",
+    "excerpt": "Some 20,000 seafarers are stranded in the Gulf amid the closure of the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-08T04:41:51.743729+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo?traffic_source=rss"
+  },
+  {
+    "id": "562ddd70e38f",
+    "source": "PressTV",
+    "date": "2026-05-08T04:41",
+    "headline": "Russia rejects US-backed anti-Iran resolution at UN Security Council",
+    "excerpt": "Russia’s Permanent Representative to the United Nations, Vasily Nebenzya, has categorically rejected a US-proposed anti-Iran resolution at the UN Security Council.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-08T04:41:53.651469+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/08/768238/Russia-rejects-US-backed-anti-Iran-resolution-at-UN-Security-Council"
+  },
+  {
+    "id": "1c8e632f2b39",
+    "source": "PressTV",
+    "date": "2026-05-08T04:41",
+    "headline": "Hezbollah launches 13 strikes on invading Israeli forces in southern Lebanon",
+    "excerpt": "Lebanon’s Hezbollah resistance movement has carried out 13 targeted military operations against invading Israeli troops advancing into Lebanese territory.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-08T04:41:53.651513+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/08/768237/Hezbollah-launches-13-strikes-on-invading-Israeli-forces-in-southern-Lebanon"
+  },
+  {
     "id": "d700f82b08d6",
     "source": "Al Jazeera",
     "date": "2026-05-08T00:00",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-29T12:54:47.448558+00:00",
     "link": "https://www.aljazeera.com/sports/2026/4/29/iranian-officials-absent-from-pre-world-cup-football-events-in-canada?traffic_source=rss"
-  },
-  {
-    "id": "aca8952425ed",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T11:22",
-    "headline": "The UAE’s OPEC exit is not about oil; it is the end of Gulf solidarity",
-    "excerpt": "The move reflects a widening confrontation with Saudi Arabia and a fundamental realignment of alliances.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-04-29T12:54:47.448603+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/29/the-uaes-opec-exit-is-not-about-oil-it-is-the-end-of-gulf-solidarity?traffic_source=rss"
-  },
-  {
-    "id": "55e0a818b497",
-    "source": "PressTV",
-    "date": "2026-04-29T12:54",
-    "headline": "Continued US maritime piracy and banditry will face ‘practical, unprecedented’ response: Source",
-    "excerpt": "The continued American maritime piracy and banditry will soon be met with “practical and unprecedented military action,” a high-ranking security source told Press TV.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-29T12:54:49.263238+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/29/767743/continued-us-maritime-banditry-piracy-to-met-practical-unprecedented-response-source"
-  },
-  {
-    "id": "9cf92e8a8ca6",
-    "source": "PressTV",
-    "date": "2026-04-29T12:54",
-    "headline": "US gasoline prices hit four-year high as Europe faces jet fuel crisis amid war against Iran",
-    "excerpt": "New data has revealed that the US is currently facing a significant spike in gasoline prices, with the average cost reaching its highest point in nearly four years.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-04-29T12:54:49.263265+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/29/767742/US-gas-prices-surge-amid-geopolitical-tensions-refinery-disruptions"
-  },
-  {
-    "id": "f9db0354b798",
-    "source": "PressTV",
-    "date": "2026-04-29T12:54",
-    "headline": "Most Israeli settlers believe regime’s military ‘failed on all fronts’: Poll",
-    "excerpt": "A new poll has revealed that most Israeli settlers believe that the regime’s military has ‘failed on all fronts’ since at least October 2023.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-29T12:54:49.263295+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/29/767741/Most-Israeli-settlers-believe-regime%E2%80%99s-military-%E2%80%98failed-on-all-fronts%E2%80%99--Poll"
   }
 ]
