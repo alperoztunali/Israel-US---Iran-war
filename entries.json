@@ -1,5 +1,27 @@
 [
   {
+    "id": "996da901b43d",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T17:21",
+    "headline": "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
+    "excerpt": "Al Jazeera’s Tareq Abu Azzoum reports from Al-Shati Refugee Camp after overnight Israeli airstrikes.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-09T18:08:23.574600+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss"
+  },
+  {
+    "id": "af747640ae1b",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T17:07",
+    "headline": "Israeli attacks across Lebanon kill at least 19",
+    "excerpt": "No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-09T18:08:23.574643+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss"
+  },
+  {
     "id": "961eb4fb0492",
     "source": "Al Jazeera",
     "date": "2026-05-09T16:35",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-30T11:42:20.548690+00:00",
     "link": "https://presstv.ir/Detail/2026/04/30/767799/Leader-Persian-Gulf-Day-Message"
-  },
-  {
-    "id": "bcd21dddc66d",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T08:44",
-    "headline": "Pakistan opens up road trade routes into Iran amid Hormuz blockade",
-    "excerpt": "With shipping disrupted by US-Iran tensions, Islamabad activates overland corridor to move stranded cargo into Iran.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-30T09:53:09.779934+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/pakistan-opens-up-road-trade-routes-into-iran-amid-hormuz-blockade?traffic_source=rss"
-  },
-  {
-    "id": "b50a17a3323b",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T08:00",
-    "headline": "Rockets defeat Lakers in Reaves’s return, force Game 6 in NBA playoffs",
-    "excerpt": "Despite the return of star Austin Reaves, the LA Lakers were defeated by Houston Rockets in Game 5 of their series.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-04-30T09:53:09.779984+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/30/rockets-defeat-lakers-in-reavess-return-force-game-6-in-nba-playoffs?traffic_source=rss"
   }
 ]
