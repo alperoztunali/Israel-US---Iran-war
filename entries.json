@@ -1,5 +1,27 @@
 [
   {
+    "id": "8676409ce298",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T17:07",
+    "headline": "Israeli attacks across Lebanon kill at least 23",
+    "excerpt": "No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-09T20:27:19.922743+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss"
+  },
+  {
+    "id": "4100de61688a",
+    "source": "PressTV",
+    "date": "2026-05-09T20:27",
+    "headline": "Senior Iranian MP warns Bahrain not to risk closure of Hormuz Strait 'forever'",
+    "excerpt": "A senior Iranian lawmaker has warned Bahrain and other governments not to risk the closure of the Strait of Hormuz “forever” by supporting a US-led UN resolution against Iran.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-09T20:27:21.600251+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768331/Senior-Iranian-MP-warns-Bahrain-not-to-risk-closure-of-Hormuz-Strait--forever--"
+  },
+  {
     "id": "44e1dc58f58f",
     "source": "Al Jazeera",
     "date": "2026-05-09T19:16",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-30T13:10:10.829657+00:00",
     "link": "https://presstv.ir/Detail/2026/04/30/767799/Leader-Persian-Gulf-Day-Message"
-  },
-  {
-    "id": "705e4b693863",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T11:12",
-    "headline": "Will the Iran war reshape the global energy order?",
-    "excerpt": "As oil markets shift, OPEC&#039;s grip is under pressure, US exports rise, and China drives the push towards renewables.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-30T11:42:18.740479+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/30/will-the-iran-war-reshape-the-global-energy-order?traffic_source=rss"
-  },
-  {
-    "id": "fc8e6022bb0b",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T09:52",
-    "headline": "Civilians or Hezbollah: Who did Israel hit on Lebanon’s ‘Black Wednesday’?",
-    "excerpt": "Israel says it targeted Hezbollah, but experts say the evidence proves otherwise.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-30T11:42:18.740533+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/civilians-or-hezbollah-who-did-israel-hit-on-lebanons-black-wednesday?traffic_source=rss"
   }
 ]
