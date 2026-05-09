@@ -1,5 +1,38 @@
 [
   {
+    "id": "22ef6a9d3329",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T10:32",
+    "headline": "US military kills two people in new eastern Pacific Ocean attack",
+    "excerpt": "The killings mark the third attack in May alone by the US military in the eastern Pacific Ocean.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-09T11:12:57.088098+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss"
+  },
+  {
+    "id": "29bf7f19ff8d",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T10:19",
+    "headline": "Gaza at the Venice Biennale: Where language falls short, threads take over",
+    "excerpt": "I co-commissioned the Gaza Genocide Tapestry which will be displayed at the Venice Biennale. Here&#039;s the story behind it.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-09T11:12:57.088144+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over?traffic_source=rss"
+  },
+  {
+    "id": "760135c236e2",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T10:04",
+    "headline": "Scaled-back Victory Day parade held in Moscow",
+    "excerpt": "Russia marks downsized Victory Day parade as Putin pledges victory in Ukraine &#039;special military operation&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-09T11:12:57.088208+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/5/9/scaled-back-victory-day-parade-held-in-moscow?traffic_source=rss"
+  },
+  {
     "id": "dd9e9f6627c5",
     "source": "Al Jazeera",
     "date": "2026-05-09T09:14",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-30T04:59:22.186621+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats?traffic_source=rss"
-  },
-  {
-    "id": "21d8b1f4d3f5",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T01:16",
-    "headline": "Hundreds of Ultra-Orthodox Jews protest Israel’s military draft",
-    "excerpt": "Hundreds of Ultra-Orthodox Jews blocked a main road, as part of protests against Israel’s mandatory military service.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-30T04:59:22.186660+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss"
-  },
-  {
-    "id": "16999d3c3e02",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T00:00",
-    "headline": "Iran war live: Trump urges Tehran to ‘give up’; Ghalibaf mocks US strategy",
-    "excerpt": "Mohammad Bagher Ghalibaf ridicules US&#039;s economic pressure campaign as oil prices surge and Hormuz standoff continues.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-30T04:59:22.186702+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss"
-  },
-  {
-    "id": "a336b8603c54",
-    "source": "PressTV",
-    "date": "2026-04-30T04:59",
-    "headline": "Israeli forces intercept Gaza-bound flotilla in Mediterranean, organizers say",
-    "excerpt": "Israeli forces move to stop a large humanitarian flotilla bound for Gaza, intercepting several vessels in international waters.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-30T04:59:23.821627+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/30/767780/Israel-Gaza-Global-Sumud-Flotilla"
   }
 ]
