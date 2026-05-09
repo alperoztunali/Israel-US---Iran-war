@@ -1,5 +1,38 @@
 [
   {
+    "id": "9ddc8474aa4c",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T20:32",
+    "headline": "Palestinian family says settlers forced them to exhume father’s body",
+    "excerpt": "A Palestinian family in Jenin says Israeli settlers forced them to exhume their father hours after his funeral.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-09T21:23:44.165764+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss"
+  },
+  {
+    "id": "bddd1869be2e",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T20:29",
+    "headline": "Three police officers killed in car bomb attack in northwest Pakistan",
+    "excerpt": "Bomber and several fighters detonate explosives-laden vehicle near security post in Bannu, Khyber Pakhtunkhwa.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-09T21:23:44.165804+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss"
+  },
+  {
+    "id": "392127095d51",
+    "source": "PressTV",
+    "date": "2026-05-09T21:23",
+    "headline": "IRGC Navy: Any attack on Iranian vessels will trigger heavy response against US bases",
+    "excerpt": "The IRGC Navy has warned the US and its allies, saying that any attack on Iranian tankers or commercial vessels in the Persian Gulf or beyond will trigger a heavy and decisive response targeting American military centers in the region and enemy ships.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-09T21:23:45.850829+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768342/IRGC-Navy--Any-attack-on-Iranian-vessels-will-trigger-heavy-strike-on-US-bases-in-region"
+  },
+  {
     "id": "8676409ce298",
     "source": "Al Jazeera",
     "date": "2026-05-09T17:07",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-30T13:10:09.241330+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/4/30/russia-has-given-iran-something-more-important-than-weapons?traffic_source=rss"
-  },
-  {
-    "id": "82199f8861b7",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T11:54",
-    "headline": "Tracking the shadow fleet: How Iran evaded the US naval blockade in Hormuz",
-    "excerpt": "Iran&#039;s shadow fleet uses fake flags and dark ships to evade the US naval blockade in the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-04-30T13:10:09.241359+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/30/tracking-the-shadow-fleet-how-iran-evaded-the-us-naval-blockade-in-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "9192fc2ed835",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T11:42",
-    "headline": "Manchester United’s Kobbie Mainoo signs new five-year deal",
-    "excerpt": "England midfielder Kobbie Mainoo was heavily linked with a move away after losing place at Man Utd under Ruben Amorim.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-04-30T13:10:09.241403+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/30/manchester-uniteds-kobbie-mainoo-signs-new-five-year-deal?traffic_source=rss"
-  },
-  {
-    "id": "8e01ec831404",
-    "source": "PressTV",
-    "date": "2026-04-30T13:10",
-    "headline": "‘A new chapter’: Leader says Iran will determine ‘new legal rules’ in Strait of Hormuz",
-    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei has declared the dawn of a \"new chapter\" for the Strait of Hormuz.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-30T13:10:10.829657+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/30/767799/Leader-Persian-Gulf-Day-Message"
   }
 ]
