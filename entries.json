@@ -1,5 +1,27 @@
 [
   {
+    "id": "380087dac31d",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T21:10",
+    "headline": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
+    "excerpt": "Israel continues to violate a &#039;ceasefire&#039; agreed to in October with hundreds more killed across the Strip.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-09T22:09:18.594069+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss"
+  },
+  {
+    "id": "b9079ad2f78b",
+    "source": "PressTV",
+    "date": "2026-05-09T22:09",
+    "headline": "Missiles and drones locked on US targets: ‘Awaiting firing order,’ IRGC commander warns",
+    "excerpt": "The commander of the IRGC Aerospace Force has stated that Iran’s advanced missiles and aerospace drones are fully locked on American targets and enemy ships.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-09T22:09:20.816042+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768344/Missiles-and-drones-locked-on-US-targets--%E2%80%98Awaiting-firing-order,%E2%80%99-IRGC-commander-warns"
+  },
+  {
     "id": "9ddc8474aa4c",
     "source": "Al Jazeera",
     "date": "2026-05-09T20:32",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-30T15:24:05.122526+00:00",
     "link": "https://presstv.ir/Detail/2026/04/30/767813/IRGC--US-warships-will-burn-like-bases-if-Iran-attacked-again-"
-  },
-  {
-    "id": "392748bf7038",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T12:40",
-    "headline": "Israel kills nine people in southern Lebanon despite ‘ceasefire’",
-    "excerpt": "Israeli attacks and threats on southern Lebanon escalate, as Lebanese government calls out Israel&#039;s ceasefire violations",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-30T13:10:09.241284+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/israel-kills-nine-people-in-southern-lebanon-despite-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "545363d3eeda",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T12:38",
-    "headline": "Russia has given Iran something more important than weapons",
-    "excerpt": "Russia&#039;s political backing and objection to escalation have proved much more consequential in shaping the conflict.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-30T13:10:09.241330+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/30/russia-has-given-iran-something-more-important-than-weapons?traffic_source=rss"
   }
 ]
