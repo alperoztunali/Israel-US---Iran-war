@@ -1,5 +1,27 @@
 [
   {
+    "id": "44e1dc58f58f",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T19:16",
+    "headline": "Israeli settlers force Palestinian family to exhume and rebury their father",
+    "excerpt": "UN condemns confrontation in occupied West Bank as &#039;appalling and emblematic of the dehumanisation of Palestinians&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-09T19:35:06.390560+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss"
+  },
+  {
+    "id": "ef6e5eda5874",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T17:50",
+    "headline": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
+    "excerpt": "In Damascus, Lebanese prime minister and Syrian president discuss issues including security, transport and energy.",
+    "category": "Diplomatic",
+    "location": "Lebanon",
+    "addedAt": "2026-05-09T19:35:06.390614+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss"
+  },
+  {
     "id": "996da901b43d",
     "source": "Al Jazeera",
     "date": "2026-05-09T17:21",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-30T11:42:18.740533+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/30/civilians-or-hezbollah-who-did-israel-hit-on-lebanons-black-wednesday?traffic_source=rss"
-  },
-  {
-    "id": "3a5a428e8f60",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T09:46",
-    "headline": "Rise in caesarean section births in Gaza brings danger and infection risks",
-    "excerpt": "Caesarean Awareness Month is marked in April. Conditions in Gaza can lead to risks for mothers who undergo the procedure",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-04-30T11:42:18.740569+00:00",
-    "link": "https://www.aljazeera.com/features/2026/4/30/rise-in-caesarean-section-births-in-gaza-brings-danger-and-infection-risks?traffic_source=rss"
-  },
-  {
-    "id": "0a6458a73bf1",
-    "source": "PressTV",
-    "date": "2026-04-30T11:42",
-    "headline": "‘A new chapter’: Leaders says Iran will determine ‘new legal rules’ in Strait of Hormuz",
-    "excerpt": "Leader of the Islamic Revolution, declared the dawn of a \"new chapter\" for the strategic waterway.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-04-30T11:42:20.548690+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/30/767799/Leader-Persian-Gulf-Day-Message"
   }
 ]
