@@ -1,5 +1,38 @@
 [
   {
+    "id": "00c55996005f",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T00:00",
+    "headline": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
+    "excerpt": "Israel killed 31 people in southern Lebanon on Friday, including a rescue worker, Lebanon&#039;s National News Agency said.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-05-09T01:24:07.224971+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "40ee7596a325",
+    "source": "PressTV",
+    "date": "2026-05-09T01:24",
+    "headline": "Iran says reserves right to self-defense, protection against US's hostile naval maneuvers",
+    "excerpt": "Iran's UN envoy stresses the country's right to self-defense and taking due protective measures in the face of the US's hostile naval measures.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-09T01:24:09.021809+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/08/768289/Iran-United-States-Hormuz-Persian-Gulf-blockade"
+  },
+  {
+    "id": "2c2ccbe2587e",
+    "source": "PressTV",
+    "date": "2026-05-09T01:24",
+    "headline": "Trump seizes Venezuelan uranium as Iran objective remains elusive",
+    "excerpt": "Trump's administration reportedly oversees removal of Venezuelan uranium, while its efforts to forcibly rob Iran of its enriched uranium remain unsuccessful.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-09T01:24:09.021862+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768292/Trump-uranium-Venezuela-Iran"
+  },
+  {
     "id": "8aca082cc966",
     "source": "Al Jazeera",
     "date": "2026-05-08T22:31",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-29T23:38:23.315696+00:00",
     "link": "https://www.aljazeera.com/economy/2026/4/29/carney-strong-and-resolute-in-first-year-now-has-to-deliver-on-promises?traffic_source=rss"
-  },
-  {
-    "id": "8c1e965d4c58",
-    "source": "PressTV",
-    "date": "2026-04-29T23:38",
-    "headline": "New round of war to be catastrophic for US: Leader's advisor",
-    "excerpt": "A senior advisor to Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei says fresh aggression towards Iran will be \"catastrophic\" for the US.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-29T23:38:25.383125+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/29/767776/Iran-warning-United-States-war-Trump-Rezaei"
-  },
-  {
-    "id": "08c35e033ade",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T21:59",
-    "headline": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
-    "excerpt": "Organisers of a Gaza-bound aid mission say their vessels are being intercepted by Israeli military speedboats.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-29T22:39:47.257796+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss"
-  },
-  {
-    "id": "b63c1e28e651",
-    "source": "Al Jazeera",
-    "date": "2026-04-29T21:46",
-    "headline": "Israel intercepts Global Sumud boats, demands activists halt their mission",
-    "excerpt": "Seven out of 58 vessels captured by Israel near Crete as flotilla aims to deliver aid to Gaza under blockade.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-29T22:39:47.257829+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss"
   }
 ]
