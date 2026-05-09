@@ -1,5 +1,82 @@
 [
   {
+    "id": "8b5ed4bdd392",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T11:33",
+    "headline": "Displaced Lebanese children keep learning amid displacement",
+    "excerpt": "A school in Sidon is now home to displaced families from southern Lebanon, but classes are still running.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-05-09T12:04:29.601055+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss"
+  },
+  {
+    "id": "a9b4d1f0ea8d",
+    "source": "PressTV",
+    "date": "2026-05-09T12:04",
+    "headline": "Israeli strikes on southern Lebanon kill 20 more civilians",
+    "excerpt": "At least twenty people have been killed in the latest Israeli airstrikes against southern Lebanon, despite a ceasefire between the Beirut government and the Tel Aviv regime.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-09T12:04:31.379822+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768300/Israeli-strikes-southern-Lebanon-kill-20-more-civilians"
+  },
+  {
+    "id": "0af7a255aa74",
+    "source": "PressTV",
+    "date": "2026-05-09T12:04",
+    "headline": "Israeli settlers burn homes and cars in brutal West Bank raids",
+    "excerpt": "Israeli settlers have launched another wave of raids in the occupied West Bank, setting fire to Palestinian homes and cars.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-09T12:04:31.379858+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768309/Israeli-settlers-burn-homes-and-cars-in-brutal-West-Bank-raids"
+  },
+  {
+    "id": "ad27934cb5ce",
+    "source": "PressTV",
+    "date": "2026-05-09T12:04",
+    "headline": "US sanctions Chinese firms over alleged aid to Iran's defense sector",
+    "excerpt": "The US Treasury Department imposes sanctions on ten individuals and companies for their alleged involvement in helping Iran obtain weapons and the necessary raw materials for its Shahed drones and ballistic missiles.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-09T12:04:31.379878+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768297/US-imposes-new-sanctions-on-firms-over-alleged-aid-to-Iran-s-weapons-sector"
+  },
+  {
+    "id": "078a994cf33d",
+    "source": "PressTV",
+    "date": "2026-05-09T12:04",
+    "headline": "US intel community agreed Iran was not developing nukes before war: Ex-NCC chief",
+    "excerpt": "The US knew Iran was not developing a nuclear weapon before its attack, says the Trump administration’s former “counterterrorism” chief.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-09T12:04:31.379911+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768303/US-Intel-Agreed-Iran-was-not-developing-a-nuke-before-attack"
+  },
+  {
+    "id": "ae2e9f51eb03",
+    "source": "PressTV",
+    "date": "2026-05-09T12:04",
+    "headline": "Israel compels Palestinian family to exhume son’s grave, move body",
+    "excerpt": "Israeli forces have forced a Palestinian family in the northern part of the occupied West Bank to exhume their son’s grave and move the body to another location.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-09T12:04:31.379941+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768314/Israel-compels-Palestinian-family-exhume-son-grave-move-body"
+  },
+  {
+    "id": "3fc12d3cb3c2",
+    "source": "PressTV",
+    "date": "2026-05-09T12:04",
+    "headline": "MEP urges probe into US-Israeli massacre of Minab schoolgirls",
+    "excerpt": "A European parliamentarian calls for an investigation into the Minab school massacre.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-09T12:04:31.379965+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768294/European-parliamentarian-investigation-Minab-School-Massacre"
+  },
+  {
     "id": "22ef6a9d3329",
     "source": "Al Jazeera",
     "date": "2026-05-09T10:32",
@@ -5421,82 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-04-30T07:36:02.087783+00:00",
     "link": "https://presstv.ir/Detail/2026/04/30/767784/Iran-dismisses-GCC-anti-Iran-allegations-about-retaliatory-strikes-as-groundless"
-  },
-  {
-    "id": "7e339cbc5dc0",
-    "source": "PressTV",
-    "date": "2026-04-30T07:36",
-    "headline": "US ‘falsely portrayed’ Iran’s enriched uranium as danger to invade country: Envoy",
-    "excerpt": "The Iranian ambassador to the UN Office in Vienna says the United States “falsely portrayed” the Islamic Republic’s peaceful nuclear activities as a danger in a bid to wage two illegal acts of aggression against the country.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-30T07:36:02.087835+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/30/767782/US-%E2%80%98falsely-portrayed%E2%80%99-Iran%E2%80%99s-enriched-uranium-as-danger-to-invade-country--Envoy"
-  },
-  {
-    "id": "d69dfedc8d01",
-    "source": "PressTV",
-    "date": "2026-04-30T07:36",
-    "headline": "'No oil well exploded': Qalibaf warns US ‘junk advice’ pushing oil to $140",
-    "excerpt": "The Iranian Parliament speaker says the oil prices can jump to $140 if the US administration continues to pursue “junk” advices from people in his administration.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-30T07:36:02.087874+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/30/767781/-Next-stop--140,-no-oil-well-exploded---Qalibaf-warns-Trump-after-oil-explosion-claims"
-  },
-  {
-    "id": "901aecf205da",
-    "source": "PressTV",
-    "date": "2026-04-30T07:36",
-    "headline": "Pentagon’s $25 billion claim masks true cost of war on Iran as US losses mount: Sources",
-    "excerpt": "New revelations say the true financial and military toll of the US’s aggression against Iran is far higher than the Pentagon’s $25 billion estimate.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-30T07:36:02.087923+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/30/767783/Pentagon-25-billion-claim-masks-true-cost-war-on-Iran-as-US-losses-mount-Sources"
-  },
-  {
-    "id": "9a669b14a832",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T04:25",
-    "headline": "Video emerges of heavy firefight in Mali",
-    "excerpt": "Video has been published by Russian mercenaries showing a heavy gun battle between Mali’s military and rebels.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-30T04:59:22.186515+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/video-emerges-of-heavy-firefight-in-mali?traffic_source=rss"
-  },
-  {
-    "id": "c3f1840cff5a",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T04:06",
-    "headline": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
-    "excerpt": "US President Trump meets with oil firms over ways to minimise impact on fuel supplies amid US blockade of Iranian ports.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-30T04:59:22.186562+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss"
-  },
-  {
-    "id": "e92605998438",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T02:10",
-    "headline": "Israel seizes Global Sumud Flotilla boats 1,000km away from Gaza",
-    "excerpt": "Israeli forces have intercepted around a dozen Gaza-bound aid boats from the Global Sumud Flotilla.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-30T04:59:22.186588+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/israel-seizes-global-sumud-flotilla-boats-1000km-away-from-gaza?traffic_source=rss"
-  },
-  {
-    "id": "207ace8c913c",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T01:37",
-    "headline": "Pro-government rally in Tehran demands end to US threats",
-    "excerpt": "Hundreds of Iranians have rallied in Tehran to demand an end to US threats and the ongoing blockade of Iranian ports.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-04-30T04:59:22.186621+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats?traffic_source=rss"
   }
 ]
