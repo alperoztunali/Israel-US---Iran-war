@@ -1,5 +1,49 @@
 [
   {
+    "id": "68c159216bb7",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T14:06",
+    "headline": "Israel to release two detained Gaza flotilla activists",
+    "excerpt": "Lawyer representing Saif Abu Keshek and Thiago Avila tells Al Jazeera they will be &#039;released to their home countries&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-09T14:57:31.437453+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/9/israel-to-release-two-detained-gaza-flotilla-activists?traffic_source=rss"
+  },
+  {
+    "id": "3325a7c2d338",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T13:53",
+    "headline": "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
+    "excerpt": "The country&#039;s interior ministry said legal proceedings are under way against the 41 people arrested.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-09T14:57:31.437503+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss"
+  },
+  {
+    "id": "fdb1cd8b8943",
+    "source": "PressTV",
+    "date": "2026-05-09T14:57",
+    "headline": "US-Israeli strategy to weaken Iran’s core industries failed: Vice president",
+    "excerpt": "Iran’s Aref says the US and Israeli regime failed to weaken Iran’s primary industries through bombardment.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-05-09T14:57:34.053773+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768319/Iran-VP-Aref-steel-petrochemical-plants-US-Israel-aggression"
+  },
+  {
+    "id": "a3fff01c557f",
+    "source": "PressTV",
+    "date": "2026-05-09T14:57",
+    "headline": "Iran says it will participate in World Cup, demands hosts meet its conditions",
+    "excerpt": "Iran's football federation announces that the men's national team will participate in the 2026 World Cup this summer, but demands that the joint hosts, the United States, Mexico, and Canada, agree to its conditions.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-09T14:57:34.053821+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/09/768317/Iran-says-it-will-participate-in-World-Cup,-demands-hosts-meet-its-conditions"
+  },
+  {
     "id": "3d60e89d0e0b",
     "source": "Al Jazeera",
     "date": "2026-05-09T12:40",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-04-30T09:53:11.766787+00:00",
     "link": "https://presstv.ir/Detail/2026/04/30/767788/On-Persian-Gulf-Day,-Pezeshkian-says-naval-blockade-poses-threat-to-regional-interests,-global-peace-"
-  },
-  {
-    "id": "2a63627f738b",
-    "source": "PressTV",
-    "date": "2026-04-30T09:53",
-    "headline": "Pentagon’s $25 billion claim masks true cost of war on Iran as US losses mount: US media",
-    "excerpt": "New revelations say the true financial and military toll of the US’s aggression against Iran is far higher than the Pentagon’s $25 billion estimate.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-30T09:53:11.766845+00:00",
-    "link": "https://presstv.ir/Detail/2026/04/30/767783/Pentagon-25-billion-claim-masks-true-cost-war-on-Iran-as-US-losses-mount-Sources"
-  },
-  {
-    "id": "99e82c067f98",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T07:03",
-    "headline": "Could the US-Iran war become a protracted ‘frozen’ conflict?",
-    "excerpt": "In the absence of a permanent deal, the war between the US and Iran is becoming one of attrition despite huge costs.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-04-30T07:36:00.215750+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/could-the-us-iran-war-become-a-protracted-frozen-conflict?traffic_source=rss"
-  },
-  {
-    "id": "e38874d5e712",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T06:22",
-    "headline": "Iranian officials to miss FIFA Congress over alleged mistreatment in Canada",
-    "excerpt": "Iran&#039;s Mehdi Taj-led delegation turns back at Toronto airport due to &#039;unacceptable behaviour of immigration officials&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-30T07:36:00.215798+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/30/iran-football-officials-to-miss-fifa-congress-over-mistreatment-in-canada?traffic_source=rss"
-  },
-  {
-    "id": "e666464a8ca6",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T05:23",
-    "headline": "Europe’s little-known mutual defence clause: Is it a NATO substitute?",
-    "excerpt": "Several European leaders have called for a discussion on using the bloc&#039;s mutual assistance clause amid US tensions.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-04-30T07:36:00.215849+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/can-the-eus-article-42-7-offer-europe-nato-like-collective-defence?traffic_source=rss"
   }
 ]
