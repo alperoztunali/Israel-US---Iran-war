@@ -1,5 +1,27 @@
 [
   {
+    "id": "e8045be408cd",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T19:01",
+    "headline": "Gaza volunteers plant olive trees at devastated al-Shifa Hospital",
+    "excerpt": "Volunteers at al-Shifa Hospital cleared rubble and planted olive trees in the courtyard as a symbol of hope.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-10T19:46:48.420663+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss"
+  },
+  {
+    "id": "360124cd0a57",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T19:01",
+    "headline": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
+    "excerpt": "Israeli attacks are intensifying in southern Lebanon, with 552 killed since the &#039;ceasefire&#039; started on April 16.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-10T19:46:48.420700+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss"
+  },
+  {
     "id": "6bb4a618ac68",
     "source": "Al Jazeera",
     "date": "2026-05-10T17:29",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-01T09:13:47.273033+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/1/iran-vows-long-painful-response-if-us-renews-attacks?traffic_source=rss"
-  },
-  {
-    "id": "f39ab78ca784",
-    "source": "PressTV",
-    "date": "2026-05-01T09:13",
-    "headline": "Iran demands reparations from six Arab states for enabling aggression",
-    "excerpt": "Iran’s UN ambassador renews the call for holding to account the states that participated in the unjustified US-Israeli aggression against the Islamic Republic.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-01T09:13:48.921967+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/01/767836/All-states-complicit-in-US-Israeli-aggression-against-Iran-must-be-held-accountable-UN-envoy"
-  },
-  {
-    "id": "66f546c8729a",
-    "source": "PressTV",
-    "date": "2026-05-01T09:13",
-    "headline": "Iran slams US ‘moving goalposts’, disarray in decision-making",
-    "excerpt": "Tehran says shifting positions of the US negotiators, lack of coordination in decision-making in Washington, and also total collapse of trust between Iran and the US are among the main obstacles to reaching an agreement to end the war.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-01T09:13:48.922013+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/01/767833/Tehran-rebukes-Washington-moving-goalposts-disarray-in-decision-making-amid-stalled-talks"
   }
 ]
