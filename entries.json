@@ -1,5 +1,38 @@
 [
   {
+    "id": "6bb4a618ac68",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T17:29",
+    "headline": "Iran may ‘give assurances on the use of nuclear facilities’",
+    "excerpt": "Iran may negotiate on nuclear facilities, but it &#039;won&#039;t destroy uranium or allow it to be moved&#039;",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-10T18:39:10.816190+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss"
+  },
+  {
+    "id": "f8a9259e0053",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T17:22",
+    "headline": "Trump says US will not allow Iran to reach enriched uranium",
+    "excerpt": "US president says Washington has the nuclear material in Iran &#039;surveilled&#039; and will &#039;blow up&#039; anyone who gets near it.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-10T18:39:10.816241+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss"
+  },
+  {
+    "id": "273ab0271ed5",
+    "source": "PressTV",
+    "date": "2026-05-10T18:39",
+    "headline": "‘Restraint is over’: Iran vows decisive response to any attack on vessels",
+    "excerpt": "A senior Iranian parliamentary spokesman warns the United States and its regional allies not to sink themselves “deeper into the quagmire they have fallen into” in the Persian Gulf.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-10T18:39:12.542324+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/10/768379/%E2%80%98Restraint--over%E2%80%99--Iran-warns-decisive-response-to-any-attack-on-vessels"
+  },
+  {
     "id": "933615788913",
     "source": "Al Jazeera",
     "date": "2026-05-10T16:37",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-01T09:13:48.922013+00:00",
     "link": "https://presstv.ir/Detail/2026/05/01/767833/Tehran-rebukes-Washington-moving-goalposts-disarray-in-decision-making-amid-stalled-talks"
-  },
-  {
-    "id": "3beb537cdfa1",
-    "source": "Al Jazeera",
-    "date": "2026-05-01T06:42",
-    "headline": "Russia hammers targets across Ukraine overnight",
-    "excerpt": "Attacks on towns on the Black Sea and in central Ukraine kill one, injure several.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-01T07:14:29.649608+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight?traffic_source=rss"
-  },
-  {
-    "id": "f25a349b507f",
-    "source": "Al Jazeera",
-    "date": "2026-05-01T06:21",
-    "headline": "On May Day, Gaza’s workers find whatever source of income they can",
-    "excerpt": "Gaza&#039;s economic collapse leaves workers in perilous jobs, with unemployment soaring amid ongoing devastation.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-01T07:14:29.649660+00:00",
-    "link": "https://www.aljazeera.com/features/2026/5/1/on-may-day-gazas-workers-find-whatever-source-of-income-they-can?traffic_source=rss"
-  },
-  {
-    "id": "85de02078c92",
-    "source": "Al Jazeera",
-    "date": "2026-05-01T06:10",
-    "headline": "Why is piracy rising off Somalia again — and is the Iran war responsible?",
-    "excerpt": "At least four vessels have been hijacked in the past week or two, raising fears of a piracy resurgence.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-01T07:14:29.649696+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/1/why-is-piracy-rising-off-somalia-again-and-is-the-iran-war?traffic_source=rss"
   }
 ]
