@@ -1,5 +1,60 @@
 [
   {
+    "id": "a5cffbf4e331",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T08:21",
+    "headline": "Deadly car bomb attack hits checkpoint in northwest Pakistan",
+    "excerpt": "A suspected car bombing followed by a firefight at a police checkpoint has killed more than a dozen people in Bannu.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-10T09:06:23.330491+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/deadly-car-bomb-attack-hits-checkpoint-in-northwest-pakistan?traffic_source=rss"
+  },
+  {
+    "id": "8022ff53a280",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T08:18",
+    "headline": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
+    "excerpt": "Israel kills at least 24 people in Lebanon in one day as Tehran&#039;s response to US proposal to end the war is awaited.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-05-10T09:06:23.330527+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "fc9ab11cbbd9",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T07:56",
+    "headline": "Flotilla activists arrive in Turkiye before setting sail to Gaza",
+    "excerpt": "Over 30 Global Sumud Flotilla vessels have reached Marmaris on Turkiye’s coast, preparing for their mission to Gaza.",
+    "category": "Naval",
+    "location": "Gaza",
+    "addedAt": "2026-05-10T09:06:23.330564+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/flotilla-activists-arrive-in-turkiye-before-setting-sail-to-gaza?traffic_source=rss"
+  },
+  {
+    "id": "c63bc9389bea",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T07:46",
+    "headline": "Flotilla activist gives defiant message after Israel deports him to Greece",
+    "excerpt": "After a week in Israeli custody, flotilla activist Saif Abu Keshek has been deported to Greece.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-10T09:06:23.330601+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/flotilla-activist-gives-defiant-message-after-israel-deports-him-to-greece?traffic_source=rss"
+  },
+  {
+    "id": "c6517fc43325",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T07:13",
+    "headline": "Israel deports two Gaza aid flotilla activists",
+    "excerpt": "The pair was abducted by Israeli forces from the aid flotilla in late April and held in Israel.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-10T09:06:23.330629+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/10/israel-deports-two-gaza-aid-flotilla-activists?traffic_source=rss"
+  },
+  {
     "id": "aa0076d96ae7",
     "source": "Al Jazeera",
     "date": "2026-05-10T05:11",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-30T18:19:28.232359+00:00",
     "link": "https://www.aljazeera.com/video/the-take-2/2026/4/30/how-rebels-teamed-up-to-shake-mali-and-the-kremlins-grip?traffic_source=rss"
-  },
-  {
-    "id": "640112dc658b",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T14:59",
-    "headline": "Saudi Arabia to end LIV Golf funding, while league appoints new chairman",
-    "excerpt": "League says it wants to move towards an investment model involving multiple partners and team franchises.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-04-30T16:58:43.589654+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing?traffic_source=rss"
-  },
-  {
-    "id": "8d05ca36eef8",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T14:56",
-    "headline": "Iran, protests, human rights – all to know about the 76th FIFA Congress",
-    "excerpt": "The pre-World Cup congress will be headlined by geopolitical tensions, human rights concerns and logistical issues.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-30T16:58:43.589698+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/4/30/iran-protests-human-rights-all-to-know-about-the-76th-fifa?traffic_source=rss"
-  },
-  {
-    "id": "0074df8d2c26",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T14:50",
-    "headline": "From railways to energy — five strategic projects linking Gulf states",
-    "excerpt": "In the face of worsening geopolitical tensions, Gulf nations are resuming cooperative projects aimed to mitigate risks",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-30T16:58:43.589734+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/4/30/from-railways-to-energy-five-strategic-projects-linking-gulf?traffic_source=rss"
-  },
-  {
-    "id": "902a036aa166",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T12:40",
-    "headline": "Israeli attacks kill 14 people in southern Lebanon despite ceasefire",
-    "excerpt": "Israeli attacks and threats on southern Lebanon escalate, as Lebanese government calls out Israel&#039;s ceasefire violations",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-30T16:58:43.589776+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/israel-kills-nine-people-in-southern-lebanon-despite-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "138be963af9d",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T14:42",
-    "headline": "‘Act of piracy’: World reacts to Israeli interception of Gaza aid flotilla",
-    "excerpt": "World leaders condemn the interception of the boats bound for Gaza as violating international law.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-04-30T15:24:03.521953+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/act-of-piracy-world-reacts-to-israeli-interception-of-gaza-aid-flotilla?traffic_source=rss"
   }
 ]
