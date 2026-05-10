@@ -1,5 +1,60 @@
 [
   {
+    "id": "aa0076d96ae7",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T05:11",
+    "headline": "Two wins, two losses: What India, Pakistan have learned a year after war",
+    "excerpt": "India and Pakistan each claim strategic successes after the four-day conflict, as tensions continue to simmer.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-10T07:13:01.077540+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war?traffic_source=rss"
+  },
+  {
+    "id": "4a9d40ee0db4",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T04:25",
+    "headline": "Person dies after being hit by plane at Denver airport",
+    "excerpt": "A Frontier Airlines plane has hit and killed a person at Denver’s international airport.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-10T07:13:01.077587+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/person-dies-after-being-hit-by-plane-at-denver-airport?traffic_source=rss"
+  },
+  {
+    "id": "e6643aa5f17d",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T20:29",
+    "headline": "Car bomb attack and ambush in northwest Pakistan kills at least 12 police",
+    "excerpt": "Bomber and several fighters detonate explosives-laden vehicle near security post in Bannu, Khyber Pakhtunkhwa.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-10T07:13:01.077629+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss"
+  },
+  {
+    "id": "80993cbc1740",
+    "source": "PressTV",
+    "date": "2026-05-10T07:13",
+    "headline": "Ben-Gvir named 'hangman of the century' for advocating execution of Palestinians",
+    "excerpt": "A human rights group describes Israel’s so-called security minister, Itamar Ben-Gvir, as the “hangman of the century” over his push for the execution of Palestinian abductees.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-05-10T07:13:03.743074+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/10/768357/Far-right-Israeli-minister-called-hangman-of-the-century-for-advocating-execution-of-Palestinians"
+  },
+  {
+    "id": "753000298255",
+    "source": "PressTV",
+    "date": "2026-05-10T07:13",
+    "headline": "Young Palestinian man fatally stabbed near al-Quds checkpoint",
+    "excerpt": "A young Palestinian man has been stabbed to death in an attack near a checkpoint in the Israeli-occupied al-Quds.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-10T07:13:03.743109+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/10/768358/Young-Palestinian-man-fatally-stabbed-near-al-Quds-checkpoint-"
+  },
+  {
     "id": "cfeaad4c0bbe",
     "source": "Al Jazeera",
     "date": "2026-05-10T01:23",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-04-30T15:24:03.521953+00:00",
     "link": "https://www.aljazeera.com/news/2026/4/30/act-of-piracy-world-reacts-to-israeli-interception-of-gaza-aid-flotilla?traffic_source=rss"
-  },
-  {
-    "id": "2445c2fa47a1",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T13:47",
-    "headline": "US military equipment worth billions of dollars destroyed in Iran war",
-    "excerpt": "The United States lost aerial equipment worth up to $2.8bn, according to a US-based think tank.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-30T15:24:03.522000+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/us-military-equipment-worth-billions-of-dollars-destroyed-in-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "0e33922fdad2",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T13:44",
-    "headline": "Indonesian soldiers accused of acid attack. What happened and why?",
-    "excerpt": "Analysts say the attack is part of a wider pattern of repression amid concerns over the growing role of the military.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-30T15:24:03.522039+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/indonesian-soldiers-accused-of-acid-attack-what-happened-and-why?traffic_source=rss"
-  },
-  {
-    "id": "63108a3c8b92",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T13:36",
-    "headline": "Hormuz effect? How US, China are ramping up tensions over the Panama Canal",
-    "excerpt": "Rising tensions over Panama Canal prompt US-China showdown in global shipping power struggle.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-04-30T15:24:03.522083+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/hormuz-effect-how-us-china-are-ramping-up-tensions-over-the-panama-canal?traffic_source=rss"
-  },
-  {
-    "id": "4220ff31b6b0",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T13:35",
-    "headline": "Was Israeli PM’s Lebanon destruction video a snub to Trump?",
-    "excerpt": "Hours after Trump asked Netanyahu to stop destroying buildings in Lebanon, Israel&#039;s leader posted a destruction montage.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-04-30T15:24:03.522120+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/was-israeli-pms-lebanon-destruction-video-a-snub-to-trump-2?traffic_source=rss"
-  },
-  {
-    "id": "bb716c580069",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T13:24",
-    "headline": "Anti-immigrant attacks and protests in South Africa",
-    "excerpt": "Anti-immigrant attacks and protests in South Africa",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-04-30T15:24:03.522154+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/anti-immigrant-attacks-and-protests-in-south-africa?traffic_source=rss"
   }
 ]
