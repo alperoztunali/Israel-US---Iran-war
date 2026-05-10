@@ -1,5 +1,38 @@
 [
   {
+    "id": "cfeaad4c0bbe",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T01:23",
+    "headline": "Satellite images show likely oil slick off Iran’s Kharg Island",
+    "excerpt": "Satellite images have captured a suspected oil slick spanning dozens of square kilometres near Iran’s Kharg Island.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-10T04:17:03.060299+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss"
+  },
+  {
+    "id": "d79b2ee0af76",
+    "source": "Al Jazeera",
+    "date": "2026-05-10T00:00",
+    "headline": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
+    "excerpt": "US-Iran ceasefire holds as Tehran warns Washington against attacks on tankers and Israel kills 24 people in Lebanon.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-05-10T04:17:03.060333+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "bf76512e0d39",
+    "source": "Al Jazeera",
+    "date": "2026-05-09T17:07",
+    "headline": "Israeli attacks across Lebanon kill at least 24",
+    "excerpt": "No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-10T04:17:03.060384+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss"
+  },
+  {
     "id": "26a034d5ae9a",
     "source": "PressTV",
     "date": "2026-05-10T00:06",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-04-30T15:24:03.522154+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/anti-immigrant-attacks-and-protests-in-south-africa?traffic_source=rss"
-  },
-  {
-    "id": "b1edc70c6359",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T13:00",
-    "headline": "Why are Western feminists silent on the war on Iranian women?",
-    "excerpt": "Those who backed Iranian women’s protests against compulsory hijab are silent as those same women are killed.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-04-30T15:24:03.522179+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/4/30/why-are-western-feminists-silent-on-the-war-on-iranian-women?traffic_source=rss"
-  },
-  {
-    "id": "7bb78b0b3ef9",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T12:53",
-    "headline": "$25bn or $1 trillion: How much has Iran war really cost the US?",
-    "excerpt": "Heated exchange on Capitol Hill reflects growing unease among lawmakers over a lack of transparency in cost of Iran war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-04-30T15:24:03.522218+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/25bn-or-1-trillion-how-much-has-iran-war-really-cost-the-us?traffic_source=rss"
-  },
-  {
-    "id": "e24fa9585b35",
-    "source": "Al Jazeera",
-    "date": "2026-04-30T12:52",
-    "headline": "World’s top media outlets urge Israel to allow independent access to Gaza",
-    "excerpt": "Israel continues to deny foreign reporters access to the Gaza Strip despite a &#039;ceasefire&#039; being in place.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-04-30T15:24:03.522252+00:00",
-    "link": "https://www.aljazeera.com/news/2026/4/30/media-organisations-call-on-israel-to-allow-independent-access-to-gaza?traffic_source=rss"
   }
 ]
