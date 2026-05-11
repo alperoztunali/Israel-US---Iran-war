@@ -1,5 +1,27 @@
 [
   {
+    "id": "1b7d89e018b3",
+    "source": "Al Jazeera",
+    "date": "2026-05-11T02:50",
+    "headline": "Gaza documentary dropped by the BBC wins BAFTA",
+    "excerpt": "A documentary exposing Israel&#039;s attacks on Gaza&#039;s health system and personnel won Best Current Affairs at the BAFTAs.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-11T04:16:48.375315+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/gaza-documentary-dropped-by-the-bbc-wins-bafta?traffic_source=rss"
+  },
+  {
+    "id": "b4112169c2bb",
+    "source": "Al Jazeera",
+    "date": "2026-05-11T00:00",
+    "headline": "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon",
+    "excerpt": "US president says Tehran&#039;s response &#039;unacceptable&#039;, as Iranian military warns it is ready if US-Israel war resumes.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-11T04:16:48.375356+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss"
+  },
+  {
     "id": "422799cc3e4b",
     "source": "PressTV",
     "date": "2026-05-10T22:54",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-01T12:01:58.278988+00:00",
     "link": "https://presstv.ir/Detail/2026/05/01/767846/Largest-US-aircraft-carrier-Ford-to-return-home-Report"
-  },
-  {
-    "id": "028e58bafece",
-    "source": "Al Jazeera",
-    "date": "2026-05-01T10:13",
-    "headline": "Who profits big from the war on Iran?",
-    "excerpt": "Who profits big from the war on Iran?",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-01T10:46:26.787606+00:00",
-    "link": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "f8362dfa4a89",
-    "source": "Al Jazeera",
-    "date": "2026-05-01T10:11",
-    "headline": "Oil prices rise again with little sign of war on Iran ending",
-    "excerpt": "Brent crude futures hit $126.41 on Thursday - a 5 percent rise for the week.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-01T10:46:26.787649+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss"
   }
 ]
