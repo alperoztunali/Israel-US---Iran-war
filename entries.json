@@ -1,5 +1,60 @@
 [
   {
+    "id": "a43d70df164f",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T18:02",
+    "headline": "Serbia hosts first joint military exercise with NATO",
+    "excerpt": "The two-week-long drills come less than 30 years after NATO bombed Belgrade in the Kosovo war.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-12T19:22:44.252665+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss"
+  },
+  {
+    "id": "43e7c023660d",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T17:49",
+    "headline": "Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy",
+    "excerpt": "Mike Huckabee calls on Gulf states to &#039;pick a side&#039; in the war between Israel and Iran as he heaps praise on Abu Dhabi.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-12T19:22:44.252701+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy?traffic_source=rss"
+  },
+  {
+    "id": "6fb355fbf3cd",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T17:37",
+    "headline": "US faces rising costs with Iran war driving energy prices, inflation higher",
+    "excerpt": "Consumer prices spike in April, driven by soaring energy costs, with petrol prices up nearly 30 percent since last year.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-12T19:22:44.252740+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss"
+  },
+  {
+    "id": "b9ebcd463028",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T17:28",
+    "headline": "Inside US Democrats’ Gaza fight – and what it means for 2028 elections",
+    "excerpt": "Support for Israel was once untouchable in US politics. Now Democrats are divided. Is this a turning point for the party",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-12T19:22:44.252780+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/12/aje-onl-tt_usa_palandthedemocrats_av_v3-110526?traffic_source=rss"
+  },
+  {
+    "id": "08d902e3dd79",
+    "source": "PressTV",
+    "date": "2026-05-12T19:22",
+    "headline": "Trump dismissed Iran’s response since it wasn’t a ‘letter of surrender’: Official",
+    "excerpt": "The United States rejected Iran’s latest peace proposal solely because it was not a “letter of surrender,” a senior Iranian diplomat has said.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-12T19:22:45.992236+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/12/768516/US-rejected-our-response-because-it-wasnt-a-letter-of-surrender-Iran-deputy-FM"
+  },
+  {
     "id": "76debeacaac7",
     "source": "Al Jazeera",
     "date": "2026-05-12T16:33",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-03T13:23:45.324828+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/3/gaza-flotilla-activists-appear-in-israeli-court-allege-torture-in-custody?traffic_source=rss"
-  },
-  {
-    "id": "139d78a26e22",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T09:57",
-    "headline": "Ukraine drone attack hits Russian Baltic port",
-    "excerpt": "President Volodymyr Zelenskyy said attack was &#039;successful destruction&#039; of the port, as Russia warns of oil price rises.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-03T13:23:45.324867+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss"
-  },
-  {
-    "id": "7c39b29c7068",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T11:10",
-    "headline": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
-    "excerpt": "Trump is reviewing Iran&#039;s latest proposal to end the war, but the mistrust between the two sides is a big obstacle.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-03T11:53:31.952087+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss"
-  },
-  {
-    "id": "929a47572968",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T10:36",
-    "headline": "Strait of Hormuz blockade and other major naval sieges in modern times",
-    "excerpt": "Naval blockades are among the oldest weapons of war, using sea control to cut supplies and force an enemy’s surrender.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-03T11:53:31.952136+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss"
-  },
-  {
-    "id": "59a0ff552263",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T10:35",
-    "headline": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
-    "excerpt": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-03T11:53:31.952166+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/hospitals-in-lebanon-overwhelmed-with-patients-injured-by-israeli-attacks?traffic_source=rss"
-  },
-  {
-    "id": "7cb28f6f6f82",
-    "source": "PressTV",
-    "date": "2026-05-03T11:53",
-    "headline": "IRGC: Trump has to choose between ‘impossible’ war or ‘bad deal’ with Iran",
-    "excerpt": "The IRGC says the United States now faces a sharply narrowed choice between an “impossible military operation” against Iran and a “bad deal” with the country.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-03T11:53:33.581227+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/03/767964/Room-for-US-decision-making-narrowed-between-impossible-war-bad-Iran-deal-IRGC"
   }
 ]
