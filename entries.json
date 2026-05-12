@@ -1,5 +1,49 @@
 [
   {
+    "id": "6ab27759b46d",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T03:26",
+    "headline": "Lebanese in south refuse to flee again despite escalating Israeli strikes",
+    "excerpt": "Obaida Hitto reports from southern Lebanon, where residents say they will not leave again despite intensifying strikes.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-12T04:09:08.575195+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss"
+  },
+  {
+    "id": "94d0a1bca458",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T01:58",
+    "headline": "Syria restores credit card payments in effort to rejoin the global economy",
+    "excerpt": "Syria restores credit card payments in effort to rejoin the global economy.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-05-12T04:09:08.575241+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/syria-restores-credit-card-payments-in-effort-to-rejoin-the-global-economy?traffic_source=rss"
+  },
+  {
+    "id": "82cf5ff98654",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T00:00",
+    "headline": "Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread",
+    "excerpt": "Iran&#039;s powerful parliamentary speaker says US has &#039;no alternative but to accept&#039; Tehran&#039;s 14-point proposal to end war.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-12T04:09:08.575275+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss"
+  },
+  {
+    "id": "989eec7a6d19",
+    "source": "PressTV",
+    "date": "2026-05-12T04:09",
+    "headline": "Iran blasts US-proposed UN resolution on Strait of Hormuz",
+    "excerpt": "Iran has sharply condemned Washington’s latest attempt to push a draft resolution through the UN Security Council on the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-12T04:09:10.949579+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/12/768461/Iran%E2%80%99s-deputy-foreign-minister-blasts-US-proposed-UN-resolution-on-Strait-of-Hormuz"
+  },
+  {
     "id": "5bdf55e851c8",
     "source": "PressTV",
     "date": "2026-05-11T23:13",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-02T17:07:52.403511+00:00",
     "link": "https://presstv.ir/Detail/2026/05/02/767921/No-limit-on-uranium-enrichment-level-under-IAEA-supervision-Iran-s-UN-mission"
-  },
-  {
-    "id": "c981576d3fba",
-    "source": "PressTV",
-    "date": "2026-05-02T17:07",
-    "headline": "China blocks US sanctions on refineries buying Iranian oil",
-    "excerpt": "Ministry of Commerce has issued an injunction to block US sanctions imposed on five Chinese refineries.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-02T17:07:52.403550+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/02/767923/China-blocks-US-sanctions-on-refineries-buying-Iranian-oil"
-  },
-  {
-    "id": "37d3093b9d16",
-    "source": "Al Jazeera",
-    "date": "2026-05-02T12:55",
-    "headline": "Israeli air strikes kill 41 people in Lebanon in 24-hour window",
-    "excerpt": "Death toll from Israeli attacks on Lebanon since March 2 has reached 2,659, with 8,183 others injured.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-02T16:01:55.226774+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "a6079df03a40",
-    "source": "Al Jazeera",
-    "date": "2026-05-02T14:23",
-    "headline": "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
-    "excerpt": "Murder rates in Israel&#039;s Palestinian areas soar, fueling allegations of state complicity and neglect.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-02T15:00:59.255437+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss"
-  },
-  {
-    "id": "08d8dbd06e24",
-    "source": "PressTV",
-    "date": "2026-05-02T15:01",
-    "headline": "Iran's undeclared factors could turn any new aggression into bigger defeat for US: Analysis",
-    "excerpt": "Amid a fragile ceasefire and enemy desperation to resume all-out war on Iran, multiple factors could inflict a larger US defeat if it resorts to another military adventure, a Press TV analysis reveals.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-02T15:01:00.905291+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/02/767907/iran-undeclared-factors-could-turn-new-aggression-bigger-defeat-us-analysis"
   }
 ]
