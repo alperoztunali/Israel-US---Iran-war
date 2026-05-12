@@ -1,5 +1,82 @@
 [
   {
+    "id": "57f150eb96ad",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T11:39",
+    "headline": "Can China counter US sanctions with its trade power?",
+    "excerpt": "From sanctions to rare earths, the economic rivalry between the US and China is intensifying.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-05-12T12:18:44.517376+00:00",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/12/can-china-counter-us-sanctions-with-its-trade-power?traffic_source=rss"
+  },
+  {
+    "id": "75665bebe85d",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T10:48",
+    "headline": "Over 370 Afghans killed in Pakistan conflict in first 3 months of 2026: UN",
+    "excerpt": "Fighting between the Taliban and Pakistani forces intensified in February, with many civilians killed in air raids.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-12T12:18:44.517417+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/12/over-370-afghans-killed-in-pakistan-conflict-in-first-3-months-of-2026-un?traffic_source=rss"
+  },
+  {
+    "id": "cfbf92503fc4",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T10:33",
+    "headline": "USA’s Johnny Cardoso expected to miss World Cup through ankle injury",
+    "excerpt": "Atletico Madrid midfielder Cardoso is the latest name in the growing list of injured players for tournament cohosts USA.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-12T12:18:44.517454+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/12/usas-johnny-cardoso-expected-to-miss-world-cup-through-ankle-injury?traffic_source=rss"
+  },
+  {
+    "id": "486b63d48093",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T10:31",
+    "headline": "At least nine people killed in explosion at Pakistan market",
+    "excerpt": "About 30 people wounded in blast in town of Sarai Naurang, in Lakki Marwat district, northwestern Pakistan.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-12T12:18:44.517480+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/12/at-least-nine-people-killed-in-explosion-at-pakistan-market?traffic_source=rss"
+  },
+  {
+    "id": "232f8c85407d",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T09:55",
+    "headline": "Mass wedding brings brief joy to couples in devastated Gaza",
+    "excerpt": "Palestinian couples gathered for a mass wedding ceremony in Gaza organised amid rubble and displacement.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-12T12:18:44.517510+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/mass-wedding-brings-brief-joy-to-couples-in-devastated-gaza?traffic_source=rss"
+  },
+  {
+    "id": "a213b8038bed",
+    "source": "PressTV",
+    "date": "2026-05-12T12:18",
+    "headline": "Hezbollah leader says resistance drones are tightening noose on Israel",
+    "excerpt": "Sheikh Qassem praises resistance fighters for their retaliatory drone operations, stating the aircraft are closely monitoring all movements and have tightened the noose on Israeli forces.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-12T12:18:46.674335+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/12/768489/Hezbollah-chief-resistance-fighters-Your-drones-tightening-noose-Israel"
+  },
+  {
+    "id": "e94667b15fc9",
+    "source": "PressTV",
+    "date": "2026-05-12T12:18",
+    "headline": "Trump admits US sent weapons to fuel riots, terrorism inside Iran",
+    "excerpt": "The US president again admits to Washington's support for armed riots and terrorist activities inside Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-12T12:18:46.674375+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/12/768488/Trump-Iran-terrorism-riots-weapons"
+  },
+  {
     "id": "6a95f7f569f9",
     "source": "Al Jazeera",
     "date": "2026-05-12T09:40",
@@ -5421,82 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-03T03:52:46.932359+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss"
-  },
-  {
-    "id": "c02d5c23470d",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T00:00",
-    "headline": "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
-    "excerpt": "US president says he will &#039;soon be reviewing the plan Iran has just sent to us&#039;, but doesn&#039;t think he can make a deal.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-03T03:52:46.932394+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "e6733b341c51",
-    "source": "Al Jazeera",
-    "date": "2026-05-02T19:59",
-    "headline": "Khartoum drone strike kills five in Sudan, NGO reports",
-    "excerpt": "The attack, the second in a week, follows months of relative calm in the city after government forces regained control.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-03T03:52:46.932424+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss"
-  },
-  {
-    "id": "87f4f58b8986",
-    "source": "PressTV",
-    "date": "2026-05-03T03:52",
-    "headline": "Iran calls Trump's piracy boast 'direct admission' of criminal blockade",
-    "excerpt": "Iran reacts to Trump's boasting about the US Navy's acting \"like pirates\" in carrying out Washington’s illegal naval blockade of Iranian vessels and ports.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-03T03:52:48.492381+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/03/767943/Iran-United-States-Trump-blockade-Hormuz"
-  },
-  {
-    "id": "a7054336a421",
-    "source": "PressTV",
-    "date": "2026-05-02T23:55",
-    "headline": "IRGC: No power capable of weakening Iranian nation's resolve",
-    "excerpt": "The IRGC expresses gratitude towards the Iranian nation for its resolute defense of the country and its Islamic establishment through tremendous popular solidarity rallies.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-02T23:55:37.747468+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/02/767942/Iran-IRGC-demonstrations-Leader-enemies-Israel-United-States"
-  },
-  {
-    "id": "fc5badb5c1fa",
-    "source": "PressTV",
-    "date": "2026-05-02T22:00",
-    "headline": "FM: Repeating clichés about Iran's nuclear activities 'irresponsible'",
-    "excerpt": "Foreign Minister Abbas Araghchi denounces some European states for repeating incorrect clichés concerning Iran's peaceful nuclear energy activities.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-02T22:00:01.434250+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/02/767937/Iran-nuclear-Europe-Araghchi-Tajani-United-States-Israel"
-  },
-  {
-    "id": "c38c6ecda656",
-    "source": "Al Jazeera",
-    "date": "2026-05-02T20:28",
-    "headline": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
-    "excerpt": "US budget carrier Spirit Airlines shuts down after talks for a government bailout failed.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-02T21:01:11.376434+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "ddb1bfa4310c",
-    "source": "Al Jazeera",
-    "date": "2026-05-02T19:59",
-    "headline": "Khartoum drone strike kills five Sudan NGO reports",
-    "excerpt": "The attack, the second in a week, follows months of relative calm in the city after government forces regained control.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-02T21:01:11.376473+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss"
   }
 ]
