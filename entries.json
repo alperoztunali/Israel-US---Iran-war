@@ -1,5 +1,104 @@
 [
   {
+    "id": "07dfc83aad41",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T14:41",
+    "headline": "Lamine Yamal’s Palestine flag wave hailed by fans, activists and athletes",
+    "excerpt": "Palestinians in Gaza, football fans from around the world and activists laud Barca and Spain footballer.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-12T15:22:51.488965+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/12/lamine-yamals-palestine-flag-wave-hailed-by-fans-activists-and-athletes?traffic_source=rss"
+  },
+  {
+    "id": "95c10daf425a",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T14:30",
+    "headline": "The Flotilla Diaries: Inside the 2025 mission to break the Gaza siege",
+    "excerpt": "Determined to break the siege on Gaza, two filmmakers share firsthand accounts on board the Global Sumud Flotilla.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-12T15:22:51.489013+00:00",
+    "link": "https://www.aljazeera.com/video/witness/2026/5/12/the-flotilla-diaries-inside-the-2025-mission-to-break-the-gaza-siege?traffic_source=rss"
+  },
+  {
+    "id": "3d8d553dd453",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T13:35",
+    "headline": "Israel approves law on death penalty for October 7 detainees",
+    "excerpt": "Israel approves law on death penalty for October 7 detainees",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-12T15:22:51.489044+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-approves-law-on-death-penalty-for-october-7-detainees?traffic_source=rss"
+  },
+  {
+    "id": "b04deb84bf68",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T13:12",
+    "headline": "A secret Israeli base in Iraq? What we know",
+    "excerpt": "Israeli troops reportedly used this base to launch attacks against Iran during the war.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-05-12T15:22:51.489069+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/12/a-secret-israeli-base-in-iraq-what-we-know?traffic_source=rss"
+  },
+  {
+    "id": "dfca0d4c8013",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T13:05",
+    "headline": "At least nine killed in explosion at Pakistan market",
+    "excerpt": "At least nine people were killed and some 30 injured in a blast at a market in the Pakistani town of Sarai Naurang.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-12T15:22:51.489095+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/at-least-nine-killed-in-explosion-at-pakistan-market?traffic_source=rss"
+  },
+  {
+    "id": "3367a4c5b1ce",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T13:04",
+    "headline": "Report alleges Israel operated covert outpost in Iraq during war on Iran",
+    "excerpt": "According to The Wall Street Journal, Israel operated a military base in the Iraq during the US-Israeli war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-12T15:22:51.489129+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/report-alleges-israel-operated-covert-outpost-in-iraq-during-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "16baebd61d7b",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T12:42",
+    "headline": "Why the Iran war is threatening whales near South Africa",
+    "excerpt": "Whales are increasingly exposed to traffic - and ship strikes.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-12T15:22:51.489151+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/12/why-the-iran-war-is-threatening-whales-near-south-africa?traffic_source=rss"
+  },
+  {
+    "id": "4bd1e3b56e85",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T12:17",
+    "headline": "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
+    "excerpt": "Pakistan rejects allegations of aiding Iran militarily while Trump says truce on &#039;life support&#039;.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-12T15:22:51.489187+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/12/pakistan-scrambles-to-salvage-us-iran-diplomacy-as-ceasefire-faces-collapse?traffic_source=rss"
+  },
+  {
+    "id": "99eeb826e066",
+    "source": "PressTV",
+    "date": "2026-05-12T15:22",
+    "headline": "Iran sues US at Hague tribunal, demands war reparations for June 2025 aggression",
+    "excerpt": "Iran’s complaint at the Permanent Court of Arbitration calls for reparations for damages caused by the United States during the June 2025 aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-12T15:22:52.811976+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/12/768496/Iran-complaint-US-aggression-PCA"
+  },
+  {
     "id": "57f150eb96ad",
     "source": "Al Jazeera",
     "date": "2026-05-12T11:39",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-03T08:26:41.059728+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss"
-  },
-  {
-    "id": "3b2a495cd71d",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T06:57",
-    "headline": "China blocks US sanctions against five ‘teapot’ refineries",
-    "excerpt": "Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-03T08:26:41.059767+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss"
-  },
-  {
-    "id": "39419fb7de36",
-    "source": "PressTV",
-    "date": "2026-05-03T08:26",
-    "headline": "Gas prices hit new high in US amid Trump's threats to continue Iran war",
-    "excerpt": "Gas prices in the US have increased once more, as President Donald Trump threatens to continue the war of aggression against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-03T08:26:47.697152+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/03/767952/Gas-prices-hit-new-high-in-the-US-as-Iran-continues-to-restrict-traffic-in-Hormuz-Strait"
-  },
-  {
-    "id": "78b5d7808d5c",
-    "source": "PressTV",
-    "date": "2026-05-03T08:26",
-    "headline": "Gaza aid flotilla activists tortured in Israeli custody after abduction, testimony shows",
-    "excerpt": "New testimony has revealed that two activists abroad the Gaza-bound Sumud-2 flotilla have suffered torture and beatings after being kidnapped in international waters.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-03T08:26:47.697192+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/03/767949/Gaza-aid-flotilla-activists-tortured-Israeli-custody-after-abduction-testimony"
-  },
-  {
-    "id": "693716e82765",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T06:21",
-    "headline": "In Yemen, Starlink internet brings opportunities – for some",
-    "excerpt": "Despite Houthi resistance and affordability challenges, Starlink fuels growth in Yemen&#039;s digital workforce.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-05-03T06:31:08.445310+00:00",
-    "link": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss"
-  },
-  {
-    "id": "975d5a949450",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T04:35",
-    "headline": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
-    "excerpt": "A fragile ceasefire may have paused the US-Israeli war on Iran, but the economic cost is crippling life in Tehran.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-03T06:31:08.445353+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss"
-  },
-  {
-    "id": "896cd14ab3e5",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T02:37",
-    "headline": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
-    "excerpt": "US president says he is considering the 14-point peace plan, but warns strikes could resume if Tehran &#039;misbehaves&#039;.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-03T06:31:08.445393+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss"
-  },
-  {
-    "id": "8dbf1b4f596e",
-    "source": "PressTV",
-    "date": "2026-05-03T06:31",
-    "headline": "Organized Israeli settler violence against Christians hits new high: Report",
-    "excerpt": "Israeli settler attacks targeting Christians and non-Jewish communities in occupied al-Quds have significantly increased, according to a report.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-03T06:31:13.946312+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/03/767944/Organized-settler-violence-against-non-Jewish-Palestinians-hits-new-high-Report"
-  },
-  {
-    "id": "dbdef4ca1b94",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T03:29",
-    "headline": "UAE lifts all air traffic restrictions introduced since Iran war",
-    "excerpt": "UAE aviation authority&#039;s announcement is the latest sign of the travel sector&#039;s recovery across the Middle East.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-03T03:52:46.932312+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "fcd07aa3a09b",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T02:37",
-    "headline": "Trump reviews Iranian peace proposal, warns strikes could resume",
-    "excerpt": "US president says he is considering the 14-point peace plan, but warns strikes could resume if Tehran &#039;misbehaves&#039;.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-03T03:52:46.932359+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss"
   }
 ]
