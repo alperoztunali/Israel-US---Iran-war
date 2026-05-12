@@ -1,5 +1,38 @@
 [
   {
+    "id": "4f5ff0a0259e",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T21:02",
+    "headline": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
+    "excerpt": "Trump gives conflicting messages on prominence of Iran war in upcoming talks, with his administration emphasising trade.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-12T22:36:31.328335+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss"
+  },
+  {
+    "id": "10570a729278",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T20:55",
+    "headline": "Cannes juror denounces Hollywood boycott of actors for Gaza war views",
+    "excerpt": "2026 Cannes Film Festival juror Paul Laverty denounced Hollywood for boycotting actors who’ve opposed the Gaza war.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-12T22:36:31.328389+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss"
+  },
+  {
+    "id": "20e6803f3e71",
+    "source": "PressTV",
+    "date": "2026-05-12T22:36",
+    "headline": "Saudi Arabia carried out 'covert' strikes on Iran amid US-Israeli aggression in March: Report",
+    "excerpt": "Saudi Arabia launched a series of \"covert\" airstrikes against Iran in late March before \"threatening\" the Islamic Republic with more aggression, a report says.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-05-12T22:36:33.383166+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/12/768521/Saudi-Arabia-attacks-Iran-report"
+  },
+  {
     "id": "8ab23398fad7",
     "source": "Al Jazeera",
     "date": "2026-05-12T20:24",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-03T14:30:11.182505+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/3/who-are-the-two-gaza-flotilla-activists-abducted-by-israel?traffic_source=rss"
-  },
-  {
-    "id": "44c8b6d638cf",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T13:38",
-    "headline": "US to cut troops in Germany as Iran war spat deepens",
-    "excerpt": "US-German relations are straining as a spat deepens between President Trump and Chancellor Merz over the war on Iran.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-03T14:30:11.182545+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss"
-  },
-  {
-    "id": "b3e73917dbc2",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T13:31",
-    "headline": "It does not make sense to invest more Arab resources in a US alliance",
-    "excerpt": "The US will always prioritise Israel over the Arab world. Arab unity is the only way to establish security for all.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-03T14:30:11.182584+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/5/3/it-does-not-make-sense-to-invest-more-arab-resources-in-a-us-alliance?traffic_source=rss"
-  },
-  {
-    "id": "123cf573d049",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T13:27",
-    "headline": "Netanyahu boasts of Israel’s billion-dollar military investments",
-    "excerpt": "Benjamin Netanyahu says Israel will invest $119 billion USD into developing its own military weapons systems.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-03T14:30:11.182623+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/netanyahu-boasts-of-israels-billion-dollar-military-investments?traffic_source=rss"
   }
 ]
