@@ -1,5 +1,27 @@
 [
   {
+    "id": "54acc4ebb667",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T04:27",
+    "headline": "Putin hails Russia’s test launch of ‘most powerful missile in the world’",
+    "excerpt": "Russian leader says the nuclear-capable Sarmat missile will enter combat service at the end of the year.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-13T05:34:53.465838+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/putin-hails-russias-test-launch-of-most-powerful-missile-in-the-world?traffic_source=rss"
+  },
+  {
+    "id": "f6d9e241f0d6",
+    "source": "Al Jazeera",
+    "date": "2026-05-12T21:02",
+    "headline": "Trump says he doesn’t need Xi’s help on Iran war as he heads to China",
+    "excerpt": "Trump gives conflicting messages on prominence of Iran war in upcoming talks with China&#039;s Xi.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-13T05:34:53.465890+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss"
+  },
+  {
     "id": "dfbeed2a428a",
     "source": "Al Jazeera",
     "date": "2026-05-13T00:00",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-03T17:10:13.663445+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says?traffic_source=rss"
-  },
-  {
-    "id": "c3ba5bb2984a",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T15:58",
-    "headline": "The US vs Latin America: Varsha Gandikota and Susana Muhamad",
-    "excerpt": "Gandikota asks Muhamad: What does the military‑industrial machine mean for the sovereignty of the Global South?",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-03T17:10:13.663480+00:00",
-    "link": "https://www.aljazeera.com/video/reframe/2026/5/3/the-us-v-latin-america-varsha-gandikota-susana-muhamad?traffic_source=rss"
-  },
-  {
-    "id": "dc1f17ecbcd1",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T15:40",
-    "headline": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
-    "excerpt": "Palestinian factions reject US-backed plans linking aid to weapons surrender, demanding clear political path forward.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-03T17:10:13.663511+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays?traffic_source=rss"
   }
 ]
