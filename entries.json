@@ -1,5 +1,104 @@
 [
   {
+    "id": "98e57573b1cc",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T13:08",
+    "headline": "Trump needs Xi much more than Xi needs Trump",
+    "excerpt": "As the Iran war reshapes global power dynamics, Beijing enters the Trump-Xi summit with more leverage over Washington.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-13T13:31:06.697659+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump?traffic_source=rss"
+  },
+  {
+    "id": "ec06c73b1a1f",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T12:59",
+    "headline": "Why Trump decided to back Iraq’s prime minister-designate, Ali al-Zaidi",
+    "excerpt": "Support from Washington is conditional on clear progress in curbing pro-Iran militia activity.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T13:31:06.697710+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/5/13/why-trump-decided-to-back-iraqs-prime-minister-designate-ali-al-zaidi?traffic_source=rss"
+  },
+  {
+    "id": "4770251163d5",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T12:42",
+    "headline": "Activist confronts Iran’s former crown prince over war on Iran",
+    "excerpt": "Activist confronts Iran’s former crown prince over war on Iran",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T13:31:06.697746+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "abbb5ce94e16",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T12:39",
+    "headline": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
+    "excerpt": "Conflict monitor ACLED notes the increase in Israeli attacks on Gaza in April in its latest report.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-13T13:31:06.697777+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss"
+  },
+  {
+    "id": "4fedb4664681",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T11:42",
+    "headline": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
+    "excerpt": "Trump faces mounting pressure amid stalled Iran peace talks as domestic discontent grows and geopolitical stakes rise.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-13T13:31:06.697808+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss"
+  },
+  {
+    "id": "6d6d03b6d4a0",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T11:40",
+    "headline": "UN urges independent probes into deadly Nigeria, Chad air attacks",
+    "excerpt": "UN rights chief &#039;shocked&#039; by reports that Nigerian and Chadian forces killed over 100 civilians and seeks inquiries.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-13T13:31:06.697842+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss"
+  },
+  {
+    "id": "5d01b6c582a1",
+    "source": "PressTV",
+    "date": "2026-05-13T13:31",
+    "headline": "Global scientists urge protection for Iran varsities from US-Israeli strikes",
+    "excerpt": "Over 1,000 scientists from around the world have signed an open letter expressing \"grave concern\" over at least 21 attacks that have damaged Iranian scientific institutions during the \"unprovoked USA-Israel's aggression on Iran.\"",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T13:31:08.670132+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768544/International-Union-of-Scientists-calls-for-protection-of-Iran%E2%80%99s-scientific-institutions"
+  },
+  {
+    "id": "30e801ef723e",
+    "source": "PressTV",
+    "date": "2026-05-13T13:31",
+    "headline": "Exclusive: UAE deports Pakistani Shia after Iran strikes US assets",
+    "excerpt": "Emirati authorities have deported many Pakistani Shia workers from the UAE after Iran began retaliatory strikes against US interests in the Arab state.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T13:31:08.670179+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768541/UAE-deports-Pakistani-Shia-workers-after-Iran%E2%80%99s-strikes-against-US-interests,-Press-TV-reports-"
+  },
+  {
+    "id": "fac173798964",
+    "source": "PressTV",
+    "date": "2026-05-13T13:31",
+    "headline": "Islamic institute: UAE role in US-Israeli war on Iran 'categorically haram'",
+    "excerpt": "The al-Mustafa International University says the UAE’s participation in the recent war of aggression by the US and Israel amounts to \"supporting the front of unbelief.\"",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T13:31:08.670216+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768531/UAE-participation-in-attacks-on-Iran-amounts-to-%E2%80%98supporting-unbelief-front%E2%80%99--Al-Mustafa"
+  },
+  {
     "id": "840ef3fdc67b",
     "source": "Al Jazeera",
     "date": "2026-05-13T11:03",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-04T07:26:07.563642+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "2e9facc48a04",
-    "source": "PressTV",
-    "date": "2026-05-04T07:26",
-    "headline": "Iran’s military vows to target any foreign forces approaching Strait of Hormuz",
-    "excerpt": "The commander of Iran’s highest operational command unit has warned that the Iranian Armed Forces will target any foreign forces, particularly from the US military, that attempt to approach or enter the strategic Strait of Hormuz.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-04T07:26:14.248254+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/04/768008/Iran-s-military-vows-to-target-any-foreign-forces-approaching-Strait-of-Hormuz"
-  },
-  {
-    "id": "186727ef4d66",
-    "source": "PressTV",
-    "date": "2026-05-04T07:26",
-    "headline": "Hezbollah hits Israeli targets in 11 drone, missile operations",
-    "excerpt": "The Lebanese resistance movement Hezbollah says it has carried out 11 operations against Israeli targets, utilizing drones, missiles, and artillery in a series of coordinated attacks.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-05-04T07:26:14.248293+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/04/768006/Hezbollah-hits-Israeli-targets-in-11-drone-missile-operations"
-  },
-  {
-    "id": "be01ed5dfd58",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T03:37",
-    "headline": "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm markets",
-    "excerpt": "Brent crude largely unmoved by Trump&#039;s announcement of operation dubbed Project Freedom.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-04T04:11:05.149746+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/4/oil-prices-flat-as-trumps-plan-for-strait-of-hormuz-fails-to-move-markets?traffic_source=rss"
-  },
-  {
-    "id": "d1f8b411256a",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T00:40",
-    "headline": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
-    "excerpt": "Tens of thousands of partygoers gathered for an illegal “free party” at a military firing range near Bourges.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-04T04:11:05.149804+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/illegal-free-party-at-french-military-site-draws-up-to-40000-ravers?traffic_source=rss"
-  },
-  {
-    "id": "50050d4fb453",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T00:00",
-    "headline": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire",
-    "excerpt": "Iran protests as Trump announces &#039;Project Freedom&#039; to escort stranded ships out of the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-05-04T04:11:05.149839+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "92467d55114d",
-    "source": "PressTV",
-    "date": "2026-05-04T00:05",
-    "headline": "Any US interference in new Hormuz regime is ceasefire violation: Iran lawmaker",
-    "excerpt": "A senior Iranian parliamentarian has dismissed President Donald Trump’s plan to escort ships through the waterway as “delusional.”",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-04T00:05:00.415539+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/03/768000/Any-American-interference-in-new-Hormuz-regime-is-ceasefire-violation-Iran-lawmaker"
-  },
-  {
-    "id": "9fcde29d6c06",
-    "source": "PressTV",
-    "date": "2026-05-03T23:04",
-    "headline": "Iran's armed forces will be ultimate victors in ongoing uneven battle: IRGC spokesman",
-    "excerpt": "IRGC spokesperson Brigadier General Hossein Mohabi emphasized that an Iranian fighter either achieves victory or attains martyrdom, a fate seen as bliss.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-05-03T23:04:48.866488+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/03/767997/Iran-armed-forces-will-be-final-victors-in-ongoing-unequal-battle-IRGC-spokesman"
-  },
-  {
-    "id": "f6b24aaa2937",
-    "source": "PressTV",
-    "date": "2026-05-03T22:02",
-    "headline": "Iran says it is reviewing US response to 14-point plan delivered via Pakistan",
-    "excerpt": "Iran confirmed on Sunday that the United States has delivered its response to Tehran’s proposed 14-point plan through Pakistani mediators.",
-    "category": "Statement",
-    "location": "Tehran",
-    "addedAt": "2026-05-03T22:02:42.567417+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/03/767992/Iran-says-is-reviewing-US-response-to-14-point-plan-delivered-via-Pakistani-intermediary"
-  },
-  {
-    "id": "fec407300db2",
-    "source": "PressTV",
-    "date": "2026-05-03T22:02",
-    "headline": "Iran’s armed forces will be final victors in ongoing unequal battle: IRGC spokesman",
-    "excerpt": "Mohabi emphasized that an Iranian fighter either achieves victory or attains martyrdom, a fate seen as bliss.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-05-03T22:02:42.567457+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/03/767997/Iran-armed-forces-will-be-final-victors-in-ongoing-unequal-battle-IRGC-spokesman"
   }
 ]
