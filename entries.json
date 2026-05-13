@@ -1,5 +1,93 @@
 [
   {
+    "id": "a2bb3be392c0",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T14:59",
+    "headline": "12 killed by a series of Israeli strikes on cars in Lebanon",
+    "excerpt": "A series of Israeli  strikes on vehicles in Lebanon killed at least 12 people, including a woman and her two children.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-13T16:09:25.226429+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "6dc3b2287202",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T14:55",
+    "headline": "What Trump and Xi want from China visit",
+    "excerpt": "Tensions over trade, technology, Taiwan, and the war on Iran are set to dominate high-stakes talks between Trump and Xi.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-13T16:09:25.226463+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss"
+  },
+  {
+    "id": "9bee04ae4c60",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T14:25",
+    "headline": "‘Most powerful’: What’s the Sarmat missile Russia has test-launched?",
+    "excerpt": "President Vladimir Putin claims the RS-28 Sarmat&#039;s range is far beyond Western estimates.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-13T16:09:25.226490+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/most-powerful-whats-the-sarmat-missile-russia-has-test-launched?traffic_source=rss"
+  },
+  {
+    "id": "98a1f6de8951",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T14:05",
+    "headline": "Amid US-Israel war on Iran, Arizona awaits Iranian team before World Cup",
+    "excerpt": "Sports facility and football fans in the city of Tucson want Iran&#039;s players to feel &#039;safe and welcome&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T16:09:25.226513+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/13/amid-us-israel-war-on-iran-arizona-awaits-iranian-team-before-world-cup?traffic_source=rss"
+  },
+  {
+    "id": "bcab3a890a63",
+    "source": "PressTV",
+    "date": "2026-05-13T16:09",
+    "headline": "Iran urges BRICS to defend nations against monopoly, sanctions, coercion",
+    "excerpt": "Iran’s deputy foreign minister has called on the BRICS grouping to become a platform for equal cooperation, mutual respect, independent decision-making, and the defense of nations’ rights against monopoly, sanctions and the policy of coercion.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-13T16:09:27.848518+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768550/iran-brics-india-new-delhi"
+  },
+  {
+    "id": "198c88bce92b",
+    "source": "PressTV",
+    "date": "2026-05-13T16:09",
+    "headline": "Hezbollah thankful for Iran's continuous, sincere support: Sheikh Qassem",
+    "excerpt": "Hezbollah chief says the group has always enjoyed Iran's continuous and sincere support for the past five decades.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T16:09:27.848551+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768554/Hezbollah-chief-Qassem-appreciation-Iran-support"
+  },
+  {
+    "id": "335085bd0507",
+    "source": "PressTV",
+    "date": "2026-05-13T16:09",
+    "headline": "Mossad chief made secret visits to UAE to coordinate attacks on Iran: Report",
+    "excerpt": "The head of Mossad visited the UAE at least twice during the joint US-Israeli war against Iran, the Wall Street Journal reported.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T16:09:27.848573+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768553/Mossad-chief-made-secret-UAE-visits-to-coordinate-attacks-on-Iran--Report"
+  },
+  {
+    "id": "d411b292d669",
+    "source": "PressTV",
+    "date": "2026-05-13T16:09",
+    "headline": "2 children among dozen killed in multiple Israeli strikes on south Lebanon",
+    "excerpt": "At least twelve people, including two children, have been killed in a string of Israeli airstrikes on southern Lebanon.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-13T16:09:27.848591+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768556/lebanon-children-multiple-Israeli-strikes-Lebanese-highway-"
+  },
+  {
     "id": "98e57573b1cc",
     "source": "Al Jazeera",
     "date": "2026-05-13T13:08",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-04T09:38:26.607481+00:00",
     "link": "https://presstv.ir/Detail/2026/05/04/768005/Iran-United-States-ship-crew-Pakistan"
-  },
-  {
-    "id": "d11f70190d8d",
-    "source": "PressTV",
-    "date": "2026-05-04T09:38",
-    "headline": "Truce breach: Heavy clashes erupt in southern Syria; no casualties",
-    "excerpt": "Syrian forces and the so-called National Guard units exchange heavy machine gun and mortar fire in west of Sweida, southern Syria.",
-    "category": "Casualties",
-    "location": "Syria",
-    "addedAt": "2026-05-04T09:38:26.607511+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/04/768009/Truce-breach--Heavy-clashes-erupt-in-southern-Syria--no-casualties-"
-  },
-  {
-    "id": "20f724103823",
-    "source": "PressTV",
-    "date": "2026-05-04T09:38",
-    "headline": "Russia condemns NATO for significantly expanding its military activities in Baltic region",
-    "excerpt": "Russia has condemned NATO for significantly expanding its military operations in the Baltic Sea, particularly near the Kaliningrad region.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-04T09:38:26.607555+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/04/768011/Russia-condemns-NATO-for-significantly-expanding-its-military-activities-in-Baltic-region"
-  },
-  {
-    "id": "f6a12270b0c7",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T06:45",
-    "headline": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
-    "excerpt": "Sanae Takaichi makes comments during a visit to Australia, where she signs agreements on energy supplies.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-04T07:26:07.563432+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss"
-  },
-  {
-    "id": "d573e750e072",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T06:15",
-    "headline": "How to escape Russia’s army: Soldiers serving in Ukraine seek a way out",
-    "excerpt": "Russia&#039;s army faces a desertion crisis as it continues to use waves of soldiers to attack Ukraine&#039;s defensive positions.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-04T07:26:07.563493+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/4/how-to-escape-russias-army-soldiers-serving-in-ukraine-seek-a-way-out?traffic_source=rss"
-  },
-  {
-    "id": "a10cdbd16ec2",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T04:45",
-    "headline": "Detained Gaza aid flotilla activists arrive in Netherlands",
-    "excerpt": "Two activists from the Global Sumud Flotilla arrived in the Netherlands after being released from Israeli custody.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-04T07:26:07.563528+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/detained-gaza-aid-flotilla-activists-arrive-in-netherlands?traffic_source=rss"
-  },
-  {
-    "id": "bfb1f86308b8",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T03:47",
-    "headline": "Trump says US to begin escorting ships in Strait of Hormuz",
-    "excerpt": "US President Donald Trump has announced a naval mission to escort stranded ships through the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-04T07:26:07.563554+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/trump-says-us-to-begin-escorting-ships-in-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "e5ff1f1fa0ae",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T03:37",
-    "headline": "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm market",
-    "excerpt": "Brent crude is largely unmoved by Trump&#039;s announcement of the operation, dubbed &#039;Project Freedom&#039;.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-04T07:26:07.563593+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/4/oil-prices-flat-as-trumps-plan-for-strait-of-hormuz-fails-to-move-markets?traffic_source=rss"
-  },
-  {
-    "id": "c44826d78c8f",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T00:00",
-    "headline": "Iran war live: Iranian military warns US of attacks over Hormuz mission",
-    "excerpt": "Iran protests as Trump announces &#039;Project Freedom&#039; to free stranded ships out of the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-04T07:26:07.563642+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss"
   }
 ]
