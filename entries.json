@@ -1,5 +1,104 @@
 [
   {
+    "id": "630f57c073ca",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T19:41",
+    "headline": "Russia unleashes massive drone barrage on Ukraine killing six",
+    "excerpt": "Russia has launched a massive daytime drone barrage across Ukraine, killing at least six people.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-13T20:18:49.752295+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/russia-unleashes-massive-drone-barrage-on-ukraine-killing-six?traffic_source=rss"
+  },
+  {
+    "id": "d95a41fda556",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T19:37",
+    "headline": "New eye scan detects diseases years before symptoms appear",
+    "excerpt": "A Qatar-based professor has pioneered a non-invasive eye scan to detect neurodegenerative diseases in minutes.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-05-13T20:18:49.752344+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/new-eye-scan-detects-diseases-years-before-symptoms-appear?traffic_source=rss"
+  },
+  {
+    "id": "9fc853183897",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T19:18",
+    "headline": "Will the boycott of Eurovision have any impact?",
+    "excerpt": "The decision by five nations to boycott the song contest comes amid Israel&#039;s genocide in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-13T20:18:49.752379+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/13/will-the-boycott-of-eurovision-have-any-impact?traffic_source=rss"
+  },
+  {
+    "id": "3ec1c8085785",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T19:11",
+    "headline": "Hamas must disarm, not ‘disappear’ from Gaza: Board of Peace’s Mladenov",
+    "excerpt": "&#039;We are not asking Hamas to disappear as a political movement’, says diplomat overseeing the US-brokered truce in Gaza.",
+    "category": "Diplomatic",
+    "location": "Gaza",
+    "addedAt": "2026-05-13T20:18:49.752417+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/board-of-peaces-mladenov-says-gaza-ceasefire-hinges-on-hamas-disarmament?traffic_source=rss"
+  },
+  {
+    "id": "dd5ac44cb574",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T19:06",
+    "headline": "Netanyahu visited UAE in ‘secret’ during US-Israel war on Iran, office says",
+    "excerpt": "The Israeli prime minister&#039;s office describes trip as a &#039;historic breakthrough&#039; in relations with Gulf state.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T20:18:49.752456+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/netanyahu-visited-uae-in-secret-during-us-israel-war-on-iran-office-says?traffic_source=rss"
+  },
+  {
+    "id": "1bca8745bc02",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T19:06",
+    "headline": "There’s an app for that: Gaza’s developers use tech to solve war problems",
+    "excerpt": "Gaza’s battered tech sector is being reshaped by young developers building practical apps to navigate life.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-13T20:18:49.752497+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/13/theres-an-app-for-that-gazas-developers-use-tech-to-solve-war-problems?traffic_source=rss"
+  },
+  {
+    "id": "3559c3247c94",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T18:30",
+    "headline": "How US donor bodies were sold for Israeli military training",
+    "excerpt": "How donated cadavers from US universities ended up in Israeli military surgical training.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-13T20:18:49.752529+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/13/aje-onl-tt_usa_israelcadavers_v4-130526?traffic_source=rss"
+  },
+  {
+    "id": "b2990679809d",
+    "source": "PressTV",
+    "date": "2026-05-13T20:18",
+    "headline": "Iran reserves right to respond to Kuwait’s ‘unlawful’ boat attack, arrest of 4 citizens: FM",
+    "excerpt": "Araghchi says Iran reserves the right to respond to Kuwait’s unlawful attack on a boat used by Iranian nationals.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T20:18:51.415712+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768567/Iran-Araghchi-Kuwait-nationals-detention-condemnation"
+  },
+  {
+    "id": "e682635f5478",
+    "source": "PressTV",
+    "date": "2026-05-13T20:18",
+    "headline": "US lost 39 aircraft during 40 days of war against Iran: Congressman",
+    "excerpt": "US congressman says Washington suffered major aircraft losses during its illegal war against Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T20:18:51.415745+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768571/US-lost-39-aircraft-during-40-days-of-war-against-Iran--Congressman"
+  },
+  {
     "id": "3b678a1aa999",
     "source": "Al Jazeera",
     "date": "2026-05-13T17:33",
@@ -5399,104 +5498,5 @@
     "location": "Lebanon",
     "addedAt": "2026-05-04T13:10:59.400088+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war?traffic_source=rss"
-  },
-  {
-    "id": "b9d5785ddd34",
-    "source": "PressTV",
-    "date": "2026-05-04T13:11",
-    "headline": "Two missiles hit US Navy vessel near Strait of Hormuz after it ignored Iran's warning: Report",
-    "excerpt": "Two missiles hit a US Navy vessel near the strategic Strait of Hormuz after it ignored warnings from Iran's naval forces, according to a report.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-04T13:11:23.979234+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/04/768028/Two-missiles-hit-US-Navy-vessel-after-it-ignored-Iran-s-warning-Report"
-  },
-  {
-    "id": "c131185e1d83",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T10:55",
-    "headline": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
-    "excerpt": "Iranian state media says two missiles have struck a US navy destroyer to prevent it entering the Strait of Hormuz.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-04T11:27:45.674345+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-says-it-fired-missiles-at-us-warship-to-prevent-it-entering-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "c823fb519fa1",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T09:57",
-    "headline": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
-    "excerpt": "The US president has accused some NATO countries of not doing enough to support the US-Israel war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-04T11:27:45.674400+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss"
-  },
-  {
-    "id": "c56c794160b6",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T09:44",
-    "headline": "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
-    "excerpt": "Al Jazeera visits refugee camp in the occupied West Bank where Israeli soldiers have killed or maimed many young people.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-04T11:27:45.674434+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/4/i-cant-feel-my-leg-israeli-gunfire-disables-teenagers-in-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "f8fd86e512e8",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T00:00",
-    "headline": "Iran war live: US warship attacked with missiles in Hormuz by Iran’s navy",
-    "excerpt": "Attack comes after President Trump announced &#039;Project Freedom&#039; to free stranded ships out of the Strait of Hormuz.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-04T11:27:45.674489+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "52c40a4bcece",
-    "source": "PressTV",
-    "date": "2026-05-04T11:27",
-    "headline": "Two missiles hit US Navy vessel after it ignored Iran's warning: Report",
-    "excerpt": "Two missiles hit a US Navy vessel near the strategic Strait of Hormuz after it ignored warnings from Iran's naval forces, according to a report.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-04T11:27:47.788174+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/04/768028/Two-missiles-hit-US-Navy-vessel-after-it-ignored-Iran-s-warning-Report"
-  },
-  {
-    "id": "6d06b0439e76",
-    "source": "PressTV",
-    "date": "2026-05-04T11:27",
-    "headline": "After receiving response, Iran says ‘endless US greed’ knows no bounds",
-    "excerpt": "Iran says it has received Washington’s response to its latest proposal but stresses there is no limit to the excessive US demands and its endless greed.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-04T11:27:47.788221+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/04/768024/After-receiving-response,-Iran-says-%E2%80%98endless-US-greed%E2%80%99-knows-no-bounds-"
-  },
-  {
-    "id": "fa12a9b9f2d2",
-    "source": "PressTV",
-    "date": "2026-05-04T11:27",
-    "headline": "IRGC vows to 'forcefully stop' ships violating Strait of Hormuz regulations",
-    "excerpt": "The IRGC vows to “forcefully stop” vessels attempting to defy the management rules imposed by its Navy regarding the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-04T11:27:47.788256+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/04/768022/Iran-Hormuz-IRGC-warning-international-transit-Persian-Gulf"
-  },
-  {
-    "id": "6ad247b9b5d7",
-    "source": "PressTV",
-    "date": "2026-05-04T11:27",
-    "headline": "Hezbollah chief: Israeli plots will never materialize; Lebanon neither weak nor under guardianship",
-    "excerpt": "The Hezbollah chief says Israeli plots will never materialize, dismissing illusions that Lebanon is a weak county and under guardianship of others.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-05-04T11:27:47.788287+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/04/768031/Hezbollah-chief-Israeli-plots-will-never-materialize-Lebanon-neither-weak-nor-under-guardianship"
   }
 ]
