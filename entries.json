@@ -1,5 +1,27 @@
 [
   {
+    "id": "dfbeed2a428a",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T00:00",
+    "headline": "Iran war live: Trump travels to China as conflict with Tehran looms large",
+    "excerpt": "Israeli attacks on Lebanon have killed 2,883 people and injured 8,787 since March 2, Lebanon&#039;s Health Ministry says.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-05-13T01:30:54.283740+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss"
+  },
+  {
+    "id": "5e3970289fae",
+    "source": "PressTV",
+    "date": "2026-05-13T01:30",
+    "headline": "US intelligence says Iran retains significant missile capabilities: Report",
+    "excerpt": "Classified US intelligence assessments indicate that Iran continues to maintain substantial missile capabilities, a report says.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-13T01:30:56.056822+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768523/Iran-missile-power-United-States-intelligence-assessments"
+  },
+  {
     "id": "99e4bc439e3e",
     "source": "PressTV",
     "date": "2026-05-12T23:42",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-03T17:10:13.663511+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays?traffic_source=rss"
-  },
-  {
-    "id": "22e900abc671",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T14:06",
-    "headline": "On World Press Freedom Day, Pope honours journalists killed in war zones",
-    "excerpt": "Pope Leo XIV asks faithful to remember journalists who have lost their lives pursuing the truth.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-03T15:26:01.013609+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/3/pope-honors-journalists-killed-in-war-zones-on-world-press-freedom-day?traffic_source=rss"
-  },
-  {
-    "id": "af4233a8785a",
-    "source": "PressTV",
-    "date": "2026-05-03T15:26",
-    "headline": "Analysis: US-Israeli-Arab war alliance crumbles as united Iran solidifies strategic leverage",
-    "excerpt": "Despite military and economic aggression, Iran has emerged unscathed, holding strategic leverage through military prowess, popular resilience, united leadership, and firm control over the Strait of Hormuz – while the US-Israeli-Arab alliance crumbles.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-03T15:26:02.727366+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/03/767982/us-israeli-arab-war-alliance-crumbles-united-resilient-iran-solidifies-strategic-leverage"
   }
 ]
