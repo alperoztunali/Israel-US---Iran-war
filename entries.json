@@ -1,5 +1,93 @@
 [
   {
+    "id": "840ef3fdc67b",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T11:03",
+    "headline": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
+    "excerpt": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-13T11:12:42.982791+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss"
+  },
+  {
+    "id": "4e304e0cf3df",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T10:57",
+    "headline": "Video: Putin hails test launch of ‘world’s most powerful missile’",
+    "excerpt": "Russia has test-fired a new weapon that President Putin has described as the world’s ‘most powerful’ missile.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-13T11:12:42.982837+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/video-putin-hails-test-launch-of-worlds-most-powerful?traffic_source=rss"
+  },
+  {
+    "id": "d38df03e4cae",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T09:53",
+    "headline": "At least eight killed in Israeli drone strikes on Lebanon highway",
+    "excerpt": "Two children among those killed after three strikes hit cars on the highway in Jiyeh, south of Beirut.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-05-13T11:12:42.982884+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss"
+  },
+  {
+    "id": "6f866cfc3c68",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T09:35",
+    "headline": "Series of tremors near Tehran renews concerns over major quake risk",
+    "excerpt": "The tremors have been felt in an area close to the Mosha fault, one of Iran’s most active seismic zones.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-13T11:12:42.982929+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk?traffic_source=rss"
+  },
+  {
+    "id": "7a30fbab3a11",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T09:33",
+    "headline": "UN resolution calls for freedom of navigation in the Strait of Hormuz",
+    "excerpt": "UN resolution calls for freedom of navigation in the Strait of Hormuz",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-13T11:12:42.982963+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/un-resolution-calls-for-freedom-of-navigation-in-the-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "915336bd0c5a",
+    "source": "PressTV",
+    "date": "2026-05-13T11:12",
+    "headline": "No US weapons will transit Hormuz into regional bases: Iran Army",
+    "excerpt": "A senior Iranian military spokesman says Iran will no longer allow US weaponry to transit the Strait of Hormuz into regional bases.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-13T11:12:44.585351+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768543/No-US-weapons-will-transit-Strait-Hormuz-into-regional-bases-Iran-Army"
+  },
+  {
+    "id": "d1181316624e",
+    "source": "PressTV",
+    "date": "2026-05-13T11:12",
+    "headline": "Iran, Oman discuss sovereign rights over Strait of Hormuz",
+    "excerpt": "Iranian and Omani delegations hold a legal-technical meeting to discuss the Strait of Hormuz, and arrangements for the secure passage of ships.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-13T11:12:44.585383+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768529/Iran,-Oman-hold-talks-on-Hormuz-Strait,-discuss-sovereign-rights-over-strategic-waterway"
+  },
+  {
+    "id": "3aa329a67402",
+    "source": "PressTV",
+    "date": "2026-05-13T11:12",
+    "headline": "Global scientists urge protection for Iran's universities from US-Israeli strikes",
+    "excerpt": "The International Union of Scientists has called on the UN to protect Iran’s scientific institutions.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-13T11:12:44.585424+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768544/International-Union-of-Scientists-calls-for-protection-of-Iran%E2%80%99s-scientific-institutions"
+  },
+  {
     "id": "b90a724d6881",
     "source": "Al Jazeera",
     "date": "2026-05-13T07:45",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-03T22:02:42.567457+00:00",
     "link": "https://presstv.ir/Detail/2026/05/03/767997/Iran-armed-forces-will-be-final-victors-in-ongoing-unequal-battle-IRGC-spokesman"
-  },
-  {
-    "id": "5426ce0d4240",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T20:51",
-    "headline": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
-    "excerpt": "Iran says the Strait of Hormuz will never return to the status quo that existed before the US-Israel war on Tehran.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-03T21:04:16.057267+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss"
-  },
-  {
-    "id": "9e084b30fc3a",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T20:30",
-    "headline": "Is Mali’s military government losing control?",
-    "excerpt": "A coalition of armed groups and rebels challenges the military government&#039;s authority.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-03T21:04:16.057345+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/3/is-malis-military-government-losing-control?traffic_source=rss"
-  },
-  {
-    "id": "957dc9008544",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T20:07",
-    "headline": "World Press Freedom Day marked in Gaza as journalist death toll rises",
-    "excerpt": "Palestinian journalists in Gaza marked World Press Freedom Day by honouring colleagues killed and targeted by Israel.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-03T21:04:16.057377+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/world-press-freedom-day-marked-in-gaza-as-journalist-death-toll-rises?traffic_source=rss"
-  },
-  {
-    "id": "71480f96b4f7",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T19:55",
-    "headline": "Is Israel expanding into Gaza despite ceasefire?",
-    "excerpt": "Redi Tlhabi speaks to Ray Adams Row Farr from Forensic Architecture about Israel’s expansion into Gaza post-ceasefire.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-03T21:04:16.057412+00:00",
-    "link": "https://www.aljazeera.com/video/upfront/2026/5/3/is-israel-expanding-into-gaza-despite-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "eaa203d0fa2f",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T16:54",
-    "headline": "Manchester United beat Liverpool to secure Champions League qualification",
-    "excerpt": "Kobbie Mainoo&#039;s late strike earns a thrilling victory after bitter rivals Liverpool had fought back from two goals down.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-03T21:04:16.057464+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/3/man-united-beat-liverpool-3-2-to-secure-champions-league-qualification?traffic_source=rss"
-  },
-  {
-    "id": "be3ad5c84c46",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T19:42",
-    "headline": "Germany’s Merz downplays rift with Washington despite US troop drawdown",
-    "excerpt": "German chancellor says criticism of Donald Trump&#039;s strategy in Iran unrelated to troop withdrawal announcement.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-03T20:06:59.305277+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown?traffic_source=rss"
-  },
-  {
-    "id": "41597aa810f0",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T19:36",
-    "headline": "Israel’s strategy of ‘permanent war’: A race against time?",
-    "excerpt": "Political analyst Daniel Levy says US policy is so ‘marinated’ in Israeli narratives, the two are indistinguishable.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-03T20:06:59.305340+00:00",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss"
-  },
-  {
-    "id": "2acf1cf978a8",
-    "source": "Al Jazeera",
-    "date": "2026-05-03T17:52",
-    "headline": "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban",
-    "excerpt": "Israeli forces have raided the city of Nablus in the occupied West Bank, killing a 26-year-old man.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-03T19:20:03.176051+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss"
   }
 ]
