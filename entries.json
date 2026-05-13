@@ -1,5 +1,71 @@
 [
   {
+    "id": "3b678a1aa999",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T17:33",
+    "headline": "Pro-Palestine chants disrupt Israel Eurovision performance",
+    "excerpt": "Israel’s Eurovision performance was disrupted by loud pro-Palestine protests during the Vienna semi-final",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-13T18:17:31.611670+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/pro-palestine-chants-disrupt-israel-eurovision-performance?traffic_source=rss"
+  },
+  {
+    "id": "00fc711df183",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T17:27",
+    "headline": "Trump-Xi summit: China’s help in Iran may require US concessions",
+    "excerpt": "Analysts say China is likely to ask for change in US policy towards Taiwan if it were to pressure Iran reopen Hormuz.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-13T18:17:31.611718+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/trump-xi-summit-chinas-help-in-iran-may-require-us-concessions?traffic_source=rss"
+  },
+  {
+    "id": "bc6432f630ec",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T17:08",
+    "headline": "Church leaders killed in latest ethnic violence in India’s Manipur",
+    "excerpt": "Protests were held after three church leaders were killed and three others injured in India’s Manipur state.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-13T18:17:31.611754+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/church-leaders-killed-in-latest-ethnic-violence-in-indias-manipur?traffic_source=rss"
+  },
+  {
+    "id": "477b5cc7b55d",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T17:03",
+    "headline": "Russia places UK ex-Defence Minister Ben Wallace on wanted list",
+    "excerpt": "Wallace last year recommended helping Ukraine carry out a strike on the bridge linking Russia to annexed Crimea.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-13T18:17:31.611791+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/russia-places-uk-former-minister-ben-wallace-on-wanted-list?traffic_source=rss"
+  },
+  {
+    "id": "c729cdf5a4e3",
+    "source": "Al Jazeera",
+    "date": "2026-05-13T16:52",
+    "headline": "‘One of the longest’ Russian attacks kills at least six people in Ukraine",
+    "excerpt": "Moscow says it intercepts and destroys 286 Ukrainian drones overnight.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-13T18:17:31.611819+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/13/russian-attacks-across-ukraine-kill-at-least-six?traffic_source=rss"
+  },
+  {
+    "id": "13f151b4a1fc",
+    "source": "PressTV",
+    "date": "2026-05-13T18:17",
+    "headline": "Iran parliamentary commission finalizes plan to secure Strait of Hormuz: Chairman",
+    "excerpt": "Iran’s National Security and Foreign Policy Commission has finalized a comprehensive plan for the security and development of the Persian Gulf and the Strait of Hormuz, a lawmaker said.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-13T18:17:34.339705+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/13/768557/Iran-parliamentary-commission-finalizes-plan-to-secure-Strait-of-Hormuz-top-lawmaker"
+  },
+  {
     "id": "a2bb3be392c0",
     "source": "Al Jazeera",
     "date": "2026-05-13T14:59",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-04T11:27:47.788287+00:00",
     "link": "https://presstv.ir/Detail/2026/05/04/768031/Hezbollah-chief-Israeli-plots-will-never-materialize-Lebanon-neither-weak-nor-under-guardianship"
-  },
-  {
-    "id": "5edb59001c1b",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T09:11",
-    "headline": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
-    "excerpt": "Trump orders new Hormuz mission after Iran says it receives US response to its peace proposal.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-04T09:38:24.744749+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss"
-  },
-  {
-    "id": "b277a3faf502",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T08:27",
-    "headline": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
-    "excerpt": "Japan’s PM says the effective closure of the Strait of Hormuz is ‘inflicting an ‘enormous impact’ on Asia Pacific.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-04T09:38:24.744801+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss"
-  },
-  {
-    "id": "1d5114736a7e",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T08:20",
-    "headline": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
-    "excerpt": "President Trump said the US will begin Project Freedom on Monday to guide stranded ships out of the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-04T09:38:24.744835+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss"
-  },
-  {
-    "id": "91498fc5e9b2",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T07:36",
-    "headline": "Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says",
-    "excerpt": "Twenty-two crew members from the seized Iranian ship MV Touska have been transferred to Pakistan for repatriation.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-04T09:38:24.744868+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss"
-  },
-  {
-    "id": "d0304ed111d9",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T03:47",
-    "headline": "Trump says US to begin ‘guiding’ ships in Strait of Hormuz",
-    "excerpt": "US President Donald Trump has announced a naval mission to &#039;guide&#039; stranded ships through the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-04T09:38:24.744913+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/trump-says-us-to-begin-escorting-ships-in-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "6af598585e9f",
-    "source": "PressTV",
-    "date": "2026-05-04T09:38",
-    "headline": "Crew of US-seized Iranian vessel transferred to Pakistan for repatriation: Report",
-    "excerpt": "US-seized Iranian vessel's crew have been transferred to Pakistan in preparation for their return to Iran, a report says.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-04T09:38:26.607481+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/04/768005/Iran-United-States-ship-crew-Pakistan"
   }
 ]
