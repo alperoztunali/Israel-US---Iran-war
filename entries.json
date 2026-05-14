@@ -1,5 +1,49 @@
 [
   {
+    "id": "c950e78412a0",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T19:34",
+    "headline": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
+    "excerpt": "As Trump meets Xi in Beijing for the first time in nine years, can trade war, Taiwan and Iran tensions be contained?",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-14T20:40:36.813255+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss"
+  },
+  {
+    "id": "231f6b9fda8d",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T19:00",
+    "headline": "What does the US hope to achieve from Lebanon-Israel talks?",
+    "excerpt": "As Israeli attacks on Lebanon continue, Hezbollah opposes ceasefire talks in Washington.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-14T20:40:36.813300+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss"
+  },
+  {
+    "id": "b41b02c9a07a",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T19:00",
+    "headline": "Iran expands tiered internet access amid continued online blackout",
+    "excerpt": "Iranians have had limited internet access during the war, with the government now looking at tiered services.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-14T20:40:36.813334+00:00",
+    "link": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss"
+  },
+  {
+    "id": "59c7a69754ab",
+    "source": "PressTV",
+    "date": "2026-05-14T20:40",
+    "headline": "'We will not give up the Strait of Hormuz at any cost': Iran’s VP Aref",
+    "excerpt": "Iran’s Vice President Aref says the Strait of Hormuz belongs to Iran, stressing that ‘we’ will not give it up at any cost.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-14T20:40:38.323328+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/14/768631/--We-will-not-give-up-the-Strait-of-Hormuz-at-any-cost---Iran%E2%80%99s-VP-Aref"
+  },
+  {
     "id": "271522671d4a",
     "source": "Al Jazeera",
     "date": "2026-05-14T18:41",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-05T14:28:20.205625+00:00",
     "link": "https://www.aljazeera.com/sports/2026/5/5/irans-football-team-shows-world-cup-readiness-with-social-media-posts?traffic_source=rss"
-  },
-  {
-    "id": "c2d15857aa07",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T13:00",
-    "headline": "US, Iran, UAE trade Hormuz attack claims: What we know",
-    "excerpt": "Experts say claims and counterclaims threaten the diplomatic route to end the US-Israel war on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-05T14:28:20.205657+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/us-iran-uae-trade-hormuz-attack-claims-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "2e8dd93a32a7",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T12:56",
-    "headline": "Israel extends detention of Gaza flotilla activists, lawyers say",
-    "excerpt": "The lawyers representing the two activists will appeal the extension decision, calling it &#039;the state&#039;s lawlessness&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-05T14:28:20.205687+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/israel-extends-detention-of-gaza-flotilla-activists-say-lawyers?traffic_source=rss"
-  },
-  {
-    "id": "bfcff246c5b2",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T12:15",
-    "headline": "Romania PM Ilie Bolojan’s government toppled in no-confidence vote",
-    "excerpt": "Financial markets fear turbulence could mean Romania wavers in its commitment to narrowing budget deficit.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-05-05T14:28:20.205740+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/romania-pm-ilie-bolojans-government-toppled-in-no-confidence-vote?traffic_source=rss"
-  },
-  {
-    "id": "e4199a929ef8",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T12:00",
-    "headline": "UK counterterrorism police investigate arson attack at former synagogue",
-    "excerpt": "The incident in London comes after the UK&#039;s national threat level was raised to severe last week.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-05T12:13:57.358660+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/uk-counterterrorism-police-investigate-arson-attack-at-former-synagogue?traffic_source=rss"
   }
 ]
