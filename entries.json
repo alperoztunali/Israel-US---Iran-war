@@ -1,5 +1,104 @@
 [
   {
+    "id": "271522671d4a",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T18:41",
+    "headline": "Israeli ultranationalists chant racist slogans during Jerusalem Day march",
+    "excerpt": "Annual Jerusalem Day march fuels tensions with shouted slogans and violence against Palestinian residents.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-14T18:56:51.234209+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss"
+  },
+  {
+    "id": "eb9a15d6a73d",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T18:39",
+    "headline": "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
+    "excerpt": "Itamar Ben Gvir stormed the Al-Aqsa compound under heavy military protection during Jerusalem Day.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-14T18:56:51.234258+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss"
+  },
+  {
+    "id": "4b7d7567cf7f",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T17:50",
+    "headline": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
+    "excerpt": "Far-right Israelis attack Palestinians during the Flag March, intensifying violence and racism in Jerusalem&#039;s Old City.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-14T18:56:51.234299+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss"
+  },
+  {
+    "id": "7c83e2443e50",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T17:29",
+    "headline": "Iran urges BRICS nations to condemn US-Israeli war aggression",
+    "excerpt": "Foreign Minister Abbas Araghchi also accused the UAE of direct involvement in military operations against Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-14T18:56:51.234333+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss"
+  },
+  {
+    "id": "e45b76bbd157",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T17:04",
+    "headline": "Iraq’s parliament approves new Ali al-Zaidi government",
+    "excerpt": "PM sworn in and 14 ​ministers approved ⁠in new government though parliament fails to reach consensus on several posts.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-05-14T18:56:51.234369+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/14/iraqs-parliament-approves-new-ali-al-zaidi-government?traffic_source=rss"
+  },
+  {
+    "id": "76caff5d9a8c",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T16:26",
+    "headline": "Yemen gov’t, Houthis to release more than 1,600 POWs in ‘largest’ swap",
+    "excerpt": "The UN-backed agreement will see the ICRC facilitate the exchange of hundreds of detainees from both sides.",
+    "category": "Diplomatic",
+    "location": "Yemen",
+    "addedAt": "2026-05-14T18:56:51.234408+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/14/yemen-govt-houthis-to-release-more-than-1600-pows-in-largest-swap?traffic_source=rss"
+  },
+  {
+    "id": "cfa182e50394",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T16:23",
+    "headline": "Lamine Yamal divides opinion with Palestinian flag gesture",
+    "excerpt": "A mural of Barcelona player Lamine Yamal was painted in Gaza after the teenager waved a Palestinian flag.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-14T18:56:51.234440+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/lamine-yamal-divides-opinion-with-palestinian-flag-gesture?traffic_source=rss"
+  },
+  {
+    "id": "b6657a6a3a4f",
+    "source": "PressTV",
+    "date": "2026-05-14T18:56",
+    "headline": "Pezeshkian hails national unity as Iran rebuilds after 40-day aggression",
+    "excerpt": "Iranian President Masoud Pezeshkian has praised Iranians for showing unity and solidarity during the war and reconstruction period.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-14T18:56:53.570081+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/14/768627/Pezeshkian-praises-national-unity-as-Iran-rebuilds-after-40-day-US-Israeli-aggression"
+  },
+  {
+    "id": "e0e2012a12f5",
+    "source": "PressTV",
+    "date": "2026-05-14T18:56",
+    "headline": "Iran reaffirms brotherly ties a top priority as Iraq forms new government",
+    "excerpt": "Iran has reaffirmed that expanding brotherly relations with Iraq remains at the top of its foreign policy priorities following the formation of a new government in Baghdad.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-14T18:56:53.570125+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/14/768630/Iran-reaffirms-brotherly-ties-a-top-priority-as-Iraq-forms-new-government"
+  },
+  {
     "id": "56d2258c9b0b",
     "source": "Al Jazeera",
     "date": "2026-05-14T16:16",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-05T12:13:57.358660+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/5/uk-counterterrorism-police-investigate-arson-attack-at-former-synagogue?traffic_source=rss"
-  },
-  {
-    "id": "69fe70757efd",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T11:23",
-    "headline": "Bayern Munich vs PSG: Champions League – preview, team news, start, lineups",
-    "excerpt": "PSG travel to Munich defending a 5-4 lead from the semifinal first leg, as both coaches promise more attacking football.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-05T12:13:57.358739+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/5/bayern-munich-vs-psg-champions-league-preview-team-news-start?traffic_source=rss"
-  },
-  {
-    "id": "63d1293b130b",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T09:14",
-    "headline": "Russian air attacks kill five at Ukraine’s Naftogaz gas facilities",
-    "excerpt": "Three workers and two emergency service rescuers ​killed and 37 others wounded, Naftogaz CEO Serhiy ​Koretskyi says.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-05T11:02:42.670915+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/russian-attack-kills-five-at-ukraines-naftogaz-gas-facility?traffic_source=rss"
-  },
-  {
-    "id": "a69e2b50e4ad",
-    "source": "PressTV",
-    "date": "2026-05-05T11:02",
-    "headline": "UAE deports tens of thousands of Pakistanis, seizes their savings amid war on Iran: Report",
-    "excerpt": "Authorities in the UAE are conducting a sweeping deportation campaign targeting tens of thousands of Pakistani workers.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-05T11:02:44.251696+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/05/768087/UAE-deports-tens-of-thousands-of-Pakistanis,-seizes-their-savings-amid-war-on-Iran--Report-"
-  },
-  {
-    "id": "792802760c1e",
-    "source": "PressTV",
-    "date": "2026-05-05T11:02",
-    "headline": "FM Araghchi to travel to Beijing for continued diplomatic consultations with key partners",
-    "excerpt": "Iranian Foreign Minister Abbas Araghchi will travel to Beijing on Tuesday for high-level talks with his Chinese counterpart on bilateral ties and regional developments.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-05T11:02:44.251730+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/05/768081/Araghchi-China-visit-regional-developments"
-  },
-  {
-    "id": "877017199d77",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T08:29",
-    "headline": "What Iran is saying about attack on UAE",
-    "excerpt": "What Iran is saying about attack on UAE",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-05T09:22:13.364186+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss"
-  },
-  {
-    "id": "1b66b93553fe",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T08:02",
-    "headline": "As summer approaches, skin diseases spread through Gaza’s refugee camps",
-    "excerpt": "Skin conditions have become a serious issue for healthcare workers in Gaza, particularly when temperatures rise.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-05T09:22:13.364263+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/as-summer-approaches-skin-diseases-spread-through-gazas-refugee-camps?traffic_source=rss"
-  },
-  {
-    "id": "ca2fa6ab2f80",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T07:44",
-    "headline": "Palestine weekly wrap: Israeli security agencies sound alarm on settlers",
-    "excerpt": "Israeli officials warn that violence threatens state, but attacks, land seizures and blockades continue in West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-05T09:22:13.364308+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/palestine-weekly-wrap-israeli-security-agencies-sound-alarm-on-settlers?traffic_source=rss"
-  },
-  {
-    "id": "c3accf5696f7",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T07:04",
-    "headline": "Nine workers killed in Colombia coal mine explosion",
-    "excerpt": "The national mining ​agency had warned weeks earlier that a buildup of gases at the mine could become dangerous.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-05T09:22:13.364344+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/nine-workers-killed-in-colombia-coal-mine-explosion?traffic_source=rss"
-  },
-  {
-    "id": "2dc2359ca6fe",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T06:48",
-    "headline": "Thiago Ávila’s letter from Israeli prison to his daughter",
-    "excerpt": "The Brazilian activist explains to his little girl his motivation to join the Gaza-bound humanitarian flotilla.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-05T09:22:13.364381+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/5/5/thiago-avilas-letter-from-israeli-prison-to-his-daughter?traffic_source=rss"
   }
 ]
