@@ -1,5 +1,49 @@
 [
   {
+    "id": "1b5952e2b11f",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T20:56",
+    "headline": "‘China is gaining from what the US is doing in Iran’",
+    "excerpt": "Geopolitical analyst Steve Okun says says China is benefiting from the war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-14T21:52:45.803396+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss"
+  },
+  {
+    "id": "29cbd5410bc1",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T20:25",
+    "headline": "Cautious optimism in Lebanon as direct talks with Israel progress",
+    "excerpt": "Lebanese officials are hoping that two-day ambassador-level negotiations in the US will yield a new ceasefire deal.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-14T21:52:45.803463+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss"
+  },
+  {
+    "id": "76a4dbd146dc",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T20:20",
+    "headline": "Iran’s FM urges BRICS states to condemn US-Israeli aggression",
+    "excerpt": "Iran’s Foreign Minister, Abbas Araghchi, spoke at a gathering of foreign ministers in New Delhi on Thursday.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-14T21:52:45.803506+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss"
+  },
+  {
+    "id": "0791cab36596",
+    "source": "PressTV",
+    "date": "2026-05-14T21:52",
+    "headline": "Test us again, you will repeat your failures: Iran FM to adversaries",
+    "excerpt": "Foreign Minister Abbas Araghchi warns the United States and the Israeli regime against attempting fresh military action against Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-14T21:52:47.404469+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/14/768633/Iran-warning-United-States-Israel-fresh-war"
+  },
+  {
     "id": "c950e78412a0",
     "source": "Al Jazeera",
     "date": "2026-05-14T19:34",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-05T14:28:20.205433+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/smotrich-says-he-promised-his-son-more-destruction-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "7fc98511caf2",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T13:19",
-    "headline": "DRC protest in support of US sanctions against former president",
-    "excerpt": "DRC protest in support of US sanctions against former president",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-05-05T14:28:20.205485+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/drc-protest-in-support-of-us-sanctions-against-former-president?traffic_source=rss"
-  },
-  {
-    "id": "77f41d62e0fc",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T13:12",
-    "headline": "Hegseth says US blockade on Iran ‘gift to the world’",
-    "excerpt": "US Defense Secretary Pete Hegseth says the US has gifted the world a ‘powerful red, white, and blue dome’.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-05T14:28:20.205522+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/hegseth-says-us-blockade-on-iran-gift-to-the?traffic_source=rss"
-  },
-  {
-    "id": "93f7ddde7177",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T13:11",
-    "headline": "Released Flotilla activists describe‘torture’ in Israeli prison",
-    "excerpt": "Flotilla activists returning home to Argentina say they were subjected to ‘torture’ by Israeli forces who detained them.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-05T14:28:20.205585+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/released-flotilla-activists-describetorture-in-israeli-prison?traffic_source=rss"
-  },
-  {
-    "id": "5e2e2e8aee58",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T13:08",
-    "headline": "Iran’s football team shows World Cup readiness with social media posts",
-    "excerpt": "Videos from tournament kit reveal photo shoot and images from training sessions highlighting Team Melli&#039;s preparations.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-05T14:28:20.205625+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/5/irans-football-team-shows-world-cup-readiness-with-social-media-posts?traffic_source=rss"
   }
 ]
