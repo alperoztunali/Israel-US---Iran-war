@@ -1,5 +1,27 @@
 [
   {
+    "id": "e656aba3e947",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T11:27",
+    "headline": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
+    "excerpt": "Lebanon and Israel are expected to hold talks on extending the ceasefire in Washington.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-14T12:02:40.519553+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss"
+  },
+  {
+    "id": "4b6321f96038",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T10:19",
+    "headline": "Russia launches hundreds more drones at Ukraine, killing three people",
+    "excerpt": "President Volodymyr Zelenskyy says Russia fired &#039;more than 1,560 drones&#039; at Ukraine since Wednesday.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-14T12:02:40.519597+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/14/russia-launches-hundreds-more-drones-at-ukraine-killing-three-people?traffic_source=rss"
+  },
+  {
     "id": "5ba44c550cfd",
     "source": "Al Jazeera",
     "date": "2026-05-14T09:28",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-05T01:20:35.369644+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "bc278b172ad1",
-    "source": "Al Jazeera",
-    "date": "2026-05-04T23:37",
-    "headline": "‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians",
-    "excerpt": "ISIL-linked group has tortured, killed and abducted civilians in the Democratic Republic of Congo, including children.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-05T01:20:35.369687+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/4/extensive-brutality-rebel-attacks-reap-hell-on-congolese-civilians?traffic_source=rss"
-  },
-  {
-    "id": "183e9a4a4212",
-    "source": "PressTV",
-    "date": "2026-05-05T01:20",
-    "headline": "Events in Strait of Hormuz prove there’s no military solution to political crisis: Iranian FM",
-    "excerpt": "Abbas Araghchi has stated that recent developments in the Strait of Hormuz have once again made it crystal clear that there is no military solution to the political crisis.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-05T01:20:48.635608+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/04/768060/Events-in-Strait-of-Hormuz-prove-there%E2%80%99s-no-military-solution-to-political-crisis--Iranian-FM"
   }
 ]
