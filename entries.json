@@ -1,5 +1,49 @@
 [
   {
+    "id": "80eff8911221",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T02:35",
+    "headline": "Israel-Lebanon talks held in Washington as expiration of ceasefire nears",
+    "excerpt": "Al Jazeera&#039;s Manuel Rapalo reports from Washington, where the first of two days of Lebanon-Israel talks concluded.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-15T04:29:30.435905+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israel-lebanon-talks-held-in-washington-as-expiration-of-ceasefire-nears?traffic_source=rss"
+  },
+  {
+    "id": "1b0f849b847a",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T00:35",
+    "headline": "Eurovision braces for new protests over Israel’s participation",
+    "excerpt": "Eurovision is heading towards its grand final, but organisers are bracing for more demonstrations against Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-15T04:29:30.435958+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss"
+  },
+  {
+    "id": "2b4fa1ba3778",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T00:00",
+    "headline": "Iran war live: Trump’s visit to China shadowed by conflict with Tehran",
+    "excerpt": "Iran&#039;s foreign minister said Iranians &#039;never bow to pressure&#039;, and there is no military solution to issues with Tehran.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-05-15T04:29:30.435999+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
+  },
+  {
+    "id": "449644430e0b",
+    "source": "PressTV",
+    "date": "2026-05-15T04:29",
+    "headline": "Mastermind behind Netanyahu’s UAE visit, chief architect of Abraham Accords hacked: Handala",
+    "excerpt": "The Handala hacker group says it has breached the planner behind Netanyahu’s UAE visit and the principal architect of the Abraham Accords.",
+    "category": "Other",
+    "location": "Uae",
+    "addedAt": "2026-05-15T04:29:32.141317+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/15/768637/Hackers-Netanyahu-UAE-visit-mastermind-Abraham-Accords-mastermind"
+  },
+  {
     "id": "c75fc617850b",
     "source": "Al Jazeera",
     "date": "2026-05-14T23:22",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-05T16:14:31.838465+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/5/whats-the-significance-of-uaes-fujairah-hit-on-monday?traffic_source=rss"
-  },
-  {
-    "id": "a5482e41519a",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T15:25",
-    "headline": "What’s happening in Mali one week after attack by armed groups? All we know",
-    "excerpt": "Mali’s military government, Assimi Goita, has taken on the role of defence minister.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-05T16:14:31.838511+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/whats-happening-in-mali-one-week-after-attack-by-armed-groups-all-we-know?traffic_source=rss"
-  },
-  {
-    "id": "4f68fd51398f",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T15:23",
-    "headline": "Sudan accuses Ethiopia, UAE of being behind recent drone attacks",
-    "excerpt": "Sudan claims it has evidence that four drone attacks have been launched from Ethiopia with UAE-supplied drones.",
-    "category": "Missile/Drone",
-    "location": "Uae",
-    "addedAt": "2026-05-05T16:14:31.838538+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/sudan-accuses-ethiopia-uae-of-being-behind-recent-drone-attacks?traffic_source=rss"
-  },
-  {
-    "id": "fdff995eff17",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T15:21",
-    "headline": "Hegseth says US ‘hasn’t capitulated on anything’ regarding Iran",
-    "excerpt": "US Defense Secretary Pete Hegseth told a reporter the US had not capitulated on its demands from Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-05T16:14:31.838575+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/hegseth-says-us-hasnt-capitulated-on-anything-regarding-iran?traffic_source=rss"
-  },
-  {
-    "id": "fc0c73f31a34",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T14:46",
-    "headline": "US-Iran ceasefire holds despite Hormuz standoff: Pentagon chief Hegseth",
-    "excerpt": "Trump aide says the US has established a security &#039;dome&#039; for ships over Hormuz, but traffic in strait remains stalled.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-05T16:14:31.838605+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/us-iran-ceasefire-holds-despite-hormuz-standoff-pentagon-chief-hegseth?traffic_source=rss"
   }
 ]
