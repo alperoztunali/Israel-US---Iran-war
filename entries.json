@@ -1,5 +1,49 @@
 [
   {
+    "id": "54c9beaa9b88",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T18:08",
+    "headline": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
+    "excerpt": "Ukraine’s air force says the attack on Thursday was part of the largest aerial assault since the war began.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-15T19:55:06.859614+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss"
+  },
+  {
+    "id": "2df34d202a5a",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T17:46",
+    "headline": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
+    "excerpt": "Trump tells reporters he is still deciding fate of new Taiwan weapons package, says not &quot;asking for any favors&quot; on Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-15T19:55:06.859660+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss"
+  },
+  {
+    "id": "2dea976a4d7e",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T16:34",
+    "headline": "Israel kills seven in Lebanon, agrees ‘ceasefire’ extension at talks in US",
+    "excerpt": "Delegations meet in Washington as Lebanon demands an end to Israeli attacks and occupation of its territory.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-15T19:55:06.859699+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/15/lebanon-talks-israel-attack?traffic_source=rss"
+  },
+  {
+    "id": "ffb1c07547e6",
+    "source": "PressTV",
+    "date": "2026-05-15T19:55",
+    "headline": "Hamas, Islamic Jihad reaffirm adherence to resistance against Israel on Nakba anniversary",
+    "excerpt": "Palestinian resistance movements Hamas and Islamic Jihad have reaffirmed their adherence to resistance against Israel until Palestine is liberated.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-15T19:55:08.672187+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/15/768679/Hamas,-Islamic-Jihad-reaffirm-adherence-to-resistance-against-Israel-on-Nakba-anniversary"
+  },
+  {
     "id": "ff4429555f5a",
     "source": "Al Jazeera",
     "date": "2026-05-15T16:48",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-06T06:45:52.610062+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-president-trump-restarts-pope-feud-ahead-of-rubio-visit-to-vatican?traffic_source=rss"
-  },
-  {
-    "id": "86b21ba214d8",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T04:55",
-    "headline": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
-    "excerpt": "Iran&#039;s foreign minister meets his Chinese counterpart one week before President Donald Trump&#039;s visit to Beijing.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-06T06:45:52.610095+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss"
-  },
-  {
-    "id": "c32a9e74206e",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T04:22",
-    "headline": "Romania’s pro-EU government ousted after no-confidence vote",
-    "excerpt": "The pro-European Union coalition of Romanian Prime Minister Ilie Bolojan has collapsed after a vote of no confidence.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-05-06T06:45:52.610135+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/romanias-pro-eu-government-ousted-after-no-confidence-vote?traffic_source=rss"
-  },
-  {
-    "id": "20cd553fdc43",
-    "source": "PressTV",
-    "date": "2026-05-06T06:45",
-    "headline": "China blasts ‘illegitimate’ war on Iran as it hosts FM Araghchi",
-    "excerpt": "China has hosted Iran’s Foreign Minister Abbas Araghchi for talks in Beijing, with Chinese Foreign Minister Wang Yi calling the US-Israeli war on Tehran “illegitimate” and urging a complete ceasefire.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-06T06:45:55.018233+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/06/768119/Iranian-FM-meets-with-Chinese-counterpart-in-Beijing,-holds-diplomatic-consultations-"
-  },
-  {
-    "id": "cbaed9134c6e",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T03:39",
-    "headline": "US pauses plan to guide ships through the Strait of Hormuz",
-    "excerpt": "Donald Trump has said that the US military operation guiding ships through the Strait of Hormuz will be paused.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-06T04:07:21.311910+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-pauses-plan-to-guide-ships-through-the-strait-of-hormuz?traffic_source=rss"
   }
 ]
