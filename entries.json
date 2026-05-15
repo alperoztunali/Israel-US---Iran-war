@@ -1,5 +1,60 @@
 [
   {
+    "id": "5e27ad993358",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T10:57",
+    "headline": "Finland ends drone alert amid regional fears of Ukraine war spillover",
+    "excerpt": "Finnish defence authorities scramble fighter jets; defence chief warns of more alarms as Russian war persists.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-15T12:13:35.848547+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss"
+  },
+  {
+    "id": "9c3f6fb4b3d2",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T10:52",
+    "headline": "This is the Palestinian Nakba, measured in land taken",
+    "excerpt": "On May 15, Palestinians mark 78 years since the Nakba. The count of land Israel has taken keeps growing today.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-15T12:13:35.848594+00:00",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/15/this-is-the-palestinian-nakba-measured-in-land-taken?traffic_source=rss"
+  },
+  {
+    "id": "a6c01feccdda",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T10:14",
+    "headline": "India hikes fuel prices as Iran crisis bites",
+    "excerpt": "The world&#039;s third-largest oil importer announced increased fuel prices and austerity measures due to the energy crisis.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-15T12:13:35.848630+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss"
+  },
+  {
+    "id": "747de88864fd",
+    "source": "PressTV",
+    "date": "2026-05-15T12:13",
+    "headline": "Leader: Epic of 3rd sacred defense proof Shahnameh is Iran's reality",
+    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei has called on Iran’s cultural and artistic figures to rise like the epic poet Ferdowsi and immortalize the story of the nation's latest \"sacred defense\".",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-15T12:13:37.647060+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/15/768654/Leader---Epic-of-third-sacred-defense--proof-Shahnameh-is-Iran-s-reality"
+  },
+  {
+    "id": "260d0ee16bae",
+    "source": "PressTV",
+    "date": "2026-05-15T12:13",
+    "headline": "Imam Khamenei returned Ummah to Islam: Bahrain's Sheikh Qassim",
+    "excerpt": "Bahraini senior cleric Ayatollah Sheikh Isa Qassim praised late Leader of Islamic Revolution Ayatollah Seyyed Ali Khamenei as a “competent man who returned the Ummah to Islam.”",
+    "category": "Other",
+    "location": "Bahrain",
+    "addedAt": "2026-05-15T12:13:37.647111+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/15/768652/Imam-Khamenei-returned-Ummah-to-Islam-Sheikh-Qassim"
+  },
+  {
     "id": "e747816dab0d",
     "source": "Al Jazeera",
     "date": "2026-05-15T09:46",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-05T20:45:45.873145+00:00",
     "link": "https://www.aljazeera.com/video/quotable/2026/5/5/miscalculation-over-strait-of-hormuz-could-bring-an-all-out?traffic_source=rss"
-  },
-  {
-    "id": "86ac24ff2bc2",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T18:57",
-    "headline": "Sudan recalls Ethiopia ambassador after strikes on Khartoum",
-    "excerpt": "Sudan has recalled its ambassador to Addis Ababa, accusing Ethiopia of being behind attacks on Khartoum’s airport.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-05-05T19:42:39.134539+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/sudan-recalls-ethiopia-ambassador-after-strikes-on-khartoum?traffic_source=rss"
-  },
-  {
-    "id": "671248ff53d8",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T18:48",
-    "headline": "Video: Trump says Iran should ‘wave the white flag’",
-    "excerpt": "US President Donald Trump said Iran should ‘wave the white flag of surrender’ in the war.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-05T19:42:39.134611+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/video-trump-says-iran-should-wave-the-white-flag?traffic_source=rss"
-  },
-  {
-    "id": "50f7cc89b78f",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T18:38",
-    "headline": "US push for Lebanon and Israel leaders to meet could inflame tensions",
-    "excerpt": "Lebanon&#039;s President Joseph Aoun is under pressure to meet with Israel&#039;s Benjamin Netanyahu on a US visit this month.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-05T19:42:39.134649+00:00",
-    "link": "https://www.aljazeera.com/features/2026/5/5/us-push-for-lebanon-and-israel-leaders-to-meet-could-inflame-tensions?traffic_source=rss"
-  },
-  {
-    "id": "3552348e7091",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T17:36",
-    "headline": "UK convicts four Palestine Action activists over break-in at Israeli firm",
-    "excerpt": "Members of the now-banned Palestine Action group raided Elbit&#039;s facility in Bristol months into Israel&#039;s war on Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-05T19:42:39.134688+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/uk-convicts-four-palestine-action-activists-over-break-in-at-israeli-firm?traffic_source=rss"
-  },
-  {
-    "id": "0dc6dfdbb3d5",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T16:50",
-    "headline": "UAE comes under Iranian attacks for second consecutive day: Ministry",
-    "excerpt": "Iran says the country&#039;s forces &#039;have not carried out any missile or drone operations against the UAE in recent days&#039;.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-05T19:42:39.134717+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss"
   }
 ]
