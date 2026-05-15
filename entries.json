@@ -1,5 +1,60 @@
 [
   {
+    "id": "386e1a242646",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T12:55",
+    "headline": "Deadly attack on Pakistan outpost puts Afghanistan ceasefire at risk",
+    "excerpt": "Two assaults in the northwest region have killed more than 20 people in recent days.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-15T14:39:30.132411+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/15/deadly-attack-on-pakistan-outpost-puts-afghanistan-ceasefire-at-risk?traffic_source=rss"
+  },
+  {
+    "id": "ba6fd42f3412",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T12:49",
+    "headline": "Israeli settler attacks activist during tour on settler violence",
+    "excerpt": "A group of Israeli settlers attacked Israeli rights activists in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-15T14:39:30.132458+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israeli-settler-attacks-activist-during-tour-on-settler-violence?traffic_source=rss"
+  },
+  {
+    "id": "5c079beea16e",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T12:21",
+    "headline": "Why the Iran conflict is becoming a problem for BRICS",
+    "excerpt": "Second BRICS meeting in a row collapses without joint position because of disagreements over the war on Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-15T14:39:30.132492+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/15/why-the-iran-conflict-is-becoming-a-problem-for-brics?traffic_source=rss"
+  },
+  {
+    "id": "c55a24bd0fb8",
+    "source": "PressTV",
+    "date": "2026-05-15T14:39",
+    "headline": "Former American congressman admits US defeat in war against Iran",
+    "excerpt": "Former US congressman and three-time presidential candidate Ron Paul has admitted that the United States has been defeated in the war against Iran, despite “the trillions extorted from Americans for the most expensive military on earth”.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-15T14:39:31.630310+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/15/768659/Former-congressman-admits-US-defeat-in-war-against-Iran"
+  },
+  {
+    "id": "a8486d9083fe",
+    "source": "PressTV",
+    "date": "2026-05-15T14:39",
+    "headline": "Iran FM: Transfer of enriched uranium not on agenda, US cannot be trusted",
+    "excerpt": "The Iranian foreign minister says the issue of transferring Iran’s enriched uranium is not currently on the agenda of possible talks with the US.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-15T14:39:31.630350+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/15/768665/Iran-FM-Transfer-of-enriched-uranium-not-on-agenda-of-current-talks"
+  },
+  {
     "id": "5e27ad993358",
     "source": "Al Jazeera",
     "date": "2026-05-15T10:57",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-06T00:06:49.608692+00:00",
     "link": "https://presstv.ir/Detail/2026/05/05/768115/Iran-UAE-United-States-warning"
-  },
-  {
-    "id": "819802651798",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T21:07",
-    "headline": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’",
-    "excerpt": "US CENTCOM spokesman Tim Hawkins says the main priorities in Hormuz are securing safe routes &amp; blockading Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-05T22:04:53.941150+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss"
-  },
-  {
-    "id": "2cf89a0f38e0",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T20:53",
-    "headline": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
-    "excerpt": "Comments come before Marco Rubio’s meeting with Pope Leo XIV at the Vatican on Thursday.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-05T22:04:53.941190+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss"
-  },
-  {
-    "id": "a154350406f5",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T20:45",
-    "headline": "Israel kills one boy, injures officers in strike on Gaza police station",
-    "excerpt": "A 15-year-old boy, Mahmoud Sahweil, was killed when Israel struck a Gaza police station.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-05T22:04:53.941210+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss"
-  },
-  {
-    "id": "a7e11bca0a92",
-    "source": "PressTV",
-    "date": "2026-05-05T22:04",
-    "headline": "Iran will never submit to coercion; threats, bullying to lead nowhere: President",
-    "excerpt": "President Masoud Pezeshkian strongly discourages the US against continuing to resort to its overbearing methods to try to exact concessions from Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-05T22:04:55.630292+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/05/768113/Iran-United-States-pressure-threats-Pezeshkian"
-  },
-  {
-    "id": "05de32044bc9",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T19:45",
-    "headline": "Miscalculation over Strait of Hormuz could ‘bring an all-out war’",
-    "excerpt": "Neither the US nor Iran are willing to compromise on the Strait of Hormuz, increasing the chance of miscalculation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-05T20:45:45.873145+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/5/5/miscalculation-over-strait-of-hormuz-could-bring-an-all-out?traffic_source=rss"
   }
 ]
