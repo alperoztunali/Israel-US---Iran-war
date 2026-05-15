@@ -1,5 +1,27 @@
 [
   {
+    "id": "c75fc617850b",
+    "source": "Al Jazeera",
+    "date": "2026-05-14T23:22",
+    "headline": "UN aid convoy hit by drone strikes in Ukraine’s Kherson",
+    "excerpt": "A UN humanitarian convoy delivering aid to the city of Kherson was hit twice by drones.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-15T00:11:10.476507+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson?traffic_source=rss"
+  },
+  {
+    "id": "709b212576ce",
+    "source": "PressTV",
+    "date": "2026-05-15T00:11",
+    "headline": "Iran parl. speaker warns US theatrics in Hormuz could trigger new global financial crisis",
+    "excerpt": "Iran's parliament speaker warns that the US's efforts at sustaining military escalation near the Strait of Hormuz could trigger a fresh global financial crisis.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-15T00:11:12.036087+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/14/768635/Iran-warning-United-States-Hormuz-Hegseth"
+  },
+  {
     "id": "1b5952e2b11f",
     "source": "Al Jazeera",
     "date": "2026-05-14T20:56",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-05T16:14:31.838605+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/5/us-iran-ceasefire-holds-despite-hormuz-standoff-pentagon-chief-hegseth?traffic_source=rss"
-  },
-  {
-    "id": "e4e161269a5f",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T14:19",
-    "headline": "Map of dominance: Why Iran can’t afford to give up Hormuz control",
-    "excerpt": "The vital passageway is key for Tehran as it seeks to leverage in negotiations with Washington.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-05T16:14:31.838641+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/map-of-dominance-why-iran-cant-afford-to-give-up-hormuz-control?traffic_source=rss"
-  },
-  {
-    "id": "b10288ae3d61",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T14:12",
-    "headline": "Smotrich says he promised his son ‘more destruction’ in Lebanon",
-    "excerpt": "Israeli Finance Minister Bezalel Smotrich said he promised his son there would be ‘more destruction’ in Lebanon.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-05-05T14:28:20.205433+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/smotrich-says-he-promised-his-son-more-destruction-in-lebanon?traffic_source=rss"
   }
 ]
