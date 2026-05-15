@@ -1,5 +1,49 @@
 [
   {
+    "id": "e747816dab0d",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T09:46",
+    "headline": "Trump and Xi move towards business-first relationship after Beijing summit",
+    "excerpt": "The two leaders did not resolve differences on key issues like Iran and Taiwan, despite push to extend truce.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-15T10:07:53.505923+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss"
+  },
+  {
+    "id": "11813520abee",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T09:01",
+    "headline": "How Xi-Trump summit failed to yield Iran war breakthrough",
+    "excerpt": "US officials have nudged China to do more on the blocked Hormuz strait. President Xi doesn&#039;t appear to have budged.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-15T10:07:53.505967+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss"
+  },
+  {
+    "id": "5cb12bbf1072",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T00:00",
+    "headline": "Iran war live: China wants swift end to war, Israel escalates in Lebanon",
+    "excerpt": "China&#039;s Foreign Ministry says window for talks must not be lost, Israel steps up assassination attacks in south Lebanon.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-15T10:07:53.506020+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
+  },
+  {
+    "id": "3f4f18672bb3",
+    "source": "PressTV",
+    "date": "2026-05-15T10:07",
+    "headline": "Iran urges Security Council overhaul, BRICS role in global governance",
+    "excerpt": "Iranian Foreign Minister Abbas Araghchi has urged fundamental reforms to the United Nations and international governance structures.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-15T10:07:55.664470+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/15/768646/Iran-calls-for-UN-overhaul-stresses-BRICS-role"
+  },
+  {
     "id": "6583340f8b39",
     "source": "Al Jazeera",
     "date": "2026-05-15T07:05",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-05T19:42:39.134717+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss"
-  },
-  {
-    "id": "f3505351c134",
-    "source": "PressTV",
-    "date": "2026-05-05T19:42",
-    "headline": "IRGC warns ships must exclusively use designated routes in Hormuz Strait",
-    "excerpt": "The IRGC warns ships seeking to pass the Strait of Hormuz must only use corridors secured by Iran.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-05T19:42:40.713941+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/05/768106/Iran-IRGC-warning-sailing-Hormuz-Strait-routes"
-  },
-  {
-    "id": "a92ade345d0a",
-    "source": "PressTV",
-    "date": "2026-05-05T19:42",
-    "headline": "Iran warns UAE of 'crushing and regretful' response if attacks are launched from its soil",
-    "excerpt": "Iran has warned the UAE that any military action launched from its soil against Iranian territory will be met with a “crushing and regretful” response.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-05T19:42:40.713992+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/05/768109/iran-warns-uae-crushing-regretful-response-attacks-launched-from-soil"
-  },
-  {
-    "id": "7c015fa0e528",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T16:50",
-    "headline": "UAE comes under Iranian attacks for second consecutive day",
-    "excerpt": "The strikes come a day after the Gulf nation was attacked by 15 missiles amid a shaky US-Iran ceasefire.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-05T17:53:48.460426+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss"
-  },
-  {
-    "id": "c1c89f5e115d",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T16:50",
-    "headline": "Ukraine, Russia exchange drone strikes ahead of V-Day ‘ceasefire’",
-    "excerpt": "Ukraine strikes multiple sites in Moscow, following Russia’s strikes on a Ukrainian gas production facility.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-05T17:53:48.460474+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss"
   }
 ]
