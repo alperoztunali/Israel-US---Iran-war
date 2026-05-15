@@ -1,5 +1,38 @@
 [
   {
+    "id": "ecd55c6995e7",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T15:44",
+    "headline": "India and UAE sign defence pacts, as Iran war tensions simmer",
+    "excerpt": "A deal inked during Modi&#039;s visit to the UAE focuses on maritime security, cyberdefence, and military collaboration.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-15T16:28:19.560856+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer?traffic_source=rss"
+  },
+  {
+    "id": "f2a8ce19191d",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T14:33",
+    "headline": "Araghchi: Iran doubts US ‘seriousness’ about talks amid nuclear deadlock",
+    "excerpt": "Iran&#039;s FM Abbas Araghchi spoke at a BRICS meeting in India about his &quot;distrust&quot; of the US regarding war negotiations.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-05-15T16:28:19.560901+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/15/araghchi_iran_doubts_us_seriousness_about_talks_amid_nuclear_deadlock?traffic_source=rss"
+  },
+  {
+    "id": "8e77d960a859",
+    "source": "Al Jazeera",
+    "date": "2026-05-15T14:32",
+    "headline": "Nakba: Jewish voices are challenging the stories Israel tells about itself",
+    "excerpt": "A film director, historian and Holocaust survivor speak to Al Jazeera as opinions shift.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-15T16:28:19.560936+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/15/nakba-jewish-voices-are-challenging-the-stories-israel-tells-about-itself?traffic_source=rss"
+  },
+  {
     "id": "386e1a242646",
     "source": "Al Jazeera",
     "date": "2026-05-15T12:55",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-06T00:06:47.752102+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/buses-block-off-roads-in-bolivia-as-transport-workers-strike-over-fuel?traffic_source=rss"
-  },
-  {
-    "id": "249d6f7fb3f3",
-    "source": "Al Jazeera",
-    "date": "2026-05-05T23:40",
-    "headline": "Trump announces pause on US operation to reopen Strait of Hormuz",
-    "excerpt": "US president says Project Freedom paused to see whether an agreement with Iran can be finalised and signed.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-06T00:06:47.752137+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "1bd23990fa3e",
-    "source": "PressTV",
-    "date": "2026-05-06T00:06",
-    "headline": "Amid Iran's resilience, Trump says 'pausing' plan to reopen Strait of Hormuz",
-    "excerpt": "Trump says he is \"pausing\" his so-called \"Project Freedom\" to reopen the Strait of Hormuz amid strict controls being exercised over the waterway by Iran.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-06T00:06:49.608659+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/06/768116/Trump-pause-Iran-Hormuz-Project-Freedom"
-  },
-  {
-    "id": "1fa62b6cea34",
-    "source": "PressTV",
-    "date": "2026-05-06T00:06",
-    "headline": "Iran warns UAE: Refrain from aligning with aggressors",
-    "excerpt": "The Foreign Ministry calls on the UAE to discontinue its alignment and cooperation with the parties that are hostile towards Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-06T00:06:49.608692+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/05/768115/Iran-UAE-United-States-warning"
   }
 ]
