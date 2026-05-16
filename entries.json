@@ -1,5 +1,49 @@
 [
   {
+    "id": "2a0d97be6022",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T12:21",
+    "headline": "Moment of deadly train crash in Bangkok",
+    "excerpt": "At least eight people have been killed after a freight train crashed into a public bus in Thailand.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-16T14:10:33.630578+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/moment-of-deadly-train-crash-in-bangkok?traffic_source=rss"
+  },
+  {
+    "id": "df15cfb7a0b5",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T10:43",
+    "headline": "At least eight killed, 35 injured as train hits bus in Bangkok",
+    "excerpt": "A train crashed into a public bus near an airport rail link station in Bangkok&#039;s city centre, Thai media report.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-16T14:10:33.630631+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/16/at-least-eight-killed-25-injured-as-train-hits-bus-in-bangkok?traffic_source=rss"
+  },
+  {
+    "id": "5616b15d4494",
+    "source": "PressTV",
+    "date": "2026-05-16T14:10",
+    "headline": "Iran to unveil new mechanism to manage Strait of Hormuz, will collect tolls: Senior MP",
+    "excerpt": "A senior Iranian lawmaker says the country will unveil a new mechanism to control maritime traffic in the Strait of Hormuz and will include charging fees.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-16T14:10:35.115868+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/16/768723/Iran-to-unveil-new-mechanism-for-Hormuz-control,-will-collect-tolls"
+  },
+  {
+    "id": "9ee2aba10ba4",
+    "source": "PressTV",
+    "date": "2026-05-16T14:10",
+    "headline": "Restraint will not last forever, Iran warns Persian Gulf Arab countries",
+    "excerpt": "A senior adviser to Iran’s Leader warns the country’s restraint would wear thin if Arab countries keep serving the US.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-16T14:10:35.115912+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/16/768725/Iran-warning-Persian-Gulf-neighbors-US-Israel-Mokhber"
+  },
+  {
     "id": "5766c3dfa69f",
     "source": "Al Jazeera",
     "date": "2026-05-16T12:06",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-06T19:04:26.891760+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iran-has-attained-an-elevated-international-standing-says-fm?traffic_source=rss"
-  },
-  {
-    "id": "3ee59ab3dc27",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T17:35",
-    "headline": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
-    "excerpt": "It was the first attack on Beirut&#039;s southern since a truce in the Israel-Hezbollah war went into  force on April 17.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-06T19:04:26.891787+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss"
-  },
-  {
-    "id": "ce7017206a04",
-    "source": "PressTV",
-    "date": "2026-05-06T19:04",
-    "headline": "Iran ready for diplomacy to end war, but will uphold national rights, Pezeshkian tells Macron",
-    "excerpt": "President Pezeshkian has told his French counterpart that the Islamic Republic is ready to pursue in earnest diplomatic channels to end the war and secure the rights of the Iranian nation.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-06T19:04:28.854460+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/06/768166/iran-pursue-diplomacy-war-pezeshkian-macron"
-  },
-  {
-    "id": "ec114afdb6ec",
-    "source": "PressTV",
-    "date": "2026-05-06T19:04",
-    "headline": "Iran rejects ‘flawed’ US resolution on Hormuz, says only viable solution is end of war",
-    "excerpt": "Iran’s permanent mission to the UN warns that the US is pushing a politically motivated UN Security Council draft resolution to legitimize its unlawful actions.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-06T19:04:28.854512+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/06/768167/Iran-rejects-%E2%80%98flawed%E2%80%99-US-resolution-on-Hormuz,-says-only-viable-solution-is-end-of-war"
-  },
-  {
-    "id": "e8d63bb482ce",
-    "source": "PressTV",
-    "date": "2026-05-06T19:04",
-    "headline": "Victory in current war will turn Iran into global powerhouse: Speaker",
-    "excerpt": "Iran’s Ghalibaf vows the country will become a major international actor if it wins the current war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-06T19:04:28.854545+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/06/768163/Iran-Ghalibaf-message-war-victory-US-benefits"
   }
 ]
