@@ -1,5 +1,38 @@
 [
   {
+    "id": "7444dd1fc1a3",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T20:31",
+    "headline": "Thousands protest at Eurovision final as five countries boycott over Israel",
+    "excerpt": "Spain, Ireland, Iceland, Slovenia and Netherlands all withdrew in protest against Israel&#039;s participation amid Gaza war.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-16T20:56:19.698020+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss"
+  },
+  {
+    "id": "b57aa3ba5cdb",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T20:00",
+    "headline": "Can new Pakistan-Afghanistan tensions lead to another border clash?",
+    "excerpt": "Both sides target each other despite a pause in fighting mediated in March.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-16T20:56:19.698069+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss"
+  },
+  {
+    "id": "b935b92706a7",
+    "source": "PressTV",
+    "date": "2026-05-16T20:56",
+    "headline": "Iran’s parliament speaker: ‘Future belongs to Global South’",
+    "excerpt": "Qalibaf has stated that the heroic resistance of the Iranian nation over 70 days has become a driving force in accelerating a transformation unseen in a century.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-16T20:56:21.469774+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/16/768747/Iran%E2%80%99s-parliament-speaker--%E2%80%98The-future-belongs-to-the-Global-South%E2%80%99"
+  },
+  {
     "id": "8cb7a6e2d1b6",
     "source": "Al Jazeera",
     "date": "2026-05-16T18:46",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-07T00:06:35.296198+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "38af17a6fced",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T23:20",
-    "headline": "Israeli strikes kill five Palestinians across Gaza in one day",
-    "excerpt": "Five Palestinians were killed in one day in separate Israeli strikes across Gaza.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-07T00:06:35.296235+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss"
-  },
-  {
-    "id": "450418baa44a",
-    "source": "PressTV",
-    "date": "2026-05-07T00:06",
-    "headline": "Iran's parl. speaker calls US media's bluff about pending arrangement with Tehran",
-    "excerpt": "Iran's parliament speaker dismisses recent reports about a supposed impending arrangement between Tehran and Washington.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-07T00:06:37.065702+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/06/768177/Iran-United-States-Axios-Qalibaf-Trump"
-  },
-  {
-    "id": "874381a37ebb",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T22:05",
-    "headline": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
-    "excerpt": "Lawmakers say US policy of ambiguity on Israel&#039;s nuclear capabilities heightens risks amid US-Israel war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-06T23:07:46.406882+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss"
   }
 ]
