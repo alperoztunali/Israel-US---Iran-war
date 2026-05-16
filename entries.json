@@ -1,5 +1,38 @@
 [
   {
+    "id": "9bb9b4efdcf2",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T21:42",
+    "headline": "Two presidential campaign staffers killed in Colombia as elections near",
+    "excerpt": "Rights office says the violence could hinder &#039;exercise of political rights&#039; ahead of May vote to replace Gustavo Petro.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-16T21:56:43.623210+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss"
+  },
+  {
+    "id": "87fd7f89e2ce",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T20:44",
+    "headline": "Bolivian army attempts to clear roads after 11 days of protests",
+    "excerpt": "Military police in Bolivia arrested demonstrators, and used tear gas to disrupt road blockades after 11 days of protests",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-16T21:56:43.623265+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/bolivian-army-attempts-to-clear-roads-after-11-days-of-protests?traffic_source=rss"
+  },
+  {
+    "id": "96ef5dfc222f",
+    "source": "PressTV",
+    "date": "2026-05-16T21:56",
+    "headline": "Hezbollah: Qassam commander's martyrdom shows Israel respects no agreement",
+    "excerpt": "Hezbollah strongly condemns the assassination of a senior Hamas commander in an Israeli strike on the Gaza Strip.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-16T21:56:45.466691+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/16/768748/Hezbollah-condemns-Hamas-commander-assassination-Israel"
+  },
+  {
     "id": "7444dd1fc1a3",
     "source": "Al Jazeera",
     "date": "2026-05-16T20:31",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-07T04:06:52.422344+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss"
-  },
-  {
-    "id": "05746758ff4a",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T21:17",
-    "headline": "Trump says war will be ‘over quickly’ as Iran reviews US peace proposal",
-    "excerpt": "US president indicates momentum building for a deal, but Iran says it is still reviewing Washington&#039;s proposal.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-07T04:06:52.422393+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss"
-  },
-  {
-    "id": "a78ff3248c26",
-    "source": "PressTV",
-    "date": "2026-05-07T04:06",
-    "headline": "Senior Hamas leader's son wounded, five others killed in Israeli strikes on Gaza: Report",
-    "excerpt": "Israeli airstrikes have injured the son of senior Hamas leader Khalil al-Hayya and killed at least five other people across the Gaza Strip, a report says.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-07T04:06:54.145690+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/07/768178/Hamas-leader-son-injured-five-killed-Gaza-Israel"
-  },
-  {
-    "id": "2e2605a4b373",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T23:43",
-    "headline": "What are China’s surprise gains in the war on Iran?",
-    "excerpt": "Iran&#039;s Foreign Minister Abbas Araghchi is in Beijing, seeking support on a deal with the US.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-07T00:06:35.296198+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss"
   }
 ]
