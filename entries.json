@@ -1,5 +1,49 @@
 [
   {
+    "id": "38f66375bb52",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T16:02",
+    "headline": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
+    "excerpt": "Israel targeted Izz al-Din al-Haddad, the head of Hamas&#039;s armed wing in Gaza, in an attack that killed seven others.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-16T16:29:18.175555+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss"
+  },
+  {
+    "id": "df1d565bdcad",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T15:58",
+    "headline": "Abu-Bilal al-Minuki: ISIL’s shadow commander in West Africa",
+    "excerpt": "Nigeria and the US say &#039;key&#039; ISIL leader was killed in joint military operation in Borno state.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-16T16:29:18.175605+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/16/abu-bilal-al-minuki-isils-shadow-commander-in-west-africa?traffic_source=rss"
+  },
+  {
+    "id": "3f9ba08dc524",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T15:33",
+    "headline": "Iran warns of readiness for war and economic costs as US talks falter",
+    "excerpt": "Iranian leaders and TV have ramped up pressure on the US with a stream of messaging to domestic and foreign audiences.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-16T16:29:18.175678+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss"
+  },
+  {
+    "id": "295f90ba015a",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T15:16",
+    "headline": "Israeli army kills Palestinian man, raids homes in occupied West Bank",
+    "excerpt": "Israeli forces killed a 34-year-old man in Jenin Camp, the Palestinian health ministry said.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-16T16:29:18.175716+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/16/israeli-army-kills-palestinian-man-raids-homes-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
     "id": "3760de951727",
     "source": "PressTV",
     "date": "2026-05-16T15:17",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-06T22:01:46.644760+00:00",
     "link": "https://presstv.ir/Detail/2026/05/06/768174/Iran-IRGC-warning-enemies-United-States-Israel"
-  },
-  {
-    "id": "f9b14ba7783a",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T20:28",
-    "headline": "Russia cuts mobile internet in Moscow citing drone security concerns",
-    "excerpt": "Russia has begun rolling mobile internet shutdowns in Moscow and other cities.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-06T20:50:46.303570+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russia-cuts-mobile-internet-in-moscow-citing-drone-security-concerns?traffic_source=rss"
-  },
-  {
-    "id": "7eeecff77438",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T19:43",
-    "headline": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
-    "excerpt": "Fighters attack &#039;Africa&#039;s Alcatraz&#039;, which detains high-value prisoners, and disrupt crucial supply chains to capital.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-05-06T20:50:46.303610+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss"
-  },
-  {
-    "id": "be4441dff51e",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T19:31",
-    "headline": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
-    "excerpt": "At least 17 others wounded in a targeted attack on Naseem al-Kalazani&#039;s vehicle in western Khan Younis city.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-06T20:50:46.303636+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics?traffic_source=rss"
-  },
-  {
-    "id": "c2c38ad4ca86",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T18:25",
-    "headline": "Why are Pentagon officials talking about Iran’s ‘deadly dolphins’?",
-    "excerpt": "Soraya Lennie discusses false claims about Iran using marine life in warfare.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-05-06T19:04:26.891671+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/why-are-pentagon-officials-talking-about-irans-deadly?traffic_source=rss"
   }
 ]
