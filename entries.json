@@ -1,5 +1,49 @@
 [
   {
+    "id": "14e894651134",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T03:37",
+    "headline": "Israel launches deadly air strikes on Gaza City apartment building",
+    "excerpt": "At least seven Palestinians were killed when Israeli air strikes hit a residential building and a vehicle in Gaza City.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-16T04:04:09.120249+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss"
+  },
+  {
+    "id": "9c782a9cf11f",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T01:59",
+    "headline": "Gaza aid convoy in Libya prepares to head to Gaza",
+    "excerpt": "The &quot;Soumoud 2&quot; land convoy is preparing to leave Libya to bring aid to Gaza.",
+    "category": "Movement",
+    "location": "Gaza",
+    "addedAt": "2026-05-16T04:04:09.120290+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss"
+  },
+  {
+    "id": "2fd996afb59d",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T00:00",
+    "headline": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
+    "excerpt": "Lebanon&#039;s Ministry of Health said Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-05-16T04:04:09.120320+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss"
+  },
+  {
+    "id": "57e8fee3ea7e",
+    "source": "PressTV",
+    "date": "2026-05-16T04:04",
+    "headline": "US's war of choice on Iran imposed avoidable costs on Americans: FM",
+    "excerpt": "Foreign Minister Abbas Araghchi says the US's unprovoked aggression towards Iran has burdened ordinary Americans with avoidable economic costs.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-16T04:04:11.685914+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/16/768688/Iran-United-States-war-costs-taxpayers"
+  },
+  {
     "id": "11d640183e7f",
     "source": "PressTV",
     "date": "2026-05-16T00:10",
@@ -5454,49 +5498,5 @@
     "location": "Strait Of Hormuz",
     "addedAt": "2026-05-06T13:16:51.740331+00:00",
     "link": "https://presstv.ir/Detail/2026/05/06/768140/World-Bank-Strait-Hormuz-traffic-will-not-normalize-until-late-2026"
-  },
-  {
-    "id": "2ff9ac1b39f6",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T10:17",
-    "headline": "Saudi Arabia posts $33.5bn budget deficit amid drop in oil sales",
-    "excerpt": "Kingdom announces sharp rise in budget shortfall amid the effective closure of the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-05-06T11:26:30.409485+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/6/saudi-arabia-posts-33-5bn-budget-deficit-amid-drop-in-oil-sales?traffic_source=rss"
-  },
-  {
-    "id": "75d434f3f71d",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T10:12",
-    "headline": "Israeli attacks on southern, eastern Lebanon kill at least six people",
-    "excerpt": "Israel issues forced displacement orders for 12 villages in southern Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-06T11:26:30.409528+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/6/israeli-attacks-on-southern-eastern-lebanon-kill-at-least-six-people?traffic_source=rss"
-  },
-  {
-    "id": "d624e99445d6",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T08:52",
-    "headline": "US petrol prices 50 percent higher than before war on Iran",
-    "excerpt": "The average price of petrol in the United States has reached $4.48 per gallon, according to AAA.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-06T11:26:30.409563+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "ca7f25d566b9",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T08:35",
-    "headline": "‘A stress test’: US-Germany rift widens as Iran war drags on",
-    "excerpt": "German official says US-Europe relationship is being tested as opposition MP says Berlin is &#039;not neutral&#039;",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-06T09:28:57.974829+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on?traffic_source=rss"
   }
 ]
