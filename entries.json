@@ -1,5 +1,27 @@
 [
   {
+    "id": "64dbbdd2ca1d",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T16:59",
+    "headline": "Al Jazeera’s exclusive report from the Strait of Hormuz",
+    "excerpt": "Heavy ship traffic and rising regional tensions over one of the world’s most critical energy routes.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-16T18:41:00.376894+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "fc4b83a99930",
+    "source": "PressTV",
+    "date": "2026-05-16T18:41",
+    "headline": "Russia says US resolution on Strait of Hormuz 'not right'",
+    "excerpt": "Russia says the US resolution on the Strait of Hormuz is incorrect, echoing China's criticism of the draft measure.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-16T18:41:01.956498+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/16/768741/Russia-says-US-resolution-Strait-Hormuz-not-right"
+  },
+  {
     "id": "38f66375bb52",
     "source": "Al Jazeera",
     "date": "2026-05-16T16:02",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-06T22:01:45.096310+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss"
-  },
-  {
-    "id": "f037f8e92631",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T21:01",
-    "headline": "Israel bombs Beirut’s southern suburbs",
-    "excerpt": "Israel bombed Beirut’s southern suburbs for the first time since the ‘ceasefire’ took effect on April 17.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-06T22:01:45.096337+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss"
-  },
-  {
-    "id": "5f71dc296dd2",
-    "source": "PressTV",
-    "date": "2026-05-06T22:01",
-    "headline": "Iran to confront any fresh attack with a strategy 'beyond enemy's calculations': IRGC official",
-    "excerpt": "The IRGC Navy's deputy for political affairs warns adversaries about the unpredictable scale, shrewdness, and manner of Iran's response to any fresh aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-06T22:01:46.644760+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/06/768174/Iran-IRGC-warning-enemies-United-States-Israel"
   }
 ]
