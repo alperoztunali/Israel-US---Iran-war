@@ -1,5 +1,38 @@
 [
   {
+    "id": "5766c3dfa69f",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T12:06",
+    "headline": "Ultra-Orthodox conscription dispute pushes Israeli government to brink",
+    "excerpt": "Israeli government faces collapse as coalition parties clash over military draft exemptions for Haredi constituents.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-16T12:38:51.891562+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/16/how-ultra-orthodox_recruitment_could_unseat_netanyahu_in_israeli_elections?traffic_source=rss"
+  },
+  {
+    "id": "3b710c9b4a4b",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T12:02",
+    "headline": "Robert Lewandowski to leave Barcelona with his ‘mission complete’",
+    "excerpt": "Veteran Polish striker helped Barca to three La Liga titles, including this season&#039;s trophy, and the 2025 Copa del Rey.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-16T12:38:51.891620+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/16/robert-lewandowski-to-leave-barcelona-with-his-mission-complete?traffic_source=rss"
+  },
+  {
+    "id": "70ed99c3b69e",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T11:24",
+    "headline": "Israel’s Image Crisis: Becoming Too Big to Spin?",
+    "excerpt": "Israel has never spent more on its national propaganda campaigns.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-16T12:38:51.891668+00:00",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss"
+  },
+  {
     "id": "3aa5fdfb632b",
     "source": "Al Jazeera",
     "date": "2026-05-16T10:43",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-06T19:04:28.854545+00:00",
     "link": "https://presstv.ir/Detail/2026/05/06/768163/Iran-Ghalibaf-message-war-victory-US-benefits"
-  },
-  {
-    "id": "ab0329633e34",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T16:09",
-    "headline": "UN demands Israel immediately releases flotilla activists",
-    "excerpt": "The United Nations has called on Israel to “immediately” release two activists detained on a flotilla bound for Gaza.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-05-06T17:15:26.508717+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss"
-  },
-  {
-    "id": "3da788d07d02",
-    "source": "PressTV",
-    "date": "2026-05-06T17:15",
-    "headline": "Iran’s armed forces vow 'humiliating defeat' if US uses talks as deception tool",
-    "excerpt": "A senior Iranian military official says the country’s armed forces remain strong and fully prepared to deliver a “humiliating defeat” to bullying adversaries.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-06T17:15:28.114197+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/06/768161/Iran-vows--humiliating-defeat--if-US-uses-negotiations-as-deception-tool"
-  },
-  {
-    "id": "887cb278fd25",
-    "source": "PressTV",
-    "date": "2026-05-06T17:15",
-    "headline": "‘Negotiation does not mean coercion’: Iran says it is reviewing US proposal",
-    "excerpt": "Tehran is still reviewing Washington’s latest proposal for a potential agreement to end the war, with no official response yet delivered.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-06T17:15:28.114237+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/06/768160/iran-reviews-proposal-negotiation-coercion"
   }
 ]
