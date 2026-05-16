@@ -1,5 +1,27 @@
 [
   {
+    "id": "8cb7a6e2d1b6",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T18:46",
+    "headline": "Francesca Albanese on Israeli sexual violence suffered by Palestinians",
+    "excerpt": "Francesca Albanese speaks to Redi Tlhabi about sexual violence suffered by Palestinians at the hands of Israeli forces.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-16T19:49:36.626914+00:00",
+    "link": "https://www.aljazeera.com/video/upfront/2026/5/16/francesca-albanese-on-israeli-sexual-violence-suffered-by-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "b1420afdc65c",
+    "source": "PressTV",
+    "date": "2026-05-16T19:49",
+    "headline": "US respects human rights as long as Israel is not implicated: Iran’s deputy FM",
+    "excerpt": "Iran’s deputy FM reacts to a US court order blocking Washington’s sanctions against UN rights rapporteur on Palestine.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-16T19:49:38.888798+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/16/768746/Iran-Gharibabadi-US-human-rights-sanctions-Albanese"
+  },
+  {
     "id": "64dbbdd2ca1d",
     "source": "Al Jazeera",
     "date": "2026-05-16T16:59",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-06T23:07:46.406882+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss"
-  },
-  {
-    "id": "fb7aeba489c4",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T21:30",
-    "headline": "Russia tells diplomats to leave Kyiv in case Moscow launches mass strikes",
-    "excerpt": "Moscow threatens retaliatory strikes if Ukraine attacks Russia during Victory Day commemorations.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-05-06T22:01:45.096263+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/6/russia-tells-diplomats-to-leave-kyiv-in-case-moscow-launches-mass-strikes?traffic_source=rss"
-  },
-  {
-    "id": "b08f32efcc87",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T21:17",
-    "headline": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
-    "excerpt": "Momentum could be building for Washington and Tehran to strike a deal that could ultimately end the war.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-06T22:01:45.096310+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss"
   }
 ]
