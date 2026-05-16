@@ -1,5 +1,38 @@
 [
   {
+    "id": "31dee0e9b21f",
+    "source": "Al Jazeera",
+    "date": "2026-05-16T09:05",
+    "headline": "From the Nakba to Gaza’s ruins: One man’s lifetime of displacement",
+    "excerpt": "Nakba survivor in Gaza recounts displacement after 1948 and 2023 and his unwavering attachment to his homeland.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-16T10:02:29.334948+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss"
+  },
+  {
+    "id": "40e7410862b1",
+    "source": "PressTV",
+    "date": "2026-05-16T10:02",
+    "headline": "US allies share responsibility for any escalation, Tehran warns",
+    "excerpt": "Iran’s mission to the UN says if Washington escalates the tensions against the Islamic Republic, US allies will share responsibility for the international fallout.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-16T10:02:32.090866+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/16/768712/Iran--Should-US-trigger-new-escalation,-all-co-sponsoring-states-share-consequences"
+  },
+  {
+    "id": "79df028ee69c",
+    "source": "PressTV",
+    "date": "2026-05-16T10:02",
+    "headline": "Ansarullah stands ‘shoulder to shoulder’ with Hezbollah against Israel: Yemeni deputy FM",
+    "excerpt": "Yemen’s deputy foreign minister says the country’s Ansarullah resistance movement stands “shoulder to shoulder” with Lebanon’s Hezbollah in the fight against Israeli acts of aggression.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-16T10:02:32.090920+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/16/768710/Yemeni-deputy-FM-Ansarullah-stands-shoulder-to-shoulder-with-Hezbollah-against-Israeli-atrocities-"
+  },
+  {
     "id": "3019f6a5a8d9",
     "source": "Al Jazeera",
     "date": "2026-05-16T08:02",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-06T15:41:33.355978+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russian-drone-hits-kindergarten-in-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "aca000ba83df",
-    "source": "Al Jazeera",
-    "date": "2026-05-06T13:31",
-    "headline": "Elderly man rescued from rubble after Israeli strike on Lebanon",
-    "excerpt": "An 80-year-old man has been pulled out from under the rubble of his house in the south.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-06T15:41:33.356013+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/elderly-man-rescued-from-rubble-after-israeli-strike-on-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "efa29f0066ca",
-    "source": "PressTV",
-    "date": "2026-05-06T15:41",
-    "headline": "China believes post-war Iran has higher international standing: Araghchi",
-    "excerpt": "The minister said that Iran trusts China and looks forward to its continued active role in promoting peace and ending the conflict in the region.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-06T15:41:38.586049+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/06/768148/Iran-China-agree-on-new-era-of-post-war-coop-as-FMs-meet-in-Beijing"
-  },
-  {
-    "id": "20cb0b4ed0da",
-    "source": "PressTV",
-    "date": "2026-05-06T15:41",
-    "headline": "Iran’s retaliatory attacks hit far more US military assets than acknowledged: Report",
-    "excerpt": "Iranian retaliatory airstrikes have damaged or destroyed at least 228 structures or pieces of equipment at US military sites across the region, according to satellite imagery.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-05-06T15:41:38.586088+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/06/768146/Iran%E2%80%99s-retaliatory-attacks-hit-far-more-US-military-assets-than-acknowledged--Report"
   }
 ]
