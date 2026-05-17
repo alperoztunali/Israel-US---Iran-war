@@ -1,5 +1,27 @@
 [
   {
+    "id": "b879d594f3c8",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T14:32",
+    "headline": "Is Christian Zionism in the US on a decline?",
+    "excerpt": "Support for Israel among young American conservatives is weakening. That might not bode well for Christian Zionism.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-17T15:08:57.679784+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss"
+  },
+  {
+    "id": "8400da2d12f8",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T14:07",
+    "headline": "Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant",
+    "excerpt": "Authorities say radiation levels remain normal, operations not affected.",
+    "category": "Missile/Drone",
+    "location": "Uae",
+    "addedAt": "2026-05-17T15:08:57.679827+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss"
+  },
+  {
     "id": "0a155ab4bda8",
     "source": "Al Jazeera",
     "date": "2026-05-17T13:41",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-07T19:00:19.168280+00:00",
     "link": "https://www.aljazeera.com/sports/2026/5/7/motorbike-rider-killed-in-crash-in-prestigious-race-in-northern-ireland?traffic_source=rss"
-  },
-  {
-    "id": "b2175a2f79ca",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T17:36",
-    "headline": "Why has the US sanctioned Iraq’s deputy oil minister for helping Iran?",
-    "excerpt": "The US accuses Ali Maarij al-Bahadly of helping Iran avoid sanctions and export its oil through Iraq.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-07T19:00:19.168315+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/why-has-the-us-sanctioned-iraqs-deputy-oil-minister-for-helping-iran?traffic_source=rss"
-  },
-  {
-    "id": "9cdcb3fa537d",
-    "source": "PressTV",
-    "date": "2026-05-07T19:00",
-    "headline": "Iran will soon hold 'great victory' celebration over enemies: Aref",
-    "excerpt": "Iran will soon celebrate its \"great victory\" against the US and Israel, leading to the lifting of years of sanctions and pressures, as First Vice President Aref vows high-tech reconstruction of damaged industries, control of the Strait of Hormuz, and rebuilding of the health sector.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-07T19:00:20.873005+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/07/768225/Iran-will-soon-hold--great-victory--celebration-over-enemies--Aref"
   }
 ]
