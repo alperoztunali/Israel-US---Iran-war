@@ -1,5 +1,27 @@
 [
   {
+    "id": "dacb8c684584",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T17:17",
+    "headline": "Italy’s leaders visit victims of Modena car-ramming, stabbing attacks",
+    "excerpt": "The attacks carried out by 31-year-old Salim El Khoudri appear related &#039;to a situation of psychiatric distress&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-17T18:36:34.908347+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/17/italian-leaders-visit-victims-of-modena-car-ramming-stabbing-attacks?traffic_source=rss"
+  },
+  {
+    "id": "4d6ce8343201",
+    "source": "PressTV",
+    "date": "2026-05-17T18:36",
+    "headline": "Assassination of Hamas commander sign of Israel's deceit on truce pledges: IRGC chief",
+    "excerpt": "IRGC commander says Israel's assassination of Hamas commander al-Haddad proved the regime's deceitfulness.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-17T18:36:36.564501+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/17/768816/Iran-IRGC-chief-statement-Israel-assassination-Hamas-commander-Haddad"
+  },
+  {
     "id": "d3e2d70c3942",
     "source": "Al Jazeera",
     "date": "2026-05-17T16:31",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-07T20:23:15.884611+00:00",
     "link": "https://www.aljazeera.com/video/inside-story/2026/5/7/can-china-help-end-the-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "1b93ab009a73",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T18:51",
-    "headline": "Inside the Israeli bloc that could topple Netanyahu",
-    "excerpt": "Netanyahu’s rivals unite ahead of elections, but is this alliance strong enough to actually unseat him?",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-07T20:23:15.884647+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/7/aje-onl-isr_bibipressure_av_v1-070526?traffic_source=rss"
-  },
-  {
-    "id": "ee0d9fc6e592",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T18:41",
-    "headline": "Israel’s attacks and pressure sowing seeds for division in tense Lebanon",
-    "excerpt": "Analysts say Israel aiming to exploit Lebanon’s divisions to force concessions amid military and political pressures.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-07T20:23:15.884685+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/israels-attacks-and-pressure-sowing-seeds-for-division-in-tense-lebanon?traffic_source=rss"
   }
 ]
