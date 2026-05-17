@@ -1,5 +1,93 @@
 [
   {
+    "id": "5b78fbf31778",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T09:14",
+    "headline": "At least four killed in Ukrainian drone attacks on Russia",
+    "excerpt": "Russian authorities say three people killed in the Moscow region and one in Belgorod in Ukrainian attacks.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-17T09:20:01.222120+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss"
+  },
+  {
+    "id": "81f6774d8494",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T08:56",
+    "headline": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
+    "excerpt": "Al Jazeera’s Tohid Asadi reports from the strait and explains Tehran’s newest plan to manage shipping.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-05-17T09:20:01.222168+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss"
+  },
+  {
+    "id": "d7c7b9ac49d9",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T08:42",
+    "headline": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
+    "excerpt": "Spain, Netherlands, Ireland, Iceland and Slovenia stage biggest political boycott in Eurovision history over Gaza war.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-17T09:20:01.222207+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss"
+  },
+  {
+    "id": "72a5749c6ad8",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T08:40",
+    "headline": "Sardar Azmoun left out as Iran announce World Cup 2026 squad",
+    "excerpt": "Veteran striker Azmoun was not named in the 30-man squad, which will be trimmed to 26 by June 1.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-17T09:20:01.222238+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad?traffic_source=rss"
+  },
+  {
+    "id": "f229cf582be1",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T07:20",
+    "headline": "Could a leadership change undo Israel’s international isolation?",
+    "excerpt": "Opposition leaders hope to end Israel&#039;s isolation, even as they retain policies towards Palestinians that led to it.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-05-17T09:20:01.222272+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/17/could-a-leadership-change-undo-israels-international-isolation?traffic_source=rss"
+  },
+  {
+    "id": "49174ed9dd5a",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T07:19",
+    "headline": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
+    "excerpt": "Iran says it will soon reveal the plan as Trump warns Tehran it will have a &#039;very bad time&#039; if deal not reached soon.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-05-17T09:20:01.222296+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "943e85fdff93",
+    "source": "PressTV",
+    "date": "2026-05-17T09:20",
+    "headline": "Bahraini protesters slam regime’s crackdown on Shia citizens",
+    "excerpt": "Bahrainis hold nationwide protests to express anger over the Al Khalifah regime’s intensified crackdown on Shia citizens.",
+    "category": "Other",
+    "location": "Bahrain",
+    "addedAt": "2026-05-17T09:20:03.023560+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/17/768770/Bahrain-protest-crackdown-Shia-"
+  },
+  {
+    "id": "5aa0ca2abb29",
+    "source": "PressTV",
+    "date": "2026-05-17T09:20",
+    "headline": "Israel pushes settlement scheme for southern Lebanon despite direct talks",
+    "excerpt": "The Israeli regime is pushing for an illegal settlement scheme in southern Lebanon despite direct negotiations with the Beirut government.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-17T09:20:03.023602+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/17/768768/Israel-advances-settlement-plan-for-southern-Lebanon-despite-direct-negotiations"
+  },
+  {
     "id": "511f55cf9bf5",
     "source": "Al Jazeera",
     "date": "2026-05-17T06:53",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-07T10:01:16.555019+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/7/rubio-arrives-at-vatican-to-meet-pope-leo-amid-trump-attacks?traffic_source=rss"
-  },
-  {
-    "id": "5138fd4c4e22",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T09:21",
-    "headline": "Iran releases video said to show US drone shot down over Hormuz",
-    "excerpt": "Iranian media has released video purporting to show the wreckage of a US  drone that was shot down by Iran.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-07T10:01:16.555046+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "42a46dfa96af",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T08:36",
-    "headline": "French warship moves towards Hormuz for possible defensive mission",
-    "excerpt": "Iran says it is reviewing a US proposal that Donald Trump says could bring the war to an end.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-07T10:01:16.555092+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss"
-  },
-  {
-    "id": "a21506030dcb",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T08:12",
-    "headline": "The Gaza journalist killed on the day his daughter was born",
-    "excerpt": "Sana&#039;s first birthday is shadowed by loss; her father Yahya was killed in an Israeli attack hours after her birth.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-07T10:01:16.555123+00:00",
-    "link": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss"
-  },
-  {
-    "id": "4f997246c5b4",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T08:01",
-    "headline": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
-    "excerpt": "Trump says US-Iran talks are progressing as Tehran reviews a US proposal delivered through Pakistan.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-05-07T10:01:16.555152+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss"
-  },
-  {
-    "id": "27481e056b22",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T06:37",
-    "headline": "Israeli attack on Gaza kills son of Hamas leader Khalil al-Hayya",
-    "excerpt": "Senior Hamas official Basem Naim confirms death of Azzam Khalil Al-Hayya in social media post.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-07T10:01:16.555183+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss"
-  },
-  {
-    "id": "38c439ba603d",
-    "source": "PressTV",
-    "date": "2026-05-07T10:01",
-    "headline": "Iran maritime authority 'ready to provide services' to commercial vessels operating in Hormuz Strait",
-    "excerpt": "Iran's maritime authority says it is ready to offer maritime, technical, and medical support services to commercial vessels operating in the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-07T10:01:18.102532+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/07/768182/Iran-ready-to-provide-maritime-services-to-commercial-vessels-operating-in-Strait-of-Hormuz"
-  },
-  {
-    "id": "7685c4916f39",
-    "source": "PressTV",
-    "date": "2026-05-07T10:01",
-    "headline": "Hamas: Israel adheres to no obligations, ceasefire talks at standstill over broken commitments",
-    "excerpt": "The leader of the Hamas resistance movement in the Gaza Strip says the occupying Israeli regime does not abide by any obligations.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-07T10:01:18.102566+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/07/768190/Hamas-says-Israel-adheres-to-no-commitment"
-  },
-  {
-    "id": "f1729142af6f",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T06:37",
-    "headline": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
-    "excerpt": "Khalil al-Hayya says his son, Azzam, was &#039;seriously wounded&#039; in deadly Israeli attack on Gaza City.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-07T07:19:31.651499+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss"
   }
 ]
