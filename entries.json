@@ -1,5 +1,104 @@
 [
   {
+    "id": "0a155ab4bda8",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T13:41",
+    "headline": "How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?",
+    "excerpt": "Israel&#039;s killing of Hamas&#039;s top commander Izz al-Din al-Haddad tests the Gaza ceasefire as the group pledges to adapt.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-17T13:58:44.815555+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss"
+  },
+  {
+    "id": "e14db0583d55",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T13:36",
+    "headline": "New wave of Israeli strikes pound Lebanon despite ceasefire",
+    "excerpt": "New wave of Israeli strikes pound Lebanon despite ceasefire",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-17T13:58:44.815598+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "1400cc7b9512",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T12:58",
+    "headline": "Schoolchildren flee Israeli raid in occupied West Bank",
+    "excerpt": "Palestinian children rushed through the streets of Burqa, a village in Nablus, after Israeli forces evacuated schools.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-17T13:58:44.815632+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/schoolchildren-flee-israeli-raid-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "0911e4c41e05",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T12:47",
+    "headline": "WHO declares Ebola outbreak in DRC a global health emergency",
+    "excerpt": "An Ebola outbreak caused by the rare Bundibugyo strain has killed dozens in Democratic Republic of the Congo.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-17T13:58:44.815662+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/who-declares-ebola-outbreak-in-drc-a-global-health-emergency?traffic_source=rss"
+  },
+  {
+    "id": "24d603978ec7",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T12:05",
+    "headline": "Israel comes second at Eurovision amid boycotts and backlash",
+    "excerpt": "Bulgaria won Eurovision, pushing Israel into second place amid boycotts and protests over Israel’s war on Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-17T13:58:44.815699+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss"
+  },
+  {
+    "id": "92177c9029e1",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T09:14",
+    "headline": "Ukrainian drone attacks on Russia kill at least five",
+    "excerpt": "Russian authorities say three people killed in the Moscow region and one in Belgorod in Ukrainian attacks.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-17T13:58:44.815738+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss"
+  },
+  {
+    "id": "60716f3486b2",
+    "source": "PressTV",
+    "date": "2026-05-17T13:58",
+    "headline": "US-Israeli claim of protecting energy markets ‘a grand lie’ to justify ‘war of choice’: Iran",
+    "excerpt": "Iran slams the US-Israel use of a new grand lie to justify their illegal war of choice with a claim that they are attempting to preserve peace and stability in global energy markets.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-17T13:58:46.492952+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/17/768792/Iran-Us-Israel-Baghaei-energy-markets-"
+  },
+  {
+    "id": "0e10478117ff",
+    "source": "PressTV",
+    "date": "2026-05-17T13:58",
+    "headline": "Iran to sue US, Israel for attacks on its cultural heritage: Deputy FM",
+    "excerpt": "Iran’s Gharibabadi says US and Israeli attacks on Iran’s cultural heritage were an assault on shared human memory.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-17T13:58:46.493000+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/17/768799/Iran-legal-action-US-Israel-attacks-cultural-heritage-Gharibabadi"
+  },
+  {
+    "id": "21b6ad276755",
+    "source": "PressTV",
+    "date": "2026-05-17T13:58",
+    "headline": "Qalibaf: Assassination of al-Qassam top commander during truce proves Israel’s treachery",
+    "excerpt": "Iranian Parliament Speaker says the assassination of the Al-Qassam Brigades' top commander by the Israeli regime during the ceasefire period serves as a testament to the enemy’s breach of commitment.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-17T13:58:46.493036+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/17/768797/Iran-parliament-speaker-condemns-Al-Qassam-Brigades-commander-Gaza-Israel-treachery"
+  },
+  {
     "id": "f16e86ac3a3d",
     "source": "PressTV",
     "date": "2026-05-17T12:01",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-07T19:00:20.873005+00:00",
     "link": "https://presstv.ir/Detail/2026/05/07/768225/Iran-will-soon-hold--great-victory--celebration-over-enemies--Aref"
-  },
-  {
-    "id": "f9f0a381d3fa",
-    "source": "PressTV",
-    "date": "2026-05-07T19:00",
-    "headline": "‘Iran fought a heroic battle’: US disaster in Strait of Hormuz detailed",
-    "excerpt": "Iranian parliament advisor Mehdi Mohammadi say IRGC and army navies inflicted a major military disaster on the US in the Strait of Hormuz, disabling four vessels and forcing Trump to halt \"Project Freedom.\"",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-07T19:00:20.873052+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/07/768228/%E2%80%98Iran-fought-a-heroic-battle%E2%80%99--US-disaster-in-Strait-of-Hormuz-detailed-"
-  },
-  {
-    "id": "ed4a890c29c7",
-    "source": "PressTV",
-    "date": "2026-05-07T19:00",
-    "headline": "Bahrain expels three MPs for criticizing monarchy's security policies",
-    "excerpt": "Bahrain’s parliament has expelled three MPs after they criticized the monarchy’s controversial citizenship revocations and security policies.",
-    "category": "Naval",
-    "location": "Bahrain",
-    "addedAt": "2026-05-07T19:00:20.873094+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/07/768217/Bahrain-expels-three-MPs-for-criticizing-monarchy-s-security-policies"
-  },
-  {
-    "id": "eff9ead31b72",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T16:26",
-    "headline": "US pushing Israeli de-escalation ahead of new talks: Lebanese official",
-    "excerpt": "Talks between Lebanese and Israeli delegations to be held in Washington, DC, next week, the official tells Al Jazeera.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-07T17:04:54.686301+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official?traffic_source=rss"
-  },
-  {
-    "id": "be6e08b04bc3",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T16:22",
-    "headline": "Lebanon Latest Israeli strikes Beirut despite ‘ceasefire’",
-    "excerpt": "Israel has carried out its first airstrike on Beirut’s southern suburbs since the April 16 US-brokered ceasefire.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-07T17:04:54.686337+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/lebanon-latest-israeli-strikes-beirut-despite?traffic_source=rss"
-  },
-  {
-    "id": "c7ca8a9d7be9",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T16:18",
-    "headline": "Iran’s president says he has spoken to the country’s Supreme Leader",
-    "excerpt": "Iranian President Masoud Pezeshkian says he has met with Iranian Supreme Leader Mojtaba Khamenei.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-07T17:04:54.686379+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/irans-president-says-he-has-spoken-to-the-countrys-supreme-leader?traffic_source=rss"
-  },
-  {
-    "id": "bfeee9ddc2b9",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T15:58",
-    "headline": "Iran’s President Pezeshkian seeks to quash divided leadership narrative",
-    "excerpt": "Tehran emphasises solidarity among top officials as Washington pressures Iran during Strait of Hormuz disputes.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-05-07T17:04:54.686410+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/irans-president-pezeshkian-seeks-to-quash-divided-leadership-narrative?traffic_source=rss"
-  },
-  {
-    "id": "e5ffb5b7d07c",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T13:57",
-    "headline": "US-Israel war on Iran leaves Jordan’s Petra nearly empty of tourists",
-    "excerpt": "Middle East war devastates tourism in Petra, leaving sites empty and Jordanians facing severe loss of income.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-07T15:06:23.909483+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/5/7/us-israel-war-on-iran-leaves-jordans-petra-nearly-empty-of-tourists?traffic_source=rss"
-  },
-  {
-    "id": "6675b2d7f71c",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T13:21",
-    "headline": "Chad declares national mourning after deadly Boko Haram ambush",
-    "excerpt": "The killing of two generals near Lake Chad follows a recent Boko Haram attack in the same region that left dozens dead.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-07T15:06:23.909529+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/chad-declares-national-mourning-after-deadly-boko-haram-ambush?traffic_source=rss"
-  },
-  {
-    "id": "c9e93c23b80a",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T13:16",
-    "headline": "Somali pirates abandon hijacked UAE dhow due to dwindling supplies",
-    "excerpt": "The lemon-laden Fahad-4, hijacked in late April, was used as a mothership to attack other ships.",
-    "category": "Naval",
-    "location": "Uae",
-    "addedAt": "2026-05-07T15:06:23.909562+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/somali-pirates-abandon-hijacked-uae-dhow-due-to-dwindling-supplies?traffic_source=rss"
   }
 ]
