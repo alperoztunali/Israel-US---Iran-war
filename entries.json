@@ -1,5 +1,49 @@
 [
   {
+    "id": "d3e2d70c3942",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T16:31",
+    "headline": "Three community kitchen workers among five killed by Israel in Gaza",
+    "excerpt": "Israeli attacks on Gaza have killed at least 871 Palestinians since the so-called ceasefire started last year.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-17T17:18:15.933677+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "569759bc26d3",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T16:30",
+    "headline": "Canadian FM: Is the US still a reliable ally?",
+    "excerpt": "Anita Anand discusses Donald Trump, NATO, Israel, China and Canada’s international role.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-17T17:18:15.933726+00:00",
+    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss"
+  },
+  {
+    "id": "d233637c32d3",
+    "source": "Al Jazeera",
+    "date": "2026-05-17T16:08",
+    "headline": "Iranian civilians get defence training",
+    "excerpt": "Defence training sessions on light weapons were held for Iranian men and women in mosques in several cities.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-17T17:18:15.933761+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss"
+  },
+  {
+    "id": "ca94cdf12339",
+    "source": "PressTV",
+    "date": "2026-05-17T17:18",
+    "headline": "US military presence brings ‘nothing but insecurity’ to West Asia: Qalibaf",
+    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf says the illegal war against Iran proved the US military presence is the main source of instability and insecurity across the region.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-17T17:18:17.670279+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/17/768807/Qalibaf-says-US-military-presence-brings-%E2%80%98nothing-but-insecurity%E2%80%99-to-West-Asia"
+  },
+  {
     "id": "f41d19978183",
     "source": "PressTV",
     "date": "2026-05-17T16:13",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-07T20:23:15.884685+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/7/israels-attacks-and-pressure-sowing-seeds-for-division-in-tense-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "2c2fc23aedae",
-    "source": "PressTV",
-    "date": "2026-05-07T20:23",
-    "headline": "Growing public anger in US toward Trump's war on Iran: New poll",
-    "excerpt": "New poll shows growing US anger toward Trump's Iran war: 61% say it did \"more harm than good,\" 62% believe Trump weakened America's global standing, and 80% cite fuel cost strain.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-07T20:23:17.697778+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/07/768230/Growing-public-anger-in-US-toward-Trump-s-Iran-war,-new-poll-shows-"
-  },
-  {
-    "id": "1e6d195f38d3",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T18:33",
-    "headline": "Brazil’s Lula meets Trump amid efforts to avert new US trade tariffs",
-    "excerpt": "Brazilian officials are hoping for the best outcome from the meeting, given tensions over Trump&#039;s tariff policy.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-07T19:00:19.168173+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/brazils-lula-meets-trump-amid-efforts-to-avert-new-us-trade-tariffs?traffic_source=rss"
-  },
-  {
-    "id": "2d139f6d444e",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T18:20",
-    "headline": "Man pleads guilty to Colorado firebombing, groups call for family reprieve",
-    "excerpt": "June 2025 attack targeted supporters of Israeli captives in Gaza; Advocates say family of assailant unjustly targeted.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-07T19:00:19.168208+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/man-pleads-guilty-to-colorado-firebombing-groups-call-for-family-reprieve?traffic_source=rss"
-  },
-  {
-    "id": "44f21470bbcc",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T18:19",
-    "headline": "US sanctions Iraqi minister accused of aiding Iran oil sales",
-    "excerpt": "US sanctions target Iraq&#039;s deputy oil minister for allegedly aiding Iran in bypassing restrictions on oil exports.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-07T19:00:19.168242+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales?traffic_source=rss"
   }
 ]
