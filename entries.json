@@ -1,5 +1,27 @@
 [
   {
+    "id": "f96adae4b719",
+    "source": "Al Jazeera",
+    "date": "2026-05-18T16:27",
+    "headline": "What we know about Israel’s interception of Gaza aid flotilla",
+    "excerpt": "Israeli forces have intercepted multiple vessels from the Gaza-bound Global Sumud Flotilla in international waters.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-05-18T18:13:26.126505+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/what-we-know-about-israels-interception-of-gaza-aid-flotilla?traffic_source=rss"
+  },
+  {
+    "id": "2d9d46556617",
+    "source": "Al Jazeera",
+    "date": "2026-05-18T16:09",
+    "headline": "Pakistan’s mediation faces limits as Iran-US tensions deepen",
+    "excerpt": "Tehran and Washington exchange proposals via Pakistan as military escalation increasingly shadows diplomatic efforts.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-18T18:13:26.126543+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/18/pakistans-mediation-faces-limits-as-iran-us-tensions-deepen?traffic_source=rss"
+  },
+  {
     "id": "2777448e5efb",
     "source": "Al Jazeera",
     "date": "2026-05-18T15:36",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-08T16:21:02.894760+00:00",
     "link": "https://presstv.ir/Detail/2026/05/08/768273/Iran-still-reviewing-US-war-end-proposal"
-  },
-  {
-    "id": "59f0c9980bca",
-    "source": "Al Jazeera",
-    "date": "2026-05-08T14:10",
-    "headline": "Thousands run Palestine Marathon under shadow of Israel’s war on Gaza",
-    "excerpt": "Marathon draws 13,000 runners globally to amplify unity and resilience amid escalating violence in Gaza and West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-08T14:56:12.152597+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/5/8/thousands-run-palestine-marathon-under-shadow-of-israels-war-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "52f7e7897ed8",
-    "source": "Al Jazeera",
-    "date": "2026-05-08T13:41",
-    "headline": "Italy-US ties strained as pope and Iran war dominate talks",
-    "excerpt": "Rome balances US ties with domestic pressure as the Iran war strains the alliance and fuels economic fallout.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-08T14:56:12.152639+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/8/italy-us-ties-strained-as-pope-and-iran-war-dominate-talks?traffic_source=rss"
   }
 ]
