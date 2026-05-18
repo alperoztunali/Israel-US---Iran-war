@@ -1,5 +1,115 @@
 [
   {
+    "id": "2a8c3b4088e2",
+    "source": "Al Jazeera",
+    "date": "2026-05-18T08:28",
+    "headline": "Al Jazeera reports from Hormuz Island as Iran says it controls the strait",
+    "excerpt": "Al Jazeera has been given exclusive access to Iran’s Hormuz Island.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-18T08:48:23.907581+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/al-jazeera-reports-from-hormuz-island-as-iran-says-it-controls-the-strait?traffic_source=rss"
+  },
+  {
+    "id": "7d42d8fd919b",
+    "source": "Al Jazeera",
+    "date": "2026-05-18T08:23",
+    "headline": "Israeli forces intercept Gaza-bound aid flotilla",
+    "excerpt": "More than 50 vessels departed from the Turkish port city of Marmaris last week.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-05-18T08:48:23.907617+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss"
+  },
+  {
+    "id": "d7e923582fd1",
+    "source": "Al Jazeera",
+    "date": "2026-05-18T07:51",
+    "headline": "Mali drone strikes kill at least 10 civilians at wedding",
+    "excerpt": "Mali&#039;s military carries out strikes after attacks last month by al-Qaeda-linked fighters and Tuareg separatists.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-18T08:48:23.907646+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/18/mali-drone-strikes-kill-at-least-10-civilians-at-wedding?traffic_source=rss"
+  },
+  {
+    "id": "6e59d001c071",
+    "source": "Al Jazeera",
+    "date": "2026-05-18T07:24",
+    "headline": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
+    "excerpt": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended &#039;ceasefire&#039;.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-18T08:48:23.907675+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss"
+  },
+  {
+    "id": "f597ecf67250",
+    "source": "Al Jazeera",
+    "date": "2026-05-18T06:49",
+    "headline": "Growing bread queues in Gaza as Israel restricts fuel, flour imports",
+    "excerpt": "Bread shortages deepen in Gaza as flour imports dwindle and bakeries struggle to meet rising demand amid fuel scarcity.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-18T08:48:23.907705+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/18/growing-bread-lines-gaza-israel-restricts-fuel-flour?traffic_source=rss"
+  },
+  {
+    "id": "2641cdb4a90b",
+    "source": "Al Jazeera",
+    "date": "2026-05-18T00:00",
+    "headline": "Iran war live: Tehran says talks ongoing through Pakistan",
+    "excerpt": "Iran&#039;s Foreign Ministry spokesperson says Iran responds to US proposal through Pakistan.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-18T08:48:23.907739+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss"
+  },
+  {
+    "id": "8d92133efab5",
+    "source": "PressTV",
+    "date": "2026-05-18T08:48",
+    "headline": "Iran FM discusses regional issues with counterparts amid US escalations",
+    "excerpt": "Araghchi holds separate telephone conversations with his counterparts from France, Qatar, Turkey, and South Korea on Sunday to discuss bilateral issues, regional developments, and ongoing diplomatic processes.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-18T08:48:25.550925+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/18/768834/Iran-FM-discusses-regional-issues-with-counterparts"
+  },
+  {
+    "id": "e527026377c2",
+    "source": "PressTV",
+    "date": "2026-05-18T08:48",
+    "headline": "Senior commander praises Iranian medical personnel for wartime efforts",
+    "excerpt": "A senior Iranian military commander praises medical personnel for their selfless contributions as the nation was facing the latest bout of unprovoked American-Israeli aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-18T08:48:25.550973+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/18/768841/Iran-top-military-commander-war-medical-personnel"
+  },
+  {
+    "id": "67c44313ae56",
+    "source": "PressTV",
+    "date": "2026-05-18T08:48",
+    "headline": "Eight civilians killed in Israeli strikes on south Lebanon in latest truce violation",
+    "excerpt": "At least eight people have been killed in new Israeli military strikes on southern Lebanon as ceasefire violations mount.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-18T08:48:25.550994+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/18/768840/Eight-civilians-killed-in-latest-Israeli-strikes-on-southern-Lebanon-as-ceasefire-violations-mount-"
+  },
+  {
+    "id": "210714aaa314",
+    "source": "PressTV",
+    "date": "2026-05-18T08:48",
+    "headline": "French opposition figure slams ‘European complicity’ in US-Israel war on Iran",
+    "excerpt": "A leading French opposition figure attacks European complicity in the recent US-Israel war against Iran that triggered a wider conflict across the region.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-18T08:48:25.551032+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/18/768838/Iran-France-M%C3%A9lenchon-US-Israel-war"
+  },
+  {
     "id": "51fd48531b37",
     "source": "Al Jazeera",
     "date": "2026-05-18T01:59",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-08T06:23:21.725503+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss"
-  },
-  {
-    "id": "789c62534215",
-    "source": "Al Jazeera",
-    "date": "2026-05-08T03:03",
-    "headline": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
-    "excerpt": "Brent crude rises amid clashes in critical waterway.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-08T04:41:51.743685+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "fb7fba25b21d",
-    "source": "Al Jazeera",
-    "date": "2026-05-08T01:45",
-    "headline": "Seafarers trapped in limbo as US and Iran clash in Strait of Hormuz",
-    "excerpt": "Some 20,000 seafarers are stranded in the Gulf amid the closure of the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-08T04:41:51.743729+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo?traffic_source=rss"
-  },
-  {
-    "id": "562ddd70e38f",
-    "source": "PressTV",
-    "date": "2026-05-08T04:41",
-    "headline": "Russia rejects US-backed anti-Iran resolution at UN Security Council",
-    "excerpt": "Russia’s Permanent Representative to the United Nations, Vasily Nebenzya, has categorically rejected a US-proposed anti-Iran resolution at the UN Security Council.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-08T04:41:53.651469+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/08/768238/Russia-rejects-US-backed-anti-Iran-resolution-at-UN-Security-Council"
-  },
-  {
-    "id": "1c8e632f2b39",
-    "source": "PressTV",
-    "date": "2026-05-08T04:41",
-    "headline": "Hezbollah launches 13 strikes on invading Israeli forces in southern Lebanon",
-    "excerpt": "Lebanon’s Hezbollah resistance movement has carried out 13 targeted military operations against invading Israeli troops advancing into Lebanese territory.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-08T04:41:53.651513+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/08/768237/Hezbollah-launches-13-strikes-on-invading-Israeli-forces-in-southern-Lebanon"
-  },
-  {
-    "id": "d700f82b08d6",
-    "source": "Al Jazeera",
-    "date": "2026-05-08T00:00",
-    "headline": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
-    "excerpt": "Iran accused the US of violating the ceasefire by targeting Iranian vessels and carrying out strikes on coastal areas.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-08T01:27:19.873652+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss"
-  },
-  {
-    "id": "07a0acb19dcf",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T23:23",
-    "headline": "Huge fire at Mexican fair kills five people",
-    "excerpt": "At least five people were killed after a massive fire broke out at a fairground in Villahermosa, southeastern Mexico.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-07T23:38:34.524593+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/huge-fire-at-mexican-fair-kills-five-people?traffic_source=rss"
-  },
-  {
-    "id": "cc70b9445b12",
-    "source": "PressTV",
-    "date": "2026-05-07T23:38",
-    "headline": "Iran will soon celebrate its 'great victory' over enemies: VP",
-    "excerpt": "Iran will soon celebrate its \"great victory\" against the US and Israel, leading to the lifting of years of sanctions and pressures, as First Vice President Aref vows high-tech reconstruction of damaged industries, control of the Strait of Hormuz, and rebuilding of the health sector.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-07T23:38:36.316097+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/07/768225/Iran-will-soon-hold--great-victory--celebration-over-enemies--Aref"
-  },
-  {
-    "id": "fd8573973f25",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T22:20",
-    "headline": "Videos show interceptions over the skies of Tehran",
-    "excerpt": "Iranian state media says air defence systems were activated in western Tehran as multiple explosions were reported.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-05-07T22:44:16.467655+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss"
-  },
-  {
-    "id": "e8c4336fe856",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T21:11",
-    "headline": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
-    "excerpt": "US military says it intercepted and responded to &#039;unprovoked&#039; Iranian attack, stressing that it doesn&#039;t seek escalation.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-07T22:44:16.467696+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss"
-  },
-  {
-    "id": "3d0a51dd296d",
-    "source": "PressTV",
-    "date": "2026-05-07T22:44",
-    "headline": "Iranian forces strike US vessels in swift retaliation for tanker attack: Top military command",
-    "excerpt": "A spokesperson for the Khatam al-Anbiya Central Headquarters said Thursday that Iranian forces delivered an immediate, decisive response to US military aggressions in the Strait of Hormuz and along Iran's southern coastline",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-07T22:44:18.253968+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/07/768234/iranian-forces-struck-us-vessels-swift-retaliation-tanker-attack-top-command"
   }
 ]
