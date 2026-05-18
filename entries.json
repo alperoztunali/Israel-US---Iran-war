@@ -1,5 +1,27 @@
 [
   {
+    "id": "51fd48531b37",
+    "source": "Al Jazeera",
+    "date": "2026-05-18T01:59",
+    "headline": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
+    "excerpt": "Al Jazeera’s Obaida Hitto reports from Tyre in southern Lebanon on the latest Israeli strikes in the region.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-18T04:45:16.259995+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss"
+  },
+  {
+    "id": "e228b4c9b96d",
+    "source": "Al Jazeera",
+    "date": "2026-05-18T00:00",
+    "headline": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
+    "excerpt": "Peace talks remain deadlocked as drones hit sites in Saudi Arabia and the UAE.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-05-18T04:45:16.260032+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss"
+  },
+  {
     "id": "913353363f8a",
     "source": "Al Jazeera",
     "date": "2026-05-17T23:28",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-07T22:44:18.253968+00:00",
     "link": "https://presstv.ir/Detail/2026/05/07/768234/iranian-forces-struck-us-vessels-swift-retaliation-tanker-attack-top-command"
-  },
-  {
-    "id": "02f7a8a7498d",
-    "source": "PressTV",
-    "date": "2026-05-07T22:44",
-    "headline": "US destroyers flee Strait of Hormuz after massive Iranian missile and drone barrage: IRGC Navy",
-    "excerpt": "IRGC Navy says its forces inflicted significant damage on US naval assets in a large-scale combined operation on Thursday evening, forcing three American destroyers to flee the Strait of Hormuz.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-07T22:44:18.254008+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/07/768236/us-destroyers-flee-strait-hormuz-massive-iranian-missile-drone-barrage-irgc-navy"
-  },
-  {
-    "id": "02d13fa7c7cf",
-    "source": "Al Jazeera",
-    "date": "2026-05-07T21:11",
-    "headline": "Explosions heard in Iran as state media reports clashes with US Navy",
-    "excerpt": "Iran&#039;s Tasnim agency says three US destroyers came under Iranian fire and fled Hormuz towards the Gulf of Oman.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-07T21:31:57.659512+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss"
   }
 ]
