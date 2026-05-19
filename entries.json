@@ -1,5 +1,82 @@
 [
   {
+    "id": "8eaf38cb96bf",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T13:40",
+    "headline": "US extends sanctions waiver on Russian oil: Why it matters",
+    "excerpt": "The US has extended its waiver on sanctioned Russian oil until June 17.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-05-19T14:12:25.272566+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/us-extends-sanctions-waiver-on-russian-oil-why-it-matters?traffic_source=rss"
+  },
+  {
+    "id": "36a865962076",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T13:01",
+    "headline": "Who was Amin Abdullah, the ‘hero’ guard killed in San Diego shooting?",
+    "excerpt": "Tributes have poured in for the guard, who was among the three people killed in the shooting at the San Diego mosque.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-19T14:12:25.272617+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/who-was-amin-abdullah-the-hero-guard-killed-in-san-diego-shooting?traffic_source=rss"
+  },
+  {
+    "id": "ff42989819ce",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T12:57",
+    "headline": "Suspected car bomb explodes in Syrian capital Damascus",
+    "excerpt": "Plumes of smoke from a suspected car bomb explosion outside an armament management centre in Damascus.",
+    "category": "Airstrike",
+    "location": "Syria",
+    "addedAt": "2026-05-19T14:12:25.272643+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/suspected-car-bomb-explodes-in-syrian-capital-damascus?traffic_source=rss"
+  },
+  {
+    "id": "6cdec782adb1",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T12:26",
+    "headline": "Israeli far-right minister Smotrich says ICC seeks his arrest",
+    "excerpt": "Smotrich is the third Israeli official targeted by the ICC, after Netanyahu and Gallant, for war crimes in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-19T14:12:25.272675+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest?traffic_source=rss"
+  },
+  {
+    "id": "092b77998f68",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T12:06",
+    "headline": "Trump says Iran attack on ‘hold’: What we know about latest negotiations",
+    "excerpt": "Tehran said its demands for peace include lifting sanctions against Iran but other sticking points likely to remain.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-19T14:12:25.272711+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations?traffic_source=rss"
+  },
+  {
+    "id": "a9a69c3ccadc",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T11:24",
+    "headline": "Gaza aid flotilla organisers say 41 boats intercepted, 10 still sailing",
+    "excerpt": "Foreign ministers of 10 countries say Israel&#039;s storming of the aid flotilla is a blatant violation of international law.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-05-19T14:12:25.272739+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/gaza-aid-flotilla-organisers-say-41-boats-intercepted-10-still-sailing?traffic_source=rss"
+  },
+  {
+    "id": "25ebf55c375e",
+    "source": "PressTV",
+    "date": "2026-05-19T14:12",
+    "headline": "Hezbollah drones paralyze 80% of Israeli offensives in Lebanon: Report",
+    "excerpt": "Israeli media says Hezbollah’s expanding drone operations are severely restricting the regime’s attacks in southern Lebanon and forcing troops to avoid daytime offensives.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-05-19T14:12:27.049905+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/19/768913/Hezbollah-drones-paralyzed-80--of-Israeli-military-strikes-in-south-Lebanon--Report"
+  },
+  {
     "id": "75d069e7e6fe",
     "source": "Al Jazeera",
     "date": "2026-05-19T10:00",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-10T07:13:03.743109+00:00",
     "link": "https://presstv.ir/Detail/2026/05/10/768358/Young-Palestinian-man-fatally-stabbed-near-al-Quds-checkpoint-"
-  },
-  {
-    "id": "cfeaad4c0bbe",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T01:23",
-    "headline": "Satellite images show likely oil slick off Iran’s Kharg Island",
-    "excerpt": "Satellite images have captured a suspected oil slick spanning dozens of square kilometres near Iran’s Kharg Island.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-10T04:17:03.060299+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss"
-  },
-  {
-    "id": "d79b2ee0af76",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T00:00",
-    "headline": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
-    "excerpt": "US-Iran ceasefire holds as Tehran warns Washington against attacks on tankers and Israel kills 24 people in Lebanon.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-05-10T04:17:03.060333+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "bf76512e0d39",
-    "source": "Al Jazeera",
-    "date": "2026-05-09T17:07",
-    "headline": "Israeli attacks across Lebanon kill at least 24",
-    "excerpt": "No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-10T04:17:03.060384+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss"
-  },
-  {
-    "id": "26a034d5ae9a",
-    "source": "PressTV",
-    "date": "2026-05-10T00:06",
-    "headline": "Israel built secret desert base in Iraq to wage war on Iran: Report",
-    "excerpt": "Israel established a hidden military base deep in Iraq’s desert region to support its air strikes against the Islamic Republic of Iran, according to a report.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-05-10T00:06:14.302888+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/09/768346/Israel-built-secret-desert-base-in-Iraq-to-wage-war-on-Iran--Report"
-  },
-  {
-    "id": "380087dac31d",
-    "source": "Al Jazeera",
-    "date": "2026-05-09T21:10",
-    "headline": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
-    "excerpt": "Israel continues to violate a &#039;ceasefire&#039; agreed to in October with hundreds more killed across the Strip.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-09T22:09:18.594069+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss"
-  },
-  {
-    "id": "b9079ad2f78b",
-    "source": "PressTV",
-    "date": "2026-05-09T22:09",
-    "headline": "Missiles and drones locked on US targets: ‘Awaiting firing order,’ IRGC commander warns",
-    "excerpt": "The commander of the IRGC Aerospace Force has stated that Iran’s advanced missiles and aerospace drones are fully locked on American targets and enemy ships.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-09T22:09:20.816042+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/09/768344/Missiles-and-drones-locked-on-US-targets--%E2%80%98Awaiting-firing-order,%E2%80%99-IRGC-commander-warns"
-  },
-  {
-    "id": "9ddc8474aa4c",
-    "source": "Al Jazeera",
-    "date": "2026-05-09T20:32",
-    "headline": "Palestinian family says settlers forced them to exhume father’s body",
-    "excerpt": "A Palestinian family in Jenin says Israeli settlers forced them to exhume their father hours after his funeral.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-09T21:23:44.165764+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss"
   }
 ]
