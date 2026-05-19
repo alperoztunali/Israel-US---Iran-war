@@ -1,5 +1,93 @@
 [
   {
+    "id": "7c89a6094ab6",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T16:29",
+    "headline": "At least 22 killed in Israeli attacks on Lebanon in 24 hours: Ministry",
+    "excerpt": "Lebanon death toll since March 2 has reached 3,042, according to the country&#039;s Health Ministry.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-19T17:18:02.445400+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry?traffic_source=rss"
+  },
+  {
+    "id": "0947e8b33522",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T15:43",
+    "headline": "Pakistan sentences man to death for killing TikTok star Sana Yousaf",
+    "excerpt": "The verdict against Umar Hayat who killed a teenage influencer in her home &#039;is for the entire society&#039;, her father says.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-19T17:18:02.445448+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/death-sentence-handed-to-man-for-killing-tiktok-star-sana-yousaf?traffic_source=rss"
+  },
+  {
+    "id": "fa94decc8373",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T15:42",
+    "headline": "Security guards face probe after last week’s Philippine Senate shooting",
+    "excerpt": "Authorities say the shooting was not an &#039;attack on the Senate&#039; and identified the person who fired the first shot.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-19T17:18:02.445502+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/security-guards-face-probe-after-last-weeks-philippine-senate-shooting?traffic_source=rss"
+  },
+  {
+    "id": "b0490a84e126",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T15:41",
+    "headline": "Qatar says US-Iran negotiations need ‘more time’",
+    "excerpt": "Qatar’s foreign ministry says more time is needed for US-Iran negotiations.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-19T17:18:02.445538+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/qatar-says-us-iran-negotiations-need-more?traffic_source=rss"
+  },
+  {
+    "id": "bd833c8fe8ab",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T15:36",
+    "headline": "At least one killed, 21 wounded in car bomb explosion in Syria’s Damascus",
+    "excerpt": "Blast occurs near Defence Ministry building in Bab Sharqi district of the capital.",
+    "category": "Airstrike",
+    "location": "Syria",
+    "addedAt": "2026-05-19T17:18:02.445563+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/at-least-one-killed-21-wounded-in-car-bomb-explosion-in-syrias-damascus?traffic_source=rss"
+  },
+  {
+    "id": "522e604372e5",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T14:22",
+    "headline": "Flight to Argentina: How significant is it for Israel’s LatAm outreach?",
+    "excerpt": "Experts say Israel is using the new flight as a geopolitical tool to cement its footprint in Latin America.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-19T17:18:02.445605+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/19/flight-to-argentina-how-significant-is-it-for-israels-latam-outreach?traffic_source=rss"
+  },
+  {
+    "id": "000d968d48b1",
+    "source": "PressTV",
+    "date": "2026-05-19T17:18",
+    "headline": "‘Either we win or become martyrs’: Iran will never surrender, says deputy FM",
+    "excerpt": "Iran’s deputy foreign minister for legal and international affairs has rejected any notion of surrender to the United States.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-19T17:18:04.188268+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/19/768916/Either-we-win-or-become-martyrs-no-surrender-Iran-deputy-FM-says"
+  },
+  {
+    "id": "f61c97f0a8af",
+    "source": "PressTV",
+    "date": "2026-05-19T17:18",
+    "headline": "Irish president condemns abduction of sister from Gaza aid flotilla by Israel",
+    "excerpt": "The Irish president has condemned her sisters’ abduction from Gaza-bound Sumud Flotilla by Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-19T17:18:04.188331+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/19/768912/Irish-president-condemns-abduction-of-sister-from-Gaza-aid-flotilla-by-Israel"
+  },
+  {
     "id": "8eaf38cb96bf",
     "source": "Al Jazeera",
     "date": "2026-05-19T13:40",
@@ -5410,93 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-10T09:06:23.330527+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "fc9ab11cbbd9",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T07:56",
-    "headline": "Flotilla activists arrive in Turkiye before setting sail to Gaza",
-    "excerpt": "Over 30 Global Sumud Flotilla vessels have reached Marmaris on Turkiye’s coast, preparing for their mission to Gaza.",
-    "category": "Naval",
-    "location": "Gaza",
-    "addedAt": "2026-05-10T09:06:23.330564+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/flotilla-activists-arrive-in-turkiye-before-setting-sail-to-gaza?traffic_source=rss"
-  },
-  {
-    "id": "c63bc9389bea",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T07:46",
-    "headline": "Flotilla activist gives defiant message after Israel deports him to Greece",
-    "excerpt": "After a week in Israeli custody, flotilla activist Saif Abu Keshek has been deported to Greece.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-10T09:06:23.330601+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/flotilla-activist-gives-defiant-message-after-israel-deports-him-to-greece?traffic_source=rss"
-  },
-  {
-    "id": "c6517fc43325",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T07:13",
-    "headline": "Israel deports two Gaza aid flotilla activists",
-    "excerpt": "The pair was abducted by Israeli forces from the aid flotilla in late April and held in Israel.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-10T09:06:23.330629+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/10/israel-deports-two-gaza-aid-flotilla-activists?traffic_source=rss"
-  },
-  {
-    "id": "aa0076d96ae7",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T05:11",
-    "headline": "Two wins, two losses: What India, Pakistan have learned a year after war",
-    "excerpt": "India and Pakistan each claim strategic successes after the four-day conflict, as tensions continue to simmer.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-10T07:13:01.077540+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war?traffic_source=rss"
-  },
-  {
-    "id": "4a9d40ee0db4",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T04:25",
-    "headline": "Person dies after being hit by plane at Denver airport",
-    "excerpt": "A Frontier Airlines plane has hit and killed a person at Denver’s international airport.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-10T07:13:01.077587+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/person-dies-after-being-hit-by-plane-at-denver-airport?traffic_source=rss"
-  },
-  {
-    "id": "e6643aa5f17d",
-    "source": "Al Jazeera",
-    "date": "2026-05-09T20:29",
-    "headline": "Car bomb attack and ambush in northwest Pakistan kills at least 12 police",
-    "excerpt": "Bomber and several fighters detonate explosives-laden vehicle near security post in Bannu, Khyber Pakhtunkhwa.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-05-10T07:13:01.077629+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss"
-  },
-  {
-    "id": "80993cbc1740",
-    "source": "PressTV",
-    "date": "2026-05-10T07:13",
-    "headline": "Ben-Gvir named 'hangman of the century' for advocating execution of Palestinians",
-    "excerpt": "A human rights group describes Israel’s so-called security minister, Itamar Ben-Gvir, as the “hangman of the century” over his push for the execution of Palestinian abductees.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-05-10T07:13:03.743074+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/10/768357/Far-right-Israeli-minister-called-hangman-of-the-century-for-advocating-execution-of-Palestinians"
-  },
-  {
-    "id": "753000298255",
-    "source": "PressTV",
-    "date": "2026-05-10T07:13",
-    "headline": "Young Palestinian man fatally stabbed near al-Quds checkpoint",
-    "excerpt": "A young Palestinian man has been stabbed to death in an attack near a checkpoint in the Israeli-occupied al-Quds.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-10T07:13:03.743109+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/10/768358/Young-Palestinian-man-fatally-stabbed-near-al-Quds-checkpoint-"
   }
 ]
