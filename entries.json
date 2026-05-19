@@ -1,5 +1,49 @@
 [
   {
+    "id": "a15aff62a995",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T03:27",
+    "headline": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
+    "excerpt": "Foad Izadi says US President Trump&#039;s repeated threats of renewed full-scale war are a sign of weakness.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-19T04:04:49.887078+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss"
+  },
+  {
+    "id": "b3eca7f6cdc8",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T00:00",
+    "headline": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
+    "excerpt": "Al Jazeera&#039;s correspondent in Tehran says Iran&#039;s leaders are &#039;projecting defiance&#039; and rejecting &#039;pressure&#039; from the US.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-19T04:04:49.887126+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss"
+  },
+  {
+    "id": "24adb84ea80c",
+    "source": "PressTV",
+    "date": "2026-05-19T04:04",
+    "headline": "Iran slams German chancellor’s baseless accusations as blatant hypocrisy",
+    "excerpt": "Iran has strongly rejected “baseless and selective accusations” leveled by German Chancellor Friedrich Merz against the Islamic Republic regarding a mysterious failed explosion incident near a nuclear power plant in the UAE.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-19T04:04:51.360113+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/18/768884/Iran-slams-German-chancellor%E2%80%99s-baseless-accusations-as-blatant-hypocrisy"
+  },
+  {
+    "id": "e909392c14f0",
+    "source": "PressTV",
+    "date": "2026-05-19T04:04",
+    "headline": "Senior commander: Iran will cut off hand of any aggressor",
+    "excerpt": "The commander of Iran's highest operational command unit has said that any new act of aggression by the US or its allies will be met with overwhelming force.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-19T04:04:51.360152+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/19/768886/Senior-commander--Iran-will-cut-off-hand-of-any-aggressor"
+  },
+  {
     "id": "9881c5b70067",
     "source": "PressTV",
     "date": "2026-05-18T23:48",
@@ -5454,49 +5498,5 @@
     "location": "Lebanon",
     "addedAt": "2026-05-09T12:04:29.601055+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss"
-  },
-  {
-    "id": "a9b4d1f0ea8d",
-    "source": "PressTV",
-    "date": "2026-05-09T12:04",
-    "headline": "Israeli strikes on southern Lebanon kill 20 more civilians",
-    "excerpt": "At least twenty people have been killed in the latest Israeli airstrikes against southern Lebanon, despite a ceasefire between the Beirut government and the Tel Aviv regime.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-09T12:04:31.379822+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/09/768300/Israeli-strikes-southern-Lebanon-kill-20-more-civilians"
-  },
-  {
-    "id": "0af7a255aa74",
-    "source": "PressTV",
-    "date": "2026-05-09T12:04",
-    "headline": "Israeli settlers burn homes and cars in brutal West Bank raids",
-    "excerpt": "Israeli settlers have launched another wave of raids in the occupied West Bank, setting fire to Palestinian homes and cars.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-09T12:04:31.379858+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/09/768309/Israeli-settlers-burn-homes-and-cars-in-brutal-West-Bank-raids"
-  },
-  {
-    "id": "ad27934cb5ce",
-    "source": "PressTV",
-    "date": "2026-05-09T12:04",
-    "headline": "US sanctions Chinese firms over alleged aid to Iran's defense sector",
-    "excerpt": "The US Treasury Department imposes sanctions on ten individuals and companies for their alleged involvement in helping Iran obtain weapons and the necessary raw materials for its Shahed drones and ballistic missiles.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-09T12:04:31.379878+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/09/768297/US-imposes-new-sanctions-on-firms-over-alleged-aid-to-Iran-s-weapons-sector"
-  },
-  {
-    "id": "078a994cf33d",
-    "source": "PressTV",
-    "date": "2026-05-09T12:04",
-    "headline": "US intel community agreed Iran was not developing nukes before war: Ex-NCC chief",
-    "excerpt": "The US knew Iran was not developing a nuclear weapon before its attack, says the Trump administration’s former “counterterrorism” chief.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-09T12:04:31.379911+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/09/768303/US-Intel-Agreed-Iran-was-not-developing-a-nuke-before-attack"
   }
 ]
