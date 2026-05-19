@@ -1,5 +1,49 @@
 [
   {
+    "id": "775540d2440b",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T20:39",
+    "headline": "Trump showcases new ‘drone-protected’ White House ballroom",
+    "excerpt": "US President Donald Trump has given reporters a tour around the construction site of his White House ballroom.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-19T21:05:01.599595+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trump-showcases-new-drone-protected-white-house-ballroom?traffic_source=rss"
+  },
+  {
+    "id": "ae5ea6df166f",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T20:18",
+    "headline": "More than 15,800 people killed in Russia’s all-out war on Ukraine: UN",
+    "excerpt": "Nearly 800 children are among those killed in Ukraine since Russia&#039;s full-scale invasion in February 2022, the UN says.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-19T21:05:01.599650+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un?traffic_source=rss"
+  },
+  {
+    "id": "6486fd99bf35",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T20:00",
+    "headline": "Does Ukraine have the advantage at the moment?",
+    "excerpt": "Kyiv takes the war deeper into Russia with a huge attack on the Moscow region.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-19T21:05:01.599689+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/19/does-ukraine-have-the-advantage-at-the-moment?traffic_source=rss"
+  },
+  {
+    "id": "fd18584eb6d7",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T19:48",
+    "headline": "Mansour Kaziha, Nader Awad identified as victims in San Diego Mosque attack",
+    "excerpt": "All three victims have now been identified in California attack being investigated as hate crime.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-19T21:05:01.599729+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/mansour-kaziha-nader-awad-identified-as-victims-in-san-diego-mosque-attack?traffic_source=rss"
+  },
+  {
     "id": "2f0261c6e95a",
     "source": "Al Jazeera",
     "date": "2026-05-19T18:55",
@@ -5454,49 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-10T11:35:22.161469+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/10/why-is-iran-taking-time-to-respond-to-the-us-proposal-to-end-the-war?traffic_source=rss"
-  },
-  {
-    "id": "67bd31a3d99f",
-    "source": "PressTV",
-    "date": "2026-05-10T11:35",
-    "headline": "Iran Army: Countries obeying US sanctions will ‘certainly face problems’ in Strait of Hormuz",
-    "excerpt": "Iran’s Army has warned that countries complying with US sanctions against the Islamic Republic will “certainly face problems” in passing through the Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-10T11:35:23.764086+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/10/768367/States-sanctioning-Iran-will-face-difficulties-in-Hormuz-Strait-transit-Army"
-  },
-  {
-    "id": "e2c721530ba0",
-    "source": "PressTV",
-    "date": "2026-05-10T11:35",
-    "headline": "Iranian Armed Forces have upper hand in region despite US provocations: General",
-    "excerpt": "A high-ranking military commander says Iranian Armed Forces have the upper hand in the region, despite US acts of aggression and mischief.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-10T11:35:23.764111+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/10/768369/General-Iranian-Armed-Forces-have-upper-hand-in-region-despite-US-mischief"
-  },
-  {
-    "id": "13ba23853da4",
-    "source": "PressTV",
-    "date": "2026-05-10T11:35",
-    "headline": "Intelligence forces bust two Mossad-linked terror teams across Iran",
-    "excerpt": "Iranian intelligence forces have identified and smashed two Mossad-linked terror teams following complex intelligence and operational measures across the country.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-10T11:35:23.764131+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/10/768373/Intelligence-forces-bust-two-Mossad-linked-terror-teams-across-Iran-"
-  },
-  {
-    "id": "7abcc9e195ca",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T10:10",
-    "headline": "Iran military warns of ‘surprising’ methods of warfare if attacked again",
-    "excerpt": "Iran’s army spokesman says if the ‘enemy’ were to attack again, they would face new methods of warfare.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-10T10:38:45.389444+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again?traffic_source=rss"
   }
 ]
