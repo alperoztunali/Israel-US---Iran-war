@@ -1,5 +1,38 @@
 [
   {
+    "id": "3f28b2c9d45f",
+    "source": "Al Jazeera",
+    "date": "2026-05-19T07:26",
+    "headline": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+    "excerpt": "US president says he held off a scheduled attack on Iran after pressure from Gulf allies as renewed talks gain momentum.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-19T07:56:56.657524+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss"
+  },
+  {
+    "id": "7d4ccae77273",
+    "source": "PressTV",
+    "date": "2026-05-19T07:56",
+    "headline": "US 'contradictory, excessive stances' serious obstacle to diplomacy: Iran FM",
+    "excerpt": "Araghchi describes the United States \"contradictory and excessive stances\" as a serious obstacle in the way of fruition of diplomatic processes.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-19T07:56:58.985890+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/19/768890/Iran-United-States-Pakistan-war"
+  },
+  {
+    "id": "a64e505d40ac",
+    "source": "PressTV",
+    "date": "2026-05-19T07:56",
+    "headline": "Ten countries condemn Israel’s attack on Gaza-bound humanitarian flotilla",
+    "excerpt": "“These attacks, including assaults on vessels and the arbitrary detention of activists, constitute a clear violation of international law and international humanitarian law,” the countries said.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-05-19T07:56:58.985936+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/19/768891/10-countries-condemn-Israel-attack-on-Gaza-bound-humanitarian-flotilla"
+  },
+  {
     "id": "a15aff62a995",
     "source": "Al Jazeera",
     "date": "2026-05-19T03:27",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-09T14:57:34.053773+00:00",
     "link": "https://presstv.ir/Detail/2026/05/09/768319/Iran-VP-Aref-steel-petrochemical-plants-US-Israel-aggression"
-  },
-  {
-    "id": "a3fff01c557f",
-    "source": "PressTV",
-    "date": "2026-05-09T14:57",
-    "headline": "Iran says it will participate in World Cup, demands hosts meet its conditions",
-    "excerpt": "Iran's football federation announces that the men's national team will participate in the 2026 World Cup this summer, but demands that the joint hosts, the United States, Mexico, and Canada, agree to its conditions.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-09T14:57:34.053821+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/09/768317/Iran-says-it-will-participate-in-World-Cup,-demands-hosts-meet-its-conditions"
-  },
-  {
-    "id": "3d60e89d0e0b",
-    "source": "Al Jazeera",
-    "date": "2026-05-09T12:40",
-    "headline": "Iran says it will play at 2026 World Cup if hosts address ‘concerns’",
-    "excerpt": "Iran&#039;s presence at the tournament has been shrouded in uncertainty since the US and Israel launched war on the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-09T13:54:16.453190+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns?traffic_source=rss"
-  },
-  {
-    "id": "8b5ed4bdd392",
-    "source": "Al Jazeera",
-    "date": "2026-05-09T11:33",
-    "headline": "Displaced Lebanese children keep learning amid displacement",
-    "excerpt": "A school in Sidon is now home to displaced families from southern Lebanon, but classes are still running.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-05-09T12:04:29.601055+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss"
   }
 ]
