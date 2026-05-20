@@ -1,5 +1,71 @@
 [
   {
+    "id": "9f74b5806c94",
+    "source": "Al Jazeera",
+    "date": "2026-05-20T18:01",
+    "headline": "Russia ‘dangerously’ intercepts British spy plane over Black Sea: Ministry",
+    "excerpt": "The incident came last month when unarmed Rivet Joint plane was securing NATO&#039;s eastern flank in international airspace.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-20T19:30:52.979496+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/20/russia-dangerously-intercepts-british-spy-plane-over-black-sea-ministry?traffic_source=rss"
+  },
+  {
+    "id": "ab34c14aa891",
+    "source": "Al Jazeera",
+    "date": "2026-05-20T17:18",
+    "headline": "Controlled reopening ends Iran’s lengthy stock market shutdown",
+    "excerpt": "Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn&#039;t take part in the reopening.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-20T19:30:52.979550+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss"
+  },
+  {
+    "id": "429732fac4ca",
+    "source": "Al Jazeera",
+    "date": "2026-05-20T16:55",
+    "headline": "Trump administration indicts Cuba’s Raul Castro over 1996 plane shootdown",
+    "excerpt": "The indictment marks one of the sharpest escalations in tensions between Washington and Havana.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-20T19:30:52.979597+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/20/trump-administration-indicts-cubas-raul-castro-over-1996-plane-shootdown?traffic_source=rss"
+  },
+  {
+    "id": "24c432601dee",
+    "source": "Al Jazeera",
+    "date": "2026-05-20T16:51",
+    "headline": "Trump jokes about running for Israeli prime minister",
+    "excerpt": "Donald Trump joked that he could run for Israeli prime minister after claiming he enjoys ‘99%’ support in Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-20T19:30:52.979632+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
+  },
+  {
+    "id": "45ff61a28184",
+    "source": "PressTV",
+    "date": "2026-05-20T19:30",
+    "headline": "'War beyond the region': IRGC vows to 'bring enemies to absolute ruin' if Iran faces new aggression",
+    "excerpt": "The IRGC says the US and Israel have failed to learn from repeated major and strategic defeats at the hands of the Islamic Revolution.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-20T19:30:54.506998+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/20/768963/IRGC-warns-aggression-repeated,-extra-regional-war-will-turn-enemy-black-dust"
+  },
+  {
+    "id": "3aa1761fb3b5",
+    "source": "PressTV",
+    "date": "2026-05-20T19:30",
+    "headline": "Pezeshkian reviews Iran-US talks in fresh meeting with Pakistani minister",
+    "excerpt": "Iranian president discusses latest developments on Iran-US talks in meeting with Pakistani interior minister.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-20T19:30:54.507036+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/20/768996/Iran-Pezeshkian-meeting-Pakistan-Naqvi-US-talks"
+  },
+  {
     "id": "badb5b87193c",
     "source": "Al Jazeera",
     "date": "2026-05-20T16:29",
@@ -5432,71 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-05-11T11:37:18.056476+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/11/gaza-filmmakers-slam-bbc-after-shelved-documentary-wins-bafta?traffic_source=rss"
-  },
-  {
-    "id": "9bba30c90295",
-    "source": "PressTV",
-    "date": "2026-05-11T11:37",
-    "headline": "Iran says its proposal was generous as US insists on ‘unreasonable demands’",
-    "excerpt": "Baghaei says Iran's proposal for ending the recent war was reasonable.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-11T11:37:20.548162+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768421/Baghaei-"
-  },
-  {
-    "id": "4474842bef31",
-    "source": "PressTV",
-    "date": "2026-05-11T11:37",
-    "headline": "Yemen’s Ansarullah warns US after Trump rejected Iran’s proposal",
-    "excerpt": "Amer says Trump does not like the truth, and for this reason, he continuously receives defeats from Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-11T11:37:20.548201+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768429/Yemen-Ansarullah-warns-US-over-rejecting-Iran-proposal"
-  },
-  {
-    "id": "0b2b43ff63fb",
-    "source": "PressTV",
-    "date": "2026-05-11T11:37",
-    "headline": "China rejects illegal US sanctions over Iran, vows to protect firms",
-    "excerpt": "China vows to shield its firms from illegal and unilateral sanctions by the US over Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-11T11:37:20.548226+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768430/China-hits-back-at-%E2%80%98illegal,-unilateral%E2%80%99-US-sanctions-over-Iran,-vows-to-protect-firms-"
-  },
-  {
-    "id": "389ca891c09e",
-    "source": "PressTV",
-    "date": "2026-05-11T11:37",
-    "headline": "Macron: France 'never considered' military deployment unccordinated with Iran",
-    "excerpt": "French President Emmanuel Macron says Paris \"never considered\" deploying its forces to the Strait of Hormuz without \"coordination with Iran.\"",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-11T11:37:20.548249+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768425/US-Israel-Iran-War-Hormuz-Strait-Macron-Nairobi-Kenya"
-  },
-  {
-    "id": "b2c634104fd5",
-    "source": "PressTV",
-    "date": "2026-05-11T11:37",
-    "headline": "Trump's deadly trap: By rejecting Iran's proposal, US enters a strategic nightmare with no escape",
-    "excerpt": "By theatrically rejecting Iran’s comprehensive plan to end the war, Trump trapped the US at a fatal three-way crossroads: resume a losing war, accept humiliating defeat under Iran’s terms, or face endless escalation.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-05-11T11:37:20.548273+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768410/trump-deadly-trap-rejecting-iran-proposal-us-enters-strategic-nightmare-no-escape"
-  },
-  {
-    "id": "3a24d7467008",
-    "source": "PressTV",
-    "date": "2026-05-11T11:37",
-    "headline": "International airlines continue to avoid Israeli Ben Gurion airport despite truce",
-    "excerpt": "International airlines reportedly continue to avoid Israeli Ben Gurion International Airport near Tel Aviv despite a ceasefire between the United States and Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-11T11:37:20.548297+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768431/International-airlines-continue-to-avoid-Israeli-Ben-Gurion-airport-despite-US-Iran-ceasefire"
   }
 ]
