@@ -1,5 +1,60 @@
 [
   {
+    "id": "6c2414eb53fd",
+    "source": "Al Jazeera",
+    "date": "2026-05-20T07:16",
+    "headline": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
+    "excerpt": "Iran says it learned from past clashes as Trump gives Tehran &#039;two to three days&#039; to reach a deal.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-05-20T07:56:08.024594+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss"
+  },
+  {
+    "id": "739b72f4e48b",
+    "source": "Al Jazeera",
+    "date": "2026-05-20T05:00",
+    "headline": "Daughter honours security guard father killed while protecting mosque",
+    "excerpt": "The daughter of mosque security guard Amin Abdullah is remembering him as the “absolute best dad in the world.”",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-20T07:56:08.024642+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/daughter-honours-security-guard-father-killed-while-protecting-mosque?traffic_source=rss"
+  },
+  {
+    "id": "26114dc258d7",
+    "source": "Al Jazeera",
+    "date": "2026-05-20T00:00",
+    "headline": "Iran war live: Tehran warns US of ‘surprises’; Xi, Putin meet in Beijing",
+    "excerpt": "Warning comes after Trump threatened military action against Iran and gave it &#039;two to three days&#039; to strike a deal.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-20T07:56:08.024691+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss"
+  },
+  {
+    "id": "87d94469e3a7",
+    "source": "PressTV",
+    "date": "2026-05-20T07:56",
+    "headline": "Russia slams UN duplicity on Iran, says US, Israel responsible for UAE attack",
+    "excerpt": "Russia says US-Israeli military strikes against Iranian nuclear facilities, including repeated attacks on the Bushehr Nuclear Power Plant, have brought the entire Middle East to the brink of a nuclear and radiological catastrophe.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-20T07:56:09.916688+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/20/768947/Russia-says-US-Israeli-strikes-Iranian-nuclear-sites-caused-global-catastrophe"
+  },
+  {
+    "id": "a103e5876d3e",
+    "source": "PressTV",
+    "date": "2026-05-20T07:56",
+    "headline": "Iran blasts US's 'shameless distortion' on Minab school massacre",
+    "excerpt": "Iran’s foreign ministry has lambasted CENTCOM’s account on the Minab school massacre as \"baseless.\"",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-20T07:56:09.916728+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/20/768948/Iran-Baqaei-Minab-Shajareh-Tayyebeh-school-massacre-US-CENTCOM-Trump"
+  },
+  {
     "id": "9d9f13701a73",
     "source": "Al Jazeera",
     "date": "2026-05-20T02:33",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-10T15:15:32.608591+00:00",
     "link": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss"
-  },
-  {
-    "id": "59f0828957ae",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T13:52",
-    "headline": "Stories of those killed in a single day of Israeli strikes on Lebanon",
-    "excerpt": "Israeli strikes have killed at least 39 people in a single day of attacks across Lebanon during a so-called ‘ceasefire.’",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-10T15:15:32.608632+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "829e6ae60e28",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T13:11",
-    "headline": "Can Asian economies cope with the fallout from the Iran war?",
-    "excerpt": "Fuel costs, inflation and debt pressures are testing Asian economies.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-10T14:10:32.202555+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "b8d2fd8168b1",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T12:45",
-    "headline": "Atef Najib faces at least 10 charges in landmark Syria trial",
-    "excerpt": "Cousin of former President Bashar al-Assad faces charges that include murder, torture and responsibility for massacres.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-05-10T14:10:32.202601+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/10/atef-najib-faces-at-least-10-charges-in-landmark-syria-trial?traffic_source=rss"
-  },
-  {
-    "id": "0c86029f3cb6",
-    "source": "Al Jazeera",
-    "date": "2026-05-10T12:40",
-    "headline": "Iran sends response to US proposal to end war via mediator Pakistan",
-    "excerpt": "According to the proposal, initial negotiations will focus on ending hostilities.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-10T14:10:32.202635+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan?traffic_source=rss"
-  },
-  {
-    "id": "dab367c45807",
-    "source": "PressTV",
-    "date": "2026-05-10T14:10",
-    "headline": "In meeting with Leader, top Iran general vows crushing response to any ‘enemy miscalculation’",
-    "excerpt": "General Abdollahi says the country’s armed forces are fully prepared to confront any “strategic mistake” or aggression by the “American-Zionist enemy.”",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-10T14:10:34.635803+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/10/768370/Top-general-tells-Leader-Iranian-Armed-Forces-ready-crush-any-aggression"
   }
 ]
