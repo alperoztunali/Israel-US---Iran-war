@@ -1,5 +1,115 @@
 [
   {
+    "id": "d48a2f82a9e9",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T15:32",
+    "headline": "Russia rehearses ‘use of nuclear forces’ in drills with Belarus",
+    "excerpt": "Russia delivered nuclear warheads to sites in Belarus as part of a three-day military exercise involving both countries.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-05-21T15:40:18.260096+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/russia-rehearses-use-of-nuclear-forces-in-drills-with-belarus?traffic_source=rss"
+  },
+  {
+    "id": "9d616b77ddbf",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T15:30",
+    "headline": "Ecuador’s Disappeared",
+    "excerpt": "Fault Lines investigates forced disappearances conducted by Ecuador’s military while waging a war against drug cartels.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-21T15:40:18.260153+00:00",
+    "link": "https://www.aljazeera.com/video/fault-lines/2026/5/21/ecuadors-disappeared?traffic_source=rss"
+  },
+  {
+    "id": "5db4535a5f67",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T15:10",
+    "headline": "US-Iran diplomacy picks up: What’s the latest?",
+    "excerpt": "Iranian media reported that the Pakistani interior minister is in Iran to help the US and Iran reach a peace deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-21T15:40:18.260190+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "610db1ce541c",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T14:44",
+    "headline": "Israel’s arrogance is becoming the evidence in the case against it",
+    "excerpt": "Ben-Gvir’s video of flotilla activists reveals a state so accustomed to impunity that it documents its own cruelty.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-21T15:40:18.260227+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/5/21/israels-arrogance-is-becoming-the-evidence-in-the-case-against-it?traffic_source=rss"
+  },
+  {
+    "id": "a08b1c18ea59",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T13:40",
+    "headline": "Activists take part in a land convoy from Libya to bring aid to Gaza",
+    "excerpt": "Activists take part in a land convoy from Libya to bring aid to Gaza",
+    "category": "Movement",
+    "location": "Gaza",
+    "addedAt": "2026-05-21T15:40:18.260250+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/activists-take-part-in-a-land-convoy-from-libya-to-bring-aid-to-gaza?traffic_source=rss"
+  },
+  {
+    "id": "1d355a4a8139",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T13:31",
+    "headline": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
+    "excerpt": "Economics of Hormuz closure are skewed towards Iran, so why won&#039;t the vessels just pay Tehran and sail away?",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-05-21T15:40:18.260277+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade?traffic_source=rss"
+  },
+  {
+    "id": "258ea60dc624",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T13:01",
+    "headline": "Iran World Cup squad members apply for US, Canada visas in Turkiye",
+    "excerpt": "A number of players submitted visa applications in person at the US embassy in Ankara ahead of their training camp.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-21T15:40:18.260334+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/21/iran-world-cup-squad-members-apply-for-us-canada-visas-in-turkiye?traffic_source=rss"
+  },
+  {
+    "id": "8138b9b78c82",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T12:25",
+    "headline": "How Ben-Gvir’s flotilla video shattered Israel’s multimillion ‘Hasbara’",
+    "excerpt": "The Israeli minister’s taunting of abducted activists triggers a global condemnation forcing Israel into damage control.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-21T15:40:18.260394+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/21/how-ben-gvirs-flotilla-video-shattered-israels-multimillion-hasbara?traffic_source=rss"
+  },
+  {
+    "id": "0b813ee7f27b",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T12:12",
+    "headline": "Israel begins deporting Gaza aid flotilla activists amid global outcry",
+    "excerpt": "Israel’s treatment of the hundreds of abductees has been condemned by several countries, including key allies.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-21T15:40:18.260431+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/21/israel-begins-deporting-gaza-aid-flotilla-activists-amid-global-outcry?traffic_source=rss"
+  },
+  {
+    "id": "17e1d2fc3c7a",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T12:11",
+    "headline": "This is the face of Israel",
+    "excerpt": "Ben Gvir’s video of bound flotilla activists showed Israel without the mask.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-21T15:40:18.260460+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/5/21/this-is-the-face-of-israel?traffic_source=rss"
+  },
+  {
     "id": "524c10493caf",
     "source": "Al Jazeera",
     "date": "2026-05-21T11:28",
@@ -5388,115 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-12T04:09:08.575195+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss"
-  },
-  {
-    "id": "94d0a1bca458",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T01:58",
-    "headline": "Syria restores credit card payments in effort to rejoin the global economy",
-    "excerpt": "Syria restores credit card payments in effort to rejoin the global economy.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-05-12T04:09:08.575241+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/syria-restores-credit-card-payments-in-effort-to-rejoin-the-global-economy?traffic_source=rss"
-  },
-  {
-    "id": "82cf5ff98654",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T00:00",
-    "headline": "Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread",
-    "excerpt": "Iran&#039;s powerful parliamentary speaker says US has &#039;no alternative but to accept&#039; Tehran&#039;s 14-point proposal to end war.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-12T04:09:08.575275+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss"
-  },
-  {
-    "id": "989eec7a6d19",
-    "source": "PressTV",
-    "date": "2026-05-12T04:09",
-    "headline": "Iran blasts US-proposed UN resolution on Strait of Hormuz",
-    "excerpt": "Iran has sharply condemned Washington’s latest attempt to push a draft resolution through the UN Security Council on the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-12T04:09:10.949579+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/12/768461/Iran%E2%80%99s-deputy-foreign-minister-blasts-US-proposed-UN-resolution-on-Strait-of-Hormuz"
-  },
-  {
-    "id": "5bdf55e851c8",
-    "source": "PressTV",
-    "date": "2026-05-11T23:13",
-    "headline": "Hezbollah strikes crushing blows against Israeli troops in southern Lebanon",
-    "excerpt": "Hezbollah has carried out 20 defensive military operations against invading Israeli occupation forces in southern Lebanon, delivering heavy losses to the aggressors.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-11T23:13:23.168683+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768459/Hezbollah-strikes-crushing-blows-against-Israeli-invaders-in-southern-Lebanon"
-  },
-  {
-    "id": "779949d21edc",
-    "source": "Al Jazeera",
-    "date": "2026-05-11T20:56",
-    "headline": "EU, UK sanction Russians over deportations of Ukrainian children",
-    "excerpt": "Russian institutions and officials accused of systemic deportation and indoctrination of children during war on Ukraine.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-11T22:11:44.933116+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss"
-  },
-  {
-    "id": "d564a25535f3",
-    "source": "Al Jazeera",
-    "date": "2026-05-11T20:31",
-    "headline": "EU sanctions violent Israeli settlers after months of deadlock",
-    "excerpt": "The assets of violent Israeli settlers and settler organisations are being targeted in a new EU sanctions package.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-11T22:11:44.933177+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss"
-  },
-  {
-    "id": "d93453618165",
-    "source": "Al Jazeera",
-    "date": "2026-05-11T19:18",
-    "headline": "Could the latest violence in DR Congo undermine truce efforts?",
-    "excerpt": "Lesser-known armed groups have carried out a spate of attacks in the country&#039;s northeast.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-11T20:51:17.907176+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/11/could-the-latest-violence-in-dr-congo-undermine-truce-efforts?traffic_source=rss"
-  },
-  {
-    "id": "7ed7f405785d",
-    "source": "Al Jazeera",
-    "date": "2026-05-11T19:10",
-    "headline": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
-    "excerpt": "The long-awaited agreement comes after Hungary&#039;s new government dropped the country&#039;s veto.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-11T20:51:17.907219+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss"
-  },
-  {
-    "id": "bc04554243a8",
-    "source": "PressTV",
-    "date": "2026-05-11T20:51",
-    "headline": "Iran’s armed forces ready to shock aggressors: Speaker Qalibaf",
-    "excerpt": "Qalibaf has stated that the Islamic Republic’s armed forces are battle-ready to deliver a crushing, well-deserved response to any aggression.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-11T20:51:19.675243+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768457/Iran%E2%80%99s-armed-forces-ready-to-shock-aggressors--Speaker-Ghalibaf"
-  },
-  {
-    "id": "8f2c3e0327fa",
-    "source": "Al Jazeera",
-    "date": "2026-05-11T18:25",
-    "headline": "UK sanctions network accused of planning attacks for Iran",
-    "excerpt": "Britain freezes assets and travel for those accused of laundering billions and plotting Iranian-backed hostile activity.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-11T19:00:06.991356+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss"
   }
 ]
