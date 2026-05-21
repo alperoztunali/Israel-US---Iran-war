@@ -1,5 +1,104 @@
 [
   {
+    "id": "fdf50cccbcde",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T07:59",
+    "headline": "Israel pushes for war amid US ceasefire, but its options may be limited",
+    "excerpt": "Israeli officials and media indicate renewed conflict with Iran is being actively considered despite a shaky deadlock.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-05-21T08:36:45.645077+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/21/israel-pushes-for-war-amid-us-ceasefire-but-its-options-may-be-limited?traffic_source=rss"
+  },
+  {
+    "id": "b8f335aba515",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T07:14",
+    "headline": "Walid Daqqa: A Parallel Life",
+    "excerpt": "Walid Daqqa, the Palestinian prisoner who turned decades in Israeli jails into moments of thought, creativity and love.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-21T08:36:45.645121+00:00",
+    "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/5/21/walid-daqqa-a-parallel-life?traffic_source=rss"
+  },
+  {
+    "id": "37ff2708c4f3",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T07:01",
+    "headline": "Hebron’s Ibrahimi Mosque illuminated in Israeli flag colours",
+    "excerpt": "Palestinian officials condemned Israel’s illumination of Hebron’s Ibrahimi Mosque with Israeli flag colours and slogans.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-21T08:36:45.645164+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/hebrons-ibrahimi-mosque-illuminated-in-israeli-flag-colours?traffic_source=rss"
+  },
+  {
+    "id": "2263173f2fe7",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T06:59",
+    "headline": "Iran war day 83: Tehran ‘reviewing’ latest US response to end conflict",
+    "excerpt": "Iran says diplomacy with the US remains open as Hormuz tensions deepen and outrage grows over Israel’s flotilla arrests.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-21T08:36:45.645203+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/21/iran-war-day-83-tehran-reviewing-latest-us-response-to-end-conflict?traffic_source=rss"
+  },
+  {
+    "id": "89cb4fd5ff0b",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T06:54",
+    "headline": "South Korea’s stock market soars as Samsung union calls off planned strike",
+    "excerpt": "Benchmark KOSPI rises more than 8 percent following deal to avert strike at top memory chip maker.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-05-21T08:36:45.645244+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/21/south-koreas-stock-market-soars-as-samsung-union-calls-off-planned-strike?traffic_source=rss"
+  },
+  {
+    "id": "a8317ed399ee",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T00:00",
+    "headline": "Iran war live: Tehran says it is reviewing US response to proposal",
+    "excerpt": "Israeli attacks have killed 3,073 people across Lebanon since March, according to the Lebanese Health Ministry.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-05-21T08:36:45.645273+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss"
+  },
+  {
+    "id": "b1560454b1f8",
+    "source": "PressTV",
+    "date": "2026-05-21T08:36",
+    "headline": "Iran urges UNSC to break silence on US threats, war crimes",
+    "excerpt": "Iran’s UN ambassador calls on the UN Security Council to break its silence on the United States’ threats against the Islamic Republic and violations during the recent illegal war of aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-21T08:36:47.871670+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/21/769008/Iran-UNSC-silence-US-war-crimes"
+  },
+  {
+    "id": "acc488301eec",
+    "source": "PressTV",
+    "date": "2026-05-21T08:36",
+    "headline": "Iran pursuing talks ‘in good faith’ but views US with ‘deep suspicion’: FM spox",
+    "excerpt": "Iran says the exchange of messages with the US continued through mediator Pakistan based on Tehran’s 14-point peace proposal.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-21T08:36:47.871715+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/21/769013/Iran-US-Baghaei-messages-viewpoints-Pakistan"
+  },
+  {
+    "id": "81f61fa9c092",
+    "source": "PressTV",
+    "date": "2026-05-21T08:36",
+    "headline": "Trump revives tensions with China, declares intent to talk to Taiwan leader",
+    "excerpt": "Trump is departing from decades-old diplomatic norms as he signals a direct call with Taiwan's president.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-05-21T08:36:47.871753+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/21/769010/US-Trump-Taiwan-Lai-Ching-te-China-arms-sale-Xi"
+  },
+  {
     "id": "912401dea16c",
     "source": "Al Jazeera",
     "date": "2026-05-21T01:02",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-11T16:48:19.193441+00:00",
     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/11/is-the-us-empire-in-the-middle-of-a-long-decline?traffic_source=rss"
-  },
-  {
-    "id": "cc7eef4c311c",
-    "source": "Al Jazeera",
-    "date": "2026-05-11T14:27",
-    "headline": "Lebanon Latest",
-    "excerpt": "Days of deadly attacks",
-    "category": "Casualties",
-    "location": "Lebanon",
-    "addedAt": "2026-05-11T16:48:19.193463+00:00",
-    "link": "https://www.aljazeera.com/video/2026/5/11/lebanon-latest-2?traffic_source=rss"
-  },
-  {
-    "id": "bacb974c2c73",
-    "source": "Al Jazeera",
-    "date": "2026-05-11T14:25",
-    "headline": "Lebanese civil defence worker captures moment of Israeli strike",
-    "excerpt": "A Lebanese civil defence worker captured the moment an Israeli strike hit a rescue operation in southern Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-11T16:48:19.193498+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/lebanese-civil-defence-worker-captures-moment-of-israeli-strike?traffic_source=rss"
-  },
-  {
-    "id": "7cc940cad194",
-    "source": "Al Jazeera",
-    "date": "2026-05-11T14:17",
-    "headline": "Israel pushes for hangings and ‘show trials’ for ‘October 7 detainees’",
-    "excerpt": "Israel advances legislation to try October 7 detainees in military courts, raising fears of show trials and executions.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-11T16:48:19.193539+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/11/israel-pushes-for-death-penalty-and-show-trials-for-oct-7-detainees?traffic_source=rss"
-  },
-  {
-    "id": "cb789e21e612",
-    "source": "PressTV",
-    "date": "2026-05-11T16:48",
-    "headline": "Iran's president expresses gratitude to Ayatollah Sistani for his support amid US-Israeli aggression",
-    "excerpt": "President Pezeshkian thanked Grand Ayatollah Sayyed Ali al-Sistani for his support of the Islamic Republic and the victims of the recent US-Israeli aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-11T16:48:21.019865+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768449/Pezeshkian-thanks-Ayatollah-Sistani-for-supporting-Iran-amid-US-Israeli-aggression-"
-  },
-  {
-    "id": "a514f1037349",
-    "source": "PressTV",
-    "date": "2026-05-11T16:48",
-    "headline": "Iran urges UN to list US officials behind attack on Dena destroyer as war criminals",
-    "excerpt": "Iran's High Council for Human Rights calls on the United Nations to recognize US officials behind the deliberate attack on the Iranian Dena destroyer as war criminals.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-11T16:48:21.019896+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768441/iran-un-united-states-dena-destroyer-rights-council"
-  },
-  {
-    "id": "dbda390b6695",
-    "source": "PressTV",
-    "date": "2026-05-11T16:48",
-    "headline": "Israeli killers remain unpunished four years after Shireen Abu Akleh’s assassination",
-    "excerpt": "The family of Shireen Abu Akleh has said that no one has been brought to justice four years after the Palestinian-American journalist was shot dead by Israeli troops.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-11T16:48:21.019923+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768444/Israeli-perpetrators-remain-unpunished-four-years-after-Shireen-Abu-Akleh%E2%80%99s-killing"
-  },
-  {
-    "id": "f922dc89f830",
-    "source": "Al Jazeera",
-    "date": "2026-05-11T13:09",
-    "headline": "‘Unacceptable’: What’s Iran’s peace proposal that Trump has rejected?",
-    "excerpt": "On Sunday, Tehran sent a response to an earlier US proposal to end the war through mediator Pakistan.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-11T14:09:48.140072+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/11/unacceptable-whats-irans-peace-proposal-that-trump-has-rejected?traffic_source=rss"
-  },
-  {
-    "id": "f87561e56794",
-    "source": "Al Jazeera",
-    "date": "2026-05-11T12:04",
-    "headline": "Iran says its demands were seeking peace, while the US’s are ‘unreasonable’",
-    "excerpt": "Iranian foreign ministry spokesman Esmaeil Baqaei says Iran’s latest response was dismissed by the US Baqaei said.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-11T14:09:48.140125+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-says-its-demands-were-seeking-peace-while-the-uss-are?traffic_source=rss"
-  },
-  {
-    "id": "41fbd975e94f",
-    "source": "Al Jazeera",
-    "date": "2026-05-11T11:59",
-    "headline": "EU agrees to restore full trade ties with Syria",
-    "excerpt": "The European Council says the move &#039;sends a clear political signal of the EU’s commitment to re-engage with Syria&#039;.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-05-11T14:09:48.140165+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-to-restore-full-trade-ties-with-syria?traffic_source=rss"
   }
 ]
