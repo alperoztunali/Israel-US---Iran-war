@@ -1,5 +1,27 @@
 [
   {
+    "id": "912401dea16c",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T01:02",
+    "headline": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
+    "excerpt": "Albanese is among several people sanctioned by the US for advocacy against Israel&#039;s genocidal war in Gaza.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-21T04:47:09.717063+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss"
+  },
+  {
+    "id": "39f4bbbf1e81",
+    "source": "Al Jazeera",
+    "date": "2026-05-21T00:00",
+    "headline": "Iran war live: Tehran says no surrender to US, diplomacy ‘wiser’ than war",
+    "excerpt": "Israeli attacks have killed 3,073 people across Lebanon since March, according to the Lebanese Health Ministry.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-05-21T04:47:09.717129+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss"
+  },
+  {
     "id": "c901158803ae",
     "source": "Al Jazeera",
     "date": "2026-05-20T23:32",
@@ -5476,27 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-05-11T14:09:48.140165+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-to-restore-full-trade-ties-with-syria?traffic_source=rss"
-  },
-  {
-    "id": "0500521a4060",
-    "source": "PressTV",
-    "date": "2026-05-11T14:09",
-    "headline": "Araghchi discusses Pakistan-mediated Iran-US diplomacy with Saudi, Egyptian FMs",
-    "excerpt": "The foreign ministers of Iran, Saudi Arabia and Egypt discuss the most important developments pertaining to the Pakistan-mediated diplomatic process between Iran and the United States in separate phone calls.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-11T14:09:50.236865+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768436/iran-araghchi-saudi-arabia-egypt-foreign-ministers"
-  },
-  {
-    "id": "5624054f7276",
-    "source": "PressTV",
-    "date": "2026-05-11T14:09",
-    "headline": "Experts 'laughing' at US claims about Iran's oil production: Minister",
-    "excerpt": "Oil minister says US claims about decline in Iran’s oil production are laughable.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-11T14:09:50.236914+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/11/768438/Iran-oil-minister-Paknejad-US-claims-production-drop"
   }
 ]
