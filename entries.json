@@ -1,5 +1,49 @@
 [
   {
+    "id": "f77a5b88cc93",
+    "source": "Al Jazeera",
+    "date": "2026-05-22T07:22",
+    "headline": "US raises threat of military action against Cuba",
+    "excerpt": "Secretary of State Marco Rubio says Cuba poses a national security threat.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-22T08:14:45.122098+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss"
+  },
+  {
+    "id": "6c42e2c7f55b",
+    "source": "Al Jazeera",
+    "date": "2026-05-22T06:55",
+    "headline": "Iran war day 84: US-Iran talks advance amid mediation push",
+    "excerpt": "US and Iran continue mediated talks, exchanging draft proposals aimed at reaching a formal agreement.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-22T08:14:45.122141+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss"
+  },
+  {
+    "id": "0c2aabe4617f",
+    "source": "Al Jazeera",
+    "date": "2026-05-22T04:58",
+    "headline": "Thousands attend funeral prayers for San Diego mosque attack victims",
+    "excerpt": "More than 2,000 people gathered for Islamic funeral prayers in San Diego for three men killed in mosque attack",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-22T08:14:45.122172+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-attend-funeral-prayers-for-san-diego-mosque-attack-victims?traffic_source=rss"
+  },
+  {
+    "id": "1bcd254885ee",
+    "source": "PressTV",
+    "date": "2026-05-22T08:14",
+    "headline": "Satellite images reveal damage to Israeli military bases in Iran’s strikes",
+    "excerpt": "Newly analyzed satellite imagery has exposed damage to multiple Israeli military installations from Iran and Hezbollah's defensive operations.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-22T08:14:46.749382+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/22/769059/Satellite-images-reveal-damage-to-Israeli-military-bases-during-Iran-defensive-campaign"
+  },
+  {
     "id": "c1084c4f9b02",
     "source": "Al Jazeera",
     "date": "2026-05-22T03:45",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-12T17:34:10.635416+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss"
-  },
-  {
-    "id": "2e686f9cbea2",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T16:12",
-    "headline": "Israel kills, injures average of 4 children daily amid Lebanon ‘ceasefire’",
-    "excerpt": "The statistics shared by Save the Children refer to the first 25 days of the truce that came into effect on April 16.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-12T17:34:10.635452+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/12/israel-kills-injures-average-of-4-children-daily-amid-lebanon-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "c296b5d27195",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T15:23",
-    "headline": "Israel killing at least one child a week in occupied West Bank, UN says",
-    "excerpt": "Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-12T17:34:10.635478+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss"
-  },
-  {
-    "id": "4745adef32f7",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T15:02",
-    "headline": "How one Palestinian teen’s life changed forever after Israeli gunfire",
-    "excerpt": "Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-12T17:34:10.635515+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss"
-  },
-  {
-    "id": "cb600891e3e0",
-    "source": "PressTV",
-    "date": "2026-05-12T17:34",
-    "headline": "Accept Iran’s rights or face repeated military defeats: Defense Ministry",
-    "excerpt": "Iran’s Defense Ministry says the American-Zionist enemy must accept the legitimate and definitive rights of the Iranian nation, or expect to suffer repeated defeats both on the diplomatic front and on the battlefield.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-12T17:34:12.243905+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/12/768505/Iran-defense-ministry-rights-military-defeats-united-states-israel"
   }
 ]
