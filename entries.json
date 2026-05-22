@@ -1,5 +1,71 @@
 [
   {
+    "id": "5031c873ff72",
+    "source": "Al Jazeera",
+    "date": "2026-05-22T18:04",
+    "headline": "Israel’s October 7 tribunal: Show trial of Palestinians or justice?",
+    "excerpt": "Observers describe a climate in which the chances of justice in the military tribunals are slim.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-22T18:22:46.614437+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/22/israel-october-7-tribunal-show-trial-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "7ef54a3c2fd3",
+    "source": "Al Jazeera",
+    "date": "2026-05-22T17:12",
+    "headline": "Gaza flotilla activists allege abuse, sexual assault in Israeli detention",
+    "excerpt": "Organisers of Global Sumud Flotilla say foreign activists report at least 15 cases of ‌sexual assaults, including rape.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-22T18:22:46.614486+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/22/gaza-flotilla-activists-allege-abuse-sexual-assault-in-israeli-detention?traffic_source=rss"
+  },
+  {
+    "id": "631bf6228752",
+    "source": "Al Jazeera",
+    "date": "2026-05-22T17:04",
+    "headline": "Video shows Israeli strike on Lebanese child and paramedics",
+    "excerpt": "Video shows an Israeli air strike hitting paramedics responding to an earlier attack in southern Lebanon.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-22T18:22:46.614508+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/video-shows-israeli-strike-on-lebanese-child-and-paramedics?traffic_source=rss"
+  },
+  {
+    "id": "5306592e0a55",
+    "source": "PressTV",
+    "date": "2026-05-22T18:22",
+    "headline": "Pakistan army chief arrives in Tehran amid Iran-US mediation push",
+    "excerpt": "Pakistan's army chief Field Marshal Asim Munir arrived in Tehran on Friday to discuss ongoing Iran-US negotiations.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-22T18:22:48.659746+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/22/769090/Pakistan-army-chief-in-Tehran"
+  },
+  {
+    "id": "a40f7c9b5fa3",
+    "source": "PressTV",
+    "date": "2026-05-22T18:22",
+    "headline": "US naval blockade against Iran ‘illegal’, amounts to ‘war crime’: Envoy",
+    "excerpt": "An Iranian envoy has warned against the humanitarian impact of the “illegal” US naval blockade against the Islamic Republic, stressing that it constitutes “a war crime”.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-22T18:22:48.659782+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/22/769097/US-naval-blockade-Iran-constitutes-war-crime"
+  },
+  {
+    "id": "378ee11c3d1e",
+    "source": "PressTV",
+    "date": "2026-05-22T18:22",
+    "headline": "Foreign powers aim to take control of Yemen, exploit its resources: Ansarullah leader",
+    "excerpt": "Leader of Yemen's Ansarullah movement, Abdul-Malik al-Houthi, has warned that foreign powers are seeking to take control of the Yemeni nation.",
+    "category": "Statement",
+    "location": "Yemen",
+    "addedAt": "2026-05-22T18:22:48.659817+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/22/769096/Yemen-Ansarullah-leader-Abdul-Malik-al-Houthi-foreign-powers-seeking-to-subjugate-nation"
+  },
+  {
     "id": "2a745367fcbb",
     "source": "Al Jazeera",
     "date": "2026-05-22T15:58",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-13T08:29:16.777538+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/13/bahrain-led-un-resolution-on-strait-of-hormuz-gains-support-of-112-nations?traffic_source=rss"
-  },
-  {
-    "id": "0d6cdbfd5b87",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T00:00",
-    "headline": "Iran war live: World watches as Trump and Xi to hold high-stakes talks",
-    "excerpt": "US president says he &#039;doesn’t think about Americans’ financial situation&#039; when it comes to the crippling war on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-13T08:29:16.777578+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss"
-  },
-  {
-    "id": "54acc4ebb667",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T04:27",
-    "headline": "Putin hails Russia’s test launch of ‘most powerful missile in the world’",
-    "excerpt": "Russian leader says the nuclear-capable Sarmat missile will enter combat service at the end of the year.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-13T05:34:53.465838+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/13/putin-hails-russias-test-launch-of-most-powerful-missile-in-the-world?traffic_source=rss"
-  },
-  {
-    "id": "f6d9e241f0d6",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T21:02",
-    "headline": "Trump says he doesn’t need Xi’s help on Iran war as he heads to China",
-    "excerpt": "Trump gives conflicting messages on prominence of Iran war in upcoming talks with China&#039;s Xi.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-13T05:34:53.465890+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss"
-  },
-  {
-    "id": "dfbeed2a428a",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T00:00",
-    "headline": "Iran war live: Trump travels to China as conflict with Tehran looms large",
-    "excerpt": "Israeli attacks on Lebanon have killed 2,883 people and injured 8,787 since March 2, Lebanon&#039;s Health Ministry says.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-05-13T01:30:54.283740+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss"
-  },
-  {
-    "id": "5e3970289fae",
-    "source": "PressTV",
-    "date": "2026-05-13T01:30",
-    "headline": "US intelligence says Iran retains significant missile capabilities: Report",
-    "excerpt": "Classified US intelligence assessments indicate that Iran continues to maintain substantial missile capabilities, a report says.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-13T01:30:56.056822+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/13/768523/Iran-missile-power-United-States-intelligence-assessments"
-  },
-  {
-    "id": "99e4bc439e3e",
-    "source": "PressTV",
-    "date": "2026-05-12T23:42",
-    "headline": "Iran FM: US's approach main obstacle to ending war",
-    "excerpt": "Iran says the US's maximalist approach as well as its other instances of counterproductive attitude are the main obstacles to ending the situation resulting from unprovoked aggression against the Islamic Republic.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-12T23:42:56.821334+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/12/768522/Iran-United-States-war-Araghchi"
   }
 ]
