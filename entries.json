@@ -1,5 +1,71 @@
 [
   {
+    "id": "a5d3970ff266",
+    "source": "Al Jazeera",
+    "date": "2026-05-22T13:11",
+    "headline": "Israeli attacks kill several in Lebanon, with health workers targeted",
+    "excerpt": "More than 400 people have been killed since the ceasefire came into effect in mid-April.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-22T13:54:37.756788+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/22/israeli-attacks-kill-several-in-lebanon-with-health-workers-targeted?traffic_source=rss"
+  },
+  {
+    "id": "79c3c4185024",
+    "source": "Al Jazeera",
+    "date": "2026-05-22T12:00",
+    "headline": "Iran’s enriched uranium stockpile: Can it be safely transferred?",
+    "excerpt": "Reports say Khamenei issued a directive that Iran&#039;s enriched uranium should not be sent abroad.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-22T13:54:37.756839+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/22/irans-enriched-uranium-stockpile-can-it-be-safely-transferred?traffic_source=rss"
+  },
+  {
+    "id": "682cacbd8f90",
+    "source": "Al Jazeera",
+    "date": "2026-05-22T11:30",
+    "headline": "Gang violence kills at least 25 in Honduras",
+    "excerpt": "The attacks by gunmen come as the government continues a drive to crack down on organised crime.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-22T13:54:37.756877+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/22/gang-violence-kills-at-least-25-in-honduras?traffic_source=rss"
+  },
+  {
+    "id": "31c7bdb49576",
+    "source": "PressTV",
+    "date": "2026-05-22T13:54",
+    "headline": "Iran’s president calls on PR professionals to break Zionist media blackout",
+    "excerpt": "President Masoud Pezeshkian says public relations professionals should play a crucial role in raising public awareness, given that Zionist media outlets prevent people from seeing the truth.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-22T13:54:39.194225+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/22/769077/Iran%E2%80%99s-president-calls-on-PR-professionals-to-break-Zionist-media-blackout"
+  },
+  {
+    "id": "76ec4c8feb86",
+    "source": "PressTV",
+    "date": "2026-05-22T13:54",
+    "headline": "Iran censures Germany’s downplaying of US-Israel attack as merely ‘unnecessary war’",
+    "excerpt": "Iran tells Germany that the unlawful US-Israel attacks against the Islamic Republic were not merely an unnecessary war but a blatant act of aggression against a sovereign state.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-22T13:54:39.194274+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/22/769080/Iran-Germany-Baghaei-US-Israel"
+  },
+  {
+    "id": "64ee295acb02",
+    "source": "PressTV",
+    "date": "2026-05-22T13:54",
+    "headline": "IRGC coordinates safe passage of another 35 ships through Hormuz",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC) has announced that it coordinated the transit of another 35 ships through the Strait of Hormuz in the past 24 hours.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-22T13:54:39.194301+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/22/769076/IRGC-Navy-coordinates-passage-of-35-ships-through-Strait-of-Hormuz"
+  },
+  {
     "id": "a0b097b6d740",
     "source": "Al Jazeera",
     "date": "2026-05-22T09:34",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-12T21:04:38.085455+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest?traffic_source=rss"
-  },
-  {
-    "id": "552fc13ed6eb",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T19:01",
-    "headline": "Trump skirts question on US ‘red lines’ for Iran ceasefire",
-    "excerpt": "Trump skirted a question from a reporter about whether he has a ‘red line’ that would end the ceasefire with Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-12T21:04:38.085487+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/trump-skirts-question-on-us-red-lines-for-iran-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "9941bdc1744b",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T16:26",
-    "headline": "Kuwait says it foiled infiltration operation by Iran’s IRGC",
-    "excerpt": "Iran denies accusations, saying the arrested sailors were in Kuwaiti waters due to their navigation system&#039;s malfunction",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-12T21:04:38.085537+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc?traffic_source=rss"
-  },
-  {
-    "id": "a43d70df164f",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T18:02",
-    "headline": "Serbia hosts first joint military exercise with NATO",
-    "excerpt": "The two-week-long drills come less than 30 years after NATO bombed Belgrade in the Kosovo war.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-05-12T19:22:44.252665+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss"
-  },
-  {
-    "id": "43e7c023660d",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T17:49",
-    "headline": "Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy",
-    "excerpt": "Mike Huckabee calls on Gulf states to &#039;pick a side&#039; in the war between Israel and Iran as he heaps praise on Abu Dhabi.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-12T19:22:44.252701+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy?traffic_source=rss"
-  },
-  {
-    "id": "6fb355fbf3cd",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T17:37",
-    "headline": "US faces rising costs with Iran war driving energy prices, inflation higher",
-    "excerpt": "Consumer prices spike in April, driven by soaring energy costs, with petrol prices up nearly 30 percent since last year.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-12T19:22:44.252740+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss"
-  },
-  {
-    "id": "b9ebcd463028",
-    "source": "Al Jazeera",
-    "date": "2026-05-12T17:28",
-    "headline": "Inside US Democrats’ Gaza fight – and what it means for 2028 elections",
-    "excerpt": "Support for Israel was once untouchable in US politics. Now Democrats are divided. Is this a turning point for the party",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-12T19:22:44.252780+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/12/aje-onl-tt_usa_palandthedemocrats_av_v3-110526?traffic_source=rss"
   }
 ]
