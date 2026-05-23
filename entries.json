@@ -1,5 +1,82 @@
 [
   {
+    "id": "a815eae420b5",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T13:18",
+    "headline": "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
+    "excerpt": "French Foreign Minister Jean-Noel Barrot said France would not tolerate its nationals being threatened or intimidated.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-05-23T13:48:32.693935+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir?traffic_source=rss"
+  },
+  {
+    "id": "2f7ae8ae70d9",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T12:54",
+    "headline": "Israeli air strike pounds southern Lebanon leaving many injured",
+    "excerpt": "An Israeli air strike has hit the Al-Baqbouq area north of Tyre in southern Lebanon.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-23T13:48:32.693973+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss"
+  },
+  {
+    "id": "8facc2881d93",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T10:10",
+    "headline": "Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU",
+    "excerpt": "His comments come as Russia accuses Ukraine of killing 12 in an attack on a college.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-23T13:48:32.694022+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/23/zelenskyy-says-time-is-right-for-ukraine-to-start-process-of-joining-eu?traffic_source=rss"
+  },
+  {
+    "id": "49b873919046",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T09:30",
+    "headline": "Israeli attacks in Lebanon kill at least 2 despite supposed ceasefire",
+    "excerpt": "People in southern Lebanon are living under &quot;psychological terror&quot; from Israeli air attacks and displacement orders.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-23T13:48:32.694054+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "f836483d9e3a",
+    "source": "PressTV",
+    "date": "2026-05-23T13:48",
+    "headline": "Iran has no trust in US, will never back down from its rights: Qalibaf",
+    "excerpt": "The Iranian Parliament speaker says Tehran has no trust in the US and will never retreat from its national rights in talks with Washington.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-23T13:48:35.421780+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/23/769145/Iran-Pakistan-Qalibaf-Munir"
+  },
+  {
+    "id": "fa226e9afbd8",
+    "source": "PressTV",
+    "date": "2026-05-23T13:48",
+    "headline": "IRGC Navy says 25 ships passed through Strait of Hormuz in 24 hours",
+    "excerpt": "The IRGC Navy announces that 25 vessels, including oil tankers, container ships, and other commercial vessels, transited the Strait of Hormuz over the past 24 hours.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-23T13:48:35.421816+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/23/769137/IRGC-coordinates-safe-passage-25-ships-Hormuz"
+  },
+  {
+    "id": "411279402fa4",
+    "source": "PressTV",
+    "date": "2026-05-23T13:48",
+    "headline": "Iran says US committing ‘crimes against humanity’ in Cuba",
+    "excerpt": "The Iranian Foreign Ministry condemns the ongoing interference of the US administration in Cuba's internal affairs, including illegal sanctions, provocative actions, political pressure, and military threats against the Caribbean nation.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-23T13:48:35.421860+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/23/769142/Iran-condemns-US-crimes-humanity-Cuba,-end-unilateral-measures"
+  },
+  {
     "id": "eb9f325945ba",
     "source": "Al Jazeera",
     "date": "2026-05-23T10:59",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-13T20:18:49.752529+00:00",
     "link": "https://www.aljazeera.com/video/the-take-2/2026/5/13/aje-onl-tt_usa_israelcadavers_v4-130526?traffic_source=rss"
-  },
-  {
-    "id": "b2990679809d",
-    "source": "PressTV",
-    "date": "2026-05-13T20:18",
-    "headline": "Iran reserves right to respond to Kuwait’s ‘unlawful’ boat attack, arrest of 4 citizens: FM",
-    "excerpt": "Araghchi says Iran reserves the right to respond to Kuwait’s unlawful attack on a boat used by Iranian nationals.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-13T20:18:51.415712+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/13/768567/Iran-Araghchi-Kuwait-nationals-detention-condemnation"
-  },
-  {
-    "id": "e682635f5478",
-    "source": "PressTV",
-    "date": "2026-05-13T20:18",
-    "headline": "US lost 39 aircraft during 40 days of war against Iran: Congressman",
-    "excerpt": "US congressman says Washington suffered major aircraft losses during its illegal war against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-13T20:18:51.415745+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/13/768571/US-lost-39-aircraft-during-40-days-of-war-against-Iran--Congressman"
-  },
-  {
-    "id": "3b678a1aa999",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T17:33",
-    "headline": "Pro-Palestine chants disrupt Israel Eurovision performance",
-    "excerpt": "Israel’s Eurovision performance was disrupted by loud pro-Palestine protests during the Vienna semi-final",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-13T18:17:31.611670+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/pro-palestine-chants-disrupt-israel-eurovision-performance?traffic_source=rss"
-  },
-  {
-    "id": "00fc711df183",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T17:27",
-    "headline": "Trump-Xi summit: China’s help in Iran may require US concessions",
-    "excerpt": "Analysts say China is likely to ask for change in US policy towards Taiwan if it were to pressure Iran reopen Hormuz.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-13T18:17:31.611718+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/13/trump-xi-summit-chinas-help-in-iran-may-require-us-concessions?traffic_source=rss"
-  },
-  {
-    "id": "bc6432f630ec",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T17:08",
-    "headline": "Church leaders killed in latest ethnic violence in India’s Manipur",
-    "excerpt": "Protests were held after three church leaders were killed and three others injured in India’s Manipur state.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-13T18:17:31.611754+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/church-leaders-killed-in-latest-ethnic-violence-in-indias-manipur?traffic_source=rss"
-  },
-  {
-    "id": "477b5cc7b55d",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T17:03",
-    "headline": "Russia places UK ex-Defence Minister Ben Wallace on wanted list",
-    "excerpt": "Wallace last year recommended helping Ukraine carry out a strike on the bridge linking Russia to annexed Crimea.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-13T18:17:31.611791+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/13/russia-places-uk-former-minister-ben-wallace-on-wanted-list?traffic_source=rss"
-  },
-  {
-    "id": "c729cdf5a4e3",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T16:52",
-    "headline": "‘One of the longest’ Russian attacks kills at least six people in Ukraine",
-    "excerpt": "Moscow says it intercepts and destroys 286 Ukrainian drones overnight.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-13T18:17:31.611819+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/13/russian-attacks-across-ukraine-kill-at-least-six?traffic_source=rss"
   }
 ]
