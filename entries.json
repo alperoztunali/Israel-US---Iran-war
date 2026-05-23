@@ -1,5 +1,71 @@
 [
   {
+    "id": "55f15f740bcb",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T09:30",
+    "headline": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
+    "excerpt": "People in southern Lebanon are living under &quot;psychological terror&quot; from Israeli air attacks and displacement orders.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-23T10:39:30.808894+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "20531fb95d24",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T09:26",
+    "headline": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
+    "excerpt": "Parts of the Puebla stadium for high-profile warm-up for 2026 edition were closed to spectators due to FIFA sanctions.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-05-23T10:39:30.808945+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss"
+  },
+  {
+    "id": "90cbeff8e1b0",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T09:22",
+    "headline": "Missiles to munitions: Does the US risk running out of key weapons?",
+    "excerpt": "The US projects confidence in weapons stockpiles, but analysts say dwindling munitions are shaping its war decisions.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-23T10:39:30.808974+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss"
+  },
+  {
+    "id": "aa7c586bbe94",
+    "source": "PressTV",
+    "date": "2026-05-23T10:39",
+    "headline": "Failure to respect Iran’s rights will lead to heavier defeats for Trump: Defense Ministry",
+    "excerpt": "Iran’s Defense Ministry says failure to comply with the legitimate rights of Iran will lead to heavier defeats for Trump.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-23T10:39:32.512382+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/23/769132/Spox-Failure-to-respect-Iran-s-rights-will-lead-to-heavier-defeats-for-Trump-"
+  },
+  {
+    "id": "b9c0580b2a93",
+    "source": "PressTV",
+    "date": "2026-05-23T10:39",
+    "headline": "Israeli armed forces kill 6 paramedics, 5 civilians in southern Lebanon",
+    "excerpt": "The Israeli armed forces have killed 11 people across southern Lebanon as the regime continues to violate the ceasefire.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-23T10:39:32.512415+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/23/769136/Israeli-armed-forces-kill-6-paramedics,-5-civilians-in-southern-Lebanon"
+  },
+  {
+    "id": "2bf005ae41f3",
+    "source": "PressTV",
+    "date": "2026-05-23T10:39",
+    "headline": "Germany’s allegations over attacks on Jewish targets follow ‘worn-out cliches’: Iran embassy",
+    "excerpt": "Iran’s Embassy in Berlin says German prosecutors’ claims about Tehran’s alleged involvement in attacks on Jewish figures are “unfounded” and follow “worn-out clichés.”",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-23T10:39:32.512471+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/23/769133/Iran-embassy-Germany-rejects-unfounded-accusations-involvement-attacks-plot-Jewish-figures-worn-out-cliches-"
+  },
+  {
     "id": "6d53d94ea3f8",
     "source": "Al Jazeera",
     "date": "2026-05-23T08:16",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-13T16:09:25.226429+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "6dc3b2287202",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T14:55",
-    "headline": "What Trump and Xi want from China visit",
-    "excerpt": "Tensions over trade, technology, Taiwan, and the war on Iran are set to dominate high-stakes talks between Trump and Xi.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-13T16:09:25.226463+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss"
-  },
-  {
-    "id": "9bee04ae4c60",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T14:25",
-    "headline": "‘Most powerful’: What’s the Sarmat missile Russia has test-launched?",
-    "excerpt": "President Vladimir Putin claims the RS-28 Sarmat&#039;s range is far beyond Western estimates.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-13T16:09:25.226490+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/13/most-powerful-whats-the-sarmat-missile-russia-has-test-launched?traffic_source=rss"
-  },
-  {
-    "id": "98a1f6de8951",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T14:05",
-    "headline": "Amid US-Israel war on Iran, Arizona awaits Iranian team before World Cup",
-    "excerpt": "Sports facility and football fans in the city of Tucson want Iran&#039;s players to feel &#039;safe and welcome&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-13T16:09:25.226513+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/13/amid-us-israel-war-on-iran-arizona-awaits-iranian-team-before-world-cup?traffic_source=rss"
-  },
-  {
-    "id": "bcab3a890a63",
-    "source": "PressTV",
-    "date": "2026-05-13T16:09",
-    "headline": "Iran urges BRICS to defend nations against monopoly, sanctions, coercion",
-    "excerpt": "Iran’s deputy foreign minister has called on the BRICS grouping to become a platform for equal cooperation, mutual respect, independent decision-making, and the defense of nations’ rights against monopoly, sanctions and the policy of coercion.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-13T16:09:27.848518+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/13/768550/iran-brics-india-new-delhi"
-  },
-  {
-    "id": "198c88bce92b",
-    "source": "PressTV",
-    "date": "2026-05-13T16:09",
-    "headline": "Hezbollah thankful for Iran's continuous, sincere support: Sheikh Qassem",
-    "excerpt": "Hezbollah chief says the group has always enjoyed Iran's continuous and sincere support for the past five decades.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-13T16:09:27.848551+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/13/768554/Hezbollah-chief-Qassem-appreciation-Iran-support"
-  },
-  {
-    "id": "335085bd0507",
-    "source": "PressTV",
-    "date": "2026-05-13T16:09",
-    "headline": "Mossad chief made secret visits to UAE to coordinate attacks on Iran: Report",
-    "excerpt": "The head of Mossad visited the UAE at least twice during the joint US-Israeli war against Iran, the Wall Street Journal reported.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-13T16:09:27.848573+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/13/768553/Mossad-chief-made-secret-UAE-visits-to-coordinate-attacks-on-Iran--Report"
   }
 ]
