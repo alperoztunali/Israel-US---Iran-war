@@ -1,5 +1,27 @@
 [
   {
+    "id": "eb9f325945ba",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T10:59",
+    "headline": "China coal mine blast kills at least 90, leaves nine missing",
+    "excerpt": "A gas explosion at the Liushenyu coal mine in China’s Shanxi province has killed at least 90 workers.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-23T11:46:56.719525+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/china-coal-mine-blast-kills-at-least-90-leaves-nine-missing?traffic_source=rss"
+  },
+  {
+    "id": "2c0720e61478",
+    "source": "PressTV",
+    "date": "2026-05-23T11:46",
+    "headline": "IRGC Navy says 25 ships passed through Strait of Hormuz",
+    "excerpt": "The IRGC Navy announces that 25 vessels, including oil tankers, container ships, and other commercial vessels, transited the Strait of Hormuz over the past 24 hours.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-23T11:46:58.431119+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/23/769137/IRGC-coordinates-safe-passage-25-ships-Hormuz"
+  },
+  {
     "id": "55f15f740bcb",
     "source": "Al Jazeera",
     "date": "2026-05-23T09:30",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-13T18:17:31.611819+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/13/russian-attacks-across-ukraine-kill-at-least-six?traffic_source=rss"
-  },
-  {
-    "id": "13f151b4a1fc",
-    "source": "PressTV",
-    "date": "2026-05-13T18:17",
-    "headline": "Iran parliamentary commission finalizes plan to secure Strait of Hormuz: Chairman",
-    "excerpt": "Iran’s National Security and Foreign Policy Commission has finalized a comprehensive plan for the security and development of the Persian Gulf and the Strait of Hormuz, a lawmaker said.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-13T18:17:34.339705+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/13/768557/Iran-parliamentary-commission-finalizes-plan-to-secure-Strait-of-Hormuz-top-lawmaker"
-  },
-  {
-    "id": "a2bb3be392c0",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T14:59",
-    "headline": "12 killed by a series of Israeli strikes on cars in Lebanon",
-    "excerpt": "A series of Israeli  strikes on vehicles in Lebanon killed at least 12 people, including a woman and her two children.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-13T16:09:25.226429+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss"
   }
 ]
