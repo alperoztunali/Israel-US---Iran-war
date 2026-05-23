@@ -1,5 +1,49 @@
 [
   {
+    "id": "257bb876194a",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T15:53",
+    "headline": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
+    "excerpt": "Overnight Israeli strikes devastated the Nuseirat and Bureij refugee camps in central Gaza despite an ongoing ceasefire.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-23T16:13:42.297564+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss"
+  },
+  {
+    "id": "88dccb23f69e",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T15:52",
+    "headline": "US Secretary of State kicks off India visit, invites Modi to White House",
+    "excerpt": "US-Israel war with Iran among issues looming large as Rubio expected to seek to mend in ties with New Delhi.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-23T16:13:42.297615+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss"
+  },
+  {
+    "id": "2f79e941f475",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T15:42",
+    "headline": "Israeli forces arrest two children in occupied West Bank village",
+    "excerpt": "Israeli soldiers arrest two Palestinian children during a raid on al-Mughayyir village in the occupied West Bank.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-23T16:13:42.297647+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-arrest-two-children-in-occupied-west-bank-village?traffic_source=rss"
+  },
+  {
+    "id": "73db39ae5c9a",
+    "source": "PressTV",
+    "date": "2026-05-23T16:13",
+    "headline": "Pezeshkian: Iran seeks its legitimate rights in US talks, but past experiences demand caution",
+    "excerpt": "Iran’s President Masoud Pezeshkian says his country seeks only to restore the legitimate rights of the nation.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-23T16:13:43.941412+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/23/769154/Pezeshkian--Iran-seeks-restore-legitimate-rights-nation"
+  },
+  {
     "id": "1dd61654ba41",
     "source": "Al Jazeera",
     "date": "2026-05-23T15:00",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-13T21:54:21.571642+00:00",
     "link": "https://presstv.ir/Detail/2026/05/13/768578/with-you-every-step-way-irgc-commander-pep-talk-football-team-world-cup"
-  },
-  {
-    "id": "19a990cffb5b",
-    "source": "PressTV",
-    "date": "2026-05-13T21:54",
-    "headline": "Netanyahu reveals he 'secretly' visited UAE during war on Iran",
-    "excerpt": "Israeli prime minister Benjamin Netanyahu reveals \"secretly\" visiting the UAE during the latest round of unprovoked US-Israeli aggression against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-13T21:54:21.571686+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/13/768576/Israel-Netanyahu-visit-UAE-war-Iran"
-  },
-  {
-    "id": "630f57c073ca",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T19:41",
-    "headline": "Russia unleashes massive drone barrage on Ukraine killing six",
-    "excerpt": "Russia has launched a massive daytime drone barrage across Ukraine, killing at least six people.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-13T20:18:49.752295+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/russia-unleashes-massive-drone-barrage-on-ukraine-killing-six?traffic_source=rss"
-  },
-  {
-    "id": "d95a41fda556",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T19:37",
-    "headline": "New eye scan detects diseases years before symptoms appear",
-    "excerpt": "A Qatar-based professor has pioneered a non-invasive eye scan to detect neurodegenerative diseases in minutes.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-05-13T20:18:49.752344+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/new-eye-scan-detects-diseases-years-before-symptoms-appear?traffic_source=rss"
-  },
-  {
-    "id": "9fc853183897",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T19:18",
-    "headline": "Will the boycott of Eurovision have any impact?",
-    "excerpt": "The decision by five nations to boycott the song contest comes amid Israel&#039;s genocide in Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-13T20:18:49.752379+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/13/will-the-boycott-of-eurovision-have-any-impact?traffic_source=rss"
   }
 ]
