@@ -1,5 +1,38 @@
 [
   {
+    "id": "361b32a1c168",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T03:19",
+    "headline": "Some fear US-Philippines war games are drawing conflict closer to home",
+    "excerpt": "Critics of US, Philippine military cooperation say closely aligning with Washington makes Manila a possible target.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-23T03:49:02.744231+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home?traffic_source=rss"
+  },
+  {
+    "id": "7057e2223fda",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T00:00",
+    "headline": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
+    "excerpt": "Israeli attacks on Lebanon have killed at least 3,111 people since March 2, with 9,432 injured: Health Ministry.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-05-23T03:49:02.744268+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss"
+  },
+  {
+    "id": "ae4be93f3b63",
+    "source": "PressTV",
+    "date": "2026-05-23T03:49",
+    "headline": "US's betrayals, contradictory stances, excessive demands source of disruption in talks: Iran FM",
+    "excerpt": "Foreign Minister Abbas Araghchi describes the US's litany of failures to honor its commitments as the source of disruption of Pakistan-mediated negotiations.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-23T03:49:04.517154+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/23/769108/Iran-United-States-talks-Araghchi-Guterres"
+  },
+  {
     "id": "60beddcc80c6",
     "source": "Al Jazeera",
     "date": "2026-05-22T22:23",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-13T11:12:42.982791+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss"
-  },
-  {
-    "id": "4e304e0cf3df",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T10:57",
-    "headline": "Video: Putin hails test launch of ‘world’s most powerful missile’",
-    "excerpt": "Russia has test-fired a new weapon that President Putin has described as the world’s ‘most powerful’ missile.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-13T11:12:42.982837+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/video-putin-hails-test-launch-of-worlds-most-powerful?traffic_source=rss"
-  },
-  {
-    "id": "d38df03e4cae",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T09:53",
-    "headline": "At least eight killed in Israeli drone strikes on Lebanon highway",
-    "excerpt": "Two children among those killed after three strikes hit cars on the highway in Jiyeh, south of Beirut.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-05-13T11:12:42.982884+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss"
-  },
-  {
-    "id": "6f866cfc3c68",
-    "source": "Al Jazeera",
-    "date": "2026-05-13T09:35",
-    "headline": "Series of tremors near Tehran renews concerns over major quake risk",
-    "excerpt": "The tremors have been felt in an area close to the Mosha fault, one of Iran’s most active seismic zones.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-13T11:12:42.982929+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk?traffic_source=rss"
   }
 ]
