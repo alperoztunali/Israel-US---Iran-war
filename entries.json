@@ -1,5 +1,27 @@
 [
   {
+    "id": "b443a97c91be",
+    "source": "PressTV",
+    "date": "2026-05-23T23:12",
+    "headline": "Iran, US moving closer to 'finalizing memorandum of understanding' to end imposed war: Baghaei",
+    "excerpt": "Iran says its views are converging with the United States on a 14-point memorandum aimed at halting the US-Israeli-imposed war, unlocking Tehran’s frozen assets, and ending American maritime piracy.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-23T23:12:33.592607+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/23/769157/Iran-US-Baghaei-understanding-nuclear"
+  },
+  {
+    "id": "d78cf8ab9566",
+    "source": "PressTV",
+    "date": "2026-05-23T23:12",
+    "headline": "'Iran won the war': Former senior Israeli official",
+    "excerpt": "Former senior Israeli official says Iran has emerged victorious out of the latest bout of American-Israeli aggression targeting the Islamic Republic.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-23T23:12:33.592649+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/23/769173/Israel-Iran-United-States-war"
+  },
+  {
     "id": "55662795c923",
     "source": "Al Jazeera",
     "date": "2026-05-23T21:14",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-14T07:32:52.004704+00:00",
     "link": "https://www.aljazeera.com/sports/2026/5/14/irans-us-bound-world-cup-squad-given-public-sendoff-in-tehran?traffic_source=rss"
-  },
-  {
-    "id": "616829227cc4",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T04:52",
-    "headline": "Kyiv building collapses after Russian strike, reportedly trapping residents",
-    "excerpt": "Russia attacked the Ukrainian capital Kyiv with drones and missiles, damaging several buildings.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-14T07:32:52.004734+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/aje-onl-nf_clip-kyiv-building-collapses-after-strike-140526?traffic_source=rss"
-  },
-  {
-    "id": "27b1f8dcb9b3",
-    "source": "PressTV",
-    "date": "2026-05-14T07:32",
-    "headline": "Iran slams US for using ‘coercion’ to get support for Hormuz resolution",
-    "excerpt": "Iran’s Permanent Mission to the UN slams the United States for using “coercion” to rally support for its resolution regarding the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-14T07:32:53.739827+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/14/768587/Iran-slams-US-for-using-%E2%80%98coercion%E2%80%99-to-get-support-for-Hormuz-resolution"
   }
 ]
