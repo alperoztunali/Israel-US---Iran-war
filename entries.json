@@ -1,5 +1,82 @@
 [
   {
+    "id": "b279fb028525",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T08:51",
+    "headline": "Rubio says ‘significant progress’ made in US-Iran negotiations",
+    "excerpt": "US Secretary of State Marco Rubio says ‘significant progress’ made in US-Iran negotiations.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-24T09:32:56.194984+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/rubio-says-significant-progress-made-in-us-iran-negotiations?traffic_source=rss"
+  },
+  {
+    "id": "9187465a31c0",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T08:47",
+    "headline": "Yemen war sees scramble for scant resources between displaced and locals",
+    "excerpt": "Reduced aid to Yemen and a domestic economic crisis see extreme suffering among the displaced at the Maryamah camp.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-05-24T09:32:56.195032+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss"
+  },
+  {
+    "id": "e308f35269eb",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T08:22",
+    "headline": "Russian attacks on Ukraine’s Kyiv kill at least four people",
+    "excerpt": "Two ​people are killed in ⁠the ​capital itself and two ⁠in the Kyiv region while 40 locations are damaged.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-24T09:32:56.195069+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss"
+  },
+  {
+    "id": "3bcab93c6d29",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T08:21",
+    "headline": "Bomb attack in Pakistan’s Balochistan province kills more than 20 people",
+    "excerpt": "The Balochistan Liberation Army has claimed responsibility for the attack.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-24T09:32:56.195096+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people?traffic_source=rss"
+  },
+  {
+    "id": "1f92938da062",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T08:10",
+    "headline": "“They don’t like each other:” Is Russia and Iran’s alliance falling apart?",
+    "excerpt": "Russia and Iran have been locked in a centuries-long rivalry and pragmatism.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-24T09:32:56.195128+00:00",
+    "link": "https://www.aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart?traffic_source=rss"
+  },
+  {
+    "id": "606cec0cb71f",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T07:29",
+    "headline": "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears",
+    "excerpt": "Anger and mistrust growing over Ebola burials as traditions clash with medical response to prevent spread.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-24T09:32:56.195168+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc-amid-outbreak-fears?traffic_source=rss"
+  },
+  {
+    "id": "c1d27d9db8ab",
+    "source": "PressTV",
+    "date": "2026-05-24T09:33",
+    "headline": "Hamas: Israeli strike on police site intended to create ‘security vacuum’ in Gaza",
+    "excerpt": "Hamas condemns Israel’s strike on police stations as an attempt to create a security vacuum in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-24T09:33:28.432212+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/24/769179/Hamas--Israel-schemes-to-create-security-vacuum-in-Gaza-by-targeting-police-stations"
+  },
+  {
     "id": "1a0e1fca6010",
     "source": "Al Jazeera",
     "date": "2026-05-24T07:13",
@@ -5421,82 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-14T14:43:00.189255+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/russian-drone-attack-hits-kyiv-apartment-block-during-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "fb8a74b5bd61",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T13:17",
-    "headline": "What is on the table during Lebanon-Israel direct negotiations?",
-    "excerpt": "Israel and Lebanon will meet for the third time this year to discuss a ceasefire and disarming Hezbollah.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-14T14:43:00.189283+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/14/what-is-on-the-table-during-lebanon-israel-direct-negotiations?traffic_source=rss"
-  },
-  {
-    "id": "3f3990ac2040",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T13:07",
-    "headline": "Latvian prime minister resigns after drone incident",
-    "excerpt": "Latvian Prime Minister Evika Silina resigns after several incidents involving stray drones suspected to be from Ukraine.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-14T14:43:00.189307+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/14/latvian-prime-minister-resigns-after-drone-incident?traffic_source=rss"
-  },
-  {
-    "id": "e656aba3e947",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T11:27",
-    "headline": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
-    "excerpt": "Lebanon and Israel are expected to hold talks on extending the ceasefire in Washington.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-14T12:02:40.519553+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss"
-  },
-  {
-    "id": "4b6321f96038",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T10:19",
-    "headline": "Russia launches hundreds more drones at Ukraine, killing three people",
-    "excerpt": "President Volodymyr Zelenskyy says Russia fired &#039;more than 1,560 drones&#039; at Ukraine since Wednesday.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-14T12:02:40.519597+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/14/russia-launches-hundreds-more-drones-at-ukraine-killing-three-people?traffic_source=rss"
-  },
-  {
-    "id": "5ba44c550cfd",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T09:28",
-    "headline": "Could Iran war trigger a hunger crisis?",
-    "excerpt": "The UN warns disruptions in the Strait of Hormuz could drive up food and fertiliser costs, and worsen global hunger.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-14T10:00:19.335435+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss"
-  },
-  {
-    "id": "573d2af4c4e7",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T09:16",
-    "headline": "Federal judge blocks US sanctions against UN rapporteur Francesca Albanese",
-    "excerpt": "US sanctions imposed on UN expert Francesca Albanese by the Trump administration temporarily ⁠blocked by a judge.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-05-14T10:00:19.335496+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese?traffic_source=rss"
-  },
-  {
-    "id": "e491f3affb67",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T08:49",
-    "headline": "Japanese snacks go black-and-white: Why Iran war is driving up ink prices",
-    "excerpt": "Calbee says it would temporarily use only black and white colours on 14 of its products due to a lack of printing ink.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-14T10:00:19.335529+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/14/japanese-snacks-go-black-and-white-why-iran-war-is-driving-up-ink-prices?traffic_source=rss"
   }
 ]
