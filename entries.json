@@ -1,5 +1,38 @@
 [
   {
+    "id": "ab67f55d0c1e",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T02:16",
+    "headline": "Iranian sources lay out Iran-US deal details",
+    "excerpt": "Al Jazeera’s Ali Hashem reveals details of Iran&#039;s position on the potential peace agreement with the US.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-24T04:42:51.465790+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss"
+  },
+  {
+    "id": "023fe8e662a7",
+    "source": "Al Jazeera",
+    "date": "2026-05-23T22:52",
+    "headline": "US Secret Service fatally shoots gunman who fired at White House checkpoint",
+    "excerpt": "Officers returned fire after suspect pulled weapon from bag, with a bystander also wounded.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-24T04:42:51.465834+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss"
+  },
+  {
+    "id": "348fcc31b829",
+    "source": "PressTV",
+    "date": "2026-05-24T04:42",
+    "headline": "'Iranians shattered aggressors' illusions': FM spox invokes history amid prospect of MoU with US",
+    "excerpt": "Iran cites a historical instance of the Roman Empire's failing to secure victory against Persia amid the prospect of realization of an MoU with US following unfaltering Iranian retaliation and resistance.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-24T04:42:52.979305+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/24/769175/Iran-United-States-Foreign-Ministry-Baghaei"
+  },
+  {
     "id": "72e0928a78d8",
     "source": "PressTV",
     "date": "2026-05-24T00:14",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-14T10:00:21.345780+00:00",
     "link": "https://presstv.ir/Detail/2026/05/14/768595/Iran-FM-says-US-strangling-Hormuz-through-illegal-blockade,-Strait-open-to-cooperative-vessels-"
-  },
-  {
-    "id": "f0d693ca1136",
-    "source": "PressTV",
-    "date": "2026-05-14T10:00",
-    "headline": "US used Kuwait’s Bubiyan Island to target Iran during recent war: Report",
-    "excerpt": "A new report says the US used Kuwait’s Bubiyan Island in the Persian Gulf to target Iran during the recent American-Israeli war of aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-14T10:00:21.345822+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/14/768596/US-used-Kuwait%E2%80%99s-Bubiyan-Island-to-target-Iran-during-recent-war--Report"
-  },
-  {
-    "id": "9757a6c07007",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T07:00",
-    "headline": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
-    "excerpt": "US Vice President Vance says progress is being made in talks with Iran as President Trump begins his trip to China.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-14T07:32:52.004622+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "95454079f844",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T06:56",
-    "headline": "Trump in China for talks with Xi Jinping",
-    "excerpt": "Trump visits Beijing for high-stakes summit with Xi as Iran, trade and Taiwan strain US-China ties.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-14T07:32:52.004662+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/5/14/trump-in-china-for-talks-with-xi-jinping?traffic_source=rss"
   }
 ]
