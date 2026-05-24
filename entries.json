@@ -1,5 +1,27 @@
 [
   {
+    "id": "b4c3b9e74a1e",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T21:40",
+    "headline": "Inside a Beirut barbershop shaped by war and crisis",
+    "excerpt": "For nearly 20 years, Mario Habib has run a barbershop through wars, economic collapse and political crisis in Lebanon.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-05-24T23:17:38.020609+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/inside-a-beirut-barbershop-shaped-by-war-and-crisis?traffic_source=rss"
+  },
+  {
+    "id": "ed1809f95a4c",
+    "source": "PressTV",
+    "date": "2026-05-24T23:18",
+    "headline": "Enemy fired 2,100 projectiles at Abu Musa but failed to break Iran's resolve: IRGC advisor",
+    "excerpt": "“The enemy fired 2,100 projectiles at Abu Musa island and nearly 300 surface-to-surface missiles at the island,” Naqdi said. “But our fighters’ response put the crews inside American warships under such psychological pressure that they even dismissed their own naval commander.”",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-05-24T23:18:29.360969+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/24/769230/Enemy-fired-2100-projectiles-at-Abu-Musa-island-during-war-but-failed-to-break-Iran-s-resolve-IRGC-advisor"
+  },
+  {
     "id": "738daf12130e",
     "source": "Al Jazeera",
     "date": "2026-05-24T21:03",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-15T10:07:53.505923+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss"
-  },
-  {
-    "id": "11813520abee",
-    "source": "Al Jazeera",
-    "date": "2026-05-15T09:01",
-    "headline": "How Xi-Trump summit failed to yield Iran war breakthrough",
-    "excerpt": "US officials have nudged China to do more on the blocked Hormuz strait. President Xi doesn&#039;t appear to have budged.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-15T10:07:53.505967+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss"
-  },
-  {
-    "id": "5cb12bbf1072",
-    "source": "Al Jazeera",
-    "date": "2026-05-15T00:00",
-    "headline": "Iran war live: China wants swift end to war, Israel escalates in Lebanon",
-    "excerpt": "China&#039;s Foreign Ministry says window for talks must not be lost, Israel steps up assassination attacks in south Lebanon.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-15T10:07:53.506020+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
   }
 ]
