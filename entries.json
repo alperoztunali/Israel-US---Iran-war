@@ -1,5 +1,38 @@
 [
   {
+    "id": "c993b1c90a6c",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T16:18",
+    "headline": "Iran recounts historic battles in response to Trump’s talk of agreement",
+    "excerpt": "Iran cites battles from history in response to Trump&#039;s latest comments on an imminent deal between the US and Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-24T16:43:55.092782+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/24/iran-recounts-historic-battles-in-response-to-trumps-talk-of-agreement?traffic_source=rss"
+  },
+  {
+    "id": "9a51331b97d4",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T10:01",
+    "headline": "Trump: No rush on Iran deal, as Netanyahu demands end to nuclear threat",
+    "excerpt": "US blockade remains until final deal, as officials on both sides say obstacles remain",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-24T16:43:55.092850+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss"
+  },
+  {
+    "id": "76bcbe9de359",
+    "source": "PressTV",
+    "date": "2026-05-24T16:43",
+    "headline": "Leader’s advisor: Iran will break US naval blockade, exit NPT if attacked again",
+    "excerpt": "A senior advisor to Ayatollah Khamenei says Iran will break the US naval blockade and more importantly withdraw from the NPT if Washington resumes attacks against the country.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-05-24T16:43:56.749657+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/24/769217/Iran-Rezaei-NPT-blockade"
+  },
+  {
     "id": "9faff5d31c3f",
     "source": "Al Jazeera",
     "date": "2026-05-24T14:16",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-15T04:29:30.435999+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
-  },
-  {
-    "id": "449644430e0b",
-    "source": "PressTV",
-    "date": "2026-05-15T04:29",
-    "headline": "Mastermind behind Netanyahu’s UAE visit, chief architect of Abraham Accords hacked: Handala",
-    "excerpt": "The Handala hacker group says it has breached the planner behind Netanyahu’s UAE visit and the principal architect of the Abraham Accords.",
-    "category": "Other",
-    "location": "Uae",
-    "addedAt": "2026-05-15T04:29:32.141317+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/15/768637/Hackers-Netanyahu-UAE-visit-mastermind-Abraham-Accords-mastermind"
-  },
-  {
-    "id": "c75fc617850b",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T23:22",
-    "headline": "UN aid convoy hit by drone strikes in Ukraine’s Kherson",
-    "excerpt": "A UN humanitarian convoy delivering aid to the city of Kherson was hit twice by drones.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-15T00:11:10.476507+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson?traffic_source=rss"
-  },
-  {
-    "id": "709b212576ce",
-    "source": "PressTV",
-    "date": "2026-05-15T00:11",
-    "headline": "Iran parl. speaker warns US theatrics in Hormuz could trigger new global financial crisis",
-    "excerpt": "Iran's parliament speaker warns that the US's efforts at sustaining military escalation near the Strait of Hormuz could trigger a fresh global financial crisis.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-15T00:11:12.036087+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/14/768635/Iran-warning-United-States-Hormuz-Hegseth"
   }
 ]
