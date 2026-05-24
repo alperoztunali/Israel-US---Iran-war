@@ -1,5 +1,82 @@
 [
   {
+    "id": "a0d9a72ecfcd",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T13:45",
+    "headline": "‘We won’t know who won until final outcome of US-Iran ceasefire’",
+    "excerpt": "‘We won&#039;t know who won until final outcome of US-Iran ceasefire’",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-24T14:02:51.221543+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/we-wont-know-who-won-until-final-outcome-of-us-iran?traffic_source=rss"
+  },
+  {
+    "id": "671a00757991",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T13:26",
+    "headline": "Iran hints US will end war in ‘Persian-style’ peace on Tehran’s terms",
+    "excerpt": "Iran’s foreign ministry spokesman invoked ancient Persia’s victory over Rome in comparison to today’s US-Iran talks.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-24T14:02:51.221592+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iran-hints-us-will-end-war-in-persian-style-peace-on-tehrans-terms?traffic_source=rss"
+  },
+  {
+    "id": "a15c6eb1c630",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T12:35",
+    "headline": "Suicide car bombing attack on a train in Pakistan kills dozens",
+    "excerpt": "A Baloch separatist group has claimed responsibility for an attack on a train carrying soldiers in Quetta, Pakistan.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-24T14:02:51.221638+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/suicide-car-bombing-attack-on-a-train-in-pakistan-kills-dozens?traffic_source=rss"
+  },
+  {
+    "id": "211b35f37a3f",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T12:19",
+    "headline": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people",
+    "excerpt": "More than 50 people injured in attack on train carrying military personnel in Quetta, capital of southwestern province.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-24T14:02:51.221675+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss"
+  },
+  {
+    "id": "2fe547f0d548",
+    "source": "PressTV",
+    "date": "2026-05-24T14:02",
+    "headline": "Leader’s strategies for Persian Gulf, Hormuz Strait to ensure future of region: Top general",
+    "excerpt": "A senior Iranian military commander says Ayatollah Khamenei’s strategies for the Persian Gulf and the Strait of Hormuz will shape new regional and global order.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-24T14:02:52.775915+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/24/769206/Iran-Abdollahi-Persian-Gulf-Hormuz-Strait"
+  },
+  {
+    "id": "c4aba04a1ac4",
+    "source": "PressTV",
+    "date": "2026-05-24T14:02",
+    "headline": "President: Iran ready to assure world it is not seeking nuclear weapons",
+    "excerpt": "Iranian President Masoud Pezeshkian says Tehran is ready to assure the world it is not seeking nuclear weapons.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-24T14:02:52.775958+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/24/769205/Pezeshkian-Iran-ready-to-assure-world-not-seeking-nuclear-weapons"
+  },
+  {
+    "id": "35e2d9c0da24",
+    "source": "PressTV",
+    "date": "2026-05-24T14:02",
+    "headline": "IRGC reports increased transit rates in Hormuz with 33 ships passing in 24 hours",
+    "excerpt": "The IRGC says transit via the Strait of Hormuz is flowing smoothly under its ‘strong control’ arrangements.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-24T14:02:52.775989+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/24/769210/IRGC-reports-increased-transit-rates-in-Hormuz-with-33-ships-passing-in-24-hours-"
+  },
+  {
     "id": "dea4b5d603b6",
     "source": "Al Jazeera",
     "date": "2026-05-24T11:41",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-14T20:40:36.813255+00:00",
     "link": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss"
-  },
-  {
-    "id": "231f6b9fda8d",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T19:00",
-    "headline": "What does the US hope to achieve from Lebanon-Israel talks?",
-    "excerpt": "As Israeli attacks on Lebanon continue, Hezbollah opposes ceasefire talks in Washington.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-14T20:40:36.813300+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss"
-  },
-  {
-    "id": "b41b02c9a07a",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T19:00",
-    "headline": "Iran expands tiered internet access amid continued online blackout",
-    "excerpt": "Iranians have had limited internet access during the war, with the government now looking at tiered services.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-14T20:40:36.813334+00:00",
-    "link": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss"
-  },
-  {
-    "id": "59c7a69754ab",
-    "source": "PressTV",
-    "date": "2026-05-14T20:40",
-    "headline": "'We will not give up the Strait of Hormuz at any cost': Iran’s VP Aref",
-    "excerpt": "Iran’s Vice President Aref says the Strait of Hormuz belongs to Iran, stressing that ‘we’ will not give it up at any cost.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-14T20:40:38.323328+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/14/768631/--We-will-not-give-up-the-Strait-of-Hormuz-at-any-cost---Iran%E2%80%99s-VP-Aref"
-  },
-  {
-    "id": "271522671d4a",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T18:41",
-    "headline": "Israeli ultranationalists chant racist slogans during Jerusalem Day march",
-    "excerpt": "Annual Jerusalem Day march fuels tensions with shouted slogans and violence against Palestinian residents.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-14T18:56:51.234209+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss"
-  },
-  {
-    "id": "eb9a15d6a73d",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T18:39",
-    "headline": "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
-    "excerpt": "Itamar Ben Gvir stormed the Al-Aqsa compound under heavy military protection during Jerusalem Day.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-14T18:56:51.234258+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss"
-  },
-  {
-    "id": "4b7d7567cf7f",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T17:50",
-    "headline": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
-    "excerpt": "Far-right Israelis attack Palestinians during the Flag March, intensifying violence and racism in Jerusalem&#039;s Old City.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-14T18:56:51.234299+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss"
-  },
-  {
-    "id": "7c83e2443e50",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T17:29",
-    "headline": "Iran urges BRICS nations to condemn US-Israeli war aggression",
-    "excerpt": "Foreign Minister Abbas Araghchi also accused the UAE of direct involvement in military operations against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-14T18:56:51.234333+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss"
   }
 ]
