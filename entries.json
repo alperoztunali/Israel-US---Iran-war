@@ -1,5 +1,49 @@
 [
   {
+    "id": "dea4b5d603b6",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T11:41",
+    "headline": "Israeli attack on Gaza kills three family members, including infant",
+    "excerpt": "Mohammad Abu Mallouh, ​Alaa Zaqlan and their child, Osama, killed in the attack on Nuseirat refugee camp, medics say.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-24T12:12:05.090484+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss"
+  },
+  {
+    "id": "1e6681df8b2e",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T11:07",
+    "headline": "The GCC should insure itself against the next Strait of Hormuz crisis",
+    "excerpt": "For that, collective action will be needed now.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-24T12:12:05.090529+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/5/24/the-gcc-should-insure-itself-against-the-next-strait-of-hormuz-crisis?traffic_source=rss"
+  },
+  {
+    "id": "ddd22d2b8224",
+    "source": "PressTV",
+    "date": "2026-05-24T12:12",
+    "headline": "Israeli strikes kill family of three, five police officers in central Gaza",
+    "excerpt": "Israel continues its strike on Gaza, killing civilians and police officers alike, despite a ceasefire with Hamas.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-24T12:12:07.143808+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/24/769194/Israeli-regime-continues-Killing-Palestinians-in-Gaza,-despite-ceasefire-agreement-"
+  },
+  {
+    "id": "b7da29e49780",
+    "source": "PressTV",
+    "date": "2026-05-24T12:12",
+    "headline": "Dozens killed in bomb attack targeting Pakistani train station",
+    "excerpt": "A terrorist railway station attack leaves at least 24 dead in Quetta, Pakistan.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-24T12:12:07.143838+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/24/769197/Pakistan-train-station-blast-leaves-24-killed-in-Quetta"
+  },
+  {
     "id": "22506b6cad47",
     "source": "Al Jazeera",
     "date": "2026-05-24T10:25",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-14T18:56:51.234333+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss"
-  },
-  {
-    "id": "e45b76bbd157",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T17:04",
-    "headline": "Iraq’s parliament approves new Ali al-Zaidi government",
-    "excerpt": "PM sworn in and 14 ​ministers approved ⁠in new government though parliament fails to reach consensus on several posts.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-05-14T18:56:51.234369+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/14/iraqs-parliament-approves-new-ali-al-zaidi-government?traffic_source=rss"
-  },
-  {
-    "id": "76caff5d9a8c",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T16:26",
-    "headline": "Yemen gov’t, Houthis to release more than 1,600 POWs in ‘largest’ swap",
-    "excerpt": "The UN-backed agreement will see the ICRC facilitate the exchange of hundreds of detainees from both sides.",
-    "category": "Diplomatic",
-    "location": "Yemen",
-    "addedAt": "2026-05-14T18:56:51.234408+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/14/yemen-govt-houthis-to-release-more-than-1600-pows-in-largest-swap?traffic_source=rss"
-  },
-  {
-    "id": "cfa182e50394",
-    "source": "Al Jazeera",
-    "date": "2026-05-14T16:23",
-    "headline": "Lamine Yamal divides opinion with Palestinian flag gesture",
-    "excerpt": "A mural of Barcelona player Lamine Yamal was painted in Gaza after the teenager waved a Palestinian flag.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-14T18:56:51.234440+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/lamine-yamal-divides-opinion-with-palestinian-flag-gesture?traffic_source=rss"
-  },
-  {
-    "id": "b6657a6a3a4f",
-    "source": "PressTV",
-    "date": "2026-05-14T18:56",
-    "headline": "Pezeshkian hails national unity as Iran rebuilds after 40-day aggression",
-    "excerpt": "Iranian President Masoud Pezeshkian has praised Iranians for showing unity and solidarity during the war and reconstruction period.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-14T18:56:53.570081+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/14/768627/Pezeshkian-praises-national-unity-as-Iran-rebuilds-after-40-day-US-Israeli-aggression"
   }
 ]
