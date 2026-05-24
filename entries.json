@@ -1,5 +1,27 @@
 [
   {
+    "id": "df36446a806f",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T19:30",
+    "headline": "How will Iran war fallout impact upcoming US elections?",
+    "excerpt": "Trump purges Republican critics, but are the prospects for his party in upcoming elections heading up or down?",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-24T20:10:06.146548+00:00",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss"
+  },
+  {
+    "id": "fe52335b3063",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T19:09",
+    "headline": "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
+    "excerpt": "Israel&#039;s attacks in southern Lebanon are expanding despite supposed ceasefire.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-24T20:10:06.146590+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss"
+  },
+  {
     "id": "ec795c23e332",
     "source": "Al Jazeera",
     "date": "2026-05-24T18:22",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-15T07:42:44.202658+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/5/15/how-david-ben-gurion-got-the-palestinians-wrong-in-1948?traffic_source=rss"
-  },
-  {
-    "id": "3fe01750a28c",
-    "source": "Al Jazeera",
-    "date": "2026-05-15T06:18",
-    "headline": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
-    "excerpt": "The US and Chinese leaders agreed during talks that the Strait of Hormuz should remain open to ensure global supplies.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-15T07:42:44.202692+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics?traffic_source=rss"
-  },
-  {
-    "id": "bebc0bef5aed",
-    "source": "Al Jazeera",
-    "date": "2026-05-15T05:50",
-    "headline": "Why India’s RSS is lobbying the West amid attacks on minorities at home",
-    "excerpt": "Hate speech against religious minorities in India rose last year. Experts say far-right RSS is doing &#039;damage control&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-15T07:42:44.202738+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/15/why-indias-rss-is-lobbying-the-west-amid-attacks-on-minorities-at-home?traffic_source=rss"
   }
 ]
