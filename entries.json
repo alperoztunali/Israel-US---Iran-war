@@ -1,5 +1,71 @@
 [
   {
+    "id": "0d0c8bdedb96",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T17:46",
+    "headline": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
+    "excerpt": "Analysts warn Netanyahu is exploiting a failing &quot;ceasefire&quot; to prolong the destruction of Gaza ahead of Israeli election",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-25T18:16:49.738297+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss"
+  },
+  {
+    "id": "94babff2aedb",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T17:39",
+    "headline": "Subdued Lebanon Liberation Day celebrations under new Israeli occupation",
+    "excerpt": "Twenty-six years after Israeli forces were driven out of southern Lebanon, fears of a new occupation have emerged.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-25T18:16:49.738340+00:00",
+    "link": "https://www.aljazeera.com/features/2026/5/25/subdued-lebanon-liberation-day-celebrations-under-new-israeli-occupation?traffic_source=rss"
+  },
+  {
+    "id": "872c9f82d5ed",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T17:31",
+    "headline": "Mexico steps in to host Iran’s World Cup team after US refusal",
+    "excerpt": "Mexico says it has agreed to host Iran’s World Cup team after the US declined to allow the squad to stay.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-25T18:16:49.738382+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/mexico-steps-in-to-host-irans-world-cup-team-after-us-refusal?traffic_source=rss"
+  },
+  {
+    "id": "e75abceb4ddc",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T17:05",
+    "headline": "Over 1.5 million pilgrims begin Hajj amid regional tensions",
+    "excerpt": "The spiritual and physical challenge is described by pilgrims as a transformative and deeply meaningful journey.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-25T18:16:49.738421+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/5/25/over-1-5-million-pilgrims-begin-hajj-amid-regional-tensions?traffic_source=rss"
+  },
+  {
+    "id": "50084cde5e73",
+    "source": "PressTV",
+    "date": "2026-05-25T18:16",
+    "headline": "US turning suspicion into death sentence by extrajudicial killings in Caribbean: Iran",
+    "excerpt": "The Iranian deputy foreign minister slams US military’s extrajudicial killing of suspected drug traffickers in the Caribbean and eastern Pacific.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-25T18:16:51.586209+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/25/769279/Iran-Gharibabadi-US-drug-traffickers-killing-human-rights"
+  },
+  {
+    "id": "8424d4012e33",
+    "source": "PressTV",
+    "date": "2026-05-25T18:16",
+    "headline": "Saudi Arabia seeking to produce replica of Iran’s Shahed drone: Report",
+    "excerpt": "A joint venture between a US startup and a Saudi firm is reportedly building a factory near Riyadh to produce combat drones modeled on Iran’s cutting-edge Shahed.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-25T18:16:51.586248+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/25/769283/Saudi-US-replica-Shahed-drone"
+  },
+  {
     "id": "26e9fa08ba19",
     "source": "Al Jazeera",
     "date": "2026-05-25T16:12",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-16T06:35:53.690433+00:00",
     "link": "https://presstv.ir/Detail/2026/05/16/768691/Iran-Ambassador-responds-German-Chancellor%E2%80%99s-claims--Era-of-unilateral-%E2%80%98musts%E2%80%99-over"
-  },
-  {
-    "id": "14e894651134",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T03:37",
-    "headline": "Israel launches deadly air strikes on Gaza City apartment building",
-    "excerpt": "At least seven Palestinians were killed when Israeli air strikes hit a residential building and a vehicle in Gaza City.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-16T04:04:09.120249+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss"
-  },
-  {
-    "id": "9c782a9cf11f",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T01:59",
-    "headline": "Gaza aid convoy in Libya prepares to head to Gaza",
-    "excerpt": "The &quot;Soumoud 2&quot; land convoy is preparing to leave Libya to bring aid to Gaza.",
-    "category": "Movement",
-    "location": "Gaza",
-    "addedAt": "2026-05-16T04:04:09.120290+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss"
-  },
-  {
-    "id": "2fd996afb59d",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T00:00",
-    "headline": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
-    "excerpt": "Lebanon&#039;s Ministry of Health said Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-05-16T04:04:09.120320+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss"
-  },
-  {
-    "id": "57e8fee3ea7e",
-    "source": "PressTV",
-    "date": "2026-05-16T04:04",
-    "headline": "US's war of choice on Iran imposed avoidable costs on Americans: FM",
-    "excerpt": "Foreign Minister Abbas Araghchi says the US's unprovoked aggression towards Iran has burdened ordinary Americans with avoidable economic costs.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-16T04:04:11.685914+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/16/768688/Iran-United-States-war-costs-taxpayers"
-  },
-  {
-    "id": "11d640183e7f",
-    "source": "PressTV",
-    "date": "2026-05-16T00:10",
-    "headline": "On Nakba anniv., Iran says support for Palestinians must go beyond sympathy",
-    "excerpt": "Iran’s UN envoy says support for the Palestinian cause must extend beyond simple expressions of solidarity.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-16T00:10:33.818429+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/16/768685/Iran-Palestine-Nakba-anniversary-United-Nations"
-  },
-  {
-    "id": "234e79da620a",
-    "source": "Arab News",
-    "date": "2026-04-25T08:04",
-    "headline": "Three killed in clashes in India’s troubled northeast",
-    "excerpt": "NEW DELHI: Gun battles between rival ethnic groups in India’s troubled northeastern Manipur state killed three men, police said, the latest unrest in the far-flung region.\n\tManipur has seen periodic clashes for nearly three years between the predominantly Hindu Meitei majority and the mainly Christi",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-16T00:10:37.243866+00:00",
-    "link": "https://www.arabnews.com/node/2641212/world"
   }
 ]
