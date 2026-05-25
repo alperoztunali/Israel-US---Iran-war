@@ -1,5 +1,38 @@
 [
   {
+    "id": "26e9fa08ba19",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T16:12",
+    "headline": "Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’",
+    "excerpt": "Moscow calls upcoming &#039;systematic strikes&#039; on Ukrainian capital a response to Kyiv&#039;s recent attack in Luhansk.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-25T16:33:42.094509+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/25/russia-warns-foreigners-to-leave-kyiv-as-it-prepares-systematic-strikes?traffic_source=rss"
+  },
+  {
+    "id": "df0968a42546",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T14:43",
+    "headline": "Trump links Iran negotiations to expansion of Abraham Accords",
+    "excerpt": "US President Donald Trump links Iran negotiations to expansion of Abraham Accords.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-25T16:33:42.094552+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-links-iran-negotiations-to-expansion-of-abraham-accords?traffic_source=rss"
+  },
+  {
+    "id": "425aa5d63d1d",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T14:33",
+    "headline": "Australian Gaza aid flotilla activists allege abuse after Israeli abduction",
+    "excerpt": "Activists allege assaults and torture during Israeli detention after flotilla intercepted in international waters.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-05-25T16:33:42.094580+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/25/australian-gaza-aid-flotilla-activists-allege-abuse-after-israeli-abduction?traffic_source=rss"
+  },
+  {
     "id": "df53ab6b796c",
     "source": "Al Jazeera",
     "date": "2026-05-25T13:29",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-16T00:10:37.243866+00:00",
     "link": "https://www.arabnews.com/node/2641212/world"
-  },
-  {
-    "id": "58bef7e60a3b",
-    "source": "Arab News",
-    "date": "2026-04-25T08:04",
-    "headline": "Despite Iran tensions, King Charles III will follow his mother’s lead in celebrating US-UK bonds",
-    "excerpt": "LONDON: The challenge for King Charles III as he embarks on this week’s state visit to the US is, as always, to live up to his mother’s example.\n\tThe late Queen Elizabeth II wowed Congress in 1991 with a speech that celebrated the shared democratic traditions of Britain and the United States, quoted",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-16T00:10:37.243929+00:00",
-    "link": "https://www.arabnews.com/node/2641209/world"
-  },
-  {
-    "id": "bd18b001dbb7",
-    "source": "Arab News",
-    "date": "2026-04-25T07:04",
-    "headline": "Australia refuses repatriation help for citizens in Syria camp",
-    "excerpt": "SYDNEY: Australia refused to help repatriate citizens related to suspected Daesh militants on Saturday, following a report that some Australian families are trying to return home from a camp in Syria.\n\tNational broadcaster ABC said four Australian women and nine of their children and grandchildren h",
-    "category": "Statement",
-    "location": "Syria",
-    "addedAt": "2026-05-16T00:10:37.243975+00:00",
-    "link": "https://www.arabnews.com/node/2641208/middle-east"
-  },
-  {
-    "id": "a8881a6081ef",
-    "source": "Arab News",
-    "date": "2026-04-25T07:04",
-    "headline": "Saudi Arabia’s events sector push on track despite disruptions, says industry veteran",
-    "excerpt": "RIYADH: Saudi Arabia’s push to position itself as a global events hub remains firmly on track despite geopolitical disruptions, according to one of the leading figures in the industry.\n\n\tThe US-Israel war with Iran has led to disruptions to many of the Kingdom’s flagship forums, with the Saudi Arabi",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-16T00:10:37.244015+00:00",
-    "link": "https://www.arabnews.com/node/2641206/business-economy"
   }
 ]
