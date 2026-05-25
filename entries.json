@@ -1,5 +1,82 @@
 [
   {
+    "id": "2049a1913d51",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T19:59",
+    "headline": "Trump dangles normalisation amid pro-Israel criticism of possible Iran deal",
+    "excerpt": "US president says he is &#039;mandatorily requesting&#039; that regional countries establish formal relations with Israel.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-25T20:10:24.033963+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/25/trump-dangles-normalisation-amid-pro-israel-criticism-of-possible-iran-deal?traffic_source=rss"
+  },
+  {
+    "id": "21ce619c161a",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T19:19",
+    "headline": "Kyiv’s Chornobyl Museum devastated in overnight Russian missile attack",
+    "excerpt": "Kyiv&#039;s Chornobyl Museum devastated in overnight Russian missile attack.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-25T20:10:24.034007+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/kyivs-chornobyl-museum-devastated-in-overnight-russian-missile-attack?traffic_source=rss"
+  },
+  {
+    "id": "356eca5980cf",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T19:12",
+    "headline": "Father mourns daughter killed in Israeli strike on Gaza",
+    "excerpt": "A six-year-old Palestinian girl was killed by an Israeli strike on a displacement camp in Khan Younis.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-25T20:10:24.034031+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "3637a61eb9ab",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T19:02",
+    "headline": "Lebanon marks Liberation Day under Israeli bombardment",
+    "excerpt": "People in Lebanon have gathered to observe Liberation Day.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-25T20:10:24.034049+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/lebanon-marks-liberation-day-under-israeli-bombardment?traffic_source=rss"
+  },
+  {
+    "id": "b54af5ce6bb6",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T18:56",
+    "headline": "In Lebanon, everything and nothing has changed since 2000",
+    "excerpt": "A local war has gone regional, drawing in Iran and the US, but its root cause is unchanged: Palestine.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-25T20:10:24.034076+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000?traffic_source=rss"
+  },
+  {
+    "id": "620274bb09b7",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T18:11",
+    "headline": "Mexico to host Iran team during 2026 FIFA World Cup amid US tensions",
+    "excerpt": "Mexican President Claudia Sheinbaum says United States did not want to host Iranian football team during tournament.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-25T20:10:24.034108+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss"
+  },
+  {
+    "id": "c691710d4c71",
+    "source": "PressTV",
+    "date": "2026-05-25T20:10",
+    "headline": "'There will be not retreat', says Iran’s top security official",
+    "excerpt": "The secretary of Iran's Supreme National Security Council has stated that the Islamic Republic “will not retreat” amid reports of potential agreement between Tehran and Washington.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-25T20:10:25.686579+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/25/769285/Iran-top-security-official-there-no-retreat"
+  },
+  {
     "id": "0d0c8bdedb96",
     "source": "Al Jazeera",
     "date": "2026-05-25T17:46",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-16T08:28:53.763417+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "a2c2dd46378a",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T06:16",
-    "headline": "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed",
-    "excerpt": "US and Nigerian forces carry out a joint operation against the commander, who was deemed a &#039;global terrorist&#039; in 2023.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-16T08:28:53.763445+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss"
-  },
-  {
-    "id": "180af8f77d3b",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T00:00",
-    "headline": "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended",
-    "excerpt": "Lebanon&#039;s Health Ministry says Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-05-16T08:28:53.763480+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss"
-  },
-  {
-    "id": "29e5ae442c41",
-    "source": "PressTV",
-    "date": "2026-05-16T08:28",
-    "headline": "Pezeshkian hails Pope’s ‘moral stance’ against US-Israeli war on Iran",
-    "excerpt": "Pezeshkian expresses gratitude for the Pope’s moral stance regarding recent aggressions against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-16T08:28:55.426624+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/16/768706/Pezeshkian-appreciates-Pope%E2%80%99s-moral-stance--urges-realistic-action-against-US--illegal-demands-"
-  },
-  {
-    "id": "34efdd5c60ac",
-    "source": "PressTV",
-    "date": "2026-05-16T08:28",
-    "headline": "Hezbollah will not hesitate to respond to Israeli breaches of ceasefire deal: Lebanese MP",
-    "excerpt": "A Lebanese lawmaker says the Hezbollah resistance movement will not hesitate to respond to all Israeli breaches of the ceasefire deal.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-16T08:28:55.426672+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/16/768702/Hezbollah-will-not-hesitate-respond-Israeli-breaches-ceasefire-deal-Lebanese-MP"
-  },
-  {
-    "id": "02e959cc078e",
-    "source": "PressTV",
-    "date": "2026-05-16T08:28",
-    "headline": "Nakba anniversary: Iran reaffirms Palestinian right to self-determination, urges end Gaza genocide",
-    "excerpt": "On the occasion of Nakba day anniversary, Iran reaffirms Palestinians’ right to self-determination, calls on international community to halt Israeli genocide in Gaza.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-16T08:28:55.426714+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/16/768699/On-Nakba-anniversary-Iran-reaffirms-Palestinians-right-to-self-determination-calls-for-an-end-to-Gaza-genocide"
-  },
-  {
-    "id": "d3734cbb6ff3",
-    "source": "PressTV",
-    "date": "2026-05-16T06:35",
-    "headline": "‘Decadent civilization’: Tehran blasts West for inability to solve crises of its own making",
-    "excerpt": "Iran’s Foreign Ministry spokesman says a civilization that is incapable of solving the problems it creates is a \"decadent civilization.\"",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-16T06:35:53.690388+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/16/768697/Iran-FM-spokesman-slams-West-as-decadent-civilization-unable-to-solve-crises-it-created"
-  },
-  {
-    "id": "67a132eeb8db",
-    "source": "PressTV",
-    "date": "2026-05-16T06:35",
-    "headline": "Era of unilateral ‘musts’ is over: Iran envoy tells Germany’s Merz",
-    "excerpt": "Iran’s Ambassador to Germany rejects forceful remarks by German Chancellor Friedrich Merz regarding Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-16T06:35:53.690433+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/16/768691/Iran-Ambassador-responds-German-Chancellor%E2%80%99s-claims--Era-of-unilateral-%E2%80%98musts%E2%80%99-over"
   }
 ]
