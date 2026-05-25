@@ -1,5 +1,71 @@
 [
   {
+    "id": "18122cb051db",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T03:40",
+    "headline": "Russia invites media to view deadly strike on college in Luhansk",
+    "excerpt": "Russia provided a rare look at damage caused by a Ukrainian strike on a college in occupied Luhansk",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-25T06:11:03.919635+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/russia-invites-media-to-view-deadly-strike-on-college-in-luhansk?traffic_source=rss"
+  },
+  {
+    "id": "23d22b5b62ba",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T01:55",
+    "headline": "Oil prices fall amid mixed signals on US-Iran peace deal",
+    "excerpt": "Japan&#039;s stock market surges to record high on hopes of an end to US-Israel war on Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-25T06:11:03.919678+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss"
+  },
+  {
+    "id": "275becd8d904",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T01:29",
+    "headline": "Syria holds legislative elections in former Kurdish-controlled areas",
+    "excerpt": "Al Jazeera’s Heidi Pett reports on the Syrian legislative elections in Hasakah and the town of Kobane.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-05-25T06:11:03.919720+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/syria-holds-legislative-elections-in-former-kurdish-controlled-areas?traffic_source=rss"
+  },
+  {
+    "id": "7215c1c0ccf0",
+    "source": "Al Jazeera",
+    "date": "2026-05-24T23:58",
+    "headline": "LIVE: Rubio says Trump ‘not going to make a bad deal’ with Iran",
+    "excerpt": "US president says any potential agreement with Tehran will be &#039;good and proper&#039; as mediation efforts continue.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-25T06:11:03.919756+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-iran-deal-not-fully-negotiated-yet?traffic_source=rss"
+  },
+  {
+    "id": "56143c0d1c41",
+    "source": "PressTV",
+    "date": "2026-05-25T06:11",
+    "headline": "Trump demands Arab states normalize with Israel in exchange for Iran ceasefire: Report",
+    "excerpt": "The US president is reportedly pressuring Saudi Arabia, the UAE, Qatar, Pakistan, Turkey, Egypt, Jordan and Bahrain to establish formal ties with Israel in exchange for Iran ceasefire deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-25T06:11:05.769465+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/25/769236/Iran-US-Arab-Trump-Israel-normalization"
+  },
+  {
+    "id": "183a0c1313e1",
+    "source": "PressTV",
+    "date": "2026-05-25T06:11",
+    "headline": "Armed leader of foreign-backed riots in January executed in Iran",
+    "excerpt": "Iran’s Judiciary announces that one of the armed leaders of the January 2026 coup attempt was executed in the central city of Nain on Monday morning.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-25T06:11:05.769508+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/25/769235/Armed-leader-foreign-backed-riots-January-executed-Iran"
+  },
+  {
     "id": "1419e5b75cf4",
     "source": "Al Jazeera",
     "date": "2026-05-24T23:58",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-15T14:39:31.630310+00:00",
     "link": "https://presstv.ir/Detail/2026/05/15/768659/Former-congressman-admits-US-defeat-in-war-against-Iran"
-  },
-  {
-    "id": "a8486d9083fe",
-    "source": "PressTV",
-    "date": "2026-05-15T14:39",
-    "headline": "Iran FM: Transfer of enriched uranium not on agenda, US cannot be trusted",
-    "excerpt": "The Iranian foreign minister says the issue of transferring Iran’s enriched uranium is not currently on the agenda of possible talks with the US.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-15T14:39:31.630350+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/15/768665/Iran-FM-Transfer-of-enriched-uranium-not-on-agenda-of-current-talks"
-  },
-  {
-    "id": "5e27ad993358",
-    "source": "Al Jazeera",
-    "date": "2026-05-15T10:57",
-    "headline": "Finland ends drone alert amid regional fears of Ukraine war spillover",
-    "excerpt": "Finnish defence authorities scramble fighter jets; defence chief warns of more alarms as Russian war persists.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-05-15T12:13:35.848547+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss"
-  },
-  {
-    "id": "9c3f6fb4b3d2",
-    "source": "Al Jazeera",
-    "date": "2026-05-15T10:52",
-    "headline": "This is the Palestinian Nakba, measured in land taken",
-    "excerpt": "On May 15, Palestinians mark 78 years since the Nakba. The count of land Israel has taken keeps growing today.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-15T12:13:35.848594+00:00",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/15/this-is-the-palestinian-nakba-measured-in-land-taken?traffic_source=rss"
-  },
-  {
-    "id": "a6c01feccdda",
-    "source": "Al Jazeera",
-    "date": "2026-05-15T10:14",
-    "headline": "India hikes fuel prices as Iran crisis bites",
-    "excerpt": "The world&#039;s third-largest oil importer announced increased fuel prices and austerity measures due to the energy crisis.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-15T12:13:35.848630+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss"
-  },
-  {
-    "id": "747de88864fd",
-    "source": "PressTV",
-    "date": "2026-05-15T12:13",
-    "headline": "Leader: Epic of 3rd sacred defense proof Shahnameh is Iran's reality",
-    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei has called on Iran’s cultural and artistic figures to rise like the epic poet Ferdowsi and immortalize the story of the nation's latest \"sacred defense\".",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-15T12:13:37.647060+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/15/768654/Leader---Epic-of-third-sacred-defense--proof-Shahnameh-is-Iran-s-reality"
-  },
-  {
-    "id": "260d0ee16bae",
-    "source": "PressTV",
-    "date": "2026-05-15T12:13",
-    "headline": "Imam Khamenei returned Ummah to Islam: Bahrain's Sheikh Qassim",
-    "excerpt": "Bahraini senior cleric Ayatollah Sheikh Isa Qassim praised late Leader of Islamic Revolution Ayatollah Seyyed Ali Khamenei as a “competent man who returned the Ummah to Islam.”",
-    "category": "Other",
-    "location": "Bahrain",
-    "addedAt": "2026-05-15T12:13:37.647111+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/15/768652/Imam-Khamenei-returned-Ummah-to-Islam-Sheikh-Qassim"
   }
 ]
