@@ -1,5 +1,49 @@
 [
   {
+    "id": "8e25bb30d16d",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T20:49",
+    "headline": "Israel to intensify Lebanon offensive in bid to ‘crush’ Hezbollah",
+    "excerpt": "PM Netanyahu said Israel will &#039;intensify&#039; strikes, while the Israeli military said it was attacking the armed group.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-05-25T21:35:23.670117+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss"
+  },
+  {
+    "id": "fc84902b8a6b",
+    "source": "Al Jazeera",
+    "date": "2026-05-25T20:24",
+    "headline": "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
+    "excerpt": "US President Donald Trump marked Memorial Day at Arlington National Cemetery, paying tribute to US troops killed.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-05-25T21:35:23.670154+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-pays-tribute-to-us-troops-killed-in-war-on-iran-on-memorial-day?traffic_source=rss"
+  },
+  {
+    "id": "48e7e54b8719",
+    "source": "PressTV",
+    "date": "2026-05-25T21:35",
+    "headline": "'There will be not retreat,' says Iran’s top security official",
+    "excerpt": "The secretary of Iran's Supreme National Security Council has stated that the Islamic Republic “will not retreat” amid reports of potential agreement between Tehran and Washington.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-25T21:35:25.425883+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/25/769285/Iran-top-security-official-there-no-retreat"
+  },
+  {
+    "id": "7cfa6f6d8608",
+    "source": "PressTV",
+    "date": "2026-05-25T21:35",
+    "headline": "US war criminals massacred 24 Iranian civilians in Lamerd sports hall",
+    "excerpt": "The United States carried out a barbaric missile strike on a civilian sports hall in the city of Lamerd in Fars Province during the 40-day war against Iran, martyring 24 innocent Iranians and injuring over 130 others.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-25T21:35:25.425917+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/25/769287/US-war-criminals-massacred-24-Iranian-civilians-in-Lamerd-sports-hall"
+  },
+  {
     "id": "2049a1913d51",
     "source": "Al Jazeera",
     "date": "2026-05-25T19:59",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-16T10:02:32.090920+00:00",
     "link": "https://presstv.ir/Detail/2026/05/16/768710/Yemeni-deputy-FM-Ansarullah-stands-shoulder-to-shoulder-with-Hezbollah-against-Israeli-atrocities-"
-  },
-  {
-    "id": "3019f6a5a8d9",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T08:02",
-    "headline": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
-    "excerpt": "Iran says Trump signalled openness to talks as deadlock remains over Tehran’s nuclear programme.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-05-16T08:28:53.763272+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss"
-  },
-  {
-    "id": "aa77e7fe00a1",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T07:31",
-    "headline": "Spain PM defends Eurovision boycott over Israel",
-    "excerpt": "Spanish PM Pedro Sanchez has defended Spain’s boycott of the Eurovision Song Contest over Israel’s participation.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-16T08:28:53.763344+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/spain-pm-defends-eurovision-boycott-over-israel?traffic_source=rss"
-  },
-  {
-    "id": "fd6cd3cb8aa0",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T07:13",
-    "headline": "Man killed in great white shark attack in western Australia",
-    "excerpt": "The 38-year-old was bitten at a popular diving and fishing spot near the city of Perth, police say.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-16T08:28:53.763378+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss"
-  },
-  {
-    "id": "e7e8f2578459",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T06:24",
-    "headline": "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know",
-    "excerpt": "The US Justice Department has arrested and charged an Iraqi national and senior commander of an Iran-backed armed group",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-16T08:28:53.763417+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss"
   }
 ]
