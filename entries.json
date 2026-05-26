@@ -1,5 +1,115 @@
 [
   {
+    "id": "cf6b9185fec7",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T13:26",
+    "headline": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
+    "excerpt": "Findings show Israel holds 1,000sq km of Gaza, Lebanon and Syria under direct military rule.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-26T14:19:14.161395+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss"
+  },
+  {
+    "id": "a07715ba3e12",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T12:58",
+    "headline": "Protester confronts Canadian politician over ‘Gaza complicity’",
+    "excerpt": "Protester confronts Canadian politician over ‘Gaza complicity’",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-26T14:19:14.161442+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/protester-confronts-canadian-politician-over-gaza?traffic_source=rss"
+  },
+  {
+    "id": "1be9c3b54ac3",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T12:34",
+    "headline": "Israeli air attacks kill seven Palestinians in Gaza",
+    "excerpt": "At least five Palestinians killed in Israeli attack on a refugee camp in central Gaza, officials said.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-26T14:19:14.161471+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "04608c2e879a",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T11:37",
+    "headline": "Libyan forces detain Gaza land convoy activists at Sirte checkpoint",
+    "excerpt": "Forces loyal to Libyan commander Khalifa Haftar have detained members of a land convoy trying to bring aid to Gaza.",
+    "category": "Movement",
+    "location": "Gaza",
+    "addedAt": "2026-05-26T14:19:14.161499+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/libyan-forces-detain-gaza-land-convoy-activists-at-sirte-checkpoint?traffic_source=rss"
+  },
+  {
+    "id": "cbc4836c6a73",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T11:35",
+    "headline": "Israeli attacks on eastern Lebanon village kill at least 11 people",
+    "excerpt": "Attacks hit the village of Mashghara in the Bekaa Valley late Monday as Israel intensified its assault across Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-26T14:19:14.161530+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/26/israeli-attacks-on-eastern-lebanon-village-kill-at-least-12-people?traffic_source=rss"
+  },
+  {
+    "id": "580ace717545",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T11:23",
+    "headline": "Can the US and India repair ties over trade and China?",
+    "excerpt": "Rubio&#039;s visit to India comes as Washington seeks closer ties with New Delhi amid trade tensions and energy politics.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-26T14:19:14.161570+00:00",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/26/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss"
+  },
+  {
+    "id": "6a394938eb88",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T10:34",
+    "headline": "Israel’s labour force transformed since October 7",
+    "excerpt": "Israel&#039;s labour force transformed since October 7",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-26T14:19:14.161602+00:00",
+    "link": "https://www.aljazeera.com/video/money-works/2026/5/26/israels-labour-force-transformed-since-october-7?traffic_source=rss"
+  },
+  {
+    "id": "2c600a29f811",
+    "source": "PressTV",
+    "date": "2026-05-26T14:19",
+    "headline": "Iran says latest ceasefire violations prove US ‘ill-will’, vows decisive response",
+    "excerpt": "Iran's Foreign Ministry has condemned in the strongest terms \"flagrant and unjustified\" ceasefire violations by the United States in the Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-26T14:19:16.617724+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/26/769316/Iran-says-latest-US-ceasefire-violations-again-show-ill-will-and-bad-faith-vows-decisive-response"
+  },
+  {
+    "id": "6e293964bb52",
+    "source": "PressTV",
+    "date": "2026-05-26T14:19",
+    "headline": "IRGC downs US drone over Persian Gulf, warns against truce violations",
+    "excerpt": "The IRGC shoots down an MQ-9 Reaper drone over the Persian Gulf, warning against ceasefire violations by the United States.",
+    "category": "Missile/Drone",
+    "location": "Persian Gulf",
+    "addedAt": "2026-05-26T14:19:16.617752+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/26/769308/IRGC-shoots-down-US-MQ-9-Reaper-drone-over-Persian-Gulf-warning-against-ceasefire-violations-"
+  },
+  {
+    "id": "5d534a5c8239",
+    "source": "PressTV",
+    "date": "2026-05-26T14:19",
+    "headline": "If attacked, Iran’s response will be ‘more severe’ than previous wars: Military spox",
+    "excerpt": "Shekarchi warns that Iran has renewed its target bank and is ready for war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-26T14:19:16.617786+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/26/769302/Iran%E2%80%98s-military-official--If-attacked,-our-strikes-more-intense,-heavier,-stronger"
+  },
+  {
     "id": "51b93737d47e",
     "source": "Al Jazeera",
     "date": "2026-05-26T07:39",
@@ -5388,115 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-16T21:56:45.466691+00:00",
     "link": "https://presstv.ir/Detail/2026/05/16/768748/Hezbollah-condemns-Hamas-commander-assassination-Israel"
-  },
-  {
-    "id": "7444dd1fc1a3",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T20:31",
-    "headline": "Thousands protest at Eurovision final as five countries boycott over Israel",
-    "excerpt": "Spain, Ireland, Iceland, Slovenia and Netherlands all withdrew in protest against Israel&#039;s participation amid Gaza war.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-16T20:56:19.698020+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss"
-  },
-  {
-    "id": "b57aa3ba5cdb",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T20:00",
-    "headline": "Can new Pakistan-Afghanistan tensions lead to another border clash?",
-    "excerpt": "Both sides target each other despite a pause in fighting mediated in March.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-16T20:56:19.698069+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss"
-  },
-  {
-    "id": "b935b92706a7",
-    "source": "PressTV",
-    "date": "2026-05-16T20:56",
-    "headline": "Iran’s parliament speaker: ‘Future belongs to Global South’",
-    "excerpt": "Qalibaf has stated that the heroic resistance of the Iranian nation over 70 days has become a driving force in accelerating a transformation unseen in a century.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-16T20:56:21.469774+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/16/768747/Iran%E2%80%99s-parliament-speaker--%E2%80%98The-future-belongs-to-the-Global-South%E2%80%99"
-  },
-  {
-    "id": "8cb7a6e2d1b6",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T18:46",
-    "headline": "Francesca Albanese on Israeli sexual violence suffered by Palestinians",
-    "excerpt": "Francesca Albanese speaks to Redi Tlhabi about sexual violence suffered by Palestinians at the hands of Israeli forces.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-16T19:49:36.626914+00:00",
-    "link": "https://www.aljazeera.com/video/upfront/2026/5/16/francesca-albanese-on-israeli-sexual-violence-suffered-by-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "b1420afdc65c",
-    "source": "PressTV",
-    "date": "2026-05-16T19:49",
-    "headline": "US respects human rights as long as Israel is not implicated: Iran’s deputy FM",
-    "excerpt": "Iran’s deputy FM reacts to a US court order blocking Washington’s sanctions against UN rights rapporteur on Palestine.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-16T19:49:38.888798+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/16/768746/Iran-Gharibabadi-US-human-rights-sanctions-Albanese"
-  },
-  {
-    "id": "64dbbdd2ca1d",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T16:59",
-    "headline": "Al Jazeera’s exclusive report from the Strait of Hormuz",
-    "excerpt": "Heavy ship traffic and rising regional tensions over one of the world’s most critical energy routes.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-16T18:41:00.376894+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "fc4b83a99930",
-    "source": "PressTV",
-    "date": "2026-05-16T18:41",
-    "headline": "Russia says US resolution on Strait of Hormuz 'not right'",
-    "excerpt": "Russia says the US resolution on the Strait of Hormuz is incorrect, echoing China's criticism of the draft measure.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-16T18:41:01.956498+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/16/768741/Russia-says-US-resolution-Strait-Hormuz-not-right"
-  },
-  {
-    "id": "38f66375bb52",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T16:02",
-    "headline": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
-    "excerpt": "Israel targeted Izz al-Din al-Haddad, the head of Hamas&#039;s armed wing in Gaza, in an attack that killed seven others.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-16T16:29:18.175555+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss"
-  },
-  {
-    "id": "df1d565bdcad",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T15:58",
-    "headline": "Abu-Bilal al-Minuki: ISIL’s shadow commander in West Africa",
-    "excerpt": "Nigeria and the US say &#039;key&#039; ISIL leader was killed in joint military operation in Borno state.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-16T16:29:18.175605+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/16/abu-bilal-al-minuki-isils-shadow-commander-in-west-africa?traffic_source=rss"
-  },
-  {
-    "id": "3f9ba08dc524",
-    "source": "Al Jazeera",
-    "date": "2026-05-16T15:33",
-    "headline": "Iran warns of readiness for war and economic costs as US talks falter",
-    "excerpt": "Iranian leaders and TV have ramped up pressure on the US with a stream of messaging to domestic and foreign audiences.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-16T16:29:18.175678+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss"
   }
 ]
