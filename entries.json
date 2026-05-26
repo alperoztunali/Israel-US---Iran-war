@@ -1,5 +1,82 @@
 [
   {
+    "id": "96b7c1c2efa0",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T21:02",
+    "headline": "Four people killed after minibus collides with train in Belgium",
+    "excerpt": "The minibus, carrying nine people, drove through closed crossing barriers during the morning rush hour.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-26T21:50:10.557651+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss"
+  },
+  {
+    "id": "5ea0461e270d",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T20:33",
+    "headline": "US picks potential partners for using Cold War-era plutonium as fuel",
+    "excerpt": "Trump gov&#039;t plans to make about 20 tonnes of plutonium from dismantled nuclear warheads available to US power firms.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-26T21:50:10.557705+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss"
+  },
+  {
+    "id": "ee947e5dd96e",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T20:33",
+    "headline": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
+    "excerpt": "State lawmakers reject a new map in South Carolina as judges strike down newly drawn US House districts one in Alabama.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-26T21:50:10.557746+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss"
+  },
+  {
+    "id": "260c208362c0",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T19:50",
+    "headline": "Did Trump oversell a broken Iran ceasefire deal?",
+    "excerpt": "The US and Iran appear closer to a broader agreement, but disputes over sanctions relief remain.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-26T21:50:10.557774+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss"
+  },
+  {
+    "id": "03be0c2370d3",
+    "source": "Al Jazeera",
+    "date": "2026-05-26T19:47",
+    "headline": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
+    "excerpt": "A Gaza City school taught children how to perform the entire Hajj, as Palestinians miss the pilgrimage for a third year.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-26T21:50:10.557846+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss"
+  },
+  {
+    "id": "00a06606e2d6",
+    "source": "PressTV",
+    "date": "2026-05-26T21:50",
+    "headline": "IRGC Navy: 25 ships transited Strait of Hormuz in past 24 hours under its protection",
+    "excerpt": "The IRGC Navy has once again demonstrated its authority over the Strait of Hormuz, successfully escorting 25 commercial vessels through the vital waterway in the past 24 hours.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-26T21:50:12.413397+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/26/769337/IRGC-Navy-says-25-ships-transit-Strait-of-Hormuz-under-its-protection"
+  },
+  {
+    "id": "330b0feefa9a",
+    "source": "PressTV",
+    "date": "2026-05-26T21:50",
+    "headline": "'Iran tax' to squeeze Americans for 'months, probably years' as fuel prices soar: Report",
+    "excerpt": "Economists are warning that America’s reckless war of aggression against Iran has imposed a punishing new “Iran tax” on ordinary American households, according to a report.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-26T21:50:12.413444+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/26/769338/-Iran-tax--to-squeeze-Americans-for--months,-probably-years--as-fuel-prices-soar--Report"
+  },
+  {
     "id": "19f1e713c8ed",
     "source": "Al Jazeera",
     "date": "2026-05-26T17:45",
@@ -5421,82 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-17T10:51:39.687660+00:00",
     "link": "https://presstv.ir/Detail/2026/05/16/768693/How-a-nurse-carried-three-newborns-through-the-ruins-of-war"
-  },
-  {
-    "id": "6562a9907e07",
-    "source": "PressTV",
-    "date": "2026-05-17T10:51",
-    "headline": "Bahraini scholars urge Islamic bodies to condemn anti-Shia crackdown",
-    "excerpt": "Bahraini scholars call on Islamic authorities and organizations worldwide to intervene amid the ruling regime’s crackdown on the country’s Shia community.",
-    "category": "Other",
-    "location": "Bahrain",
-    "addedAt": "2026-05-17T10:51:39.687700+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/17/768775/Bahrain-scholars-Islamic-bodies-crackdown-Shia"
-  },
-  {
-    "id": "5b78fbf31778",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T09:14",
-    "headline": "At least four killed in Ukrainian drone attacks on Russia",
-    "excerpt": "Russian authorities say three people killed in the Moscow region and one in Belgorod in Ukrainian attacks.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-17T09:20:01.222120+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss"
-  },
-  {
-    "id": "81f6774d8494",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T08:56",
-    "headline": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
-    "excerpt": "Al Jazeera’s Tohid Asadi reports from the strait and explains Tehran’s newest plan to manage shipping.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-05-17T09:20:01.222168+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss"
-  },
-  {
-    "id": "d7c7b9ac49d9",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T08:42",
-    "headline": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
-    "excerpt": "Spain, Netherlands, Ireland, Iceland and Slovenia stage biggest political boycott in Eurovision history over Gaza war.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-17T09:20:01.222207+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss"
-  },
-  {
-    "id": "72a5749c6ad8",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T08:40",
-    "headline": "Sardar Azmoun left out as Iran announce World Cup 2026 squad",
-    "excerpt": "Veteran striker Azmoun was not named in the 30-man squad, which will be trimmed to 26 by June 1.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-17T09:20:01.222238+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad?traffic_source=rss"
-  },
-  {
-    "id": "f229cf582be1",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T07:20",
-    "headline": "Could a leadership change undo Israel’s international isolation?",
-    "excerpt": "Opposition leaders hope to end Israel&#039;s isolation, even as they retain policies towards Palestinians that led to it.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-05-17T09:20:01.222272+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/17/could-a-leadership-change-undo-israels-international-isolation?traffic_source=rss"
-  },
-  {
-    "id": "49174ed9dd5a",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T07:19",
-    "headline": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
-    "excerpt": "Iran says it will soon reveal the plan as Trump warns Tehran it will have a &#039;very bad time&#039; if deal not reached soon.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-05-17T09:20:01.222296+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss"
   }
 ]
