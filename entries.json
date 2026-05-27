@@ -1,5 +1,16 @@
 [
   {
+    "id": "f27b0b99383c",
+    "source": "Al Jazeera",
+    "date": "2026-05-27T04:25",
+    "headline": "Israel ‘intensifies’ attacks in Lebanon killing at least 31 people",
+    "excerpt": "At least 31 people have been killed in Israeli attacks across southern Lebanon.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-27T05:57:44.512708+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-intensifies-attacks-in-lebanon-killing-at-least-31-people?traffic_source=rss"
+  },
+  {
     "id": "ad5a4d574326",
     "source": "Al Jazeera",
     "date": "2026-05-27T00:28",
@@ -5487,16 +5498,5 @@
     "location": "Egypt",
     "addedAt": "2026-05-17T10:51:38.353832+00:00",
     "link": "https://www.aljazeera.com/sports/2026/5/17/egyptian-teen-amina-orfi-beats-el-sherbini-to-win-psa-world-squash-title?traffic_source=rss"
-  },
-  {
-    "id": "0b7a2059b71a",
-    "source": "PressTV",
-    "date": "2026-05-17T10:51",
-    "headline": "Leader’s advisor slams Trump’s threats against Iran, warns US falling into Israel’s ‘trap’",
-    "excerpt": "Velayati warns that Washington is falling into a “strategic trap” dug out by Israel and would lose what remains of its credibility in West Asia if it wages another war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-17T10:51:39.687536+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/17/768782/Leader-s-aide-blasts-Trump-s-threats-says-US-falling-into-Israel-s-trap"
   }
 ]
