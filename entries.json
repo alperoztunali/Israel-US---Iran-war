@@ -1,5 +1,104 @@
 [
   {
+    "id": "72e7de6965b6",
+    "source": "Al Jazeera",
+    "date": "2026-05-27T09:47",
+    "headline": "Sanctions fears as Krygyzstan shutters companies suspected of aiding Russia",
+    "excerpt": "Crackdown on 50 firms is rooted in Bishkek&#039;s own worries of being sanctioned, say analysts.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-05-27T10:13:51.463162+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/27/kyrgyzstan-russia-tensions?traffic_source=rss"
+  },
+  {
+    "id": "78adb05d8dbf",
+    "source": "Al Jazeera",
+    "date": "2026-05-27T08:51",
+    "headline": "Israel claims head of Hamas military wing killed in Gaza strike",
+    "excerpt": "There was no immediate response from the Palestinian group after Israel claimed Mohammed Odeh killed.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-27T10:13:51.463200+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/27/israel-claims-head-of-hamas-military-wing-killed-in-gaza-strike?traffic_source=rss"
+  },
+  {
+    "id": "644c8bd2e3bc",
+    "source": "Al Jazeera",
+    "date": "2026-05-27T08:41",
+    "headline": "Israeli air attack kills at least two in southern Lebanon",
+    "excerpt": "Israeli forces intensify attacks, issue forced displacement orders for more towns and villages day after killing dozens.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-27T10:13:51.463229+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/27/israeli-air-attack-kills-at-least-two-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "246e16ca11e5",
+    "source": "Al Jazeera",
+    "date": "2026-05-27T08:06",
+    "headline": "Pope appeals for Gaza aid after being asked about flotilla activists",
+    "excerpt": "Pope appeals for Gaza aid after being asked about flotilla activists",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-27T10:13:51.463286+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/pope-appeals-for-gaza-aid-after-being-asked-about-flotilla-activists?traffic_source=rss"
+  },
+  {
+    "id": "cef19719247f",
+    "source": "Al Jazeera",
+    "date": "2026-05-27T06:52",
+    "headline": "How badly is Europe affected by fertiliser shortages due to the Iran war?",
+    "excerpt": "EU launches fertiliser plan as Strait of Hormuz disruption fuels food security fears.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-27T10:13:51.463327+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "4b919ef1b607",
+    "source": "Al Jazeera",
+    "date": "2026-05-27T06:48",
+    "headline": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
+    "excerpt": "Israeli strikes kill 31 in Lebanon as attacks intensify and displacement orders spread.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-27T10:13:51.463358+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise?traffic_source=rss"
+  },
+  {
+    "id": "0daef2308fb5",
+    "source": "Al Jazeera",
+    "date": "2026-05-27T06:03",
+    "headline": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war",
+    "excerpt": "Iranian officials said the latest US strikes only validated their scepticism and resolve to stand firm on demands.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-27T10:13:51.463393+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war?traffic_source=rss"
+  },
+  {
+    "id": "dbed507ba5d8",
+    "source": "Al Jazeera",
+    "date": "2026-05-27T05:53",
+    "headline": "‘No livestock but still hope’: Palestinians prepare for Eid al-Adha in Gaza",
+    "excerpt": "Gaza Palestinians will mark a third Eid under war-like conditions, with a shortage of food and joy.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-27T10:13:51.463438+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/27/no-livestock-but-still-hope-palestinians-prepare-for-eid-al-adha-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "75c6edd9d06c",
+    "source": "PressTV",
+    "date": "2026-05-27T10:13",
+    "headline": "Enemies will take wish of fatiguing Iranian nation to grave: Senior cleric",
+    "excerpt": "Tehran’s Interim Friday Prayer Leader says the enemies of the Iranian nation hope to see the people fatigued but will take that wish to their graves.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-27T10:13:53.991353+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/27/769359/Senior-cleric--Enemies-take-wish-fatiguing-Iranian-nation-grave"
+  },
+  {
     "id": "f27b0b99383c",
     "source": "Al Jazeera",
     "date": "2026-05-27T04:25",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-17T13:58:44.815738+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss"
-  },
-  {
-    "id": "60716f3486b2",
-    "source": "PressTV",
-    "date": "2026-05-17T13:58",
-    "headline": "US-Israeli claim of protecting energy markets ‘a grand lie’ to justify ‘war of choice’: Iran",
-    "excerpt": "Iran slams the US-Israel use of a new grand lie to justify their illegal war of choice with a claim that they are attempting to preserve peace and stability in global energy markets.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-17T13:58:46.492952+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/17/768792/Iran-Us-Israel-Baghaei-energy-markets-"
-  },
-  {
-    "id": "0e10478117ff",
-    "source": "PressTV",
-    "date": "2026-05-17T13:58",
-    "headline": "Iran to sue US, Israel for attacks on its cultural heritage: Deputy FM",
-    "excerpt": "Iran’s Gharibabadi says US and Israeli attacks on Iran’s cultural heritage were an assault on shared human memory.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-17T13:58:46.493000+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/17/768799/Iran-legal-action-US-Israel-attacks-cultural-heritage-Gharibabadi"
-  },
-  {
-    "id": "21b6ad276755",
-    "source": "PressTV",
-    "date": "2026-05-17T13:58",
-    "headline": "Qalibaf: Assassination of al-Qassam top commander during truce proves Israel’s treachery",
-    "excerpt": "Iranian Parliament Speaker says the assassination of the Al-Qassam Brigades' top commander by the Israeli regime during the ceasefire period serves as a testament to the enemy’s breach of commitment.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-17T13:58:46.493036+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/17/768797/Iran-parliament-speaker-condemns-Al-Qassam-Brigades-commander-Gaza-Israel-treachery"
-  },
-  {
-    "id": "f16e86ac3a3d",
-    "source": "PressTV",
-    "date": "2026-05-17T12:01",
-    "headline": "Qalibaf appointed as Iran’s special representative for China’s affairs",
-    "excerpt": "Qalibaf has been appointed as the country’s special representative for China’s affairs.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-17T12:01:46.154298+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/17/768786/Qalibaf-appointed-as-Iran-s-special-representative-for-China-s-affairs-"
-  },
-  {
-    "id": "1271138dc018",
-    "source": "PressTV",
-    "date": "2026-05-17T12:01",
-    "headline": "ICC issues ‘secret’ arrest warrants for five Israeli officials: Report",
-    "excerpt": "The International Criminal Court issues five \"secret\" arrest warrants for Israeli officials, report says.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-17T12:01:46.154352+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/17/768788/icc-issues-5-secret-arrest-warrants-against-Israeli-officials-report"
-  },
-  {
-    "id": "c20fbbb8a03d",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T10:29",
-    "headline": "Republican Senator Cassidy loses Louisiana primary after opposing Trump",
-    "excerpt": "Bill Cassidy is among seven Republican senators who voted to convict Trump after the January 6, 2021, Capitol attack.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-17T10:51:38.353731+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss"
-  },
-  {
-    "id": "8d53ffc2b3de",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T10:17",
-    "headline": "Javier Bardem says condemning the Gaza genocide has led to more work",
-    "excerpt": "Javier Bardem says condemning the Gaza genocide has led to more work",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-17T10:51:38.353774+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/javier-bardem-says-condemning-the-gaza-genocide-has-led-to-more-work?traffic_source=rss"
-  },
-  {
-    "id": "f534b3d0f08d",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T10:13",
-    "headline": "The strike that changed the geometry of war",
-    "excerpt": "Israel&#039;s attacks on Doha and Tehran demonstrate a new capability that may make warfare more unpredictable.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-17T10:51:38.353806+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss"
-  },
-  {
-    "id": "dcd03ba1543b",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T09:44",
-    "headline": "Egyptian teen Amina Orfi beats El-Sherbini to win PSA world squash title",
-    "excerpt": "Orfi, 18, beats compatriot Nour El-Sherbini in a five-game thriller to win the PSA World Championship title in Giza.",
-    "category": "Naval",
-    "location": "Egypt",
-    "addedAt": "2026-05-17T10:51:38.353832+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/17/egyptian-teen-amina-orfi-beats-el-sherbini-to-win-psa-world-squash-title?traffic_source=rss"
   }
 ]
