@@ -1,5 +1,49 @@
 [
   {
+    "id": "1341c830c29b",
+    "source": "Al Jazeera",
+    "date": "2026-05-27T18:19",
+    "headline": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
+    "excerpt": "US president says Iran can&#039;t &#039;out-wait&#039; him, suggesting that Washington is not satisfied with Tehran&#039;s offers for deal.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-27T19:36:55.642909+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss"
+  },
+  {
+    "id": "ee1f57f6073a",
+    "source": "Al Jazeera",
+    "date": "2026-05-27T17:14",
+    "headline": "Eid celebrations in Gaza overshadowed by Israeli attacks",
+    "excerpt": "Palestinians across Gaza marked Eid al-Adha prayers amongst rubble and destruction as Israeli attacks continued.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-27T19:36:55.642955+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/eid-celebrations-in-gaza-overshadowed-by-israeli-attacks?traffic_source=rss"
+  },
+  {
+    "id": "6d9ac89315cf",
+    "source": "PressTV",
+    "date": "2026-05-27T19:36",
+    "headline": "IRGC Aerospace Force warns renewed aggression will trigger unforeseen retaliation",
+    "excerpt": "If Iran’s enemies launch another military action against the Islamic Republic, the response will be unlike anything they have seen before, says a senior military official.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-27T19:36:57.402730+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/27/769391/Any-new-aggression-will-face-different-Iran-unprecedented-combat-power-IRGC-Aerospace-Force-warns"
+  },
+  {
+    "id": "723d660f445b",
+    "source": "PressTV",
+    "date": "2026-05-27T19:36",
+    "headline": "Iran and Russia should set up new global security order, says Iranian official",
+    "excerpt": "The deputy secretary of Iran's SNSC puts a premium on the need for Tehran and Moscow to formulate a new global security order.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-27T19:36:57.402771+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/27/769389/SNSC-deputy-Iran-Russia-should-form-new-global-security-order-"
+  },
+  {
     "id": "eff5d87d11ed",
     "source": "Al Jazeera",
     "date": "2026-05-27T14:48",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-17T23:13:01.735309+00:00",
     "link": "https://presstv.ir/Detail/2026/05/17/768826/IRGC-Quds-Force-chief-says-assassination-of-Qassam-commander-proves-resistance-is-alive"
-  },
-  {
-    "id": "d44582abf371",
-    "source": "PressTV",
-    "date": "2026-05-17T23:13",
-    "headline": "Iraq draws a red line: No territory for aggression against Iran or neighbors",
-    "excerpt": "Iraq has firmly declared it will never allow its land to be exploited as a launching pad for attacks against neighboring countries, particularly the Islamic Republic of Iran.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-17T23:13:01.735344+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/17/768825/Iraq-draws-a-red-line--No-territory-for-aggression-against-Iran-or-neighbors"
-  },
-  {
-    "id": "82a3aa5eea8e",
-    "source": "PressTV",
-    "date": "2026-05-17T22:03",
-    "headline": "Hegseth's indifference to civilian lives enabled systematic war crimes in Iran: Pentagon report",
-    "excerpt": "A damning internal Pentagon inspector general report has laid bare the Trump administration’s criminal indifference to civilian lives in its illegal war of aggression against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-17T22:03:30.998860+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/17/768822/Pentagon-report-admits-reckless-US-war-crimes-in-aggression-against-Iran"
-  },
-  {
-    "id": "b97ebd03ccf4",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T20:16",
-    "headline": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
-    "excerpt": "The US president has pressured Iran to concede to demands including dismantling nuclear programme and missile stocks.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-17T21:00:15.478100+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss"
-  },
-  {
-    "id": "88289851d847",
-    "source": "Al Jazeera",
-    "date": "2026-05-17T20:16",
-    "headline": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
-    "excerpt": "At least five people have been killed in Israeli air attacks on several locations in southern and eastern Lebanon.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-17T21:00:15.478141+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss"
   }
 ]
