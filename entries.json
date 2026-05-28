@@ -1,5 +1,82 @@
 [
   {
+    "id": "55550b6607cb",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T16:25",
+    "headline": "Fire kills 16 students at Kenyan girls’ boarding school",
+    "excerpt": "At least 16 students were killed and dozens injured after a fire tore through the dormitory of a girls’ school in Kenya.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-28T16:43:22.651414+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/fire-kills-16-students-at-kenyan-girls-boarding-school?traffic_source=rss"
+  },
+  {
+    "id": "89c885320db2",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T15:44",
+    "headline": "US Treasury threatens Oman with sanctions over Hormuz Strait",
+    "excerpt": "US official says Oman should know that Washington &#039;will aggressively target&#039; actors that facilitate tolls in waterway.",
+    "category": "Diplomatic",
+    "location": "Oman",
+    "addedAt": "2026-05-28T16:43:22.651474+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait?traffic_source=rss"
+  },
+  {
+    "id": "1febe0875626",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T15:02",
+    "headline": "Yemen’s former leader Abd-Rabbu Mansour Hadi dies in exile at 80",
+    "excerpt": "Hadi was the internationally recognised president of Yemen who led a fractured government mostly from exile.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-05-28T16:43:22.651516+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/28/abedrabbo-mansour-hadi-yemens-former-leader-passes-away-in-exile-at-80?traffic_source=rss"
+  },
+  {
+    "id": "8ac07a1a73bc",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T14:53",
+    "headline": "Poisonous invasion: What is the ‘devil’s trumpet’ harming crops in Iraq?",
+    "excerpt": "The spread of datura is forcing the Iraqi Interior Ministry to urge farmers and citizens to report if spotted.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-05-28T16:43:22.651553+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/28/poisonous-invasion-what-is-the-devils-trumpet-harming-crops-in-iraq?traffic_source=rss"
+  },
+  {
+    "id": "279b72f78d41",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T14:45",
+    "headline": "US attacks Bandar Abbas again: Why is the port so important for Iran?",
+    "excerpt": "Bandar Abbas, which the US has targeted multiple times, occupies a strategically sensitive position in Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-28T16:43:22.651583+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran?traffic_source=rss"
+  },
+  {
+    "id": "b372e58b5561",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T12:54",
+    "headline": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+    "excerpt": "The US president has issued a stark warning to a US ally, in a sign of rising tensions over Strait of Hormuz.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-05-28T16:43:22.651604+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss"
+  },
+  {
+    "id": "88ed409ff89e",
+    "source": "PressTV",
+    "date": "2026-05-28T16:43",
+    "headline": "'Feast of vampires is over': Iran says no more shields for US bases",
+    "excerpt": "Iran’s SNSC deputy Ali Bagheri declared the “feast of vampires” over, asserted the region will no longer shield US bases, and called for a new security equation in West Asia following a 40-day war with the US and Israel.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-05-28T16:43:24.350002+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/28/769424/-Feast-of-vampires-is-over---Iran-says-no-more-shields-for-US-bases"
+  },
+  {
     "id": "ef5cfe7d559b",
     "source": "Al Jazeera",
     "date": "2026-05-28T11:43",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-18T20:04:24.403832+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/irans-world-cup-team-arrives-in-turkiye-amid-us-visa-uncertainty?traffic_source=rss"
-  },
-  {
-    "id": "c0fd0cb2fab1",
-    "source": "PressTV",
-    "date": "2026-05-18T20:04",
-    "headline": "US renews Russia oil sanctions waiver amid continued Iranian control over Hormuz",
-    "excerpt": "The US Treasury extends for another month its waivers on Russian oil floating on tankers.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-18T20:04:26.052095+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/18/768877/US-sanctions-waiver-Russian-renewal-Iran-Hormuz-control"
-  },
-  {
-    "id": "f96adae4b719",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T16:27",
-    "headline": "What we know about Israel’s interception of Gaza aid flotilla",
-    "excerpt": "Israeli forces have intercepted multiple vessels from the Gaza-bound Global Sumud Flotilla in international waters.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-05-18T18:13:26.126505+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/what-we-know-about-israels-interception-of-gaza-aid-flotilla?traffic_source=rss"
-  },
-  {
-    "id": "2d9d46556617",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T16:09",
-    "headline": "Pakistan’s mediation faces limits as Iran-US tensions deepen",
-    "excerpt": "Tehran and Washington exchange proposals via Pakistan as military escalation increasingly shadows diplomatic efforts.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-18T18:13:26.126543+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/18/pakistans-mediation-faces-limits-as-iran-us-tensions-deepen?traffic_source=rss"
-  },
-  {
-    "id": "2777448e5efb",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T15:36",
-    "headline": "Could the Iran war trigger the next debt shock?",
-    "excerpt": "Government bonds are under pressure and households could soon feel the impact.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-18T16:13:03.181542+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/18/could-the-iran-war-trigger-the-next-debt-shock?traffic_source=rss"
-  },
-  {
-    "id": "ec569251a08e",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T15:31",
-    "headline": "Former US negotiator with Iran: Trump falling into Vietnam trap",
-    "excerpt": "Rob Malley argues that current talks have ‘very small chance of success’.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-18T16:13:03.181589+00:00",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/18/former-us-negotiator-with-iran-trump-falling-into-vietnam-trap?traffic_source=rss"
-  },
-  {
-    "id": "0923b3b3806f",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T15:02",
-    "headline": "Renewed Israeli attacks kill 7 in Lebanon as death toll exceeds 3,000",
-    "excerpt": "Attacks come days after Lebanese and Israeli officials agreed to extend a ceasefire by 45 days.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-18T16:13:03.181620+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/18/israeli-attacks-kill-at-least-7-in-lebanon-despite-ceasefire-extension?traffic_source=rss"
-  },
-  {
-    "id": "b0dbb681f039",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T14:09",
-    "headline": "What is the UAE’s Barakah nuclear plant, nearly hit by a drone?",
-    "excerpt": "The nuclear facility in Abu Dhabi has the capacity to meet one-quarter of the UAE&#039;s electricity needs.",
-    "category": "Missile/Drone",
-    "location": "Abu Dhabi",
-    "addedAt": "2026-05-18T16:13:03.181648+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/18/what-is-the-uaes-barakah-nuclear-plant-nearly-hit-by-a-drone?traffic_source=rss"
   }
 ]
