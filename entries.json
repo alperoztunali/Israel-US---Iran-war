@@ -1,5 +1,38 @@
 [
   {
+    "id": "116e71e71819",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T00:03",
+    "headline": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
+    "excerpt": "Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-28T00:15:17.506696+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss"
+  },
+  {
+    "id": "6c2bf1dfe377",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T00:00",
+    "headline": "Iran war live: Israel orders mass forced displacement for all south Lebanon",
+    "excerpt": "The Lebanese Health Ministry reports that Israeli attacks have killed 3,269 people since March 2.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-05-28T00:15:17.506734+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "073af690b8f4",
+    "source": "PressTV",
+    "date": "2026-05-28T00:15",
+    "headline": "Iran not to be pushed back from its red lines by Trump's rhetoric: Senior lawmaker",
+    "excerpt": "Senior lawmaker asserts that Trump's on-again, off-again recourse to menacing rhetoric will not force Iran to retreat from its red lines.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-28T00:15:18.894328+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/27/769396/Iran-Trump-red-lines-uranium-Hormuz"
+  },
+  {
     "id": "650f7ff364db",
     "source": "Al Jazeera",
     "date": "2026-05-27T21:14",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-18T08:48:23.907581+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/al-jazeera-reports-from-hormuz-island-as-iran-says-it-controls-the-strait?traffic_source=rss"
-  },
-  {
-    "id": "7d42d8fd919b",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T08:23",
-    "headline": "Israeli forces intercept Gaza-bound aid flotilla",
-    "excerpt": "More than 50 vessels departed from the Turkish port city of Marmaris last week.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-05-18T08:48:23.907617+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss"
-  },
-  {
-    "id": "d7e923582fd1",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T07:51",
-    "headline": "Mali drone strikes kill at least 10 civilians at wedding",
-    "excerpt": "Mali&#039;s military carries out strikes after attacks last month by al-Qaeda-linked fighters and Tuareg separatists.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-05-18T08:48:23.907646+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/18/mali-drone-strikes-kill-at-least-10-civilians-at-wedding?traffic_source=rss"
-  },
-  {
-    "id": "6e59d001c071",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T07:24",
-    "headline": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
-    "excerpt": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended &#039;ceasefire&#039;.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-18T08:48:23.907675+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss"
   }
 ]
