@@ -1,5 +1,49 @@
 [
   {
+    "id": "3ecc14bf0668",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T20:31",
+    "headline": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+    "excerpt": "European Union says sanctioned individuals and groups have violated the rights of Palestinians.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-28T21:33:05.867128+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "91cb91693604",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T20:00",
+    "headline": "Three wounded in Swiss train station stabbing labelled ‘act of terror’",
+    "excerpt": "Swiss authorities arrest suspect who had come to authorities&#039; attention in 2015 for distributing ISIL propaganda.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-28T21:33:05.867183+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/28/three-wounded-in-swiss-train-station-stabbing-labelled-act-of-terror?traffic_source=rss"
+  },
+  {
+    "id": "d3588864cd4e",
+    "source": "PressTV",
+    "date": "2026-05-28T21:33",
+    "headline": "Hezbollah's hell of deadly drones drives Israeli desperation to bomb Beirut",
+    "excerpt": "Hezbollah has inflicted heavy losses on Israeli forces with a devastating campaign of fiber-optic FPV drone strikes, prompting Israel to desperately expand its military aggression to Beirut for the second time since a ceasefire went into effect early April.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-28T21:33:07.521539+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/28/769438/Israeli-hits-Beirut-Hezbollah-retaliates-rocket"
+  },
+  {
+    "id": "ee3492dab0f9",
+    "source": "PressTV",
+    "date": "2026-05-28T21:33",
+    "headline": "IRIB condemns killing of al-Alam journalist by Israel in southern Lebanon",
+    "excerpt": "The IRIB and its World Service has strongly denounced killing of an  al-Alam TV channel reporter by Israel in southern Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-28T21:33:07.521585+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/28/769437/Iran-IRIB-Hesam-Zidan-Israel-Lebanon"
+  },
+  {
     "id": "ba8c1a71581f",
     "source": "Al Jazeera",
     "date": "2026-05-28T19:03",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-18T22:41:07.380337+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador?traffic_source=rss"
-  },
-  {
-    "id": "a47a66ecceed",
-    "source": "PressTV",
-    "date": "2026-05-18T22:41",
-    "headline": "Rezaei: Iranian nation and armed forces will force US surrender",
-    "excerpt": "Mohsen Rezaei fhas stated that the iron fist of Iran’s powerful armed forces and the resolute Iranian nation will compel the United States to retreat and surrender.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-18T22:41:09.322907+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/18/768883/Rezaei--Iranian-nation-and-armed-forces-will-force-US-retreat-and-surrender"
-  },
-  {
-    "id": "d113fa99c0cd",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T21:02",
-    "headline": "Will Cuba be forced to accept the US president’s demands?",
-    "excerpt": "Cuba struggles to keep the lights on, as Washington ramps up economic pressure and military threats.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-18T21:38:56.408205+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/18/will-cuba-be-forced-to-accept-the-us-presidents-demands?traffic_source=rss"
-  },
-  {
-    "id": "7136d257b520",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T20:28",
-    "headline": "Massie race breaks spending record as pro-Israel groups target Trump critic",
-    "excerpt": "Pro-Israel groups and donors spend heavily in Kentucky&#039;s Republican primary to defeat US Congressman Thomas Massie.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-18T21:38:56.408253+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/18/massie-race-breaks-spending-record-as-pro-israel-groups-target-trump-critic?traffic_source=rss"
-  },
-  {
-    "id": "cf9694ddcb49",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T20:12",
-    "headline": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
-    "excerpt": "Gulf states push Donald Trump to avoid any escalation in the US-Israel war on Iran, which prompted regional attacks.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-18T21:38:56.408293+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss"
   }
 ]
