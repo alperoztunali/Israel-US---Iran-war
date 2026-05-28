@@ -1,5 +1,93 @@
 [
   {
+    "id": "20d03df6e7b5",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T07:46",
+    "headline": "Australia charges alleged ISIL-linked woman after return from Syria",
+    "excerpt": "Case follows repatriation of women and children held for years in Syrian camps without trial.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-05-28T08:46:56.112803+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/28/australia-charges-alleged-isil-linked-woman-after-return-from-syria?traffic_source=rss"
+  },
+  {
+    "id": "361402df1d89",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T07:32",
+    "headline": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
+    "excerpt": "IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-05-28T08:46:56.112834+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss"
+  },
+  {
+    "id": "a011ae96d2ea",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T07:20",
+    "headline": "What’s happening on Iran war day 90 as US launches new strikes",
+    "excerpt": "The US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-05-28T08:46:56.112858+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss"
+  },
+  {
+    "id": "49c6ef56cf32",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T04:56",
+    "headline": "Ghana welcomes home citizens evacuated from South Africa",
+    "excerpt": "The first flight carrying around 300 Ghanaians evacuated from South Africa following anti-immigrant tensions.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-28T08:46:56.112887+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/ghana-welcomes-home-citizens-evacuated-from-south-africa?traffic_source=rss"
+  },
+  {
+    "id": "5dd5084ec7ef",
+    "source": "PressTV",
+    "date": "2026-05-28T08:46",
+    "headline": "‘Stern warning’: IRGC announces retaliatory attack on US base following American aggression",
+    "excerpt": "The IRGC warns the enemies that it will give decisive response to any act of aggression against the Islamic Republic.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-28T08:46:58.386428+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/28/769399/Iran-US-IRGC-aggression"
+  },
+  {
+    "id": "635f0088834a",
+    "source": "PressTV",
+    "date": "2026-05-28T08:46",
+    "headline": "Iran inflicted ‘historic defeat’ on enemies in imposed wars: Acting defense minister",
+    "excerpt": "Iran’s acting defense minister says the country’s armed forces managed to inflict a \"historic defeat\" on the US and the Israeli regime in their two imposed wars.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-05-28T08:46:58.386464+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/28/769405/Iran-historic-defaet-enemies"
+  },
+  {
+    "id": "f56ef1267a1d",
+    "source": "PressTV",
+    "date": "2026-05-28T08:46",
+    "headline": "US slaps sanctions on Iran’s Strait of Hormuz authority after military failures",
+    "excerpt": "Washington has been unable to break Tehran’s control over the Strait of Hormuz, despite a heavy air campaign, a naval blockade, special forces operations, and a failed “humanitarian” escort mission.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-05-28T08:46:58.386485+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/28/769406/US-sanctions-Iran-Strait-of-Hormuz-war-PGSA-Trump-Oman"
+  },
+  {
+    "id": "15d144e35d22",
+    "source": "PressTV",
+    "date": "2026-05-28T08:46",
+    "headline": "Resistance factions honor assassinated Qassam commander Odeh, vow increased resolve",
+    "excerpt": "Resistance factions have mourned the assassination of the commander of the Qassam Brigades in an Israeli airstrike against a neighborhood in the Gaza Strip.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-05-28T08:46:58.386506+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/28/769403/Resistance-factions-mourn-assassination-of-Qassam-Brigades-commander-in-Israel-strike"
+  },
+  {
     "id": "c5c46f631a00",
     "source": "Al Jazeera",
     "date": "2026-05-28T00:00",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-18T12:38:15.670911+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/18/us-military-carries-out-more-strikes-against-isil-fighters-in-nigeria?traffic_source=rss"
-  },
-  {
-    "id": "53b1b77fb6fa",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T09:09",
-    "headline": "Israeli settlers run over livestock in occupied West Bank",
-    "excerpt": "Israeli settlers drove into a herd of livestock belonging to a Palestinian shepherd in the occupied West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-18T12:38:15.670941+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "44fe8ccf8b0c",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T08:57",
-    "headline": "Israel built two military bases in Iraq before war on Iran: New York Times",
-    "excerpt": "Israeli forces had been preparing the makeshift sites in western Iraq since late 2024, the US newspaper reported.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-18T12:38:15.670977+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss"
-  },
-  {
-    "id": "eeb226b8259b",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T08:35",
-    "headline": "Netanyahu says Israel controls 60 percent of Gaza",
-    "excerpt": "Netanyahu says Israel controls 60 percent of Gaza",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-18T12:38:15.671003+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/netanyahu-says-israel-controls-60-percent-of-gaza?traffic_source=rss"
-  },
-  {
-    "id": "771210f7d39d",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T08:23",
-    "headline": "Israeli forces storm Gaza-bound aid flotilla off Cyprus",
-    "excerpt": "Organisers of the flotilla say the vessels are boarded in international waters as Turkiye condemns &#039;piracy&#039;.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-05-18T12:38:15.671027+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss"
-  },
-  {
-    "id": "381dc2c4a2b5",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T07:24",
-    "headline": "Iran war day 80: Trump issues warning; Tehran ‘ready’ to confront attacks",
-    "excerpt": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended &#039;ceasefire&#039;.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-18T12:38:15.671059+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss"
-  },
-  {
-    "id": "1a0fbdea6e12",
-    "source": "PressTV",
-    "date": "2026-05-18T12:38",
-    "headline": "'We will never bow': Pezeshkian vows to fight on amid Trump's escalating war rhetoric",
-    "excerpt": "Iranian President Masoud Pezeshkian says Iran would never bow to coercion or sacrifice national pride for temporary comfort.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-18T12:38:17.501823+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/18/768848/Pezeshkian--Enemy-s-agenda-creat-division-between-Iranian-people,-officials"
-  },
-  {
-    "id": "4e043d09fe88",
-    "source": "PressTV",
-    "date": "2026-05-18T12:38",
-    "headline": "Iran, Oman crafting new transit mechanism for Hormuz Strait: Foreign Ministry",
-    "excerpt": "Iran says continuous consultations are underway with Oman to develop a new mechanism for transit through the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-18T12:38:17.501860+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/18/768846/Iran-Oman-Baghaei-Hormuz-Strait-mechanism"
-  },
-  {
-    "id": "11ed68fb518a",
-    "source": "PressTV",
-    "date": "2026-05-18T12:38",
-    "headline": "Health official: 16 nurses martyred in two US-Israeli wars of aggression on Iran",
-    "excerpt": "A senior Iranian health official says at least 16 nurses have been martyred during the two US-Israeli wars of aggression against the Islamic Republic.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-05-18T12:38:17.501880+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/18/768852/Health-official-16-nurses-martyred-during-two-US-Israeli-wars-of-aggression-against-Iran-"
   }
 ]
