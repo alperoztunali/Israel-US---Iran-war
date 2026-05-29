@@ -1,5 +1,27 @@
 [
   {
+    "id": "42dc1ac2ef97",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T03:52",
+    "headline": "Blue Origin’s New Glenn rocket explodes on launchpad in Florida",
+    "excerpt": "The incident is the latest setback for Jeff Bezos’s space venture as it seeks to narrow the gap with Elon Musk’s SpaceX.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-29T05:54:07.900999+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/29/blue-origins-new-glenn-rocket-explodes-on-launch-pad?traffic_source=rss"
+  },
+  {
+    "id": "136b4fb23155",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T03:18",
+    "headline": "Lebanon Latest: Mass evacuations as Israel expands attacks",
+    "excerpt": "Al Jazeera’s Obaida Hitto brings you the latest from southern Lebanon amidst increasing Israeli attacks.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-29T05:54:07.901051+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/lebanon-latest-mass-evacuations-as-israel-expands-attacks?traffic_source=rss"
+  },
+  {
     "id": "3cb0b87ab4ec",
     "source": "Al Jazeera",
     "date": "2026-05-29T00:12",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-19T11:28:17.896129+00:00",
     "link": "https://presstv.ir/Detail/2026/05/19/768905/Russia-Putin-nuclear-drills-Ukraine-US-Oreshnik-Belarus-China-Sarmat-START-"
-  },
-  {
-    "id": "3f28b2c9d45f",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T07:26",
-    "headline": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
-    "excerpt": "US president says he held off a scheduled attack on Iran after pressure from Gulf allies as renewed talks gain momentum.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-19T07:56:56.657524+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss"
-  },
-  {
-    "id": "7d4ccae77273",
-    "source": "PressTV",
-    "date": "2026-05-19T07:56",
-    "headline": "US 'contradictory, excessive stances' serious obstacle to diplomacy: Iran FM",
-    "excerpt": "Araghchi describes the United States \"contradictory and excessive stances\" as a serious obstacle in the way of fruition of diplomatic processes.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-19T07:56:58.985890+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/19/768890/Iran-United-States-Pakistan-war"
   }
 ]
