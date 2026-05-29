@@ -1,5 +1,115 @@
 [
   {
+    "id": "e0a9faceb2cb",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T16:31",
+    "headline": "Vance says US, Iran have made “a lot of progress” towards deal",
+    "excerpt": "US Vice President JD Vance says Washington and Tehran have made “a lot of progress” towards ceasefire",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-29T17:02:56.121040+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/vance-says-us-iran-have-made-a-lot-of-progress-towards-deal?traffic_source=rss"
+  },
+  {
+    "id": "07a226ba5a9c",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T15:59",
+    "headline": "Five killed in Lebanon as Israeli forces advance across key Litani River",
+    "excerpt": "Attacks come ahead of security talks between Lebanese and Israeli military delegations at the Pentagon.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-29T17:02:56.121078+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/29/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river?traffic_source=rss"
+  },
+  {
+    "id": "233cbfd04503",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T15:50",
+    "headline": "Israel strikes building in Gaza’s Shati refugee camp",
+    "excerpt": "Israel strikes building in Gaza’s Shati refugee camp.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-29T17:02:56.121116+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israel-strikes-building-in-gazas-shati-refugee-camp?traffic_source=rss"
+  },
+  {
+    "id": "a2e6836b14ff",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T15:40",
+    "headline": "Eid and sacrifice in Gaza",
+    "excerpt": "Eid al-Adha in Gaza this year marked the third Eid in a row without animal sacrifice or Hajj.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-29T17:02:56.121146+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/eid-and-sacrifice-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "6f9dee45c6cc",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T15:01",
+    "headline": "Just what are Israel’s long-term plans for Gaza?",
+    "excerpt": "Despite an apparent ceasefire, Israel&#039;s leaders continue to hint at annexation and ethnic cleansing.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-29T17:02:56.121179+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/29/just-what-are-israels-long-term-plans-for?traffic_source=rss"
+  },
+  {
+    "id": "662e870f5a58",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T14:01",
+    "headline": "Sudan medical group says RSF-affiliated fighters kill 27 civilians",
+    "excerpt": "The attacks come as nearly 19.5 million Sudanese face severe hunger amid the country’s deepening humanitarian crisis.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-05-29T17:02:56.121214+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/29/sudan-medical-group-says-rsf-affiliated-fighters-kill-27-civilians?traffic_source=rss"
+  },
+  {
+    "id": "76d332731959",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T13:55",
+    "headline": "Following Syria’s broken tracks from Baniyas to Aleppo",
+    "excerpt": "From Baniyas to Aleppo, a 24-hour freight train journey reveals Syria’s shattered rail network and resilient workers.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-05-29T17:02:56.121251+00:00",
+    "link": "https://www.aljazeera.com/features/longform/2026/5/29/following-syrias-broken-tracks-from-baniyas-to-aleppo?traffic_source=rss"
+  },
+  {
+    "id": "6a9e733c3e31",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T13:39",
+    "headline": "Israeli plan to extend control in Gaza provokes German concern",
+    "excerpt": "Comments mark a shift in Berlin’s stance towards one of its key allies, of which it has long been a strong supporter.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-29T17:02:56.121295+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/29/israeli-plan-to-extend-control-in-gaza-provokes-german-concern?traffic_source=rss"
+  },
+  {
+    "id": "b4afe4dc6edd",
+    "source": "PressTV",
+    "date": "2026-05-29T17:02",
+    "headline": "Chief negotiator: Iranian missiles win concessions, talks just make US understand",
+    "excerpt": "Iran's top negotiator in talks with the US says Tehran gains concessions not through negotiations, but through missiles.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-05-29T17:02:58.076458+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/29/769473/Iran-US-talks-Qalibaf"
+  },
+  {
+    "id": "07526680b3c4",
+    "source": "PressTV",
+    "date": "2026-05-29T17:02",
+    "headline": "Iran, Oman FMs discuss administration of Hormuz Strait in ‘very productive’ call",
+    "excerpt": "The Iranian and Omani foreign ministers discuss the future administration of the Strait of Hormuz based on sovereign responsibilities and international law.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-29T17:02:58.076507+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/29/769480/Iran-Oman-Araghchi-Busaidi-"
+  },
+  {
     "id": "ab65ff71b2b1",
     "source": "Al Jazeera",
     "date": "2026-05-29T13:06",
@@ -5388,115 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-19T17:18:02.445448+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/19/death-sentence-handed-to-man-for-killing-tiktok-star-sana-yousaf?traffic_source=rss"
-  },
-  {
-    "id": "fa94decc8373",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T15:42",
-    "headline": "Security guards face probe after last week’s Philippine Senate shooting",
-    "excerpt": "Authorities say the shooting was not an &#039;attack on the Senate&#039; and identified the person who fired the first shot.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-19T17:18:02.445502+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/19/security-guards-face-probe-after-last-weeks-philippine-senate-shooting?traffic_source=rss"
-  },
-  {
-    "id": "b0490a84e126",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T15:41",
-    "headline": "Qatar says US-Iran negotiations need ‘more time’",
-    "excerpt": "Qatar’s foreign ministry says more time is needed for US-Iran negotiations.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-19T17:18:02.445538+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/qatar-says-us-iran-negotiations-need-more?traffic_source=rss"
-  },
-  {
-    "id": "bd833c8fe8ab",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T15:36",
-    "headline": "At least one killed, 21 wounded in car bomb explosion in Syria’s Damascus",
-    "excerpt": "Blast occurs near Defence Ministry building in Bab Sharqi district of the capital.",
-    "category": "Airstrike",
-    "location": "Syria",
-    "addedAt": "2026-05-19T17:18:02.445563+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/19/at-least-one-killed-21-wounded-in-car-bomb-explosion-in-syrias-damascus?traffic_source=rss"
-  },
-  {
-    "id": "522e604372e5",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T14:22",
-    "headline": "Flight to Argentina: How significant is it for Israel’s LatAm outreach?",
-    "excerpt": "Experts say Israel is using the new flight as a geopolitical tool to cement its footprint in Latin America.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-19T17:18:02.445605+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/19/flight-to-argentina-how-significant-is-it-for-israels-latam-outreach?traffic_source=rss"
-  },
-  {
-    "id": "000d968d48b1",
-    "source": "PressTV",
-    "date": "2026-05-19T17:18",
-    "headline": "‘Either we win or become martyrs’: Iran will never surrender, says deputy FM",
-    "excerpt": "Iran’s deputy foreign minister for legal and international affairs has rejected any notion of surrender to the United States.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-19T17:18:04.188268+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/19/768916/Either-we-win-or-become-martyrs-no-surrender-Iran-deputy-FM-says"
-  },
-  {
-    "id": "f61c97f0a8af",
-    "source": "PressTV",
-    "date": "2026-05-19T17:18",
-    "headline": "Irish president condemns abduction of sister from Gaza aid flotilla by Israel",
-    "excerpt": "The Irish president has condemned her sisters’ abduction from Gaza-bound Sumud Flotilla by Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-19T17:18:04.188331+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/19/768912/Irish-president-condemns-abduction-of-sister-from-Gaza-aid-flotilla-by-Israel"
-  },
-  {
-    "id": "8eaf38cb96bf",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T13:40",
-    "headline": "US extends sanctions waiver on Russian oil: Why it matters",
-    "excerpt": "The US has extended its waiver on sanctioned Russian oil until June 17.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-05-19T14:12:25.272566+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/19/us-extends-sanctions-waiver-on-russian-oil-why-it-matters?traffic_source=rss"
-  },
-  {
-    "id": "36a865962076",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T13:01",
-    "headline": "Who was Amin Abdullah, the ‘hero’ guard killed in San Diego shooting?",
-    "excerpt": "Tributes have poured in for the guard, who was among the three people killed in the shooting at the San Diego mosque.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-19T14:12:25.272617+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/19/who-was-amin-abdullah-the-hero-guard-killed-in-san-diego-shooting?traffic_source=rss"
-  },
-  {
-    "id": "ff42989819ce",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T12:57",
-    "headline": "Suspected car bomb explodes in Syrian capital Damascus",
-    "excerpt": "Plumes of smoke from a suspected car bomb explosion outside an armament management centre in Damascus.",
-    "category": "Airstrike",
-    "location": "Syria",
-    "addedAt": "2026-05-19T14:12:25.272643+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/suspected-car-bomb-explodes-in-syrian-capital-damascus?traffic_source=rss"
-  },
-  {
-    "id": "6cdec782adb1",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T12:26",
-    "headline": "Israeli far-right minister Smotrich says ICC seeks his arrest",
-    "excerpt": "Smotrich is the third Israeli official targeted by the ICC, after Netanyahu and Gallant, for war crimes in Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-19T14:12:25.272675+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest?traffic_source=rss"
   }
 ]
