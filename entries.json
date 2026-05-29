@@ -1,5 +1,27 @@
 [
   {
+    "id": "b4faa6474f18",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T21:49",
+    "headline": "UN: “100% of Gaza” should be for Palestinians",
+    "excerpt": "United Nations spokesperson Stephane Dujarric said “100% of Gaza” should belong to Palestinians.",
+    "category": "Statement",
+    "location": "Gaza",
+    "addedAt": "2026-05-29T22:54:07.416435+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/un-100-of-gaza-should-be-for-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "8cca2a5d79fd",
+    "source": "PressTV",
+    "date": "2026-05-29T22:54",
+    "headline": "Iran's Strait of Hormuz authority says sanctions won't help US gain waterway's control",
+    "excerpt": "The Iranian authority controlling the Strait of Hormuz condemns the United States' sanctions targeting the body.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-29T22:54:08.978230+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/29/769496/Iran-United-States-Strait-of-Hormuz-sanctions"
+  },
+  {
     "id": "b2e2e3dacb3a",
     "source": "Al Jazeera",
     "date": "2026-05-29T21:10",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-19T22:39:15.554927+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss"
-  },
-  {
-    "id": "775540d2440b",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T20:39",
-    "headline": "Trump showcases new ‘drone-protected’ White House ballroom",
-    "excerpt": "US President Donald Trump has given reporters a tour around the construction site of his White House ballroom.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-19T21:05:01.599595+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trump-showcases-new-drone-protected-white-house-ballroom?traffic_source=rss"
-  },
-  {
-    "id": "ae5ea6df166f",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T20:18",
-    "headline": "More than 15,800 people killed in Russia’s all-out war on Ukraine: UN",
-    "excerpt": "Nearly 800 children are among those killed in Ukraine since Russia&#039;s full-scale invasion in February 2022, the UN says.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-19T21:05:01.599650+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un?traffic_source=rss"
   }
 ]
