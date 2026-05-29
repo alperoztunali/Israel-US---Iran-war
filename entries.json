@@ -1,5 +1,93 @@
 [
   {
+    "id": "3b373731e56a",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T08:13",
+    "headline": "Gaza parents brave dental dilemma: Costly treatment or food on the table?",
+    "excerpt": "Many Palestinians in Gaza are forgoing expensive dental treatment, at a detriment to their health.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-05-29T10:03:40.298563+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/5/29/gaza-parents-brave-dental-dilemma-costly-treatment-or-food-on-the-table?traffic_source=rss"
+  },
+  {
+    "id": "99cd18a48978",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T07:50",
+    "headline": "NATO states slam Russia after drone crashes in Romania",
+    "excerpt": "The incident adds to concern that Moscow&#039;s war on Ukraine risks spilling over to entangle neighbouring NATO states.",
+    "category": "Missile/Drone",
+    "location": "Oman",
+    "addedAt": "2026-05-29T10:03:40.298604+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss"
+  },
+  {
+    "id": "e5ea9fe5ccdb",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T07:39",
+    "headline": "Israel football dispute to ‘heat up’ after protest in Ireland-Qatar match",
+    "excerpt": "Ireland&#039;s football match against Qatar was stalled by pro-Palestinian protests over upcoming games against Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-29T10:03:40.298646+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/29/israel-football-dispute-to-heat-up-further-from-ireland-qatar-protests?traffic_source=rss"
+  },
+  {
+    "id": "5e3d7e282992",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T07:15",
+    "headline": "Blue Origin rocket explodes on launch pad during test",
+    "excerpt": "A rocket belonging to Jeff Bezos’ Blue Origin exploded during a test at the Florida launch pad Thursday night.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-29T10:03:40.298677+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/blue-origin-rocket-explodes-on-launch-pad-during-test?traffic_source=rss"
+  },
+  {
+    "id": "5fe6b18b7241",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T07:04",
+    "headline": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
+    "excerpt": "US and Iran near a 60-day MoU aimed at reopening the Hormuz strait with talks slated on nuclear and other differences.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-29T10:03:40.298717+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal?traffic_source=rss"
+  },
+  {
+    "id": "275cabf605f0",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T06:39",
+    "headline": "State of trauma: Israel wrestles with mental aftershocks of war",
+    "excerpt": "Studies and officials report rising PTSD, suicide and social strain in Israel amid sustained conflicts since 2023",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-29T10:03:40.298766+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/29/state-of-trauma-israel-wrestles-with-mental-aftershocks-of-war?traffic_source=rss"
+  },
+  {
+    "id": "308aede546b7",
+    "source": "PressTV",
+    "date": "2026-05-29T10:03",
+    "headline": "Dell deal renews focus on Trump profiteering from war on Iran",
+    "excerpt": "A $9.7 billion Pentagon contract awarded to Dell Technologies has reignited scrutiny over President Donald Trump's pattern of using public office to enrich himself.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-29T10:03:41.993924+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/29/769446/Dell-signs-97-billion-dollar-Pentagon-contract-following-Trump-stock-purchase"
+  },
+  {
+    "id": "4f3e0e95e3ef",
+    "source": "PressTV",
+    "date": "2026-05-29T10:03",
+    "headline": "IRIB chief, World Service head condole martyrdom of al-Alam journalist in South Lebanon",
+    "excerpt": "The IRIB and its World Service officials have strongly denounced the killing of a former al-Alam TV channel reporter by Israel in southern Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-29T10:03:41.993980+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/28/769437/Iran-IRIB-Hesam-Zidan-Israel-Lebanon"
+  },
+  {
     "id": "42dc1ac2ef97",
     "source": "Al Jazeera",
     "date": "2026-05-29T03:52",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-19T11:28:16.479549+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/19/san-diego-mosque-shooting-what-we-know-about-the-victims-and-the-attackers?traffic_source=rss"
-  },
-  {
-    "id": "de9b1dc4b6fb",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T07:58",
-    "headline": "Gunmen abduct 39 students, 7 teachers in attacks on Nigeria schools",
-    "excerpt": "The attacks targeted a secondary school and two primary schools, as gunmen kidnapped children aged between two and 16.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-19T11:28:16.479594+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/19/gunmen-abduct-39-students-7-teachers-in-attacks-on-nigeria-schools?traffic_source=rss"
-  },
-  {
-    "id": "1547f6288fb1",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T07:38",
-    "headline": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
-    "excerpt": "Damascus and Beirut focus on sovereignty and cooperation, moving away from decades of Syrian dominance over Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-19T11:28:16.479628+00:00",
-    "link": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss"
-  },
-  {
-    "id": "bcb518b6ce0b",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T07:37",
-    "headline": "Los Angeles World Cup stadium workers threaten strike over ICE deployment",
-    "excerpt": "Workers represented by a local union say ICE presence would create a climate of fear during the FIFA World Cup 2026.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-19T11:28:16.479674+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/19/los-angeles-world-cup-stadium-workers-threaten-strike-over-ice-deployment?traffic_source=rss"
-  },
-  {
-    "id": "2e1e3e98b0a6",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T07:36",
-    "headline": "Palestine weekly wrap: Jerusalem Day, Nakba mark week of surging attacks",
-    "excerpt": "Far-right marchers in the Old City chant &quot;death to Arabs&quot; while Israel kills Hamas military chief in Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-19T11:28:16.479705+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/19/palestine-weekly-wrap-jerusalem-day-nakba-surging-attacks?traffic_source=rss"
-  },
-  {
-    "id": "629364027093",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T07:28",
-    "headline": "Russian strike damages Ukraine Danube port as Moscow intercepts drones",
-    "excerpt": "Russia also plans military exercises as Putin prepares for Beijing visit.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-19T11:28:16.479731+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/19/russian-strike-damages-ukraine-danube-port-as-moscow-intercepts-drones?traffic_source=rss"
-  },
-  {
-    "id": "db72065cb1fd",
-    "source": "PressTV",
-    "date": "2026-05-19T11:28",
-    "headline": "Strait of Hormuz Iran’s ‘permanent asset’, will be defended with ‘full strength’: Lawmaker",
-    "excerpt": "A senior Iranian lawmaker describes the Strait of Hormuz as the Islamic Republic's permanent asset that would remain under the control and management of the Iranian nation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-19T11:28:17.896055+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/19/768898/Iran-Strait-of-Hormuz-full-control-United-States-israel-war"
-  },
-  {
-    "id": "f618337ec7ae",
-    "source": "PressTV",
-    "date": "2026-05-19T11:28",
-    "headline": "New fronts will be opened if enemy commits ‘another folly’: Iran Army",
-    "excerpt": "“The Islamic Republic of Iran cannot be blockaded or defeated,” General Akraminia says.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-19T11:28:17.896098+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/19/768906/New-fronts-will-be-opened-you-commit-another-folly-iran-Army-spokesman-warns-enemy"
-  },
-  {
-    "id": "87611a52131f",
-    "source": "PressTV",
-    "date": "2026-05-19T11:28",
-    "headline": "Russia begins 3-day nuclear exercise as Putin due in China for official visit",
-    "excerpt": "Russia has launched large-scale nuclear weapons exercises involving tens of thousands of troops as Putin is due in China for a two-day visit.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-05-19T11:28:17.896129+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/19/768905/Russia-Putin-nuclear-drills-Ukraine-US-Oreshnik-Belarus-China-Sarmat-START-"
   }
 ]
