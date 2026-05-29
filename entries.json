@@ -1,5 +1,82 @@
 [
   {
+    "id": "3cb0b87ab4ec",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T00:12",
+    "headline": "US to designate two Brazilian gangs as ‘terrorist’ organisations",
+    "excerpt": "Trump administration has used crime and drug trafficking to push for greater US military influence across Latin America.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-29T01:27:59.802468+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations?traffic_source=rss"
+  },
+  {
+    "id": "00f7e540521f",
+    "source": "Al Jazeera",
+    "date": "2026-05-29T00:00",
+    "headline": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
+    "excerpt": "Lebanese PM Nawaf Salam says &#039;nothing can justify&#039; Israel&#039;s military onslaught against &#039;peaceful people&#039; in Lebanon.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-05-29T01:27:59.802514+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss"
+  },
+  {
+    "id": "5ae2aa1905f4",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T23:48",
+    "headline": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
+    "excerpt": "Israeli Prime Minister Benjamin Netanyahu says he has ordered the military to take control of 70 percent of Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-29T01:27:59.802545+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss"
+  },
+  {
+    "id": "3009ecef99f1",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T23:18",
+    "headline": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
+    "excerpt": "Iran&#039;s football team still lacks US visas and is not competing on &#039;equal terms&#039;, Tehran&#039;s envoy to Mexico says.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-29T01:27:59.802579+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss"
+  },
+  {
+    "id": "45ca8ff8b9a9",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T23:10",
+    "headline": "Tense protests erupt outside Delaney Hall immigrant detention centre in US",
+    "excerpt": "A hunger strike at the New Jersey facility has raised questions about conditions in US immigration detention centres.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-29T01:27:59.802616+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/5/28/tense-protests-erupt-outside-delaney-hall-immigrant-detention-centre-in-us?traffic_source=rss"
+  },
+  {
+    "id": "4701f2c209f9",
+    "source": "Al Jazeera",
+    "date": "2026-05-28T22:42",
+    "headline": "Ireland and Qatar halted twice by protests against upcoming Israel fixtures",
+    "excerpt": "Republic of Ireland are set to face Israel twice in UEFA Nations League matches, but are facing calls for a boycott.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-29T01:27:59.802648+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss"
+  },
+  {
+    "id": "bf9dde02102c",
+    "source": "PressTV",
+    "date": "2026-05-29T01:28",
+    "headline": "Iran shoots down trespassing US drone near Bushehr: Report",
+    "excerpt": "Iranian forces have shot down an American drone violating the Islamic Republic's airspace near the southern city of Bushehr, a report says.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-05-29T01:28:01.296315+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/28/769442/Iran-shoots-down-United-States-drone"
+  },
+  {
     "id": "3c750cc3f496",
     "source": "Al Jazeera",
     "date": "2026-05-28T21:42",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-19T07:56:58.985890+00:00",
     "link": "https://presstv.ir/Detail/2026/05/19/768890/Iran-United-States-Pakistan-war"
-  },
-  {
-    "id": "a64e505d40ac",
-    "source": "PressTV",
-    "date": "2026-05-19T07:56",
-    "headline": "Ten countries condemn Israel’s attack on Gaza-bound humanitarian flotilla",
-    "excerpt": "“These attacks, including assaults on vessels and the arbitrary detention of activists, constitute a clear violation of international law and international humanitarian law,” the countries said.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-05-19T07:56:58.985936+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/19/768891/10-countries-condemn-Israel-attack-on-Gaza-bound-humanitarian-flotilla"
-  },
-  {
-    "id": "a15aff62a995",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T03:27",
-    "headline": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
-    "excerpt": "Foad Izadi says US President Trump&#039;s repeated threats of renewed full-scale war are a sign of weakness.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-19T04:04:49.887078+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss"
-  },
-  {
-    "id": "b3eca7f6cdc8",
-    "source": "Al Jazeera",
-    "date": "2026-05-19T00:00",
-    "headline": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
-    "excerpt": "Al Jazeera&#039;s correspondent in Tehran says Iran&#039;s leaders are &#039;projecting defiance&#039; and rejecting &#039;pressure&#039; from the US.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-19T04:04:49.887126+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss"
-  },
-  {
-    "id": "24adb84ea80c",
-    "source": "PressTV",
-    "date": "2026-05-19T04:04",
-    "headline": "Iran slams German chancellor’s baseless accusations as blatant hypocrisy",
-    "excerpt": "Iran has strongly rejected “baseless and selective accusations” leveled by German Chancellor Friedrich Merz against the Islamic Republic regarding a mysterious failed explosion incident near a nuclear power plant in the UAE.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-19T04:04:51.360113+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/18/768884/Iran-slams-German-chancellor%E2%80%99s-baseless-accusations-as-blatant-hypocrisy"
-  },
-  {
-    "id": "e909392c14f0",
-    "source": "PressTV",
-    "date": "2026-05-19T04:04",
-    "headline": "Senior commander: Iran will cut off hand of any aggressor",
-    "excerpt": "The commander of Iran's highest operational command unit has said that any new act of aggression by the US or its allies will be met with overwhelming force.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-19T04:04:51.360152+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/19/768886/Senior-commander--Iran-will-cut-off-hand-of-any-aggressor"
-  },
-  {
-    "id": "9881c5b70067",
-    "source": "PressTV",
-    "date": "2026-05-18T23:48",
-    "headline": "Leader's advisor: Iranian nation and armed forces will force US surrender",
-    "excerpt": "Mohsen Rezaei fhas stated that the iron fist of Iran’s powerful armed forces and the resolute Iranian nation will compel the United States to retreat and surrender.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-18T23:48:12.677566+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/18/768883/Rezaei--Iranian-nation-and-armed-forces-will-force-US-retreat-and-surrender"
-  },
-  {
-    "id": "e8266c3559a8",
-    "source": "Al Jazeera",
-    "date": "2026-05-18T21:13",
-    "headline": "Protest in Greece after Israeli forces storm Gaza aid flotilla",
-    "excerpt": "Demonstrators gathered outside Greece’s foreign ministry in Athens.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-18T22:41:07.380223+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss"
   }
 ]
