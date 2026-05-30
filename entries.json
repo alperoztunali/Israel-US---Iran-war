@@ -1,5 +1,49 @@
 [
   {
+    "id": "5c7b401e8e3d",
+    "source": "Al Jazeera",
+    "date": "2026-05-30T13:50",
+    "headline": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
+    "excerpt": "Israel’s military has advanced beyond Lebanon&#039;s Litani River for the first time since 2006.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-30T14:14:53.116249+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss"
+  },
+  {
+    "id": "0d4731b7b258",
+    "source": "Al Jazeera",
+    "date": "2026-05-30T12:49",
+    "headline": "The Iran war is dividing Muslims in the Philippines",
+    "excerpt": "Divisive foreign political narratives are being wrongly cast as religious discourse within our Muslim communities.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-30T14:14:53.116293+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss"
+  },
+  {
+    "id": "3cc0b1df598d",
+    "source": "Al Jazeera",
+    "date": "2026-05-30T12:49",
+    "headline": "Cuba Calls Guantanamo Talks with U.S. General ‘Positive’",
+    "excerpt": "Senior U.S. and Cuban military officials held a rare face-to-face meeting near Guantanamo Bay.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-05-30T14:14:53.116337+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/cuba-calls-guantanamo-talks-with-u-s-general-positive?traffic_source=rss"
+  },
+  {
+    "id": "d32710991dac",
+    "source": "PressTV",
+    "date": "2026-05-30T14:14",
+    "headline": "Iran Parliament to vote on Hormuz Strait management plan 'soon'",
+    "excerpt": "An Iranian lawmaker says the Parliament will soon approve legislation formalizing the Islamic Republic’s management and sovereignty over the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-30T14:14:54.748408+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/30/769530/Iran-parliament-Hormuz-management"
+  },
+  {
     "id": "a7d5d37b8aa3",
     "source": "Al Jazeera",
     "date": "2026-05-30T12:04",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-20T16:56:11.349369+00:00",
     "link": "https://presstv.ir/Detail/2026/05/20/768982/Iran-parliament-speaker-says-enemy-seeks-new-round-of-war-warns-of-Trump-two-options"
-  },
-  {
-    "id": "e25c39ea8195",
-    "source": "PressTV",
-    "date": "2026-05-20T16:56",
-    "headline": "US, Israel better find way out of ‘quagmire’ fast: Iran FM spokesman",
-    "excerpt": "The United States and Israel must take responsibility for the war they started and find their own way out of the quagmire, Iran’s Foreign Ministry spokesman says.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-20T16:56:11.349407+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/20/768988/US-Israel-should-leave-the-quagmire-sooner-for-their-own-good-Iran-FM-spox"
-  },
-  {
-    "id": "4654d6282f10",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T13:11",
-    "headline": "New York City hotels avert labour strike threat before FIFA World Cup",
-    "excerpt": "Hotel operators avoid a &#039;very real threat&#039; by signing a deal with 25,000 workers as the city hosts the 2026 tournament.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-05-20T13:49:01.825942+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/20/new-york-city-hotels-avert-labour-strike-threat-before-fifa-world-cup?traffic_source=rss"
-  },
-  {
-    "id": "95e5725bc95d",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T13:08",
-    "headline": "Israeli lawmakers advance bill to dissolve parliament",
-    "excerpt": "Netanyahu is under mounting pressure as his fractious right-wing coalition submitted the bill to dissolve parliament.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-20T13:49:01.826008+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/20/israeli-lawmakers-advance-bill-to-dissolve-parliament?traffic_source=rss"
-  },
-  {
-    "id": "d0b8a700eb1b",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T13:02",
-    "headline": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
-    "excerpt": "Nearly all flotillas over 20 years have been intercepted by Israel. Hundreds remain missing after latest interdiction.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-05-20T13:49:01.826042+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss"
   }
 ]
