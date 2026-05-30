@@ -1,5 +1,49 @@
 [
   {
+    "id": "a7d5d37b8aa3",
+    "source": "Al Jazeera",
+    "date": "2026-05-30T12:04",
+    "headline": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+    "excerpt": "Egypt races to salvage Gaza ceasefire as Israeli attacks and displacement threats push deal to the brink of collapse.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-30T12:16:47.145414+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "635cec3bd500",
+    "source": "Al Jazeera",
+    "date": "2026-05-30T10:57",
+    "headline": "Israel launches more than 10 strikes across southern Lebanon",
+    "excerpt": "Videos show the aftermath of renewed Israeli strikes on southern Lebanon that killed at least three people.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-30T12:16:47.145451+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/israel-launches-more-than-10-strikes-across-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "78873c9d375c",
+    "source": "PressTV",
+    "date": "2026-05-30T12:16",
+    "headline": "Two terrorists killed in armed clash with Iranian border guards",
+    "excerpt": "Two members of an anti-Iran terrorist group were killed during an armed confrontation with Iranian border guards in the country's northwestern border region.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-05-30T12:16:48.746764+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/30/769523/Iran-border-guards-kill-terrorists-clashes-northwestern-border-region-Chaldoran"
+  },
+  {
+    "id": "5b0de0ad3aad",
+    "source": "PressTV",
+    "date": "2026-05-30T12:16",
+    "headline": "Hamas: EU hits Gaza leaders with sanctions but ‘turns blind eye’ to Israel’s atrocities",
+    "excerpt": "Hamas condemned the European Union’s sanctions, slamming the bloc for “turning a blind eye” to Israel’s violations of international law while targeting Palestinian resistance groups and leaders.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-30T12:16:48.746818+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/30/769524/Hamas-condemns-EU-sanctions,-says-block-%E2%80%98turns-blind-eye%E2%80%99-to-Israel%E2%80%99s-violation-of-international-law"
+  },
+  {
     "id": "534adb8c65f5",
     "source": "Al Jazeera",
     "date": "2026-05-30T10:34",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-20T13:49:01.826042+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss"
-  },
-  {
-    "id": "def0d1d660b7",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T11:40",
-    "headline": "Why are nearly 50,000 Samsung workers about to strike in South Korea?",
-    "excerpt": "Workers&#039; union says protest over bonuses will continue for 18 days.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-20T13:49:01.826078+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/20/why-are-nearly-50000-samsung-workers-about-to-strike-in-south-korea?traffic_source=rss"
-  },
-  {
-    "id": "c5e921a13074",
-    "source": "PressTV",
-    "date": "2026-05-20T13:49",
-    "headline": "Leader commemorates President Raeisi, warns of historic resistance",
-    "excerpt": "Ayatollah Khamenei has praised martyred President Raeisi's service, justice, and diplomacy, citing fallen officials and warned of Iran's historic resistance against US-Israeli threats.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-05-20T13:49:04.032010+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/20/768971/Leader-commemorates-President-Raeisi,-warns-of-historic-resistance--"
-  },
-  {
-    "id": "673715d75499",
-    "source": "PressTV",
-    "date": "2026-05-20T13:49",
-    "headline": "IRGC Navy says more ships transiting Strait of Hormuz under its coordination",
-    "excerpt": "The IRGC says some 26 ships passed the Strait of Hormuz in the 24 hours leading up to noon on May 20.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-20T13:49:04.032047+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/20/768974/Iran-IRGC-Navy-transit-Hormuz-Strait-increase"
-  },
-  {
-    "id": "9e432fe202f4",
-    "source": "PressTV",
-    "date": "2026-05-20T13:49",
-    "headline": "Putin, Xi jointly condemn US-Israeli war of aggression against Iran",
-    "excerpt": "The Russian and Chinese presidents have condemned the recent US-Israeli war of aggression against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-20T13:49:04.032073+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/20/768969/Russia-Putin-China-Xi-US-Israel-war-Iran-ceasefire-negotiations-"
   }
 ]
