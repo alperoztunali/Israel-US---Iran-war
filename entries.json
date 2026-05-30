@@ -1,5 +1,38 @@
 [
   {
+    "id": "d9e85da4f60f",
+    "source": "Al Jazeera",
+    "date": "2026-05-30T20:12",
+    "headline": "Is the war in Ukraine entering a new phase?",
+    "excerpt": "NATO says it is ready to defend allied territory against Russian attacks.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-30T20:33:24.485017+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss"
+  },
+  {
+    "id": "e07326535be9",
+    "source": "Al Jazeera",
+    "date": "2026-05-30T19:48",
+    "headline": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
+    "excerpt": "Pentagon chief Pete Hegseth says US &#039;more than capable&#039; of restarting war if satisfactory deal not reached.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-30T20:33:24.485062+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss"
+  },
+  {
+    "id": "964158282c45",
+    "source": "Al Jazeera",
+    "date": "2026-05-30T17:04",
+    "headline": "Two killed, including Palestinian doctor, in Israeli attacks on Gaza",
+    "excerpt": "Several injured in Gaza, while Israeli settlers attack Palestinian homes and property across the occupied West Bank.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-05-30T20:33:24.485091+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss"
+  },
+  {
     "id": "a04a40e02ffa",
     "source": "Al Jazeera",
     "date": "2026-05-30T18:42",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-20T19:30:54.507036+00:00",
     "link": "https://presstv.ir/Detail/2026/05/20/768996/Iran-Pezeshkian-meeting-Pakistan-Naqvi-US-talks"
-  },
-  {
-    "id": "badb5b87193c",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T16:29",
-    "headline": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
-    "excerpt": "The IRGC claims to maintain control over the Strait of Hormuz despite the US blockade on Iran&#039;s ports.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-20T16:56:09.755946+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "1b1a331a6a44",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T15:47",
-    "headline": "At least eight killed in Israel’s air attacks on southern Lebanon",
-    "excerpt": "Israeli attacks on Lebanon continue despite the &#039;ceasefire&#039; that was recently extended until the beginning of July.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-20T16:56:09.755988+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "8faa8bb8a2c0",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T15:34",
-    "headline": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
-    "excerpt": "New approaches to war propaganda are reshaping the conflict between Israel, Hezbollah, and Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-20T16:56:09.756030+00:00",
-    "link": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss"
   }
 ]
