@@ -1,5 +1,38 @@
 [
   {
+    "id": "58b53a988126",
+    "source": "Al Jazeera",
+    "date": "2026-05-30T00:00",
+    "headline": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
+    "excerpt": "Israel pushes deeper into Lebanon just days after Israel&#039;s prime minister ordered 70 percent of Gaza to be occupied.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-30T04:29:08.410783+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss"
+  },
+  {
+    "id": "94358f59907d",
+    "source": "PressTV",
+    "date": "2026-05-30T04:29",
+    "headline": "US-hosted Lebanon-Israel talks end without ceasefire agreement: Report",
+    "excerpt": "Trilateral military talks involving Lebanon, the Israeli regime, and the US have concluded at the US Department of War without reaching a ceasefire agreement, a report says.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-05-30T04:29:13.806098+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/30/769498/Lebanon-Israel-United-States-talks"
+  },
+  {
+    "id": "2f5736f80cc8",
+    "source": "PressTV",
+    "date": "2026-05-30T04:29",
+    "headline": "Pakistan says firmly committed to its established policy on Palestine",
+    "excerpt": "Pakistan asserts that there could be no change in its position towards the Israeli regime without creation of an independent Palestinian state.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-05-30T04:29:13.806140+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/30/769497/Pakistan-Israel-United-States-Trump-Palestine"
+  },
+  {
     "id": "c3d658bf5747",
     "source": "Al Jazeera",
     "date": "2026-05-29T23:41",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-20T04:05:51.578619+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "436cf8494d86",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T00:00",
-    "headline": "Iran war live: Tehran warns of ‘many more surprises’ if conflict resumes",
-    "excerpt": "Warning comes after Trump threatened military action against Iran and gave it &#039;two to three days&#039; to strike a deal.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-20T04:05:51.578660+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss"
-  },
-  {
-    "id": "960ab3beecb3",
-    "source": "PressTV",
-    "date": "2026-05-20T04:05",
-    "headline": "Return to war to feature 'many more surprises': Iran FM to US",
-    "excerpt": "Foreign Minister Abbas Araghchi says Iran has \"many more surprises\" in store for the US should Washington seek potential resumption of unprovoked aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-20T04:05:54.344421+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/20/768943/Iran-warning-United-States-Araghchi"
-  },
-  {
-    "id": "d32b1653abfd",
-    "source": "PressTV",
-    "date": "2026-05-19T23:46",
-    "headline": "US Senate advances measure seeking to curb Trump’s Iran war powers",
-    "excerpt": "The US Senate advances a war powers resolution aimed at requiring congressional authorization for continued American military aggression against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-19T23:46:16.563277+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/19/768940/United-States-Trump-war-powers-Senate-resolution"
   }
 ]
