@@ -1,5 +1,38 @@
 [
   {
+    "id": "a04a40e02ffa",
+    "source": "Al Jazeera",
+    "date": "2026-05-30T18:42",
+    "headline": "Qatar says temporary charges ‘negotiable’",
+    "excerpt": "Qatar rejects a set Strait of Hormuz toll, says temporary charges &#039;negotiable&#039;.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-05-30T19:25:24.866308+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/qatar-says-temporary-charges-negotiable?traffic_source=rss"
+  },
+  {
+    "id": "bcfda6d14853",
+    "source": "Al Jazeera",
+    "date": "2026-05-30T18:06",
+    "headline": "22 killed as truck carrying refugees overturns in Afghanistan",
+    "excerpt": "22 people have been killed and 36 others injured when a truck carrying recently returned Afghan refugees overturned",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-05-30T19:25:24.866360+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss"
+  },
+  {
+    "id": "0794a7136d49",
+    "source": "PressTV",
+    "date": "2026-05-30T19:25",
+    "headline": "‘Ceasefire is a joke’: Israeli troops recount killings in Gaza based on ‘a hunch’",
+    "excerpt": "Israeli soldiers say unclear rules of engagement and shifting frontlines have made the Gaza ceasefire effectively meaningless on the ground.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-30T19:25:26.439259+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/30/769551/Ceasefire-joke-Israeli-soldiers-describe-deadly-reality-in-Gaza"
+  },
+  {
     "id": "3bf3286d2451",
     "source": "Al Jazeera",
     "date": "2026-05-30T17:04",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-20T16:56:09.756030+00:00",
     "link": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss"
-  },
-  {
-    "id": "4ce556fb9a92",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T15:24",
-    "headline": "Families demand justice for victims killed in Israeli strikes on Beirut",
-    "excerpt": "Two childhood neighbours say they are fighting for justice after an Israeli strike killed five of their relatives.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-20T16:56:09.756054+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/families-demand-justice-for-victims-killed-in-israeli-strikes-on-beirut?traffic_source=rss"
-  },
-  {
-    "id": "8cddf48543bb",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T15:24",
-    "headline": "Why is Trump’s Gaza Board of Peace facing a funding shortfall?",
-    "excerpt": "Experts say lack of a political horizon and Israeli land grabs are deterring donors from funding Gaza&#039;s reconstruction.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-20T16:56:09.756090+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/20/why-is-trumps-gaza-board-of-peace-facing-a-funding-shortfall?traffic_source=rss"
-  },
-  {
-    "id": "f37d22367253",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T14:05",
-    "headline": "Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky",
-    "excerpt": "The campaign to unseat Thomas Massie exposed a growing Republican backlash against pro-Israel political influence.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-20T16:56:09.756131+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/5/20/massie-defeated-the-israel-lobbys-pyrrhic-victory-in-kentucky?traffic_source=rss"
   }
 ]
