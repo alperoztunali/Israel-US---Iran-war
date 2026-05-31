@@ -1,5 +1,27 @@
 [
   {
+    "id": "184e394095e3",
+    "source": "Al Jazeera",
+    "date": "2026-05-31T00:00",
+    "headline": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
+    "excerpt": "Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-31T06:24:38.543211+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss"
+  },
+  {
+    "id": "5cf3a6e03569",
+    "source": "PressTV",
+    "date": "2026-05-31T06:24",
+    "headline": "Ukraine ‘deliberately’ attacked Europe’s largest nuclear power plant: Rosatom",
+    "excerpt": "The Ukrainian military “deliberately” attacked Russia’s Zaporozhye Nuclear Power Plant (ZNPP), according to the Russian state nuclear corporation Rosatom.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-05-31T06:24:39.984615+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/31/769561/Russia-condemns-Ukraine%E2%80%99s-%E2%80%98deliberate-strike%E2%80%99-on-Europe%E2%80%99s-largest-nuclear-power-plant"
+  },
+  {
     "id": "5b166c6b79fd",
     "source": "Al Jazeera",
     "date": "2026-05-31T00:27",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-20T22:54:01.422639+00:00",
     "link": "https://presstv.ir/Detail/2026/05/20/768998/Iran-Strait-of-Hormuz-management-body-defines-supervisory-zone"
-  },
-  {
-    "id": "ffc5380202cc",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T20:53",
-    "headline": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
-    "excerpt": "Palestinian residents say Israeli settlers burned vehicles, sprayed racist graffiti, and installed new outposts.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-20T21:25:11.193547+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "3b305f4db03d",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T20:50",
-    "headline": "As AIPAC becomes ‘toxic’, it is trying to conceal spending in US elections",
-    "excerpt": "Al Jazeera analyses how pro-Israel lobby group has relied on shell PACs with deceptive names to defeat Israel critics.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-20T21:25:11.193602+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/20/as-aipac-becomes-toxic-it-is-trying-to-conceal-spending-in-us-elections?traffic_source=rss"
   }
 ]
