@@ -1,5 +1,82 @@
 [
   {
+    "id": "14132bb0c3a9",
+    "source": "Al Jazeera",
+    "date": "2026-05-31T11:10",
+    "headline": "Israeli forces cross Lebanon’s Litani River and seize 12th century castle",
+    "excerpt": "Invading Israeli forces have crossed north of Lebanon&#039;s Litani River and seized the medieval Beaufort Castle.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-05-31T11:21:04.611806+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss"
+  },
+  {
+    "id": "60752d5d899d",
+    "source": "Al Jazeera",
+    "date": "2026-05-31T10:07",
+    "headline": "Ukrainian drone attacks hit multiple Russian targets, including refinery",
+    "excerpt": "Saratov refinery hit as Ukrainian strikes intensify across Russian regions, damaging civilian infrastructure.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-05-31T11:21:04.611848+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/31/ukrainian-drone-attacks-hit-multiple-russian-targets-including-refinery?traffic_source=rss"
+  },
+  {
+    "id": "796b18b40fd0",
+    "source": "Al Jazeera",
+    "date": "2026-05-31T09:15",
+    "headline": "Trump tightens terms on Iran war deal, US media say",
+    "excerpt": "US officials indicate Tehran may take days to respond to Trump&#039;s tougher terms on a potential peace agreement.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-31T11:21:04.611879+00:00",
+    "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss"
+  },
+  {
+    "id": "7a95a0fb889c",
+    "source": "PressTV",
+    "date": "2026-05-31T11:21",
+    "headline": "IRGC Navy: 28 vessels permitted to cross Hormuz Strait in past 24 hours",
+    "excerpt": "The IRGC Navy says 28 commercial vessels have passed through the Strait of Hormuz in the past 24 hours.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-05-31T11:21:09.708988+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/31/769581/IRGC-Navy--28-commercial-vessels-cross-Strait-of-Hormuz-in-24-hours-after-obtaining-permission"
+  },
+  {
+    "id": "498ed20f17ce",
+    "source": "PressTV",
+    "date": "2026-05-31T11:21",
+    "headline": "Trump faces only ‘bad’ or ‘worse’ options on Iran: IRGC general",
+    "excerpt": "A senior IRGC commander says Trump must choose between the continuation of the anti-Iran war or acknowledgement of Iranians’ rights and conditions.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-31T11:21:09.709034+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/31/769575/IRGC-general--Trump-must-choose-between-continuation-of-Iran-war,-or-acknowledgement-of-Iranians--rights-"
+  },
+  {
+    "id": "dc44ac0689f8",
+    "source": "PressTV",
+    "date": "2026-05-31T11:21",
+    "headline": "Handala hacktivists target Israeli center, extract classified documents",
+    "excerpt": "The Handala hacking group has breached the databases of Israel’s so-called National Center for Support of Holocaust Victims and exposed thousands of classified documents.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-05-31T11:21:09.709075+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/31/769580/Handala-"
+  },
+  {
+    "id": "e3ba2fc710ee",
+    "source": "PressTV",
+    "date": "2026-05-31T11:21",
+    "headline": "Denmark’s ‘baseless’ terror allegations aimed at isolating Iran: Embassy",
+    "excerpt": "The Iranian Embassy in Copenhagen rejects Denmark’s terror accusations against the Islamic Republic, saying they are aimed at isolating the country.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-05-31T11:21:09.709109+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/31/769577/Iran-Denmark-baseless-terror-claims"
+  },
+  {
     "id": "193e7f64d80f",
     "source": "Al Jazeera",
     "date": "2026-05-31T08:49",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-21T11:54:27.985289+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/5/21/the-crises-caused-by-the-iran-war-will-hit-the-world-in-four-waves?traffic_source=rss"
-  },
-  {
-    "id": "a8975f8f9e04",
-    "source": "PressTV",
-    "date": "2026-05-21T11:54",
-    "headline": "Iran, not Washington, shaping regional corridor dynamics: Leader's aide",
-    "excerpt": "An adviser to the Leader of the Islamic Revolution says regional corridor dynamics are not shaped by Washington's fiery rhetoric but rather by Tehran's realities on the ground.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-21T11:54:29.438069+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/21/769020/Regional-corridor-dynamics-shaped-by-Tehran-s-realities-not-Washington-s-threats-"
-  },
-  {
-    "id": "fdf50cccbcde",
-    "source": "Al Jazeera",
-    "date": "2026-05-21T07:59",
-    "headline": "Israel pushes for war amid US ceasefire, but its options may be limited",
-    "excerpt": "Israeli officials and media indicate renewed conflict with Iran is being actively considered despite a shaky deadlock.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-05-21T08:36:45.645077+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/21/israel-pushes-for-war-amid-us-ceasefire-but-its-options-may-be-limited?traffic_source=rss"
-  },
-  {
-    "id": "b8f335aba515",
-    "source": "Al Jazeera",
-    "date": "2026-05-21T07:14",
-    "headline": "Walid Daqqa: A Parallel Life",
-    "excerpt": "Walid Daqqa, the Palestinian prisoner who turned decades in Israeli jails into moments of thought, creativity and love.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-21T08:36:45.645121+00:00",
-    "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/5/21/walid-daqqa-a-parallel-life?traffic_source=rss"
-  },
-  {
-    "id": "37ff2708c4f3",
-    "source": "Al Jazeera",
-    "date": "2026-05-21T07:01",
-    "headline": "Hebron’s Ibrahimi Mosque illuminated in Israeli flag colours",
-    "excerpt": "Palestinian officials condemned Israel’s illumination of Hebron’s Ibrahimi Mosque with Israeli flag colours and slogans.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-21T08:36:45.645164+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/hebrons-ibrahimi-mosque-illuminated-in-israeli-flag-colours?traffic_source=rss"
-  },
-  {
-    "id": "2263173f2fe7",
-    "source": "Al Jazeera",
-    "date": "2026-05-21T06:59",
-    "headline": "Iran war day 83: Tehran ‘reviewing’ latest US response to end conflict",
-    "excerpt": "Iran says diplomacy with the US remains open as Hormuz tensions deepen and outrage grows over Israel’s flotilla arrests.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-21T08:36:45.645203+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/21/iran-war-day-83-tehran-reviewing-latest-us-response-to-end-conflict?traffic_source=rss"
-  },
-  {
-    "id": "89cb4fd5ff0b",
-    "source": "Al Jazeera",
-    "date": "2026-05-21T06:54",
-    "headline": "South Korea’s stock market soars as Samsung union calls off planned strike",
-    "excerpt": "Benchmark KOSPI rises more than 8 percent following deal to avert strike at top memory chip maker.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-05-21T08:36:45.645244+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/21/south-koreas-stock-market-soars-as-samsung-union-calls-off-planned-strike?traffic_source=rss"
-  },
-  {
-    "id": "a8317ed399ee",
-    "source": "Al Jazeera",
-    "date": "2026-05-21T00:00",
-    "headline": "Iran war live: Tehran says it is reviewing US response to proposal",
-    "excerpt": "Israeli attacks have killed 3,073 people across Lebanon since March, according to the Lebanese Health Ministry.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-05-21T08:36:45.645273+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss"
   }
 ]
