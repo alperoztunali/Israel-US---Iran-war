@@ -1,5 +1,38 @@
 [
   {
+    "id": "5b166c6b79fd",
+    "source": "Al Jazeera",
+    "date": "2026-05-31T00:27",
+    "headline": "Rescues in eastern Syria after the Euphrates River bursts its banks",
+    "excerpt": "Rescue workers have pulled stranded farmers from flood waters in eastern Syria after the Euphrates burst its banks.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-05-31T01:55:07.664110+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss"
+  },
+  {
+    "id": "238abc78593d",
+    "source": "Al Jazeera",
+    "date": "2026-05-31T00:00",
+    "headline": "Iran war live: Lebanon’s PM slams Israel attacks; US-Tehran deal in limbo",
+    "excerpt": "Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-05-31T01:55:07.664161+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss"
+  },
+  {
+    "id": "887db2320669",
+    "source": "PressTV",
+    "date": "2026-05-31T01:55",
+    "headline": "Iran Army, Foreign Ministry stress battlefield-diplomacy synergy in safeguarding national interests",
+    "excerpt": "Iran's Army and Foreign Ministry spokespersons underscore the close coordination between the Islamic Republic's military capabilities and diplomatic instruments.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-05-31T01:55:09.476031+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/31/769558/Iran-Army-Foreign-Ministry-coordination-military-capability-diplomacy"
+  },
+  {
     "id": "b82d4de104a2",
     "source": "Al Jazeera",
     "date": "2026-05-30T22:28",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-20T21:25:11.193602+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/20/as-aipac-becomes-toxic-it-is-trying-to-conceal-spending-in-us-elections?traffic_source=rss"
-  },
-  {
-    "id": "e0181ca66571",
-    "source": "PressTV",
-    "date": "2026-05-20T21:25",
-    "headline": "Forcing Iran to surrender 'an illusion': President Pezeshkian",
-    "excerpt": "President Masoud Pezeshkian reiterates Iran’s position that it will resist coercion aimed at forcing surrender.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-20T21:25:13.257796+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/20/768997/Iran-United-States-surrender-Pezeshkian"
-  },
-  {
-    "id": "9f74b5806c94",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T18:01",
-    "headline": "Russia ‘dangerously’ intercepts British spy plane over Black Sea: Ministry",
-    "excerpt": "The incident came last month when unarmed Rivet Joint plane was securing NATO&#039;s eastern flank in international airspace.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-20T19:30:52.979496+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/20/russia-dangerously-intercepts-british-spy-plane-over-black-sea-ministry?traffic_source=rss"
-  },
-  {
-    "id": "ab34c14aa891",
-    "source": "Al Jazeera",
-    "date": "2026-05-20T17:18",
-    "headline": "Controlled reopening ends Iran’s lengthy stock market shutdown",
-    "excerpt": "Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn&#039;t take part in the reopening.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-20T19:30:52.979550+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss"
   }
 ]
