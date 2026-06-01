@@ -1,5 +1,27 @@
 [
   {
+    "id": "96d62d6833cd",
+    "source": "Al Jazeera",
+    "date": "2026-06-01T00:00",
+    "headline": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
+    "excerpt": "France requests UN Security Council meeting over Israel&#039;s invasion of Lebanon, as Iran says talks with US continue.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-06-01T04:50:24.122416+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss"
+  },
+  {
+    "id": "ed83eaffaa0a",
+    "source": "PressTV",
+    "date": "2026-06-01T04:50",
+    "headline": "UK foreign secretary admits Israeli aggression eroding diplomacy in Lebanon",
+    "excerpt": "British Foreign Secretary Yvette Cooper has acknowledged that Israel’s escalating military aggression in Lebanon has “eroded space for diplomacy.\"",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-01T04:50:25.648812+00:00",
+    "link": "https://presstv.ir/Detail/2026/05/31/769614/UK-foreign-secretary-admits-Israeli-aggression-eroding-diplomacy-in-Lebanon"
+  },
+  {
     "id": "6459712e95de",
     "source": "PressTV",
     "date": "2026-05-31T21:28",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-21T17:46:40.285367+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/lingering-shock-from-tragedy-weeks-after-minab-school-bombing?traffic_source=rss"
-  },
-  {
-    "id": "951ad80122a2",
-    "source": "Al Jazeera",
-    "date": "2026-05-21T16:07",
-    "headline": "Putin and Lukashenko monitor joint Russia-Belarus nuclear exercises",
-    "excerpt": "Moscow and Minsk hold strategic nuclear drills with the two countries&#039; leaders participating via video conference.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-21T17:46:40.285409+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/21/putin-and-lukashenko-monitor-joint-russia-belarus-nuclear-exercises?traffic_source=rss"
-  },
-  {
-    "id": "264c33c1c94c",
-    "source": "PressTV",
-    "date": "2026-05-21T17:46",
-    "headline": "Pezeshkian commits government's full capacity to modernization of Armed Forces",
-    "excerpt": "President Pezeshkian says the government stands alongside the Armed forces, using all available capacities to strengthen Iran’s Army against enemies.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-21T17:46:41.905063+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/21/769035/Iran-Pezeshkian-Armed-Forces-Amir-Hatami-military-readiness-US-Israel-war"
   }
 ]
