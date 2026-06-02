@@ -1,5 +1,93 @@
 [
   {
+    "id": "b68c447b1e79",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T19:50",
+    "headline": "Blue Origin failure sets back NASA lunar goals",
+    "excerpt": "Blue Origin’s latest rocket test didn’t just end in a fireball — it may have burned a hole in NASA’s timeline.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-02T20:56:20.539843+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/blue-origin-failure-sets-back-nasa-lunar-goals?traffic_source=rss"
+  },
+  {
+    "id": "3528e7d3717d",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T19:26",
+    "headline": "Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza",
+    "excerpt": "International isolation has deepened after reports of sexual abuse and the widening seizure of Gaza territory.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-02T20:56:20.539891+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/2/palestine-weekly-wrap-no-respite-for-eid-as-israel-kills-dozens-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "500c9e43eb40",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T19:24",
+    "headline": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion",
+    "excerpt": "What will Israel and Lebanon discuss in Washington, as Hezbollah and Israel continue to battle in south Lebanon.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-02T20:56:20.539922+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss"
+  },
+  {
+    "id": "859b79493072",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T19:05",
+    "headline": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
+    "excerpt": "US Secretary of State Marco Rubio says Iran’s Supreme Leader Mojtaba Khamenei is increasingly engaging in negotiations.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-02T20:56:20.539960+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss"
+  },
+  {
+    "id": "cf0d8305fcf2",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T19:01",
+    "headline": "Israeli settlers torch Palestinian homes in village near Ramallah",
+    "excerpt": "Khirbet Abu Falah has been frequently targeted by settler attacks, with over 30 incidents reported since late March.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-02T20:56:20.539989+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-settlers-torch-palestinian-homes-in-village-near-ramallah?traffic_source=rss"
+  },
+  {
+    "id": "08cf630ca5a4",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T18:47",
+    "headline": "What Trump ‘telling off’ means for Netanyahu",
+    "excerpt": "US President Donald Trump reportedly lashed out at Israeli Prime Minister Benjamin Netanyahu during a phone call.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-02T20:56:20.540028+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/what-trump-telling-off-means-for-netanyahu?traffic_source=rss"
+  },
+  {
+    "id": "a4fc09ce5392",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T17:53",
+    "headline": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
+    "excerpt": "Tehran has agreed to discuss previously off-limits aspects of its nuclear file, US State Secretary tells lawmakers.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-02T20:56:20.540060+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss"
+  },
+  {
+    "id": "43c5c5beb995",
+    "source": "PressTV",
+    "date": "2026-06-02T20:56",
+    "headline": "Hezbollah vows deep strikes inside occupied territories if Israel attacks Beirut",
+    "excerpt": "Hezbollah vows to hit back deep inside the Israeli-occupied territories if Beirut's Shia-dominated district is attacked.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-02T20:56:22.189292+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/02/769733/Lebanon-Hezbollah-Israel-attack-Beirut-retaliation-Qamati"
+  },
+  {
     "id": "1f521796769e",
     "source": "Al Jazeera",
     "date": "2026-06-02T17:07",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-23T13:48:32.694054+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "f836483d9e3a",
-    "source": "PressTV",
-    "date": "2026-05-23T13:48",
-    "headline": "Iran has no trust in US, will never back down from its rights: Qalibaf",
-    "excerpt": "The Iranian Parliament speaker says Tehran has no trust in the US and will never retreat from its national rights in talks with Washington.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-23T13:48:35.421780+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/23/769145/Iran-Pakistan-Qalibaf-Munir"
-  },
-  {
-    "id": "fa226e9afbd8",
-    "source": "PressTV",
-    "date": "2026-05-23T13:48",
-    "headline": "IRGC Navy says 25 ships passed through Strait of Hormuz in 24 hours",
-    "excerpt": "The IRGC Navy announces that 25 vessels, including oil tankers, container ships, and other commercial vessels, transited the Strait of Hormuz over the past 24 hours.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-23T13:48:35.421816+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/23/769137/IRGC-coordinates-safe-passage-25-ships-Hormuz"
-  },
-  {
-    "id": "411279402fa4",
-    "source": "PressTV",
-    "date": "2026-05-23T13:48",
-    "headline": "Iran says US committing ‘crimes against humanity’ in Cuba",
-    "excerpt": "The Iranian Foreign Ministry condemns the ongoing interference of the US administration in Cuba's internal affairs, including illegal sanctions, provocative actions, political pressure, and military threats against the Caribbean nation.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-23T13:48:35.421860+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/23/769142/Iran-condemns-US-crimes-humanity-Cuba,-end-unilateral-measures"
-  },
-  {
-    "id": "eb9f325945ba",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T10:59",
-    "headline": "China coal mine blast kills at least 90, leaves nine missing",
-    "excerpt": "A gas explosion at the Liushenyu coal mine in China’s Shanxi province has killed at least 90 workers.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-23T11:46:56.719525+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/china-coal-mine-blast-kills-at-least-90-leaves-nine-missing?traffic_source=rss"
-  },
-  {
-    "id": "2c0720e61478",
-    "source": "PressTV",
-    "date": "2026-05-23T11:46",
-    "headline": "IRGC Navy says 25 ships passed through Strait of Hormuz",
-    "excerpt": "The IRGC Navy announces that 25 vessels, including oil tankers, container ships, and other commercial vessels, transited the Strait of Hormuz over the past 24 hours.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-23T11:46:58.431119+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/23/769137/IRGC-coordinates-safe-passage-25-ships-Hormuz"
-  },
-  {
-    "id": "55f15f740bcb",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T09:30",
-    "headline": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
-    "excerpt": "People in southern Lebanon are living under &quot;psychological terror&quot; from Israeli air attacks and displacement orders.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-23T10:39:30.808894+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "20531fb95d24",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T09:26",
-    "headline": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
-    "excerpt": "Parts of the Puebla stadium for high-profile warm-up for 2026 edition were closed to spectators due to FIFA sanctions.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-05-23T10:39:30.808945+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss"
-  },
-  {
-    "id": "90cbeff8e1b0",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T09:22",
-    "headline": "Missiles to munitions: Does the US risk running out of key weapons?",
-    "excerpt": "The US projects confidence in weapons stockpiles, but analysts say dwindling munitions are shaping its war decisions.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-23T10:39:30.808974+00:00",
-    "link": "https://www.aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss"
   }
 ]
