@@ -1,5 +1,49 @@
 [
   {
+    "id": "a3f21d4c84fe",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T07:54",
+    "headline": "Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa",
+    "excerpt": "The violence prompted 300 Mozambicans to return home over the weekend.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-02T09:18:45.717548+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/2/mozambique-says-5-citizens-killed-in-xenophobic-attacks-in-south-africa?traffic_source=rss"
+  },
+  {
+    "id": "b9b931dfac68",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T07:07",
+    "headline": "At least 12 people killed, dozens wounded in Russian attacks on Ukraine",
+    "excerpt": "Russia launches 656 drones and 73 missiles at Ukraine overnight, according to Ukraine&#039;s air force.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-02T09:18:45.717593+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/2/at-least-nine-people-killed-dozens-wounded-in-russian-attacks-on-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "1aff980d107e",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T06:55",
+    "headline": "Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks",
+    "excerpt": "Trump says he persuaded Israel and Hezbollah to halt attacks, seeking to prevent a wider war in Lebanon.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-02T09:18:45.717629+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks?traffic_source=rss"
+  },
+  {
+    "id": "4e477bfabd72",
+    "source": "PressTV",
+    "date": "2026-06-02T09:18",
+    "headline": "Yemen pledges 'comprehensive response' to any Israeli escalation in Lebanon",
+    "excerpt": "Ansarullah says the Israeli forces deployed in Lebanon will remain vulnerable to solidarity strikes until their complete withdrawal.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-02T09:18:47.199598+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/02/769690/Yemen-warning-Israel-Lebanon"
+  },
+  {
     "id": "08fec6fafe7c",
     "source": "Al Jazeera",
     "date": "2026-06-02T04:45",
@@ -5454,49 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-22T20:20:42.913606+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks?traffic_source=rss"
-  },
-  {
-    "id": "5966143e09f4",
-    "source": "Al Jazeera",
-    "date": "2026-05-22T19:10",
-    "headline": "Decades-old photos show ‘joyful’ Gaza in happier times.",
-    "excerpt": "An exhibition in Marseille is showcasing 300 photos taken in Gaza between the 1940s and the 1970s.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-22T20:20:42.913646+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/decades-old-photos-show-joyful-gaza-in-happier-times?traffic_source=rss"
-  },
-  {
-    "id": "ae0f9b0482b8",
-    "source": "Al Jazeera",
-    "date": "2026-05-22T19:09",
-    "headline": "Displaced Lebanese amputee asks ‘where am I supposed to go’?",
-    "excerpt": "Mohamad Saaydoun, an amputee displaced by the latest Israel-Hezbollah war, is living in a makeshift camp.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-22T20:20:42.913683+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/displaced-lebanese-amputee-asks-where-am-i-supposed-to?traffic_source=rss"
-  },
-  {
-    "id": "7834e53cc85c",
-    "source": "Al Jazeera",
-    "date": "2026-05-22T18:49",
-    "headline": "‘I always hear them before I see them’: Drones strike fear in Colombia",
-    "excerpt": "Armed groups have taken the conflict to the skies by making greater use of cheap, widely available drone technology.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-22T20:20:42.913715+00:00",
-    "link": "https://www.aljazeera.com/news/longform/2026/5/22/i-always-hear-them-before-i-see-them-drones-strike-fear-in-colombia?traffic_source=rss"
-  },
-  {
-    "id": "ef35a2622113",
-    "source": "PressTV",
-    "date": "2026-05-22T20:20",
-    "headline": "Trump's top spy resigns under White House pressure over illegal war on Iran",
-    "excerpt": "Trump’s Director of National Intelligence (DNI) Tulsi Gabbard has resigned amid intense pressure from the White House.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-22T20:20:44.631862+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/22/769104/US-Trump-top-spy-resigns-Gabbard-under-pressure-from-White-House-Iran-war"
   }
 ]
