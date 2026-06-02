@@ -1,5 +1,38 @@
 [
   {
+    "id": "14cec1a9c791",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T00:00",
+    "headline": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
+    "excerpt": "Death toll from Israel&#039;s attacks on Lebanon since March has reached 3,433, with 10,395 injured, says Health Ministry.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-06-02T00:18:02.952627+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss"
+  },
+  {
+    "id": "d26f2e7bd536",
+    "source": "Al Jazeera",
+    "date": "2026-06-01T23:36",
+    "headline": "Ultra-Orthodox protesters clash with Israeli police over army draft",
+    "excerpt": "Police seen dragging ultra-Orthodox protesters from under a bus after they blocked roads in Jerusalem over conscription.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-02T00:18:02.952676+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss"
+  },
+  {
+    "id": "03e786fce76f",
+    "source": "PressTV",
+    "date": "2026-06-02T00:18",
+    "headline": "IRGC Navy strikes US-Israeli cargo ship MSC Sariska in retaliatory attack",
+    "excerpt": "The MSC Sariska, a Panamanian‑flagged vessel, was reportedly targeted near Iraqi waters and sustained a major explosion.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-06-02T00:18:04.498046+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/01/769682/IRGC-Navy-strikes-US-Israeli-cargo-ship-MSC-Sariska-in-retaliation-for-attack-on-Iranian-vessel"
+  },
+  {
     "id": "ea220b15b713",
     "source": "Al Jazeera",
     "date": "2026-06-01T21:15",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-22T18:22:48.659746+00:00",
     "link": "https://presstv.ir/Detail/2026/05/22/769090/Pakistan-army-chief-in-Tehran"
-  },
-  {
-    "id": "a40f7c9b5fa3",
-    "source": "PressTV",
-    "date": "2026-05-22T18:22",
-    "headline": "US naval blockade against Iran ‘illegal’, amounts to ‘war crime’: Envoy",
-    "excerpt": "An Iranian envoy has warned against the humanitarian impact of the “illegal” US naval blockade against the Islamic Republic, stressing that it constitutes “a war crime”.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-22T18:22:48.659782+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/22/769097/US-naval-blockade-Iran-constitutes-war-crime"
-  },
-  {
-    "id": "378ee11c3d1e",
-    "source": "PressTV",
-    "date": "2026-05-22T18:22",
-    "headline": "Foreign powers aim to take control of Yemen, exploit its resources: Ansarullah leader",
-    "excerpt": "Leader of Yemen's Ansarullah movement, Abdul-Malik al-Houthi, has warned that foreign powers are seeking to take control of the Yemeni nation.",
-    "category": "Statement",
-    "location": "Yemen",
-    "addedAt": "2026-05-22T18:22:48.659817+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/22/769096/Yemen-Ansarullah-leader-Abdul-Malik-al-Houthi-foreign-powers-seeking-to-subjugate-nation"
-  },
-  {
-    "id": "2a745367fcbb",
-    "source": "Al Jazeera",
-    "date": "2026-05-22T15:58",
-    "headline": "Western nations warn Israel to end illegal settlement expansion, violence",
-    "excerpt": "Nine countries including UK, Germany and France warn settlements in occupied West Bank a &#039;breach of international law&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-22T16:29:40.256143+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/22/western-nations-warn-israel-to-end-illegal-settlement-expansion-violence?traffic_source=rss"
   }
 ]
