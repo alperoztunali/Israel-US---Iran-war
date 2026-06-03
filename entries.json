@@ -1,5 +1,71 @@
 [
   {
+    "id": "eec31fa73ef1",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T21:56",
+    "headline": "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
+    "excerpt": "Hamawy&#039;s victory in New Jersey likely to make him a rare US Congress member with firsthand experience in besieged Gaza.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-03T22:53:53.840919+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/3/who-is-adam-hamawy-doctor-who-served-in-gaza-is-on-the-path-to-us-congress?traffic_source=rss"
+  },
+  {
+    "id": "ef8931b9b1b1",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T21:16",
+    "headline": "Kuwait labels Iran attack ‘heinous aggression’",
+    "excerpt": "Kuwait’s defence ministry has labelled an attack on the country’s international airport as ‘heinous Iranian aggression’.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-03T22:53:53.840970+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss"
+  },
+  {
+    "id": "d24b66e5d1d0",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T21:15",
+    "headline": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
+    "excerpt": "Ukraine launched a series of air strikes targeting an oil facility and a naval air base near St Petersburg late Tuesday.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-06-03T22:53:53.841005+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss"
+  },
+  {
+    "id": "ef1def6f8219",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T20:38",
+    "headline": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
+    "excerpt": "US secretary of state dodges question at congressional hearing on Washington&#039;s position on Israel&#039;s nuclear programme.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-03T22:53:53.841044+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss"
+  },
+  {
+    "id": "c59a32748125",
+    "source": "PressTV",
+    "date": "2026-06-03T22:53",
+    "headline": "Iran does not seek war, but prepared to continue defending itself if necessary: FM Araghchi",
+    "excerpt": "Foreign Minister Abbas Araghchi says Iran does not seek war, but is prepared to continue defending itself if necessary.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-03T22:53:55.405961+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/03/769795/Iran-war-warning-United-States-Israel-Lebanon"
+  },
+  {
+    "id": "f2e957476b69",
+    "source": "PressTV",
+    "date": "2026-06-03T22:53",
+    "headline": "House approves measure to limit Trump's Iran war powers",
+    "excerpt": "The US House of Representatives approves a resolution aimed at limiting President Donald Trump's war powers in relation to Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-03T22:53:55.406008+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/03/769796/United-States-Trump-Iran-war-powers-House"
+  },
+  {
     "id": "b22f09c6af89",
     "source": "Al Jazeera",
     "date": "2026-06-03T19:55",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-24T12:12:07.143808+00:00",
     "link": "https://presstv.ir/Detail/2026/05/24/769194/Israeli-regime-continues-Killing-Palestinians-in-Gaza,-despite-ceasefire-agreement-"
-  },
-  {
-    "id": "b7da29e49780",
-    "source": "PressTV",
-    "date": "2026-05-24T12:12",
-    "headline": "Dozens killed in bomb attack targeting Pakistani train station",
-    "excerpt": "A terrorist railway station attack leaves at least 24 dead in Quetta, Pakistan.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-05-24T12:12:07.143838+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/24/769197/Pakistan-train-station-blast-leaves-24-killed-in-Quetta"
-  },
-  {
-    "id": "22506b6cad47",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T10:25",
-    "headline": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
-    "excerpt": "Trump announces progress on Iran peace deal, signalling the Strait of Hormuz, vital for global trade, could reopen soon.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-24T11:03:10.673566+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss"
-  },
-  {
-    "id": "9f96a19e7079",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T10:01",
-    "headline": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
-    "excerpt": "Iranian news agency says deal could see shipping levels through Strait of Hormuz return to pre-war levels within weeks.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-24T11:03:10.673612+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss"
-  },
-  {
-    "id": "5c884ff540c3",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T09:37",
-    "headline": "US, Iran inch closer to deal to end the war: What to know",
-    "excerpt": "The proposed US-Iran peace deal seeks to reopen the strategically vital Strait of Hormuz amid lingering disagreements.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-24T11:03:10.673646+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss"
-  },
-  {
-    "id": "3abe90f90257",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T09:20",
-    "headline": "Russia pounds Ukraine’s capital with hypersonic missile",
-    "excerpt": "Russia pounded Ukraine’s capital overnight on Saturday with drones and ballistic missiles.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-24T11:03:10.673681+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss"
-  },
-  {
-    "id": "1a835a2ed947",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T09:10",
-    "headline": "Trump says US and Iran deal to end war is ‘largely negotiated’",
-    "excerpt": "US President Trump announced that a Memorandum of Understanding on a peace deal with Iran has been ‘largely negotiated&#039;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-24T11:03:10.673716+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss"
   }
 ]
