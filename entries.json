@@ -1,5 +1,60 @@
 [
   {
+    "id": "a5c5bec0f4d3",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T01:26",
+    "headline": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain",
+    "excerpt": "The US military says it carried out ‘self-defence’ strikes on Iran’s Qeshm Island.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-03T01:48:11.703699+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss"
+  },
+  {
+    "id": "ee764325188d",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T00:11",
+    "headline": "Trump to attend delayed White House Correspondents’ Dinner after shooting",
+    "excerpt": "Press freedom advocates, however, have warned that the dinner could give Trump a podium to attack the news media.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-06-03T01:48:11.703758+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/3/trump-to-attend-delayed-white-house-correspondents-dinner-after-shooting?traffic_source=rss"
+  },
+  {
+    "id": "3ff36538b053",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T00:00",
+    "headline": "Iran war live: US hits Iran’s Qeshm, says Tehran targeted Kuwait, Bahrain",
+    "excerpt": "US President Trump reported to lash out at Israeli PM Netanyahu over Israel’s threat to strike Beirut suburbs.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-03T01:48:11.703796+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss"
+  },
+  {
+    "id": "beda7fb6810f",
+    "source": "Al Jazeera",
+    "date": "2026-06-02T23:35",
+    "headline": "Rania al‑Abbasi’s children: The truth revealed",
+    "excerpt": "Syrian commission confirms the deaths of Rania al-Abbasi’s six children, missing under Bashar al-Assad’s rule.",
+    "category": "Casualties",
+    "location": "Syria",
+    "addedAt": "2026-06-03T01:48:11.703821+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/rania-al%e2%80%91abbasis-children-the-truth-revealed?traffic_source=rss"
+  },
+  {
+    "id": "2bb529825ebc",
+    "source": "PressTV",
+    "date": "2026-06-03T01:48",
+    "headline": "IRGC hits enemy vessel, US Fifth Fleet HQ, American airbase after violations near Strait of Hormuz",
+    "excerpt": "The IRGC announces retaliatory strikes against an enemy vessel, the US Fifth Fleet Headquarters, and a regional American airbase after attacks on Iranian assets.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-03T01:48:13.528704+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/03/769737/Iran-IRGC-attacks-United-States-Fifth-Fleet-airbase"
+  },
+  {
     "id": "59d14da86c07",
     "source": "Al Jazeera",
     "date": "2026-06-02T21:59",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-23T16:13:42.297647+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-arrest-two-children-in-occupied-west-bank-village?traffic_source=rss"
-  },
-  {
-    "id": "73db39ae5c9a",
-    "source": "PressTV",
-    "date": "2026-05-23T16:13",
-    "headline": "Pezeshkian: Iran seeks its legitimate rights in US talks, but past experiences demand caution",
-    "excerpt": "Iran’s President Masoud Pezeshkian says his country seeks only to restore the legitimate rights of the nation.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-23T16:13:43.941412+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/23/769154/Pezeshkian--Iran-seeks-restore-legitimate-rights-nation"
-  },
-  {
-    "id": "1dd61654ba41",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T15:00",
-    "headline": "Five police officers, 13 year-old boy killed in Israeli attack on Gaza",
-    "excerpt": "Attack on a police post in northern Gaza comes as dozens of people were wounded in Israeli attacks in the past 48 hours.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-23T15:05:43.790539+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/23/five-police-officers-13-year-old-boy-killed-in-israeli-attack-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "7d640b486707",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T13:55",
-    "headline": "Turkish and Syrian officials detain 10 individuals with alleged ISIL ties",
-    "excerpt": "Those arrested reportedly took part in what officials described as &#039;terrorist attacks&#039; in Turkiye.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-05-23T15:05:43.790591+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/23/turkish-and-syrian-officials-detain-10-individuals-with-alleged-isil-ties?traffic_source=rss"
-  },
-  {
-    "id": "c1b2e96ac62b",
-    "source": "PressTV",
-    "date": "2026-05-23T15:05",
-    "headline": "Iran has no trust in US, will never back down from its rights: Qalibaf tells Munir",
-    "excerpt": "The Iranian Parliament speaker says Tehran has no trust in the US and will never retreat from its national rights in talks with Washington.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-23T15:05:45.156920+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/23/769145/Iran-Pakistan-Qalibaf-Munir"
-  },
-  {
-    "id": "8ec174f166ed",
-    "source": "PressTV",
-    "date": "2026-05-23T15:05",
-    "headline": "Iran ready for historic fight against any new aggression: Sr. army commander",
-    "excerpt": "A senior Iranian Army commander says the country is ready for a historic fight against any new aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-23T15:05:45.156967+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/23/769147/Iran-Army-commander-Sayyari-defense-US-Israel-threats-Khorramshahr"
   }
 ]
