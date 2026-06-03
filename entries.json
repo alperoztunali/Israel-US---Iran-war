@@ -1,5 +1,60 @@
 [
   {
+    "id": "527080abb084",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T05:26",
+    "headline": "What’s happening on day 96 of Iran war as US, Iran engage in new attacks",
+    "excerpt": "Rubio says the US will lift sanctions on Iran only if it gives up enriched uranium, rejecting a Hormuz-linked deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-03T06:58:36.780613+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks?traffic_source=rss"
+  },
+  {
+    "id": "159cd1273969",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T05:06",
+    "headline": "Kyiv residents seek shelter during renewed Russian attacks",
+    "excerpt": "Residents in Kyiv took shelter as Russian attacks continued into the daytime hours after overnight strikes.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-03T06:58:36.780666+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kyiv-residents-seek-shelter-during-renewed-russian-attacks?traffic_source=rss"
+  },
+  {
+    "id": "26f1ca5e9f77",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T04:33",
+    "headline": "Accident on Kuwait motorway as Iranian missiles fly overhead",
+    "excerpt": "Video shows a car accident occurring on a road in Kuwait City as missiles flew overhead.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-03T06:58:36.780692+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/accident-on-kuwait-motorway-as-iranian-missiles-fly-overhead?traffic_source=rss"
+  },
+  {
+    "id": "b5589c8485aa",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T03:15",
+    "headline": "Benjamin Netanyahu faces Israeli backlash over Lebanon strategy",
+    "excerpt": "Hawkish voices in Israel have accused Prime Minister Benjamin Netanyahu of holding back on bombing Beirut.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-03T06:58:36.780715+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/benjamin-netanyahu-faces-israeli-backlash-over-lebanon-strategy?traffic_source=rss"
+  },
+  {
+    "id": "396d52e9226c",
+    "source": "PressTV",
+    "date": "2026-06-03T06:58",
+    "headline": "Hamas warns Israel of 'heavy price' for violations",
+    "excerpt": "Hamas' armed wing says efforts to hold the Israeli regime accountable for its atrocities will continue.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-03T06:58:39.203028+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/03/769738/Hamas-warning-Israel-armed-wing-Ezzedine-al-Qassam"
+  },
+  {
     "id": "a5c5bec0f4d3",
     "source": "Al Jazeera",
     "date": "2026-06-03T01:26",
@@ -5443,60 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-05-23T17:30:00.316046+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/spanish-police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss"
-  },
-  {
-    "id": "53f4de563b0f",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T16:06",
-    "headline": "Iran sends ‘mixed’ messages as Pakistani mediators depart Tehran",
-    "excerpt": "Pakistan’s army chief, Field Marshal Asim Munir, has reportedly departed Iran after holding multiple meetings.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-23T17:30:00.316085+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss"
-  },
-  {
-    "id": "5fc512b77ee3",
-    "source": "PressTV",
-    "date": "2026-05-23T17:30",
-    "headline": "Iran, US moving closer to 'finalizing memorandum of understanding': Baghaei",
-    "excerpt": "Iran says its views are converging with the United States on a 14-point memorandum aimed at halting the US-Israeli-imposed war, unlocking Tehran’s frozen assets, and ending American maritime piracy.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-23T17:30:02.111967+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/23/769157/Iran-US-Baghaei-understanding-nuclear"
-  },
-  {
-    "id": "257bb876194a",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T15:53",
-    "headline": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
-    "excerpt": "Overnight Israeli strikes devastated the Nuseirat and Bureij refugee camps in central Gaza despite an ongoing ceasefire.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-23T16:13:42.297564+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss"
-  },
-  {
-    "id": "88dccb23f69e",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T15:52",
-    "headline": "US Secretary of State kicks off India visit, invites Modi to White House",
-    "excerpt": "US-Israel war with Iran among issues looming large as Rubio expected to seek to mend in ties with New Delhi.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-23T16:13:42.297615+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss"
-  },
-  {
-    "id": "2f79e941f475",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T15:42",
-    "headline": "Israeli forces arrest two children in occupied West Bank village",
-    "excerpt": "Israeli soldiers arrest two Palestinian children during a raid on al-Mughayyir village in the occupied West Bank.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-23T16:13:42.297647+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-arrest-two-children-in-occupied-west-bank-village?traffic_source=rss"
   }
 ]
