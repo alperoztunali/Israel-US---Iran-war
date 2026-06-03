@@ -1,5 +1,126 @@
 [
   {
+    "id": "d3a68dcea551",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T11:42",
+    "headline": "Iran, Kuwait, Bahrain hit: Is the war in the Gulf escalating again?",
+    "excerpt": "Secretary of State Rubio tells US lawmakers the war on Iran is over, amid recent attacks on Iran and Gulf countries.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-03T12:02:02.586343+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/3/iran-kuwait-bahrain-hit-is-the-war-in-the-gulf-escalating-again?traffic_source=rss"
+  },
+  {
+    "id": "300046f13e9d",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T10:41",
+    "headline": "Israel’s invasion of southern Lebanon devastates centuries of history",
+    "excerpt": "From Phoenician temples to Crusader castles, heritage sites bear the brunt of Israel&#039;s expanding military offensive.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-03T12:02:02.586399+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/3/israels-invasion-of-southern-lebanon-devastates-centuries-of-history?traffic_source=rss"
+  },
+  {
+    "id": "620382b5c50c",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T09:22",
+    "headline": "Hezbollah video shows attack on Israeli troops at Lebanon’s Beaufort Castle",
+    "excerpt": "Hezbollah has released drone video showing attacks targeting Israeli forces occupying Beaufort Castle",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-06-03T12:02:02.586428+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/hezbollah-video-shows-attack-on-israeli-troops-at-lebanons-beaufort-castle?traffic_source=rss"
+  },
+  {
+    "id": "f84511cb50f2",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T08:56",
+    "headline": "US ‘disables’ ship allegedly bound for Iranian port",
+    "excerpt": "US Central Command released video of it targeting a tanker that it says was en route to Iran’s Kharg Island in the Gulf.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-03T12:02:02.586457+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-disables-ship-allegedly-bound-for-iranian-port?traffic_source=rss"
+  },
+  {
+    "id": "449d0fdbfcd6",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T08:39",
+    "headline": "Iranian drone attack kills one in Kuwait after US strikes Qeshm Island",
+    "excerpt": "Gulf country&#039;s airport is hit as clashes go on with diplomacy between Washington and Tehran showing little progress.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-06-03T12:02:02.586476+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island?traffic_source=rss"
+  },
+  {
+    "id": "37117fd7e945",
+    "source": "PressTV",
+    "date": "2026-06-03T12:02",
+    "headline": "Iran's armed forces: Enemy forced to accept new Iranian rules",
+    "excerpt": "Iran’s military says the US-Israeli enemies will have no choice but to surrender before the divine will of the Armed Forces and the vigilant nation.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-03T12:02:08.842551+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/03/769758/Iran%E2%80%99s-military-Enemy-No-choice-but-to-surrender"
+  },
+  {
+    "id": "d5612879dfaa",
+    "source": "PressTV",
+    "date": "2026-06-03T12:02",
+    "headline": "Iran vows to use ‘all capabilities’ to confront any new US aggression",
+    "excerpt": "Iran’s Foreign Ministry condemns aggressive American attacks against an Iranian oil tanker and a telecommunications mast on the island of Qeshm.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-03T12:02:08.842593+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/03/769754/Iran-condemns-US-aggression-against-Iranian-tanker,-telecom-mast-in-Qeshm"
+  },
+  {
+    "id": "3471cea3e3a6",
+    "source": "PressTV",
+    "date": "2026-06-03T12:02",
+    "headline": "Iranian officials call for intensified retaliation amid warning of normalized US attacks",
+    "excerpt": "An Iranian parliamentary official says confrontation with the United States must be intensified, while a political analyst warns Washington is seeking to normalize attacks on the country under the pretext of a ceasefire.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-03T12:02:08.842630+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/03/769745/Iranian-officials-call-intensified-confrontation-with-US,-warn-normalized-attacks"
+  },
+  {
+    "id": "8d45b44e18d2",
+    "source": "PressTV",
+    "date": "2026-06-03T12:02",
+    "headline": "Israeli troops bleed as US report finds Hezbollah more capable than expected",
+    "excerpt": "Hezbollah says it has hit Israeli positions and tanks in the southern Lebanese town of al-Bayyada.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-03T12:02:08.842651+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/03/769746/Lebanon-Hezbollah-Israel-missiles-Al-Bayyada-Beirut-Merkava-tanks-US-Trump-Netanyahu-drones-"
+  },
+  {
+    "id": "e72626053138",
+    "source": "PressTV",
+    "date": "2026-06-03T12:02",
+    "headline": "US assassination claim aimed at concealing crimes against Iranians: FM spox",
+    "excerpt": "Iran has rejected US assassination allegation, slamming Washington for trying to conceal its own crimes against the Iranian people.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-03T12:02:08.842677+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/03/769761/Iran-US-Marco-Rubio-assassination-allegations-war-crimes"
+  },
+  {
+    "id": "924beeab9137",
+    "source": "PressTV",
+    "date": "2026-06-03T12:02",
+    "headline": "Lula condemns Rubio as enemy of Latin America as US-Brazil tensions rise",
+    "excerpt": "The Brazilian president condemns Rubio as “anti-Latin American” amid growing tensions between Brasilia and Washington.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-03T12:02:08.842717+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/03/769752/Brazilian-president-condemns-US-state-secretary-as-%E2%80%98anti-Latin-America%E2%80%99-as-Brasilia-Washington-Tensions-Deepen"
+  },
+  {
     "id": "527080abb084",
     "source": "Al Jazeera",
     "date": "2026-06-03T05:26",
@@ -5377,126 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-23T23:12:33.592607+00:00",
     "link": "https://presstv.ir/Detail/2026/05/23/769157/Iran-US-Baghaei-understanding-nuclear"
-  },
-  {
-    "id": "d78cf8ab9566",
-    "source": "PressTV",
-    "date": "2026-05-23T23:12",
-    "headline": "'Iran won the war': Former senior Israeli official",
-    "excerpt": "Former senior Israeli official says Iran has emerged victorious out of the latest bout of American-Israeli aggression targeting the Islamic Republic.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-23T23:12:33.592649+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/23/769173/Israel-Iran-United-States-war"
-  },
-  {
-    "id": "55662795c923",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T21:14",
-    "headline": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
-    "excerpt": "Funerals were held for paramedics killed by two Israeli air strikes in southern Lebanon on Friday.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-23T22:03:11.625682+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "02819b6487ae",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T21:09",
-    "headline": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
-    "excerpt": "US president says deal would include reopening Strait of Hormuz after call with Middle East leaders.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-23T22:03:11.625733+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss"
-  },
-  {
-    "id": "d2c1e62b46c7",
-    "source": "PressTV",
-    "date": "2026-05-23T22:03",
-    "headline": "Positive step in talks to end imposed war possible if other side shows commitment: Envoy",
-    "excerpt": "Iran's ambassador to Pakistan says a positive step concerning Islamabad-mediated interactions between the Islamic Republic and the United States is possible.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-23T22:03:13.185334+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/23/769172/Iran-United-States-Pakistan"
-  },
-  {
-    "id": "b9d6397bc988",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T20:35",
-    "headline": "‘Fjord’ by Romania’s Cristian Mungiu wins Cannes top film prize",
-    "excerpt": "This marks the second time that Romanian director Cristian Mungiu has won the prestigious prize.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-05-23T20:59:54.428788+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/23/fjord-by-romanias-cristian-mungiu-wins-cannes-top-film-prize?traffic_source=rss"
-  },
-  {
-    "id": "65631f314d42",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T19:18",
-    "headline": "Iran move World Cup base from US to Mexico with FIFA approval",
-    "excerpt": "Iran were expected to fly from Turkiye to Arizona to continue World Cup 2026 preparations but will switch to Mexico.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-23T19:52:01.089468+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval?traffic_source=rss"
-  },
-  {
-    "id": "73349821abd8",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T18:37",
-    "headline": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
-    "excerpt": "Munir met senior Iranian officials on Saturday as Islamabad and Doha push to finalise a memorandum to end the war.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-23T19:52:01.089513+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss"
-  },
-  {
-    "id": "908b4c7ecfff",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T18:30",
-    "headline": "Police beat and detain Gaza flotilla activists at airport",
-    "excerpt": "Police forcibly detained members of the Global Sumud Flotilla and their supporters at Bilbao Airport.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-23T19:52:01.089544+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss"
-  },
-  {
-    "id": "5787d95a5a7b",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T17:56",
-    "headline": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
-    "excerpt": "Latest Truth Social post comes amid &#039;delicate diplomacy&#039;, expert says, as US and Iran indicate progress in talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-23T18:38:11.751220+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss"
-  },
-  {
-    "id": "d4db4d4a5364",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T17:14",
-    "headline": "Thousands rally in Taiwan to boost defence spending amid China tensions",
-    "excerpt": "Thousands rally in Taipei backing higher defence spending after US pauses $14 billion arms sale to Taiwan.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-23T17:30:00.316001+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/thousands-rally-in-taiwan-to-boost-defence-spending-amid-china-tensions?traffic_source=rss"
-  },
-  {
-    "id": "1e9732810bb1",
-    "source": "Al Jazeera",
-    "date": "2026-05-23T16:38",
-    "headline": "Spanish police beat and detain Gaza flotilla activists at airport",
-    "excerpt": "Spanish police clashed with members of the Global Sumud Flotilla and supporters at Bilbao Airport.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-23T17:30:00.316046+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/spanish-police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss"
   }
 ]
