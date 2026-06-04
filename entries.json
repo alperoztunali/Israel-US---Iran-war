@@ -1,5 +1,27 @@
 [
   {
+    "id": "cd4e48559e9d",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T21:40",
+    "headline": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
+    "excerpt": "Al Jazeera’s Obaida Hitto has the latest from Lebanon where a new diplomatic push has done little to quell violence.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-04T22:46:23.313493+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss"
+  },
+  {
+    "id": "bd3e405fa66a",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T21:07",
+    "headline": "Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon",
+    "excerpt": "Hezbollah has condemned a US-brokered ceasefire framework accepted by Israel and Lebanon",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-04T22:46:23.313539+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/hezbollah-rejects-us-brokered-ceasefire-deal-between-israel-and-lebanon?traffic_source=rss"
+  },
+  {
     "id": "7aec00bdd4c4",
     "source": "Al Jazeera",
     "date": "2026-06-04T19:43",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-25T10:50:42.540982+00:00",
     "link": "https://presstv.ir/Detail/2026/05/25/769253/Pezeshkian--We-not-surrender-enemy-s-excessive-demands"
-  },
-  {
-    "id": "f2a1a78da8ce",
-    "source": "PressTV",
-    "date": "2026-05-25T10:50",
-    "headline": "Iran says 20 airports resume operations after US-Israeli aggression",
-    "excerpt": "An Iranian civil aviation official says 20 airports across the country have successfully resumed operations following the recent US-Israeli aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-25T10:50:42.541007+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/25/769247/Iran-CAO-airports-Akhavan"
-  },
-  {
-    "id": "2f8b5c8d902a",
-    "source": "PressTV",
-    "date": "2026-05-25T10:50",
-    "headline": "Sudanese army captures area near Ethiopian border after confronting militants",
-    "excerpt": "The Sudanese army says its forces have captured an area in the Blue Nile state near the Ethiopian border after attacking the Rapid Support Forces (RSF) militants.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-05-25T10:50:42.541037+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/25/769239/Sudan-army-captures-area-Blue-Nile-state-Ethiopian-border-clashes-RSF"
   }
 ]
