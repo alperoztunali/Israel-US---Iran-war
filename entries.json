@@ -1,5 +1,49 @@
 [
   {
+    "id": "7aec00bdd4c4",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T19:43",
+    "headline": "Block the bombs: Support grows for US bill to restrict arms for Israel",
+    "excerpt": "&#039;Long road&#039; remains ahead as bill garners 73 co-sponsors one year after its introduction in Congress, advocates say.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-04T21:03:47.953617+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss"
+  },
+  {
+    "id": "8e5c220ef822",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T18:59",
+    "headline": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
+    "excerpt": "Russia&#039;s latest attacks come as Ukraine commemorates the children killed by Russia over the course of the all-out war.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-04T21:03:47.953662+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "ff7e82b74f81",
+    "source": "PressTV",
+    "date": "2026-06-04T21:03",
+    "headline": "Millions across Iran renew allegiance to new Leader at Ghadir celebrations",
+    "excerpt": "Millions of Iranians have poured onto the streets of Tehran and cities across the country for the annual \"10-Kilometer Ghadir Celebration\".",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-04T21:03:49.531929+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/04/769843/Millions-across-Iran-renew-allegiance-to-new-Leader-at-Ghadir-celebrations"
+  },
+  {
+    "id": "3323e0351454",
+    "source": "PressTV",
+    "date": "2026-06-04T21:03",
+    "headline": "Hezbollah drone targets Netanyahu's location during visit to north",
+    "excerpt": "A drone launched by Lebanese Hezbollah strikes the area where Israeli prime minister Benjamin Netanyahu and senior security officials were present.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-06-04T21:03:49.531963+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/04/769841/Hezbollah-targets-Netanyahu-s-location-northern-occupied-Palestine"
+  },
+  {
     "id": "d33cb7522905",
     "source": "Al Jazeera",
     "date": "2026-06-04T18:24",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-25T10:50:42.541037+00:00",
     "link": "https://presstv.ir/Detail/2026/05/25/769239/Sudan-army-captures-area-Blue-Nile-state-Ethiopian-border-clashes-RSF"
-  },
-  {
-    "id": "ffed1b2af16a",
-    "source": "PressTV",
-    "date": "2026-05-25T10:50",
-    "headline": "Six civilians killed in Israeli strikes on southern Lebanon amid evacuation orders",
-    "excerpt": "At least six civilians have been killed in the latest Israeli strikes on southern Lebanon amid new evacuation orders.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-25T10:50:42.541055+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/25/769243/Six-civilians-killed-in-Israeli-strikes-on-southern-Lebanon-amid-evacuation-orders-"
-  },
-  {
-    "id": "18122cb051db",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T03:40",
-    "headline": "Russia invites media to view deadly strike on college in Luhansk",
-    "excerpt": "Russia provided a rare look at damage caused by a Ukrainian strike on a college in occupied Luhansk",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-25T06:11:03.919635+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/russia-invites-media-to-view-deadly-strike-on-college-in-luhansk?traffic_source=rss"
-  },
-  {
-    "id": "23d22b5b62ba",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T01:55",
-    "headline": "Oil prices fall amid mixed signals on US-Iran peace deal",
-    "excerpt": "Japan&#039;s stock market surges to record high on hopes of an end to US-Israel war on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-25T06:11:03.919678+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss"
-  },
-  {
-    "id": "275becd8d904",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T01:29",
-    "headline": "Syria holds legislative elections in former Kurdish-controlled areas",
-    "excerpt": "Al Jazeera’s Heidi Pett reports on the Syrian legislative elections in Hasakah and the town of Kobane.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-05-25T06:11:03.919720+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/syria-holds-legislative-elections-in-former-kurdish-controlled-areas?traffic_source=rss"
   }
 ]
