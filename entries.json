@@ -1,5 +1,71 @@
 [
   {
+    "id": "504b28d7d9e8",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T05:17",
+    "headline": "Germany admits failure to secure UNSC seat likely due to support for Israel",
+    "excerpt": "For the first time, Germany has failed to win a non-permanent seat on the UN Security Council.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-04T06:24:20.752976+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/germany-admits-failure-to-secure-unsc-seat-likely-due-to-support-for-israel?traffic_source=rss"
+  },
+  {
+    "id": "b713d835c8aa",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T04:46",
+    "headline": "Israeli strikes on residential buildings kill nine in Gaza City",
+    "excerpt": "Israeli strikes on residential buildings have killed nine Palestinians, setting homes ablaze and leaving destruction.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-04T06:24:20.753013+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/israeli-strikes-on-residential-buildings-kill-nine-in-gaza-city?traffic_source=rss"
+  },
+  {
+    "id": "b18d539aed33",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T04:40",
+    "headline": "Indonesia’s rupiah falls to record low against US dollar",
+    "excerpt": "Currency plunge comes as energy shock from the Iran war casts a cloud over Southeast Asian economies.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-04T06:24:20.753051+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar?traffic_source=rss"
+  },
+  {
+    "id": "03b9c75f5840",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T02:38",
+    "headline": "Elon Musk’s SpaceX eyes $1.77tn valuation ahead of blockbuster IPO",
+    "excerpt": "Texas-based rocket company announces plans to sell shares at $135 apiece, aiming to raise approximately $75bn.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-04T06:24:20.753084+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/4/elon-musks-spacex-eyes-1-77tn-valuation-ahead-of-historic-ipo?traffic_source=rss"
+  },
+  {
+    "id": "80920680cb82",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T02:04",
+    "headline": "Rubio distances himself from Netanyahu’s Gaza plan",
+    "excerpt": "House Democrats question US Secretary of State Marco Rubio about the lack of progress on Trump’s 20 point Gaza plan.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-04T06:24:20.753141+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/rubio-distances-himself-from-netanyahus-gaza-plan?traffic_source=rss"
+  },
+  {
+    "id": "7aa323af51c1",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T00:00",
+    "headline": "Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza",
+    "excerpt": "Lebanon&#039;s Health Ministry reports that 3,516 people have now been killed by Israeli attacks on the country since March.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-06-04T06:24:20.753169+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss"
+  },
+  {
     "id": "cab13857785d",
     "source": "Al Jazeera",
     "date": "2026-06-04T00:00",
@@ -5432,71 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-24T15:34:33.250176+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss"
-  },
-  {
-    "id": "a0d9a72ecfcd",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T13:45",
-    "headline": "‘We won’t know who won until final outcome of US-Iran ceasefire’",
-    "excerpt": "‘We won&#039;t know who won until final outcome of US-Iran ceasefire’",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-24T14:02:51.221543+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/we-wont-know-who-won-until-final-outcome-of-us-iran?traffic_source=rss"
-  },
-  {
-    "id": "671a00757991",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T13:26",
-    "headline": "Iran hints US will end war in ‘Persian-style’ peace on Tehran’s terms",
-    "excerpt": "Iran’s foreign ministry spokesman invoked ancient Persia’s victory over Rome in comparison to today’s US-Iran talks.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-24T14:02:51.221592+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iran-hints-us-will-end-war-in-persian-style-peace-on-tehrans-terms?traffic_source=rss"
-  },
-  {
-    "id": "a15c6eb1c630",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T12:35",
-    "headline": "Suicide car bombing attack on a train in Pakistan kills dozens",
-    "excerpt": "A Baloch separatist group has claimed responsibility for an attack on a train carrying soldiers in Quetta, Pakistan.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-05-24T14:02:51.221638+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/suicide-car-bombing-attack-on-a-train-in-pakistan-kills-dozens?traffic_source=rss"
-  },
-  {
-    "id": "211b35f37a3f",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T12:19",
-    "headline": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people",
-    "excerpt": "More than 50 people injured in attack on train carrying military personnel in Quetta, capital of southwestern province.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-24T14:02:51.221675+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss"
-  },
-  {
-    "id": "2fe547f0d548",
-    "source": "PressTV",
-    "date": "2026-05-24T14:02",
-    "headline": "Leader’s strategies for Persian Gulf, Hormuz Strait to ensure future of region: Top general",
-    "excerpt": "A senior Iranian military commander says Ayatollah Khamenei’s strategies for the Persian Gulf and the Strait of Hormuz will shape new regional and global order.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-24T14:02:52.775915+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/24/769206/Iran-Abdollahi-Persian-Gulf-Hormuz-Strait"
-  },
-  {
-    "id": "c4aba04a1ac4",
-    "source": "PressTV",
-    "date": "2026-05-24T14:02",
-    "headline": "President: Iran ready to assure world it is not seeking nuclear weapons",
-    "excerpt": "Iranian President Masoud Pezeshkian says Tehran is ready to assure the world it is not seeking nuclear weapons.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-05-24T14:02:52.775958+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/24/769205/Pezeshkian-Iran-ready-to-assure-world-not-seeking-nuclear-weapons"
   }
 ]
