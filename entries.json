@@ -1,5 +1,49 @@
 [
   {
+    "id": "cab13857785d",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T00:00",
+    "headline": "Iran war live: Tensions simmer after latest US-Iran clashes in Gulf",
+    "excerpt": "Lebanon&#039;s Health Ministry reports that 3,516 people have now been killed by Israeli attacks on the country since March.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-06-04T01:44:31.647741+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss"
+  },
+  {
+    "id": "d8d700ab32d3",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T23:22",
+    "headline": "Trump seeks to split Lebanon talks from war on Iran negotiations",
+    "excerpt": "Trump says he wants to keep talks on the conflict in Lebanon separate from negotiations over the war with Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-04T01:44:31.647785+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss"
+  },
+  {
+    "id": "b7450aeb3a04",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T23:02",
+    "headline": "Kuwait releases CCTV footage of deadly Iranian strike on airport",
+    "excerpt": "Kuwait has released surveillance footage of what it says shows an Iranian drone strike on Kuwait International Airport.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-04T01:44:31.647807+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss"
+  },
+  {
+    "id": "d1b6d6025829",
+    "source": "Al Jazeera",
+    "date": "2026-06-03T22:10",
+    "headline": "US House passes Iran war powers resolution in rare pushback against Trump",
+    "excerpt": "Four Republicans allied with Democrats to pass bill to rein in Trump, though it is likely to face a presidential veto.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-04T01:44:31.647839+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss"
+  },
+  {
     "id": "eec31fa73ef1",
     "source": "Al Jazeera",
     "date": "2026-06-03T21:56",
@@ -5454,49 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-24T14:02:52.775958+00:00",
     "link": "https://presstv.ir/Detail/2026/05/24/769205/Pezeshkian-Iran-ready-to-assure-world-not-seeking-nuclear-weapons"
-  },
-  {
-    "id": "35e2d9c0da24",
-    "source": "PressTV",
-    "date": "2026-05-24T14:02",
-    "headline": "IRGC reports increased transit rates in Hormuz with 33 ships passing in 24 hours",
-    "excerpt": "The IRGC says transit via the Strait of Hormuz is flowing smoothly under its ‘strong control’ arrangements.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-24T14:02:52.775989+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/24/769210/IRGC-reports-increased-transit-rates-in-Hormuz-with-33-ships-passing-in-24-hours-"
-  },
-  {
-    "id": "dea4b5d603b6",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T11:41",
-    "headline": "Israeli attack on Gaza kills three family members, including infant",
-    "excerpt": "Mohammad Abu Mallouh, ​Alaa Zaqlan and their child, Osama, killed in the attack on Nuseirat refugee camp, medics say.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-24T12:12:05.090484+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss"
-  },
-  {
-    "id": "1e6681df8b2e",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T11:07",
-    "headline": "The GCC should insure itself against the next Strait of Hormuz crisis",
-    "excerpt": "For that, collective action will be needed now.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-24T12:12:05.090529+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/5/24/the-gcc-should-insure-itself-against-the-next-strait-of-hormuz-crisis?traffic_source=rss"
-  },
-  {
-    "id": "ddd22d2b8224",
-    "source": "PressTV",
-    "date": "2026-05-24T12:12",
-    "headline": "Israeli strikes kill family of three, five police officers in central Gaza",
-    "excerpt": "Israel continues its strike on Gaza, killing civilians and police officers alike, despite a ceasefire with Hamas.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-24T12:12:07.143808+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/24/769194/Israeli-regime-continues-Killing-Palestinians-in-Gaza,-despite-ceasefire-agreement-"
   }
 ]
