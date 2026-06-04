@@ -1,5 +1,49 @@
 [
   {
+    "id": "ebcdd61c9104",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T12:50",
+    "headline": "N Korea’s Kim Jong Un calls for ‘exponential’ expansion of nuclear arsenal",
+    "excerpt": "Kim says expansion necessary due to worsening security threats, long-term confrontations with &#039;most ferocious enemies&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-04T13:41:55.514413+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/4/n-koreas-kim-jong-un-calls-for-exponential-expansion-of-nuclear-arsenal?traffic_source=rss"
+  },
+  {
+    "id": "0777f786c29e",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T12:06",
+    "headline": "Israel’s Smotrich announces plan for 2,162 homes in occupied West Bank",
+    "excerpt": "The far-right finance minister says the new houses will &#039;strengthen our hold on the land&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-04T13:41:55.514469+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/4/israels-smotrich-announces-plan-for-2162-homes-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "61d35d2b901e",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T10:58",
+    "headline": "Itamar Ben-Gvir: The face of Israel’s hard right — or the face of Israel?",
+    "excerpt": "Despite internal criticism, analysts argue Ben-Gvir holds a mirror to much of Israeli society.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-04T13:41:55.514508+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/4/itamar-ben-gvir-the-face-of-israels-hard-right-or-the-face-of?traffic_source=rss"
+  },
+  {
+    "id": "18815068bb87",
+    "source": "Al Jazeera",
+    "date": "2026-06-04T10:29",
+    "headline": "Mehdi Taremi: Iran’s journey to the 2026 World Cup",
+    "excerpt": "Iranian footballer Mehdi Taremi talks to Al Jazeera ahead of one of the most politically charged World Cups in history.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-04T13:41:55.514540+00:00",
+    "link": "https://www.aljazeera.com/video/game-theory/2026/6/4/mehdi-taremi-irans-journey-to-the-2026-world-cup?traffic_source=rss"
+  },
+  {
     "id": "f9f6e9c468c4",
     "source": "Al Jazeera",
     "date": "2026-06-04T09:50",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-24T21:12:59.157364+00:00",
     "link": "https://presstv.ir/Detail/2026/05/24/769226/Hezbollah-will-never-accept-disarmament--Sheikh-Qassem"
-  },
-  {
-    "id": "df36446a806f",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T19:30",
-    "headline": "How will Iran war fallout impact upcoming US elections?",
-    "excerpt": "Trump purges Republican critics, but are the prospects for his party in upcoming elections heading up or down?",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-24T20:10:06.146548+00:00",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss"
-  },
-  {
-    "id": "fe52335b3063",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T19:09",
-    "headline": "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
-    "excerpt": "Israel&#039;s attacks in southern Lebanon are expanding despite supposed ceasefire.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-24T20:10:06.146590+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss"
-  },
-  {
-    "id": "ec795c23e332",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T18:22",
-    "headline": "Zelenskyy speaks to Al Jazeera at site of major Russian attacks in Kyiv",
-    "excerpt": "Russia has launched one of its largest attacks on Kyiv since the war began, firing hundreds of drones and missiles.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-24T18:54:10.953137+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/zelenskyy-speaks-to-al-jazeera-at-site-of-major-russian-attacks-in-kyiv?traffic_source=rss"
-  },
-  {
-    "id": "2d5407452817",
-    "source": "Al Jazeera",
-    "date": "2026-05-24T18:04",
-    "headline": "Fatou Bensouda on Israeli threats against her and the ICC",
-    "excerpt": "The court&#039;s former chief prosecutor says justice is being sacrificed to political interests.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-24T18:54:10.953182+00:00",
-    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/24/fatou-bensouda-on-israeli-threats-against-her-and-the-icc?traffic_source=rss"
   }
 ]
