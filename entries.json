@@ -1,5 +1,82 @@
 [
   {
+    "id": "3ed256e1b562",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T20:49",
+    "headline": "Iran footballers issued US visas for World Cup, says White House",
+    "excerpt": "Iran players get visas 10 days before their opening ‌World Cup match against New Zealand in Los Angeles on June 15.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-05T21:08:59.259382+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss"
+  },
+  {
+    "id": "4bfcd42b1f6a",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T20:36",
+    "headline": "Trump hails jobs surge, says Iran talks ‘going well’",
+    "excerpt": "Trump hailed jobs growth before pivoting to Iran, saying negotiations with Tehran &quot;seem to be going quite well&quot;.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-05T21:08:59.259429+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss"
+  },
+  {
+    "id": "d37dd48a6639",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T20:17",
+    "headline": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
+    "excerpt": "A drone attack killed a young woman and injured 15 others near Khan Younis, reported the Wafa news agency.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-06-05T21:08:59.259457+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "32c9f3313459",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T19:51",
+    "headline": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
+    "excerpt": "French activists who took part in a Gaza-bound foreign aid flotilla accuse Israeli forces of abuse and torture.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-05T21:08:59.259488+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss"
+  },
+  {
+    "id": "f8c21622e075",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T19:40",
+    "headline": "Families clear rubble after overnight Israeli strikes in Gaza",
+    "excerpt": "Families in Az-Zawayda, central Gaza, clear rubble after overnight Israeli strikes in Gaza",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-05T21:08:59.259517+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "e1941c6e1828",
+    "source": "PressTV",
+    "date": "2026-06-05T21:09",
+    "headline": "Leader's advisor: US would enter 'dark and endless corridor' if it resumes aggression against Iran",
+    "excerpt": "A senior advisor to Iran's Leader strongly warns the United States against leading itself into a quagmire by renewing aggression against the Islamic Republic.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-05T21:09:04.937022+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/05/769902/Iran-United-States-Leader-advisor-warning-CNN-interview"
+  },
+  {
+    "id": "e6c7551532f7",
+    "source": "PressTV",
+    "date": "2026-06-05T21:09",
+    "headline": "Leader grants pardons, sentence reductions to over 2,000 to mark Eid al-Ghadir",
+    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei has agreed to pardon, reduce, and commute the sentences of more than 2,000 convicts on the occasion of Eid al-Ghadir, following a request by the head of Iran’s judiciary.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-05T21:09:04.937085+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/05/769870/Leader-grants-pardons,-sentence-reductions-to-hundreds-of-convicts"
+  },
+  {
     "id": "2a13cfbb5669",
     "source": "Al Jazeera",
     "date": "2026-06-05T18:50",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-26T08:01:26.672523+00:00",
     "link": "https://presstv.ir/Detail/2026/05/26/769301/17-civilians-killed-as-Netanyahu-orders-Israeli-military-to-step-up-strikes-on-southern-Lebanon-"
-  },
-  {
-    "id": "42273643e390",
-    "source": "PressTV",
-    "date": "2026-05-26T08:01",
-    "headline": "Islamabad won’t normalize with Israel, defense minister says despite Trump’s push",
-    "excerpt": "Pakistan’s defense minister asserts opposition to his country's normalizing ties with the Israeli regime amid pressure by US President Donald Trump.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-26T08:01:26.672590+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/26/769299/Pakistan-Israel-United-States-normalization-Trump"
-  },
-  {
-    "id": "17921c998c45",
-    "source": "PressTV",
-    "date": "2026-05-26T08:01",
-    "headline": "US must earn Iran’s trust with five necessary steps or there will be no deal: Senior MP",
-    "excerpt": "Azizi says the US must take five necessary confidence-building steps before it can reach any agreement with Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-26T08:01:26.672630+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/26/769297/US-must-earn-Iran-s-trust-five-necessary-steps-or-there-will-be-no-deal--Senior-MP"
-  },
-  {
-    "id": "ac5937d08435",
-    "source": "PressTV",
-    "date": "2026-05-26T08:01",
-    "headline": "Hezbollah destroys Israel’s two more Merkava tanks in southern Lebanon",
-    "excerpt": "Hezbollah has destroyed two Israeli army Merkava tanks and struck multiple enemy positions and troop gatherings in southern Lebanon in a series of military operations.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-26T08:01:26.672668+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/25/769290/Hezbollah-destroys-Israel%E2%80%99s-two-Merkava-tanks-in-Southern-Lebanon"
-  },
-  {
-    "id": "83b6efb5a680",
-    "source": "PressTV",
-    "date": "2026-05-26T08:01",
-    "headline": "Palestinian resistance will lead to liberation of al-Quds: IRGC Quds Force chief",
-    "excerpt": "Qa’ani says the resistance of Palestine will pave the way for the liberation of al-Quds, drawing a parallel to historic resistance movements in Iran and Lebanon.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-26T08:01:26.672704+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/25/769244/From-Khorramshahr-and-Lebanon-Al-Quds--Qaani-vows-Palestinian-resistance-will-prevail%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B"
-  },
-  {
-    "id": "d012f912d501",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T03:12",
-    "headline": "Netanyahu vows to ‘smite’ Hezbollah with ‘overwhelming’ force",
-    "excerpt": "Israeli Prime Minister Benjamin Netanyahu vows to ‘smite’ Hezbollah with ‘overwhelming’ force.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-26T04:05:09.122738+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/netanyahu-vows-to-smite-hezbollah-with-overwhelming-force?traffic_source=rss"
-  },
-  {
-    "id": "2f6e041b2da7",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T00:57",
-    "headline": "US military launches strikes on southern Iran amid talks in Qatar",
-    "excerpt": "US Central Command announces &#039;self-defence&#039; strikes as Tehran&#039;s top negotiators gather in Qatar for talks.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-26T04:05:09.122782+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/26/us-military-launches-strikes-on-southern-iran-amid-talks-in-qatar?traffic_source=rss"
-  },
-  {
-    "id": "ee11aec61f1b",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T00:18",
-    "headline": "Canada’s Mark Carney calls treatment of Gaza flotilla activists ‘appalling’",
-    "excerpt": "The prime minister called for an independent investigation into Israeli mistreatment, but stopped short of penalties.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-05-26T04:05:09.122826+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/26/canadas-mark-carney-calls-treatment-of-gaza-flotilla-activists-appalling?traffic_source=rss"
   }
 ]
