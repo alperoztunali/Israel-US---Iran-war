@@ -1,5 +1,104 @@
 [
   {
+    "id": "70b3c0a27de2",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T11:21",
+    "headline": "US-Iran war pushing millions into food crisis, warns UN",
+    "excerpt": "WFP warns that the war is causing substantial increases in food prices in a number of countries.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-05T12:12:27.283159+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/5/us-iran-war-pushing-millions-into-food-crisis-warns-un?traffic_source=rss"
+  },
+  {
+    "id": "b12bd369c802",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T11:01",
+    "headline": "IAEA brokers Ukraine ceasefire to allow nuclear plant repairs",
+    "excerpt": "Concerns over the safety of the Zaporizhzhia plant, Europe&#039;s largest, have been rife throughout Russia&#039;s war on Ukraine.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-06-05T12:12:27.283212+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/5/iaea-brokers-ukraine-ceasefire-to-allow-nuclear-plant-repairs?traffic_source=rss"
+  },
+  {
+    "id": "54fa4e0b0b17",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T10:19",
+    "headline": "How the world failed a mother’s children, killed in Israeli strikes on Gaza",
+    "excerpt": "How the world failed a mother’s children, killed in Israeli strikes on Gaza",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-05T12:12:27.283242+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/how-the-world-failed-a-mothers-children-killed-in-israeli-strikes-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "5d9d76fd8fbd",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T09:44",
+    "headline": "US visa rejections, war on Iran keep fans away from World Cup",
+    "excerpt": "High visa application fees, equally high rejection rates, an unwelcoming America, and the war combine to deter fans.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-05T12:12:27.283272+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/5/us-visa-rejections-war-on-iran-keep-fans-away-from-world-cup?traffic_source=rss"
+  },
+  {
+    "id": "a58b94d07e6a",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T09:25",
+    "headline": "Iran beat Mali in final warm-up before heading to World Cup",
+    "excerpt": "Iran beat Mali in their final competitive match before departing for their Mexico base for the 2026 World Cup.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-05T12:12:27.283299+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/5/iran-beat-mali-in-final-warm-up-before-heading-to-world-cup?traffic_source=rss"
+  },
+  {
+    "id": "809f5c6002dc",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T09:17",
+    "headline": "US raises pressure on Cuba as it sanctions President Diaz-Canel",
+    "excerpt": "Measures come as Cuba continues to experience food shortages and blackouts.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-06-05T12:12:27.283334+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/5/us-raises-pressure-on-cuba-as-it-sanctions-president-diaz-canel?traffic_source=rss"
+  },
+  {
+    "id": "9c383b4e02ac",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T08:28",
+    "headline": "French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’",
+    "excerpt": "Satrapi&#039;s autobiographical novel was born from her experiences of Iran&#039;s Islamic revolution and war with Iraq.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-05T12:12:27.283371+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/5/french-iranian-persepolis-author-marjane-satrapi-dies-of-sadness?traffic_source=rss"
+  },
+  {
+    "id": "16edd517734e",
+    "source": "PressTV",
+    "date": "2026-06-05T12:12",
+    "headline": "Report: Starlink was core component of US-Israeli war on Iran",
+    "excerpt": "A new report has exposed the role of SpaceX’s Starlink satellite network in the US-Israeli aggressions against Iran, saying the technology marketed as civilian infrastructure became an integral component of lethal strikes on the Islamic Republic.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-05T12:12:28.710879+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/05/769869/Report--Starlink-core-component-of-US-strikes-on-Iran"
+  },
+  {
+    "id": "5da0776e7e71",
+    "source": "PressTV",
+    "date": "2026-06-05T12:12",
+    "headline": "Leader grants pardons, sentence reductions to over 2,000 convicts",
+    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei has agreed to pardon, reduce, and commute the sentences of more than 2,000 convicts on the occasion of Eid al-Ghadir, following a request by the head of Iran’s judiciary.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-05T12:12:28.710935+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/05/769870/Leader-grants-pardons,-sentence-reductions-to-hundreds-of-convicts"
+  },
+  {
     "id": "de66ecac2bc0",
     "source": "Al Jazeera",
     "date": "2026-06-05T07:38",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-25T14:12:19.456531+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss"
-  },
-  {
-    "id": "8382eb196355",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T13:00",
-    "headline": "Could Brazilian oil emerge as one of the big winners of the Iran war?",
-    "excerpt": "China and India are among those ramping up imports of Brazilian crude amid Strait of Hormuz disruptions.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-25T14:12:19.456558+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "f113239df47b",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T11:28",
-    "headline": "The world urgently needs a US-Iran deal now",
-    "excerpt": "Without a deal between Washington and Tehran, the fallout from Strait of Hormuz closure could deepen global crises.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-25T14:12:19.456579+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/5/25/the-world-urgently-needs-a-us-iran-deal-now?traffic_source=rss"
-  },
-  {
-    "id": "de43e0a6f357",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T11:23",
-    "headline": "Cattle market empties as fear grips Eid preparations in India’s West Bengal",
-    "excerpt": "Tensions rise in key state, won by BJP this month for first time, as political shift disrupts Eid al-Adha traditions.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-25T14:12:19.456616+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/25/cattle-market-empties-as-fear-grips-eid-preparations-in-indias-west-bengal?traffic_source=rss"
-  },
-  {
-    "id": "64af809155b1",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T11:12",
-    "headline": "Trump’s war loop: Escalate, retreat, repeat",
-    "excerpt": "Stuck in a quagmire of a war, Trump chafes at negative coverage while Iran digs its heels in.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-25T14:12:19.456644+00:00",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/25/trumps-war-loop-escalate-retreat-repeat?traffic_source=rss"
-  },
-  {
-    "id": "82f3d8eaeefe",
-    "source": "PressTV",
-    "date": "2026-05-25T14:12",
-    "headline": "Iran's top negotiator Qalibaf, FM Araghchi in Qatar amid talks to end war",
-    "excerpt": "An Iranian negotiating team, led by the Parliament speaker, arrives in Doha to hold talks with top Qatari officials on ways to end the US-Israeli imposed war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-25T14:12:21.271877+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/25/769264/Iran-Qatar-Qalibaf-Araghchi"
-  },
-  {
-    "id": "636d7bdafb9d",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T10:10",
-    "headline": "Israel kills three in attacks on Lebanon, issues more displacement orders",
-    "excerpt": "Israel carries out attacks on multiple villages and towns in southern Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-25T10:50:40.808031+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss"
-  },
-  {
-    "id": "b8195ef5fb9d",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T09:14",
-    "headline": "Abandoned flotilla boat washes ashore in Egypt with Gaza aid",
-    "excerpt": "A small boat believed to be part of the Global Sumud Flotilla that was carrying aid for Gaza has washed ashore in Egypt",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-25T10:50:40.808076+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/abandoned-flotilla-boat-washes-ashore-in-egypt-with-gaza-aid?traffic_source=rss"
-  },
-  {
-    "id": "e71d49586942",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T08:49",
-    "headline": "Why the SpaceX IPO is the talk of Wall Street and beyond",
-    "excerpt": "Elon Musk&#039;s rocket company is expected to make the biggest public debut in history.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-25T10:50:40.808107+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/25/why-the-spacex-ipo-is-the-talk-of-wall-street-and-beyond?traffic_source=rss"
-  },
-  {
-    "id": "75a94082181c",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T08:15",
-    "headline": "Timelapse shows Hajj pilgrims performing Tawaf in Mecca",
-    "excerpt": "Muslims from around the world are gathering in Saudi Arabia for the annual Hajj pilgrimage.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-05-25T10:50:40.808139+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/timelapse-shows-hajj-pilgrims-performing-tawaf-in-mecca?traffic_source=rss"
   }
 ]
