@@ -1,5 +1,71 @@
 [
   {
+    "id": "2a13cfbb5669",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T18:50",
+    "headline": "Judge strikes down Trump bar on asylum, visa processing for 39 countries",
+    "excerpt": "Judge says restrictions put lives of immigrants in &#039;indeterminate legal limbo&#039;, motivated by &#039;anti-immigrant sentiment&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-05T19:20:36.954124+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-39-countries?traffic_source=rss"
+  },
+  {
+    "id": "f85450695677",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T18:45",
+    "headline": "Is the latest US ceasefire deal for Lebanon meaningless?",
+    "excerpt": "Israel and Hezbollah continue fighting after truce announcement.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-05T19:20:36.954166+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss"
+  },
+  {
+    "id": "b339d98103bd",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T18:04",
+    "headline": "Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now",
+    "excerpt": "The Russian leader insisted military action would only stop after Moscow achieves its &#039;goals&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-05T19:20:36.954212+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/5/russias-putin-says-no-point-meeting-ukraines-zelenskyy-for-now?traffic_source=rss"
+  },
+  {
+    "id": "34e10efa1596",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T17:54",
+    "headline": "Ukraine and Russia exchange 185 prisoners of war each",
+    "excerpt": "Russia and Ukraine have each released 185 prisoners in a major exchange, which Russia says was mediated by the UAE.",
+    "category": "Other",
+    "location": "Uae",
+    "addedAt": "2026-06-05T19:20:36.954247+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukraine-and-russia-exchange-185-prisoners-of-war-each?traffic_source=rss"
+  },
+  {
+    "id": "15df64cd0118",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T17:44",
+    "headline": "Video shows moment Israeli air strike hits car in southern Lebanon",
+    "excerpt": "Video shows the moment when journalist Abbas Fakih was reporting in Nabatieh, Lebanon and an Israeli air strike hit.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-05T19:20:36.954272+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/video-shows-moment-israeli-air-strike-hits-car-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "13e55cbbc365",
+    "source": "Al Jazeera",
+    "date": "2026-06-05T17:25",
+    "headline": "An ice cream parlour survives Gaza’s genocide and gives seven students hope",
+    "excerpt": "Gaza medical and dental students sell ice cream in Khan Younis to fund their studies and keep their dreams alive",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-05T19:20:36.954316+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/5/an-ice-cream-parlour-survives-gazas-genocide-and-gives-seven-students-hope?traffic_source=rss"
+  },
+  {
     "id": "e52f99c02043",
     "source": "Al Jazeera",
     "date": "2026-06-05T16:52",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-26T04:05:09.122826+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/26/canadas-mark-carney-calls-treatment-of-gaza-flotilla-activists-appalling?traffic_source=rss"
-  },
-  {
-    "id": "773be81f8de7",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T00:07",
-    "headline": "Tensions rise in Bolivia as protesters march toward presidential palace",
-    "excerpt": "Demonstrators gathered near the presidential palace in La Paz as police maintained blockades and tensions remained high.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-26T04:05:09.122867+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_report-bolivia-protesters-presidential-palace-250526?traffic_source=rss"
-  },
-  {
-    "id": "b03c80f7f44d",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T00:00",
-    "headline": "Iran war live: US strikes Iran’s south, Tehran officials in Qatar for talks",
-    "excerpt": "Iran&#039;s President Masoud Pezeshkian has ordered the restoration of internet services after months of blocked access.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-26T04:05:09.122902+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks?traffic_source=rss"
-  },
-  {
-    "id": "89fb06b18662",
-    "source": "PressTV",
-    "date": "2026-05-25T23:48",
-    "headline": "Hezbollah destroys Israel’s two Merkava tanks in southern Lebanon",
-    "excerpt": "Hezbollah has destroyed two Israeli army Merkava tanks and struck multiple enemy positions and troop gatherings in southern Lebanon in a series of military operations.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-25T23:48:55.527710+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/25/769290/Hezbollah-destroys-Israel%E2%80%99s-two-Merkava-tanks-in-Southern-Lebanon"
-  },
-  {
-    "id": "16cf1f5e8405",
-    "source": "Al Jazeera",
-    "date": "2026-05-25T20:49",
-    "headline": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
-    "excerpt": "Prime Minister Netanyahu&#039;s order comes despite &#039;ceasefire&#039; agreed with Lebanon last month, which was recently extended.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-25T22:42:42.065003+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss"
-  },
-  {
-    "id": "01a22b06e783",
-    "source": "PressTV",
-    "date": "2026-05-25T22:42",
-    "headline": "'There will be no retreat,' says Iran’s top security official amid talks to end imposed war",
-    "excerpt": "The secretary of Iran's Supreme National Security Council has stated that the Islamic Republic “will not retreat” amid reports of potential agreement between Tehran and Washington.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-25T22:42:43.822370+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/25/769285/Iran-top-security-official-there-no-retreat"
-  },
-  {
-    "id": "4c918c35a0c4",
-    "source": "PressTV",
-    "date": "2026-05-25T22:42",
-    "headline": "US also massacred 24 Iranian civilians in Lamerd sports hall on Feb. 28: FM spox",
-    "excerpt": "The United States carried out a barbaric missile strike on a civilian sports hall in the city of Lamerd in Fars Province during the 40-day war against Iran, martyring 24 innocent Iranians and injuring over 130 others.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-25T22:42:43.822405+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/25/769287/US-war-criminals-massacred-24-Iranian-civilians-in-Lamerd-sports-hall"
   }
 ]
