@@ -1,5 +1,82 @@
 [
   {
+    "id": "e94a0bbcbfdb",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T07:03",
+    "headline": "US says Iranian radar sites hit in Goruk and Qeshm Island",
+    "excerpt": "The US military released footage showing what they say are military strikes on Iranian radar sites.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-06T07:22:34.622880+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss"
+  },
+  {
+    "id": "5c0c90dabf78",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T06:55",
+    "headline": "North Korea’s Kim orders navy to build 10,000-tonne destroyer: State media",
+    "excerpt": "Kim Jong Un has continued to visit military sites before a visit by China&#039;s Xi Jinping on Monday and Tuesday.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-06-06T07:22:34.622932+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/north-koreas-kim-orders-navy-to-build-10000-tonne-destroyer-state-media?traffic_source=rss"
+  },
+  {
+    "id": "f8798759f15b",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T04:58",
+    "headline": "Israeli soldier shoots Palestinian baby dead near Hebron",
+    "excerpt": "An Israeli soldier has shot and killed seven-month-old Palestinian infant Sam Abu Haikal.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-06T07:22:34.622957+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss"
+  },
+  {
+    "id": "4a400839f370",
+    "source": "PressTV",
+    "date": "2026-06-06T07:22",
+    "headline": "IRGC pounds US bases in Kuwait, Bahrain after drone attacks on Iranian territory",
+    "excerpt": "The IRGC says it has targeted two US air bases in Kuwait and the remaining facilities of the US Fifth Fleet in Bahrain in response to the latest US aggression.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-06T07:22:36.336375+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769908/IRGC-reports-missile-strikes-US-Kuwait,-Bahrain-American-aggression"
+  },
+  {
+    "id": "e13533e629f5",
+    "source": "PressTV",
+    "date": "2026-06-06T07:22",
+    "headline": "Iran's FM to Lebanese president: 'Save Lebanon from your real foe'",
+    "excerpt": "Araghchi has criticized the Lebanese president for misidentifying the source of Lebanon’s current challenges, advising him to “save Lebanon from your real foe” in response to his comments during an exclusive interview with CNN.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-06T07:22:36.336427+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769912/Iran-Abbas-Araghchi-critizes-Aoun-accusation-using-Lebanon-bargaining-chip-US-negotiations-CNN-interview--ceasefire-Israel-Hezbollah"
+  },
+  {
+    "id": "0850638649e1",
+    "source": "PressTV",
+    "date": "2026-06-06T07:22",
+    "headline": "Israeli military targets school, ambulance in southern Lebanon, killing six",
+    "excerpt": "Israeli forces launched a new wave of attacks across southern Lebanon and the western Bekaa, striking civilian areas, destroying an ambulance, damaging a school, and killing six Lebanese civilians.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-06T07:22:36.336454+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769911/Israeli-strikes-kill-six-civilians,-destroy-ambulance,-school-in-southern-Lebanon"
+  },
+  {
+    "id": "180ccd86c0c1",
+    "source": "PressTV",
+    "date": "2026-06-06T07:22",
+    "headline": "Kuwait jails TV presenter for supporting Iran amid US-Israeli onslaught",
+    "excerpt": "Kuwaiti authorities have imprisoned a TV presenter for three years over her support for Iran amid the US-Israeli war of aggression against the Islamic Republic.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-06T07:22:36.336482+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769916/Kuwaiti-TV-presenter-handed-down-jail-term-for-supporting-Iran-amid-US-Israeli-onslaught-"
+  },
+  {
     "id": "33ff3f1e16a3",
     "source": "Al Jazeera",
     "date": "2026-06-06T01:13",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-26T14:19:14.161530+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/26/israeli-attacks-on-eastern-lebanon-village-kill-at-least-12-people?traffic_source=rss"
-  },
-  {
-    "id": "580ace717545",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T11:23",
-    "headline": "Can the US and India repair ties over trade and China?",
-    "excerpt": "Rubio&#039;s visit to India comes as Washington seeks closer ties with New Delhi amid trade tensions and energy politics.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-26T14:19:14.161570+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/26/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss"
-  },
-  {
-    "id": "6a394938eb88",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T10:34",
-    "headline": "Israel’s labour force transformed since October 7",
-    "excerpt": "Israel&#039;s labour force transformed since October 7",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-26T14:19:14.161602+00:00",
-    "link": "https://www.aljazeera.com/video/money-works/2026/5/26/israels-labour-force-transformed-since-october-7?traffic_source=rss"
-  },
-  {
-    "id": "2c600a29f811",
-    "source": "PressTV",
-    "date": "2026-05-26T14:19",
-    "headline": "Iran says latest ceasefire violations prove US ‘ill-will’, vows decisive response",
-    "excerpt": "Iran's Foreign Ministry has condemned in the strongest terms \"flagrant and unjustified\" ceasefire violations by the United States in the Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-26T14:19:16.617724+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/26/769316/Iran-says-latest-US-ceasefire-violations-again-show-ill-will-and-bad-faith-vows-decisive-response"
-  },
-  {
-    "id": "6e293964bb52",
-    "source": "PressTV",
-    "date": "2026-05-26T14:19",
-    "headline": "IRGC downs US drone over Persian Gulf, warns against truce violations",
-    "excerpt": "The IRGC shoots down an MQ-9 Reaper drone over the Persian Gulf, warning against ceasefire violations by the United States.",
-    "category": "Missile/Drone",
-    "location": "Persian Gulf",
-    "addedAt": "2026-05-26T14:19:16.617752+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/26/769308/IRGC-shoots-down-US-MQ-9-Reaper-drone-over-Persian-Gulf-warning-against-ceasefire-violations-"
-  },
-  {
-    "id": "5d534a5c8239",
-    "source": "PressTV",
-    "date": "2026-05-26T14:19",
-    "headline": "If attacked, Iran’s response will be ‘more severe’ than previous wars: Military spox",
-    "excerpt": "Shekarchi warns that Iran has renewed its target bank and is ready for war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-26T14:19:16.617786+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/26/769302/Iran%E2%80%98s-military-official--If-attacked,-our-strikes-more-intense,-heavier,-stronger"
-  },
-  {
-    "id": "51b93737d47e",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T07:39",
-    "headline": "Rubio says Strait of Hormuz will open ‘one way or the other’",
-    "excerpt": "Rubio says Strait of Hormuz will open &#039;one way or the other&#039;",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-26T08:01:25.008222+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/rubio-says-strait-of-hormuz-will-open-one-way-or-the-other?traffic_source=rss"
-  },
-  {
-    "id": "d16dfff7cf87",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T07:27",
-    "headline": "As Trump woos China, the Quad grouping drifts towards irrelevance",
-    "excerpt": "As Washington shifts military focus away from Asia, analysts say the Quad is struggling to define its purpose.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-26T08:01:25.008270+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/26/as-trump-woos-china-the-quad-alliance-drifts-toward-irrelevance?traffic_source=rss"
   }
 ]
