@@ -1,5 +1,38 @@
 [
   {
+    "id": "5c6ceee75bf9",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T17:04",
+    "headline": "100 days into the war on Iran, Trump fails to rally US support",
+    "excerpt": "Unpopularity of the war may affect the US approach to the conflict and hurt Republicans in the elections, analysts say.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-06T17:19:29.237649+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss"
+  },
+  {
+    "id": "7c12f7be2bb3",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T14:38",
+    "headline": "Israeli attack on Gaza City tent camp kills at least six",
+    "excerpt": "At least 15 people also wounded in strike on site housing displaced people as wedding was under way nearby, locals say.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-06T17:19:29.237697+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "e768290b8110",
+    "source": "PressTV",
+    "date": "2026-06-06T17:19",
+    "headline": "US-Israeli military aggression against Iran 'not a just war': Pope Leo",
+    "excerpt": "Pope Leo XIV says the military aggression by the United States and Israel against Iran was \"not a just war.\"",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-06T17:19:30.823554+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769959/Pope-Leo-rejects-notion-US-Israeli-aggression-against-Iran-just-war"
+  },
+  {
     "id": "ccfb70e7c064",
     "source": "Al Jazeera",
     "date": "2026-06-06T15:34",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-27T01:29:06.639245+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?traffic_source=rss"
-  },
-  {
-    "id": "15684470ad8d",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T21:22",
-    "headline": "Aftermath of deadly Israeli strikes in southern Lebanon",
-    "excerpt": "New videos show widespread destruction in Maarakeh following deadly Israeli strikes across southern Lebanon.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-26T23:14:10.744621+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "96b7c1c2efa0",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T21:02",
-    "headline": "Four people killed after minibus collides with train in Belgium",
-    "excerpt": "The minibus, carrying nine people, drove through closed crossing barriers during the morning rush hour.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-26T21:50:10.557651+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss"
-  },
-  {
-    "id": "5ea0461e270d",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T20:33",
-    "headline": "US picks potential partners for using Cold War-era plutonium as fuel",
-    "excerpt": "Trump gov&#039;t plans to make about 20 tonnes of plutonium from dismantled nuclear warheads available to US power firms.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-26T21:50:10.557705+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss"
   }
 ]
