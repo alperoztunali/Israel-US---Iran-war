@@ -1,5 +1,49 @@
 [
   {
+    "id": "d451c324e608",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T13:31",
+    "headline": "Lebanon and Israel’s perpetual war machine",
+    "excerpt": "Why Lebanon remains central to Israel&#039;s multi-front wars.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-06T14:20:40.046303+00:00",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss"
+  },
+  {
+    "id": "29b9a78b1277",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T12:29",
+    "headline": "Groom killed hours before his wedding in Gaza",
+    "excerpt": "Muhannad Farwana never got to wear his wedding suit, Israel killed him in an air strike hours before his wedding.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-06T14:20:40.046338+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/groom-killed-hours-before-his-wedding-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "ce76c337fe4b",
+    "source": "PressTV",
+    "date": "2026-06-06T14:20",
+    "headline": "Hezbollah: Israeli attack on Lebanese army exposes Beirut's disregard for national sovereignty",
+    "excerpt": "Hezbollah condemns the Israeli strikes on Lebanese Army forces, stating it is the result of the Beirut government's disregard for national sovereignty and people's lives.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-06T14:20:42.432792+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769940/Hezbollah--Israeli-attack-on-Lebanese-Army-result-of-Beirut-s-disregard-for-national-sovereignty,-people-s-lives"
+  },
+  {
+    "id": "f7bfc7b5982c",
+    "source": "PressTV",
+    "date": "2026-06-06T14:20",
+    "headline": "Negative views of Israel surge globally since war on Iran: Survey",
+    "excerpt": "A new survey has found that hatred against Israel and Benjamin Netanyahu has risen sharply across much of the world.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-06T14:20:42.432832+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769942/Palestine-Israel-Netanyahu-negative-views-surge-following-Gaza-Iran-war-survey-finds"
+  },
+  {
     "id": "7f0e095add30",
     "source": "Al Jazeera",
     "date": "2026-06-06T12:01",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-26T19:48:15.079204+00:00",
     "link": "https://www.aljazeera.com/sports/2026/5/26/former-arsenal-midfielder-partey-named-in-ghana-squad-ahead-of-world-cup?traffic_source=rss"
-  },
-  {
-    "id": "bb515b069af5",
-    "source": "PressTV",
-    "date": "2026-05-26T19:48",
-    "headline": "Yemeni leader warns Muslim neglect of Palestine fuels Israeli expansionist plots",
-    "excerpt": "Yemeni Ansarullah leader Abdul-Malik al-Houthi has warned that Muslim inaction over Palestine is directly fueling Israeli expansionism.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-05-26T19:48:16.829215+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/26/769336/Houthi-Muslim-neglect-Palestine-Israeli-expansionism"
-  },
-  {
-    "id": "b3ca399ba5a9",
-    "source": "PressTV",
-    "date": "2026-05-26T19:48",
-    "headline": "Technology achieved amid war enabled Iran to down 210 enemy aircraft: Defense Ministry",
-    "excerpt": "Acting defense minister says Iran made major breakthroughs in air defense technology during the joint US-Israeli war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-26T19:48:16.829248+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/26/769312/Iran-targeted-210-enemy-aircraft-US-Israel-40-days-war"
-  },
-  {
-    "id": "60eda98c6aa8",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T17:08",
-    "headline": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
-    "excerpt": "Al Jazeera’s Obaida Hitto brings you the latest from southern Lebanon amidst increasing Israeli attacks.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-26T17:44:01.840589+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/lebanon-latest-netanyahu-vows-escalation-against-hezbollah?traffic_source=rss"
-  },
-  {
-    "id": "f224a7044aa5",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T16:13",
-    "headline": "Iranian fishermen struggle to survive amid Hormuz blockade",
-    "excerpt": "The livelihoods of Iranian fishermen have taken a hit amid the US blockade on Iran’s ports in the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-26T17:44:01.840638+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss"
   }
 ]
