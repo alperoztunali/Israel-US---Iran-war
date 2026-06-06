@@ -1,5 +1,49 @@
 [
   {
+    "id": "26ecdf9bcf92",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T08:17",
+    "headline": "Man dies in Western Australia after shark attack",
+    "excerpt": "The man was fishing when he was bitten by a shark, police say.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-06T09:34:29.982251+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss"
+  },
+  {
+    "id": "72df9b87543e",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T07:51",
+    "headline": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
+    "excerpt": "US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-06-06T09:34:29.982278+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "6a883a423a69",
+    "source": "PressTV",
+    "date": "2026-06-06T09:34",
+    "headline": "Gaza journalists recount abuse, interrogations in Israeli detention",
+    "excerpt": "Reporters Without Borders (RSF) has published distressing accounts from Palestinian journalists held in Israeli prisons.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-06T09:34:35.785774+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769920/RSF-records-distressing-accounts-from-Palestinian-journalists-held-in-Israeli-prisons"
+  },
+  {
+    "id": "2539d5cdc97a",
+    "source": "PressTV",
+    "date": "2026-06-06T09:34",
+    "headline": "Putin says he saw ‘no provocation’ from Iran before US-Israeli war",
+    "excerpt": "Russian President Vladimir Putin blasts the US over its unprovoked war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-06T09:34:35.785808+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769913/I-saw-no-provocations-from-Iran-Putin"
+  },
+  {
     "id": "e94a0bbcbfdb",
     "source": "Al Jazeera",
     "date": "2026-06-06T07:03",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-26T14:19:14.161395+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss"
-  },
-  {
-    "id": "a07715ba3e12",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T12:58",
-    "headline": "Protester confronts Canadian politician over ‘Gaza complicity’",
-    "excerpt": "Protester confronts Canadian politician over ‘Gaza complicity’",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-26T14:19:14.161442+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/protester-confronts-canadian-politician-over-gaza?traffic_source=rss"
-  },
-  {
-    "id": "1be9c3b54ac3",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T12:34",
-    "headline": "Israeli air attacks kill seven Palestinians in Gaza",
-    "excerpt": "At least five Palestinians killed in Israeli attack on a refugee camp in central Gaza, officials said.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-26T14:19:14.161471+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "04608c2e879a",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T11:37",
-    "headline": "Libyan forces detain Gaza land convoy activists at Sirte checkpoint",
-    "excerpt": "Forces loyal to Libyan commander Khalifa Haftar have detained members of a land convoy trying to bring aid to Gaza.",
-    "category": "Movement",
-    "location": "Gaza",
-    "addedAt": "2026-05-26T14:19:14.161499+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/libyan-forces-detain-gaza-land-convoy-activists-at-sirte-checkpoint?traffic_source=rss"
-  },
-  {
-    "id": "cbc4836c6a73",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T11:35",
-    "headline": "Israeli attacks on eastern Lebanon village kill at least 11 people",
-    "excerpt": "Attacks hit the village of Mashghara in the Bekaa Valley late Monday as Israel intensified its assault across Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-26T14:19:14.161530+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/26/israeli-attacks-on-eastern-lebanon-village-kill-at-least-12-people?traffic_source=rss"
   }
 ]
