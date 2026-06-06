@@ -1,5 +1,38 @@
 [
   {
+    "id": "7f0e095add30",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T12:01",
+    "headline": "Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts",
+    "excerpt": "Iranian officials say a &#039;large&#039; number of key staff denied visas as the team is set to travel to Mexico.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-06T12:44:24.555859+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/6/iran-2026-world-cup-squad-heads-to-mexico-as-us-visa-dispute-erupts?traffic_source=rss"
+  },
+  {
+    "id": "f7450f9d36fa",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T11:59",
+    "headline": "Russia says hundreds of Ukrainian drones downed as economic forum ends",
+    "excerpt": "Russia&#039;s defence ministry said the drones were downed over 16 areas and regions, including Crimea.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-06T12:44:24.555900+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends?traffic_source=rss"
+  },
+  {
+    "id": "406dd5ceacf7",
+    "source": "PressTV",
+    "date": "2026-06-06T12:44",
+    "headline": "Iran urges IAEA to avoid political pressure to be part of diplomatic solution",
+    "excerpt": "Tehran urges the IAEA to avoid political pressure if it wants to be part of the diplomatic solution.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-06T12:44:26.136692+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769931/Iran-urges-IAEA-avoid-political-pressure-diplomatic-solution"
+  },
+  {
     "id": "c40a421e2bcf",
     "source": "Al Jazeera",
     "date": "2026-06-06T10:52",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-26T17:44:01.840638+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss"
-  },
-  {
-    "id": "8f426a707097",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T15:13",
-    "headline": "Tehran labels US attacks ‘gross violation’, says it is prepared to respond",
-    "excerpt": "The US says it struck boats and missile sites in Iran, shortly after both sides had indicated progress in peace talks.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-05-26T17:44:01.840666+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/26/tehran-labels-us-attacks-gross-violation-says-it-is-prepared-to-respond?traffic_source=rss"
-  },
-  {
-    "id": "f9f4c71aace7",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T15:10",
-    "headline": "Israel is no longer ‘shooting and crying’",
-    "excerpt": "A settler society rewarded for its violence has stopped pretending to mourn it.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-26T17:44:01.840698+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/5/26/israel-is-no-longer-shooting-and-crying?traffic_source=rss"
-  },
-  {
-    "id": "62e03fc96517",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T14:38",
-    "headline": "Iran’s president praises military after US strikes",
-    "excerpt": "President Masoud Pezeshkian praised Iran’s military capabilities after the US carried out ‘self-defence’ strikes on Iran",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-26T17:44:01.840734+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss"
   }
 ]
