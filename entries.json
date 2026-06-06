@@ -1,5 +1,38 @@
 [
   {
+    "id": "e2b263f73051",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T21:10",
+    "headline": "Pentagon said to raise threat level on Israel spying to ‘critical’",
+    "excerpt": "Department reports raise concerns about increased espionage activity amid US-Israeli war with Iran, ceasefire talks.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-06T21:31:25.117785+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss"
+  },
+  {
+    "id": "57dbf59cfaad",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T20:54",
+    "headline": "Rights group says drone strike kills 11 in central Sudan market",
+    "excerpt": "Emergency Lawyers said dozens were also wounded in the strike that came less than 24 hours after similar drone attacks.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-06T21:31:25.117823+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss"
+  },
+  {
+    "id": "6bf967104292",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T14:38",
+    "headline": "Israeli attack on Gaza City tent camp kills at least seven",
+    "excerpt": "Latest Israeli attack comes as Hamas readies for meetings in Egypt on full implementation of Gaza &#039;ceasefire&#039; agreement.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-06T21:31:25.117862+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss"
+  },
+  {
     "id": "c4624495af8d",
     "source": "Al Jazeera",
     "date": "2026-06-06T19:48",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-27T10:13:51.463327+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "4b919ef1b607",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T06:48",
-    "headline": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
-    "excerpt": "Israeli strikes kill 31 in Lebanon as attacks intensify and displacement orders spread.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-27T10:13:51.463358+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise?traffic_source=rss"
-  },
-  {
-    "id": "0daef2308fb5",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T06:03",
-    "headline": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war",
-    "excerpt": "Iranian officials said the latest US strikes only validated their scepticism and resolve to stand firm on demands.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-27T10:13:51.463393+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war?traffic_source=rss"
-  },
-  {
-    "id": "dbed507ba5d8",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T05:53",
-    "headline": "‘No livestock but still hope’: Palestinians prepare for Eid al-Adha in Gaza",
-    "excerpt": "Gaza Palestinians will mark a third Eid under war-like conditions, with a shortage of food and joy.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-27T10:13:51.463438+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/27/no-livestock-but-still-hope-palestinians-prepare-for-eid-al-adha-in-gaza?traffic_source=rss"
   }
 ]
