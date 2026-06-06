@@ -1,5 +1,27 @@
 [
   {
+    "id": "99752ccc831b",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T15:30",
+    "headline": "Israeli attacks in Lebanon kill 12 people, including high-ranking officers",
+    "excerpt": "The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-06T22:44:29.288380+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss"
+  },
+  {
+    "id": "094d0d0473c3",
+    "source": "PressTV",
+    "date": "2026-06-06T22:44",
+    "headline": "Pakistan's interior minister to deliver 'special message' from army chief, PM to Iran's Leader",
+    "excerpt": "Pakistan's visiting interior minister says he has arrived in Iran to deliver a \"special message\" to Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-06T22:44:31.906990+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769968/Pakistan-Iran-special-message-Leader"
+  },
+  {
     "id": "e2b263f73051",
     "source": "Al Jazeera",
     "date": "2026-06-06T21:10",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-27T10:13:51.463229+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/27/israeli-air-attack-kills-at-least-two-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "246e16ca11e5",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T08:06",
-    "headline": "Pope appeals for Gaza aid after being asked about flotilla activists",
-    "excerpt": "Pope appeals for Gaza aid after being asked about flotilla activists",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-27T10:13:51.463286+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/pope-appeals-for-gaza-aid-after-being-asked-about-flotilla-activists?traffic_source=rss"
-  },
-  {
-    "id": "cef19719247f",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T06:52",
-    "headline": "How badly is Europe affected by fertiliser shortages due to the Iran war?",
-    "excerpt": "EU launches fertiliser plan as Strait of Hormuz disruption fuels food security fears.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-27T10:13:51.463327+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss"
   }
 ]
