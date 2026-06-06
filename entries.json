@@ -1,5 +1,49 @@
 [
   {
+    "id": "c40a421e2bcf",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T10:52",
+    "headline": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+    "excerpt": "Violence in the West Bank has escalated since Israel began its war on Gaza in 2023.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-06T11:10:49.929236+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "87a3d9cd03de",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T09:18",
+    "headline": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
+    "excerpt": "Activists claim sanctions fail to reflect either the depth of violence or state complicity in settler attacks.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-06T11:10:49.929324+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss"
+  },
+  {
+    "id": "8fa739fcb394",
+    "source": "PressTV",
+    "date": "2026-06-06T11:10",
+    "headline": "‘He sells out those who stand beside him’: Iran dismisses hostile remarks by Lebanon’s Aoun",
+    "excerpt": "Esmaeil Baghaei has reacted to remarks made by Lebanese President Joseph Aoun against Iran, saying “He sells out those who stand beside him and buys those who stand against him.”",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-06T11:10:51.743982+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769929/Iran-Esmaeil-Baghaei-says-Aoun-sells-those-stand-beside-Lebanon"
+  },
+  {
+    "id": "5661e20f623f",
+    "source": "PressTV",
+    "date": "2026-06-06T11:10",
+    "headline": "Lebanese army colonel, troops killed in Israeli air raid despite ceasefire",
+    "excerpt": "Several soldiers, including a colonel, have been killed in an Israeli airstrike that targeted a military vehicle in southern Lebanon despite a renewed ceasefire agreement, according to the Lebanese army.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-06T11:10:51.744006+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769922/Lebanon-Lebanese-army-colonel-soldiers-killed-Israeli-strike-southern-Lebanon-ceasefire-agreement"
+  },
+  {
     "id": "26ecdf9bcf92",
     "source": "Al Jazeera",
     "date": "2026-06-06T08:17",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-26T17:44:01.840734+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss"
-  },
-  {
-    "id": "4aadf0abf521",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T14:36",
-    "headline": "India, US strike critical minerals deal: What’s in it, why does it matter?",
-    "excerpt": "Agreement is latest US has signed as it seeks to diversify its rare earths supply chain.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-05-26T17:44:01.840778+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/26/india-us-strike-critical-minerals-deal-whats-in-it-why-does-it-matter?traffic_source=rss"
-  },
-  {
-    "id": "adfe2996653f",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T14:36",
-    "headline": "Twitch to politics: Hasan Piker on Gaza and the US right-wing",
-    "excerpt": "Twitch streamer Hasan Piker tackles politics, Gaza, and culture for nearly 3M viewers.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-05-26T17:44:01.840806+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-tt_rr_usa_piker_av_v1-250526?traffic_source=rss"
-  },
-  {
-    "id": "aac469c34f24",
-    "source": "PressTV",
-    "date": "2026-05-26T17:44",
-    "headline": "Iran’s president urges Islamic unity against US-Israel in pre-Eid calls to Muslim leaders",
-    "excerpt": "Pezeshkian urges unity among Muslim nations ahead of Eid al-Adha, stressing regional cooperation in the face of growing challenges in West Asia.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-26T17:44:03.323920+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/26/769321/Iran%E2%80%99s-president-urges-unity-among-Muslim-on-the-eve-Eid-al-Adha"
-  },
-  {
-    "id": "cf6b9185fec7",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T13:26",
-    "headline": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
-    "excerpt": "Findings show Israel holds 1,000sq km of Gaza, Lebanon and Syria under direct military rule.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-26T14:19:14.161395+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss"
   }
 ]
