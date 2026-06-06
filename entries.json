@@ -1,5 +1,71 @@
 [
   {
+    "id": "ccfb70e7c064",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T15:34",
+    "headline": "Activists disrupt German military exhibit over arms sales to Israel",
+    "excerpt": "Activists disrupt German military exhibit over arms sales to Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-06T15:51:52.113734+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss"
+  },
+  {
+    "id": "f1f88105fd0d",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T15:30",
+    "headline": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+    "excerpt": "The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-06T15:51:52.113775+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss"
+  },
+  {
+    "id": "c8d26a28ed75",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T15:09",
+    "headline": "Videos show Kuwait intercepting ballistic missiles from Iran",
+    "excerpt": "Kuwait says it intercepted seven ballistic missiles over residential areas, resulting in some debris but no casualties.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-06T15:51:52.113801+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss"
+  },
+  {
+    "id": "36b446f2b802",
+    "source": "Al Jazeera",
+    "date": "2026-06-06T14:38",
+    "headline": "Israeli strike kills at least six people at wedding in Gaza",
+    "excerpt": "At least 15 people have been injured in the attack, according to local medical sources.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-06T15:51:52.113826+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "058df2952cb7",
+    "source": "PressTV",
+    "date": "2026-06-06T15:51",
+    "headline": "Iran urges UN to stop repeated US violations of ceasefire after attack on radar facilities",
+    "excerpt": "Iran denounces a pre-dawn US drone strike on its radar facilities in Sirik and Qeshm as a flagrant violation of the April ceasefire.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-06T15:51:53.734329+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769951/Iran-US-aggression-Qeshm-"
+  },
+  {
+    "id": "0c5cc8a636a3",
+    "source": "PressTV",
+    "date": "2026-06-06T15:51",
+    "headline": "Attacking army forces shows Israel’s hostility toward all of Lebanon: Iran",
+    "excerpt": "Iran's Foreign Ministry spokesman says the targeting of Lebanese army forces by the Israeli enemy once again confirms that the regime's hostility is directed at all of Lebanon",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-06T15:51:53.734373+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/06/769953/Targeting-army-Israel-s-hostility-all-Lebanon--Tehran"
+  },
+  {
     "id": "d451c324e608",
     "source": "Al Jazeera",
     "date": "2026-06-06T13:31",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-26T21:50:10.557705+00:00",
     "link": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss"
-  },
-  {
-    "id": "ee947e5dd96e",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T20:33",
-    "headline": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
-    "excerpt": "State lawmakers reject a new map in South Carolina as judges strike down newly drawn US House districts one in Alabama.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-26T21:50:10.557746+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss"
-  },
-  {
-    "id": "260c208362c0",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T19:50",
-    "headline": "Did Trump oversell a broken Iran ceasefire deal?",
-    "excerpt": "The US and Iran appear closer to a broader agreement, but disputes over sanctions relief remain.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-26T21:50:10.557774+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss"
-  },
-  {
-    "id": "03be0c2370d3",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T19:47",
-    "headline": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
-    "excerpt": "A Gaza City school taught children how to perform the entire Hajj, as Palestinians miss the pilgrimage for a third year.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-26T21:50:10.557846+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss"
-  },
-  {
-    "id": "00a06606e2d6",
-    "source": "PressTV",
-    "date": "2026-05-26T21:50",
-    "headline": "IRGC Navy: 25 ships transited Strait of Hormuz in past 24 hours under its protection",
-    "excerpt": "The IRGC Navy has once again demonstrated its authority over the Strait of Hormuz, successfully escorting 25 commercial vessels through the vital waterway in the past 24 hours.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-26T21:50:12.413397+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/26/769337/IRGC-Navy-says-25-ships-transit-Strait-of-Hormuz-under-its-protection"
-  },
-  {
-    "id": "330b0feefa9a",
-    "source": "PressTV",
-    "date": "2026-05-26T21:50",
-    "headline": "'Iran tax' to squeeze Americans for 'months, probably years' as fuel prices soar: Report",
-    "excerpt": "Economists are warning that America’s reckless war of aggression against Iran has imposed a punishing new “Iran tax” on ordinary American households, according to a report.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-26T21:50:12.413444+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/26/769338/-Iran-tax--to-squeeze-Americans-for--months,-probably-years--as-fuel-prices-soar--Report"
-  },
-  {
-    "id": "19f1e713c8ed",
-    "source": "Al Jazeera",
-    "date": "2026-05-26T17:45",
-    "headline": "Former Arsenal midfielder Partey named in Ghana squad ahead of World Cup",
-    "excerpt": "Ghana&#039;s Thomas Partey, who joined Villareal from Arsenal in 2025, has pleaded not guilty to seven rape charges in UK.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-26T19:48:15.079204+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/26/former-arsenal-midfielder-partey-named-in-ghana-squad-ahead-of-world-cup?traffic_source=rss"
   }
 ]
