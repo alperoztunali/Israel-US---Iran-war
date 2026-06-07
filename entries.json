@@ -1,5 +1,27 @@
 [
   {
+    "id": "1fe53f3608d9",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T21:33",
+    "headline": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
+    "excerpt": "Iran&#039;s attack on Israel aims to restore deterrence but avoid return to war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-07T22:48:50.180613+00:00",
+    "link": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss"
+  },
+  {
+    "id": "9abcb604afac",
+    "source": "PressTV",
+    "date": "2026-06-07T22:48",
+    "headline": "'Hear the roar of Iranian nation in skies of Tel Aviv': Leader's advisor after Iranian strikes",
+    "excerpt": "The representative of the Leader of the Islamic Revolution on the Supreme Defense Council issued a strong warning to the enemy, saying the roaring voice heard in the skies of Tel Aviv is none other than the voice of the Iranian nation.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-07T22:48:52.667492+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/07/770029/hear-roar-iranian-nation-skies-telaviv-leader-advisor-after-iran-strikes"
+  },
+  {
     "id": "49ad624d0d66",
     "source": "Al Jazeera",
     "date": "2026-06-07T21:14",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-28T19:28:51.358280+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/smoke-rises-over-beirut-after-israeli-strike?traffic_source=rss"
-  },
-  {
-    "id": "ca895e153366",
-    "source": "PressTV",
-    "date": "2026-05-28T19:28",
-    "headline": "IRGC says peace in West Asia impossible until Israel is 'wiped out'",
-    "excerpt": "Iran's Islamic Revolution Guards Corps (IRGC) has strongly condemned the recent martyrdom of two senior Hamas commanders by Israel in Gaza.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-28T19:28:52.994183+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/28/769431/Palestine-Gaza-Odeh-Hamas-IRGC"
-  },
-  {
-    "id": "55550b6607cb",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T16:25",
-    "headline": "Fire kills 16 students at Kenyan girls’ boarding school",
-    "excerpt": "At least 16 students were killed and dozens injured after a fire tore through the dormitory of a girls’ school in Kenya.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-28T16:43:22.651414+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/fire-kills-16-students-at-kenyan-girls-boarding-school?traffic_source=rss"
   }
 ]
