@@ -1,5 +1,104 @@
 [
   {
+    "id": "49ad624d0d66",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T21:14",
+    "headline": "Videos show missiles launched from Iran into Israel",
+    "excerpt": "Iranian media has released video showing missiles being launched towards Israel.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-07T21:45:08.530195+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss"
+  },
+  {
+    "id": "a31578515292",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T21:12",
+    "headline": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
+    "excerpt": "Iranian state TV broadcast scenes of celebration in Tehran as missiles flew overhead en route to Israel.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-06-07T21:45:08.530230+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss"
+  },
+  {
+    "id": "2d3e929d7c22",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T21:08",
+    "headline": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
+    "excerpt": "Iran&#039;s IRGC says the barrage of missiles is &#039;a warning&#039; to Israel amid its ongoing siege of Lebanon.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-07T21:45:08.530258+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss"
+  },
+  {
+    "id": "ed0f0dc01e37",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T20:12",
+    "headline": "Iran fires missiles at Israel after it attacked Beirut",
+    "excerpt": "Videos show missiles over Israel as the Israeli military says Iran launched a new wave of attacks.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-07T21:45:08.530280+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss"
+  },
+  {
+    "id": "508058bf4a91",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T20:01",
+    "headline": "Iran losing patience with Israel and US over ceasefire violations",
+    "excerpt": "Iran’s patience has reached its limit with the continuous violations of the ‘ceasefire’.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-07T21:45:08.530313+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss"
+  },
+  {
+    "id": "d8e7b08f7554",
+    "source": "PressTV",
+    "date": "2026-06-07T21:45",
+    "headline": "Iran says defensive strikes on Israeli targets were legitimate self-defense under UN Charter",
+    "excerpt": "The ministry warned that any malicious adventure by the Zionist regime against Lebanon or Iran will be met with a crushing and comprehensive response from Iran’s brave armed forces.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-07T21:45:10.071955+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/07/770028/Iran-says-defensive-strikes-on-Israeli-targets-were-legitimate-self-defense-under-UN-Charter"
+  },
+  {
+    "id": "c04dc9d18ba5",
+    "source": "PressTV",
+    "date": "2026-06-07T21:45",
+    "headline": "Ramat David airbase, origin of Israeli attacks on Lebanon, hit by ballistic missiles: IRGC",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC) says that its Aerospace Force struck the Ramat David airbase with ballistic missiles, identifying the facility as the launchpad for Israeli aggression against southern Lebanon, including the bombing of Tyre, Nabatieh and Beirut’s southern suburbs.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-07T21:45:10.071991+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/07/770023/Ramat-David-airbase-origin-of-attacks-on-Lebanon-hit-by-ballistic-missiles-IRGC"
+  },
+  {
+    "id": "5a984475802b",
+    "source": "PressTV",
+    "date": "2026-06-07T21:45",
+    "headline": "IRGC aerospace commander hails Iranian nation for '100 days of epic resistance'",
+    "excerpt": "The commander of IRGC aerospace force issued a message of gratitude to the Iranian people on Sunday, hailing their steadfast presence across arenas over the past 100 days, which \"disappointed the enemy.\"",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-07T21:45:10.072037+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/07/770025/irgc-aerospace-commander-hails-100-days-epic-resistance"
+  },
+  {
+    "id": "12b051e02f3a",
+    "source": "PressTV",
+    "date": "2026-06-07T21:45",
+    "headline": "Senior Iranian officials: ‘Every new crime of aggressors will meet crushing response'",
+    "excerpt": "Senior Iranian officials have warned that any violation of ceasefires or acts of aggression against the Axis of Resistance will be met with decisive and crushing responses.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-07T21:45:10.072070+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/07/770024/Iran-delivers-crushing-warning-to-aggressors--%E2%80%98Every-new-crime-will-meet-a-crushing-response-"
+  },
+  {
     "id": "fd2d407f377b",
     "source": "Al Jazeera",
     "date": "2026-06-07T19:43",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-28T16:43:22.651414+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/fire-kills-16-students-at-kenyan-girls-boarding-school?traffic_source=rss"
-  },
-  {
-    "id": "89c885320db2",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T15:44",
-    "headline": "US Treasury threatens Oman with sanctions over Hormuz Strait",
-    "excerpt": "US official says Oman should know that Washington &#039;will aggressively target&#039; actors that facilitate tolls in waterway.",
-    "category": "Diplomatic",
-    "location": "Oman",
-    "addedAt": "2026-05-28T16:43:22.651474+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait?traffic_source=rss"
-  },
-  {
-    "id": "1febe0875626",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T15:02",
-    "headline": "Yemen’s former leader Abd-Rabbu Mansour Hadi dies in exile at 80",
-    "excerpt": "Hadi was the internationally recognised president of Yemen who led a fractured government mostly from exile.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-05-28T16:43:22.651516+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/28/abedrabbo-mansour-hadi-yemens-former-leader-passes-away-in-exile-at-80?traffic_source=rss"
-  },
-  {
-    "id": "8ac07a1a73bc",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T14:53",
-    "headline": "Poisonous invasion: What is the ‘devil’s trumpet’ harming crops in Iraq?",
-    "excerpt": "The spread of datura is forcing the Iraqi Interior Ministry to urge farmers and citizens to report if spotted.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-05-28T16:43:22.651553+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/28/poisonous-invasion-what-is-the-devils-trumpet-harming-crops-in-iraq?traffic_source=rss"
-  },
-  {
-    "id": "279b72f78d41",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T14:45",
-    "headline": "US attacks Bandar Abbas again: Why is the port so important for Iran?",
-    "excerpt": "Bandar Abbas, which the US has targeted multiple times, occupies a strategically sensitive position in Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-28T16:43:22.651583+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran?traffic_source=rss"
-  },
-  {
-    "id": "b372e58b5561",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T12:54",
-    "headline": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
-    "excerpt": "The US president has issued a stark warning to a US ally, in a sign of rising tensions over Strait of Hormuz.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-05-28T16:43:22.651604+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss"
-  },
-  {
-    "id": "88ed409ff89e",
-    "source": "PressTV",
-    "date": "2026-05-28T16:43",
-    "headline": "'Feast of vampires is over': Iran says no more shields for US bases",
-    "excerpt": "Iran’s SNSC deputy Ali Bagheri declared the “feast of vampires” over, asserted the region will no longer shield US bases, and called for a new security equation in West Asia following a 40-day war with the US and Israel.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-28T16:43:24.350002+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/28/769424/-Feast-of-vampires-is-over---Iran-says-no-more-shields-for-US-bases"
-  },
-  {
-    "id": "ef5cfe7d559b",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T11:43",
-    "headline": "Iran says US must issue multiple-entry visas for its World Cup squad",
-    "excerpt": "Iran&#039;s delegation will be based in Tijuana, Mexico, and will travel to the US for all three group stage matches.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-28T12:33:38.708660+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss"
-  },
-  {
-    "id": "a2b71b29af04",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T11:18",
-    "headline": "For Gaza, Eid joy is now a form of resistance",
-    "excerpt": "Six were killed in Remal on Eid night. Minutes later, the stalls reopened.",
-    "category": "Casualties",
-    "location": "Gaza",
-    "addedAt": "2026-05-28T12:33:38.708701+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss"
-  },
-  {
-    "id": "de4c774b00de",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T10:58",
-    "headline": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
-    "excerpt": "Southern Lebanon empties out under bombardment as Red Cross warns of worsening crisis.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-28T12:33:38.708726+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss"
   }
 ]
