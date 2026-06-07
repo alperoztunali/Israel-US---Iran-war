@@ -1,5 +1,93 @@
 [
   {
+    "id": "3a103349ac29",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T15:44",
+    "headline": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
+    "excerpt": "Al Jazeera follows a teacher who navigates a new life marked by a weak internet, soaring prices, and solidarity rallies.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-07T15:52:10.225591+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss"
+  },
+  {
+    "id": "4622daa9a8d3",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T15:20",
+    "headline": "Iran’s World Cup squad lands in Mexico amid US visa row",
+    "excerpt": "Iranian delegation arrives at their World Cup base camp a day after several members were denied visas by the US.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-07T15:52:10.225640+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss"
+  },
+  {
+    "id": "b0d20684de45",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T15:16",
+    "headline": "Iran’s World Cup team arrives in Mexico as US visa row continues",
+    "excerpt": "Iran’s national football team has arrived in Mexico ahead of its World Cup matches in the US.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-07T15:52:10.225678+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss"
+  },
+  {
+    "id": "ad4306ec6ab5",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T14:58",
+    "headline": "Does Israel really think it can get rid of Hezbollah in Lebanon?",
+    "excerpt": "It’s hard to assume that ‘anything positive’ for Lebanon can come from its talks with Israel, argues analyst Imad Harb.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-07T15:52:10.225713+00:00",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/7/does-israel-really-think-it-can-get-rid-of-hezbollah-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "2bb64de07991",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T14:56",
+    "headline": "The Taiz transplant team looking to begin a medical revolution in Yemen",
+    "excerpt": "Taiz&#039;s Cardiac and Vascular Diseases and Kidney Transplant Center provides Yemenis with affordable treatment.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-06-07T15:52:10.225747+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/7/a-cardiovascular-team-in-taiz-offers-yemen-hope-for-a-better-future?traffic_source=rss"
+  },
+  {
+    "id": "086ffbb3a39c",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T14:31",
+    "headline": "Israel kills nine in Gaza as Egypt hosts renewed ‘ceasefire’ talks",
+    "excerpt": "At least five people were killed in one attack on a police post as Hamas and other groups met mediators in Cairo.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-07T15:52:10.225779+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo?traffic_source=rss"
+  },
+  {
+    "id": "c5f8d21dd8d7",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T14:14",
+    "headline": "Fifty-two hours on an Israeli prison ship",
+    "excerpt": "A flotilla activist recounts his detention after Israeli forces intercepted a Gaza-bound solidarity mission at sea.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-06-07T15:52:10.225803+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/7/fifty-two-hours-on-an-israeli-prison-ship?traffic_source=rss"
+  },
+  {
+    "id": "a01239362db3",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T14:14",
+    "headline": "Missiles and negotiations: Iran 100 days into the war with US and Israel",
+    "excerpt": "Talks and attacks have continued for months, and could last much longer without a breakthrough.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-07T15:52:10.225832+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel?traffic_source=rss"
+  },
+  {
     "id": "930f966e15e2",
     "source": "Al Jazeera",
     "date": "2026-06-07T14:00",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-28T08:46:56.112858+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss"
-  },
-  {
-    "id": "49c6ef56cf32",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T04:56",
-    "headline": "Ghana welcomes home citizens evacuated from South Africa",
-    "excerpt": "The first flight carrying around 300 Ghanaians evacuated from South Africa following anti-immigrant tensions.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-28T08:46:56.112887+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/ghana-welcomes-home-citizens-evacuated-from-south-africa?traffic_source=rss"
-  },
-  {
-    "id": "5dd5084ec7ef",
-    "source": "PressTV",
-    "date": "2026-05-28T08:46",
-    "headline": "‘Stern warning’: IRGC announces retaliatory attack on US base following American aggression",
-    "excerpt": "The IRGC warns the enemies that it will give decisive response to any act of aggression against the Islamic Republic.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-28T08:46:58.386428+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/28/769399/Iran-US-IRGC-aggression"
-  },
-  {
-    "id": "635f0088834a",
-    "source": "PressTV",
-    "date": "2026-05-28T08:46",
-    "headline": "Iran inflicted ‘historic defeat’ on enemies in imposed wars: Acting defense minister",
-    "excerpt": "Iran’s acting defense minister says the country’s armed forces managed to inflict a \"historic defeat\" on the US and the Israeli regime in their two imposed wars.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-28T08:46:58.386464+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/28/769405/Iran-historic-defaet-enemies"
-  },
-  {
-    "id": "f56ef1267a1d",
-    "source": "PressTV",
-    "date": "2026-05-28T08:46",
-    "headline": "US slaps sanctions on Iran’s Strait of Hormuz authority after military failures",
-    "excerpt": "Washington has been unable to break Tehran’s control over the Strait of Hormuz, despite a heavy air campaign, a naval blockade, special forces operations, and a failed “humanitarian” escort mission.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-05-28T08:46:58.386485+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/28/769406/US-sanctions-Iran-Strait-of-Hormuz-war-PGSA-Trump-Oman"
-  },
-  {
-    "id": "15d144e35d22",
-    "source": "PressTV",
-    "date": "2026-05-28T08:46",
-    "headline": "Resistance factions honor assassinated Qassam commander Odeh, vow increased resolve",
-    "excerpt": "Resistance factions have mourned the assassination of the commander of the Qassam Brigades in an Israeli airstrike against a neighborhood in the Gaza Strip.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-28T08:46:58.386506+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/28/769403/Resistance-factions-mourn-assassination-of-Qassam-Brigades-commander-in-Israel-strike"
-  },
-  {
-    "id": "c5c46f631a00",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T00:00",
-    "headline": "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
-    "excerpt": "Kuwait&#039;s military says air defences are battling &#039;hostile&#039; missiles and drones, as alarms sound across the country.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-28T04:51:09.570685+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "35da68e01268",
-    "source": "PressTV",
-    "date": "2026-05-28T04:51",
-    "headline": "Iran forces trespassing US tanker back after illegal attempt at crossing Strait of Hormuz: Report",
-    "excerpt": "A report says the IRGC's Navy has forced an American tanker trying to illegally cross the Strait of Hormuz, despite Iran's restrictions, to turn back.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-05-28T04:51:11.481470+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/28/769397/Iran-forces-American-tanker-Strait-of-Hormuz-IRGC"
-  },
-  {
-    "id": "116e71e71819",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T00:03",
-    "headline": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
-    "excerpt": "Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-28T00:15:17.506696+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss"
   }
 ]
