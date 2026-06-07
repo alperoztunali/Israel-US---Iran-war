@@ -1,5 +1,93 @@
 [
   {
+    "id": "930f966e15e2",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T14:00",
+    "headline": "Israel strikes southern suburbs of Lebanon’s capital Beirut",
+    "excerpt": "Videos show the aftermath of an Israeli attack on Beirut&#039;s southern suburbs, with multiple explosions reported.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-07T14:23:20.656884+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/israel-strikes-southern-suburbs-of-lebanons-capital-beirut?traffic_source=rss"
+  },
+  {
+    "id": "9c3dd9ce221b",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T13:47",
+    "headline": "Why has the Pentagon raised the risk of Israeli spying to the highest level?",
+    "excerpt": "The US agencies warn against Israeli efforts to collect information on the talks to end the war, according to reports.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-07T14:23:20.656926+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/7/why-has-the-pentagon-raised-the-risk-of-israeli-spying-to-the-highest-level?traffic_source=rss"
+  },
+  {
+    "id": "d39dc4085736",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T13:26",
+    "headline": "‘What ceasefire?’ Palestinians inspect destruction after Israeli strike",
+    "excerpt": "Palestinians inspect the aftermath of an Israeli strike in Khan Younis.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-07T14:23:20.656960+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/what-ceasefire-palestinians-inspect-destruction-after-israeli-strike?traffic_source=rss"
+  },
+  {
+    "id": "4042862e8118",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T13:25",
+    "headline": "100 days into Iran war, Americans face higher prices",
+    "excerpt": "On average, US households have spent $750 more in expenses due to the war, hitting middle and lower-income people hard.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-07T14:23:20.656988+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/7/100-days-into-iran-war-americans-face-higher-prices?traffic_source=rss"
+  },
+  {
+    "id": "4a60eea3122d",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T13:01",
+    "headline": "Ben-Gvir praises police on killing shooter in central Israel",
+    "excerpt": "Israel’s far right minister Itamar Ben-Gvir praised police for killing a Kokhav Yair shooting suspect.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-07T14:23:20.657021+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/ben-gvir-praises-police-on-killing-shooter-in-central-israel?traffic_source=rss"
+  },
+  {
+    "id": "7290e9ff48fa",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T12:47",
+    "headline": "Russian drone strike damages site near Chornobyl nuclear plant",
+    "excerpt": "Ukraine&#039;s President Volodymyr Zelenskyy condemns &#039;extremely vile&#039; attack that did not lead to spike in radiation.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-07T14:23:20.657049+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/7/russian-drone-strike-damages-site-near-chornobyl-nuclear-plant?traffic_source=rss"
+  },
+  {
+    "id": "5e04ea46e4f2",
+    "source": "PressTV",
+    "date": "2026-06-07T14:23",
+    "headline": "Israel bombs Lebanese capital’s Dahiyeh despite US objections",
+    "excerpt": "The Israeli regime launches attacks on the southern areas of the Lebanese capital Beirut where Hezbollah is based.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-07T14:23:22.495621+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/07/770000/Lebanon-Beirut-attack-Israel-Hezbollah"
+  },
+  {
+    "id": "d0fcb599418c",
+    "source": "PressTV",
+    "date": "2026-06-07T14:23",
+    "headline": "Iran says US ‘changing, contradictory’ positions keep talks stalled",
+    "excerpt": "Iran says the US's changing and contradictory positions are the main obstacle that keeps talks stalled between the two countries.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-07T14:23:22.495666+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/07/769999/Iran-US-Baghaei-CNN"
+  },
+  {
     "id": "570d8a417fcb",
     "source": "Al Jazeera",
     "date": "2026-06-07T11:14",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-28T00:15:17.506696+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss"
-  },
-  {
-    "id": "6c2bf1dfe377",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T00:00",
-    "headline": "Iran war live: Israel orders mass forced displacement for all south Lebanon",
-    "excerpt": "The Lebanese Health Ministry reports that Israeli attacks have killed 3,269 people since March 2.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-05-28T00:15:17.506734+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "073af690b8f4",
-    "source": "PressTV",
-    "date": "2026-05-28T00:15",
-    "headline": "Iran not to be pushed back from its red lines by Trump's rhetoric: Senior lawmaker",
-    "excerpt": "Senior lawmaker asserts that Trump's on-again, off-again recourse to menacing rhetoric will not force Iran to retreat from its red lines.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-28T00:15:18.894328+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/27/769396/Iran-Trump-red-lines-uranium-Hormuz"
-  },
-  {
-    "id": "650f7ff364db",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T21:14",
-    "headline": "Markets rally amid hopes of US-Iran deal",
-    "excerpt": "Markets betting a deal will reopen the Strait of Hormuz and soothe the deep global economic uncertainty.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-27T21:29:23.518074+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss"
-  },
-  {
-    "id": "b12434f9b04d",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T20:56",
-    "headline": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
-    "excerpt": "Intensification comes while US-Iran indirect talks continue.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-27T21:29:23.518119+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "6ef1822041bd",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T20:56",
-    "headline": "Trump says no one will control Strait of Hormuz",
-    "excerpt": "Donald Trump says he won’t allow Iran to control ⁠the Strait of ⁠Hormuz under the terms of any deal reached with Tehran.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-27T21:29:23.518157+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "361785780568",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T20:38",
-    "headline": "Trump appears to threaten Oman over Strait of Hormuz impasse",
-    "excerpt": "The US president warns that Oman, a US ally, &#039;will behave just like everybody else, or we will have to blow them up&#039;.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-27T21:29:23.518194+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss"
-  },
-  {
-    "id": "75f8757b3dbe",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T20:15",
-    "headline": "Can the US and India repair ties over trade and China?",
-    "excerpt": "Rubio&#039;s visit to India comes as Washington seeks closer ties with New Delhi amid trade tensions and energy politics.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-27T21:29:23.518230+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss"
-  },
-  {
-    "id": "97ba0231f34e",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T20:13",
-    "headline": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
-    "excerpt": "Israel has ordered the evacuation of the southern Lebanese city of Tyre",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-27T21:29:23.518254+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss"
   }
 ]
