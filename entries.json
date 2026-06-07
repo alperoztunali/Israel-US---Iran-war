@@ -1,5 +1,104 @@
 [
   {
+    "id": "63d857877f87",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T07:33",
+    "headline": "Iran war day 100: US, Iran trade attacks again, raising tensions",
+    "excerpt": "Tensions rise as US shoots down Iranian drones over Strait of Hormuz, vital for international maritime traffic.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-07T08:07:07.467782+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss"
+  },
+  {
+    "id": "63d164becad5",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T06:01",
+    "headline": "Outrage over Palestinian ‘dog rape’ joke at Tribeca Film Festival",
+    "excerpt": "A US influencer and actor have caused outrage after mocking Palestinians subject to rape in Israeli prisons.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-07T08:07:07.467839+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/aje-onl-nf_outrage-over-palestinian-dog-rape-joke-at-tribeca-070626?traffic_source=rss"
+  },
+  {
+    "id": "25b127eeccd0",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T05:30",
+    "headline": "By the numbers: 100 days of the US-Israel war on Iran",
+    "excerpt": "From the human cost to the economy, Al Jazeera visualises how the US-Israel war on Iran has unfolded since February 28.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-07T08:07:07.467872+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "71445d42c144",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T04:51",
+    "headline": "How many times were the US and Iran on the verge of a deal?",
+    "excerpt": "One hundred days into the US-Israel war on Iran, we look at the number of times a deal seemed close.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-07T08:07:07.467900+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss"
+  },
+  {
+    "id": "e2ee6dd6d74b",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T04:30",
+    "headline": "Why is Chinese President Xi Jinping visiting North Korea now?",
+    "excerpt": "The Chinese leader is making his first trip to Pyongyang in seven years amid significant military developments.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-07T08:07:07.467934+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss"
+  },
+  {
+    "id": "42661cfe0c47",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T00:00",
+    "headline": "Iran war live: US forces shoot down Iranian drones in Strait of Hormuz",
+    "excerpt": "Israeli forces kill three high-ranking Lebanese soldiers as Arab nations condemn Iran&#039;s attacks on Bahrain and Kuwait.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-07T08:07:07.467957+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss"
+  },
+  {
+    "id": "581d7d66534e",
+    "source": "PressTV",
+    "date": "2026-06-07T08:07",
+    "headline": "Manhunt for suspects after 12 people shot near festival in Ohio",
+    "excerpt": "A police manhunt is underway for the suspected shooters engaging in a gunfight, leaving 12 people wounded near a festival in Toledo, Ohio.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-07T08:07:09.014167+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/07/769978/Manhunt-suspects-12-people-shot-festival-Toledo-Ohio"
+  },
+  {
+    "id": "74781285cd18",
+    "source": "PressTV",
+    "date": "2026-06-07T08:07",
+    "headline": "BRICS plays decisive role in global energy security: Iran envoy",
+    "excerpt": "The Iranian ambassador to Russia says BRICS plays a decisive role in ensuring global energy security.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-07T08:07:09.014209+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/07/769975/Iran-envoy--BRICS-plays-decisive-role-in-global-energy-security-"
+  },
+  {
+    "id": "33d885892cde",
+    "source": "PressTV",
+    "date": "2026-06-07T08:07",
+    "headline": "Netanyahu colluding with Congress to conceal Israel aid in Pentagon deals: Sanders",
+    "excerpt": "US Senator Bernie Sanders says Israeli Prime Minister Benjamin Netanyahu is colluding with the US Congress to conceal Washington’s military aid to Tel Aviv inside the Pentagon’s co-production agreements.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-07T08:07:09.014248+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/07/769974/US-senator--Netanyahu-conspiring-with-Congress-to-conceal-Israel-aid-in-Pentagon-deals"
+  },
+  {
     "id": "79c1d14a322e",
     "source": "Al Jazeera",
     "date": "2026-06-07T00:00",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-27T13:51:56.373206+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israeli-authorities-filmed-treating-palestinians-with-aggression-on-eid?traffic_source=rss"
-  },
-  {
-    "id": "57793839a6b1",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T10:59",
-    "headline": "Ex-champ Fury sets Dublin fight before ‘Battle of Britain’ against Joshua",
-    "excerpt": "Tyson Fury returns to the ring after his defeat by Oleksandr Usyk as he prepares for a rematch with Anthony Joshua.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-27T13:51:56.373252+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/5/27/ex-heavyweight-champ-fury-pens-dublin-ahead-of-joshua-battle-of-britain?traffic_source=rss"
-  },
-  {
-    "id": "7786730ddd3f",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T10:47",
-    "headline": "US, Iran have launched multiple attacks during ceasefire: A timeline",
-    "excerpt": "Washington carried out new strikes on southern Iran, while Tehran downed a US drone and fired at a fighter jet.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-05-27T13:51:56.373271+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/27/us-iran-have-launched-multiple-attacks-during-ceasefire-a-timeline?traffic_source=rss"
-  },
-  {
-    "id": "9fb8e504b5f0",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T10:12",
-    "headline": "US strike on alleged drug boat in Pacific kills one",
-    "excerpt": "Dozens of attacks since September have killed at least 194 people in US operation dubbed &#039;Southern Spear&#039;.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-27T13:51:56.373297+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/27/us-strike-on-alleged-drug-boat-in-pacific-kills-one?traffic_source=rss"
-  },
-  {
-    "id": "1edd48947d50",
-    "source": "PressTV",
-    "date": "2026-05-27T13:52",
-    "headline": "'Defeated militarily,' enemies waging hidden war: Iran Intel Ministry warns",
-    "excerpt": "Iran's Ministry of Intelligence exposes the defeated enemy's new playbook to harm the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-27T13:52:01.235543+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/27/769364/Iran-s-intelligence-ministry-reveals-enemy-s-7-point-agenda-defeat-military-aggression"
-  },
-  {
-    "id": "997a4d27d708",
-    "source": "PressTV",
-    "date": "2026-05-27T13:52",
-    "headline": "Pezeshkian: Economic war is main front after enemy's military failure",
-    "excerpt": "Pezeshkian says today's “main” battlefield is between the economic war and livelihood resilience, stressing the importance of the private sector.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-27T13:52:01.235598+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/27/769366/Pezeshkian-Economic-warfare-today-main-battleground"
-  },
-  {
-    "id": "628e486fc319",
-    "source": "PressTV",
-    "date": "2026-05-27T13:52",
-    "headline": "Qalibaf urges Islamic unity without foreign interference to resolve regional crises",
-    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf calls on Islamic nations to strengthen cooperation and build their own power without external interference.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-27T13:52:01.235638+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/27/769371/Iran-parl-speaker-urges-Islamic-unity-without-foreign-interference-resolve-regional-crises"
-  },
-  {
-    "id": "3f5df355419c",
-    "source": "PressTV",
-    "date": "2026-05-27T13:52",
-    "headline": "Hamas military chief assassinated in Israeli airstrike on Gaza city",
-    "excerpt": "The leader of Hamas military wing, Mohammed Odeh, was killed along with his family in an Israeli airstrike on Gaza City.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-27T13:52:01.235654+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/27/769369/Hamas-confirms-assassination-of-al-Qassam-commander-in-Israeli-strike-Gaza-City"
-  },
-  {
-    "id": "8260255cf8ad",
-    "source": "PressTV",
-    "date": "2026-05-27T13:52",
-    "headline": "'A colossal mistake': Mearsheimer on why war on Iran will dwarf US Iraq disaster",
-    "excerpt": "Leading American political theorist John Mearsheimer says the United States and Israel have failed in their war against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-27T13:52:01.235680+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/27/769362/US-Israel-failed-war-Iran-Political-theorist"
-  },
-  {
-    "id": "fd05b863d916",
-    "source": "PressTV",
-    "date": "2026-05-27T13:52",
-    "headline": "Iran hails Ireland’s move to ban imports from illegal Israeli settlements",
-    "excerpt": "Iran has welcomed Ireland’s decision to ban imports from illegal Israeli settlements, calling it a meaningful step toward enforcing international law.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-27T13:52:01.235714+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/27/769360/Iran-hails-Ireland%E2%80%99s-move-to-ban-imports-from-illegal-Israeli-settlements"
   }
 ]
