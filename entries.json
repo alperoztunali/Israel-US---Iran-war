@@ -1,5 +1,49 @@
 [
   {
+    "id": "570d8a417fcb",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T11:14",
+    "headline": "One killed, five wounded in shooting attack in Israel: Medics",
+    "excerpt": "Israeli police say the suspect is a Palestinian with Israeli citizenship.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-07T12:14:00.105822+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics?traffic_source=rss"
+  },
+  {
+    "id": "207189ca23a1",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T10:53",
+    "headline": "1 killed and 5 injured in Israel shootings",
+    "excerpt": "Multiple shooting attacks in Israel have killed 1 person and injured five others, Israeli police say.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-07T12:14:00.105855+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/1-killed-and-5-injured-in-israel-shootings?traffic_source=rss"
+  },
+  {
+    "id": "64738f6a3d4f",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T10:52",
+    "headline": "Israeli settlers threaten to kill Palestinian farmer and harass sheep",
+    "excerpt": "A Palestinian farmer recounts the moment a large group of Israeli settlers hit him and harassed his livestock.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-07T12:14:00.105890+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/israeli-settlers-threaten-to-kill-palestinian-farmer-and-harass-sheep?traffic_source=rss"
+  },
+  {
+    "id": "d3781761d1a7",
+    "source": "Al Jazeera",
+    "date": "2026-06-07T09:34",
+    "headline": "Hundred days of the US-Israel war on Iran",
+    "excerpt": "As the war on Iran marks 100 days, a complete truce still seems elusive, with the loss of life mounting in the region.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-07T12:14:00.105929+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss"
+  },
+  {
     "id": "57a34cb6296a",
     "source": "Al Jazeera",
     "date": "2026-06-07T10:17",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-27T21:29:23.518254+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss"
-  },
-  {
-    "id": "9ac0b43bd178",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T19:58",
-    "headline": "India orders demolition drive along border as Pakistan tensions simmer",
-    "excerpt": "The interior minister urged officials to address infiltration, narcotics, smuggling, and other &#039;trans-border crimes&#039;.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-05-27T21:29:23.518292+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/27/india-orders-demolition-drive-along-border-as-pakistan-tensions-simmer?traffic_source=rss"
-  },
-  {
-    "id": "67a639445a63",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T19:47",
-    "headline": "Russia to task bankers with shooting down Ukrainian drones",
-    "excerpt": "New legislation aims to integrate banks into Russia&#039;s air defences using jamming systems and trained employees.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-27T21:29:23.518327+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/27/russia-to-task-bankers-with-shooting-down-ukrainian-drones?traffic_source=rss"
-  },
-  {
-    "id": "5db0c6f28a05",
-    "source": "Al Jazeera",
-    "date": "2026-05-27T19:04",
-    "headline": "Iran government sells subsidised meat for Eid al-Adha under blockade",
-    "excerpt": "Iranians are seeing the price of meat, and other basics, escalate due to the US blockade and sanctions.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-27T21:29:23.518356+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss"
-  },
-  {
-    "id": "0aea971b9d11",
-    "source": "PressTV",
-    "date": "2026-05-27T21:29",
-    "headline": "US missile stockpiles may take years to recover after Iran war: Analysis",
-    "excerpt": "A new analysis shows that the United States may need years to rebuild key missile inventories depleted during the 40-day campaign of aggression against Iran.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-27T21:29:25.640047+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/27/769394/United-States-missile-stockpile-Iran-war"
   }
 ]
