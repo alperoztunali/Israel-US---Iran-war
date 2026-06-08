@@ -1,5 +1,60 @@
 [
   {
+    "id": "b930bdbca871",
+    "source": "Al Jazeera",
+    "date": "2026-06-08T04:47",
+    "headline": "Satellite images show destruction of the US-Israel war on Iran",
+    "excerpt": "From Iranian naval ports to US military bases across the Gulf, Al Jazeera shows 15 sites before and after the attacks.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-08T05:07:04.680571+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "6863c63270a4",
+    "source": "Al Jazeera",
+    "date": "2026-06-08T04:14",
+    "headline": "Debris reported in Jordan after Iranian missiles aimed at Israel intercepte",
+    "excerpt": "Missiles believed fired from Iran toward Israel were seen over Jordan, with one reportedly intercepted.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-08T05:07:04.680606+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/aje-onl-nf_debris-reported-in-jordan-after-iranian-missiles-070626?traffic_source=rss"
+  },
+  {
+    "id": "2ff9e40441d9",
+    "source": "Al Jazeera",
+    "date": "2026-06-08T01:03",
+    "headline": "Oppenheimer: Trump holds the reins on Netanyahu’s escalation options",
+    "excerpt": "Israeli PM Benjamin Netanyahu has incentives to escalate tensions with Iran but is constrained by US President Trump.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-08T05:07:04.680651+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/oppenheimer-trump-holds-the-reins-on-netanyahus-escalation-options?traffic_source=rss"
+  },
+  {
+    "id": "2a349d18cc3f",
+    "source": "Al Jazeera",
+    "date": "2026-06-08T00:13",
+    "headline": "Iran and Israel trade threats after Tehran launches missiles",
+    "excerpt": "Iran and Israel exchanged threats after Tehran launched missiles towards Israel in response to Israeli strikes on Beirut",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-06-08T05:07:04.680671+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss"
+  },
+  {
+    "id": "755ff3164579",
+    "source": "Al Jazeera",
+    "date": "2026-06-08T00:00",
+    "headline": "Iran war live: Explosions in Tehran, Isfahan as Israel launches attacks",
+    "excerpt": "Escalation comes after Israel attacked Lebanon&#039;s capital, Beirut, killing at least two people and wounding 20.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-08T05:07:04.680703+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss"
+  },
+  {
     "id": "4d1dd8e19ee9",
     "source": "PressTV",
     "date": "2026-06-08T00:15",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-28T19:28:51.358000+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss"
-  },
-  {
-    "id": "c71596414155",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T18:36",
-    "headline": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-    "excerpt": "Restoring pre-war stockpiles of critical US munitions will take at least two years, according to CSIS report.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-28T19:28:51.358050+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss"
-  },
-  {
-    "id": "1e28b12ab561",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T18:25",
-    "headline": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
-    "excerpt": "US and Iranian negotiators have reached a memorandum of understanding on a proposed 60-day ceasefire extension.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-28T19:28:51.358085+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss"
-  },
-  {
-    "id": "e9a0077d53ba",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T18:21",
-    "headline": "US and Iran reach tentative deal for 60-day truce extension, officials say",
-    "excerpt": "The memorandum of understanding, which would enable further negotiations, still requires Donald Trump&#039;s final approval.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-28T19:28:51.358115+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss"
-  },
-  {
-    "id": "294c272a8282",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T17:40",
-    "headline": "How War Changed Eid in Lebanon",
-    "excerpt": "After nearly three years of war and displacement, Eid in Lebanon no longer feels like celebration for many families.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-05-28T19:28:51.358143+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/how-war-changed-eid-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "5040a647ce46",
-    "source": "Al Jazeera",
-    "date": "2026-05-28T17:16",
-    "headline": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
-    "excerpt": "Israeli ambassador to the UN says Tel Aviv will cut ties with UN chief Antonio Guterres over the upcoming report.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-28T19:28:51.358182+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss"
   }
 ]
