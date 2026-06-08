@@ -1,5 +1,82 @@
 [
   {
+    "id": "86d108cf8f88",
+    "source": "Al Jazeera",
+    "date": "2026-06-08T18:54",
+    "headline": "NATO jets shoot down drone over Latvia, extending Ukraine spillover fears",
+    "excerpt": "The drone entered Latvian airspace due to &#039;Russian electronic warfare&#039;, the military says.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-06-08T19:52:51.096528+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/8/nato-jets-shoot-down-drone-over-latvia-extending-ukraine-spillover-fears?traffic_source=rss"
+  },
+  {
+    "id": "a1d483f1391f",
+    "source": "Al Jazeera",
+    "date": "2026-06-08T18:36",
+    "headline": "Moment Israeli helicopter fires missile on Gaza City target",
+    "excerpt": "Footage shows the moment an Israeli helicopter launched a missile at an unknown target in the Gaza City neighbourhood.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-06-08T19:52:51.096564+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/moment-israeli-helicopter-fires-missile-on-gaza-city-target?traffic_source=rss"
+  },
+  {
+    "id": "33b913e797e8",
+    "source": "Al Jazeera",
+    "date": "2026-06-08T18:28",
+    "headline": "UN watchdog, Western nations call on Iran to restart nuclear cooperation",
+    "excerpt": "IAEA chief Rafael Grossi urges Tehran to re-engage. US and E3 demand information on whereabouts of uranium.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-08T19:52:51.096599+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/8/un-watchdog-western-nations-call-on-iran-to-restart-nuclear-cooperation?traffic_source=rss"
+  },
+  {
+    "id": "a4d68e98adf5",
+    "source": "Al Jazeera",
+    "date": "2026-06-08T18:17",
+    "headline": "Nuclear risks rise as powers expand and modernise arsenals: SIPRI study",
+    "excerpt": "Nuclear states walking away from disarmament commitments amid heightened escalation dangers, leading institute warns.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-08T19:52:51.096636+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/8/nuclear-risks-rise-as-powers-expand-and-modernise-arsenals-study-finds?traffic_source=rss"
+  },
+  {
+    "id": "09c3161c23fc",
+    "source": "Al Jazeera",
+    "date": "2026-06-08T18:00",
+    "headline": "US judge strikes down Trump’s $100,000 H1-B visa fee",
+    "excerpt": "In a ruling on Monday, a federal judge said the fee was a tax that Trump did not have the authority to impose.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-06-08T19:52:51.096674+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/8/us-judge-strikes-down-trumps-100000-h1-b-visa-fee?traffic_source=rss"
+  },
+  {
+    "id": "c4211c72d718",
+    "source": "PressTV",
+    "date": "2026-06-08T19:52",
+    "headline": "Iran to pursue both war and diplomacy to defend people’s rights: Qalibaf",
+    "excerpt": "Qalibaf says Iran’s strategy is to pursue war and diplomacy at the same time to reach its objectives.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-08T19:52:53.502028+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/08/770095/Iran-war-diplomacy-strategy-Ghalibaf-message"
+  },
+  {
+    "id": "48fa261f63a3",
+    "source": "PressTV",
+    "date": "2026-06-08T19:52",
+    "headline": "Iran upended equation of ceasefire on paper, violations in practice: Qalibaf",
+    "excerpt": "Parliament Speaker Mohammad Baqer Qalibaf says Iran disrupted the equation of a ceasefire existing on place and its breach in practice.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-08T19:52:53.502074+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/08/770088/Iran-disrupted-ceasefire-paper-violations-ground"
+  },
+  {
     "id": "4ca75cee2b89",
     "source": "Al Jazeera",
     "date": "2026-06-08T16:48",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-29T19:41:30.103193+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "53b2660ac398",
-    "source": "Al Jazeera",
-    "date": "2026-05-29T17:10",
-    "headline": "Trump says ‘final determination’ to be made on possible Iran deal",
-    "excerpt": "Deep mistrust remains between Washington and Tehran as Iran says &#039;no final agreement&#039; reached with US.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-29T19:41:30.103226+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal?traffic_source=rss"
-  },
-  {
-    "id": "48b7b4fc51a2",
-    "source": "PressTV",
-    "date": "2026-05-29T19:41",
-    "headline": "Iran says no final understanding with US yet, rejects Trump's 'language of must'",
-    "excerpt": "Iran's Foreign Ministry spokesman said Friday that message exchanges with Washington continue, but no final understanding has been reached.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-05-29T19:41:31.634281+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/29/769488/Iran-says-no-final-understanding-with-US-yet-rejects-Trump-language-must"
-  },
-  {
-    "id": "0dd89f87d043",
-    "source": "PressTV",
-    "date": "2026-05-29T19:41",
-    "headline": "Trump’s remarks on US-Iran talks ‘distortion of reality’: Report",
-    "excerpt": "Sources close to Iran’s negotiating team says Donald Trump’s remarks on a potential deal is distortion of reality.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-29T19:41:31.634320+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/29/769489/Trump%E2%80%99s-remarks-on-US-Iran-talks-%E2%80%98distortion-of-reality%E2%80%99-as-no-decision-made-byIran"
-  },
-  {
-    "id": "507f6d226eb8",
-    "source": "PressTV",
-    "date": "2026-05-29T19:41",
-    "headline": "Leader’s advisor: Iran remains formidable obstacle to US-Israeli malicious plans in West Asia",
-    "excerpt": "Mohsen Rezaei says Iran stands as a formidable obstacle to US and Israeli objectives, particularly their attempts to redraw the map of West Asia.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-29T19:41:31.634365+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/29/769487/Leader%E2%80%99s-advisor--Iran-remains-formidable-obstacle-to-US-Israeli-malicious-plans-in-West-Asia"
-  },
-  {
-    "id": "e0a9faceb2cb",
-    "source": "Al Jazeera",
-    "date": "2026-05-29T16:31",
-    "headline": "Vance says US, Iran have made “a lot of progress” towards deal",
-    "excerpt": "US Vice President JD Vance says Washington and Tehran have made “a lot of progress” towards ceasefire",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-29T17:02:56.121040+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/vance-says-us-iran-have-made-a-lot-of-progress-towards-deal?traffic_source=rss"
-  },
-  {
-    "id": "07a226ba5a9c",
-    "source": "Al Jazeera",
-    "date": "2026-05-29T15:59",
-    "headline": "Five killed in Lebanon as Israeli forces advance across key Litani River",
-    "excerpt": "Attacks come ahead of security talks between Lebanese and Israeli military delegations at the Pentagon.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-29T17:02:56.121078+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/29/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river?traffic_source=rss"
-  },
-  {
-    "id": "233cbfd04503",
-    "source": "Al Jazeera",
-    "date": "2026-05-29T15:50",
-    "headline": "Israel strikes building in Gaza’s Shati refugee camp",
-    "excerpt": "Israel strikes building in Gaza’s Shati refugee camp.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-29T17:02:56.121116+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israel-strikes-building-in-gazas-shati-refugee-camp?traffic_source=rss"
   }
 ]
