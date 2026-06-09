@@ -1,5 +1,71 @@
 [
   {
+    "id": "8f2ebc8ed0d0",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T17:59",
+    "headline": "‘Anything but normal’: Uncertainty as Iranians try to get by amid US war",
+    "excerpt": "War damage and blockade have worsened economic conditions for many struggling Iranians.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-09T18:12:10.906957+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/anything-but-normal-uncertainty-as-iranians-try-to-get-by-amid-us-war?traffic_source=rss"
+  },
+  {
+    "id": "cda9b495402e",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T17:55",
+    "headline": "Palestinians confront Israeli settlers over land grab near Hebron",
+    "excerpt": "Palestinians confronted Israeli settlers near Hebron over their attempt to seize Palestinian land",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-09T18:12:10.907003+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/palestinians-confront-israeli-settlers-over-land-grab-near-hebron?traffic_source=rss"
+  },
+  {
+    "id": "6a9fa250efa3",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T16:54",
+    "headline": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
+    "excerpt": "US president says although the pilots were rescued, Washington &#039;must, of necessity, respond to this attack&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-09T18:12:10.907039+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss"
+  },
+  {
+    "id": "3ca0b8dd305a",
+    "source": "PressTV",
+    "date": "2026-06-09T18:12",
+    "headline": "IAEA draft resolution ‘dangerous attempt’ at whitewashing aggression, Iran warns",
+    "excerpt": "Iran’s deputy foreign minister has censured the Board of Governors of the International Atomic Energy Agency (IAEA) over an anti-Islamic Republic draft resolution.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-09T18:12:12.743125+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/09/770144/iaea-anti-iran-draft-resolution-gharibabadi"
+  },
+  {
+    "id": "80b687464287",
+    "source": "PressTV",
+    "date": "2026-06-09T18:12",
+    "headline": "‘You pulled Iran out of wolves’ jaws’: Qalibaf hails nation for nightly rallies",
+    "excerpt": "Iran's Parliament Speaker Qalibaf has lauded the Iranians for their ongoing nightly gatherings, which have extended to 100 days as a symbol of popular resistance against the US‑Israeli war of aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-09T18:12:12.743179+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/09/770141/You-pulled-country-out-of-wolves-jaws-Ghalibaf-hails-Iranian-nation-for-nightly-rallies"
+  },
+  {
+    "id": "82f57257c7f5",
+    "source": "PressTV",
+    "date": "2026-06-09T18:12",
+    "headline": "Israeli airstrikes kill at least nine in southern Lebanon’s Tyre",
+    "excerpt": "Nine Lebanese civilians have been killed and dozens more wounded after Israeli airstrikes hit the port city of Tyre in southern Lebanon.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-09T18:12:12.743202+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/09/770140/Lebanon-Tyre-Israel-"
+  },
+  {
     "id": "28308e8e23eb",
     "source": "Al Jazeera",
     "date": "2026-06-09T15:07",
@@ -5432,71 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-05-31T01:55:07.664110+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss"
-  },
-  {
-    "id": "238abc78593d",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T00:00",
-    "headline": "Iran war live: Lebanon’s PM slams Israel attacks; US-Tehran deal in limbo",
-    "excerpt": "Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-31T01:55:07.664161+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss"
-  },
-  {
-    "id": "887db2320669",
-    "source": "PressTV",
-    "date": "2026-05-31T01:55",
-    "headline": "Iran Army, Foreign Ministry stress battlefield-diplomacy synergy in safeguarding national interests",
-    "excerpt": "Iran's Army and Foreign Ministry spokespersons underscore the close coordination between the Islamic Republic's military capabilities and diplomatic instruments.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-31T01:55:09.476031+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769558/Iran-Army-Foreign-Ministry-coordination-military-capability-diplomacy"
-  },
-  {
-    "id": "b82d4de104a2",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T22:28",
-    "headline": "US Congress advances American-Israeli military integration plan",
-    "excerpt": "A provision in the 2027 draft US defence bill could bind the two countries&#039; weapons industries closer than ever.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-30T22:41:48.456301+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss"
-  },
-  {
-    "id": "7a00bd24b4f4",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T21:36",
-    "headline": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-    "excerpt": "Geopolitical analyst Joe Macaron says the Lebanese army is ‘overly stretched’ as Israeli troops expand their occupation.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-30T22:41:48.456358+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss"
-  },
-  {
-    "id": "99949eae777c",
-    "source": "PressTV",
-    "date": "2026-05-30T22:41",
-    "headline": "Iran to respond more forcefully to any fresh enemy aggression: Senior Army commander",
-    "excerpt": "Senior Iranian Army commander strongly warns the Islamic Republic's adversaries against attempting fresh aggression against the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-30T22:41:50.036347+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/30/769555/Iran-commander-warning-enemies-attack"
-  },
-  {
-    "id": "4f87b6a9db55",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T20:23",
-    "headline": "Putin says drone that crashed in Romania likely Ukrainian",
-    "excerpt": "Putin says drone that crashed in Romania likely Ukrainian.",
-    "category": "Missile/Drone",
-    "location": "Oman",
-    "addedAt": "2026-05-30T21:43:42.727759+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/putin-says-drone-that-crashed-in-romania-likely-ukrainian?traffic_source=rss"
   }
 ]
