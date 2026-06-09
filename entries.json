@@ -1,5 +1,71 @@
 [
   {
+    "id": "4a07f3803c73",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T19:31",
+    "headline": "What will the fallout be from the unrest in Pakistan-administered Kashmir?",
+    "excerpt": "Recent clashes between protesters and police killed at least 11 people.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-09T20:21:06.514409+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss"
+  },
+  {
+    "id": "c567c74b11bf",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T19:09",
+    "headline": "Why so many Americans haven’t heard about the USS Liberty",
+    "excerpt": "Al Jazeera’s Ava Warriner explains what happened on the day of the attack, the alleged cover-up that followed.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-09T20:21:06.514471+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/why-so-many-americans-havent-heard-about-the-uss-liberty?traffic_source=rss"
+  },
+  {
+    "id": "94ed3e965b2b",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T18:35",
+    "headline": "NASA announces astronauts for Artemis III spaceflight, scheduled for 2027",
+    "excerpt": "Questions linger over whether the explosion of the Blue Origin New Glenn rocket will affect the Artemis III mission.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-09T20:21:06.514502+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/nasa-announces-astronauts-for-artemis-iii-spaceflight-scheduled-for-2027?traffic_source=rss"
+  },
+  {
+    "id": "d05c52c67e22",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T18:08",
+    "headline": "Israel preventing more than 16,500 Palestinians from accessing medical treatment",
+    "excerpt": "Israel has systematically destroyed Gaza&#039;s healthcare system since launching its genocidal war in October 2023.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-09T20:21:06.514535+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/israel-preventing-more-than-16500-palestinians-from-accessing-medical-treatment?traffic_source=rss"
+  },
+  {
+    "id": "84edd8aee9df",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T13:41",
+    "headline": "Trump says in ‘final throes’ of peace deal but Israel kills 17 in Lebanon",
+    "excerpt": "The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-09T20:21:06.514582+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss"
+  },
+  {
+    "id": "01abed89e0db",
+    "source": "PressTV",
+    "date": "2026-06-09T20:21",
+    "headline": "Qalibaf: Iran has options other than diplomacy to deal with US and Israel",
+    "excerpt": "The Iranian Parliament speaker warns that Iran has alternatives to diplomacy if the US and Israel fail to uphold their commitments.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-09T20:21:08.096657+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/09/770153/Iran-Ghalibaf-warning-diplomacy-force-US-Israel"
+  },
+  {
     "id": "8f2ebc8ed0d0",
     "source": "Al Jazeera",
     "date": "2026-06-09T17:59",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-05-31T09:34:09.034109+00:00",
     "link": "https://presstv.ir/Detail/2026/05/31/769574/US-military-strike-targets-3-suspected-drug-traffickers-Pacific-Ocean-202-death-toll"
-  },
-  {
-    "id": "5ef9d7621bc8",
-    "source": "PressTV",
-    "date": "2026-05-31T09:34",
-    "headline": "IRGC shoots down intruding US MQ-1 Predator drone over Persian Gulf",
-    "excerpt": "The IRGC air defense units shoot down a US MQ-1 Predator drone in the Iranian skies over the Persian Gulf.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-05-31T09:34:09.034141+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769566/IRGC-shoots-down-US-MQ-1-Predator-drone-in-Iranian-skies-over-Persian-Gulf-"
-  },
-  {
-    "id": "396cf59cb1fc",
-    "source": "PressTV",
-    "date": "2026-05-31T09:34",
-    "headline": "Israeli minister urges Netanyahu to ‘level Beirut suburbs to the ground’",
-    "excerpt": "Ben-Gvir calls on Netanyahu to flatten the suburbs of the Lebanese capital as Israel escalates its aggression against the Arab country.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-31T09:34:09.034176+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769565/Israel-Ben-Gvir-Netanyahu-level-Beirut"
-  },
-  {
-    "id": "0659cff4335d",
-    "source": "PressTV",
-    "date": "2026-05-31T09:34",
-    "headline": "Hegseth warns of China’s growing power, urges US allies in Asia to increase military spending",
-    "excerpt": "US War Secretary Pete Hegseth urges Asian allies to ramp up military purchases to counter China’s “historic military buildup.”",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-31T09:34:09.034219+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769563/US-War-Secretary-Hegseth-Urges-Asian-Leaders-Boost-military-spending-China-historic-military-buildup"
-  },
-  {
-    "id": "184e394095e3",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T00:00",
-    "headline": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
-    "excerpt": "Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-31T06:24:38.543211+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss"
-  },
-  {
-    "id": "5cf3a6e03569",
-    "source": "PressTV",
-    "date": "2026-05-31T06:24",
-    "headline": "Ukraine ‘deliberately’ attacked Europe’s largest nuclear power plant: Rosatom",
-    "excerpt": "The Ukrainian military “deliberately” attacked Russia’s Zaporozhye Nuclear Power Plant (ZNPP), according to the Russian state nuclear corporation Rosatom.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-31T06:24:39.984615+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769561/Russia-condemns-Ukraine%E2%80%99s-%E2%80%98deliberate-strike%E2%80%99-on-Europe%E2%80%99s-largest-nuclear-power-plant"
-  },
-  {
-    "id": "5b166c6b79fd",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T00:27",
-    "headline": "Rescues in eastern Syria after the Euphrates River bursts its banks",
-    "excerpt": "Rescue workers have pulled stranded farmers from flood waters in eastern Syria after the Euphrates burst its banks.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-05-31T01:55:07.664110+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss"
   }
 ]
