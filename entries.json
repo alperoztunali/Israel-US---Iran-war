@@ -1,5 +1,49 @@
 [
   {
+    "id": "ba43e7294f0e",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T21:17",
+    "headline": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
+    "excerpt": "President Trump accused Iran of shooting down a US Apache helicopter over the Strait of Hormuz",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-09T22:08:06.410021+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss"
+  },
+  {
+    "id": "b8d60e4ebc65",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T21:01",
+    "headline": "Israeli forces kill nine in Tyre after issuing forced displacement orders",
+    "excerpt": "Israeli forces killed nine people in Tyre in the past 24 hours after it issued forced displacement orders on the city.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-09T22:08:06.410058+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss"
+  },
+  {
+    "id": "d046d36b2e34",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T16:54",
+    "headline": "US attacks Iran after Trump calls for response to Apache helicopter downing",
+    "excerpt": "US president says that, although the pilots were rescued, Washington &#039;must, of necessity, respond to this attack&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-09T22:08:06.410109+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss"
+  },
+  {
+    "id": "5d804a6a4586",
+    "source": "PressTV",
+    "date": "2026-06-09T22:08",
+    "headline": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
+    "excerpt": "Foreign Minister Abbas Araghchi underlines Iran's territorial right to the strategic Strait of Hormuz, warning adversaries against interference.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-09T22:08:08.243652+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave"
+  },
+  {
     "id": "4a07f3803c73",
     "source": "Al Jazeera",
     "date": "2026-06-09T19:31",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-31T09:34:07.576656+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss"
-  },
-  {
-    "id": "4723379dae4f",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T07:22",
-    "headline": "Missing Syrian chess champion’s children likely dead, authorities say",
-    "excerpt": "Syrian commission confirms deaths of Rania al-Abbasi&#039;s six children, missing since 2013 under Bashar al-Assad&#039;s rule.",
-    "category": "Casualties",
-    "location": "Syria",
-    "addedAt": "2026-05-31T09:34:07.576686+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/31/missing-syrian-chess-champions-children-likely-dead-authorities-say?traffic_source=rss"
-  },
-  {
-    "id": "eb38f6749056",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T06:43",
-    "headline": "Panic on beach in northern Israel during Hezbollah strikes",
-    "excerpt": "Videos show people on a beach in Nahariya, Israel running for shelter as Hezbollah rockets are launched.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-05-31T09:34:07.576709+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes?traffic_source=rss"
-  },
-  {
-    "id": "d3e0f850f8ca",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T22:28",
-    "headline": "Congress advances US-Israeli military integration plan",
-    "excerpt": "A provision in the 2027 draft US defence bill could bind the two countries&#039; weapons industries closer than ever.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-31T09:34:07.576750+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss"
-  },
-  {
-    "id": "250096694eb2",
-    "source": "PressTV",
-    "date": "2026-05-31T09:34",
-    "headline": "US military kills 3 more people aboard vessel in eastern Pacific Ocean",
-    "excerpt": "A US military strike kills 3 more people aboard an alleged “drug boat” in the eastern Pacific Ocean.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-05-31T09:34:09.034109+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769574/US-military-strike-targets-3-suspected-drug-traffickers-Pacific-Ocean-202-death-toll"
   }
 ]
