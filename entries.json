@@ -1,5 +1,93 @@
 [
   {
+    "id": "28308e8e23eb",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T15:07",
+    "headline": "Six countries sanction enablers of settler violence in occupied West Bank",
+    "excerpt": "The Western nations also say they will take further measures if Israel fails to address the situation on the ground.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-09T15:45:53.844954+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/six-countries-sanction-networks-enabling-settler-violence-in-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "ab485990f0e5",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T14:48",
+    "headline": "Did Netanyahu really ‘defy’ Trump in bombing Iran?",
+    "excerpt": "Experts say the latest confrontation has laid bare growing divisions between the two leaders.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-06-09T15:45:53.844991+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/did-netanyahu-really-defy-trump-in-bombing-iran?traffic_source=rss"
+  },
+  {
+    "id": "5f0a53514b40",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T13:41",
+    "headline": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon",
+    "excerpt": "The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-06-09T15:45:53.845022+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss"
+  },
+  {
+    "id": "f5aed535a1d1",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T13:34",
+    "headline": "Shackled, bleeding, raped: Palestinians describe abuse in Israel’s prisons",
+    "excerpt": "Former detainees tell Al Jazeera they were routinely sexually abused, starved and attacked by dogs.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-09T15:45:53.845059+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/9/shackled-bleeding-raped-palestinians-describe-abuse-in-israels-prisons?traffic_source=rss"
+  },
+  {
+    "id": "4ec46ca8b5c4",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T13:14",
+    "headline": "Why are Nigeria-South Africa tensions rising amid xenophobic attacks?",
+    "excerpt": "It&#039;s not the first time the two African giants have gone head-to-head over attacks on their nationals.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-09T15:45:53.845095+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/why-are-nigeria-south-africa-tensions-rising-amid-xenophobic-attacks?traffic_source=rss"
+  },
+  {
+    "id": "98f0019dfb9b",
+    "source": "PressTV",
+    "date": "2026-06-09T15:45",
+    "headline": "‘Justification for aggression’: Iran condemns US-proposed draft IAEA resolution",
+    "excerpt": "Iran has condemned Washington’s “ridiculous” attempt to justify aggression against the Islamic Republic by drafting a resolution to be submitted to the Board of Governors of the International Atomic Energy Agency (IAEA).",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-09T15:45:55.377023+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/09/770137/Justification-for-another-aggression-Iran-mission-slams-US-proposed-draft-IAEA-resolution"
+  },
+  {
+    "id": "5529d8ea8e46",
+    "source": "PressTV",
+    "date": "2026-06-09T15:45",
+    "headline": "‘Face the music’: Iran hits back at Albanian PM over ‘hybrid war’ allegations amid protests",
+    "excerpt": "Foreign Ministry spokesman rejects accusations by Albanian prime minister that Tehran is fueling anti-government protests in the country.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-09T15:45:55.377074+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/09/770135/Iran-hits-back-at-Albanian-PM-over-hybrid-war-allegations-"
+  },
+  {
+    "id": "d7c3e7b16662",
+    "source": "PressTV",
+    "date": "2026-06-09T15:45",
+    "headline": "Israel’s Ben-Gvir calls for abduction of Lebanese women to pressure Hezbollah",
+    "excerpt": "Israeli minister Itamar Ben-Gvir has called for the abduction of Lebanese women and youth as a means of exerting pressure on Hezbollah.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-06-09T15:45:55.377122+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/09/770131/Lebanon-Israel-minister-Ben-Gvir-calls-detention-Lebanese-women-youth-pressure-Hezbollah"
+  },
+  {
     "id": "4212d73653b4",
     "source": "Al Jazeera",
     "date": "2026-06-09T12:05",
@@ -5410,93 +5498,5 @@
     "location": "Oman",
     "addedAt": "2026-05-30T21:43:42.727759+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/putin-says-drone-that-crashed-in-romania-likely-ukrainian?traffic_source=rss"
-  },
-  {
-    "id": "d9e85da4f60f",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T20:12",
-    "headline": "Is the war in Ukraine entering a new phase?",
-    "excerpt": "NATO says it is ready to defend allied territory against Russian attacks.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-30T20:33:24.485017+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss"
-  },
-  {
-    "id": "e07326535be9",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T19:48",
-    "headline": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
-    "excerpt": "Pentagon chief Pete Hegseth says US &#039;more than capable&#039; of restarting war if satisfactory deal not reached.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-30T20:33:24.485062+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss"
-  },
-  {
-    "id": "964158282c45",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T17:04",
-    "headline": "Two killed, including Palestinian doctor, in Israeli attacks on Gaza",
-    "excerpt": "Several injured in Gaza, while Israeli settlers attack Palestinian homes and property across the occupied West Bank.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-30T20:33:24.485091+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "a04a40e02ffa",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T18:42",
-    "headline": "Qatar says temporary charges ‘negotiable’",
-    "excerpt": "Qatar rejects a set Strait of Hormuz toll, says temporary charges &#039;negotiable&#039;.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-05-30T19:25:24.866308+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/qatar-says-temporary-charges-negotiable?traffic_source=rss"
-  },
-  {
-    "id": "bcfda6d14853",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T18:06",
-    "headline": "22 killed as truck carrying refugees overturns in Afghanistan",
-    "excerpt": "22 people have been killed and 36 others injured when a truck carrying recently returned Afghan refugees overturned",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-30T19:25:24.866360+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss"
-  },
-  {
-    "id": "0794a7136d49",
-    "source": "PressTV",
-    "date": "2026-05-30T19:25",
-    "headline": "‘Ceasefire is a joke’: Israeli troops recount killings in Gaza based on ‘a hunch’",
-    "excerpt": "Israeli soldiers say unclear rules of engagement and shifting frontlines have made the Gaza ceasefire effectively meaningless on the ground.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-30T19:25:26.439259+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/30/769551/Ceasefire-joke-Israeli-soldiers-describe-deadly-reality-in-Gaza"
-  },
-  {
-    "id": "3bf3286d2451",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T17:04",
-    "headline": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
-    "excerpt": "Israeli settlers attacked Palestinian homes and property across the occupied West Bank.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-05-30T17:50:35.471122+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "a64eef4e0d48",
-    "source": "PressTV",
-    "date": "2026-05-30T17:50",
-    "headline": "Iran says IRGC Navy to control all Strait of Hormuz traffic ‘with full authority’",
-    "excerpt": "Iran’s highest operational command unit warns that the country’s Armed Forces will give a response to any military interference in the Strait of Hormuz.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-05-30T17:50:37.071875+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/30/769547/Iran-Armed-Forces-Hormuz-Strait"
   }
 ]
