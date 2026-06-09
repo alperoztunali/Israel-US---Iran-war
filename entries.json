@@ -1,5 +1,38 @@
 [
   {
+    "id": "0c4dc09f6e0b",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T00:41",
+    "headline": "Israel continues strikes on Lebanon despite halting attacks on Iran",
+    "excerpt": "Israeli PM Benjamin Netanyahu acknowledged a halt in fighting with Iran but will continue operations against Hezbollah.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-09T01:27:55.840617+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_israel-continues-strikes-on-lebanon-halts-on-iran-080626?traffic_source=rss"
+  },
+  {
+    "id": "1e40b4b6ab18",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T00:00",
+    "headline": "Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting",
+    "excerpt": "Israeli strikes have killed 3,637 people in Lebanon since March, with 11,188 wounded, the Health Ministry says.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-06-09T01:27:55.840653+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss"
+  },
+  {
+    "id": "6ffd72c5724e",
+    "source": "Al Jazeera",
+    "date": "2026-06-08T22:58",
+    "headline": "Survivors recall Israeli raid that killed 274 in Gaza refugee camp",
+    "excerpt": "Two years on, witnesses recount the June 2024 Israeli raid on Nuseirat refugee camp to free four captives.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-09T01:27:55.840677+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/survivors-recall-israeli-raid-that-killed-274-in-gaza-refugee-camp?traffic_source=rss"
+  },
+  {
     "id": "d279210a07ba",
     "source": "Al Jazeera",
     "date": "2026-06-08T21:43",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-30T04:29:08.410783+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss"
-  },
-  {
-    "id": "94358f59907d",
-    "source": "PressTV",
-    "date": "2026-05-30T04:29",
-    "headline": "US-hosted Lebanon-Israel talks end without ceasefire agreement: Report",
-    "excerpt": "Trilateral military talks involving Lebanon, the Israeli regime, and the US have concluded at the US Department of War without reaching a ceasefire agreement, a report says.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-05-30T04:29:13.806098+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/30/769498/Lebanon-Israel-United-States-talks"
-  },
-  {
-    "id": "2f5736f80cc8",
-    "source": "PressTV",
-    "date": "2026-05-30T04:29",
-    "headline": "Pakistan says firmly committed to its established policy on Palestine",
-    "excerpt": "Pakistan asserts that there could be no change in its position towards the Israeli regime without creation of an independent Palestinian state.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-30T04:29:13.806140+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/30/769497/Pakistan-Israel-United-States-Trump-Palestine"
-  },
-  {
-    "id": "c3d658bf5747",
-    "source": "Al Jazeera",
-    "date": "2026-05-29T23:41",
-    "headline": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
-    "excerpt": "Judge Christopher Cooper ruled against Trump&#039;s bid to add his name to the building and close the theatre for two years.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-30T00:13:00.658126+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/29/trump-pledges-to-withdraw-from-kennedy-center-after-court-strikes-his-name?traffic_source=rss"
   }
 ]
