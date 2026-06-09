@@ -1,5 +1,93 @@
 [
   {
+    "id": "7b1846540b37",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T04:58",
+    "headline": "India’s fertility rate falls below replacement level: Why it matters",
+    "excerpt": "India&#039;s fertility rate falls to 1.9 children per woman, with consequences for the workforce, the elderly and economy.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-06-09T05:49:31.757152+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/indias-fertility-rate-falls-below-replacement-level-why-it-matters?traffic_source=rss"
+  },
+  {
+    "id": "61415738bb4f",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T04:34",
+    "headline": "Israel kills 14 in southern Lebanon after trading fire with Iran",
+    "excerpt": "Killings come as Iran warned of &#039;crushing blows&#039; if Israeli attacks continued in Lebanon, including in the south.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-06-09T05:49:31.757197+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/israel-kills-14-in-southern-lebanon-after-trading-fire-with-iran?traffic_source=rss"
+  },
+  {
+    "id": "186c16a9c812",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T04:24",
+    "headline": "Israel intensifies strikes in southern Lebanon killing 12 people",
+    "excerpt": "Al Jazeera’s Obaida Hitto reports on the strikes he witnessed in and around Tyre.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-09T05:49:31.757234+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_israel-strikes-lebanon-moments-before-on-air-090626?traffic_source=rss"
+  },
+  {
+    "id": "b790cf76c962",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T02:41",
+    "headline": "Trump warns Netanyahu: ‘You’ll be on your own’ if attacks on Iran continue",
+    "excerpt": "Trump&#039;s warning comes as Israel and Iran pause attacks and indirect talks to reach a peace deal continue.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-09T05:49:31.757268+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/9/trump-warns-netanyahu-youll-be-on-your-own-if-attacks-on-iran-continue?traffic_source=rss"
+  },
+  {
+    "id": "dccd3f26ddf1",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T02:20",
+    "headline": "US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’",
+    "excerpt": "Chinese embassy in Washington, DC, condemns designation, calling it &#039;discriminatory&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-09T05:49:31.757307+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/9/us-lists-chinas-byd-alibaba-baidu-as-chinese-military-companies?traffic_source=rss"
+  },
+  {
+    "id": "e1410dedb49a",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T01:20",
+    "headline": "UN questions legality of Israeli forced evacuation orders in Lebanon",
+    "excerpt": "A UN spokesman says forced evacuation orders issued across southern and eastern Lebanon are nearly impossible to follow",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-09T05:49:31.757343+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/un-questions-legality-of-israeli-forced-evacuation-orders-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "17c0ed88b1d1",
+    "source": "PressTV",
+    "date": "2026-06-09T05:49",
+    "headline": "‘Dwarfish thief in giant’s robe’: Iran slams US crypto heist with Shakespearean quote",
+    "excerpt": "Iran’s Foreign Ministry spokesperson has delivered a scathing literary rebuke to Washington’s latest act of economic banditry.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-09T05:49:33.325856+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/09/770104/%E2%80%98Dwarfish-thief-in-giant%E2%80%99s-robe%E2%80%99--Iran-slams-US-crypto-heist-with-Shakespearean-quote"
+  },
+  {
+    "id": "4566ecad69b3",
+    "source": "PressTV",
+    "date": "2026-06-09T05:49",
+    "headline": "Berri demands full Israeli withdrawal as Hezbollah exposes Trump’s false claims",
+    "excerpt": "Lebanese Parliament Speaker Nabih Berri has stated that Lebanon will accept nothing less than a complete and unconditional ceasefire on land, air and sea.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-09T05:49:33.325915+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/09/770105/Berri-demands-full-Israeli-withdrawal-as-Hezbollah-exposes-Trump%E2%80%99s-false-claims"
+  },
+  {
     "id": "0c4dc09f6e0b",
     "source": "Al Jazeera",
     "date": "2026-06-09T00:41",
@@ -5410,93 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-30T09:31:22.141136+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal?traffic_source=rss"
-  },
-  {
-    "id": "019a74ad02b5",
-    "source": "PressTV",
-    "date": "2026-05-30T09:31",
-    "headline": "UK parliament to debate Israeli influence on British politics",
-    "excerpt": "UK lawmakers are set to debate the extent of the Israeli regime’s control over British politics next month.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-30T09:31:23.976568+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/30/769508/UK-Parliament-Debate-Israeli-Influence"
-  },
-  {
-    "id": "edf879bb245d",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T06:29",
-    "headline": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
-    "excerpt": "Rwanda turns to Russia for nuclear training and research, advancing ambitions in technology, healthcare and diplomacy.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-05-30T07:28:27.873101+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance?traffic_source=rss"
-  },
-  {
-    "id": "af99921ce9cf",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T04:36",
-    "headline": "Frustration in Lebanon as Israel expands invasion",
-    "excerpt": "Israel’s ground invasion of Lebanon has moved deeper into sovereign territory, with troops crossing the Litani river.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-30T07:28:27.873146+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss"
-  },
-  {
-    "id": "53b224355ecf",
-    "source": "PressTV",
-    "date": "2026-05-30T07:28",
-    "headline": "Pezeshkian: Iran ready for ‘dignified framework’ to end war in region",
-    "excerpt": "Pezeshkian says Iran is ready to achieve a “dignified framework” to end the war and tensions in the region.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-30T07:28:29.399000+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/30/769499/Pezeshkian--Iran-ready--dignified-framework-end-regional-war"
-  },
-  {
-    "id": "e04c98d76795",
-    "source": "PressTV",
-    "date": "2026-05-30T07:28",
-    "headline": "UAE joined US-Israeli aggression against Iran from outset: Report",
-    "excerpt": "The UAE has played a far more extensive role in the US-Israeli war on Iran than previously known, carrying out dozens of air strikes on Iranian territory from the opening days of the aggression, according to a report by The Wall Street Journal.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-05-30T07:28:29.399025+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/30/769503/Iran-UAE-launched-strikes-onset-US-Israeli-aggression-Wall-Street-Journal-report"
-  },
-  {
-    "id": "8fb476e2209a",
-    "source": "PressTV",
-    "date": "2026-05-30T07:28",
-    "headline": "Missiles rain down on Israeli targets in fresh wave of Hezbollah counterattack",
-    "excerpt": "Hezbollah resistance fighters launch a fresh wave of missiles against Israeli positions in their latest retaliatory operations.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-30T07:28:29.399043+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/30/769507/Missiles-rain-down-on-Israeli-targets-in-fresh-wave-of-Hezbollah-counterattack"
-  },
-  {
-    "id": "e1a8e9ad16e9",
-    "source": "PressTV",
-    "date": "2026-05-30T07:28",
-    "headline": "UN says 100% of Gaza belongs to Palestinians, urges Israel to end occupation",
-    "excerpt": "The UN has denounced Benjamin Netanyahu’s plans to expand Israeli control over Gaza, stressing that the entire territory belongs to the Palestinian people.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-30T07:28:29.399080+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/30/769502/UN--Israel%E2%80%99s-Gaza-occupation-illegal,-100--of-besieged-territory-for-Palestinians"
-  },
-  {
-    "id": "58b53a988126",
-    "source": "Al Jazeera",
-    "date": "2026-05-30T00:00",
-    "headline": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
-    "excerpt": "Israel pushes deeper into Lebanon just days after Israel&#039;s prime minister ordered 70 percent of Gaza to be occupied.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-30T04:29:08.410783+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss"
   }
 ]
