@@ -1,5 +1,49 @@
 [
   {
+    "id": "5281cabcc534",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T00:18",
+    "headline": "Brazil intercepts 108 Cuban immigrants amid growing asylum applications",
+    "excerpt": "Last year, for the first time in a decade, Cuban asylum applications exceeded Venezuelan ones in sign of growing strain.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T01:54:38.896005+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/brazil-intercepts-108-cuban-immigrants-amid-growing-asylum-applications?traffic_source=rss"
+  },
+  {
+    "id": "dca0f55ef45c",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T00:00",
+    "headline": "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes",
+    "excerpt": "Lebanon&#039;s Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-06-10T01:54:38.896046+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss"
+  },
+  {
+    "id": "49396d90d50d",
+    "source": "Al Jazeera",
+    "date": "2026-06-09T23:55",
+    "headline": "US military launches ‘self-defence strikes’ targeting Iran",
+    "excerpt": "US Central Command (CENTCOM) says its forces began launching ‘self-defence’ strikes against Iran.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-10T01:54:38.896081+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss"
+  },
+  {
+    "id": "6bf48e79a00e",
+    "source": "PressTV",
+    "date": "2026-06-10T01:54",
+    "headline": "Iranian armed forces to leave no attack unanswered, FM warns after fresh US aggression",
+    "excerpt": "Foreign Minister Abbas Araghchi warns the United States that its most recent spate of attacks on southern Iranian areas \"will not go unanswered.\"",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-10T01:54:40.689753+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/09/770160/Iran-United-States-attacks-Hormozgan-warning-Araghchi"
+  },
+  {
     "id": "b7a1e75c4ba6",
     "source": "Al Jazeera",
     "date": "2026-06-09T22:03",
@@ -5454,49 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-05-31T11:21:04.611879+00:00",
     "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss"
-  },
-  {
-    "id": "7a95a0fb889c",
-    "source": "PressTV",
-    "date": "2026-05-31T11:21",
-    "headline": "IRGC Navy: 28 vessels permitted to cross Hormuz Strait in past 24 hours",
-    "excerpt": "The IRGC Navy says 28 commercial vessels have passed through the Strait of Hormuz in the past 24 hours.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-05-31T11:21:09.708988+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769581/IRGC-Navy--28-commercial-vessels-cross-Strait-of-Hormuz-in-24-hours-after-obtaining-permission"
-  },
-  {
-    "id": "498ed20f17ce",
-    "source": "PressTV",
-    "date": "2026-05-31T11:21",
-    "headline": "Trump faces only ‘bad’ or ‘worse’ options on Iran: IRGC general",
-    "excerpt": "A senior IRGC commander says Trump must choose between the continuation of the anti-Iran war or acknowledgement of Iranians’ rights and conditions.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-31T11:21:09.709034+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769575/IRGC-general--Trump-must-choose-between-continuation-of-Iran-war,-or-acknowledgement-of-Iranians--rights-"
-  },
-  {
-    "id": "dc44ac0689f8",
-    "source": "PressTV",
-    "date": "2026-05-31T11:21",
-    "headline": "Handala hacktivists target Israeli center, extract classified documents",
-    "excerpt": "The Handala hacking group has breached the databases of Israel’s so-called National Center for Support of Holocaust Victims and exposed thousands of classified documents.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-05-31T11:21:09.709075+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769580/Handala-"
-  },
-  {
-    "id": "e3ba2fc710ee",
-    "source": "PressTV",
-    "date": "2026-05-31T11:21",
-    "headline": "Denmark’s ‘baseless’ terror allegations aimed at isolating Iran: Embassy",
-    "excerpt": "The Iranian Embassy in Copenhagen rejects Denmark’s terror accusations against the Islamic Republic, saying they are aimed at isolating the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-31T11:21:09.709109+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769577/Iran-Denmark-baseless-terror-claims"
   }
 ]
