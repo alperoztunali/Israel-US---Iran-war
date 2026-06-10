@@ -1,5 +1,93 @@
 [
   {
+    "id": "7ece9e2bcbb4",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T21:51",
+    "headline": "US Defence Secretary Hegseth pledges strikes on ‘key facilities’ in Iran",
+    "excerpt": "US Central Command has described the attacks as a result of &#039;Iran’s unwarranted and continued aggression&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-10T22:16:46.031784+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "020be965f6ab",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T20:46",
+    "headline": "Israel kills 16 in Lebanon, UN to probe international law violations",
+    "excerpt": "UN investigators to arrive in Lebanon next week to assess potential violations of international law by all parties.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-10T22:16:46.031815+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss"
+  },
+  {
+    "id": "ccd7aea811ac",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T20:41",
+    "headline": "Gwyneth Paltrow’s Israeli real estate ad goes viral",
+    "excerpt": "Gwyneth Paltrow sparked widespread outrage by becoming the face of an Israeli real estate project.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-10T22:16:46.031863+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/gwyneth-paltrows-israeli-real-estate-ad-goes-viral?traffic_source=rss"
+  },
+  {
+    "id": "6ba911acfea2",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T20:34",
+    "headline": "First image in months emerges of Dr. Hussam Abu Safia",
+    "excerpt": "The first image in months of Gaza doctor Hussam Abu Safia has been released.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-10T22:16:46.031882+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/first-image-in-months-emerges-of-dr-hussam-abu-safia?traffic_source=rss"
+  },
+  {
+    "id": "8b77cc96bae5",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T20:05",
+    "headline": "India summons US envoy over attack on ship carrying Indian sailors off Oman",
+    "excerpt": "Three Indian seafarers are missing after Oman rescues 21 others following a US attack on the Palau-flagged Settebello.",
+    "category": "Naval",
+    "location": "Oman",
+    "addedAt": "2026-06-10T22:16:46.031903+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/india-summons-us-envoy-over-ship-attack-that-left-three-indians-missing?traffic_source=rss"
+  },
+  {
+    "id": "db4c34fd350f",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T16:53",
+    "headline": "US inflation hits new three-year high amid energy price surge",
+    "excerpt": "Trump appeared to embrace the data saying, &#039;I love the inflation&#039;, and that prices will drop once the Iran war is over.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-10T22:16:46.031935+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/10/us-inflation-hits-new-three-year-high-amid-energy-price-surge?traffic_source=rss"
+  },
+  {
+    "id": "972a8099526f",
+    "source": "PressTV",
+    "date": "2026-06-10T22:16",
+    "headline": "US continues its unwarranted aggression against Iran with fresh strikes in south",
+    "excerpt": "Fresh explosions are reported in southern Iran as the American military confirms taking place of fresh unprovoked aggression targeting the Islamic Republic.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-10T22:16:47.644808+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/10/770218/United-States-new-attacks-Iran-south"
+  },
+  {
+    "id": "b82b19083e90",
+    "source": "PressTV",
+    "date": "2026-06-10T22:16",
+    "headline": "India summons US diplomat, lodges 'strong protest' after tanker strike off Oman",
+    "excerpt": "India summons a senior US diplomat and lodges a strong protest following a strike on a commercial tanker off the coast of Oman.",
+    "category": "Naval",
+    "location": "Oman",
+    "addedAt": "2026-06-10T22:16:47.644858+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/10/770216/India-summons-United-States-diplomat-attack-tanker-Oman"
+  },
+  {
     "id": "69c2191471c0",
     "source": "Al Jazeera",
     "date": "2026-06-10T19:23",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-01T20:43:58.003721+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "7f23c5508d5b",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T17:29",
-    "headline": "Former general for Syria’s Assad pleads not guilty in torture trial",
-    "excerpt": "Brigadier General Khaled al-Halabi faces charges of aggravated torture, coercion, sexual coercion and bodily harm.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-06-01T20:43:58.003793+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/1/former-officials-from-syrias-assad-plead-not-guilty-in-torture-trial?traffic_source=rss"
-  },
-  {
-    "id": "29ee713c0308",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T16:32",
-    "headline": "Lebanon’s social grocery store fighting rising costs and displacement",
-    "excerpt": "‘Man wa Salwa’ is a community-run social grocery store helping hundreds of families access affordable essentials.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-06-01T20:43:58.003836+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/lebanons-social-grocery-store-fighting-rising-costs-and-displacement?traffic_source=rss"
-  },
-  {
-    "id": "8a2272d17fc9",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T16:15",
-    "headline": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
-    "excerpt": "Iranian officials demand &#039;ceasefire on all fronts&#039; as Israel deepens Lebanon invasion and threatens to bomb Beirut.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-01T20:43:58.003858+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks?traffic_source=rss"
-  },
-  {
-    "id": "9f0b7d886b61",
-    "source": "PressTV",
-    "date": "2026-06-01T20:43",
-    "headline": "Israel backs down on planned Beirut attack after Iran warns of intervention",
-    "excerpt": "The Israeli regime has backed down from a planned military assault on Beirut, US President Donald Trump announced on Monday.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-06-01T20:43:59.748986+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/01/769675/Israel-backs-down-on-planned-Beirut-attack-after-Iran-warns-of-intervention"
-  },
-  {
-    "id": "e2ece97f811d",
-    "source": "PressTV",
-    "date": "2026-06-01T20:43",
-    "headline": "Iran warns northern Israeli settlers to flee if Beirut suburbs come under attack",
-    "excerpt": "Iran’s highest operational command unit warns residents in northern areas and military settlements in the occupied territories to leave the area amid Israel’s threats to bomb Lebanon.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-01T20:43:59.749013+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/01/769667/Iran-Israel-Palestine-evacuation"
-  },
-  {
-    "id": "a131a0afa8ff",
-    "source": "PressTV",
-    "date": "2026-06-01T20:43",
-    "headline": "‘Iran’s patience has limits,’ senior advisor to Leader warns Israel, US",
-    "excerpt": "A former IRGC chief commander warns Israel and the United States over the regime’s escalating aggression against Lebanon and the American blockade of Iranian ports.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-01T20:43:59.749061+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/01/769671/Iran-warns-Isreal-US-patience-limits-"
-  },
-  {
-    "id": "c7580a8e786c",
-    "source": "PressTV",
-    "date": "2026-06-01T20:43",
-    "headline": "Iran says US directly responsible for Israeli truce violations in Lebanon",
-    "excerpt": "Iran’s Foreign Ministry says the US is responsible for Israel’s continued violations of the Iran-US truce terms in Lebanon.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-01T20:43:59.749094+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/01/769677/Iran-Foreign-Ministry-statement-Israeli-truce-violations-Lebanon"
-  },
-  {
-    "id": "c5abd074f3d2",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T15:56",
-    "headline": "As Israel pushes past the Litani, Lebanese question the purpose of UNIFIL",
-    "excerpt": "Israel has pushed past the Litani River, with the UNFIL peacekeeping force helpless to prevent an invasion.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-01T16:22:01.946584+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/1/as-israel-pushes-past-the-litani-lebanese-question-the-purpose-of-unifil?traffic_source=rss"
   }
 ]
