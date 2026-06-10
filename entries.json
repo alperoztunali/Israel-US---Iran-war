@@ -1,5 +1,38 @@
 [
   {
+    "id": "3476e2bc777f",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T21:51",
+    "headline": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
+    "excerpt": "US Central Command has described the attacks as a result of &#039;Iran’s unwarranted and continued aggression&#039;.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-06-10T23:56:54.996136+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "dea9e0f98e3d",
+    "source": "PressTV",
+    "date": "2026-06-10T23:56",
+    "headline": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
+    "excerpt": "Iran's highest operational command unit orders closure of the strategic Strait of Hormuz shortly after the launch of fresh American military aggression.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-10T23:56:56.724770+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan"
+  },
+  {
+    "id": "b87e9da3721a",
+    "source": "PressTV",
+    "date": "2026-06-10T23:56",
+    "headline": "IRGC Navy warns any vessel approaching Strait of Hormuz will face 'decisive action'",
+    "excerpt": "Shortly after the US military launched a fresh act of aggression against Iran early on Thursday, the Islamic Revolution Guards Corps (IRGC) Navy warned that any vessel approaching the strategic waterway would face decisive action.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-10T23:56:56.724805+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/10/770222/irgc-navy-warns-vessel-approaching-strait-hormuz-decisive-action-us-aggression"
+  },
+  {
     "id": "7ece9e2bcbb4",
     "source": "Al Jazeera",
     "date": "2026-06-10T21:51",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-01T22:52:38.648146+00:00",
     "link": "https://www.aljazeera.com/video/inside-story/2026/6/1/is-the-u-s-backed-gaza-peace-process-in-serious-danger?traffic_source=rss"
-  },
-  {
-    "id": "c4fd17702506",
-    "source": "PressTV",
-    "date": "2026-06-01T22:52",
-    "headline": "Our lives are one, Iran-Lebanon bond unbreakable: Parl. speaker tells Lebanese counterpart",
-    "excerpt": "Ghalibaf warned that \"if the crimes continue, we will not only suspend the talks but also stand against the Zionist regime\".",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-01T22:52:40.333547+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/01/769681/Our-lives-are-one-Iran-Lebanon-bond-unbreakable-Iran-parl-speaker-tells-Berri"
-  },
-  {
-    "id": "23303ec1b852",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T19:09",
-    "headline": "Gaza-bound aid ship begins voyage from Sweden",
-    "excerpt": "A Gaza-bound ship carrying aid began its voyage from Sweden, weeks after Israeli forces intercepted a previous aid ship.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-06-01T20:43:58.003675+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/gaza-bound-aid-ship-begins-voyage-from-sweden?traffic_source=rss"
-  },
-  {
-    "id": "f349e722d8d6",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T18:05",
-    "headline": "Israeli strike damages hospital in southern Lebanon",
-    "excerpt": "An Israeli attack near Jabal Amel Hospital in Tyre has destroyed wards and medical equipment.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-01T20:43:58.003721+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss"
   }
 ]
