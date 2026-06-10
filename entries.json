@@ -1,5 +1,148 @@
 [
   {
+    "id": "e46f6e20f90f",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T10:09",
+    "headline": "A four-year-old’s recovery from the trauma of war in Lebanon",
+    "excerpt": "Four-year-old Malika was seriously wounded in an Israeli attack that killed her mother.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-10T10:44:14.646129+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/a-four-year-olds-recovery-from-the-trauma-of-war-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "b0dde5672177",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T09:45",
+    "headline": "Iran fires missiles at US bases carrying images of killed commanders",
+    "excerpt": "Iranian state media released video showing the launch of missiles towards US bases in the Middle East.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-10T10:44:14.646165+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders?traffic_source=rss"
+  },
+  {
+    "id": "6252b0c5117c",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T09:22",
+    "headline": "India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions",
+    "excerpt": "Hundreds &#039;pushed&#039; to border and many others put in detention centres as part of a crackdown on undocumented migrants.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T10:44:14.646218+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/indias-bengal-pushes-out-muslim-bangladeshis-deepening-religious-tensions?traffic_source=rss"
+  },
+  {
+    "id": "f9c0a55a5338",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T08:30",
+    "headline": "Anti-immigration protests break out in Belfast after knife attack",
+    "excerpt": "Northern Ireland’s political leaders call for calm after a knife attack led to anti-immigration protests in the capital.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T10:44:14.646267+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/6/10/anti-immigration-protests-break-out-in-belfast-after-knife-attack?traffic_source=rss"
+  },
+  {
+    "id": "f1fabab8bc6a",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T08:27",
+    "headline": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
+    "excerpt": "Israel&#039;s war on Gaza has decimated the tech sector, killing experts and destroying incubators that offered opportunity.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-10T10:44:14.646306+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/10/rising-from-the-rubble-a-gaza-tech-incubator-defies-israels-war?traffic_source=rss"
+  },
+  {
+    "id": "a964dc0184a5",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T08:11",
+    "headline": "Twelve killed in Johannesburg mass shooting, manhunt under way",
+    "excerpt": "Police say a manhunt is under way for more than 10 suspects after the attack on an informal settlement.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T10:44:14.646341+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/twelve-killed-in-johannesburg-mass-shooting-manhunt-under-way?traffic_source=rss"
+  },
+  {
+    "id": "e1dcabd1a852",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T07:57",
+    "headline": "Baltic states fear Russia-Ukraine war spillover after drone incursions",
+    "excerpt": "A spate of drone incursions fuels anxieties about a possible military conflict with Russia.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T10:44:14.646369+00:00",
+    "link": "https://www.aljazeera.com/news/longform/2026/6/10/baltic-states-fear-russia-ukraine-war-spillover-after-drone-incursions?traffic_source=rss"
+  },
+  {
+    "id": "f7237a9db4be",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T07:40",
+    "headline": "Explosion in Bahrain as Iran attacks US bases",
+    "excerpt": "CCTV footage shows an explosion in Bahrain’s capital Manama after what authorities say was an Iranian missile strike.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-10T10:44:14.646403+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases?traffic_source=rss"
+  },
+  {
+    "id": "dbf3eab49c57",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T07:22",
+    "headline": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
+    "excerpt": "The multiday campaign has killed a rail worker, closed the bombed Chongar road bridge and caused a fuel crisis",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T10:44:14.646456+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss"
+  },
+  {
+    "id": "ee9f0541fb9f",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T07:16",
+    "headline": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
+    "excerpt": "Analysts warn of further escalation after tit-for-tat attacks between Tehran and Washington.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-10T10:44:14.646488+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/iran-war-day-103-us-strikes-after-helicopter-shot-down-tehran-hits-back?traffic_source=rss"
+  },
+  {
+    "id": "7b6e7af7e1a6",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T06:54",
+    "headline": "Indonesia jails four military officers for acid attack on rights activist",
+    "excerpt": "Prosecutors argued in court that the soldiers were motivated by anger over Yunus’s activism.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T10:44:14.646529+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/indonesia-jails-four-military-officers-for-acid-attack-on-rights-activist?traffic_source=rss"
+  },
+  {
+    "id": "60560230f071",
+    "source": "PressTV",
+    "date": "2026-06-10T10:44",
+    "headline": "Iran's armed forces dealt 'heavy blows' to US bases, assets after 'savage attacks': Foreign ministry",
+    "excerpt": "Iran has warned backers of US aggression that allowing their territory to be used for attacks against the Islamic Republic will not go unanswered.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-10T10:44:16.292614+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/10/770176/Iran-US-attacks-regional-countries-aggression-Turkey-Saudi-Arabia-"
+  },
+  {
+    "id": "ca713bdf89d0",
+    "source": "PressTV",
+    "date": "2026-06-10T10:44",
+    "headline": "‘Stronger than before’: Inside Tehran’s bombed Laser and Plasma Institute that resumed work in days",
+    "excerpt": "Despite suffering extensive damage from a US-Israeli attack on April 3, the Laser and Plasma Research Institute at Tehran's Beheshti University resumed scientific work within days, with researchers vowing to continue with greater power.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-06-10T10:44:16.292648+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/10/770174/stronger-than-before-inside-tehran-bombed-laser-plasma-institute-reumed-work-days"
+  },
+  {
     "id": "e35a2be1df5b",
     "source": "Al Jazeera",
     "date": "2026-06-10T05:38",
@@ -5355,148 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-05-31T21:28:13.116878+00:00",
     "link": "https://presstv.ir/Detail/2026/05/31/769611/Zare-and-Kiani-crowned-Iran-top-sports-personalities-of-year"
-  },
-  {
-    "id": "5cda1124ef98",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T18:52",
-    "headline": "US measure to deepen Israel military cooperation faces bipartisan pushback",
-    "excerpt": "Democrat Ro Khanna and Republican Thomas Massie say they will try to remove the pro-Israel section from US defence bill.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-31T20:14:51.276880+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss"
-  },
-  {
-    "id": "c06485d484b8",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T18:40",
-    "headline": "US Congress moves to deepen military ties with Israel: Why it matters",
-    "excerpt": "Analysts say the plan would weave Israeli military interests more deeply into the fabric of US national security policy.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-31T20:14:51.276948+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss"
-  },
-  {
-    "id": "413a48d15e54",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T18:36",
-    "headline": "The largest Israeli advance into Lebanon in years",
-    "excerpt": "Israel’s military presence in southern Lebanon has expanded dramatically.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-31T20:14:51.276993+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss"
-  },
-  {
-    "id": "9b31d7ca9885",
-    "source": "PressTV",
-    "date": "2026-05-31T20:14",
-    "headline": "IRGC congratulates Iranian athletes on victories amid US-Israeli war",
-    "excerpt": "The IRGC general command congratulates Iranian athletes on their heroic achievements in the midst of the US-Israeli war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-31T20:14:52.913146+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769610/Iran-IRGC-athletes-war"
-  },
-  {
-    "id": "c4769461f960",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T17:42",
-    "headline": "Dozens killed in explosives depot blast in northeast Myanmar",
-    "excerpt": "At least 46 people have been killed and 70 wounded in explosion in rebel-held area, local media report.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-31T18:52:51.317919+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/31/dozens-killed-in-blast-at-explosives-depot-in-northeastern-myanmar?traffic_source=rss"
-  },
-  {
-    "id": "511a05437073",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T16:38",
-    "headline": "Iran ⁠restores some gas production at South Pars facility",
-    "excerpt": "Production restored at three offshore platforms after Israeli attacks, Pars Oil and Gas Company CEO tells Iranian media.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-31T17:38:30.515162+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss"
-  },
-  {
-    "id": "a38b8ff99c4e",
-    "source": "PressTV",
-    "date": "2026-05-31T17:38",
-    "headline": "Iran nuclear issue off table; talks with US focus on ending war: Lawmaker",
-    "excerpt": "An Iranian lawmaker says the country’s nuclear issue was not and will not be subject to negotiations with the US as the current talks are centered on ending the war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-31T17:38:31.986022+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769598/Iran-US-nuclear-Kowsari"
-  },
-  {
-    "id": "5f0cd1db71af",
-    "source": "PressTV",
-    "date": "2026-05-31T17:38",
-    "headline": "Israel 'surprised' by scale of Hezbollah retaliation after escalation in Lebanon: Reports",
-    "excerpt": "Israeli media say the military was surprised by the intensity and expanded range of Hezbollah’s rocket and drone attacks.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-05-31T17:38:31.986057+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769597/Israel-surprised-scale-of-Hezbollah-fire-after-Israeli-escalation-"
-  },
-  {
-    "id": "d2ec4072ff99",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T15:09",
-    "headline": "Iran reinstates some internet access but restrictions remain for most",
-    "excerpt": "Not all data centres are back online while internet protocols remain blocked, restricted or &#039;whitelisted&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-31T16:15:28.644706+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/31/iran-reinstates-some-internet-access-but-restrictions-remain-for-most?traffic_source=rss"
-  },
-  {
-    "id": "6330847c9d92",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T15:02",
-    "headline": "What are the chances for the Iran-US ‘Declaration of Principles’?",
-    "excerpt": "Analysts Negar Mortazavi and Colin Clarke dissect the complications surrounding the Iran-US deal.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-05-31T16:15:28.644754+00:00",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/31/what-are-the-chances-for-the-iran-us-declaration-of?traffic_source=rss"
-  },
-  {
-    "id": "55b7cdd1501f",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T14:41",
-    "headline": "Not just the US: How 51 countries armed Israel during Gaza war",
-    "excerpt": "An Al Jazeera investigation has found that military-related goods from at least 51 countries and territories continued e",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-31T16:15:28.644817+00:00",
-    "link": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss"
-  },
-  {
-    "id": "d4bde98431b7",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T14:36",
-    "headline": "Israeli airstrikes devastate Lebanon’s Tyre",
-    "excerpt": "Video from southern Lebanon shows widespread destruction after Israel repeatedly bombed the city of Tyre.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-05-31T16:15:28.644840+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss"
-  },
-  {
-    "id": "c8db8ec65a8b",
-    "source": "PressTV",
-    "date": "2026-05-31T16:15",
-    "headline": "Israel 'surprised' by scale of Hezbollah retaliation after escalation in Lebanon",
-    "excerpt": "Israeli media say the military was surprised by the intensity and expanded range of Hezbollah’s rocket and drone attacks.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-05-31T16:15:34.468476+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769597/Israel-surprised-scale-of-Hezbollah-fire-after-Israeli-escalation-"
   }
 ]
