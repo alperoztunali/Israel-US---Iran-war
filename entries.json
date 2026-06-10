@@ -1,5 +1,104 @@
 [
   {
+    "id": "69c2191471c0",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T19:23",
+    "headline": "Israeli strike on a car kills two in Sidon, Lebanon",
+    "excerpt": "An Israeli strike on a vehicle in the southern Lebanese city of Sidon killed two people and sparked a fire.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-10T19:59:21.935878+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/israeli-strike-on-a-car-kills-two-in-sidon-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "9826ef9cfa3f",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T18:54",
+    "headline": "Why Lebanon remains caught up in the Israel-Iran conflict",
+    "excerpt": "The Israel-Iran ceasefire may be holding, but for many in Lebanon, the war continues.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-10T19:59:21.935919+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/6/10/aje-onl-aj_tt_irn_next100day-100626?traffic_source=rss"
+  },
+  {
+    "id": "b844da4928f8",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T18:38",
+    "headline": "Iran says it will ‘not hesitate’ to defend itself after latest clashes",
+    "excerpt": "Iran’s Foreign Ministry said overnight clashes in the Gulf between Tehran and Washington showed how Iran will respond.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-06-10T19:59:21.935959+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-says-it-will-not-hesitate-to-defend-itself-after-latest-clashes?traffic_source=rss"
+  },
+  {
+    "id": "2257055b276e",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T18:22",
+    "headline": "Trump warns of more attacks on Iran after US Apache helicopter downing",
+    "excerpt": "Trump warns of more attacks on Iran after US Apache helicopter downing",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-10T19:59:21.936014+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/trump-warns-of-more-attacks-on-iran-after-us-apache-helicopter-downing?traffic_source=rss"
+  },
+  {
+    "id": "6771b137d19a",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T18:09",
+    "headline": "US military chief Hegseth warns Cuba against acquiring military arms",
+    "excerpt": "Hegseth&#039;s visit to Guantanamo Bay, Cuba, comes as the Trump administration increases pressure against Cuba&#039;s government.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T19:59:21.936054+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/us-military-chief-hegseth-warns-cuba-against-acquiring-military-arms?traffic_source=rss"
+  },
+  {
+    "id": "1abb1c7e8c5e",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T18:00",
+    "headline": "UK PM Starmer slams ‘unjustified’ anti-immigration violence in Belfast",
+    "excerpt": "Anti-immigrant violence swept through Belfast, with homes and vehicles torched following a knife attack.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T19:59:21.936102+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/uk-pm-starmer-slams-unjustified-anti-immigration-violence-in-belfast?traffic_source=rss"
+  },
+  {
+    "id": "39ecd318b65b",
+    "source": "PressTV",
+    "date": "2026-06-10T19:59",
+    "headline": "Iran's armed forces vow ‘more crushing’ response to US threats",
+    "excerpt": "The spokesman for Iran’s armed forces has vowed “harsher, stronger and more crushing” response to any US threat, amid President Donald Trump’s escalatory rhetoric.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-10T19:59:24.202526+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/10/770212/Iran-Armed-Forces-spokesman-vows-%E2%80%98more-crushing-response-US-threats"
+  },
+  {
+    "id": "23b50882eac2",
+    "source": "PressTV",
+    "date": "2026-06-10T19:59",
+    "headline": "‘Act of state terrorism’: US attack on reservoirs in south Iran cuts off drinking water to thousands",
+    "excerpt": "In a pre-dawn attack on Tuesday, US military deliberately destroyed two civilian water reservoirs in southern Iran, cutting off drinking water to thousands of residents amid scorching summer temperatures, an act widely condemned as a war crime.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-10T19:59:24.202588+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/10/770188/crime-against-water-us-attack-destroys-civilian-reservoirs-in-hormozgan"
+  },
+  {
+    "id": "8c973bc5f303",
+    "source": "PressTV",
+    "date": "2026-06-10T19:59",
+    "headline": "Pezeshkian: Trump’s threat to strike Iran’s infrastructure shows ‘desperation, not strength’",
+    "excerpt": "The president’s remarks came shortly after Donald Trump told reporters at the White House that the United States would attack Iran “very hard” if no peace deal is finalized.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-10T19:59:24.202627+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/10/770211/Threats-to-vital-infrastructure-show-enemy-desperation-not-strength-Iran-president"
+  },
+  {
     "id": "97a1a25b76d1",
     "source": "Al Jazeera",
     "date": "2026-06-10T16:30",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-01T16:22:01.946584+00:00",
     "link": "https://www.aljazeera.com/features/2026/6/1/as-israel-pushes-past-the-litani-lebanese-question-the-purpose-of-unifil?traffic_source=rss"
-  },
-  {
-    "id": "b92b119907e5",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T14:45",
-    "headline": "Indian PM Modi meets Myanmar military gov’t leader in New Delhi",
-    "excerpt": "Myanmar opposition groups criticise India for hosting Min Aung Hlaing, but India says engagement is best way forward.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-01T16:22:01.946643+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi?traffic_source=rss"
-  },
-  {
-    "id": "442957c7452d",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T14:41",
-    "headline": "Lebanon latest: Israel captures more land in the south",
-    "excerpt": "Al Jazeera’s Zeina Khodr brings you the latest from Lebanon as Israel expands its occupation there.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-01T16:22:01.946685+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/lebanon-latest-israel-captures-more-land-in-the-south?traffic_source=rss"
-  },
-  {
-    "id": "77a1a2544068",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T12:58",
-    "headline": "How the world failed Ryan and Yaman",
-    "excerpt": "An Israeli strike killed my children. What pains me is not just their loss but also the normalisation of their murder.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-01T16:22:01.946711+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/1/how-the-world-failed-ryan-and-yaman?traffic_source=rss"
-  },
-  {
-    "id": "b09bcbca990d",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T12:22",
-    "headline": "Residents flee Beirut’s southern suburbs as Israel orders strikes",
-    "excerpt": "Videos show gridlocked traffic in the southern suburbs of Beirut as residents rushed to evacuate the Dahiyeh area.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-01T16:22:01.946751+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/residents-flee-beiruts-southern-suburbs-as-israel-orders-strikes?traffic_source=rss"
-  },
-  {
-    "id": "2afaaca5a6a6",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T11:27",
-    "headline": "Greece reopens Syrian and Afghan asylum cases, hoping for returns",
-    "excerpt": "Greece&#039;s migration minister recently said Athens does not share common values with &#039;hardcore Islam&#039;.",
-    "category": "Statement",
-    "location": "Syria",
-    "addedAt": "2026-06-01T16:22:01.946815+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/1/greece-reopens-syrian-and-afghan-asylum-cases-hoping-for-returns?traffic_source=rss"
-  },
-  {
-    "id": "eb4bc2c1e879",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T10:58",
-    "headline": "What is Lebanon’s Beaufort Castle, and why has Israel captured it?",
-    "excerpt": "The fortress, a historical battleground, is playing a central role in Israel’s military campaign against Hezbollah.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-01T16:22:01.946865+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/1/what-is-lebanons-beaufort-castle-and-why-has-israel-captured-it?traffic_source=rss"
-  },
-  {
-    "id": "45fefb23bfd0",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T10:45",
-    "headline": "Kuwait condemns Iranian attack as Iran-US trade new strikes",
-    "excerpt": "Kuwait activated its air defences after what its foreign ministry later described as a ‘heinous Iranian attack’.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-01T16:22:01.946911+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kuwait-condemns-iranian-attack-as-iran-us-trade-new-strikes?traffic_source=rss"
-  },
-  {
-    "id": "2ce65291b11c",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T10:24",
-    "headline": "French navy, backed by the UK, intercepts Russian oil tanker",
-    "excerpt": "According to France, the tanker, which had sailed from Murmansk, was trying to &#039;skirt international sanctions&#039;.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-01T16:22:01.946940+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker?traffic_source=rss"
-  },
-  {
-    "id": "15f43fc2379e",
-    "source": "Al Jazeera",
-    "date": "2026-06-01T10:21",
-    "headline": "Israel bombs a beloved Lebanese landmark, chef Husen Fayad’s restaurant",
-    "excerpt": "Israel destroyed Arch Almoulouk, a resort and restaurant owned by famous Lebanese chef Husen Fayad in Wadi al-Hujeir.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-06-01T16:22:01.946964+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israel-bombs-a-beloved-lebanese-landmark-chef-husen-fayads-restaurant?traffic_source=rss"
   }
 ]
