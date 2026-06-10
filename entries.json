@@ -1,5 +1,126 @@
 [
   {
+    "id": "e35a2be1df5b",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T05:38",
+    "headline": "Trita Parsi: Iran is pursuing a doctrine of swift retaliation",
+    "excerpt": "Iran has abandoned strategic patience for a new doctrine: swift, severe retaliation against any US attack.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-10T06:36:43.716383+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/aje-onl-nf_trita-parsi_iran-doctrine-of-swift-retaliation-100626?traffic_source=rss"
+  },
+  {
+    "id": "db4cc286ae9f",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T05:04",
+    "headline": "Afghanistan says Pakistan air raids killed 13 people, including children",
+    "excerpt": "No immediate comment from Pakistan as Taliban says 11 children are among the dead in strikes on border provinces.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T06:36:43.716434+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/afghanistan-says-pakistan-air-raids-killed-13-people-including-children?traffic_source=rss"
+  },
+  {
+    "id": "551491485be3",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T04:33",
+    "headline": "UN report: Israeli forces shield settlers during attacks on Palestinians",
+    "excerpt": "The UN says Israeli security forces routinely accompany settlers and act as a shield for their violence.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-10T06:36:43.716458+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/un-report-israeli-forces-shield-settlers-during-attacks-on-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "858dc0d53d99",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T04:19",
+    "headline": "Jordan intercepts Iranian missiles over its airspace",
+    "excerpt": "Jordan intercepts Iranian missiles over its airspace",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-10T06:36:43.716473+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/jordan-intercepts-iranian-missiles-over-its-airspace?traffic_source=rss"
+  },
+  {
+    "id": "7d1a846473c5",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T03:09",
+    "headline": "Bolivia approves military measures against nationwide protests",
+    "excerpt": "Bolivia approves military measures against nationwide protests.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T06:36:43.716498+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/bolivia-approves-military-measures-against-nationwide-protests?traffic_source=rss"
+  },
+  {
+    "id": "945ab21ffc08",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T02:58",
+    "headline": "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes",
+    "excerpt": "Strikes come after US attacked Iranian ports and islands in the Strait of Hormuz over the downing of a helicopter.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-10T06:36:43.716524+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "789421ba112d",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T02:23",
+    "headline": "Protesters torch cars, buildings in Belfast after knife attack",
+    "excerpt": "Unrest comes after a Sudanese man was arrested over a stabbing attack in north Belfast, UK.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T06:36:43.716550+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack?traffic_source=rss"
+  },
+  {
+    "id": "d9137aff50a6",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T02:13",
+    "headline": "Belfast plunged into chaos as vehicles set ablaze following stabbing attack",
+    "excerpt": "Al Jazeera&#039;s Milena Veselinovic reports from Belfast, where protests have escalated into violent riots.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-10T06:36:43.716585+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/aje-onl-nf_belfast-plunged-into-chaos-as-vehicles-set-ablaze-090626?traffic_source=rss"
+  },
+  {
+    "id": "09cd01d3debc",
+    "source": "Al Jazeera",
+    "date": "2026-06-10T00:00",
+    "headline": "Iran war live: Tehran targets US forces in Bahrain, Jordan, Kuwait",
+    "excerpt": "Lebanon&#039;s Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666.",
+    "category": "Movement",
+    "location": "Tehran",
+    "addedAt": "2026-06-10T06:36:43.716607+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss"
+  },
+  {
+    "id": "569441df05fe",
+    "source": "PressTV",
+    "date": "2026-06-10T06:36",
+    "headline": "Iran stages concerted retaliatory strikes on American military targets after fresh US aggression",
+    "excerpt": "Iran's Armed Forces launch retaliatory operations against American military targets in the region after fresh American aggression.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-10T06:36:45.092843+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/10/770163/Iran-strikes-United-States-American-targets-Bahrain-Jordan-IRGC-Army-Hormozgan-helicopter-crash"
+  },
+  {
+    "id": "49032b4d8160",
+    "source": "PressTV",
+    "date": "2026-06-10T06:36",
+    "headline": "IRGC downs MQ-9 in Strait of Hormuz as Iran responds to US aggression",
+    "excerpt": "The IRGC says it destroyed a US MQ-9 drone near the Strait of Hormuz during Iran's response to recent US attacks.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-10T06:36:45.092863+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/10/770168/Iran-IRGC-US-MQ-9-drone-Jam-Strait-of-Hormuz-CENTCOM-Apache-helicopter-Bahrain-Jordan"
+  },
+  {
     "id": "5281cabcc534",
     "source": "Al Jazeera",
     "date": "2026-06-10T00:18",
@@ -5377,126 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-05-31T16:15:34.468476+00:00",
     "link": "https://presstv.ir/Detail/2026/05/31/769597/Israel-surprised-scale-of-Hezbollah-fire-after-Israeli-escalation-"
-  },
-  {
-    "id": "a6b7944c04c7",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T13:41",
-    "headline": "Protesters want to send ‘fascists to Mars’ aboard mock rocket",
-    "excerpt": "Environmental activists in Rome built a mock rocket with caricatures of Giorgia Meloni and Donald Trump.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-31T14:52:28.963023+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/protesters-want-to-send-fascists-to-mars-aboard-mock-rocket?traffic_source=rss"
-  },
-  {
-    "id": "62c009e26416",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T13:39",
-    "headline": "Israeli forces push past Lebanon’s Litani River: How significant is it?",
-    "excerpt": "Analysts say Israel is effectively expanding its area of military control northward towards the Zahrani River.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-31T14:52:28.963068+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/31/israeli-forces-push-past-lebanons-litani-river-how-significant-is-it?traffic_source=rss"
-  },
-  {
-    "id": "61d85e4ef757",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T13:28",
-    "headline": "Satellite imagery shows erasure of southern Gaza as Israel expands control",
-    "excerpt": "Satellite images show transformation as Netanyahu orders military to occupy 70 percent of Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-05-31T14:52:28.963102+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control?traffic_source=rss"
-  },
-  {
-    "id": "1e8e73fc60d8",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T12:51",
-    "headline": "Japan rejects ‘new militarism’, says China is rapidly arming",
-    "excerpt": "Japan accuses China of lacking military transparency and stresses the importance of dialogue for regional stability.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-05-31T14:52:28.963143+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/31/japan-rejects-new-militarism-says-china-is-rapidly-arming?traffic_source=rss"
-  },
-  {
-    "id": "0c44719ece05",
-    "source": "PressTV",
-    "date": "2026-05-31T14:52",
-    "headline": "UAE shuts down Iran’s Red Crescent hospital in Dubai, freezes assets",
-    "excerpt": "Iran’s Red Crescent Society says Emirati authorities forcibly closed its hospital in Dubai, expelled patients, froze assets and imposed a travel ban on the facility’s director.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-31T14:52:31.050130+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769585/UAE-shut-down-Iran%E2%80%99s-Red-Crescent-hospital-in-Dubai,-froze-assets"
-  },
-  {
-    "id": "34270ce768dd",
-    "source": "PressTV",
-    "date": "2026-05-31T14:52",
-    "headline": "Iran restores gas output at three South Pars platforms after Israeli strikes",
-    "excerpt": "Iran has resumed gas production at three offshore platforms in the South Pars field after output was suspended due to Israeli strikes that disrupted processing operations at onshore facilities.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-31T14:52:31.050171+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769587/Iran-restores-gas-producton-South-Pars-filed-output-suspended-Israeli-attacks-"
-  },
-  {
-    "id": "1941bdc7eb89",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T11:24",
-    "headline": "Rio’s Forever War",
-    "excerpt": "In 2025, Brazil’s deadliest police raid killed 120 people and exposed a pattern of mishandled evidence and impunity.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-05-31T12:58:31.937433+00:00",
-    "link": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss"
-  },
-  {
-    "id": "8bf287fbb4a7",
-    "source": "PressTV",
-    "date": "2026-05-31T12:58",
-    "headline": "Iran pushing back enemy in 'history-making' war through national unity: Speaker Qalibaf",
-    "excerpt": "Parliament Speaker Mohammad-Baqer Qalibaf says Iran, relying on national unity, is pushing back the enemy in a “history-making” war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-05-31T12:58:34.015095+00:00",
-    "link": "https://presstv.ir/Detail/2026/05/31/769583/Qalibaf-Iran-pushin-back-enemy"
-  },
-  {
-    "id": "14132bb0c3a9",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T11:10",
-    "headline": "Israeli forces cross Lebanon’s Litani River and seize 12th century castle",
-    "excerpt": "Invading Israeli forces have crossed north of Lebanon&#039;s Litani River and seized the medieval Beaufort Castle.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-05-31T11:21:04.611806+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss"
-  },
-  {
-    "id": "60752d5d899d",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T10:07",
-    "headline": "Ukrainian drone attacks hit multiple Russian targets, including refinery",
-    "excerpt": "Saratov refinery hit as Ukrainian strikes intensify across Russian regions, damaging civilian infrastructure.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-05-31T11:21:04.611848+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/31/ukrainian-drone-attacks-hit-multiple-russian-targets-including-refinery?traffic_source=rss"
-  },
-  {
-    "id": "796b18b40fd0",
-    "source": "Al Jazeera",
-    "date": "2026-05-31T09:15",
-    "headline": "Trump tightens terms on Iran war deal, US media say",
-    "excerpt": "US officials indicate Tehran may take days to respond to Trump&#039;s tougher terms on a potential peace agreement.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-05-31T11:21:04.611879+00:00",
-    "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss"
   }
 ]
