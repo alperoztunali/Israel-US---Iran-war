@@ -1,5 +1,27 @@
 [
   {
+    "id": "571e51f1ec95",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T21:49",
+    "headline": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
+    "excerpt": "Group of lawmakers call on Trump administration to facilitate medical evacuations out of Gaza amid dearth of services.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-11T23:40:47.419931+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss"
+  },
+  {
+    "id": "95ffe1f883d9",
+    "source": "PressTV",
+    "date": "2026-06-11T23:40",
+    "headline": "Major parts of agreement to end war finalized despite US contradictions, aggression: FM spox",
+    "excerpt": "Iran’s foreign ministry spokesperson says major parts of a potential agreement to end the imposed war are nearly finalized despite US contradictions and military aggression disrupting diplomacy.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-11T23:40:49.029435+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/11/770281/Iran--Despite-US-aggression,-core-agreement-text-ready"
+  },
+  {
     "id": "6a42a3f3740f",
     "source": "Al Jazeera",
     "date": "2026-06-11T20:40",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-03T12:02:08.842630+00:00",
     "link": "https://presstv.ir/Detail/2026/06/03/769745/Iranian-officials-call-intensified-confrontation-with-US,-warn-normalized-attacks"
-  },
-  {
-    "id": "8d45b44e18d2",
-    "source": "PressTV",
-    "date": "2026-06-03T12:02",
-    "headline": "Israeli troops bleed as US report finds Hezbollah more capable than expected",
-    "excerpt": "Hezbollah says it has hit Israeli positions and tanks in the southern Lebanese town of al-Bayyada.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-03T12:02:08.842651+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769746/Lebanon-Hezbollah-Israel-missiles-Al-Bayyada-Beirut-Merkava-tanks-US-Trump-Netanyahu-drones-"
-  },
-  {
-    "id": "e72626053138",
-    "source": "PressTV",
-    "date": "2026-06-03T12:02",
-    "headline": "US assassination claim aimed at concealing crimes against Iranians: FM spox",
-    "excerpt": "Iran has rejected US assassination allegation, slamming Washington for trying to conceal its own crimes against the Iranian people.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-03T12:02:08.842677+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769761/Iran-US-Marco-Rubio-assassination-allegations-war-crimes"
   }
 ]
