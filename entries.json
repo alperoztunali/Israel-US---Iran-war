@@ -1,5 +1,104 @@
 [
   {
+    "id": "b06dcce5c941",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T18:45",
+    "headline": "Israeli government mulling huge funding to expand West Bank settlement: NGO",
+    "excerpt": "The proposal, if passed, would mark one of the largest expansions of illegal Israeli settlements in decades.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-11T19:38:53.312802+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/11/israeli-government-mulling-huge-funding-to-expand-west-bank-settlement-ngo?traffic_source=rss"
+  },
+  {
+    "id": "f2deebeb41d6",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T18:35",
+    "headline": "Toronto police officer shot while investigating attack on US consulate",
+    "excerpt": "Police say one suspect still at large after constable fatally shot during search warrant linked to consulate attack.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-11T19:38:53.312853+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/11/toronto-police-officer-shot-while-investigating-attack-on-us-consulate?traffic_source=rss"
+  },
+  {
+    "id": "6e2b9bce0c6e",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T18:24",
+    "headline": "Two sentenced to death in Bangkok bombing",
+    "excerpt": "Two men were sentenced to death in the 2015 Thai Erawan shrine bombing that killed 20 people and wounded more than 100.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-06-11T19:38:53.312882+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss"
+  },
+  {
+    "id": "74bde7607ed7",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T17:49",
+    "headline": "Drone strikes on central Sudanese city kill up to 23: NGO",
+    "excerpt": "Local rights group Emergency Lawyers blamed the attack on the RSF, which did not immediately claim responsibility.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-11T19:38:53.312910+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/11/drone-strikes-on-central-sudanese-city-kill-up-to-23-ngo?traffic_source=rss"
+  },
+  {
+    "id": "06901824de1f",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T17:44",
+    "headline": "Property deeds no protection for Palestinians as settler violence spreads",
+    "excerpt": "Israeli settlers follow Palestinian Bedouins across the West Bank, chasing them from their land.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-11T19:38:53.312941+00:00",
+    "link": "https://www.aljazeera.com/features/longform/2026/6/11/property-deeds-no-protection-for-palestinians-as-settler-violence-spreads?traffic_source=rss"
+  },
+  {
+    "id": "e4a8b4100d64",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T16:55",
+    "headline": "US-Iran war to pull global economy to post-COVID low: World Bank",
+    "excerpt": "Global growth forecast cut to 2.5 percent due to surging energy prices, inflation and borrowing costs.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-11T19:38:53.312975+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/11/global-growth-to-slow-to-lowest-since-covid-due-to-iran-war-world-bank?traffic_source=rss"
+  },
+  {
+    "id": "1349ac44ff74",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T14:46",
+    "headline": "Trump calls off third night of Iran strikes after threatening Kharg Island",
+    "excerpt": "After saying US would hit Iran &#039;very hard&#039;, Trump signals possible breakthrough in ceasefire negotiations.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-11T19:38:53.313142+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/11/trump-says-us-will-be-taking-kharg-island-in-latest-iran-war-threat?traffic_source=rss"
+  },
+  {
+    "id": "cf2dbb018b97",
+    "source": "PressTV",
+    "date": "2026-06-11T19:38",
+    "headline": "Iran vows 'history-making' response to Trump’s threat of seizing Kharg Island",
+    "excerpt": "Iran warns if the US president takes any \"uncalculated action\" on Iranian soil — \"not just on Kharg Island but anywhere in the country\" — he will receive a response \"that will be recorded in history.\"",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-11T19:38:54.845921+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/11/770267/Iran-US-Kharg--historic"
+  },
+  {
+    "id": "2fcb6ccfa2f9",
+    "source": "PressTV",
+    "date": "2026-06-11T19:38",
+    "headline": "Iran files war crimes case over US strike on water reservoirs",
+    "excerpt": "Iran says a US attack on a drinking water facility in Sirik constitutes a war crime, and that legal prosecution of the attack has begun in both domestic and international judicial authorities.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-11T19:38:54.845959+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/11/770257/Iran-files-war-crime-charges-US-attack-Sirik-drinking-water-facility"
+  },
+  {
     "id": "1627f2e77bc3",
     "source": "Al Jazeera",
     "date": "2026-06-11T15:53",
@@ -5399,104 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-06-03T01:48:11.703796+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss"
-  },
-  {
-    "id": "beda7fb6810f",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T23:35",
-    "headline": "Rania al‑Abbasi’s children: The truth revealed",
-    "excerpt": "Syrian commission confirms the deaths of Rania al-Abbasi’s six children, missing under Bashar al-Assad’s rule.",
-    "category": "Casualties",
-    "location": "Syria",
-    "addedAt": "2026-06-03T01:48:11.703821+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/rania-al%e2%80%91abbasis-children-the-truth-revealed?traffic_source=rss"
-  },
-  {
-    "id": "2bb529825ebc",
-    "source": "PressTV",
-    "date": "2026-06-03T01:48",
-    "headline": "IRGC hits enemy vessel, US Fifth Fleet HQ, American airbase after violations near Strait of Hormuz",
-    "excerpt": "The IRGC announces retaliatory strikes against an enemy vessel, the US Fifth Fleet Headquarters, and a regional American airbase after attacks on Iranian assets.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-03T01:48:13.528704+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769737/Iran-IRGC-attacks-United-States-Fifth-Fleet-airbase"
-  },
-  {
-    "id": "59d14da86c07",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T21:59",
-    "headline": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
-    "excerpt": "Analysts say &#039;strategic leaks&#039; aim to influence public perceptions amid diplomatic impasse in US-Israel war on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-02T23:05:36.851689+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss"
-  },
-  {
-    "id": "c65f09fdd3f1",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T21:59",
-    "headline": "Drones light up Taipei’s night sky for Computex trade show",
-    "excerpt": "Drones lit up the evening sky near Taiwan’s Taipei 101 skyscraper in a dazzling display for the Computex trade show.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-02T23:05:36.851737+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/drones-light-up-taipeis-night-sky-for-computex-trade-show?traffic_source=rss"
-  },
-  {
-    "id": "235a64e669b9",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T21:01",
-    "headline": "Russia launches massive overnight attack on Ukraine",
-    "excerpt": "Russia launched a massive overnight attack on cities across Ukraine, killing at least 22 people including children.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-02T23:05:36.851779+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/russia-launches-massive-overnight-attack-on-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "eecbb3828f82",
-    "source": "PressTV",
-    "date": "2026-06-02T23:05",
-    "headline": "Senior Israeli military operations commander steps down amid reports of 'misconduct investigation'",
-    "excerpt": "Senior Israeli military commander resigns after reportedly being questioned in connection with allegations involving \"ethical or moral misconduct.\"",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-02T23:05:38.382612+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/02/769735/Israeli-military-commander-resigns-misconduct"
-  },
-  {
-    "id": "b68c447b1e79",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T19:50",
-    "headline": "Blue Origin failure sets back NASA lunar goals",
-    "excerpt": "Blue Origin’s latest rocket test didn’t just end in a fireball — it may have burned a hole in NASA’s timeline.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-02T20:56:20.539843+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/blue-origin-failure-sets-back-nasa-lunar-goals?traffic_source=rss"
-  },
-  {
-    "id": "3528e7d3717d",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T19:26",
-    "headline": "Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza",
-    "excerpt": "International isolation has deepened after reports of sexual abuse and the widening seizure of Gaza territory.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-02T20:56:20.539891+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/2/palestine-weekly-wrap-no-respite-for-eid-as-israel-kills-dozens-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "500c9e43eb40",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T19:24",
-    "headline": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion",
-    "excerpt": "What will Israel and Lebanon discuss in Washington, as Hezbollah and Israel continue to battle in south Lebanon.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-02T20:56:20.539922+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss"
   }
 ]
