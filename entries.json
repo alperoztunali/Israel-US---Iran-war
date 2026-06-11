@@ -1,5 +1,93 @@
 [
   {
+    "id": "1627f2e77bc3",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T15:53",
+    "headline": "Bahrain releases footage of damage caused by intercepted Iranian drones",
+    "excerpt": "Bahrain released video of damage in Manama after debris from intercepted Iranian drones fell in populated areas",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-11T16:57:39.343614+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/bahrain-releases-footage-of-damage-caused-by-intercepted-iranian-drones?traffic_source=rss"
+  },
+  {
+    "id": "931887462d66",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T15:50",
+    "headline": "Lebanon Latest: Ceasefire talks continue under fire",
+    "excerpt": "Israel expands ground operations in southern Lebanon as ceasefire efforts remain stalled.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-11T16:57:39.343663+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/lebanon-latest-ceasefire-talks-continue-under-fire?traffic_source=rss"
+  },
+  {
+    "id": "1a9ba102f041",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T15:05",
+    "headline": "Trailer: Israel’s Darkest Weapon | Al Jazeera Originals",
+    "excerpt": "Investigation exposes decades of alleged Israeli torture and sexual violence against Palestinian detainees",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-11T16:57:39.343704+00:00",
+    "link": "https://www.aljazeera.com/video/2026/6/11/trailer-israels-darkest-weapon-al-jazeera-originals?traffic_source=rss"
+  },
+  {
+    "id": "1183c125e3fb",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T14:46",
+    "headline": "Trump says US will ‘be taking’ Kharg Island in latest Iran war threat",
+    "excerpt": "Trump says US will be hitting Iran &#039;very hard&#039; as two days of strikes threaten to derail ceasefire negotiations.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-11T16:57:39.343739+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/11/trump-says-us-will-be-taking-kharg-island-in-latest-iran-war-threat?traffic_source=rss"
+  },
+  {
+    "id": "3ebbe4202592",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T14:25",
+    "headline": "Israel’s Darkest Weapon | Al Jazeera Originals",
+    "excerpt": "Investigation exposes decades of alleged Israeli torture and sexual violence against Palestinian detainees",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-11T16:57:39.343771+00:00",
+    "link": "https://www.aljazeera.com/video/2026/6/11/israels-darkest-weapon-al-jazeera-originals?traffic_source=rss"
+  },
+  {
+    "id": "62a2eab0aa50",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T12:57",
+    "headline": "Iran shuts Hormuz strait: But wasn’t it already closed?",
+    "excerpt": "The strait is a crucial maritime route, through which 20 percent of global oil and natural gas is shipped in peacetime.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-11T16:57:39.343802+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed?traffic_source=rss"
+  },
+  {
+    "id": "58d254420569",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T12:51",
+    "headline": "At least 22 killed as Pakistani military helicopter crashes in Kashmir",
+    "excerpt": "Officials launch inquiry after &#039;technical fault&#039; causes an army Mi-17 to crash in Pakistan-administered Kashmir.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-11T16:57:39.343829+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/11/at-least-22-killed-as-pakistani-military-helicopter-crashes-in-kashmir?traffic_source=rss"
+  },
+  {
+    "id": "45e1de74134e",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T12:39",
+    "headline": "Video shows aftermath of Iranian attack in Bahrain",
+    "excerpt": "Iranian strikes on Bahrain left cars, homes and buildings damaged in Hamad Town and Manama.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-11T16:57:39.343871+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-aftermath-of-iranian-attack-in-bahrain?traffic_source=rss"
+  },
+  {
     "id": "46204690439a",
     "source": "Al Jazeera",
     "date": "2026-06-11T11:58",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-02T20:56:20.539922+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss"
-  },
-  {
-    "id": "859b79493072",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T19:05",
-    "headline": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
-    "excerpt": "US Secretary of State Marco Rubio says Iran’s Supreme Leader Mojtaba Khamenei is increasingly engaging in negotiations.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-02T20:56:20.539960+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss"
-  },
-  {
-    "id": "cf0d8305fcf2",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T19:01",
-    "headline": "Israeli settlers torch Palestinian homes in village near Ramallah",
-    "excerpt": "Khirbet Abu Falah has been frequently targeted by settler attacks, with over 30 incidents reported since late March.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-02T20:56:20.539989+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-settlers-torch-palestinian-homes-in-village-near-ramallah?traffic_source=rss"
-  },
-  {
-    "id": "08cf630ca5a4",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T18:47",
-    "headline": "What Trump ‘telling off’ means for Netanyahu",
-    "excerpt": "US President Donald Trump reportedly lashed out at Israeli Prime Minister Benjamin Netanyahu during a phone call.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-02T20:56:20.540028+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/what-trump-telling-off-means-for-netanyahu?traffic_source=rss"
-  },
-  {
-    "id": "a4fc09ce5392",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T17:53",
-    "headline": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
-    "excerpt": "Tehran has agreed to discuss previously off-limits aspects of its nuclear file, US State Secretary tells lawmakers.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-02T20:56:20.540060+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss"
-  },
-  {
-    "id": "43c5c5beb995",
-    "source": "PressTV",
-    "date": "2026-06-02T20:56",
-    "headline": "Hezbollah vows deep strikes inside occupied territories if Israel attacks Beirut",
-    "excerpt": "Hezbollah vows to hit back deep inside the Israeli-occupied territories if Beirut's Shia-dominated district is attacked.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-02T20:56:22.189292+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/02/769733/Lebanon-Hezbollah-Israel-attack-Beirut-retaliation-Qamati"
-  },
-  {
-    "id": "1f521796769e",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T17:07",
-    "headline": "Scene of damaged hospital after Israeli strike in southern Lebanon",
-    "excerpt": "Al Jazeera’s Obaida Hitto is at the scene of Jabal Amel Hospital, which was ‘significantly damaged’ in Israeli attacks.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-02T17:46:12.466502+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/scene-of-damaged-hospital-after-israeli-strike-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "b38e8f874b8e",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T16:51",
-    "headline": "US university sells dead bodies to navy for Israeli military training",
-    "excerpt": "The AJ+ documentary series Direct From investigates connections between body donations and Israeli military programmes.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-02T17:46:12.466543+00:00",
-    "link": "https://www.aljazeera.com/news/longform/2026/6/2/us-university-sells-dead-bodies-to-navy-for-israeli-military-training?traffic_source=rss"
-  },
-  {
-    "id": "b9244f13b3e9",
-    "source": "Al Jazeera",
-    "date": "2026-06-02T16:26",
-    "headline": "Intisar Shanib becomes first woman to head football club in Libya",
-    "excerpt": "Shanib has been appointed as the president of Darnes Sports Club, a prominent football club in Libya&#039;s Derna city.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-06-02T17:46:12.466581+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/2/intisar-shanib-first-woman-to-become-president-of-libyan-sports-club?traffic_source=rss"
   }
 ]
