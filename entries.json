@@ -1,5 +1,126 @@
 [
   {
+    "id": "22f8501b244b",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T13:34",
+    "headline": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
+    "excerpt": "Ukraine says its &#039;lockdown&#039; strategy is working as it disrupts Russian supply lines.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-12T14:16:18.262285+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss"
+  },
+  {
+    "id": "c12b499cfe66",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T13:16",
+    "headline": "Are Iran, US really close to a breakthrough ‘deal’?",
+    "excerpt": "Trump says a deal with Iran could be signed in Europe over the weekend. Tehran cautions against speculation.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-12T14:16:18.262317+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/12/are-iran-us-really-close-to-a-breakthrough-deal?traffic_source=rss"
+  },
+  {
+    "id": "ed2855c25791",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T13:01",
+    "headline": "London mayor slams event touting illegal Israeli settlement land sales",
+    "excerpt": "&#039;Great Israeli Real Estate Event&#039; promotes the sale of stolen Palestinian land in settlements in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-12T14:16:18.262345+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/london-mayor-slams-event-touting-illegal-israeli-settlement-land-sales?traffic_source=rss"
+  },
+  {
+    "id": "e45d563ae71a",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T12:08",
+    "headline": "Violence escalates in Israel amid ultra-Orthodox military draft protests",
+    "excerpt": "The struggle over military service is stoking protests, threatening Israel&#039;s coalition and reshaping political debate.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-12T14:16:18.262374+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests?traffic_source=rss"
+  },
+  {
+    "id": "e4c3307314d9",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T12:02",
+    "headline": "One injured as Israel hits southern Lebanon with air raids, artillery",
+    "excerpt": "The attacks come as Iranian media reports that a draft peace deal with the US would include ending the war in Lebanon.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-06-12T14:16:18.262387+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss"
+  },
+  {
+    "id": "b8621805a128",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T11:32",
+    "headline": "A year after Air India crash killed 260: Do we know what happened?",
+    "excerpt": "Families of victims still await a final report about the Boeing 787 Dreamliner that crashed in Ahmedabad last year.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-12T14:16:18.262408+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/a-year-after-air-india-crash-killed-260-do-we-know-what-happened?traffic_source=rss"
+  },
+  {
+    "id": "f1c6de1483f3",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T11:30",
+    "headline": "France-Germany jet plans crash: Can Europe end reliance on US for security?",
+    "excerpt": "Despite the collapse of European fighter jet venture, there is optimism about the future of Europe&#039;s strategic autonomy.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-06-12T14:16:18.262422+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/12/france-germany-jet-plans-crash-can-europe-ever-end-us-security-reliance?traffic_source=rss"
+  },
+  {
+    "id": "30e7e8495a54",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T11:11",
+    "headline": "Nigeria killed more than 13,000 ‘terrorists’ in past year, president says",
+    "excerpt": "President Tinubu takes victorious tone despite recent mass kidnappings by armed groups across the country.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-12T14:16:18.262452+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/nigeria-killed-more-than-13000-terrorists-in-past-year-president-says?traffic_source=rss"
+  },
+  {
+    "id": "0804f129eb63",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T10:43",
+    "headline": "Riots, violence, hate: Anti-immigrant unrest spells danger in Belfast",
+    "excerpt": "Crowds exploiting a knife attack are inflicting terror on Northern Ireland&#039;s ethnic minority communities.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-12T14:16:18.262476+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast?traffic_source=rss"
+  },
+  {
+    "id": "ac5319b49fa8",
+    "source": "PressTV",
+    "date": "2026-06-12T14:16",
+    "headline": "Hezbollah confident Iran will shield Lebanon in any deal with US",
+    "excerpt": "A member of the Loyalty to the Resistance bloc in the Lebanese Parliament says any agreement between Iran and the United States will have direct consequences for Lebanon.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-12T14:16:19.628363+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/12/770305/Hezbollah-Iran-US-agreement-consequences-Lebanon"
+  },
+  {
+    "id": "7a3ac16eda08",
+    "source": "PressTV",
+    "date": "2026-06-12T14:16",
+    "headline": "Iran vows to avenge 104 sailors martyred in US torpedoing of frigate",
+    "excerpt": "A senior Iranian Army commander hails domestically-manufactured drones as “unrivaled,” expressing his satisfaction with the high production rate of the unmanned aerial vehicles.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-12T14:16:19.628385+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/12/770306/Iran-Sayyari-drones-production"
+  },
+  {
     "id": "f3ed40c22841",
     "source": "Al Jazeera",
     "date": "2026-06-12T09:55",
@@ -5377,126 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-03T20:38:16.251723+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israels-decades-long-history-of-invading-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "9fab71237e43",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T19:37",
-    "headline": "Israeli strikes near Tyre hospital put youngest patient at risk",
-    "excerpt": "Jabal Aamel Hospital in Tyre was heavily damaged after an Israeli strike levelled nearby buildings, leaving key medical",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-03T20:38:16.251770+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss"
-  },
-  {
-    "id": "8a0640a63c64",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T18:45",
-    "headline": "Gunfire erupts in Mogadishu before protests against Somali president’s rule",
-    "excerpt": "Ex-Somali PM Khaire accuses government forces of attacking him before planned antigovernment protests in Mogadishu.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-06-03T20:38:16.251815+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss"
-  },
-  {
-    "id": "4d6452d4980c",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T18:19",
-    "headline": "Iran faces a new energy imbalance, but its options are limited",
-    "excerpt": "Iran’s government weighs limited energy control options in a strained economy, with the war impacting production.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-03T20:38:16.251852+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss"
-  },
-  {
-    "id": "7802ea2ded69",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T17:54",
-    "headline": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
-    "excerpt": "The attacks test a US-mediated deal to curb Israel-Hezbollah attacks, and new Israel-Lebanon talks in Washington.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-03T20:38:16.251878+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss"
-  },
-  {
-    "id": "c7375576f888",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T17:07",
-    "headline": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
-    "excerpt": "US president acknowledges he had harsh words for Netanyahu over Lebanon attacks but says he &#039;likes&#039; the Israeli leader.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-03T20:38:16.251912+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss"
-  },
-  {
-    "id": "4b1831a7f320",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T17:05",
-    "headline": "FIFA World Cup 2026: Can Asian champions Qatar reach the knockouts?",
-    "excerpt": "Al Jazeera speaks to Qatar coach Julen Lopetegui ahead of the World Cup, with a shot at knockouts within their grasp.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-06-03T20:38:16.251942+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/3/fifa-world-cup-2026-qatar-squad-team-players-group-knockouts?traffic_source=rss"
-  },
-  {
-    "id": "6f93534db76a",
-    "source": "PressTV",
-    "date": "2026-06-03T20:38",
-    "headline": "Iran Navy targets 'command center' aboard US destroyer in retaliation for aggression",
-    "excerpt": "The Iranian Navy announces targeting the \"command-and-control center\" behind recent US violations.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-03T20:38:18.038755+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769793/Iran-targets-United-States-destroyer-command-and-control-center"
-  },
-  {
-    "id": "b87fcb2e9c4b",
-    "source": "PressTV",
-    "date": "2026-06-03T20:38",
-    "headline": "Era of threatening Iran without costs has ended: Qalibaf",
-    "excerpt": "Parliament Speaker Mohammad Baqer Qalibaf says Iran is no longer a target of easy threats for enemies.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-03T20:38:18.038791+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769792/Iran-Qalibaf-message-Imam-Khomeini-anniversary"
-  },
-  {
-    "id": "ab479fe50745",
-    "source": "PressTV",
-    "date": "2026-06-03T20:38",
-    "headline": "Iranian strikes on US bases in Persian Gulf ‘legitimate self-defense’: Araghchi",
-    "excerpt": "Foreign Minister Abbas Araghchi says Iran’s armed forces are conducting legitimate self‑defense strikes on sites in the Persian Gulf region used by the United States to attack civilian shipping and violate the ceasefire.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-03T20:38:18.038825+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769786/Iran-FM-defends-strikes-on-US-bases-in-Persian-Gulf-as-legitimate-self%E2%80%91defense-against-aggression"
-  },
-  {
-    "id": "37c9599da435",
-    "source": "PressTV",
-    "date": "2026-06-03T20:38",
-    "headline": "Cessation of war in Lebanon central to any agreement with US: Senior Iranian MP",
-    "excerpt": "A senior Iranian lawmaker has stressed that an end of the regional war, especially in Lebanon, is at the top of the text of Iran’s agreement with the United States.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-03T20:38:18.038865+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769785/End-of-Lebanon-war-agreement-with-US-Senior-Iranian-lawmaker"
-  },
-  {
-    "id": "0950246083ae",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T16:39",
-    "headline": "Israeli settlers are driving Palestinian shepherds from their grazing lands",
-    "excerpt": "Settler attacks in the Jordan Valley have forced growing numbers of Palestinian communities to flee their villages.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-03T17:18:42.679959+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/3/israeli-settlers-are-driving-palestinian-shepherds-from-their-grazing-lands?traffic_source=rss"
   }
 ]
