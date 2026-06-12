@@ -1,5 +1,60 @@
 [
   {
+    "id": "851af5e6930b",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T04:45",
+    "headline": "Iran weighs proposed deal but remains wary of US intentions",
+    "excerpt": "Iran says a proposed agreement is under review by its highest leadership and could be closer than ever before.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-12T06:53:13.304263+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-weighs-proposed-deal-but-remains-wary-of-us-intentions?traffic_source=rss"
+  },
+  {
+    "id": "2fe778676bd7",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T03:44",
+    "headline": "South Korea’s ex-President Yoon gets 30 years over drone operation",
+    "excerpt": "Seoul court sentences former leader for sending military drones into North Korea.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-12T06:53:13.304308+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/south-koreas-ex-president-yoon-gets-30-years-over-drone-operation?traffic_source=rss"
+  },
+  {
+    "id": "42ea19763826",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T03:38",
+    "headline": "Amnesty and Oxfam warn of displacement in the occupied West Bank",
+    "excerpt": "Amnesty International and Oxfam released reports this week documenting a rise in state-backed Israeli settler violence.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-12T06:53:13.304347+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/amnesty-and-oxfam-warn-of-displacement-in-the-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "5c15ef61b60b",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T01:44",
+    "headline": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal",
+    "excerpt": "Wall Street and Asian markets rally on hopes for an end to the US-Israel war on Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-12T06:53:13.304376+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss"
+  },
+  {
+    "id": "6a205d97dc5c",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T01:40",
+    "headline": "Iran World Cup captain reveals Mexico cartel robbery story",
+    "excerpt": "Iran&#039;s World Cup captain says he’s heard Mexican cartels love Iranians and revealed his own brush with an armed group.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-12T06:53:13.304438+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-world-cup-captain-reveals-mexico-cartel-robbery-story?traffic_source=rss"
+  },
+  {
     "id": "673d02b701a4",
     "source": "Al Jazeera",
     "date": "2026-06-12T01:11",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-03T17:18:44.634799+00:00",
     "link": "https://presstv.ir/Detail/2026/06/03/769771/No-room-for-excessive-demands-in-talks-or-ceasefire-Iran-official-warns-US"
-  },
-  {
-    "id": "78c7d3be71b7",
-    "source": "PressTV",
-    "date": "2026-06-03T17:18",
-    "headline": "Iran slams global inaction in dealing with aggression against children",
-    "excerpt": "The Iranian rights body says the world has kept silent in the face of growing aggression crimes against children.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-03T17:18:44.634826+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769772/Iran-criticism-global-inaction-aggression-crimes-children"
-  },
-  {
-    "id": "ab7a376ed5a2",
-    "source": "PressTV",
-    "date": "2026-06-03T17:18",
-    "headline": "Trump says he berated ‘crazy’ Netanyahu in heated phone call over Lebanon",
-    "excerpt": "Trump says he shouted and cursed Netanyahu as he \"was a little bit perturbed at his constantly fighting with Lebanon.\"",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-06-03T17:18:44.634858+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769770/Trump-says-he-berated-Netanyahu-over-threat-to-bomb-Beirut-"
-  },
-  {
-    "id": "d3a68dcea551",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T11:42",
-    "headline": "Iran, Kuwait, Bahrain hit: Is the war in the Gulf escalating again?",
-    "excerpt": "Secretary of State Rubio tells US lawmakers the war on Iran is over, amid recent attacks on Iran and Gulf countries.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-03T12:02:02.586343+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/3/iran-kuwait-bahrain-hit-is-the-war-in-the-gulf-escalating-again?traffic_source=rss"
-  },
-  {
-    "id": "300046f13e9d",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T10:41",
-    "headline": "Israel’s invasion of southern Lebanon devastates centuries of history",
-    "excerpt": "From Phoenician temples to Crusader castles, heritage sites bear the brunt of Israel&#039;s expanding military offensive.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-03T12:02:02.586399+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/3/israels-invasion-of-southern-lebanon-devastates-centuries-of-history?traffic_source=rss"
-  },
-  {
-    "id": "620382b5c50c",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T09:22",
-    "headline": "Hezbollah video shows attack on Israeli troops at Lebanon’s Beaufort Castle",
-    "excerpt": "Hezbollah has released drone video showing attacks targeting Israeli forces occupying Beaufort Castle",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-06-03T12:02:02.586428+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/hezbollah-video-shows-attack-on-israeli-troops-at-lebanons-beaufort-castle?traffic_source=rss"
   }
 ]
