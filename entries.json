@@ -1,5 +1,60 @@
 [
   {
+    "id": "673d02b701a4",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T01:11",
+    "headline": "Israel launches overnight strikes across Gaza",
+    "excerpt": "Videos shared by Palestinian activists show powerful Israeli airstrikes across Gaza Strip overnight.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-12T02:00:09.713009+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss"
+  },
+  {
+    "id": "7c1ce657c02c",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T00:24",
+    "headline": "Japan’s Wataru Endo retires after injury ends World Cup 2026 dream",
+    "excerpt": "Midfielder and captain quits after failing to recover from foot injury ahead of Japan&#039;s game against the Netherlands.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-12T02:00:09.713072+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/12/japans-wataru-endo-retires-after-injury-ends-world-cup-2026-dream?traffic_source=rss"
+  },
+  {
+    "id": "020473dc0207",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T00:00",
+    "headline": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
+    "excerpt": "The International Rescue Committee warns that people displaced by Israeli attacks in Lebanon are at &#039;breaking point&#039;.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-12T02:00:09.713111+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss"
+  },
+  {
+    "id": "032789d09780",
+    "source": "Al Jazeera",
+    "date": "2026-06-11T23:29",
+    "headline": "Trump says US and Iran have reached a ‘great settlement’",
+    "excerpt": "US President Donald Trump claims Washington and Tehran have reached a ‘great settlement’ and are finalising documents",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-12T02:00:09.713147+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss"
+  },
+  {
+    "id": "f13cfb7f7e63",
+    "source": "PressTV",
+    "date": "2026-06-12T02:00",
+    "headline": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
+    "excerpt": "The IRGC Navy confronted a deviant oil tanker that attempted to illegally transit the Strait of Hormuz in violation of Iranian security directives, according to a report.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-12T02:00:11.856479+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report"
+  },
+  {
     "id": "571e51f1ec95",
     "source": "Al Jazeera",
     "date": "2026-06-11T21:49",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-03T12:02:02.586428+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/hezbollah-video-shows-attack-on-israeli-troops-at-lebanons-beaufort-castle?traffic_source=rss"
-  },
-  {
-    "id": "f84511cb50f2",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T08:56",
-    "headline": "US ‘disables’ ship allegedly bound for Iranian port",
-    "excerpt": "US Central Command released video of it targeting a tanker that it says was en route to Iran’s Kharg Island in the Gulf.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-03T12:02:02.586457+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-disables-ship-allegedly-bound-for-iranian-port?traffic_source=rss"
-  },
-  {
-    "id": "449d0fdbfcd6",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T08:39",
-    "headline": "Iranian drone attack kills one in Kuwait after US strikes Qeshm Island",
-    "excerpt": "Gulf country&#039;s airport is hit as clashes go on with diplomacy between Washington and Tehran showing little progress.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-06-03T12:02:02.586476+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island?traffic_source=rss"
-  },
-  {
-    "id": "37117fd7e945",
-    "source": "PressTV",
-    "date": "2026-06-03T12:02",
-    "headline": "Iran's armed forces: Enemy forced to accept new Iranian rules",
-    "excerpt": "Iran’s military says the US-Israeli enemies will have no choice but to surrender before the divine will of the Armed Forces and the vigilant nation.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-03T12:02:08.842551+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769758/Iran%E2%80%99s-military-Enemy-No-choice-but-to-surrender"
-  },
-  {
-    "id": "d5612879dfaa",
-    "source": "PressTV",
-    "date": "2026-06-03T12:02",
-    "headline": "Iran vows to use ‘all capabilities’ to confront any new US aggression",
-    "excerpt": "Iran’s Foreign Ministry condemns aggressive American attacks against an Iranian oil tanker and a telecommunications mast on the island of Qeshm.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-03T12:02:08.842593+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769754/Iran-condemns-US-aggression-against-Iranian-tanker,-telecom-mast-in-Qeshm"
-  },
-  {
-    "id": "3471cea3e3a6",
-    "source": "PressTV",
-    "date": "2026-06-03T12:02",
-    "headline": "Iranian officials call for intensified retaliation amid warning of normalized US attacks",
-    "excerpt": "An Iranian parliamentary official says confrontation with the United States must be intensified, while a political analyst warns Washington is seeking to normalize attacks on the country under the pretext of a ceasefire.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-03T12:02:08.842630+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769745/Iranian-officials-call-intensified-confrontation-with-US,-warn-normalized-attacks"
   }
 ]
