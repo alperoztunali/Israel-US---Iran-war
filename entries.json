@@ -1,5 +1,49 @@
 [
   {
+    "id": "22027cb02fab",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T16:38",
+    "headline": "Pakistan says ‘final, agreed upon’ text of Iran war ceasefire deal reached",
+    "excerpt": "This is a breaking news story.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-12T17:23:21.389358+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached?traffic_source=rss"
+  },
+  {
+    "id": "073a8da36bd2",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T14:24",
+    "headline": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
+    "excerpt": "Trump decries &#039;dishonorable people&#039; after reports Iran made few concessions in deal US has said could be soon signed.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-12T17:23:21.389407+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/dishonorable-trump-says-leaked-iran-ceasefire-terms-fake?traffic_source=rss"
+  },
+  {
+    "id": "27393b543b87",
+    "source": "PressTV",
+    "date": "2026-06-12T17:23",
+    "headline": "Iran’s top diplomat says MoU with US ‘has never been closer’",
+    "excerpt": "The Iranian foreign minister says media should refrain from speculating about the contents of the proposed Islamabad MoU between Iran and the US which is closer than ever to being finalized.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-12T17:23:22.956763+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/12/770324/Iran-US-Islamabad-Araghchi"
+  },
+  {
+    "id": "438a2e4745ff",
+    "source": "PressTV",
+    "date": "2026-06-12T17:23",
+    "headline": "Claims of US, Iran signing deal in Gevena on Sunday ‘not true’: Report",
+    "excerpt": "An informed source close to the Iranian negotiating team strongly rejects claims that Iran and the US will sign an understanding in Geneva on Sunday.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-12T17:23:22.956807+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/12/770319/Iran-US-Geneva-Baghaei"
+  },
+  {
     "id": "22f8501b244b",
     "source": "Al Jazeera",
     "date": "2026-06-12T13:34",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-03T22:53:53.841005+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss"
-  },
-  {
-    "id": "ef1def6f8219",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T20:38",
-    "headline": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
-    "excerpt": "US secretary of state dodges question at congressional hearing on Washington&#039;s position on Israel&#039;s nuclear programme.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-03T22:53:53.841044+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss"
-  },
-  {
-    "id": "c59a32748125",
-    "source": "PressTV",
-    "date": "2026-06-03T22:53",
-    "headline": "Iran does not seek war, but prepared to continue defending itself if necessary: FM Araghchi",
-    "excerpt": "Foreign Minister Abbas Araghchi says Iran does not seek war, but is prepared to continue defending itself if necessary.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-03T22:53:55.405961+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769795/Iran-war-warning-United-States-Israel-Lebanon"
-  },
-  {
-    "id": "f2e957476b69",
-    "source": "PressTV",
-    "date": "2026-06-03T22:53",
-    "headline": "House approves measure to limit Trump's Iran war powers",
-    "excerpt": "The US House of Representatives approves a resolution aimed at limiting President Donald Trump's war powers in relation to Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-03T22:53:55.406008+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769796/United-States-Trump-Iran-war-powers-House"
-  },
-  {
-    "id": "b22f09c6af89",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T19:55",
-    "headline": "Israel’s decades-long history of invading Lebanon",
-    "excerpt": "Israel has invaded Lebanon for the sixth time in 48 years. Al Jazeera’s Hala Al Shami outlines this history.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-03T20:38:16.251723+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israels-decades-long-history-of-invading-lebanon?traffic_source=rss"
   }
 ]
