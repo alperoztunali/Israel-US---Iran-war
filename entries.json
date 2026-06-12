@@ -1,5 +1,104 @@
 [
   {
+    "id": "f3ed40c22841",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T09:55",
+    "headline": "Iraq’s paramilitary groups say they will disarm. Will that ever happen?",
+    "excerpt": "Powerful Shia leader Muqtada al-Sadr among those who say their groups will integrate into the state.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-06-12T11:04:25.502932+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/iraq-analysis-militias-disarm?traffic_source=rss"
+  },
+  {
+    "id": "8dc2fd04a2dd",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T09:51",
+    "headline": "Family mourn Indian sailor killed in US strike on oil tanker",
+    "excerpt": "The wife and family of an Indian sailor killed in a US strike on a tanker off Oman this week have gathered in mourning.",
+    "category": "Casualties",
+    "location": "Oman",
+    "addedAt": "2026-06-12T11:04:25.503000+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/family-mourn-indian-sailor-killed-in-us-strike-on-oil-tanker?traffic_source=rss"
+  },
+  {
+    "id": "48b09261e977",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T09:40",
+    "headline": "‘Torture isn’t new to Palestinians’: How Israel learned from colonialism",
+    "excerpt": "A chain of sexual violence that Britain built, France refined and Israel inherited is being used against Palestinians.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-12T11:04:25.503043+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/12/torture-isnt-new-to-palestinians-how-israel-learned-from-colonialism?traffic_source=rss"
+  },
+  {
+    "id": "fc1159191f61",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T09:35",
+    "headline": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
+    "excerpt": "Israeli zone extends into Lebanon&#039;s maritime territory, raising fears that it could become a long-term &#039;resource grab&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-12T11:04:25.503080+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss"
+  },
+  {
+    "id": "1b6000375fc9",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T09:34",
+    "headline": "Video: What Iran’s football fans think about the World Cup",
+    "excerpt": "What’s it like supporting your team in a World Cup hosted by a country that’s at war with yours?",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-12T11:04:25.503113+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-what-irans-football-fans-think-about-the-world-cup?traffic_source=rss"
+  },
+  {
+    "id": "dd15143faa50",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T07:55",
+    "headline": "Three killed as Ukraine and Russia exchange cross-border attacks",
+    "excerpt": "Officials say two people were killed in Russia&#039;s Bryansk, while a woman was killed in Ukraine&#039;s Sumy.",
+    "category": "Casualties",
+    "location": "Oman",
+    "addedAt": "2026-06-12T11:04:25.503144+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/three-killed-as-ukraine-and-russia-exchange-cross-border-attacks?traffic_source=rss"
+  },
+  {
+    "id": "a822f3edd0cd",
+    "source": "Al Jazeera",
+    "date": "2026-06-12T07:49",
+    "headline": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
+    "excerpt": "The United States military has struck three vessels in the Strait of Hormuz this week, killing three Indian sailors.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-06-12T11:04:25.503165+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "709873519097",
+    "source": "PressTV",
+    "date": "2026-06-12T11:04",
+    "headline": "Iran firm on red lines, says proposed deal not finalized amid US backtracking",
+    "excerpt": "Tehran remains steadfast on its principled red lines as authorities review a proposed understanding, firmly rejecting speculation that a final deal has been reached despite Washington backtracking on recent military threats.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-12T11:04:27.382052+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/12/770298/Iran-firm-on-red-lines-as-proposed-deal-not-finalized-amid-US-backtracking"
+  },
+  {
+    "id": "16e012f06442",
+    "source": "PressTV",
+    "date": "2026-06-12T11:04",
+    "headline": "Handala hacks California water systems after US strike on Iran’s reservoirs",
+    "excerpt": "A pro-Resistant hacktivist group announced that it has breached California water facilities in direct retaliation for a US airstrike that destroyed drinking water reservoirs in southern Iran.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-06-12T11:04:27.382088+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/12/770290/Handala-California-water-warning-US-strike-Iran-reservoirs"
+  },
+  {
     "id": "851af5e6930b",
     "source": "Al Jazeera",
     "date": "2026-06-12T04:45",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-03T17:18:42.679959+00:00",
     "link": "https://www.aljazeera.com/features/2026/6/3/israeli-settlers-are-driving-palestinian-shepherds-from-their-grazing-lands?traffic_source=rss"
-  },
-  {
-    "id": "9f00c12ba46c",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T16:20",
-    "headline": "What is the St Petersburg forum, Putin’s economic outreach to the world?",
-    "excerpt": "A Ukrainian drone strike targeted energy facilities near St Petersburg hours before the forum began.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-03T17:18:42.680006+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/3/what-is-the-st-petersburg-forum-putins-economic-outreach-to-the-world?traffic_source=rss"
-  },
-  {
-    "id": "2b7ed2a6fab4",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T14:59",
-    "headline": "Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary",
-    "excerpt": "A former US Army combat surgeon who volunteered at Gaza hospital has a Democratic primary in New Jersey.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-06-03T17:18:42.680041+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/pro-palestine-us-army-veteran-adam-hamawy-wins-new-jersey-primary?traffic_source=rss"
-  },
-  {
-    "id": "c43ad07e951f",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T14:57",
-    "headline": "Three British navy personnel killed in helicopter crash in England",
-    "excerpt": "An investigation under way after the deadly accident during a training exercise near the town of Sourton in Devon.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-03T17:18:42.680071+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/3/three-british-navy-personnel-killed-in-helicopter-crash-in-england?traffic_source=rss"
-  },
-  {
-    "id": "bacef2671d6f",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T13:41",
-    "headline": "Israel detains Palestine international women’s football player",
-    "excerpt": "Rand Halawani&#039;s detention also saw four other women arrested on Tuesday, including a former Palestine player.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-03T17:18:42.680109+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/3/israel-detains-palestine-international-football-player?traffic_source=rss"
-  },
-  {
-    "id": "a0c697b0fd99",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T13:35",
-    "headline": "Iran’s World Cup squad to depart for Mexico on June 6 despite US visa delay",
-    "excerpt": "Squad&#039;s visas for the US haven&#039;t been issued, with Marco Rubio saying IRGC-linked members won&#039;t be allowed to &#039;embed&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-03T17:18:42.680171+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/3/irans-world-cup-squad-to-depart-for-mexico-on-june-6-despite-us-visa-delay?traffic_source=rss"
-  },
-  {
-    "id": "230f6255ff2b",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T13:09",
-    "headline": "Why is France so invested in the future of Lebanon?",
-    "excerpt": "Analysts say France is hoping to reassert its diminishing influence in the region.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-06-03T17:18:42.680209+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/3/why-is-france-so-invested-in-the-future-of-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "8876a74e0c0e",
-    "source": "Al Jazeera",
-    "date": "2026-06-03T12:56",
-    "headline": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
-    "excerpt": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-03T17:18:42.680240+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-and-bahrain-attacked-as-iran-launches-missile-and-drone-barrage?traffic_source=rss"
-  },
-  {
-    "id": "e9a52abb2b43",
-    "source": "PressTV",
-    "date": "2026-06-03T17:18",
-    "headline": "Iranian MPs call for longer-range missiles to avenge martyred Leader",
-    "excerpt": "Nearly 90 members of Iran’s parliament have signed a letter to the Leader of the Islamic Revolution, vowing to support the armed forces and defense industries.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-03T17:18:44.634771+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769777/Iranian-MPs-pledge-support-for-extension-of-missile-range-to-reach-killers-of-martyred-Leader"
-  },
-  {
-    "id": "c448b9269b5d",
-    "source": "PressTV",
-    "date": "2026-06-03T17:18",
-    "headline": "Iran rejects ‘excessive demands’ in talks or ceasefire, Leader’s advisor warns US",
-    "excerpt": "“The response to any shot or aggression will be a volley of missiles and drones,\" Rezaei warned.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-03T17:18:44.634799+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/03/769771/No-room-for-excessive-demands-in-talks-or-ceasefire-Iran-official-warns-US"
   }
 ]
