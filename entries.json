@@ -1,5 +1,60 @@
 [
   {
+    "id": "27d6c6b8c2c6",
+    "source": "Al Jazeera",
+    "date": "2026-06-13T16:01",
+    "headline": "Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp",
+    "excerpt": "Israeli attack kills one person in central Gaza&#039;s Bureij camp, as a disabled Palestinian is shot in occupied West Bank.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-13T16:48:38.615414+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss"
+  },
+  {
+    "id": "1013108489e2",
+    "source": "Al Jazeera",
+    "date": "2026-06-13T15:43",
+    "headline": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+    "excerpt": "Iranian authorities say assassinations and strikes over the past year have failed to deter them.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-13T16:48:38.615450+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss"
+  },
+  {
+    "id": "a4634feb754f",
+    "source": "Al Jazeera",
+    "date": "2026-06-13T15:34",
+    "headline": "Thousands attend anti-racism rallies following unrest in Belfast",
+    "excerpt": "The rallies in Northern Ireland follow two nights of anti-immigrant violence provoked by a stabbing attack.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-13T16:48:38.615482+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/13/thousands-attend-anti-racism-rallies-following-unrest-in-belfast?traffic_source=rss"
+  },
+  {
+    "id": "031eb5a3b1f5",
+    "source": "Al Jazeera",
+    "date": "2026-06-13T15:19",
+    "headline": "Iranians divided on peace prospects after US-Iran say a deal is near",
+    "excerpt": "Iranians gave mixed reactions as Iran and the US said they were close to an interim agreement to end the war.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-13T16:48:38.615505+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss"
+  },
+  {
+    "id": "ef3d654f1994",
+    "source": "PressTV",
+    "date": "2026-06-13T16:48",
+    "headline": "Tehran pursuing diplomacy with ‘pessimism’; no Geneva visit planned: FM spox",
+    "excerpt": "Iran says it has to remain pessimistic and suspicious at any stage of negotiations with the US.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-13T16:48:40.400564+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/13/770378/Iran-spokesman-Baqaei-talks-Iran-US-pessimism"
+  },
+  {
     "id": "bb632d5ea30d",
     "source": "Al Jazeera",
     "date": "2026-06-13T14:06",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-05T08:46:16.126475+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/un-envoys-call-on-trump-to-stop-israeli-annexation?traffic_source=rss"
-  },
-  {
-    "id": "b0e72b50d1e4",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T07:07",
-    "headline": "‘We are fighters’: Iraq aim to shock rivals at 2026 World Cup",
-    "excerpt": "Coach Graham Arnold and two key players speak to Al Jazeera ahead of Iraq&#039;s first World Cup appearance since 1986.",
-    "category": "Airstrike",
-    "location": "Iraq",
-    "addedAt": "2026-06-05T08:46:16.126514+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/5/we-are-fighters-iraq-aim-to-shock-rivals-at-2026-world-cup?traffic_source=rss"
-  },
-  {
-    "id": "b6a8c2d5ba12",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T06:01",
-    "headline": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
-    "excerpt": "Israel strikes Lebanon despite ceasefire, while Hezbollah rejects deal as death toll tops 3,500.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-05T08:46:16.126545+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss"
-  },
-  {
-    "id": "54475b6f488d",
-    "source": "PressTV",
-    "date": "2026-06-05T08:46",
-    "headline": "Trump says he would be ‘honored’ to meet Iran’s new Leader",
-    "excerpt": "US President Donald Trump says he would be “honored” to meet Ayatollah Seyyed Mojtaba Khamenei.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-05T08:46:17.749900+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/05/769859/Trump-says-would-be-honored-to-meet-Iran-Leader"
-  },
-  {
-    "id": "948c0042a3fc",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T01:12",
-    "headline": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
-    "excerpt": "Tensions over Somali elections escalate into violence, leaving Mogadishu residents grappling with fear and disruption.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-05T04:50:45.758788+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss"
-  },
-  {
-    "id": "0e68f4473f2e",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T00:00",
-    "headline": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
-    "excerpt": "Israel&#039;s supreme court annuls government ban on international Red Cross visiting Palestinian prisoners in Israeli jails.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-05T04:50:45.758836+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss"
   }
 ]
