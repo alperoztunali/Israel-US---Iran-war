@@ -1,5 +1,71 @@
 [
   {
+    "id": "f6eae4949694",
+    "source": "Al Jazeera",
+    "date": "2026-06-13T10:13",
+    "headline": "Israel attacks Lebanon despite being included in potential peace deal",
+    "excerpt": "Israel has continued to attack Lebanon, despite Iran saying it was included in a potential memorandum of understanding.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-13T11:03:14.485865+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-despite-being-included-in-potential-peace-deal?traffic_source=rss"
+  },
+  {
+    "id": "af69988ce3f2",
+    "source": "Al Jazeera",
+    "date": "2026-06-13T09:12",
+    "headline": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
+    "excerpt": "US and Iran say a deal to end the war is close, with a final text agreed but key steps still pending.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-13T11:03:14.485911+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss"
+  },
+  {
+    "id": "76c234c42abb",
+    "source": "Al Jazeera",
+    "date": "2026-06-13T09:01",
+    "headline": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
+    "excerpt": "Smokers in Gaza turn to toxic molokhia nicotine cigarettes as tobacco prices surge, causing serious health risks.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-13T11:03:14.485954+00:00",
+    "link": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss"
+  },
+  {
+    "id": "c6b50fb33d5b",
+    "source": "Al Jazeera",
+    "date": "2026-06-13T07:33",
+    "headline": "Five killed as Israel hits south Lebanon, issues forced displacement orders",
+    "excerpt": "The Israeli military has threatened residents of 20 Lebanese towns and villages to leave their homes immediately.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-13T11:03:14.485988+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss"
+  },
+  {
+    "id": "117eed331df1",
+    "source": "PressTV",
+    "date": "2026-06-13T11:03",
+    "headline": "Cuba announces new economic reforms to counter US sanctions ‘criminal blockade’",
+    "excerpt": "Cuba's leader announces new economic reforms to foster foreign investment and the national economy to counter the US-imposed economic and energy sanctions.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-06-13T11:03:16.275705+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/13/770363/Cuba-Economic-Reform-President-Diaz-Canel"
+  },
+  {
+    "id": "6ac91e3c8c44",
+    "source": "PressTV",
+    "date": "2026-06-13T11:03",
+    "headline": "EU raises alarm over spike in Israeli settler violence in West Bank",
+    "excerpt": "The EU’s top diplomat has condemned the growing violence by Israeli settlers against Palestinians in the Occupied West Bank.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-13T11:03:16.275750+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/13/770359/EU-top-diplomat-condemns-rising-settler-violence-in-West-Bank,-says-issue-central-to-bloc-agenda"
+  },
+  {
     "id": "6c4f74b5faba",
     "source": "Al Jazeera",
     "date": "2026-06-13T08:04",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-04T19:07:09.747237+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/marjane-satrapi-the-author-of-persepolis-dies-at-56?traffic_source=rss"
-  },
-  {
-    "id": "8084d1e2fcc4",
-    "source": "Al Jazeera",
-    "date": "2026-06-04T17:11",
-    "headline": "Ecuador’s disappeared: Inside one family’s search for answers",
-    "excerpt": "Advocates warn that 51 people have disappeared during Ecuador&#039;s military operations, leaving loved ones without answers.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-04T19:07:09.747297+00:00",
-    "link": "https://www.aljazeera.com/news/longform/2026/6/4/ecuadors-disappeared-inside-one-familys-search-for-answers?traffic_source=rss"
-  },
-  {
-    "id": "ddaee0d2d968",
-    "source": "Al Jazeera",
-    "date": "2026-06-04T16:38",
-    "headline": "Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules",
-    "excerpt": "Israel’s Supreme Court rejects government ban on prisoner visits, affirming Red Cross access under international law.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-04T19:07:09.747337+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules?traffic_source=rss"
-  },
-  {
-    "id": "3712024d3eb2",
-    "source": "PressTV",
-    "date": "2026-06-04T19:07",
-    "headline": "IRGC urges immediate halt to Israeli attacks on Lebanon, troop pullout",
-    "excerpt": "The IRGC says no peace will be established in the region without the withdrawal of Israel from occupied territories in Lebanon.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-04T19:07:11.245896+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/04/769829/IRGC--No-peace-region-Israel%E2%80%99s-withdrawal-Lebanese-territories"
-  },
-  {
-    "id": "ae7e416ec236",
-    "source": "PressTV",
-    "date": "2026-06-04T19:07",
-    "headline": "Quds Force chief: Israel must return to pre-war positions in Lebanon",
-    "excerpt": "IRGC’s Quds Force Chief Brigadier General Esmaeil Qaani says Hezbollah's minimum demand is a complete Israeli withdrawal to the positions it held in Lebanon before the start of the 40-day war.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-04T19:07:11.245939+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/04/769825/Iran-Esmaeil-Qaani-Lebanon-Israel-Hezbollah-ceasefire-US-Iran"
-  },
-  {
-    "id": "4b3211bec02e",
-    "source": "PressTV",
-    "date": "2026-06-04T19:07",
-    "headline": "Hezbollah chief hails Iran’s support, reaffirms resistance against US, Israel",
-    "excerpt": "The Hezbollah chief has thanked Iran for supporting the resistance movement, saying the US and the West do not want the Islamic Republic to be a model of resistance and justice.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-04T19:07:11.245979+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/04/769836/Lebanon-Hezbollah-Naim-Qassem-Iran-Islamic-Revolution-Israel-US-resistance-justice-ceasefire"
-  },
-  {
-    "id": "54f97dd0ce2a",
-    "source": "Al Jazeera",
-    "date": "2026-06-04T15:41",
-    "headline": "‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war",
-    "excerpt": "Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-04T16:38:08.423520+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss"
   }
 ]
