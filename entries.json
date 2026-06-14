@@ -1,5 +1,60 @@
 [
   {
+    "id": "f3e9d5727c5d",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T12:58",
+    "headline": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
+    "excerpt": "Israel attacked Beirut again in an apparent attempt to test and derail an agreement.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-14T13:14:58.005588+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us?traffic_source=rss"
+  },
+  {
+    "id": "3bd1b995ac23",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T11:15",
+    "headline": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
+    "excerpt": "Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah ‘infrastructure’.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-06-14T13:14:58.005623+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss"
+  },
+  {
+    "id": "6fd06e0e1660",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T10:25",
+    "headline": "Israel attacks southern Beirut after alleged Hezbollah drone fire",
+    "excerpt": "Israel warns of attacks as Iran insists Lebanon must be included in any peace deal with the United States.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-14T13:14:58.005647+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "106e7106a48d",
+    "source": "PressTV",
+    "date": "2026-06-14T13:15",
+    "headline": "Araghchi: Recent war proved regional security can’t be built without Iran",
+    "excerpt": "The Iranian foreign minister says any new security arrangement in West Asia must include Iran and all the countries in the region.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-14T13:15:03.487013+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770429/Iran-Araghchi-security-war"
+  },
+  {
+    "id": "9893ecac7456",
+    "source": "PressTV",
+    "date": "2026-06-14T13:15",
+    "headline": "Iranian officials united on resistance against threats: Judiciary chief",
+    "excerpt": "Iran’s Judiciary chief says all state officials are united in resisting foreign pressure",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-14T13:15:03.487055+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770422/Iranian-officials-united-on-resistance-against-threats-Judiciary-chief"
+  },
+  {
     "id": "e80606765970",
     "source": "Al Jazeera",
     "date": "2026-06-14T10:25",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-05T21:09:04.937022+00:00",
     "link": "https://presstv.ir/Detail/2026/06/05/769902/Iran-United-States-Leader-advisor-warning-CNN-interview"
-  },
-  {
-    "id": "e6c7551532f7",
-    "source": "PressTV",
-    "date": "2026-06-05T21:09",
-    "headline": "Leader grants pardons, sentence reductions to over 2,000 to mark Eid al-Ghadir",
-    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei has agreed to pardon, reduce, and commute the sentences of more than 2,000 convicts on the occasion of Eid al-Ghadir, following a request by the head of Iran’s judiciary.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-05T21:09:04.937085+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/05/769870/Leader-grants-pardons,-sentence-reductions-to-hundreds-of-convicts"
-  },
-  {
-    "id": "2a13cfbb5669",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T18:50",
-    "headline": "Judge strikes down Trump bar on asylum, visa processing for 39 countries",
-    "excerpt": "Judge says restrictions put lives of immigrants in &#039;indeterminate legal limbo&#039;, motivated by &#039;anti-immigrant sentiment&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-05T19:20:36.954124+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-39-countries?traffic_source=rss"
-  },
-  {
-    "id": "f85450695677",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T18:45",
-    "headline": "Is the latest US ceasefire deal for Lebanon meaningless?",
-    "excerpt": "Israel and Hezbollah continue fighting after truce announcement.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-05T19:20:36.954166+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss"
-  },
-  {
-    "id": "b339d98103bd",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T18:04",
-    "headline": "Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now",
-    "excerpt": "The Russian leader insisted military action would only stop after Moscow achieves its &#039;goals&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-05T19:20:36.954212+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/5/russias-putin-says-no-point-meeting-ukraines-zelenskyy-for-now?traffic_source=rss"
-  },
-  {
-    "id": "34e10efa1596",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T17:54",
-    "headline": "Ukraine and Russia exchange 185 prisoners of war each",
-    "excerpt": "Russia and Ukraine have each released 185 prisoners in a major exchange, which Russia says was mediated by the UAE.",
-    "category": "Other",
-    "location": "Uae",
-    "addedAt": "2026-06-05T19:20:36.954247+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukraine-and-russia-exchange-185-prisoners-of-war-each?traffic_source=rss"
   }
 ]
