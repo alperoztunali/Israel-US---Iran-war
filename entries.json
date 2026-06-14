@@ -1,5 +1,38 @@
 [
   {
+    "id": "1ef67d320e67",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T16:49",
+    "headline": "Al Jazeera reports from Israeli attack site in southern Beirut",
+    "excerpt": "Al Jazeera reports from the site of an Israeli attack on a residential building in southern Beirut.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-14T18:18:58.721486+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss"
+  },
+  {
+    "id": "cca84494f8ee",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T16:32",
+    "headline": "Analyst says what attacks on Lebanon could mean for potential US-Iran deal",
+    "excerpt": "Israeli affairs analyst Dan Perry explains how the US, Israel and Iran may react as they get closer to an agreement.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-14T18:18:58.721530+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/analyst-says-what-attacks-on-lebanon-could-mean-for-potential-us-iran-deal?traffic_source=rss"
+  },
+  {
+    "id": "3e999aa8e9eb",
+    "source": "PressTV",
+    "date": "2026-06-14T18:19",
+    "headline": "Iran’s armed forces have ‘finger on the trigger’ to strike enemy: Top commander",
+    "excerpt": "A top Iranian commander says the Iranian armed forces have their \"finger on the trigger\" and are prepared to fire at the heart of the enemy if necessary.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-14T18:19:00.322683+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770441/Iran-US-Israel-Abdollahi"
+  },
+  {
     "id": "46203e26f1f7",
     "source": "Al Jazeera",
     "date": "2026-06-14T15:49",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-06T07:22:36.336454+00:00",
     "link": "https://presstv.ir/Detail/2026/06/06/769911/Israeli-strikes-kill-six-civilians,-destroy-ambulance,-school-in-southern-Lebanon"
-  },
-  {
-    "id": "180ccd86c0c1",
-    "source": "PressTV",
-    "date": "2026-06-06T07:22",
-    "headline": "Kuwait jails TV presenter for supporting Iran amid US-Israeli onslaught",
-    "excerpt": "Kuwaiti authorities have imprisoned a TV presenter for three years over her support for Iran amid the US-Israeli war of aggression against the Islamic Republic.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-06T07:22:36.336482+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/06/769916/Kuwaiti-TV-presenter-handed-down-jail-term-for-supporting-Iran-amid-US-Israeli-onslaught-"
-  },
-  {
-    "id": "33ff3f1e16a3",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T01:13",
-    "headline": "Gaza fishermen stay afloat with dinghies made from doorframes",
-    "excerpt": "Fishermen in Gaza are using dinghies made of reclaimed fiberglass, wood, and doorframes salvaged from rubble.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-06-06T03:59:33.707671+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss"
-  },
-  {
-    "id": "4568a346b7d8",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T00:00",
-    "headline": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
-    "excerpt": "The United Nations reports that 1.4 million people are in need of aid in Lebanon amid Israel&#039;s attacks on the country.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-06T03:59:33.707704+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss"
   }
 ]
