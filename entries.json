@@ -1,5 +1,38 @@
 [
   {
+    "id": "46203e26f1f7",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T15:49",
+    "headline": "‘Unacceptable’: London protesters slam illegal Israeli settlement land sale",
+    "excerpt": "Demonstrators denounce event promoting Israeli settlement land and property sales as a violation of international law.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-14T16:56:51.485722+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/14/unacceptable-london-protesters-slam-illegal-israeli-settlement-land-sale?traffic_source=rss"
+  },
+  {
+    "id": "c29024eca180",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T15:39",
+    "headline": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
+    "excerpt": "British armed forces intercepted an oil tanker believed to be part of Russia’s sanctioned shadow fleet.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-14T16:56:51.485781+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war?traffic_source=rss"
+  },
+  {
+    "id": "9ee7ff5feba2",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T15:22",
+    "headline": "Trump condemns Israel’s attack on Beirut, says Iran deal still close",
+    "excerpt": "Donald Trump says there should be &#039;no more attacks&#039; by Israel or Hezbollah on &#039;special day&#039; when deal could be signed.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-14T16:56:51.485821+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss"
+  },
+  {
     "id": "0b449c96b560",
     "source": "Al Jazeera",
     "date": "2026-06-14T13:06",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-06T03:59:33.707704+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss"
-  },
-  {
-    "id": "b85c21f93892",
-    "source": "PressTV",
-    "date": "2026-06-05T23:50",
-    "headline": "Hamas denounces Israeli infanticide after 7-month-old's murder in occupied West Bank",
-    "excerpt": "Hamas vehemently condemns Israeli forces' murder of a seven-month-old Palestinian infant in the occupied West Bank.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-05T23:50:28.189589+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/05/769904/Hamas-Israel-murder-seven-month-old-infant-West-Bank"
-  },
-  {
-    "id": "1742e478d810",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T21:02",
-    "headline": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
-    "excerpt": "Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-05T22:35:59.236791+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss"
-  },
-  {
-    "id": "3ed256e1b562",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T20:49",
-    "headline": "Iran footballers issued US visas for World Cup, says White House",
-    "excerpt": "Iran players get visas 10 days before their opening ‌World Cup match against New Zealand in Los Angeles on June 15.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-05T21:08:59.259382+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss"
   }
 ]
