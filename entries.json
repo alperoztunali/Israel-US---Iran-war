@@ -1,5 +1,93 @@
 [
   {
+    "id": "aedd024633a0",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T07:56",
+    "headline": "Signing of US-Iran deal not on Trump’s public schedule",
+    "excerpt": "Signing of US-Iran deal not on Trump’s public schedule.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-14T08:42:55.748632+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule?traffic_source=rss"
+  },
+  {
+    "id": "0e9db801a7ac",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T07:24",
+    "headline": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+    "excerpt": "Trump says a deal to stop the Iran war could be signed as early as Sunday, but Tehran downplays his optimism.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-14T08:42:55.748673+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss"
+  },
+  {
+    "id": "408c2bf0b30f",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T06:40",
+    "headline": "2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass",
+    "excerpt": "Australia secure win in Group D courtesy of goals from Nestory Irankunda and Connor Metcalfe.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-14T08:42:55.748704+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass?traffic_source=rss"
+  },
+  {
+    "id": "3e2f39c5ccd9",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T06:09",
+    "headline": "Costs, careers and choice: Why Indians are having fewer children",
+    "excerpt": "India’s Total Fertility Rate (TFR) has dropped to 1.9 children per woman - lower than the benchmark level of 2.1.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-06-14T08:42:55.748745+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/14/costs-careers-and-choice-why-indians-are-having-fewer-children?traffic_source=rss"
+  },
+  {
+    "id": "6d1f49a88f6b",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T05:14",
+    "headline": "Qatar earns first ever World Cup point",
+    "excerpt": "Qatar has earned its first-ever FIFA World Cup point in dramatic fashion against Switzerland.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-06-14T08:42:55.748773+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_qatar-earns-first-ever-world-cup-point-140626?traffic_source=rss"
+  },
+  {
+    "id": "403f440cf2dd",
+    "source": "PressTV",
+    "date": "2026-06-14T08:42",
+    "headline": "US use of AI in Iran school massacre did not breach Anthropic’s ‘red lines’: CEO",
+    "excerpt": "The AI-assisted attack on an Iranian elementary school during the US-Israeli aggression did not breach Anthropic’s “red lines,” the company’s CEO says.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-14T08:42:57.458067+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770407/Anthropic-CEO--AI-aided-school-strike-during-US-Israeli-aggression-on-Iran-breached-no-%E2%80%98red-lines%E2%80%99"
+  },
+  {
+    "id": "2cf370f908bd",
+    "source": "PressTV",
+    "date": "2026-06-14T08:42",
+    "headline": "Hezbollah fighters successfully ambush Israeli forces in southern Lebanon",
+    "excerpt": "Hezbollah fighters successfully ambushed Israeli occupation forces in southern Lebanon, inflicting casualties upon them.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-14T08:42:57.458093+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770403/Hezbollah-fighters-successfully-ambush-Israeli-occupation-forces-in-southern-Lebanon"
+  },
+  {
+    "id": "1d29910ea2b7",
+    "source": "PressTV",
+    "date": "2026-06-14T08:42",
+    "headline": "US warplane crashes southeast of Mount Rainier, sparking wildfire",
+    "excerpt": "A US warplane crashes near a lake southeast of Mount Rainier, sparking a brush fire in the region.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-06-14T08:42:57.458119+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770405/Military-Aircraft-Crashes-Near-Lake-Southeast-of-Mount-Rainier-Sparking-Wildfire"
+  },
+  {
     "id": "d3b385e73ad4",
     "source": "Al Jazeera",
     "date": "2026-06-14T03:28",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-05T17:28:59.540589+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii?traffic_source=rss"
-  },
-  {
-    "id": "2d01af8c7e55",
-    "source": "PressTV",
-    "date": "2026-06-05T17:29",
-    "headline": "Iran demands ‘zero-tolerance’ on nuclear strikes, cites 17 US-Israeli attacks against its facilities",
-    "excerpt": "Iran urges the world to adopt a zero-tolerance policy on armed attacks against peaceful nuclear installations and promote binding international norms on their inviolability.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-05T17:29:01.347850+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/05/769890/Iran-IAEA-Israel-Vienna"
-  },
-  {
-    "id": "3bfe1cf6677c",
-    "source": "PressTV",
-    "date": "2026-06-05T17:29",
-    "headline": "US-Israeli war against Iran pushing millions into hunger: WFP",
-    "excerpt": "The United Nations food relief organization has warned that the US-Israeli war on Iran is pushing millions of people in the West Asian region into hunger.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-06-05T17:29:01.347889+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/05/769886/Middle-East-West-Asia-conflict-pushing-millions-into-hunger-WFP-UN"
-  },
-  {
-    "id": "b52da7cfc4d5",
-    "source": "PressTV",
-    "date": "2026-06-05T17:29",
-    "headline": "Iran demands immediate release of 50% of frozen assets upon any understanding with US",
-    "excerpt": "Tehran would only consider any draft agreement final with the US if its “interests and concerns are fully considered.\"”",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-05T17:29:01.347927+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/05/769891/-Iran-demands-immediate-release-of-50--of-frozen-assets-in-any-US-understanding"
-  },
-  {
-    "id": "2a22a532362d",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T14:41",
-    "headline": "WFP: War on Iran pushing millions towards hunger",
-    "excerpt": "The US-Israeli war on Iran could tip up to 45 million people into acute hunger, the UN&#039;s WFP warns.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-05T15:29:17.874792+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/wfp-war-on-iran-pushing-millions-towards-hunger?traffic_source=rss"
-  },
-  {
-    "id": "f4339a6a7fbc",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T14:33",
-    "headline": "Are the US and Iran closer to war or to a deal?",
-    "excerpt": "As US and Iran pursue talks, both signal they are still ready to use force against each other.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-05T15:29:17.874836+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal?traffic_source=rss"
-  },
-  {
-    "id": "ce7167611e2c",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T14:12",
-    "headline": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
-    "excerpt": "International law sets rules for ceasefires, but who enforces them when violations continue? Three experts explain.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-05T15:29:17.874868+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue?traffic_source=rss"
-  },
-  {
-    "id": "b94363b12495",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T13:43",
-    "headline": "Israel maintains attacks despite US-brokered deal with Lebanon",
-    "excerpt": "The Israeli army also issues new forced displacement orders for several towns and villages in southern Lebanon.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-05T15:29:17.874901+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/5/israel-maintains-attacks-despite-us-brokered-deal-with-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "b25cc941c42a",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T13:36",
-    "headline": "Celtic fans oppose Keane as potential manager after Israel role",
-    "excerpt": "Ireland&#039;s record goalscorer Robbie Keane played for Celtic but his link to manager&#039;s job is facing criticism.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-05T15:29:17.874933+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/5/celtic-fans-oppose-potential-keane-appointment-after-israel-role?traffic_source=rss"
   }
 ]
