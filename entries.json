@@ -1,5 +1,49 @@
 [
   {
+    "id": "52e35c5dd8ad",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T20:57",
+    "headline": "Gaza mourns four killed in Israeli strike",
+    "excerpt": "Cries of grief echoed through Gaza City for four Palestinians killed near the Jabalia refugee camp in northern Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-14T21:41:46.049903+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss"
+  },
+  {
+    "id": "5f9685a8a5a5",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T20:10",
+    "headline": "Six people killed as helicopters collide over Brazil’s Rio de Janeiro",
+    "excerpt": "Two helicopters collided in midair before crashing into car park of electric vehicle dealership, fire service says.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-14T21:41:46.049941+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/14/six-people-killed-as-helicopters-collide-over-brazils-rio-de-janeiro?traffic_source=rss"
+  },
+  {
+    "id": "47ab20667896",
+    "source": "PressTV",
+    "date": "2026-06-14T21:41",
+    "headline": "\"Resistance will not be cornered\": Ghalibaf warns Israel",
+    "excerpt": "Addressing the Israeli regime directly, Ghalibaf concluded with a Persian idiom meaning \"go ahead and make your move, we will respond in kind.\"",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-14T21:41:47.933774+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770448/Resistance-will-not-be-cornered-Ghalibaf-warns-Israel"
+  },
+  {
+    "id": "74239e5b6de6",
+    "source": "PressTV",
+    "date": "2026-06-14T21:41",
+    "headline": "Iran warns US of ‘dangerous consequences’ of ‘terrorist’ strike on Beirut",
+    "excerpt": "Tehran warned that the consequences of Israeli provocations for regional peace and security will fall squarely on the United States and the Zionist regime.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-06-14T21:41:47.933809+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770450/Iran-Foreign-Ministry-warns-US-of-dangerous-consequences-of-Israeli-terrorist-strike-on-Beirut"
+  },
+  {
     "id": "8ad75125d30c",
     "source": "Al Jazeera",
     "date": "2026-06-14T19:29",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-06T11:10:51.744006+00:00",
     "link": "https://presstv.ir/Detail/2026/06/06/769922/Lebanon-Lebanese-army-colonel-soldiers-killed-Israeli-strike-southern-Lebanon-ceasefire-agreement"
-  },
-  {
-    "id": "26ecdf9bcf92",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T08:17",
-    "headline": "Man dies in Western Australia after shark attack",
-    "excerpt": "The man was fishing when he was bitten by a shark, police say.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-06T09:34:29.982251+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss"
-  },
-  {
-    "id": "72df9b87543e",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T07:51",
-    "headline": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-    "excerpt": "US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-06T09:34:29.982278+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "6a883a423a69",
-    "source": "PressTV",
-    "date": "2026-06-06T09:34",
-    "headline": "Gaza journalists recount abuse, interrogations in Israeli detention",
-    "excerpt": "Reporters Without Borders (RSF) has published distressing accounts from Palestinian journalists held in Israeli prisons.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-06T09:34:35.785774+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/06/769920/RSF-records-distressing-accounts-from-Palestinian-journalists-held-in-Israeli-prisons"
-  },
-  {
-    "id": "2539d5cdc97a",
-    "source": "PressTV",
-    "date": "2026-06-06T09:34",
-    "headline": "Putin says he saw ‘no provocation’ from Iran before US-Israeli war",
-    "excerpt": "Russian President Vladimir Putin blasts the US over its unprovoked war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-06T09:34:35.785808+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/06/769913/I-saw-no-provocations-from-Iran-Putin"
   }
 ]
