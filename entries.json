@@ -1,5 +1,71 @@
 [
   {
+    "id": "d3b385e73ad4",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T03:28",
+    "headline": "‘Lion of Mesopotamia’: How Aymen Hussein beat tragedy to reach World Cup",
+    "excerpt": "Iraq’s ‘most expensive footballer’, striker who scored Iraq’s qualifying goal against Bolivia, retraces his journey.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-06-14T04:45:32.325781+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/14/lion-of-mesopotamia-how-aymen-hussein-beat-tragedy-to-reach-world-cup?traffic_source=rss"
+  },
+  {
+    "id": "f4d159ef5340",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T01:11",
+    "headline": "Two killed in Israeli strike on Gaza",
+    "excerpt": "An Israeli strike on southern Gaza has killed two people and injured another, according to Palestinian authorities.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-14T04:45:32.325818+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss"
+  },
+  {
+    "id": "354c95465f5e",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T01:08",
+    "headline": "After battling armed attacks, Mauritania attempts to revive tourism",
+    "excerpt": "Armed groups linked to al-Qaeda began attacks in the mid-2000s, but several security measures have halted them.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-14T04:45:32.325859+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/14/after-battling-armed-attacks-mauritania-attempts-to-revive-tourism?traffic_source=rss"
+  },
+  {
+    "id": "5662f06105ec",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T00:56",
+    "headline": "Why is the price of gold trending down?",
+    "excerpt": "Gold has been under pressure since the US and Israel launched a war against Iran in late February.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-14T04:45:32.325887+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss"
+  },
+  {
+    "id": "de06e633e8ce",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T00:00",
+    "headline": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
+    "excerpt": "US and Iran appear close to signing the first stage of a peace deal, the two sides differ on when it will be signed.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-14T04:45:32.325913+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss"
+  },
+  {
+    "id": "799da3e8dc7d",
+    "source": "PressTV",
+    "date": "2026-06-14T04:45",
+    "headline": "'Netanyahu failed': Lapid says potential Iran-US deal falls short of Israel's war objectives",
+    "excerpt": "Israeli opposition politician Yair Lapid says a potential agreement between Iran and the United States would fail to achieve the Israeli regime's stated war objectives.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-14T04:45:34.024215+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770400/Israel-Iran-war-United-States-deal-Netanyahu-Lapid"
+  },
+  {
     "id": "9e28371c4829",
     "source": "PressTV",
     "date": "2026-06-13T23:48",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-05T15:29:17.874933+00:00",
     "link": "https://www.aljazeera.com/sports/2026/6/5/celtic-fans-oppose-potential-keane-appointment-after-israel-role?traffic_source=rss"
-  },
-  {
-    "id": "7d337d8bc1c4",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T13:27",
-    "headline": "Iran footballers hand passports to US embassy for World Cup visa approval",
-    "excerpt": "Iran will fly to Mexico on Saturday to their home base at 2026 World Cup, while all their games are played in the US.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-05T15:29:17.874968+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-hand-passports-to-us-embassy-for-world-cup-visa-approval?traffic_source=rss"
-  },
-  {
-    "id": "a8b69271b4da",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T13:22",
-    "headline": "Ukrainian marine drone explodes at Romanian port",
-    "excerpt": "A malfunctioning Ukrainian naval drone has caused an explosion at a key Black Sea port in Romania.",
-    "category": "Missile/Drone",
-    "location": "Oman",
-    "addedAt": "2026-06-05T15:29:17.874994+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukrainian-marine-drone-explodes-at-romanian-port?traffic_source=rss"
-  },
-  {
-    "id": "acf15bba6a47",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T13:18",
-    "headline": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
-    "excerpt": "Iran is exporting less than one-sixth of the oil it was shipping before the war began.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-05T15:29:17.875027+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/5/how-the-us-naval-blockade-has-bled-iran-of-nearly-6bn-in-oil-revenues?traffic_source=rss"
-  },
-  {
-    "id": "253931cfacbd",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T13:09",
-    "headline": "Drone explosion in Romanian port spurs Ukraine war spillover fears",
-    "excerpt": "European Commission president warns that the maritime drone attack was a &#039;direct consequence&#039; of the Russia-Ukraine war.",
-    "category": "Missile/Drone",
-    "location": "Oman",
-    "addedAt": "2026-06-05T15:29:17.875054+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/5/drone-explosion-in-romanian-port-spurs-ukraine-war-spillover-fears?traffic_source=rss"
-  },
-  {
-    "id": "4def47de8d54",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T13:08",
-    "headline": "Inside Syria’s fight against the Captagon trade",
-    "excerpt": "Anti-narcotics units in Syria raid homes and seize pills as the government fights back against the Captagon trade.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-06-05T15:29:17.875091+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/inside-syrias-fight-against-the-captagon-trade?traffic_source=rss"
-  },
-  {
-    "id": "7a6e7e8186b3",
-    "source": "Al Jazeera",
-    "date": "2026-06-05T13:06",
-    "headline": "Nazi salutes, Sikhs abused: Tensions grip UK after Henry Nowak’s murder",
-    "excerpt": "Although the victim&#039;s father has warned against exploiting his family&#039;s tragedy, far-right groups are rallying.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-06-05T15:29:17.875131+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/5/nowak-murder-tensions?traffic_source=rss"
   }
 ]
