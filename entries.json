@@ -1,5 +1,71 @@
 [
   {
+    "id": "8ad75125d30c",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T19:29",
+    "headline": "Twelve killed in plane crash in US state of Missouri",
+    "excerpt": "Plane crashes near Butler Memorial Airport near Kansas City, with authorities reporting skydivers on board.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-14T20:06:59.342921+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/14/twelve-killed-in-plane-crash-in-us-state-of-missouri?traffic_source=rss"
+  },
+  {
+    "id": "38e0a8c9402d",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T19:23",
+    "headline": "Israel welcomes Somaliland president in ‘historic’ visit",
+    "excerpt": "Israel hosted Somaliland&#039;s President on a landmark visit to Jerusalem after recognising it as an independent state.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-14T20:06:59.342975+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-welcomes-somaliland-president-in-historic-visit?traffic_source=rss"
+  },
+  {
+    "id": "b27e8c4953fc",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T19:21",
+    "headline": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
+    "excerpt": "AJ probe: Israel expands military control by 1,000sq km on three fronts, using land grabs to mask strategic failures.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-14T20:06:59.343012+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss"
+  },
+  {
+    "id": "dfdfb5ebc1a8",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T18:51",
+    "headline": "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
+    "excerpt": "Trump has commented on Truth Social, condemning Israeli attacks on Beirut as the cease fire is to be extended.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-14T20:06:59.343043+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/trump-says-israeli-attacks-on-beirut-unjustified-puts-iran-deal-at-risk?traffic_source=rss"
+  },
+  {
+    "id": "92e6418a84fe",
+    "source": "PressTV",
+    "date": "2026-06-14T20:07",
+    "headline": "Iran’s top security official warns response ‘imminent’ after Israeli strike on Beirut",
+    "excerpt": "Iran has renewed its warning about Lebanon, saying it will not tolerate any new attack on the Arab country and its resistance forces.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-14T20:07:01.001544+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770447/Iran-SNSC-chief-Zolghadr-warning-Lebanon"
+  },
+  {
+    "id": "08dd4c904b2a",
+    "source": "PressTV",
+    "date": "2026-06-14T20:07",
+    "headline": "Lebanon files complaints with UN Security Council over Israeli attacks",
+    "excerpt": "Lebanon has filed two separate complaints with the United Nations Security Council and the UN Secretary-General over Israeli attacks on its territory.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-14T20:07:01.001583+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770444/Lebanon--files-complaints-UN-Security-Council-Israeli-attacks-"
+  },
+  {
     "id": "1ef67d320e67",
     "source": "Al Jazeera",
     "date": "2026-06-14T16:49",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-06T09:34:35.785808+00:00",
     "link": "https://presstv.ir/Detail/2026/06/06/769913/I-saw-no-provocations-from-Iran-Putin"
-  },
-  {
-    "id": "e94a0bbcbfdb",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T07:03",
-    "headline": "US says Iranian radar sites hit in Goruk and Qeshm Island",
-    "excerpt": "The US military released footage showing what they say are military strikes on Iranian radar sites.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-06T07:22:34.622880+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss"
-  },
-  {
-    "id": "5c0c90dabf78",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T06:55",
-    "headline": "North Korea’s Kim orders navy to build 10,000-tonne destroyer: State media",
-    "excerpt": "Kim Jong Un has continued to visit military sites before a visit by China&#039;s Xi Jinping on Monday and Tuesday.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-06-06T07:22:34.622932+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/6/north-koreas-kim-orders-navy-to-build-10000-tonne-destroyer-state-media?traffic_source=rss"
-  },
-  {
-    "id": "f8798759f15b",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T04:58",
-    "headline": "Israeli soldier shoots Palestinian baby dead near Hebron",
-    "excerpt": "An Israeli soldier has shot and killed seven-month-old Palestinian infant Sam Abu Haikal.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-06T07:22:34.622957+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss"
-  },
-  {
-    "id": "4a400839f370",
-    "source": "PressTV",
-    "date": "2026-06-06T07:22",
-    "headline": "IRGC pounds US bases in Kuwait, Bahrain after drone attacks on Iranian territory",
-    "excerpt": "The IRGC says it has targeted two US air bases in Kuwait and the remaining facilities of the US Fifth Fleet in Bahrain in response to the latest US aggression.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-06T07:22:36.336375+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/06/769908/IRGC-reports-missile-strikes-US-Kuwait,-Bahrain-American-aggression"
-  },
-  {
-    "id": "e13533e629f5",
-    "source": "PressTV",
-    "date": "2026-06-06T07:22",
-    "headline": "Iran's FM to Lebanese president: 'Save Lebanon from your real foe'",
-    "excerpt": "Araghchi has criticized the Lebanese president for misidentifying the source of Lebanon’s current challenges, advising him to “save Lebanon from your real foe” in response to his comments during an exclusive interview with CNN.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-06T07:22:36.336427+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/06/769912/Iran-Abbas-Araghchi-critizes-Aoun-accusation-using-Lebanon-bargaining-chip-US-negotiations-CNN-interview--ceasefire-Israel-Hezbollah"
-  },
-  {
-    "id": "0850638649e1",
-    "source": "PressTV",
-    "date": "2026-06-06T07:22",
-    "headline": "Israeli military targets school, ambulance in southern Lebanon, killing six",
-    "excerpt": "Israeli forces launched a new wave of attacks across southern Lebanon and the western Bekaa, striking civilian areas, destroying an ambulance, damaging a school, and killing six Lebanese civilians.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-06T07:22:36.336454+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/06/769911/Israeli-strikes-kill-six-civilians,-destroy-ambulance,-school-in-southern-Lebanon"
   }
 ]
