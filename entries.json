@@ -1,5 +1,126 @@
 [
   {
+    "id": "2ae3e534e344",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T03:05",
+    "headline": "Uruguay squad lands in US after flight delay ahead of World Cup opener",
+    "excerpt": "Uruguay arrived in the US less than 24 hours before the kickoff time for their game against Saudi Arabia.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-06-15T05:39:50.984552+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/15/uruguay-squad-lands-in-us-after-flight-delay-ahead-of-world-cup-opener?traffic_source=rss"
+  },
+  {
+    "id": "53e9fc6ba318",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T02:26",
+    "headline": "Lebanese remain sceptical despite US-Iran ceasefire announcement",
+    "excerpt": "The US-Iran ceasefire announcement has raised hopes in Lebanon.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-15T05:39:50.984594+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/lebanese-remain-sceptical-despite-us-iran-ceasefire-announcement?traffic_source=rss"
+  },
+  {
+    "id": "a9a884131f80",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T01:40",
+    "headline": "US-Iran to sign a ‘peace deal’ on Friday: What we know so far",
+    "excerpt": "Trump says a US-Iran deal will be signed this Friday, as Tehran confirms plans to end hostilities.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-15T05:39:50.984629+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far?traffic_source=rss"
+  },
+  {
+    "id": "1f5cd1e0ad7a",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T01:13",
+    "headline": "Trump allies cheer Iran ‘peace deal’ announcement as Democrats seek clarity",
+    "excerpt": "US and Iran say memorandum of understanding to be signed on Friday, but no official terms yet released.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-15T05:39:50.984663+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/15/trump-allies-cheer-iran-deal-announcement-as-democrats-call-for-clarity?traffic_source=rss"
+  },
+  {
+    "id": "71e44c3f699d",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T00:42",
+    "headline": "Iran’s Ghalenoei, Taremi decry US treatment before first World Cup game",
+    "excerpt": "Striker Mehdi Taremi says US travel policies are dampening the usual joy the football tournament ignites.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-15T05:39:50.984699+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/15/irans-ghalenoei-taremi-decry-us-treatment-before-first-world-cup-game?traffic_source=rss"
+  },
+  {
+    "id": "af421edc7cc5",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T00:37",
+    "headline": "Stock markets soar, oil falls as US, Iran confirm deal to end war",
+    "excerpt": "Asian stock markets surge as Washington and Tehran announce agreement to end hostilities and reopen Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-15T05:39:50.984774+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war?traffic_source=rss"
+  },
+  {
+    "id": "2fc79bc5b5b0",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T00:15",
+    "headline": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
+    "excerpt": "US diplomat Alan Eyre says despite the US-Iran ceasefire announcement, there is no deal until it has been formalised.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-15T05:39:50.984810+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss"
+  },
+  {
+    "id": "151e3f9445ee",
+    "source": "Al Jazeera",
+    "date": "2026-06-14T22:43",
+    "headline": "US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening",
+    "excerpt": "Trump announces that a ceasefire deal with Iran has been agreed, and that the Strait of Hormuz will reopen for shipping.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-15T05:39:50.984851+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss"
+  },
+  {
+    "id": "bf9a4a68da61",
+    "source": "PressTV",
+    "date": "2026-06-15T05:39",
+    "headline": "Iran deputy FM says MoU with US to be signed in Geneva on Friday",
+    "excerpt": "Iran’s Deputy Foreign Minister for Legal and International Affairs has announced that the memorandum of understanding (MoU) between Iran and the United States has been finalized.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-06-15T05:39:52.543124+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770453/Iran-deputy-FM-says-MoU-with-US-finalized-to-be-signed-on-Friday"
+  },
+  {
+    "id": "64d1a9d01ccb",
+    "source": "PressTV",
+    "date": "2026-06-15T05:39",
+    "headline": "World leaders welcome MoU that ends war imposed by US on Iran",
+    "excerpt": "UN Secretary‑General Antonio Guterres welcomed the agreement as a “critical step” toward resolving the conflict.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-15T05:39:52.543161+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/15/770458/World-leaders-welcome-MoU-that-ends-war-imposed-by-US-on-Iran"
+  },
+  {
+    "id": "22adc2c341e2",
+    "source": "PressTV",
+    "date": "2026-06-15T05:39",
+    "headline": "Pakistan PM says deal reached between Iran, US following 'intensive talks'",
+    "excerpt": "Pakistani prime minister Shehbaz Sharif in a social media post early on Monday claimed that a 'peace deal' has been reached between Iran and the US following 'intensive talks'",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-15T05:39:52.543188+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/14/770452/pakistan-pm-claims-peace-deal-reached-between-iran-us-intensive-talks"
+  },
+  {
     "id": "115f10351182",
     "source": "Al Jazeera",
     "date": "2026-06-14T22:54",
@@ -5377,126 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-06-06T18:48:48.311769+00:00",
     "link": "https://presstv.ir/Detail/2026/06/06/769963/Iran-Pakistan-Naqvi-US"
-  },
-  {
-    "id": "5c6ceee75bf9",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T17:04",
-    "headline": "100 days into the war on Iran, Trump fails to rally US support",
-    "excerpt": "Unpopularity of the war may affect the US approach to the conflict and hurt Republicans in the elections, analysts say.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-06T17:19:29.237649+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss"
-  },
-  {
-    "id": "7c12f7be2bb3",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T14:38",
-    "headline": "Israeli attack on Gaza City tent camp kills at least six",
-    "excerpt": "At least 15 people also wounded in strike on site housing displaced people as wedding was under way nearby, locals say.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-06T17:19:29.237697+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "e768290b8110",
-    "source": "PressTV",
-    "date": "2026-06-06T17:19",
-    "headline": "US-Israeli military aggression against Iran 'not a just war': Pope Leo",
-    "excerpt": "Pope Leo XIV says the military aggression by the United States and Israel against Iran was \"not a just war.\"",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-06T17:19:30.823554+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/06/769959/Pope-Leo-rejects-notion-US-Israeli-aggression-against-Iran-just-war"
-  },
-  {
-    "id": "ccfb70e7c064",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T15:34",
-    "headline": "Activists disrupt German military exhibit over arms sales to Israel",
-    "excerpt": "Activists disrupt German military exhibit over arms sales to Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-06T15:51:52.113734+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss"
-  },
-  {
-    "id": "f1f88105fd0d",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T15:30",
-    "headline": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
-    "excerpt": "The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-06T15:51:52.113775+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss"
-  },
-  {
-    "id": "c8d26a28ed75",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T15:09",
-    "headline": "Videos show Kuwait intercepting ballistic missiles from Iran",
-    "excerpt": "Kuwait says it intercepted seven ballistic missiles over residential areas, resulting in some debris but no casualties.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-06T15:51:52.113801+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss"
-  },
-  {
-    "id": "36b446f2b802",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T14:38",
-    "headline": "Israeli strike kills at least six people at wedding in Gaza",
-    "excerpt": "At least 15 people have been injured in the attack, according to local medical sources.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-06T15:51:52.113826+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "058df2952cb7",
-    "source": "PressTV",
-    "date": "2026-06-06T15:51",
-    "headline": "Iran urges UN to stop repeated US violations of ceasefire after attack on radar facilities",
-    "excerpt": "Iran denounces a pre-dawn US drone strike on its radar facilities in Sirik and Qeshm as a flagrant violation of the April ceasefire.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-06T15:51:53.734329+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/06/769951/Iran-US-aggression-Qeshm-"
-  },
-  {
-    "id": "0c5cc8a636a3",
-    "source": "PressTV",
-    "date": "2026-06-06T15:51",
-    "headline": "Attacking army forces shows Israel’s hostility toward all of Lebanon: Iran",
-    "excerpt": "Iran's Foreign Ministry spokesman says the targeting of Lebanese army forces by the Israeli enemy once again confirms that the regime's hostility is directed at all of Lebanon",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-06T15:51:53.734373+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/06/769953/Targeting-army-Israel-s-hostility-all-Lebanon--Tehran"
-  },
-  {
-    "id": "d451c324e608",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T13:31",
-    "headline": "Lebanon and Israel’s perpetual war machine",
-    "excerpt": "Why Lebanon remains central to Israel&#039;s multi-front wars.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-06T14:20:40.046303+00:00",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss"
-  },
-  {
-    "id": "29b9a78b1277",
-    "source": "Al Jazeera",
-    "date": "2026-06-06T12:29",
-    "headline": "Groom killed hours before his wedding in Gaza",
-    "excerpt": "Muhannad Farwana never got to wear his wedding suit, Israel killed him in an air strike hours before his wedding.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-06-06T14:20:40.046338+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/groom-killed-hours-before-his-wedding-in-gaza?traffic_source=rss"
   }
 ]
