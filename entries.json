@@ -1,5 +1,93 @@
 [
   {
+    "id": "df4fb5906ee1",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T21:36",
+    "headline": "Journalist hit by Israeli strike while reporting in Lebanon",
+    "excerpt": "A journalist for Press TV has been hit by shrapnel while filming a report on Israeli attacks in southern Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-15T22:34:26.056585+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss"
+  },
+  {
+    "id": "119c36777d68",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T21:06",
+    "headline": "Iran vs New Zealand live: World Cup 2026",
+    "excerpt": "Follow our live build-up, protest news, score, team sheets, score, photos and text commentary stream from Los Angeles.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-15T22:34:26.056618+00:00",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss"
+  },
+  {
+    "id": "f3f667fde3df",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T20:55",
+    "headline": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
+    "excerpt": "7-year-old mourns father and brother killed in Israeli strike on Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-15T22:34:26.056638+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "4e10a7c22b1f",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T20:24",
+    "headline": "Trump touts Iran deal and Ukraine ambition as he arrives at G7",
+    "excerpt": "Amid G7 tensions, Trump says Iran agreement is a step towards peace in the Middle East and beyond.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-15T22:34:26.056659+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/15/trump-touts-iran-deal-and-ukraine-ambition-as-he-arrives-at-g7?traffic_source=rss"
+  },
+  {
+    "id": "8e73304416ec",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T20:21",
+    "headline": "Netanyahu says Israel won’t leave occupied land in Lebanon",
+    "excerpt": "Israel&#039;s occupation of territory in Lebanon and Syria will continue, PM Netanyahu said, despite US deal with Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-15T22:34:26.056685+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "8500214cbbc7",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T20:20",
+    "headline": "What Israeli leaders are saying about US-Iran ‘peace deal’",
+    "excerpt": "Israel’s political leaders, including Itamar Ben-Gvir and Bezalel Smotrich, have reacted to the US-Iran agreement.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-15T22:34:26.056736+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/what-israeli-leaders-are-saying-about-us-iran-peace?traffic_source=rss"
+  },
+  {
+    "id": "fdd0fc5c9455",
+    "source": "PressTV",
+    "date": "2026-06-15T22:34",
+    "headline": "Exclusive: Iranian oil tankers, cargo vessels sail through as US naval blockade officially lifted",
+    "excerpt": "At least three Iranian oil tankers and two cargo ships carrying essential goods have successfully broken through the US naval blockade, Press TV has learned from highly informed sources.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-15T22:34:27.816280+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/15/770518/exclusive-iranian-oil-tankers-cargo-vessels-sail-through-us-naval-blockade-officially-lifted"
+  },
+  {
+    "id": "e101332a7c70",
+    "source": "PressTV",
+    "date": "2026-06-15T22:34",
+    "headline": "Iran’s army: Any violation of MoU will be met with swift response",
+    "excerpt": "Iran plans to “maintain the level of readiness of the armed forces more than ever before” as the MoU with the US is put in place, said an Iranian army spokesperson.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-15T22:34:27.816322+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/15/770520/Iran%E2%80%99s-army--Any-violation-of-MoU-will-be-met-with-swift-response"
+  },
+  {
     "id": "b6330ebcb594",
     "source": "Al Jazeera",
     "date": "2026-06-15T19:36",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-07T17:23:40.059709+00:00",
     "link": "https://presstv.ir/Detail/2026/06/07/770000/Lebanon-Beirut-attack-Israel-Hezbollah"
-  },
-  {
-    "id": "3a103349ac29",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T15:44",
-    "headline": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
-    "excerpt": "Al Jazeera follows a teacher who navigates a new life marked by a weak internet, soaring prices, and solidarity rallies.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-06-07T15:52:10.225591+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss"
-  },
-  {
-    "id": "4622daa9a8d3",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T15:20",
-    "headline": "Iran’s World Cup squad lands in Mexico amid US visa row",
-    "excerpt": "Iranian delegation arrives at their World Cup base camp a day after several members were denied visas by the US.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-07T15:52:10.225640+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss"
-  },
-  {
-    "id": "b0d20684de45",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T15:16",
-    "headline": "Iran’s World Cup team arrives in Mexico as US visa row continues",
-    "excerpt": "Iran’s national football team has arrived in Mexico ahead of its World Cup matches in the US.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-07T15:52:10.225678+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss"
-  },
-  {
-    "id": "ad4306ec6ab5",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T14:58",
-    "headline": "Does Israel really think it can get rid of Hezbollah in Lebanon?",
-    "excerpt": "It’s hard to assume that ‘anything positive’ for Lebanon can come from its talks with Israel, argues analyst Imad Harb.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-07T15:52:10.225713+00:00",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/7/does-israel-really-think-it-can-get-rid-of-hezbollah-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "2bb64de07991",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T14:56",
-    "headline": "The Taiz transplant team looking to begin a medical revolution in Yemen",
-    "excerpt": "Taiz&#039;s Cardiac and Vascular Diseases and Kidney Transplant Center provides Yemenis with affordable treatment.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-06-07T15:52:10.225747+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/7/a-cardiovascular-team-in-taiz-offers-yemen-hope-for-a-better-future?traffic_source=rss"
-  },
-  {
-    "id": "086ffbb3a39c",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T14:31",
-    "headline": "Israel kills nine in Gaza as Egypt hosts renewed ‘ceasefire’ talks",
-    "excerpt": "At least five people were killed in one attack on a police post as Hamas and other groups met mediators in Cairo.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-07T15:52:10.225779+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo?traffic_source=rss"
-  },
-  {
-    "id": "c5f8d21dd8d7",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T14:14",
-    "headline": "Fifty-two hours on an Israeli prison ship",
-    "excerpt": "A flotilla activist recounts his detention after Israeli forces intercepted a Gaza-bound solidarity mission at sea.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-06-07T15:52:10.225803+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/7/fifty-two-hours-on-an-israeli-prison-ship?traffic_source=rss"
-  },
-  {
-    "id": "a01239362db3",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T14:14",
-    "headline": "Missiles and negotiations: Iran 100 days into the war with US and Israel",
-    "excerpt": "Talks and attacks have continued for months, and could last much longer without a breakthrough.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-07T15:52:10.225832+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel?traffic_source=rss"
   }
 ]
