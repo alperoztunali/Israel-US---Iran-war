@@ -1,5 +1,115 @@
 [
   {
+    "id": "095b3c80c3e9",
+    "source": "Al Jazeera",
+    "date": "2026-06-16T04:50",
+    "headline": "US says Iran nuclear talks begin after framework deal signing",
+    "excerpt": "The White House says the proposed memorandum of understanding with Iran is only a framework agreement.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-16T06:08:44.461904+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/us-says-iran-nuclear-talks-begin-after-framework-deal-signing?traffic_source=rss"
+  },
+  {
+    "id": "696a3460489d",
+    "source": "Al Jazeera",
+    "date": "2026-06-16T04:36",
+    "headline": "Iran draw 2-2 with New Zealand in politically charged World Cup match",
+    "excerpt": "Elijah Just scored both of New Zealand&#039;s goals in either half; Rezaeian and Mohebbi levelled for Iran in Group G game.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-16T06:08:44.461953+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/16/iran-draw-2-2-with-new-zealand-in-politically-charged-world-cup-match?traffic_source=rss"
+  },
+  {
+    "id": "76836965f893",
+    "source": "Al Jazeera",
+    "date": "2026-06-16T02:06",
+    "headline": "US stock market jumps as US-Iran deal stirs hopes for end to energy turmoil",
+    "excerpt": "Benchmark S&amp;P 500 rises 1.7 percent, while tech-heavy Nasdaq jumps 3.1 percent.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-16T06:08:44.461987+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/16/us-stock-market-climbs-as-us-iran-deal-stirs-hopes-for-end-to-energy-chaos?traffic_source=rss"
+  },
+  {
+    "id": "c6c6a6a8c608",
+    "source": "Al Jazeera",
+    "date": "2026-06-16T02:02",
+    "headline": "Saudi Arabia draw 1–1 against Uruguay in World Cup opening game",
+    "excerpt": "Abdulelah Alamri gives Saudi Arabia a first-half lead before Maxi Araujo equalises late in the Group H game in Miami.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-06-16T06:08:44.462030+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/16/saudi-arabia-draw-1-1-against-uruguay-in-world-cup-opening?traffic_source=rss"
+  },
+  {
+    "id": "b65b9319ce30",
+    "source": "Al Jazeera",
+    "date": "2026-06-16T01:38",
+    "headline": "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
+    "excerpt": "Prime Minister Benjamin Netanyahu says Israeli forces will maintain a ‘security zone’ in occupied Lebanon.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-16T06:08:44.462062+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/netanyahu-says-israel-will-remain-in-lebanon-syria-and-gaza?traffic_source=rss"
+  },
+  {
+    "id": "e818f2634c45",
+    "source": "Al Jazeera",
+    "date": "2026-06-16T00:13",
+    "headline": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
+    "excerpt": "Producers will need time to ramp up output, while port bottlenecks and heightened demand will keep US prices up.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-16T06:08:44.462104+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/16/us-fuel-prices-to-take-months-to-normalise-after-us-iran-deal-to-end-war?traffic_source=rss"
+  },
+  {
+    "id": "b129b815290b",
+    "source": "Al Jazeera",
+    "date": "2026-06-16T00:00",
+    "headline": "Iran war live: Vance says IAEA to return to Iran, no tolls in Hormuz Strait",
+    "excerpt": "Backlash to US-Iran deal grows in Israel as Iranian vessels pass through Strait of Hormuz after US lifts naval blockade.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-16T06:08:44.462131+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss"
+  },
+  {
+    "id": "db3e2b71afa8",
+    "source": "Al Jazeera",
+    "date": "2026-06-15T21:06",
+    "headline": "Iran 2-2 New Zealand: World Cup 2026 – as it happened",
+    "excerpt": "All our updates, photo coverage and text commentary from the Group G match at Los Angeles Stadium.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-16T06:08:44.462177+00:00",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss"
+  },
+  {
+    "id": "7305605afa28",
+    "source": "PressTV",
+    "date": "2026-06-16T06:08",
+    "headline": "Iran: US responsible for ensuring complete cessation of Israeli attacks on Lebanon",
+    "excerpt": "Iran says the US is responsible for complete cessation of Israeli attacks on Lebanon.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-16T06:08:46.219775+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/16/770535/Iran-United-States-Israel-attacks-Lebanon-memorandum-of-understanding"
+  },
+  {
+    "id": "b8523c9cf901",
+    "source": "PressTV",
+    "date": "2026-06-16T06:08",
+    "headline": "Iran held to draw by New Zealand in World Cup opener",
+    "excerpt": "Iran's national football team begins their 2026 World Cup campaign with a hard-fought 2-2 draw against New Zealand in their Group G opener on Tuesday.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-16T06:08:46.219818+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/16/770531/Iran-held-draw-New-Zealand-World-Cup-opener"
+  },
+  {
     "id": "f30127312151",
     "source": "PressTV",
     "date": "2026-06-16T00:17",
@@ -5388,115 +5498,5 @@
     "location": "Lebanon",
     "addedAt": "2026-06-07T20:16:50.317631+00:00",
     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss"
-  },
-  {
-    "id": "1c64ae6aafc7",
-    "source": "PressTV",
-    "date": "2026-06-07T20:16",
-    "headline": "Iran pounds Zionist entity with missiles, warns of 'more crushing blows' if Lebanon attacks persist",
-    "excerpt": "Iranian armed forces launched a missile barrage at Israeli-occupied territories on Sunday, responding to persistent Israeli attacks on Lebanon in breach of the ceasefire.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-07T20:16:52.128428+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/07/770021/iran-pounds-occupied-territories-missiles-warns-crushing-blows-lebanon-attacks-persist"
-  },
-  {
-    "id": "88b2f744e038",
-    "source": "PressTV",
-    "date": "2026-06-07T20:16",
-    "headline": "Iraqi resistance warns US: Any intervention on behalf of Israel will set your bases ablaze",
-    "excerpt": "Kata'ib Hezbollah warns the US that any intervention on behalf of Israel will bring catastrophic consequences, declaring all American bases legitimate targets.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-07T20:16:52.128476+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/07/770022/iraqi-resistance-warns-us-any-intervention-behalf-israel-set-bases-ablaze"
-  },
-  {
-    "id": "7168f4753f5d",
-    "source": "PressTV",
-    "date": "2026-06-07T20:16",
-    "headline": "Iran has deep bonds with Lebanon, will stand by it: Judiciary chief",
-    "excerpt": "Iran's Judiciary chief says the country will stand by Lebanon and its resistance because of deep bonds that exist between the two.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-07T20:16:52.128512+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/07/770019/Iran-judiciary-chief-Ejei-support-Lebanon-resistance"
-  },
-  {
-    "id": "a6db888980df",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T17:13",
-    "headline": "Bolivia’s legislature passes law allowing use of troops against protesters",
-    "excerpt": "New law grants president power to use military to clear roadblocks set up amid weeks of antigovernment demonstrations.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-06-07T18:49:37.055364+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss"
-  },
-  {
-    "id": "5de4898cda30",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T14:31",
-    "headline": "Israel kills 13 in Gaza as Egypt hosts renewed ‘ceasefire’ talks",
-    "excerpt": "Israeli attacks came near Khan Younis, in Gaza City and Deir el-Balah as Hamas and other groups met mediators in Cairo.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-07T18:49:37.055436+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo?traffic_source=rss"
-  },
-  {
-    "id": "4a567a22e2fe",
-    "source": "PressTV",
-    "date": "2026-06-07T18:49",
-    "headline": "Iran will deliver 'decisive, painful response' to Israeli strike on Beirut: MP",
-    "excerpt": "Lawmaker Ebrahim Rezaei says Israel needs to be disciplined and put in its place.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-07T18:49:38.628148+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/07/770011/Iranian-MP-vows--decisive-response--after-Israel-bombed-Beirut--"
-  },
-  {
-    "id": "605151752c6e",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T16:49",
-    "headline": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
-    "excerpt": "Iranian officials have indicated the release of funds would build &#039;trust&#039; needed to reach lasting deal ending war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-07T17:23:38.448753+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss"
-  },
-  {
-    "id": "8c72e0dc53fd",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T16:17",
-    "headline": "Police say two suspects have been shot and killed in Israel gun attack",
-    "excerpt": "Police say two suspects have been shot and killed in Israel gun attack.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-07T17:23:38.448788+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss"
-  },
-  {
-    "id": "84ada9972e9e",
-    "source": "Al Jazeera",
-    "date": "2026-06-07T16:04",
-    "headline": "Al Jazeera reports from Beirut after Israeli attack",
-    "excerpt": "Multiple explosions have hit Beirut’s southern suburbs as Israel launches new attacks, claiming to target Hezbollah.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-07T17:23:38.448826+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss"
-  },
-  {
-    "id": "93e856bcabc5",
-    "source": "PressTV",
-    "date": "2026-06-07T17:23",
-    "headline": "US, Israeli assets ‘legitimate targets’ after attack on Beirut: Qalibaf",
-    "excerpt": "The Iranian Parliament speaker says the US and Israel only understand the language of power and their bases across the region are now legitimate targets.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-07T17:23:40.059681+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/07/770013/Iran-US-Israel-Lebanon-Qalibaf"
   }
 ]
