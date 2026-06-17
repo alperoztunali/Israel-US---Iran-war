@@ -1,5 +1,93 @@
 [
   {
+    "id": "88ed868e5256",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T13:21",
+    "headline": "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
+    "excerpt": "US President Donald Trump has accused his predecessor Barack Obama of ‘bribing’ Iran to agree to the 2015 nuclear deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-17T14:01:54.966480+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-accuses-obama-of-bribing-iran-in-2015-nuclear-deal-at-g7-summit?traffic_source=rss"
+  },
+  {
+    "id": "f06fb9b1e567",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T13:15",
+    "headline": "Israeli air strikes on Lebanon continue despite US-Iran deal",
+    "excerpt": "There has been a reduction in violence since the US-Iran agreement was announced, but attacks have not stopped.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-06-17T14:01:54.966512+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal?traffic_source=rss"
+  },
+  {
+    "id": "e178af9b2330",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T12:26",
+    "headline": "China pledges new humanitarian aid packages for Lebanon and Iran",
+    "excerpt": "China pledges new humanitarian aid packages for Lebanon and Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-17T14:01:54.966547+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/china-pledges-new-humanitarian-aid-packages-for-lebanon-and-iran?traffic_source=rss"
+  },
+  {
+    "id": "140c3eae473f",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T11:41",
+    "headline": "Israel takes control of Hebron’s Ibrahimi Mosque: What this means",
+    "excerpt": "Palestinians controlled planning and construction in the entire West Bank city under the 1997 Hebron Agreement.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-17T14:01:54.966584+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/17/israel-takes-control-of-hebrons-ibrahimi-mosque-what-next?traffic_source=rss"
+  },
+  {
+    "id": "3facae49824d",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T10:57",
+    "headline": "Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment",
+    "excerpt": "Manchester-born midfielder Zidane Iqbal becomes the first player of Pakistani heritage to feature at a World Cup.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-17T14:01:54.966622+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/17/zidane-iqbal-the-footballer-who-gave-pakistan-its-first-world-cup-moment?traffic_source=rss"
+  },
+  {
+    "id": "819769aa62be",
+    "source": "PressTV",
+    "date": "2026-06-17T14:01",
+    "headline": "One killed in Ukraine drone strike on bus carrying Belarusian youth football team in Russia",
+    "excerpt": "A bus carrying members of a Belarusian youth football team was hit by the Ukrainian drone in a border region on Wednesday, Russian officials say.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-17T14:01:56.610255+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770619/Ukraine-drone-attack-bus-carrying-Belarusian-youth-football-team-Bryansk--Russia-"
+  },
+  {
+    "id": "beac1ad7f209",
+    "source": "PressTV",
+    "date": "2026-06-17T14:01",
+    "headline": "US ambassador says America ‘owes its very existence’ to Israel",
+    "excerpt": "The US envoy to the occupied territories says the United States owes its very existence to the Israeli regime.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-17T14:01:56.610295+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770616/US-ambassador-Huckabee-Israel-existence-Trump"
+  },
+  {
+    "id": "2e7f79fc33b4",
+    "source": "PressTV",
+    "date": "2026-06-17T14:01",
+    "headline": "Iran ranks fourth globally in advanced aircraft engine research, outpacing major aerospace powers",
+    "excerpt": "Iran ranks fourth globally in high-impact research on advanced aircraft engines, including hypersonic propulsion, reflecting a focused, sanctions-resistant scientific strategy that has positioned it ahead of several traditional aerospace powers.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-17T14:01:56.610324+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/15/770489/iran-ranks-fourth-globally-adbanced-aircraft-engine-research-outpacing-aerospace-powers"
+  },
+  {
     "id": "9fd0c902f216",
     "source": "Al Jazeera",
     "date": "2026-06-17T09:22",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-08T21:54:22.753934+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/8/us-congressman-demands-probe-into-israels-1967-attack-on-uss-liberty?traffic_source=rss"
-  },
-  {
-    "id": "24e9ed523987",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T20:02",
-    "headline": "Floods tear through homes and farmland in China’s Guizhou province",
-    "excerpt": "Drone footage shows entire neighbourhoods, roads and farmland submerged by floodwaters in China&#039;s southwestern Guizhou.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-08T21:54:22.753966+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/floods-tear-through-homes-and-farmland-in-chinas-guizhou-province?traffic_source=rss"
-  },
-  {
-    "id": "8d48f3611d56",
-    "source": "PressTV",
-    "date": "2026-06-08T21:54",
-    "headline": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
-    "excerpt": "The IRGC Quds commander announces a new resistance belt to choke the Israeli aggression.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-08T21:54:29.690676+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression"
-  },
-  {
-    "id": "86d108cf8f88",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T18:54",
-    "headline": "NATO jets shoot down drone over Latvia, extending Ukraine spillover fears",
-    "excerpt": "The drone entered Latvian airspace due to &#039;Russian electronic warfare&#039;, the military says.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-06-08T19:52:51.096528+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/8/nato-jets-shoot-down-drone-over-latvia-extending-ukraine-spillover-fears?traffic_source=rss"
-  },
-  {
-    "id": "a1d483f1391f",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T18:36",
-    "headline": "Moment Israeli helicopter fires missile on Gaza City target",
-    "excerpt": "Footage shows the moment an Israeli helicopter launched a missile at an unknown target in the Gaza City neighbourhood.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-06-08T19:52:51.096564+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/moment-israeli-helicopter-fires-missile-on-gaza-city-target?traffic_source=rss"
-  },
-  {
-    "id": "33b913e797e8",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T18:28",
-    "headline": "UN watchdog, Western nations call on Iran to restart nuclear cooperation",
-    "excerpt": "IAEA chief Rafael Grossi urges Tehran to re-engage. US and E3 demand information on whereabouts of uranium.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-06-08T19:52:51.096599+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/8/un-watchdog-western-nations-call-on-iran-to-restart-nuclear-cooperation?traffic_source=rss"
-  },
-  {
-    "id": "a4d68e98adf5",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T18:17",
-    "headline": "Nuclear risks rise as powers expand and modernise arsenals: SIPRI study",
-    "excerpt": "Nuclear states walking away from disarmament commitments amid heightened escalation dangers, leading institute warns.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-08T19:52:51.096636+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/8/nuclear-risks-rise-as-powers-expand-and-modernise-arsenals-study-finds?traffic_source=rss"
-  },
-  {
-    "id": "09c3161c23fc",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T18:00",
-    "headline": "US judge strikes down Trump’s $100,000 H1-B visa fee",
-    "excerpt": "In a ruling on Monday, a federal judge said the fee was a tax that Trump did not have the authority to impose.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-06-08T19:52:51.096674+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/8/us-judge-strikes-down-trumps-100000-h1-b-visa-fee?traffic_source=rss"
-  },
-  {
-    "id": "c4211c72d718",
-    "source": "PressTV",
-    "date": "2026-06-08T19:52",
-    "headline": "Iran to pursue both war and diplomacy to defend people’s rights: Qalibaf",
-    "excerpt": "Qalibaf says Iran’s strategy is to pursue war and diplomacy at the same time to reach its objectives.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-08T19:52:53.502028+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/08/770095/Iran-war-diplomacy-strategy-Ghalibaf-message"
   }
 ]
