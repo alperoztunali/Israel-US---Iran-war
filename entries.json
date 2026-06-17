@@ -1,5 +1,93 @@
 [
   {
+    "id": "c12eb6b5d8e7",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T03:02",
+    "headline": "Russian drone strikes residential building in Ukraine",
+    "excerpt": "A suspected Russian drone attack on a residential building in Ukraine has injured at least seven people.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-17T05:03:41.175451+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/russian-drone-strikes-residential-building-in-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "a6037f0039b4",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T02:46",
+    "headline": "Haaland scores two goals as Norway beat Iraq 4-1 on World Cup return",
+    "excerpt": "The Manchester City striker scored his first goals at a major international tournament as Norway powered past Iraq.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-06-17T05:03:41.175497+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/17/haaland-scores-two-goals-as-norway-beat-iraq-4-1-on-world-cup-return?traffic_source=rss"
+  },
+  {
+    "id": "5b976e7e5b72",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T01:24",
+    "headline": "Smotrich says Israel taking control of Hebron",
+    "excerpt": "Israeli Finance Minister Bezalel Smotrich says Israel has transferred authority over Hebron to the army.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-17T05:03:41.175528+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/smotrich-says-israel-taking-control-of-hebron?traffic_source=rss"
+  },
+  {
+    "id": "10cf1db1cee9",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T01:24",
+    "headline": "UN reports decline in cross-border fire in southern Lebanon",
+    "excerpt": "UN reports decline in cross-border fire in southern Lebanon",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-06-17T05:03:41.175555+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/un-reports-decline-in-cross-border-fire-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "8aab6bcbf4b6",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T00:00",
+    "headline": "Iran war live: Israel kills 4 in Lebanon as Trump criticises Netanyahu",
+    "excerpt": "Warning comes as Trump criticises Netanyahu over Israel&#039;s attacks on Lebanon.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-17T05:03:41.175583+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/17/iran-war-live-israel-kills-four-in-lebanon-as-trump-criticises-netanyahu?traffic_source=rss"
+  },
+  {
+    "id": "0420f17c0aa4",
+    "source": "Al Jazeera",
+    "date": "2026-06-16T23:41",
+    "headline": "Iran will have to leave US hours after every World Cup match, official says",
+    "excerpt": "Mehdi Torabi issued a new visa after previous one expired when team returned to Mexico following the New Zealand game.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-17T05:03:41.175617+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/16/iran-will-have-to-leave-us-hours-after-every-world-cup-match-official-says?traffic_source=rss"
+  },
+  {
+    "id": "634098d7c9bb",
+    "source": "PressTV",
+    "date": "2026-06-17T05:03",
+    "headline": "White House rejects Israeli request to 'review' Iran-US MoU: Reports",
+    "excerpt": "The US has rejected an \"official Israeli request to review\" the newly announced MoU between Washington and Tehran, according to reports.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-06-17T05:03:42.841713+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770589/United-States-Iran-Israel-MoU"
+  },
+  {
+    "id": "971697426f22",
+    "source": "PressTV",
+    "date": "2026-06-17T05:03",
+    "headline": "Pope expresses optimism regarding Iran-US MoU",
+    "excerpt": "Pope Leo expresses optimism regarding a memorandum of understanding, which is expected to be signed between Iran and the US later this week.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-17T05:03:42.841756+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770590/Iran-United-States-Pope-MoU"
+  },
+  {
     "id": "e423675b9510",
     "source": "Al Jazeera",
     "date": "2026-06-16T22:46",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-08T17:35:27.374086+00:00",
     "link": "https://presstv.ir/Detail/2026/06/08/770080/Iran-Israel-US-Zolqadr-"
-  },
-  {
-    "id": "31311b811c0e",
-    "source": "PressTV",
-    "date": "2026-06-08T17:35",
-    "headline": "Exclusive: New IAEA draft resolution recycles Iran 'non-compliance' myth while ignoring imposed wars",
-    "excerpt": "The IAEA's latest draft resolution – to be tabled at the June 2026 meeting – recycles unsubstantiated claims of Iran's non-compliance while ignoring two US-Israeli wars that bombed Iranian nuclear facilities, exposing the agency's politicization and complicity.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-08T17:35:27.374125+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/08/770078/exclusive-new-iaea-draft-resolution-repeats-iran-noncompliance-myth-ignoring-us-israeli-wars"
-  },
-  {
-    "id": "95fde3cac69d",
-    "source": "PressTV",
-    "date": "2026-06-08T17:35",
-    "headline": "Russia warns against US push to pass anti-Iran resolution at IAEA",
-    "excerpt": "A senior Russian diplomat has warned of efforts by the United States to rally support for a resolution at the International Atomic Energy Agency (IAEA) that distorts facts about Iran’s peaceful nuclear program.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-08T17:35:27.374161+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/08/770076/Russia-Ulyanov-US-anti-Iran-resolution-IAEA"
-  },
-  {
-    "id": "ff3932b0f23e",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T14:05",
-    "headline": "Meta to take legal action against Israeli spyware company NSO",
-    "excerpt": "WhatsApp disrupted phishing attempts linked to NSO, blacklisted by the US for security concerns.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-08T14:17:30.561628+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/8/meta-to-take-legal-action-against-israeli-spyware-company-nso?traffic_source=rss"
-  },
-  {
-    "id": "22561058dc78",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T12:59",
-    "headline": "At least 11 killed in Pakistan-administered Kashmir clashes before rally",
-    "excerpt": "Police crack down down on supporters of the Joint Awami Action Committee, which plans to hold a rally Tuesday.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-08T14:17:30.561674+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/8/at-least-11-killed-in-pakistan-administered-kashmir-clashes-before-rally?traffic_source=rss"
-  },
-  {
-    "id": "46664e200cd8",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T11:56",
-    "headline": "Smoke rises in illegal Israeli settlement after Iranian missile attack",
-    "excerpt": "Smoke was seen in an illegal Israeli settlement in the occupied West Bank after Iran launched launched missiles.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-08T14:17:30.561700+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/smoke-rises-in-illegal-israeli-settlement-after-iranian-missile-attack?traffic_source=rss"
-  },
-  {
-    "id": "a1f8abdffab0",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T11:50",
-    "headline": "Video: Israel claims strike on Iranian petrochemical complex",
-    "excerpt": "Video shows plumes of smoke rising from Mahshahr Petrochemical Complex in Iran’s Khuzestan Province on Monday.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-08T14:17:30.561738+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/video-israel-claims-strike-on-iranian-petrochemical-complex?traffic_source=rss"
-  },
-  {
-    "id": "453de7f43f8d",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T10:46",
-    "headline": "Could ex-ISIL fighters be used against Iran, as a Russian official claimed?",
-    "excerpt": "Russia’s Federal Security Service chief said Western powers could weaponise ex-fighters, but analysts doubt the claim.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-08T14:17:30.561763+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/8/bortnikov-russia-iran-isil?traffic_source=rss"
-  },
-  {
-    "id": "90a3b4b2cf50",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T10:40",
-    "headline": "Iran official says US to blame for resumption of hostilities",
-    "excerpt": "Iran’s FM spokesman Esmaeil Baghaei said Israel’s ally the US is responsible for ‘whatever happens in the region&#039;.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-06-08T14:17:30.561803+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-spokesman-says-us-to-blame-for-resumption-of-hostilities?traffic_source=rss"
   }
 ]
