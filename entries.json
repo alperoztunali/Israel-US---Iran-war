@@ -1,5 +1,93 @@
 [
   {
+    "id": "d145182f11e3",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T20:10",
+    "headline": "Why was India’s Cockroach Janta Party founder attacked?",
+    "excerpt": "Why was India’s Cockroach Janta Party founder attacked?",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-17T21:45:48.710116+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/why-was-indias-cockroach-janta-party-founder-attacked?traffic_source=rss"
+  },
+  {
+    "id": "791690906760",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T20:05",
+    "headline": "Read the US account of unreleased 14-point Iran ceasefire memorandum",
+    "excerpt": "US official gives clearest account yet of deal set to be signed by US and Iran Friday; Iran has not confirmed text.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-17T21:45:48.710157+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/17/read-the-us-account-of-unreleased-14-point-iran-ceasefire-memorandum?traffic_source=rss"
+  },
+  {
+    "id": "03ea25d8690d",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T19:21",
+    "headline": "Freed Palestinian prisoner meets son conceived with smuggled sperm",
+    "excerpt": "After spending 25 years in Israeli prisons, Abdul Karim al-Rimawi embraced his son Majd for the first time.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-17T21:45:48.710189+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/freed-palestinian-prisoner-meets-son-conceived-with-smuggled-sperm?traffic_source=rss"
+  },
+  {
+    "id": "3a559c2f4e6c",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T19:14",
+    "headline": "Trump eyes US-Iran ‘peace deal’ signing",
+    "excerpt": "An US-Iran agreement aimed at ending hostilities and reopening the Strait of Hormuz is set to be signed Friday.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-17T21:45:48.710221+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-eyes-us-iran-peace-deal-signing?traffic_source=rss"
+  },
+  {
+    "id": "a182ea39a1f2",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T19:04",
+    "headline": "Ukrainian rescuers killed in Russian secondary strike laid to rest",
+    "excerpt": "Mourners gathered at a cemetery in Kharkiv as three Ukrainian rescuers were laid to rest.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-17T21:45:48.710247+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/ukrainian-rescuers-killed-in-russian-secondary-strike-laid-to-rest?traffic_source=rss"
+  },
+  {
+    "id": "e4a0fb8c4637",
+    "source": "PressTV",
+    "date": "2026-06-17T21:45",
+    "headline": "Iran, US presidents sign war-ending MoU, Geneva meeting still on track: FM spox",
+    "excerpt": "The spokesman explained that the decision to have the agreement signed by the highest-ranking officials of both countries was intentional, given past experiences.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-17T21:45:50.627877+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770645/Iran-US-presidents-sign-war-ending-MoU-Geneva-meeting-still-on-track-FM-spox"
+  },
+  {
+    "id": "f42eec09849a",
+    "source": "PressTV",
+    "date": "2026-06-17T21:45",
+    "headline": "Factbox: 14-point US-Iran MoU lays out terms to end imposed war, reshape regional security framework",
+    "excerpt": "The 14-point MoU between Iran and the US lays out a comprehensive framework designed to end the imposed war and reconfigure the regional order with Iran as a principal power.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-17T21:45:50.627918+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770643/full-text-14-point-iran-us-mou-terms-ending-war-reshape-regional-framework"
+  },
+  {
+    "id": "0f4ab6aa9a2e",
+    "source": "PressTV",
+    "date": "2026-06-17T21:45",
+    "headline": "The banner of battlefield victory today underpins Iran’s diplomacy of strength: Qalibaf",
+    "excerpt": "The speaker of Iran’s Parliament says the country is pursuing a \"diplomacy of strength\" backed by its battlefield victory over the US and the Israeli regime.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-17T21:45:50.627965+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770644/Iran-United-States-Israel-war-diplomacy-Qalibaf-interview"
+  },
+  {
     "id": "1bb18ca4269b",
     "source": "Al Jazeera",
     "date": "2026-06-17T18:53",
@@ -5410,93 +5498,5 @@
     "location": "Oman",
     "addedAt": "2026-06-09T09:54:53.041017+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/indian-crew-rescued-after-attack-on-oil-tanker-off-oman?traffic_source=rss"
-  },
-  {
-    "id": "1c6d629f6f42",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T08:13",
-    "headline": "‘They were laughing’: Israel’s use of rape and sexual abuse in prisons",
-    "excerpt": "Former detainees detail systematic torture and sexual violence, including rape, while in Israeli custody.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-09T09:54:53.041057+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons?traffic_source=rss"
-  },
-  {
-    "id": "76b961c6f447",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T08:13",
-    "headline": "Trump says Iran deal in ‘final throes’",
-    "excerpt": "Donald Trump said that he&#039;s in the &#039;final throes&#039; of a deal with Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-09T09:54:53.041088+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-says-iran-deal-in-final?traffic_source=rss"
-  },
-  {
-    "id": "9f8eb34f7e96",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T07:25",
-    "headline": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
-    "excerpt": "Iran warns fighting could restart as tensions remain high and Trump urges Israel to protect the fragile ceasefire.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-09T09:54:53.041128+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss"
-  },
-  {
-    "id": "257029d174b8",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T07:19",
-    "headline": "Palestine weekly wrap: Israel presses deeper into Gaza as Cairo talks begin",
-    "excerpt": "Israel pushes deeper into Gaza, killing Palestinians across the enclave.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-09T09:54:53.041157+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/9/palestine-weekly-wrap-israel-presses-deeper-into-gaza-as-cairo-talks-begin?traffic_source=rss"
-  },
-  {
-    "id": "43ba141848a9",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T06:38",
-    "headline": "Iran’s lakes are vanishing: Satellite images show a deepening water crisis",
-    "excerpt": "Years of drought, falling rainfall and unsustainable water use have been worsened further by the US-Israel war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-09T09:54:53.041204+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/9/irans-lakes-are-vanishing-satellite-images-show-a-deepening-water-crisis-2?traffic_source=rss"
-  },
-  {
-    "id": "366c1a9d8419",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T06:20",
-    "headline": "Nuclear weapons spending surges to record high of $119bn, report says",
-    "excerpt": "International Campaign to Abolish Nuclear Weapons says states spent an extra $16.8bn on their nuclear arsenals in 2025.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-09T09:54:53.041240+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/9/nuclear-weapons-spending-surges-to-record-high-of-119bn-report-says?traffic_source=rss"
-  },
-  {
-    "id": "dd950204386d",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T06:12",
-    "headline": "Two years after Israel’s Nuseirat ‘rescue’ success, we are still bleeding",
-    "excerpt": "My family survived the massacre that freed four captives. Its wounds and nightmares have not left us.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-09T09:54:53.041275+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/9/two-years-after-israels-nuseirat-rescue-success-we-are-still-bleeding?traffic_source=rss"
-  },
-  {
-    "id": "e26c78ca422d",
-    "source": "PressTV",
-    "date": "2026-06-09T09:54",
-    "headline": "MP says US lacks ‘serious will’, Lebanon inseparable part of any agreenment",
-    "excerpt": "An Iranian lawmaker says the United States lacks a “serious will” to reach an implementable framework.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-09T09:54:54.576420+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/09/770115/MP-US-lacks-serious-will-Lebanon-inseparable-deal"
   }
 ]
