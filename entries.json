@@ -1,5 +1,115 @@
 [
   {
+    "id": "9fd0c902f216",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T09:22",
+    "headline": "Inside the ‘unacceptable’ UK fair selling property in Israeli settlements",
+    "excerpt": "Activists say there was no mention of Palestinians, but participants said the war on Gaza could mean property discounts.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-06-17T10:04:41.175513+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/17/unacceptable-london-property-fair?traffic_source=rss"
+  },
+  {
+    "id": "4b7222d06930",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T08:57",
+    "headline": "Iranian tankers exit US blockade zone before talks to end war",
+    "excerpt": "As US, Iran prepare to sign MoU and start more talks, TankerTrackers monitor says Iran exports first oil in two months.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-17T10:04:41.175554+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/17/first-iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks?traffic_source=rss"
+  },
+  {
+    "id": "f5e1b833ea9b",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T08:50",
+    "headline": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
+    "excerpt": "A statement from the G7 summit in France says leaders are united in their &#039;unwavering support for Ukraine&#039;.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-06-17T10:04:41.175595+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss"
+  },
+  {
+    "id": "a6107db52615",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T07:44",
+    "headline": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz",
+    "excerpt": "Brent crude drops to lowest price since early March, before signing of framework deal to end US-Israel war on Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-17T10:04:41.175627+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "7002f46c136f",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T07:24",
+    "headline": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
+    "excerpt": "Iran warns of a &#039;harsh response&#039; as Lebanon attacks test the US deal and strain Trump-Netanyahu ties.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-17T10:04:41.175657+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal?traffic_source=rss"
+  },
+  {
+    "id": "a545b9af1fae",
+    "source": "PressTV",
+    "date": "2026-06-17T10:04",
+    "headline": "Iran’s space program pressing forward with renewed momentum: Minister",
+    "excerpt": "Iran’s space program is moving ahead with the upcoming launch of Pars-2 Satellite and Shahid Soleimani constellation deployment by year-end, says the Iranian minister of technology.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-17T10:04:42.826796+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770605/Iran-space-program-Sattar-Hashemi-ISA-Salarieh-Pars-2-satellite-Shahid-Soleimani-constellation-US-war"
+  },
+  {
+    "id": "1b93b5e5b855",
+    "source": "PressTV",
+    "date": "2026-06-17T10:04",
+    "headline": "Minister: Iran has reached economic deterrence capable of resisting sanctions",
+    "excerpt": "Iran's industry minister says the country's economic resilience and national unity have reduced the impact of sanctions on economic activity.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-17T10:04:42.826831+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770603/Iran%E2%80%99s-industry-minister--Economic-resilience,-national-unity-blunted-impact-of-sanctions"
+  },
+  {
+    "id": "b0582957756d",
+    "source": "PressTV",
+    "date": "2026-06-17T10:04",
+    "headline": "Top Yemeni official: Iranian armed forces inspiring model for Muslim world",
+    "excerpt": "A top Yemeni official has praised Iran's armed forces, saying they have become a model of resilience and strength for the Muslim world.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-17T10:04:42.826887+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770599/Yemeni-political-council-chief--Iranian-armed-forces-an-inspiring-model-for-Muslim-world"
+  },
+  {
+    "id": "e0bce5b67d53",
+    "source": "PressTV",
+    "date": "2026-06-17T10:04",
+    "headline": "Netanyahu-Trump relations reach breaking point: Israeli media",
+    "excerpt": "Relations between Netanyahu and Trump reportedly enter a critical phase and may soon escalate into an open political confrontation.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-17T10:04:42.826920+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770601/Netanyahu-Trump-relations-breaking-point--Report"
+  },
+  {
+    "id": "9aa5cd9071be",
+    "source": "PressTV",
+    "date": "2026-06-17T10:04",
+    "headline": "Israeli media urges continued Lebanon strikes to disrupt Iran-US MoU",
+    "excerpt": "Israel’s Channel 14 calls on the occupying regime to maintain its attacks on Lebanon to sabotage the peace agreement between Iran and the United States.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-17T10:04:42.826952+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/17/770597/Israeli-urges-continued-Lebanon-disrupt-ran-US-MoU"
+  },
+  {
     "id": "c12eb6b5d8e7",
     "source": "Al Jazeera",
     "date": "2026-06-17T03:02",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-08T19:52:53.502028+00:00",
     "link": "https://presstv.ir/Detail/2026/06/08/770095/Iran-war-diplomacy-strategy-Ghalibaf-message"
-  },
-  {
-    "id": "48fa261f63a3",
-    "source": "PressTV",
-    "date": "2026-06-08T19:52",
-    "headline": "Iran upended equation of ceasefire on paper, violations in practice: Qalibaf",
-    "excerpt": "Parliament Speaker Mohammad Baqer Qalibaf says Iran disrupted the equation of a ceasefire existing on place and its breach in practice.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-08T19:52:53.502074+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/08/770088/Iran-disrupted-ceasefire-paper-violations-ground"
-  },
-  {
-    "id": "4ca75cee2b89",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T16:48",
-    "headline": "Three rescued, one killed in Russian drone strike on Ukraine block",
-    "excerpt": "Three rescued, one killed in Russian drone strike on Ukraine block.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-08T17:35:25.687154+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/three-rescued-one-killed-in-russian-drone-strike-on-ukraine-block?traffic_source=rss"
-  },
-  {
-    "id": "28e1483df17d",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T16:13",
-    "headline": "How Lebanon became the breaking point for the Iran war ceasefire",
-    "excerpt": "Iran has switched from projecting power via its proxies to using its own firepower to protect them, analysts say.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-08T17:35:25.687198+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/8/how-lebanon-became-the-breaking-point-for-the-iran-war-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "47e8a57895ff",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T16:06",
-    "headline": "‘Strategic doctrine’: Iran hails military shift after Beirut raid response",
-    "excerpt": "Iranians describe attacks on Israel as part of military approach prioritising &#039;taking initiative and offensive power&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-08T17:35:25.687242+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/8/strategic-doctrine-iran-hails-military-shift-after-beirut-raid-response?traffic_source=rss"
-  },
-  {
-    "id": "9723c3b46ea0",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T16:01",
-    "headline": "Lebanon’s children face physical, psychological trauma amid Israel’s war",
-    "excerpt": "Experts warn of lasting trauma for Lebanon&#039;s children as war continues to shatter their sense of safety.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-08T17:35:25.687279+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/8/lebanon-children-face-physical-psychological-trauma-israel-war?traffic_source=rss"
-  },
-  {
-    "id": "f75e836214f8",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T15:30",
-    "headline": "Lebanon Latest: Israel pushes deeper as conflict escalates",
-    "excerpt": "The latest developments from southern Lebanon amid escalating Israeli attacks.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-08T17:35:25.687310+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/aje-onl-aje_onl_lebanon_wrap-080626?traffic_source=rss"
-  },
-  {
-    "id": "419bafe0f8df",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T15:06",
-    "headline": "‘Lives turned in a second’: Family of baby Sam, shot dead by Israel, grieve",
-    "excerpt": "A father speaks of the moment his seven-month-old Palestinian son was shot dead in the West Bank by an Israeli soldier.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-08T17:35:25.687341+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/8/lives-turned-in-a-second-family-of-baby-sam-shot-dead-by-israel-grieve?traffic_source=rss"
-  },
-  {
-    "id": "4cfe81a6671f",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T14:52",
-    "headline": "IAEA chief says Iran-US nuclear talks in ‘complicated phase’",
-    "excerpt": "IAEA chief says Iran-US nuclear talks in &#039;complicated phase&#039;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-08T17:35:25.687371+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iaea-chief-says-iran-us-nuclear-talks-in-complicated-phase?traffic_source=rss"
-  },
-  {
-    "id": "11e79ac567f0",
-    "source": "Al Jazeera",
-    "date": "2026-06-08T14:20",
-    "headline": "Why was Israel spared scrutiny for the 1967 USS Liberty attack?",
-    "excerpt": "US Representative Massie set to honour the crew of the vessel on the House floor, bringing attention to the 1967 attack.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-06-08T17:35:25.687405+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/8/why-was-israel-spared-scrutiny-for-the-1967-uss-liberty-attack?traffic_source=rss"
-  },
-  {
-    "id": "529eef091b9f",
-    "source": "PressTV",
-    "date": "2026-06-08T17:35",
-    "headline": "Iran warns any mistake will turn region into ‘hell’ for US-Israeli ‘evil coalition’",
-    "excerpt": "Iran’s top security official has warned the “evil coalition” of the United States and Israel that the region will turn into hell for them should another mistake occur.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-06-08T17:35:27.374086+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/08/770080/Iran-Israel-US-Zolqadr-"
   }
 ]
