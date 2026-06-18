@@ -1,5 +1,60 @@
 [
   {
+    "id": "94f16ebed2fa",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T01:42",
+    "headline": "US and Iran sign Memorandum of Understanding to end war",
+    "excerpt": "US President Donald Trump and Iranian President Masoud Pezeshkian have reportedly signed a Memorandum of Understanding",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-18T02:04:41.351426+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-and-iran-sign-memorandum-of-understanding-to-end-war?traffic_source=rss"
+  },
+  {
+    "id": "0bf3e7e5ac03",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T00:00",
+    "headline": "Iran war live: Trump, Pezeshkian sign MoU to end fighting, reopen Hormuz",
+    "excerpt": "Both sides say the deal is in effect and includes an end to war in Lebanon and the reopening of the Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-18T02:04:41.351468+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "9d03580f8ce2",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T23:57",
+    "headline": "Trump to Netanyahu: Use a ‘softer’ touch on Lebanon",
+    "excerpt": "US President Donald Trump has encouraged Israeli Prime Minister Benjamin Netanyahu to use a ‘softer touch’ in Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-18T02:04:41.351508+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-to-netanyahu-use-a-softer-touch-on-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "882d8808d0e2",
+    "source": "Al Jazeera",
+    "date": "2026-06-17T23:56",
+    "headline": "Trump says it’s ‘unfair’ for Iran to lack ballistic missiles",
+    "excerpt": "President Donald Trump says it’s ‘unfair’ for Iran to lack ballistic missiles if other regional countries have them.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-18T02:04:41.351571+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-says-its-unfair-for-iran-to-lack-ballistic-missiles?traffic_source=rss"
+  },
+  {
+    "id": "26604e394549",
+    "source": "PressTV",
+    "date": "2026-06-18T02:04",
+    "headline": "Iranian Air Force personnel recount high-risk precision operation against US base in Kuwait",
+    "excerpt": "Iranian Air Force personnel recount a detailed description of a precision operation against an American military base in Kuwait in early March.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-18T02:04:43.209049+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/18/770646/Iran-attack-United-States-base-Kuwait"
+  },
+  {
     "id": "f363b44a1a4b",
     "source": "Al Jazeera",
     "date": "2026-06-17T23:02",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-09T12:42:13.764883+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/video-captures-russian-attack-in-ukraines-zaporizhzhia?traffic_source=rss"
-  },
-  {
-    "id": "909051c8f6bc",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T12:00",
-    "headline": "Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments",
-    "excerpt": "The row erupted after Italy said it was investigating the far-right minister over treatment of Gaza flotilla activists.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-06-09T12:42:13.764938+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/9/italys-foreign-minister-slams-israels-ben-gvir-over-flip-flop-comments?traffic_source=rss"
-  },
-  {
-    "id": "4c26e5eca0f0",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T11:51",
-    "headline": "Israel attacks Tyre in Lebanon, tells all residents to leave",
-    "excerpt": "Israel attacks Tyre in Lebanon, tells all residents to leave",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-09T12:42:13.764972+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israel-attacks-tyre-in-lebanon-tells-all-residents-to-leave?traffic_source=rss"
-  },
-  {
-    "id": "c26b07f12baf",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T10:37",
-    "headline": "Hundred days of Israel’s latest war on Lebanon",
-    "excerpt": "Israel&#039;s second intensification of its war on Lebanon within two years has reached 100 days, killing thousands.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-09T12:42:13.765007+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "7ad0fe68a352",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T10:20",
-    "headline": "‘Historic’ wave of Palestinian solidarity grows at universities in Germany",
-    "excerpt": "Calls for universities to cut ties with Israeli institutions are rising in the country that condemns the BDS movement.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-09T12:42:13.765045+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/9/historic-wave-of-palestinian-solidarity-grows-at-universities-in-germany?traffic_source=rss"
-  },
-  {
-    "id": "6d5aa452db37",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T10:18",
-    "headline": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
-    "excerpt": "Ukraine&#039;s president hopes to reinvigorate diplomacy after &#039;very positive&#039; talks with US envoys and European leaders.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-06-09T12:42:13.765085+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/9/russian-attacks-kill-5-in-ukraine-as-zelenskyy-hails-talks-with-us-envoys?traffic_source=rss"
   }
 ]
