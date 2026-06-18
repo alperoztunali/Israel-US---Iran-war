@@ -1,5 +1,49 @@
 [
   {
+    "id": "8a8c2d8f6970",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T08:11",
+    "headline": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
+    "excerpt": "Russia&#039;s Defence Ministry says air defences shot down 555 Ukrainian drones over several regions overnight.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-18T11:17:37.549950+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss"
+  },
+  {
+    "id": "a5ede50b42f4",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T08:09",
+    "headline": "World Cup predictions: Mexico vs South Korea, Canada vs Qatar and more",
+    "excerpt": "World Cup Day 8 featuring Mexico vs South Korea, Canada vs Qatar and the latest tournament talking points.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-06-18T11:17:37.550024+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/18/world-cup-predictions-mexico-vs-south-korea-canada-vs-qatar-and-more?traffic_source=rss"
+  },
+  {
+    "id": "be974af5679f",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T07:38",
+    "headline": "Iran war day 111: Tehran warns US as 14-point plan takes effect",
+    "excerpt": "Iran and the US say a deal to end the conflict is in force, but questions remain over its implementation.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-18T11:17:37.550057+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/18/iran-war-day-111-tehran-warns-us-as-14-point-plan-takes-effect?traffic_source=rss"
+  },
+  {
+    "id": "57034dc219b5",
+    "source": "PressTV",
+    "date": "2026-06-18T11:17",
+    "headline": "Iran-US MoU marks end of American empire: Tucker Carlson",
+    "excerpt": "Tucker Carlson says the Iran deal officially marks the end of the American empire and exposes the limits of US power.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-18T11:17:39.182228+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/18/770671/US-Tucker-Carlson-Iran-MoU-empire-Trump-Suez-crisis-British-Empire"
+  },
+  {
     "id": "060e3289c8ac",
     "source": "Al Jazeera",
     "date": "2026-06-18T04:35",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-09T18:12:10.907039+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss"
-  },
-  {
-    "id": "3ca0b8dd305a",
-    "source": "PressTV",
-    "date": "2026-06-09T18:12",
-    "headline": "IAEA draft resolution ‘dangerous attempt’ at whitewashing aggression, Iran warns",
-    "excerpt": "Iran’s deputy foreign minister has censured the Board of Governors of the International Atomic Energy Agency (IAEA) over an anti-Islamic Republic draft resolution.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-09T18:12:12.743125+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/09/770144/iaea-anti-iran-draft-resolution-gharibabadi"
-  },
-  {
-    "id": "80b687464287",
-    "source": "PressTV",
-    "date": "2026-06-09T18:12",
-    "headline": "‘You pulled Iran out of wolves’ jaws’: Qalibaf hails nation for nightly rallies",
-    "excerpt": "Iran's Parliament Speaker Qalibaf has lauded the Iranians for their ongoing nightly gatherings, which have extended to 100 days as a symbol of popular resistance against the US‑Israeli war of aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-09T18:12:12.743179+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/09/770141/You-pulled-country-out-of-wolves-jaws-Ghalibaf-hails-Iranian-nation-for-nightly-rallies"
-  },
-  {
-    "id": "82f57257c7f5",
-    "source": "PressTV",
-    "date": "2026-06-09T18:12",
-    "headline": "Israeli airstrikes kill at least nine in southern Lebanon’s Tyre",
-    "excerpt": "Nine Lebanese civilians have been killed and dozens more wounded after Israeli airstrikes hit the port city of Tyre in southern Lebanon.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-06-09T18:12:12.743202+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/09/770140/Lebanon-Tyre-Israel-"
-  },
-  {
-    "id": "28308e8e23eb",
-    "source": "Al Jazeera",
-    "date": "2026-06-09T15:07",
-    "headline": "Six countries sanction enablers of settler violence in occupied West Bank",
-    "excerpt": "The Western nations also say they will take further measures if Israel fails to address the situation on the ground.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-09T15:45:53.844954+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/9/six-countries-sanction-networks-enabling-settler-violence-in-west-bank?traffic_source=rss"
   }
 ]
