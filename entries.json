@@ -1,5 +1,104 @@
 [
   {
+    "id": "90d18eab5b45",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T21:15",
+    "headline": "Myanmar military airstrike kills seven civilians in Rakhine state",
+    "excerpt": "A Myanmar military airstrike on the Rakhine state town of Kyauktaw killed at least seven civilians.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-06-18T22:22:51.664170+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss"
+  },
+  {
+    "id": "42cb902979a6",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T21:02",
+    "headline": "Conjoined twins separated after surgery in Saudi Arabia",
+    "excerpt": "Filipino conjoined twins Olivia and Gianna were successfully separated during a six-hour surgery in Saudi Arabia.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-06-18T22:22:51.664219+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/conjoined-twins-separated-after-surgery-in-saudi-arabia?traffic_source=rss"
+  },
+  {
+    "id": "8d23e8f8c025",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T20:27",
+    "headline": "Netanyahu says Israel must protect relationship with US",
+    "excerpt": "Israeli Prime Minister Benjamin Netanyahu pressed for the ‘preservation’ of Israel’s relationship with the US.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-06-18T22:22:51.664254+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-says-israel-must-protect-relationship-with-us?traffic_source=rss"
+  },
+  {
+    "id": "68d2786d20e3",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T20:26",
+    "headline": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
+    "excerpt": "Analysts warn that pro-Israel groups and politicians in Washington will likely push to derail diplomacy with Tehran.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-18T22:22:51.664286+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump?traffic_source=rss"
+  },
+  {
+    "id": "6e20e3e267c1",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T20:19",
+    "headline": "Iran’s supreme leader says approved US deal despite having ‘different’ view",
+    "excerpt": "Iran says it has suspended Strait of Hormuz transit charges for commercial vessels for 60 days.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-18T22:22:51.664319+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/18/irans-supreme-leader-says-approved-us-deal-despite-having-different-view?traffic_source=rss"
+  },
+  {
+    "id": "99fff819d0d4",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T20:18",
+    "headline": "Gaza fans chase World Cup joy amid blackout, displacement and war",
+    "excerpt": "World Cup matches offer residents of Gaza a brief escape from war, blackouts and life in tents.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-18T22:22:51.664354+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/gaza-fans-chase-world-cup-joy-amid-blackout-displacement-and-war?traffic_source=rss"
+  },
+  {
+    "id": "bb0a7c621979",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T19:52",
+    "headline": "MoU’s $300bn Iran reconstruction fund becomes US political flashpoint",
+    "excerpt": "Trump says US will not pay for planned fund as part of Iran MoU, as lawmakers connect price tag to affordability issues.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-18T22:22:51.664392+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss"
+  },
+  {
+    "id": "98a01bf3dc8e",
+    "source": "PressTV",
+    "date": "2026-06-18T22:22",
+    "headline": "Pezeshkian: Leader’s message guarantees Iran’s great victory in negotiations",
+    "excerpt": "Iranian President Masoud Pezeshkian has warmly welcomed the recent message of the Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei, regarding the negotiation process and the agreement to end the war.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-18T22:22:53.117369+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/18/770699/President-Pezeshkian--Leader%E2%80%99s-message-guarantees-Iran%E2%80%99s-great-victory-in-upcoming-negotiations"
+  },
+  {
+    "id": "f215ac283c28",
+    "source": "PressTV",
+    "date": "2026-06-18T22:22",
+    "headline": "Iran FM expresses deep appreciation for Leader’s guiding message",
+    "excerpt": "Iran’s Foreign Minister Seyed Abbas Araghchi has warmly welcomed the wise and guiding message from the Supreme Leader of the Islamic Revolution.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-18T22:22:53.117415+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/18/770698/Iran-FM-Araghchi-expresses-deep-appreciation-for-Leader%E2%80%99s-guiding-message"
+  },
+  {
     "id": "19e4da6500cf",
     "source": "Al Jazeera",
     "date": "2026-06-18T19:43",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-10T10:44:14.646403+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases?traffic_source=rss"
-  },
-  {
-    "id": "dbf3eab49c57",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T07:22",
-    "headline": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
-    "excerpt": "The multiday campaign has killed a rail worker, closed the bombed Chongar road bridge and caused a fuel crisis",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-06-10T10:44:14.646456+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss"
-  },
-  {
-    "id": "ee9f0541fb9f",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T07:16",
-    "headline": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
-    "excerpt": "Analysts warn of further escalation after tit-for-tat attacks between Tehran and Washington.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-06-10T10:44:14.646488+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/10/iran-war-day-103-us-strikes-after-helicopter-shot-down-tehran-hits-back?traffic_source=rss"
-  },
-  {
-    "id": "7b6e7af7e1a6",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T06:54",
-    "headline": "Indonesia jails four military officers for acid attack on rights activist",
-    "excerpt": "Prosecutors argued in court that the soldiers were motivated by anger over Yunus’s activism.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-10T10:44:14.646529+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/10/indonesia-jails-four-military-officers-for-acid-attack-on-rights-activist?traffic_source=rss"
-  },
-  {
-    "id": "60560230f071",
-    "source": "PressTV",
-    "date": "2026-06-10T10:44",
-    "headline": "Iran's armed forces dealt 'heavy blows' to US bases, assets after 'savage attacks': Foreign ministry",
-    "excerpt": "Iran has warned backers of US aggression that allowing their territory to be used for attacks against the Islamic Republic will not go unanswered.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-10T10:44:16.292614+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/10/770176/Iran-US-attacks-regional-countries-aggression-Turkey-Saudi-Arabia-"
-  },
-  {
-    "id": "ca713bdf89d0",
-    "source": "PressTV",
-    "date": "2026-06-10T10:44",
-    "headline": "‘Stronger than before’: Inside Tehran’s bombed Laser and Plasma Institute that resumed work in days",
-    "excerpt": "Despite suffering extensive damage from a US-Israeli attack on April 3, the Laser and Plasma Research Institute at Tehran's Beheshti University resumed scientific work within days, with researchers vowing to continue with greater power.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-06-10T10:44:16.292648+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/10/770174/stronger-than-before-inside-tehran-bombed-laser-plasma-institute-reumed-work-days"
-  },
-  {
-    "id": "e35a2be1df5b",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T05:38",
-    "headline": "Trita Parsi: Iran is pursuing a doctrine of swift retaliation",
-    "excerpt": "Iran has abandoned strategic patience for a new doctrine: swift, severe retaliation against any US attack.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-10T06:36:43.716383+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/aje-onl-nf_trita-parsi_iran-doctrine-of-swift-retaliation-100626?traffic_source=rss"
-  },
-  {
-    "id": "db4cc286ae9f",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T05:04",
-    "headline": "Afghanistan says Pakistan air raids killed 13 people, including children",
-    "excerpt": "No immediate comment from Pakistan as Taliban says 11 children are among the dead in strikes on border provinces.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-10T06:36:43.716434+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/10/afghanistan-says-pakistan-air-raids-killed-13-people-including-children?traffic_source=rss"
-  },
-  {
-    "id": "551491485be3",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T04:33",
-    "headline": "UN report: Israeli forces shield settlers during attacks on Palestinians",
-    "excerpt": "The UN says Israeli security forces routinely accompany settlers and act as a shield for their violence.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-10T06:36:43.716458+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/un-report-israeli-forces-shield-settlers-during-attacks-on-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "858dc0d53d99",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T04:19",
-    "headline": "Jordan intercepts Iranian missiles over its airspace",
-    "excerpt": "Jordan intercepts Iranian missiles over its airspace",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-10T06:36:43.716473+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/jordan-intercepts-iranian-missiles-over-its-airspace?traffic_source=rss"
   }
 ]
