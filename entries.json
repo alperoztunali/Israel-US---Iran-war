@@ -1,5 +1,93 @@
 [
   {
+    "id": "19e4da6500cf",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T19:43",
+    "headline": "US military says it has lifted naval blockade of Iranian ports",
+    "excerpt": "CENTCOM says that all blockade enforcement efforts &#039;have ceased&#039; but that US forces will remain in the area.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-18T20:00:05.882551+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss"
+  },
+  {
+    "id": "b461dc56eda6",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T18:14",
+    "headline": "Pakistan signs US-Iran MoU",
+    "excerpt": "Pakistan’s Prime Minister Shehbaz Sharif signed a US-Iran memorandum of understanding aimed at ending the war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-18T20:00:05.882603+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss"
+  },
+  {
+    "id": "16924f9912a9",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T18:01",
+    "headline": "Israel says cutting ties with top EU diplomat over ‘apartheid’ comments",
+    "excerpt": "The UN rights office has previously found that Israel is violating international laws that prohibit apartheid.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-18T20:00:05.882640+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/18/israel-says-cutting-ties-with-top-eu-diplomat-over-apartheid-comments?traffic_source=rss"
+  },
+  {
+    "id": "7022f2d896c8",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T17:39",
+    "headline": "Somalia warns Israel against meddling in Somaliland",
+    "excerpt": "The message came after Somaliland opened its first overseas embassy this week, in Jerusalem.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-18T20:00:05.882671+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss"
+  },
+  {
+    "id": "d023d8a33759",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T17:35",
+    "headline": "US vice president slams Israel over criticism of Trump’s Iran deal",
+    "excerpt": "JD Vance slammed members of Israel’s government for criticising US President Donald Trump over his Iran deal efforts.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-18T20:00:05.882705+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-vice-president-slams-israel-over-criticism-of-trumps-iran-deal?traffic_source=rss"
+  },
+  {
+    "id": "c81ef06e319d",
+    "source": "Al Jazeera",
+    "date": "2026-06-18T17:33",
+    "headline": "Grief, tears as families hold rites for Indian sailors killed in US strike",
+    "excerpt": "Grief, tears as families hold last rites for Indian sailors killed in US strike.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-18T20:00:05.882736+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/grief-tears-as-families-hold-rites-for-indian-sailors-killed-in-us-strike?traffic_source=rss"
+  },
+  {
+    "id": "b4274e52aed6",
+    "source": "PressTV",
+    "date": "2026-06-18T20:00",
+    "headline": "China warns Israel against obstructing Iran-US understanding",
+    "excerpt": "China has warned Israel not to undermine the Iran-US memorandum, calling on all parties to support its implementation and future negotiations.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-06-18T20:00:07.899147+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/18/770695/China-Iran-US-MoU-Israel-Trump-Pezeshkian-Middle-East"
+  },
+  {
+    "id": "15972e9567a2",
+    "source": "PressTV",
+    "date": "2026-06-18T20:00",
+    "headline": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
+    "excerpt": "Iran has introduced a 60-day free transit framework for Strait of Hormuz shipping, requiring applications via PGSA.ir and compliance with designated routes, safety rules, and future technical procedures.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-18T20:00:07.899188+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU"
+  },
+  {
     "id": "7954115a3f34",
     "source": "Al Jazeera",
     "date": "2026-06-18T17:09",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-10T06:36:43.716473+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/jordan-intercepts-iranian-missiles-over-its-airspace?traffic_source=rss"
-  },
-  {
-    "id": "7d1a846473c5",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T03:09",
-    "headline": "Bolivia approves military measures against nationwide protests",
-    "excerpt": "Bolivia approves military measures against nationwide protests.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-10T06:36:43.716498+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/bolivia-approves-military-measures-against-nationwide-protests?traffic_source=rss"
-  },
-  {
-    "id": "945ab21ffc08",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T02:58",
-    "headline": "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes",
-    "excerpt": "Strikes come after US attacked Iranian ports and islands in the Strait of Hormuz over the downing of a helicopter.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-10T06:36:43.716524+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "789421ba112d",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T02:23",
-    "headline": "Protesters torch cars, buildings in Belfast after knife attack",
-    "excerpt": "Unrest comes after a Sudanese man was arrested over a stabbing attack in north Belfast, UK.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-10T06:36:43.716550+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack?traffic_source=rss"
-  },
-  {
-    "id": "d9137aff50a6",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T02:13",
-    "headline": "Belfast plunged into chaos as vehicles set ablaze following stabbing attack",
-    "excerpt": "Al Jazeera&#039;s Milena Veselinovic reports from Belfast, where protests have escalated into violent riots.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-10T06:36:43.716585+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/aje-onl-nf_belfast-plunged-into-chaos-as-vehicles-set-ablaze-090626?traffic_source=rss"
-  },
-  {
-    "id": "09cd01d3debc",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T00:00",
-    "headline": "Iran war live: Tehran targets US forces in Bahrain, Jordan, Kuwait",
-    "excerpt": "Lebanon&#039;s Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666.",
-    "category": "Movement",
-    "location": "Tehran",
-    "addedAt": "2026-06-10T06:36:43.716607+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss"
-  },
-  {
-    "id": "569441df05fe",
-    "source": "PressTV",
-    "date": "2026-06-10T06:36",
-    "headline": "Iran stages concerted retaliatory strikes on American military targets after fresh US aggression",
-    "excerpt": "Iran's Armed Forces launch retaliatory operations against American military targets in the region after fresh American aggression.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-10T06:36:45.092843+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/10/770163/Iran-strikes-United-States-American-targets-Bahrain-Jordan-IRGC-Army-Hormozgan-helicopter-crash"
-  },
-  {
-    "id": "49032b4d8160",
-    "source": "PressTV",
-    "date": "2026-06-10T06:36",
-    "headline": "IRGC downs MQ-9 in Strait of Hormuz as Iran responds to US aggression",
-    "excerpt": "The IRGC says it destroyed a US MQ-9 drone near the Strait of Hormuz during Iran's response to recent US attacks.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-10T06:36:45.092863+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/10/770168/Iran-IRGC-US-MQ-9-drone-Jam-Strait-of-Hormuz-CENTCOM-Apache-helicopter-Bahrain-Jordan"
-  },
-  {
-    "id": "5281cabcc534",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T00:18",
-    "headline": "Brazil intercepts 108 Cuban immigrants amid growing asylum applications",
-    "excerpt": "Last year, for the first time in a decade, Cuban asylum applications exceeded Venezuelan ones in sign of growing strain.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-10T01:54:38.896005+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/10/brazil-intercepts-108-cuban-immigrants-amid-growing-asylum-applications?traffic_source=rss"
   }
 ]
