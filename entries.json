@@ -1,5 +1,49 @@
 [
   {
+    "id": "c5f286c9041b",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T15:10",
+    "headline": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
+    "excerpt": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-20T15:17:26.158081+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-warns-of-reciprocal-action-if-us-doesnt-honour-mou-commitments?traffic_source=rss"
+  },
+  {
+    "id": "c28a83f05b4c",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T14:50",
+    "headline": "Nine left in critical condition after UK train collision that killed driver",
+    "excerpt": "More than 80 people received treatment after the crash and 28 remain in hospital.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-20T15:17:26.158124+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/nine-left-in-critical-condition-after-uk-train-collision-that-killed-driver?traffic_source=rss"
+  },
+  {
+    "id": "c82440a5ab43",
+    "source": "PressTV",
+    "date": "2026-06-20T15:17",
+    "headline": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
+    "excerpt": "Iran’s central military command has officially declared the Strait of Hormuz closed to all maritime traffic, citing US and Israeli violations of a memorandum of understating between Tehran and Washington.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-06-20T15:17:28.023899+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-"
+  },
+  {
+    "id": "60215b59f7b1",
+    "source": "PressTV",
+    "date": "2026-06-20T15:17",
+    "headline": "Hezbollah vows armed resistance against any Israeli attempt to seize Lebanese territory",
+    "excerpt": "Hezbollah says its fighters are fully prepared to make any sacrifice necessary to defend Lebanon.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-20T15:17:28.023936+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770798/Hezbollah-vows-armed-resistance-against-Israeli-attempt-seize-Lebanese-territory"
+  },
+  {
     "id": "a897a6c82888",
     "source": "Al Jazeera",
     "date": "2026-06-20T13:05",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-11T16:57:39.343871+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-aftermath-of-iranian-attack-in-bahrain?traffic_source=rss"
-  },
-  {
-    "id": "46204690439a",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T11:58",
-    "headline": "India says US hit another ship off Oman, confirms 3 dead in separate attack",
-    "excerpt": "All 20 Indians aboard vessel involved in the latest incident are safe, said an Indian shipping ministry official.",
-    "category": "Casualties",
-    "location": "Oman",
-    "addedAt": "2026-06-11T12:55:40.449662+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/11/india-says-incident-on-vessel-off-oman-confirms-3-dead-in-seperate-strike?traffic_source=rss"
-  },
-  {
-    "id": "b0a588309144",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T11:24",
-    "headline": "Britain’s defence ⁠secretary Healey quits over defence spending",
-    "excerpt": "John Healey&#039;s resignation deepens Starmer&#039;s crisis as defence secretary quits over military spending dispute.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-11T12:55:40.449719+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/11/britains-defence-%e2%81%a0minister-healey-quits-over-defence-spending?traffic_source=rss"
-  },
-  {
-    "id": "cfb9226e32b9",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T11:23",
-    "headline": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
-    "excerpt": "Mohammad Abu Giab was a 15-year-old fisherman from Gaza that was shot dead by Israeli forces off Deir el-Balah.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-11T12:55:40.449745+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss"
-  },
-  {
-    "id": "e05406807d4b",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T11:14",
-    "headline": "117.8 Million fled their homes worldwide: Lebanon’s shelter crisis worsens",
-    "excerpt": "117.8 Million people fled their homes worldwide: Lebanon’s shelter crisis escalates.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-06-11T12:55:40.449779+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/117-8-million-fled-their-homes-worldwide-lebanons-shelter-crisis-worsens?traffic_source=rss"
   }
 ]
