@@ -1,5 +1,126 @@
 [
   {
+    "id": "a5b4632e34e9",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T08:53",
+    "headline": "Two roadside bombs kill at least seven in northwestern Pakistan",
+    "excerpt": "No group has yet claimed responsibility for the attacks.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-06-20T09:32:33.563161+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/two-roadside-bombs-kill-at-least-seven-in-northwestern-pakistan?traffic_source=rss"
+  },
+  {
+    "id": "e03c3580679b",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T08:18",
+    "headline": "Family, including two daughters, killed in Israeli strikes on Gaza",
+    "excerpt": "Israel has repeatedly violated the October ceasefire brokered by the US.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-20T09:32:33.563200+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "dc3dd4a6200b",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T07:42",
+    "headline": "Mona Khalil, Lebanon’s turtle advocate, dies after Israeli attack",
+    "excerpt": "Khalil spent more than two decades protecting the nests of endangered turtle species in southern Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-20T09:32:33.563246+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/mona-khalil-lebanons-turtle-advocate-dies-after-israeli-attack?traffic_source=rss"
+  },
+  {
+    "id": "e2e4033ff012",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T07:02",
+    "headline": "US envoy headed for Switzerland, Israeli strikes on Lebanon threaten talks",
+    "excerpt": "US media are reporting that Witkoff and Kushner are preparing for negotiations with Iran after talks were postponed.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-20T09:32:33.563279+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks?traffic_source=rss"
+  },
+  {
+    "id": "6be996d269e6",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T05:58",
+    "headline": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+    "excerpt": "Iran presses US over Lebanon as Israeli strikes test fragile ceasefire and broader peace efforts.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-20T09:32:33.563308+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "493be8d4b834",
+    "source": "PressTV",
+    "date": "2026-06-20T09:32",
+    "headline": "Pakistan's interior minister travels to Tehran to discuss Iran-US negotiations",
+    "excerpt": "Pakistan’s Interior Minister Syed Mohsin Raza Naqvi is reportedly headed to Tehran to meet with high-ranking Iranian officials and follow up on the progress of negotiations between Iran and the United States.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-20T09:32:35.436599+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770779/Iran-Pakistan-interior-minister-headed-to-Tehran-meet-Iranian-officilas-discuss-progress-negotiations-US-MoU"
+  },
+  {
+    "id": "6eacd94e12a0",
+    "source": "PressTV",
+    "date": "2026-06-20T09:32",
+    "headline": "Tehran condemns US threat to use Iranian assets to compensate regional allies",
+    "excerpt": "Iran condemns recent statements by the US Treasury Secretary regarding the possible use of Iranian assets to compensate for the damage inflicted on some regional allies by the US-Israeli war of aggression against the Islamic Republic.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-06-20T09:32:35.436638+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770778/Iran-condemns-US-threat-asset-compensate-regional-allies"
+  },
+  {
+    "id": "4358af9ff655",
+    "source": "PressTV",
+    "date": "2026-06-20T09:32",
+    "headline": "‘Gaza also has its flood’: IRGC Quds commander warns Israel after Hezbollah retaliation",
+    "excerpt": "Commander of IIRGC Quds Force warns \"Gaza also has its storm\" as Hezbollah ramps up operations against Israeli forces in southern Lebanon.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-20T09:32:35.436675+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770768/%E2%80%98Gaza-ha-storm-IRGC--warns-Israel-Hezbollah-retaliation"
+  },
+  {
+    "id": "1d4cad88a061",
+    "source": "PressTV",
+    "date": "2026-06-20T09:32",
+    "headline": "Hezbollah will respond to any Israeli aggression; Iran committed to backing Lebanon: MP",
+    "excerpt": "A Lebanese lawmaker says Hezbollah will respond to any Israeli aggression, stressing that Iran is committed to supporting Lebanon.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-20T09:32:35.436703+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770782/MP--Hezbollah-will-respond-to-any-Israeli-aggression,-Iran-committed-to-supporting-Lebanon"
+  },
+  {
+    "id": "34a85e09b957",
+    "source": "PressTV",
+    "date": "2026-06-20T09:32",
+    "headline": "Trump: Israel would have been 'crushed' without US backing",
+    "excerpt": "Trump says Israel's position in the region depends heavily on support from the US, noting that Tel Aviv would have been crushed without American backing.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-20T09:32:35.436731+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770770/Israel-security-depend-heavily-US-support-Trump"
+  },
+  {
+    "id": "ba45404554e5",
+    "source": "PressTV",
+    "date": "2026-06-20T09:32",
+    "headline": "Top British diplomat lambasts Ben-Gvir’s ‘abhorrent’ comments on Lebanon",
+    "excerpt": "UK Foreign Secretary Yvette Cooper has lambasted far-right Israeli security minister Itamar Ben-Gvir’s comments regarding Lebanon as ‘horrendous and abhorrent.’",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-20T09:32:35.436762+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770772/Top-British-diplomat-denounces-Ben-Gvir-s-comments-regarding-Lebanon-as--horrendous-and-abhorrent--"
+  },
+  {
     "id": "3df191328756",
     "source": "Al Jazeera",
     "date": "2026-06-20T04:30",
@@ -5377,126 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-11T09:14:49.312673+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/us-releases-video-of-warship-firing-missiles-in-strikes-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "83e9f7ccb205",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T06:19",
-    "headline": "Thailand court sentences two men to death for 2015 Bangkok bombing",
-    "excerpt": "The August 2015 attack at the popular Erawan shrine in Bangkok&#039;s commercial heart killed 20 and wounded over 100 more.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-06-11T09:14:49.312697+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/11/thailand-court-sentences-two-men-to-death-for-2015-bangkok-bombing?traffic_source=rss"
-  },
-  {
-    "id": "ba0f7f829698",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T05:52",
-    "headline": "Iran war day 104: Iran attacks US bases, closes strait after Trump strikes",
-    "excerpt": "Iran closes Strait of Hormuz, launches retaliatory strikes on US bases in Kuwait, Bahrain and Jordan after US attacks.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-11T09:14:49.312731+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes?traffic_source=rss"
-  },
-  {
-    "id": "1d67b4a377b4",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T05:00",
-    "headline": "Funerals held after deadly Pakistani strikes in Afghanistan",
-    "excerpt": "Hundreds gathered in eastern Afghanistan for the funerals of civilians killed in Pakistani airstrikes.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-06-11T09:14:49.312754+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/funerals-held-after-deadly-pakistani-strikes-in-afghanistan?traffic_source=rss"
-  },
-  {
-    "id": "043277174017",
-    "source": "PressTV",
-    "date": "2026-06-11T09:14",
-    "headline": "Iran strikes US fighter jet shelters in Jordan with 12 ballistic missiles",
-    "excerpt": "The IRGC says it struck the US al-Azraq base in Jordan with 12 ballistic missiles in response to US attacks on Iran.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-11T09:14:50.858768+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770229/Iran-US-IRGC-Jordan"
-  },
-  {
-    "id": "3b040ab5cd5e",
-    "source": "PressTV",
-    "date": "2026-06-11T09:14",
-    "headline": "Iran ‘determined’ to defend against US-Israeli strikes, will never submit to pressure: UN envoy",
-    "excerpt": "Iran's UN envoy reiterates the country’s resolve to defend itself against the United States and the Israeli regime amid escalating attacks and threats by the aggressors against the Islamic Republic.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-11T09:14:50.858821+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770235/Iran-determined-defend-itself-against-US-Israel"
-  },
-  {
-    "id": "cf0114bbb64d",
-    "source": "PressTV",
-    "date": "2026-06-11T09:14",
-    "headline": "'Unshakeable and steadfast Iranians' have no fear of ‘corrupt’ Trump: Judiciary chief",
-    "excerpt": "The Iranian Judiciary chief says the unshakeable and steadfast people of Iran have no fear of the US president and his threats.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-11T09:14:50.858858+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770239/Iran-US-Judiciary-Mohseni-Ejei-"
-  },
-  {
-    "id": "bd63ae895296",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T03:49",
-    "headline": "Dahiyeh crowds rally in favour of Iranian support against Israel",
-    "excerpt": "Dahiyeh crowds rally in favour of Iranian support against Israel.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-11T04:51:36.995939+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/dahiyeh-crowds-rally-in-favour-of-iranian-support-against-israel?traffic_source=rss"
-  },
-  {
-    "id": "9fafdeaff7a6",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T03:48",
-    "headline": "Police in Belfast use water cannon as anti-immigrant unrest continues",
-    "excerpt": "Clashes come as family of knife attack victim calls for calm and condemns violence targeting immigrants.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-11T04:51:36.995980+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/11/police-in-belfast-use-water-cannon-as-anti-immigrant-unrest-continues?traffic_source=rss"
-  },
-  {
-    "id": "2477d7205692",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T02:24",
-    "headline": "Which World Cup teams, players and officials were denied US visas, entry?",
-    "excerpt": "Top Somali referee Omar Artan latest victim of stringent US travel policies after Iranian squad&#039;s visas were delayed.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-11T04:51:36.996007+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/11/which-world-cup-teams-players-and-officials-were-denied-us-visas-entry?traffic_source=rss"
-  },
-  {
-    "id": "a643c3bf8e1b",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T01:18",
-    "headline": "Iran announces closure of Strait of Hormuz following US strikes",
-    "excerpt": "Iranian officials say the Strait of Hormuz has been closed in response to US strikes.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-11T04:51:36.996028+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss"
-  },
-  {
-    "id": "168fd4ff0b48",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T00:14",
-    "headline": "Mexico braces for celebrations, protests as World Cup opens amid tensions",
-    "excerpt": "President Sheinbaum promises safe World Cup as host cities ramp up security after cartel violence scare and protests.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-11T04:51:36.996055+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/11/mexico-braced-for-celebrations-protests-as-world-cup-opens-amid-tensions?traffic_source=rss"
   }
 ]
