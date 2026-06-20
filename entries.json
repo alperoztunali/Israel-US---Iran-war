@@ -1,5 +1,71 @@
 [
   {
+    "id": "7a837d1c8208",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T18:07",
+    "headline": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
+    "excerpt": "Al Jazeera said it &#039;strongly condemns the heinous crime of targeting and killing&#039; the Al Jazeera Mubasher correspondent.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-20T18:47:10.763502+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "89106d8cb184",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T17:39",
+    "headline": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
+    "excerpt": "Planned negotiations come amid tensions over Israeli attacks in Lebanon and Iran’s announced closure of Hormuz again.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-20T18:47:10.763554+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss"
+  },
+  {
+    "id": "8ce8f7dd00e5",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T17:05",
+    "headline": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
+    "excerpt": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-20T18:47:10.763591+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes?traffic_source=rss"
+  },
+  {
+    "id": "a348c5becb2e",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T16:39",
+    "headline": "Israeli strike kills children in Gaza despite ceasefire claims",
+    "excerpt": "Israeli strike kills children in Gaza despite ceasefire claims",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-20T18:47:10.763621+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/israeli-strike-kills-children-in-gaza-despite-ceasefire-claims?traffic_source=rss"
+  },
+  {
+    "id": "b3cccace60cc",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T16:38",
+    "headline": "‘You could’ve been the greatest’: Trump faces Israeli anger over Iran deal",
+    "excerpt": "Public outrage in Israel mounts over MoU, with many feeling betrayed by the US in its deal with Iran",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-20T18:47:10.763657+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/you-could-have-been-the-greatest-trump-faces-israeli-anger-over-iran-deal?traffic_source=rss"
+  },
+  {
+    "id": "c5d6145f9464",
+    "source": "PressTV",
+    "date": "2026-06-20T18:47",
+    "headline": "Leader’s advisor warns of regional energy shutdown if Iran-US MoU stays on paper",
+    "excerpt": "A top Iranian official says failure to implement the Iran-US MoU beyond a paper agreement will result in a halt to energy flows across the West Asia region.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-20T18:47:12.271782+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770816/Iran-US-Mokhber-MoU"
+  },
+  {
     "id": "8060e299bb25",
     "source": "Al Jazeera",
     "date": "2026-06-20T15:58",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-11T19:38:54.845921+00:00",
     "link": "https://presstv.ir/Detail/2026/06/11/770267/Iran-US-Kharg--historic"
-  },
-  {
-    "id": "2fcb6ccfa2f9",
-    "source": "PressTV",
-    "date": "2026-06-11T19:38",
-    "headline": "Iran files war crimes case over US strike on water reservoirs",
-    "excerpt": "Iran says a US attack on a drinking water facility in Sirik constitutes a war crime, and that legal prosecution of the attack has begun in both domestic and international judicial authorities.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-11T19:38:54.845959+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770257/Iran-files-war-crime-charges-US-attack-Sirik-drinking-water-facility"
-  },
-  {
-    "id": "1627f2e77bc3",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T15:53",
-    "headline": "Bahrain releases footage of damage caused by intercepted Iranian drones",
-    "excerpt": "Bahrain released video of damage in Manama after debris from intercepted Iranian drones fell in populated areas",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-11T16:57:39.343614+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/bahrain-releases-footage-of-damage-caused-by-intercepted-iranian-drones?traffic_source=rss"
-  },
-  {
-    "id": "931887462d66",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T15:50",
-    "headline": "Lebanon Latest: Ceasefire talks continue under fire",
-    "excerpt": "Israel expands ground operations in southern Lebanon as ceasefire efforts remain stalled.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-11T16:57:39.343663+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/lebanon-latest-ceasefire-talks-continue-under-fire?traffic_source=rss"
-  },
-  {
-    "id": "1a9ba102f041",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T15:05",
-    "headline": "Trailer: Israel’s Darkest Weapon | Al Jazeera Originals",
-    "excerpt": "Investigation exposes decades of alleged Israeli torture and sexual violence against Palestinian detainees",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-11T16:57:39.343704+00:00",
-    "link": "https://www.aljazeera.com/video/2026/6/11/trailer-israels-darkest-weapon-al-jazeera-originals?traffic_source=rss"
-  },
-  {
-    "id": "1183c125e3fb",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T14:46",
-    "headline": "Trump says US will ‘be taking’ Kharg Island in latest Iran war threat",
-    "excerpt": "Trump says US will be hitting Iran &#039;very hard&#039; as two days of strikes threaten to derail ceasefire negotiations.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-11T16:57:39.343739+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/11/trump-says-us-will-be-taking-kharg-island-in-latest-iran-war-threat?traffic_source=rss"
-  },
-  {
-    "id": "3ebbe4202592",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T14:25",
-    "headline": "Israel’s Darkest Weapon | Al Jazeera Originals",
-    "excerpt": "Investigation exposes decades of alleged Israeli torture and sexual violence against Palestinian detainees",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-11T16:57:39.343771+00:00",
-    "link": "https://www.aljazeera.com/video/2026/6/11/israels-darkest-weapon-al-jazeera-originals?traffic_source=rss"
   }
 ]
