@@ -1,5 +1,82 @@
 [
   {
+    "id": "bdd448250f1f",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T11:32",
+    "headline": "German journalist held in Syria back home, family says",
+    "excerpt": "Eva Maria Michelmann&#039;s brother says she had been held in the Syrian city of Raqqa since January.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-06-20T11:43:51.562013+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/german-journalist-held-in-syria-back-home-family-says?traffic_source=rss"
+  },
+  {
+    "id": "f9959b3cdecd",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T11:08",
+    "headline": "What the US-Iran peace deal means for the ‘Team Melli’ World Cup campaign",
+    "excerpt": "Experts hope the &#039;extra animosity&#039; towards Team Melli will subside as the agreement comes into being.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-20T11:43:51.562088+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/20/what-the-us-iran-peace-deal-could-mean-for-irans-world-cup-campaign?traffic_source=rss"
+  },
+  {
+    "id": "928a42eae10e",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T09:45",
+    "headline": "Trump’s Iran deal, Israel’s meltdown",
+    "excerpt": "The precarious memorandum of understanding between the US and Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-20T11:43:51.562131+00:00",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss"
+  },
+  {
+    "id": "83ba7273a110",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T08:18",
+    "headline": "Parents and two daughters killed in Israeli strike in Gaza",
+    "excerpt": "Israel has repeatedly violated the October ceasefire brokered by the US.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-20T11:43:51.562158+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "08329b582032",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T07:02",
+    "headline": "US envoys expected in Switzerland but Israeli attacks threaten talks",
+    "excerpt": "US media are reporting that Witkoff and Kushner are preparing for negotiations with Iran after talks were postponed.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-20T11:43:51.562195+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks?traffic_source=rss"
+  },
+  {
+    "id": "52047a093de9",
+    "source": "PressTV",
+    "date": "2026-06-20T11:43",
+    "headline": "Israeli strikes kill over a dozen in Lebanon's Natabieh",
+    "excerpt": "Fresh Israeli strikes have claimed the lives of at least 16 people, and left several others injured.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-20T11:43:53.774248+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770789/Fresh-Israeli-strikes-leave-over-dozen-martyred-in-Lebanon--Nabatieh-"
+  },
+  {
+    "id": "9727173fd661",
+    "source": "PressTV",
+    "date": "2026-06-20T11:43",
+    "headline": "Israeli strike on Gaza home kills father and two young daughters in their sleep",
+    "excerpt": "Israeli forces target a Gaza City home, killing a father and his two daughters, both children, while they were sleeping.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-20T11:43:53.774282+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770791/Israeli-Strike-on-Gaza-City-Home-Kills-Father-and-Two-Daughters-Both-Children-While-Sleeping"
+  },
+  {
     "id": "a5b4632e34e9",
     "source": "Al Jazeera",
     "date": "2026-06-20T08:53",
@@ -5421,82 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-06-11T12:55:40.449930+00:00",
     "link": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss"
-  },
-  {
-    "id": "4bf1b725505d",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T08:59",
-    "headline": "UK, Australia, Canada launch $4m peace fund for Israel-Palestine conflict",
-    "excerpt": "Fund will provide humanitarian support to Palestinians, crack down on Israeli settlers and support Gaza peace plan.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-11T12:55:40.449959+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/11/uk-australia-canada-launch-4mn-peace-fund-for-israel-palestine-conflict?traffic_source=rss"
-  },
-  {
-    "id": "770da75a6ebe",
-    "source": "PressTV",
-    "date": "2026-06-11T12:55",
-    "headline": "Top cmdr. vows Iran's 'painful, regret-inducing' response to any threat",
-    "excerpt": "The commander of Iran’s highest operational command unit says the Armed Forces are fully ready to give a painful and regret-inducing response to any threat against the country.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-11T12:55:42.193512+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770245/Iran-US-Israel-Abdollahi"
-  },
-  {
-    "id": "1472e20878f9",
-    "source": "PressTV",
-    "date": "2026-06-11T12:55",
-    "headline": "Iran's maritime authority says Hormuz Strait closed following US attacks",
-    "excerpt": "Iran’s PGSA says the Strait of Hormuz is closed until further notice due to tensions caused by US forces in the region.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-11T12:55:42.193551+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770250/Iran-PGSA-Strait-of-Hormuz-Persian-Gulf-US-tension"
-  },
-  {
-    "id": "980bf1582b12",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T08:13",
-    "headline": "‘Thuggery’: Belfast police fire water cannon at anti-immigration protests",
-    "excerpt": "Far-right anti-immigration demonstrations in Northern Ireland turn violent for a second night after stabbing attack.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-11T09:14:49.312568+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/6/11/thuggery-belfast-police-fire-water-cannon-at-anti-immigration-protests?traffic_source=rss"
-  },
-  {
-    "id": "13e8100cbafc",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T07:38",
-    "headline": "UN watchdog demands Iran provide information on nuclear stockpile",
-    "excerpt": "Iran slams US-backed IAEA resolution as &#039;politically motivated&#039; and warns it could complicate ceasefire talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-11T09:14:49.312616+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/11/un-watchdog-demands-iran-provide-information-on-nuclear-stockpile?traffic_source=rss"
-  },
-  {
-    "id": "1b69631df9a4",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T07:35",
-    "headline": "Bodies of Evidence: Sexual violence in Israeli prisons",
-    "excerpt": "For years, Palestinian prisoners reported mistreatment in Israeli custody; post-Oct. 7 claims include sexual violence.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-11T09:14:49.312650+00:00",
-    "link": "https://www.aljazeera.com/video/2026/6/11/bodies-of-evidence-sexual-violence-in-israeli-prisons?traffic_source=rss"
-  },
-  {
-    "id": "7e3b867c85ff",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T07:10",
-    "headline": "US releases video of warship firing missiles in strikes on Iran",
-    "excerpt": "Video released by US Central Command shows what the military says are ‘self-defence’ strikes on Iranian targets.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-11T09:14:49.312673+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/us-releases-video-of-warship-firing-missiles-in-strikes-on-iran?traffic_source=rss"
   }
 ]
