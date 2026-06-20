@@ -1,5 +1,27 @@
 [
   {
+    "id": "c01021e301bd",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T21:54",
+    "headline": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
+    "excerpt": "The US-Iran memorandum of understanding does not rule out future tolls in the strait after an initial 60-day period.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-20T23:14:43.365326+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss"
+  },
+  {
+    "id": "71eb5aaa399a",
+    "source": "PressTV",
+    "date": "2026-06-20T23:14",
+    "headline": "Iran Parl. speaker vows fidelity to martyrs upon reaching Switzerland for Islamabad MoU talks",
+    "excerpt": "Iran's Parliament speaker reaffirms his commitment to those martyred during American-Israeli aggression as he reaches Switzerland for Islamabad MoU talks.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-06-20T23:14:44.943082+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770822/Iran-United-States-talks-Switzerland-Qalibaf"
+  },
+  {
     "id": "b489453939d0",
     "source": "PressTV",
     "date": "2026-06-20T21:48",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-11T19:38:53.312882+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss"
-  },
-  {
-    "id": "74bde7607ed7",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T17:49",
-    "headline": "Drone strikes on central Sudanese city kill up to 23: NGO",
-    "excerpt": "Local rights group Emergency Lawyers blamed the attack on the RSF, which did not immediately claim responsibility.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-11T19:38:53.312910+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/11/drone-strikes-on-central-sudanese-city-kill-up-to-23-ngo?traffic_source=rss"
-  },
-  {
-    "id": "06901824de1f",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T17:44",
-    "headline": "Property deeds no protection for Palestinians as settler violence spreads",
-    "excerpt": "Israeli settlers follow Palestinian Bedouins across the West Bank, chasing them from their land.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-11T19:38:53.312941+00:00",
-    "link": "https://www.aljazeera.com/features/longform/2026/6/11/property-deeds-no-protection-for-palestinians-as-settler-violence-spreads?traffic_source=rss"
   }
 ]
