@@ -1,5 +1,38 @@
 [
   {
+    "id": "3df191328756",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T04:30",
+    "headline": "Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence",
+    "excerpt": "Six months after recognition, Israel and Somaliland say they are moving from symbolism to strategic cooperation.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-20T05:59:35.794272+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/20/israel-fetes-somalilands-leader-as-it-seeks-to-expand-red-sea-influence?traffic_source=rss"
+  },
+  {
+    "id": "31dd937a2c7e",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T04:26",
+    "headline": "UN meeting erupts over sexual violence allegations against Israel",
+    "excerpt": "“You will be quiet.” A UN meeting descended into a heated exchange.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-20T05:59:35.794320+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/un-meeting-erupts-over-sexual-violence-allegations-against-israel?traffic_source=rss"
+  },
+  {
+    "id": "57de52e7cf84",
+    "source": "PressTV",
+    "date": "2026-06-20T05:59",
+    "headline": "Hezbollah foils Israeli infiltration attempt by leading invading forces into 'killing zone'",
+    "excerpt": "Hezbollah leads an Israeli armored and infantry platoon attempting to infiltrate a mountainous area in southern Lebanon into a \"killing zone.\"",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-20T05:59:37.406469+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770764/Lebanon-Hezbollah-Israel-killing-zone"
+  },
+  {
     "id": "f9968a7c13b8",
     "source": "Al Jazeera",
     "date": "2026-06-20T01:05",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-11T04:51:36.996055+00:00",
     "link": "https://www.aljazeera.com/sports/2026/6/11/mexico-braced-for-celebrations-protests-as-world-cup-opens-amid-tensions?traffic_source=rss"
-  },
-  {
-    "id": "48a9631ff5e6",
-    "source": "Al Jazeera",
-    "date": "2026-06-11T00:00",
-    "headline": "Iran war live: Tehran targets Bahrain, Kuwait, Jordan after new US strikes",
-    "excerpt": "Iran remains defiant amid US attacks, orders complete closure of Strait of Hormuz to all vessels.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-06-11T04:51:36.996076+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss"
-  },
-  {
-    "id": "2a1ba5aabf8b",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T23:57",
-    "headline": "Iran attacks Bahrain, Kuwait, Jordan and Hormuz ships after new US strikes",
-    "excerpt": "Tehran claims attacks on bases in Bahrain, Kuwait and Jordan, as US strikes Karaj and ports in Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-06-11T04:51:36.996094+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss"
-  },
-  {
-    "id": "6202dc375e78",
-    "source": "PressTV",
-    "date": "2026-06-11T04:51",
-    "headline": "IRGC strikes 18 US military targets in two missile waves; Fifth Fleet in Bahrain hit by Army drones",
-    "excerpt": "The IRGC and the Iranian Army announce a series of coordinated retaliatory military operations targeting US military installations across the region.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-11T04:51:38.644505+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770224/Iran-IRGC-Army-strikes-United-States-bases-Kuwait-Bahrain"
   }
 ]
