@@ -1,5 +1,38 @@
 [
   {
+    "id": "f9968a7c13b8",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T01:05",
+    "headline": "Lebanese influencer organises World Cup event amid Israel’s attack on Leban",
+    "excerpt": "As Israel’s war on Lebanon rages, hundreds gather in Rmeileh by Sidon Gate to watch the 2026 World Cup.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-20T01:29:52.484196+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/lebanese-influencer-organises-world-cup-event-amid-israels-attack-on-leban?traffic_source=rss"
+  },
+  {
+    "id": "6251d1bbc9d7",
+    "source": "Al Jazeera",
+    "date": "2026-06-20T00:00",
+    "headline": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
+    "excerpt": "Iranian deputy foreign minister says Iran &#039;ready to move forward&#039; on diplomacy with US, but war must end on all fronts.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-20T01:29:52.484242+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "881350f398a0",
+    "source": "PressTV",
+    "date": "2026-06-20T01:29",
+    "headline": "Iran condemns French FM's meddlesome remarks as 'height of hypocrisy, duplicity'",
+    "excerpt": "Iran's Foreign Ministry spokesman strongly condemns meddlesome remarks by the French foreign minister.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-20T01:29:54.003174+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/20/770762/Iran-France-condemnation-nuclear-missile"
+  },
+  {
     "id": "83d90cdfc88d",
     "source": "Al Jazeera",
     "date": "2026-06-19T21:38",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-11T04:51:38.644505+00:00",
     "link": "https://presstv.ir/Detail/2026/06/11/770224/Iran-IRGC-Army-strikes-United-States-bases-Kuwait-Bahrain"
-  },
-  {
-    "id": "a00269f12436",
-    "source": "PressTV",
-    "date": "2026-06-11T04:51",
-    "headline": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
-    "excerpt": "The commander of the IRGC aerospace force has issued a strongly worded warning to the United States, vowing to turn the region into \"hell\" if Washington continues to threaten the security of the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-06-11T04:51:38.644547+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure"
-  },
-  {
-    "id": "7fc798b75fe2",
-    "source": "PressTV",
-    "date": "2026-06-11T04:51",
-    "headline": "Trump's claim of Iran contacting him false and a 'cover to escape war': IRGC",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) has firmly denied the claim made by US President Donald Trump regarding Iran contacting him directly to end the bombing.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-11T04:51:38.644563+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770223/trump-claim-iran-contacting-false-cover-escape-war"
-  },
-  {
-    "id": "3476e2bc777f",
-    "source": "Al Jazeera",
-    "date": "2026-06-10T21:51",
-    "headline": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
-    "excerpt": "US Central Command has described the attacks as a result of &#039;Iran’s unwarranted and continued aggression&#039;.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-10T23:56:54.996136+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss"
   }
 ]
