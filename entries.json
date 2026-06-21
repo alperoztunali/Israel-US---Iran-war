@@ -1,5 +1,126 @@
 [
   {
+    "id": "946c84693ec6",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T14:48",
+    "headline": "Fans flood Atlanta streets before Spain-Saudi Arabia match",
+    "excerpt": "Spain and Saudi Arabia fans filled the streets of Atlanta with chants and celebrations ahead of their World Cup clash.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-06-21T14:56:18.020812+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/fans-flood-atlanta-streets-before-spain-saudi-arabia-match?traffic_source=rss"
+  },
+  {
+    "id": "6e4cf41fdcf0",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T14:27",
+    "headline": "Bolivian authorities say no active blockades after state of emergency decree",
+    "excerpt": "State of emergency permits deployment of military to support police amid five weeks of anti-government protests.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-21T14:56:18.020870+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/21/bolivian-authorities-say-no-active-blockades-after-state-of-emergency-decree?traffic_source=rss"
+  },
+  {
+    "id": "046ff4eef777",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T14:12",
+    "headline": "Gaza bids farewell to slain journalist Ahmed Wishah",
+    "excerpt": "Gaza bids farewell to slain journalist Ahmed Wishah.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-21T14:56:18.020901+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss"
+  },
+  {
+    "id": "e2ba0396d609",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T13:52",
+    "headline": "Police charge man after suspected anti-Muslim attacks in Edinburgh",
+    "excerpt": "UK Prime Minister Keir Starmer says &#039;the suspect appears to be motivated by anti-Muslim hatred&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-21T14:56:18.020938+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/21/police-charge-man-after-suspected-anti-muslim-attacks-in-edinburgh?traffic_source=rss"
+  },
+  {
+    "id": "d62977e41e00",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T13:41",
+    "headline": "Andy Burnham says Israel would be his first overseas visit in old clip",
+    "excerpt": "An old clip has resurfaced showing Andy Burnham saying Israel would be his first overseas visit if elected as UK PM.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-21T14:56:18.020967+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/andy-burnham-says-israel-would-be-his-first-overseas-visit-in-old-clip?traffic_source=rss"
+  },
+  {
+    "id": "b2955de4272a",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T13:11",
+    "headline": "Why Lebanon may make or break the Iran-US deal",
+    "excerpt": "Israeli escalation in Lebanon threatens to undermine agreement between Tehran and Washington, analysts say.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-21T14:56:18.020997+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/21/why-lebanon-may-make-or-break-the-iran-us-deal?traffic_source=rss"
+  },
+  {
+    "id": "3db6b3550887",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T13:00",
+    "headline": "LIVE: Spain vs Saudi Arabia – World Cup 2026",
+    "excerpt": "Live updates as Spain face Saudi Arabia in Group H - follow the build-up, analysis and live text commentary of the game.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-06-21T14:56:18.021033+00:00",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/6/21/spain-vs-saudi-arabia-live-world-cup-2026?traffic_source=rss"
+  },
+  {
+    "id": "d0eb823db890",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T12:16",
+    "headline": "Henry stars as New Zealand wrap up victory against England in second Test",
+    "excerpt": "New Zealand quick Matt Henry demolishes the England batting attack in the second innings to level the series.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-21T14:56:18.021080+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/21/henry-stars-as-new-zealand-wrap-up-victory-against-england-in-second-test?traffic_source=rss"
+  },
+  {
+    "id": "e033d6343ffd",
+    "source": "PressTV",
+    "date": "2026-06-21T14:56",
+    "headline": "Iran and US hold talks in Switzerland with Pakistan and Qatar as mediators",
+    "excerpt": "Four-way talks between Iran, the United States, and mediators Pakistan and Qatar have begun at the Burgenstock resort.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-21T14:56:19.675308+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/21/770853/Iran-US-talks-begin-in-Switzerland-with-Pakistan-and-Qatar-as-mediators-"
+  },
+  {
+    "id": "9cc8d848d674",
+    "source": "PressTV",
+    "date": "2026-06-21T14:56",
+    "headline": "Iran: Switzerland talks focus on Lebanon ceasefire, oil sales, assets freeze",
+    "excerpt": "The Iranian Foreign Ministry spokesman says ceasefire in Lebanon, export of Iran’s oil, and unblocking frozen assets are the key pillars of talks with the US in Switzerland.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-21T14:56:19.675350+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/21/770852/Iran-US-Switzerland-Baghaei"
+  },
+  {
+    "id": "99ba822f66d8",
+    "source": "PressTV",
+    "date": "2026-06-21T14:56",
+    "headline": "Iranian delegation holds key meetings ahead of US talks in Switzerland",
+    "excerpt": "The delegation held talks with diplomats from Pakistan, Qatar and Switzerland ahead of a new round of US-Iranian talks.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-21T14:56:19.675374+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/21/770851/Iranian-delegation-holds-key-meetings-ahead-US-talks-Switzerland"
+  },
+  {
     "id": "90440cd77956",
     "source": "Al Jazeera",
     "date": "2026-06-21T11:03",
@@ -5377,126 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-12T14:16:18.262422+00:00",
     "link": "https://www.aljazeera.com/features/2026/6/12/france-germany-jet-plans-crash-can-europe-ever-end-us-security-reliance?traffic_source=rss"
-  },
-  {
-    "id": "30e7e8495a54",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T11:11",
-    "headline": "Nigeria killed more than 13,000 ‘terrorists’ in past year, president says",
-    "excerpt": "President Tinubu takes victorious tone despite recent mass kidnappings by armed groups across the country.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-12T14:16:18.262452+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/12/nigeria-killed-more-than-13000-terrorists-in-past-year-president-says?traffic_source=rss"
-  },
-  {
-    "id": "0804f129eb63",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T10:43",
-    "headline": "Riots, violence, hate: Anti-immigrant unrest spells danger in Belfast",
-    "excerpt": "Crowds exploiting a knife attack are inflicting terror on Northern Ireland&#039;s ethnic minority communities.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-12T14:16:18.262476+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast?traffic_source=rss"
-  },
-  {
-    "id": "ac5319b49fa8",
-    "source": "PressTV",
-    "date": "2026-06-12T14:16",
-    "headline": "Hezbollah confident Iran will shield Lebanon in any deal with US",
-    "excerpt": "A member of the Loyalty to the Resistance bloc in the Lebanese Parliament says any agreement between Iran and the United States will have direct consequences for Lebanon.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-12T14:16:19.628363+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/12/770305/Hezbollah-Iran-US-agreement-consequences-Lebanon"
-  },
-  {
-    "id": "7a3ac16eda08",
-    "source": "PressTV",
-    "date": "2026-06-12T14:16",
-    "headline": "Iran vows to avenge 104 sailors martyred in US torpedoing of frigate",
-    "excerpt": "A senior Iranian Army commander hails domestically-manufactured drones as “unrivaled,” expressing his satisfaction with the high production rate of the unmanned aerial vehicles.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-12T14:16:19.628385+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/12/770306/Iran-Sayyari-drones-production"
-  },
-  {
-    "id": "f3ed40c22841",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T09:55",
-    "headline": "Iraq’s paramilitary groups say they will disarm. Will that ever happen?",
-    "excerpt": "Powerful Shia leader Muqtada al-Sadr among those who say their groups will integrate into the state.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-06-12T11:04:25.502932+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/12/iraq-analysis-militias-disarm?traffic_source=rss"
-  },
-  {
-    "id": "8dc2fd04a2dd",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T09:51",
-    "headline": "Family mourn Indian sailor killed in US strike on oil tanker",
-    "excerpt": "The wife and family of an Indian sailor killed in a US strike on a tanker off Oman this week have gathered in mourning.",
-    "category": "Casualties",
-    "location": "Oman",
-    "addedAt": "2026-06-12T11:04:25.503000+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/family-mourn-indian-sailor-killed-in-us-strike-on-oil-tanker?traffic_source=rss"
-  },
-  {
-    "id": "48b09261e977",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T09:40",
-    "headline": "‘Torture isn’t new to Palestinians’: How Israel learned from colonialism",
-    "excerpt": "A chain of sexual violence that Britain built, France refined and Israel inherited is being used against Palestinians.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-12T11:04:25.503043+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/12/torture-isnt-new-to-palestinians-how-israel-learned-from-colonialism?traffic_source=rss"
-  },
-  {
-    "id": "fc1159191f61",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T09:35",
-    "headline": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
-    "excerpt": "Israeli zone extends into Lebanon&#039;s maritime territory, raising fears that it could become a long-term &#039;resource grab&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-12T11:04:25.503080+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss"
-  },
-  {
-    "id": "1b6000375fc9",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T09:34",
-    "headline": "Video: What Iran’s football fans think about the World Cup",
-    "excerpt": "What’s it like supporting your team in a World Cup hosted by a country that’s at war with yours?",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-12T11:04:25.503113+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-what-irans-football-fans-think-about-the-world-cup?traffic_source=rss"
-  },
-  {
-    "id": "dd15143faa50",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T07:55",
-    "headline": "Three killed as Ukraine and Russia exchange cross-border attacks",
-    "excerpt": "Officials say two people were killed in Russia&#039;s Bryansk, while a woman was killed in Ukraine&#039;s Sumy.",
-    "category": "Casualties",
-    "location": "Oman",
-    "addedAt": "2026-06-12T11:04:25.503144+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/12/three-killed-as-ukraine-and-russia-exchange-cross-border-attacks?traffic_source=rss"
-  },
-  {
-    "id": "a822f3edd0cd",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T07:49",
-    "headline": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
-    "excerpt": "The United States military has struck three vessels in the Strait of Hormuz this week, killing three Indian sailors.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-06-12T11:04:25.503165+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz?traffic_source=rss"
   }
 ]
