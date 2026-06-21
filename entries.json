@@ -1,5 +1,49 @@
 [
   {
+    "id": "a3142c303883",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T05:35",
+    "headline": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
+    "excerpt": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-21T06:32:47.546132+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/al-jazeera-cameraman-ahmed-wishah-killed-in-targeted-israeli-strike?traffic_source=rss"
+  },
+  {
+    "id": "80453924fb64",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T00:00",
+    "headline": "Iran war live: US, Tehran set to hold high-level talks in Switzerland",
+    "excerpt": "Talks come as Iran says it is closing the Strait of Hormuz over Israel&#039;s deadly attacks on Lebanon.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-06-21T06:32:47.546167+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "03947a569a16",
+    "source": "PressTV",
+    "date": "2026-06-21T06:32",
+    "headline": "Israeli soldier slain, 13 others injured in southern Lebanon",
+    "excerpt": "An Israeli soldier has been killed, and 13 others sustained injuries in an overnight operation in southern Lebanon.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-21T06:32:52.370664+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/21/770833/Israeli-soldier-slain,-13-others-injured-in-overnight-operation-in-southern-Lebanon"
+  },
+  {
+    "id": "62fcc124c45a",
+    "source": "PressTV",
+    "date": "2026-06-21T06:32",
+    "headline": "Power remains the only reliable guarantee against enemies: IRGC Navy official",
+    "excerpt": "Senior IRGC Navy official stresses that national power remains the only effective guarantee against the Islamic Republic's adversaries.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-21T06:32:52.370713+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/21/770827/Iran-IRGC-power-enemies-Israel-United-States"
+  },
+  {
     "id": "fdad79fe3888",
     "source": "Al Jazeera",
     "date": "2026-06-21T00:00",
@@ -5454,49 +5498,5 @@
     "location": "Lebanon",
     "addedAt": "2026-06-11T21:51:04.208420+00:00",
     "link": "https://www.aljazeera.com/features/2026/6/11/what-is-the-amal-movement-lebanons-other-shia-party?traffic_source=rss"
-  },
-  {
-    "id": "f062af9d70b9",
-    "source": "PressTV",
-    "date": "2026-06-11T21:51",
-    "headline": "IRGC: Iran stronger than ever, fingers on the trigger for decisive response to any enemy aggression",
-    "excerpt": "The Islamic Revolution Guard Corps (IRGC) has declared that Iran now stands in a stronger, more prepared, and more deterrent position than ever before.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-06-11T21:51:06.045197+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770279/IRGC--Iran-stronger-than-ever,-fingers-on-the-trigger-for-decisive-response-to-any-enemy-aggression"
-  },
-  {
-    "id": "b352387584f1",
-    "source": "PressTV",
-    "date": "2026-06-11T21:51",
-    "headline": "Iran’s top commander warns US over ‘futile cycle’ of lies, contradiction",
-    "excerpt": "Iran's General Abdollahi says US leaders are trapped in a \"false and futile cycle\" of \"repeated lies,\" adding that Washington can never compensate for its defeats through propaganda and media warfare.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-11T21:51:06.045248+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770274/Iran-warns-far-stronger-response-US-attacks-again"
-  },
-  {
-    "id": "d113bbfe048e",
-    "source": "PressTV",
-    "date": "2026-06-11T21:51",
-    "headline": "Iran vows 'history-making' response to Trump’s threat of seizing Kharg",
-    "excerpt": "Iran warns if the US president takes any \"uncalculated action\" on Iranian soil — \"not just on Kharg Island but anywhere in the country\" — he will receive a response \"that will be recorded in history.\"",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-11T21:51:06.045292+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770267/Iran-US-Kharg--historic"
-  },
-  {
-    "id": "90ec100dcc5a",
-    "source": "PressTV",
-    "date": "2026-06-11T21:51",
-    "headline": "Qalibaf warns US: 'You will see a different Iran' if aggression continues",
-    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf has warned that the United States against any new round of aggression.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-06-11T21:51:06.045323+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/11/770273/Iran-US-Israel-Qalibaf-Trump"
   }
 ]
