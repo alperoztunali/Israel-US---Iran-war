@@ -1,5 +1,71 @@
 [
   {
+    "id": "90440cd77956",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T11:03",
+    "headline": "US-Iran delegations arrive as talks begin in Switzerland",
+    "excerpt": "US-Iran delegations arrive as talks begin in Switzerland.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-21T12:25:25.944940+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-delegations-arrive-as-talks-begin-in-switzerland?traffic_source=rss"
+  },
+  {
+    "id": "485dcb59fd14",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T10:30",
+    "headline": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
+    "excerpt": "Crimea&#039;s Moscow-installed leader says four people killed in drone attack on the Russian-occupied Black Sea peninsula.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-21T12:25:25.944988+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss"
+  },
+  {
+    "id": "fb8c6cefe249",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T10:30",
+    "headline": "‘Kind, principled’: Colleagues remember Gaza journalist killed by Israel",
+    "excerpt": "Ahmed Wishah is the 12th Al Jazeera journalist killed by Israel in Gaza since October 2023.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-21T12:25:25.945020+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss"
+  },
+  {
+    "id": "ed01d958900a",
+    "source": "PressTV",
+    "date": "2026-06-21T12:25",
+    "headline": "Pezeshkian: War benefits no one, yet Iran not afraid of prolonged conflict",
+    "excerpt": "President Pezeshkian says Tehran has no fear of war, yet it we’ll know that it is not in anyone’s interest.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-21T12:25:27.514288+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/21/770848/Pezeshkian-"
+  },
+  {
+    "id": "095313158405",
+    "source": "PressTV",
+    "date": "2026-06-21T12:25",
+    "headline": "Iran says US talks to focus on implementation of deal’s first clause",
+    "excerpt": "Iran says the planned negotiations with the US will focus on the implementation of the first clause of the recently signed Memorandum of Understanding between the two countries.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-21T12:25:27.514327+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/21/770846/Iran-US-talks-deal-first-clause"
+  },
+  {
+    "id": "79d0b35672ed",
+    "source": "PressTV",
+    "date": "2026-06-21T12:25",
+    "headline": "Russian retaliatory strikes target key energy sites across Ukraine",
+    "excerpt": "Retaliatory attacks are launched on Ukraine’s key energy sites in Kiev, Sumy and Chernigov regions, and the Donetsk People’s Republic.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-21T12:25:27.514371+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/21/770849/Russian-forces-launch-retaliatory-strikes-on-Ukraine-key-energy-sites-in-Kiev-Sumy-Chernigov-DPR"
+  },
+  {
     "id": "47ef3a8c7557",
     "source": "Al Jazeera",
     "date": "2026-06-21T10:11",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-12T11:04:25.503165+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "709873519097",
-    "source": "PressTV",
-    "date": "2026-06-12T11:04",
-    "headline": "Iran firm on red lines, says proposed deal not finalized amid US backtracking",
-    "excerpt": "Tehran remains steadfast on its principled red lines as authorities review a proposed understanding, firmly rejecting speculation that a final deal has been reached despite Washington backtracking on recent military threats.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-12T11:04:27.382052+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/12/770298/Iran-firm-on-red-lines-as-proposed-deal-not-finalized-amid-US-backtracking"
-  },
-  {
-    "id": "16e012f06442",
-    "source": "PressTV",
-    "date": "2026-06-12T11:04",
-    "headline": "Handala hacks California water systems after US strike on Iran’s reservoirs",
-    "excerpt": "A pro-Resistant hacktivist group announced that it has breached California water facilities in direct retaliation for a US airstrike that destroyed drinking water reservoirs in southern Iran.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-12T11:04:27.382088+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/12/770290/Handala-California-water-warning-US-strike-Iran-reservoirs"
-  },
-  {
-    "id": "851af5e6930b",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T04:45",
-    "headline": "Iran weighs proposed deal but remains wary of US intentions",
-    "excerpt": "Iran says a proposed agreement is under review by its highest leadership and could be closer than ever before.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-12T06:53:13.304263+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-weighs-proposed-deal-but-remains-wary-of-us-intentions?traffic_source=rss"
-  },
-  {
-    "id": "2fe778676bd7",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T03:44",
-    "headline": "South Korea’s ex-President Yoon gets 30 years over drone operation",
-    "excerpt": "Seoul court sentences former leader for sending military drones into North Korea.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-12T06:53:13.304308+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/12/south-koreas-ex-president-yoon-gets-30-years-over-drone-operation?traffic_source=rss"
-  },
-  {
-    "id": "42ea19763826",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T03:38",
-    "headline": "Amnesty and Oxfam warn of displacement in the occupied West Bank",
-    "excerpt": "Amnesty International and Oxfam released reports this week documenting a rise in state-backed Israeli settler violence.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-12T06:53:13.304347+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/amnesty-and-oxfam-warn-of-displacement-in-the-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "5c15ef61b60b",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T01:44",
-    "headline": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal",
-    "excerpt": "Wall Street and Asian markets rally on hopes for an end to the US-Israel war on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-12T06:53:13.304376+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss"
   }
 ]
