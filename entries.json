@@ -1,5 +1,104 @@
 [
   {
+    "id": "ffbe6286eb41",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T04:56",
+    "headline": "‘Encouraging progress’ made as first round US-Iran talks end",
+    "excerpt": "The first round of US-Iran talks has ended with both sides agreeing on a roadmap towards a final deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-22T05:42:25.558305+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/encouraging-progress-made-as-first-round-us-iran-talks-end?traffic_source=rss"
+  },
+  {
+    "id": "be80dd9adda2",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T03:57",
+    "headline": "Qatar LNG factory explosion injures 54, leaves 18 missing, gov’t says",
+    "excerpt": "Blast at Ras Laffan Industrial City caused by &#039;technical malfunction&#039;, Ministry of Interior says.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-06-22T05:42:25.558359+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/22/qatar-lng-factory-explosion-injures-54-leaves-18-missing-govt-says?traffic_source=rss"
+  },
+  {
+    "id": "9d7dd508abbc",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T03:18",
+    "headline": "Crimea halts fuel sales after Ukraine strikes cause shortages",
+    "excerpt": "Gas sales in Russian-controlled Crimea have halted after Ukrainian drone strikes on the peninsula’s supply route.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-22T05:42:25.558437+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/crimea-halts-fuel-sales-after-ukraine-strikes-cause-shortages?traffic_source=rss"
+  },
+  {
+    "id": "1c5737812ebb",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T02:03",
+    "headline": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
+    "excerpt": "Ship tracking data shows sharp fall in transits as US and Iranian officials hold talks to save fragile peace framework.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-22T05:42:25.558469+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss"
+  },
+  {
+    "id": "8d75163823e4",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T01:19",
+    "headline": "US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks",
+    "excerpt": "Negotiators from the US and Iran wrapped a day of talks in Switzerland.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-22T05:42:25.558503+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss"
+  },
+  {
+    "id": "6708a91d6dd5",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T00:14",
+    "headline": "Iranians gather in Tehran to support team in critical draw against Belgium",
+    "excerpt": "Iranian fans in Tehran watched their team secure a 0-0 draw against Belgium at the World Cup in Los Angeles.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-22T05:42:25.558541+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss"
+  },
+  {
+    "id": "c80ed5bf7a51",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T00:00",
+    "headline": "Iran war live: US-Tehran agree roadmap to reach final deal in 60 days",
+    "excerpt": "US, Iran establish committee to oversee talks and a &#039;de-confliction cell&#039; to end attacks in Lebanon, mediators say.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-22T05:42:25.558570+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss"
+  },
+  {
+    "id": "2e7d8bc74646",
+    "source": "PressTV",
+    "date": "2026-06-22T05:42",
+    "headline": "Progress made toward ending war, Lebanon ceasefire remains key test: Iran FM",
+    "excerpt": "Tasnim reported that Iran has made clear that no progress on other issues will be possible unless the first clause of the MoU, concerning the end of the war on all fronts, including Lebanon, is fully implemented.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-22T05:42:27.240987+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/22/770877/Iran-FM-spox-says-Switzerland-meeting-with-US-end-as-technical-talks-continue-"
+  },
+  {
+    "id": "6768ac7e5655",
+    "source": "PressTV",
+    "date": "2026-06-22T05:42",
+    "headline": "US military attacks another vessel in Caribbean, killing two",
+    "excerpt": "The US military says it has attacked a vessel in the Caribbean Sea, killing two individuals on board.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-06-22T05:42:27.241023+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/22/770878/US-military-strikes-vessel-in-Caribbean,-killing-two-alleged-%E2%80%98narco-terrorists%E2%80%99"
+  },
+  {
     "id": "75561172ca81",
     "source": "Al Jazeera",
     "date": "2026-06-22T00:00",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-13T08:32:33.948909+00:00",
     "link": "https://presstv.ir/Detail/2026/06/13/770342/Military-commander--World-hear-echo-Iran-s-victory"
-  },
-  {
-    "id": "a902d72fa7ec",
-    "source": "PressTV",
-    "date": "2026-06-13T08:32",
-    "headline": "US denies visa to Palestine football chief for World Cup attendance",
-    "excerpt": "Palestinian Football Association President Jibril Rajoub says he has been denied a visa to enter the United States for the FIFA World Cup, highlighting concerns over restrictions affecting Palestinian officials amid ongoing tensions in West Asia.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-13T08:32:33.948971+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/13/770347/Palestine-football-association-president-says-US-denied-visa-attending--FIFA-World-Cup"
-  },
-  {
-    "id": "4ad15a81c0d0",
-    "source": "PressTV",
-    "date": "2026-06-13T08:32",
-    "headline": "North Korea condemns US plan to sell advanced missile to South Korea",
-    "excerpt": "North Korea has condemned Washington’s approval of a major sale of advanced missiles to South Korea.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-13T08:32:33.948998+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/13/770351/Pyongyang-condemns-US-plan-to-sell-missile-to-South-Korea,-warns-of-rising-tensions-on-Peninsula"
-  },
-  {
-    "id": "223b2e460a8c",
-    "source": "PressTV",
-    "date": "2026-06-13T08:32",
-    "headline": "Hezbollah pounds Israeli army’s technical devices in southern Lebanon",
-    "excerpt": "Hezbollah resistance fighters have targeted and destroyed the technical devices of Israeli occupation forces in southern Lebanon with a kamikaze drone.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-06-13T08:32:33.949017+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/13/770348/Hezbollah-drone-strike-targets-Israeli-army-s-technical-devices-in-southern-Lebanon"
-  },
-  {
-    "id": "0734cc4776d4",
-    "source": "PressTV",
-    "date": "2026-06-13T08:32",
-    "headline": "China 'strongly dissatisfied' after US blacklists major companies over alleged military ties",
-    "excerpt": "China has expressed \"strong dissatisfaction\" with a US move to blacklist several major Chinese companies over alleged military ties, warning of retaliation if the firms are not treated fairly.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-13T08:32:33.949063+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/13/770346/Beijing-strongly-dissatisfied-with-US-move-against-China-tech-firms"
-  },
-  {
-    "id": "5858efd04c06",
-    "source": "Al Jazeera",
-    "date": "2026-06-13T04:22",
-    "headline": "UK court jails Palestine Action activists on ‘terrorism’ charges",
-    "excerpt": "UK court has sentenced four pro-Palestine activists to jail for a raid on an Israeli arms factory near Bristol in 2024.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-13T05:05:43.603991+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/aje-onl-nf_uk-court-jails-palestine-action-activists-130626?traffic_source=rss"
-  },
-  {
-    "id": "31a9b1164e05",
-    "source": "Al Jazeera",
-    "date": "2026-06-13T00:00",
-    "headline": "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
-    "excerpt": "Four activists from Palestine Action jailed by a British court over protest raid on Israeli arms firm in UK.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-13T05:05:43.604035+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss"
-  },
-  {
-    "id": "478c9bb6f45d",
-    "source": "PressTV",
-    "date": "2026-06-13T05:05",
-    "headline": "'You reap what you sow': Iran's parl. speaker warns US against breaking potential commitments",
-    "excerpt": "Iran's top legislator warns the US against reneging on the commitments that Washington could undertake as part of a potential MoU or agreement with the Islamic Republic.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-13T05:05:45.985194+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/13/770336/Iran-warning-United-States-Qalibaf"
-  },
-  {
-    "id": "5f7c925228d4",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T20:58",
-    "headline": "UAE to unlock frozen Iranian funds amid US ceasefire push: Sources",
-    "excerpt": "Reuters reports UAE agreed to unlock billions for Iran, but Abu Dhabi swiftly issued a categorical denial.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-12T22:58:38.600438+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss"
-  },
-  {
-    "id": "489756680fff",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T19:27",
-    "headline": "UK court jails Palestine Action activists on ‘terrorism’ charges",
-    "excerpt": "Quartet convicted on criminal damage and GBH charges, but judge insists raid on Israel arms company was &#039;terrorist act&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-12T22:58:38.600497+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/12/uk-court-jails-palestinian-action-activists-on-terrorism-charges?traffic_source=rss"
   }
 ]
