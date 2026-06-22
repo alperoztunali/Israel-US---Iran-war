@@ -1,5 +1,38 @@
 [
   {
+    "id": "75561172ca81",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T00:00",
+    "headline": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
+    "excerpt": "Trump threatens to hit Iran &#039;very hard&#039; amid talks, prompting Ghalibaf to warn the US to take care with its rhetoric.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-22T00:16:48.142047+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss"
+  },
+  {
+    "id": "a9d22705a4ae",
+    "source": "Al Jazeera",
+    "date": "2026-06-21T23:19",
+    "headline": "Football fans in Gaza gather to watch Spain-Saudi Arabia match",
+    "excerpt": "Palestinians in Gaza gathered to watch Spain&#039;s World Cup victory over Saudi Arabia.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-22T00:16:48.142093+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/football-fans-in-gaza-gather-to-watch-spain-saudi-arabia-match?traffic_source=rss"
+  },
+  {
+    "id": "196b1138f4b3",
+    "source": "PressTV",
+    "date": "2026-06-22T00:16",
+    "headline": "Iran def. minister warns of 'heavy, regretful' response to any violation of US MoU",
+    "excerpt": "General Ebnolreza emphasized that despite the signing of the MoU, Iran’s armed forces have not lowered their guard.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-22T00:16:49.756834+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/21/770875/Iran-warns-of-heavy-regretful-response-to-any-violation-of-US-MoU"
+  },
+  {
     "id": "231a5623837c",
     "source": "Al Jazeera",
     "date": "2026-06-21T21:45",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-12T22:58:38.600497+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/12/uk-court-jails-palestinian-action-activists-on-terrorism-charges?traffic_source=rss"
-  },
-  {
-    "id": "ed167f24292b",
-    "source": "PressTV",
-    "date": "2026-06-12T22:58",
-    "headline": "FM outlines contours of proposed MoU, says diplomacy’s role is to consolidate battlefield gains",
-    "excerpt": "Foreign Minister Abbas Araghchi outlines the structure of a potential memorandum of understanding between Iran and the United States.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-12T22:58:40.220781+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/12/770335/Iran-United-States-MoU-Araghchi"
-  },
-  {
-    "id": "b94a83db104a",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T20:58",
-    "headline": "UAE to unlock frozen Iranian funds amid US ceasefire push",
-    "excerpt": "Sources tell Reuters news agency UAE releasing funds to ease tensions with Iran, allow both sides to avoid &#039;red lines&#039;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-12T21:20:35.903203+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss"
-  },
-  {
-    "id": "0dae783d20fc",
-    "source": "Al Jazeera",
-    "date": "2026-06-12T20:44",
-    "headline": "Will there be a deal to end the Iran war this time?",
-    "excerpt": "After cancelling planned strikes on Iran, Trump has said an agreement to end the war will be finalised soon.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-12T21:20:35.903246+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss"
   }
 ]
