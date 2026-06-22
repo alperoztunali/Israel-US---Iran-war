@@ -1,5 +1,71 @@
 [
   {
+    "id": "22ac1f156a67",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T21:21",
+    "headline": "Czech public media staff strike, citing government threat to independence",
+    "excerpt": "Plan to put funding under direct control has sparked widespread opposition, with critics fearing political interference.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-22T22:08:23.640140+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/22/czech-public-media-staff-strike-citing-government-threat-to-independence?traffic_source=rss"
+  },
+  {
+    "id": "e585296699b1",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T20:47",
+    "headline": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank",
+    "excerpt": "Israel is pushing humanitarian groups and rights defenders to scale down operations in occupied Palestinian territories.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-22T22:08:23.640193+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "bbe678a41fe3",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T20:26",
+    "headline": "15 killed after a fire ignited in a coaching centre in Lucknow, India",
+    "excerpt": "15 killed after a fire ignited in a coaching centre in Lucknow, India.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-22T22:08:23.640223+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/15-killed-after-a-fire-ignited-in-a-coaching-centre-in-lucknow-india?traffic_source=rss"
+  },
+  {
+    "id": "eaee7f9e642b",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T20:04",
+    "headline": "Qatar PM on preventing US-Iran talks from escalation",
+    "excerpt": "Qatar&#039;s PM said that safeguards have been put in place to prevent US-Iran negotiations from regional escalation.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-22T22:08:23.640251+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-on-preventing-us-iran-talks-from-escalation?traffic_source=rss"
+  },
+  {
+    "id": "2a923a81fb4a",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T19:20",
+    "headline": "Canadian police officer, suspect among three dead in Montreal shooting",
+    "excerpt": "Few details are available after law enforcement said the suspected attacker was &#039;neutralised&#039;.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-22T22:08:23.640276+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/22/canadian-police-officer-suspect-among-3-dead-in-montreal-shooting?traffic_source=rss"
+  },
+  {
+    "id": "bdf1485e1a7e",
+    "source": "PressTV",
+    "date": "2026-06-22T22:08",
+    "headline": "Speaker Qalibaf: Strait of Hormuz will never return to pre-war status",
+    "excerpt": "Mohammad Bagher Qalibaf has stated that the Strait of Hormuz will never return to its pre-war conditions and will be administered by Iran, in accordance with international law.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-22T22:08:25.271000+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/22/770931/Qalibaf--Strait-of-Hormuz-will-never-return-to-pre-war-status,-Iran-will-administer-it"
+  },
+  {
     "id": "a19a190216ab",
     "source": "Al Jazeera",
     "date": "2026-06-22T19:20",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-14T04:45:32.325859+00:00",
     "link": "https://www.aljazeera.com/features/2026/6/14/after-battling-armed-attacks-mauritania-attempts-to-revive-tourism?traffic_source=rss"
-  },
-  {
-    "id": "5662f06105ec",
-    "source": "Al Jazeera",
-    "date": "2026-06-14T00:56",
-    "headline": "Why is the price of gold trending down?",
-    "excerpt": "Gold has been under pressure since the US and Israel launched a war against Iran in late February.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-14T04:45:32.325887+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss"
-  },
-  {
-    "id": "de06e633e8ce",
-    "source": "Al Jazeera",
-    "date": "2026-06-14T00:00",
-    "headline": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
-    "excerpt": "US and Iran appear close to signing the first stage of a peace deal, the two sides differ on when it will be signed.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-14T04:45:32.325913+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss"
-  },
-  {
-    "id": "799da3e8dc7d",
-    "source": "PressTV",
-    "date": "2026-06-14T04:45",
-    "headline": "'Netanyahu failed': Lapid says potential Iran-US deal falls short of Israel's war objectives",
-    "excerpt": "Israeli opposition politician Yair Lapid says a potential agreement between Iran and the United States would fail to achieve the Israeli regime's stated war objectives.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-14T04:45:34.024215+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770400/Israel-Iran-war-United-States-deal-Netanyahu-Lapid"
-  },
-  {
-    "id": "9e28371c4829",
-    "source": "PressTV",
-    "date": "2026-06-13T23:48",
-    "headline": "Senior diplomat: Sacrifices of martyrs forged a stronger, more determined Iran",
-    "excerpt": "Senior Iranian diplomat says the sacrifices of the country's martyrs and the leadership of the nation's martyred Leader made the Islamic Republic \"stronger and more determined.\"",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-06-13T23:48:49.037338+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/13/770399/Iran-martyrs-sacrifices-Leader-Ayatollah-Khamenei-12-day-war"
-  },
-  {
-    "id": "89cc59fcc0d8",
-    "source": "Al Jazeera",
-    "date": "2026-06-13T21:29",
-    "headline": "Qatar net late against Switzerland to secure historic first World Cup point",
-    "excerpt": "Asian Cup holders Qatar level in injury time to draw 1-1 with Switzerland in World Cup 2026 opening game.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-06-13T22:38:21.342636+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss"
-  },
-  {
-    "id": "8206cb67ea2d",
-    "source": "Al Jazeera",
-    "date": "2026-06-13T17:31",
-    "headline": "Qatar 1-1 Switzerland: World Cup 2026 – as it happened",
-    "excerpt": "All our updates, with post-match reaction, following the text commentary stream from our live coverage.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-06-13T22:38:21.342702+00:00",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/6/13/live-qatar-vs-switzerland-world-cup-2026?traffic_source=rss"
   }
 ]
