@@ -1,5 +1,49 @@
 [
   {
+    "id": "2afe888e69e7",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T23:01",
+    "headline": "Gaza surfers seek solace from war in the sea",
+    "excerpt": "Gaza’s surf community was nearly wiped out by Israel’s genocidal war. But some surfers continue to chase the waves.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-22T23:44:06.144063+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/gaza-surfers-seek-solace-from-war-in-the-sea?traffic_source=rss"
+  },
+  {
+    "id": "8aadea94bff6",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T23:00",
+    "headline": "Video shows deadly shooting in Montreal, Canada",
+    "excerpt": "A police officer, a civilian and the suspected gunman were killed after a shooting in Montreal.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-22T23:44:06.144110+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/video-shows-deadly-shooting-in-montreal-canada?traffic_source=rss"
+  },
+  {
+    "id": "eca57fcc56c7",
+    "source": "Al Jazeera",
+    "date": "2026-06-22T22:03",
+    "headline": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
+    "excerpt": "An activist in Japan was surrounded by police after he approached the Israeli Embassy in Tokyo on Monday and shouted.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-22T23:44:06.144151+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss"
+  },
+  {
+    "id": "6378d6e7c542",
+    "source": "PressTV",
+    "date": "2026-06-22T23:44",
+    "headline": "Pakistan defense minister: Iran-US agreement marks demise of Netanyahu",
+    "excerpt": "Pakistan’s Defense Minister Khawaja Muhammad Asif has stated that the emerging agreement between Iran and the US represents a major blow to the Zionist regime and could spell the political demise of Benjamin Netanyahu.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-22T23:44:07.460950+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/22/770930/Pakistan-defense-minister--Iran-US-agreement-marks-political-demise-of-Netanyahu"
+  },
+  {
     "id": "22ac1f156a67",
     "source": "Al Jazeera",
     "date": "2026-06-22T21:21",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-14T08:42:57.458093+00:00",
     "link": "https://presstv.ir/Detail/2026/06/14/770403/Hezbollah-fighters-successfully-ambush-Israeli-occupation-forces-in-southern-Lebanon"
-  },
-  {
-    "id": "1d29910ea2b7",
-    "source": "PressTV",
-    "date": "2026-06-14T08:42",
-    "headline": "US warplane crashes southeast of Mount Rainier, sparking wildfire",
-    "excerpt": "A US warplane crashes near a lake southeast of Mount Rainier, sparking a brush fire in the region.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-06-14T08:42:57.458119+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770405/Military-Aircraft-Crashes-Near-Lake-Southeast-of-Mount-Rainier-Sparking-Wildfire"
-  },
-  {
-    "id": "d3b385e73ad4",
-    "source": "Al Jazeera",
-    "date": "2026-06-14T03:28",
-    "headline": "‘Lion of Mesopotamia’: How Aymen Hussein beat tragedy to reach World Cup",
-    "excerpt": "Iraq’s ‘most expensive footballer’, striker who scored Iraq’s qualifying goal against Bolivia, retraces his journey.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-06-14T04:45:32.325781+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/14/lion-of-mesopotamia-how-aymen-hussein-beat-tragedy-to-reach-world-cup?traffic_source=rss"
-  },
-  {
-    "id": "f4d159ef5340",
-    "source": "Al Jazeera",
-    "date": "2026-06-14T01:11",
-    "headline": "Two killed in Israeli strike on Gaza",
-    "excerpt": "An Israeli strike on southern Gaza has killed two people and injured another, according to Palestinian authorities.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-14T04:45:32.325818+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss"
-  },
-  {
-    "id": "354c95465f5e",
-    "source": "Al Jazeera",
-    "date": "2026-06-14T01:08",
-    "headline": "After battling armed attacks, Mauritania attempts to revive tourism",
-    "excerpt": "Armed groups linked to al-Qaeda began attacks in the mid-2000s, but several security measures have halted them.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-14T04:45:32.325859+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/14/after-battling-armed-attacks-mauritania-attempts-to-revive-tourism?traffic_source=rss"
   }
 ]
