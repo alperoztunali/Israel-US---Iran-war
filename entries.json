@@ -1,5 +1,82 @@
 [
   {
+    "id": "ead7d206ebbf",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T17:35",
+    "headline": "Israeli forces set olive trees on fire in occupied West Bank",
+    "excerpt": "Footage shows the aftermath of Israeli forces setting olive trees on fire in the small Palestinian village of Rummanah.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-23T18:03:20.592942+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-forces-set-olive-trees-on-fire-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "f739326d34dc",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T16:29",
+    "headline": "Missile strike kills three in Ukraine as Russia feels war’s economic strain",
+    "excerpt": "Kyiv has previously accused Moscow of using cluster munitions, which, when dropped, scatter into smaller munitions.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-23T18:03:20.592989+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss"
+  },
+  {
+    "id": "dbedf734314d",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T16:22",
+    "headline": "Israeli police clash with anti-draft ultra-Orthodox protesters",
+    "excerpt": "Israeli police clashed with Ultra-Orthodox (Haredi) Jews on Monday as they protested against mandatory conscription.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-23T18:03:20.593026+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-police-clash-with-anti-draft-ultra-orthodox-protesters?traffic_source=rss"
+  },
+  {
+    "id": "b93cd63d0a28",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T15:27",
+    "headline": "South African police investigate murder amid rise in anti-migrant attacks",
+    "excerpt": "The rise in anti-migrant attacks in South Africa has already left several people dead, with hundreds trying to leave.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-23T18:03:20.593056+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/23/south-african-police-investigate-murder-amid-rise-in-anti-migrant-attacks?traffic_source=rss"
+  },
+  {
+    "id": "63440ac46353",
+    "source": "PressTV",
+    "date": "2026-06-23T18:03",
+    "headline": "Iran, Pakistan discuss strategic cooperation as Pezeshkian meets Munir and Zardari in Islamabad",
+    "excerpt": "President Masoud Pezeshkian and Army Chief Field Marshal Asim Munir discuss regional developments, bilateral relations and ways to expand strategic cooperation between Tehran and Islamabad.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-23T18:03:22.238787+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/23/770966/Pezeshkian-meets-Pakistan%E2%80%99s-Army-Chief-Field-Marshal-Islamabad-visit"
+  },
+  {
+    "id": "a7986e88805e",
+    "source": "PressTV",
+    "date": "2026-06-23T18:03",
+    "headline": "Lebanon launches 5th round of talks with Israel as ceasefire violations persist",
+    "excerpt": "Lebanon and the Israeli regime began a new round of talks in Washington on Tuesday.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-23T18:03:22.238825+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/23/770972/Lebanon-launches-fifth-round-of-talks-with-Israel-as-ceasefire-violations-persist"
+  },
+  {
+    "id": "a920c7b21c76",
+    "source": "PressTV",
+    "date": "2026-06-23T18:03",
+    "headline": "Putin says West preparing for war with Russia, warns Moscow ready to respond",
+    "excerpt": "Putin says Western countries are openly preparing for a potential conflict with Russia and increasing military spending.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-23T18:03:22.238860+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/23/770971/Russia-Putin-warns-West-preparing-war-Moscow-ready-respond-Ukraine-NATO"
+  },
+  {
     "id": "cabc1440c46f",
     "source": "Al Jazeera",
     "date": "2026-06-23T13:59",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-15T00:18:11.193421+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss"
-  },
-  {
-    "id": "e826d395149d",
-    "source": "PressTV",
-    "date": "2026-06-15T00:18",
-    "headline": "Iran’s top military command says people's 'will imposed on enemies' as MoU reached to end war",
-    "excerpt": "The central command center of the Iranian armed forces says the will of the Iranian nation has been successfully imposed on the enemies.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-15T00:18:12.906661+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770455/iran-top-military-command-will-iranian-people-imposed-enemies"
-  },
-  {
-    "id": "c57d7906db5b",
-    "source": "PressTV",
-    "date": "2026-06-15T00:18",
-    "headline": "'Resistance will not be cornered', Qalibaf warns Israel after Beirut attack",
-    "excerpt": "Iran's parliament speaker warns Israel that Iranian diplomacy and Lebanese fighters will guarantee Lebanon's sovereignty and dismantle Israeli aggression.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-15T00:18:12.906692+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770448/Resistance-will-not-be-cornered-Ghalibaf-warns-Israel"
-  },
-  {
-    "id": "cfd5b6e84c42",
-    "source": "PressTV",
-    "date": "2026-06-15T00:18",
-    "headline": "Iran's top security body says MoU to end war on all fronts, lift US naval blockade",
-    "excerpt": "Talks toward a final agreement will be postponed until after the other side has implemented its commitments under the memorandum, the secretariat said.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-15T00:18:12.906716+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770457/Iran-SNSC-confirms-US-MoU-finalized-says-lifting-of-naval-blockade-effective-immediately"
-  },
-  {
-    "id": "6e8705e67665",
-    "source": "Al Jazeera",
-    "date": "2026-06-14T22:43",
-    "headline": "US-Iran ceasefire deal announced, Trump says Strait of Hormuz reopening",
-    "excerpt": "Trump has announced a ceasefire deal with Iran has been agreed, and that the Strait of Hormuz will reopen for shipping.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-14T22:53:10.939905+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss"
-  },
-  {
-    "id": "619a752397e1",
-    "source": "PressTV",
-    "date": "2026-06-14T22:53",
-    "headline": "Iran deputy FM says MoU with US finalized, to be signed in Geneva on Friday",
-    "excerpt": "Iran’s Deputy Foreign Minister for Legal and International Affairs has announced that the memorandum of understanding (MoU) between Iran and the United States has been finalized.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-06-14T22:53:12.792545+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770453/Iran-deputy-FM-says-MoU-with-US-finalized-to-be-signed-on-Friday"
-  },
-  {
-    "id": "5ee8de4f7c6d",
-    "source": "PressTV",
-    "date": "2026-06-14T22:53",
-    "headline": "Pakistan PM claims 'peace deal' reached between Iran and US following 'intensive talks'",
-    "excerpt": "Pakistani prime minister Shehbaz Sharif in a social media post early on Monday claimed that a 'peace deal' has been reached between Iran and the US following 'intensive talks'",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-14T22:53:12.792575+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770452/pakistan-pm-claims-peace-deal-reached-between-iran-us-intensive-talks"
-  },
-  {
-    "id": "5b29eb28cd90",
-    "source": "PressTV",
-    "date": "2026-06-14T22:53",
-    "headline": "'Resistance will not be cornered', Speaker Qalibaf warns Israel after Beirut attack",
-    "excerpt": "Iran's parliament speaker warns Israel that Iranian diplomacy and Lebanese fighters will guarantee Lebanon's sovereignty and dismantle Israeli aggression.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-14T22:53:12.792588+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770448/Resistance-will-not-be-cornered-Ghalibaf-warns-Israel"
   }
 ]
