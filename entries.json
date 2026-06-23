@@ -1,5 +1,71 @@
 [
   {
+    "id": "bcd7dfc2dc99",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T21:19",
+    "headline": "Trump allies reassure Israelis amid tensions on US-Iran deal",
+    "excerpt": "Trump allies reassure Israelis amid tensions on US-Iran deal",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-23T21:58:21.637711+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss"
+  },
+  {
+    "id": "41b13decae1e",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T21:00",
+    "headline": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
+    "excerpt": "Following the start of the US-Israel war on Iran on February 28, Tehran had effectively closed off the vital waterway.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-23T21:58:21.637757+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "81164d4a865e",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T20:12",
+    "headline": "Alibaba sues US military over labelling it a ‘Chinese military company’",
+    "excerpt": "E-commerce giant says that claims of affiliation with Chinese military have &#039;no basis in fact or law&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-23T21:58:21.637806+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss"
+  },
+  {
+    "id": "c658403782fb",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T20:11",
+    "headline": "Trump disputes Iran’s rejection of nuclear inspectors",
+    "excerpt": "President Trump pushed back on Iran’s foreign ministry claim that there are no plans to allow IAEA nuclear inspectors.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-23T21:58:21.637845+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-disputes-irans-rejection-of-nuclear-inspectors?traffic_source=rss"
+  },
+  {
+    "id": "23f2103cce8e",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T19:50",
+    "headline": "US Senate votes to pass Iran war powers resolution, in blow to Trump",
+    "excerpt": "The resolution is the first to pass both the Senate and the House, though it is likely to face a presidential veto.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-23T21:58:21.637885+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss"
+  },
+  {
+    "id": "bde0da648d20",
+    "source": "PressTV",
+    "date": "2026-06-23T21:58",
+    "headline": "US Senate approves resolution challenging Trump's authority to wage war on Iran",
+    "excerpt": "The US Senate approves a war powers resolution aimed at preventing Trump from waging military aggression against Iran without congressional authorization.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-23T21:58:23.048459+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/23/770986/United-States-war-Iran-Trump"
+  },
+  {
     "id": "3fc265452b29",
     "source": "Al Jazeera",
     "date": "2026-06-23T20:06",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-15T11:35:36.919293+00:00",
     "link": "https://presstv.ir/Detail/2026/06/15/770468/Palestine-Israel-settlers-West-Bank"
-  },
-  {
-    "id": "5da2b0dd9e63",
-    "source": "PressTV",
-    "date": "2026-06-15T11:35",
-    "headline": "Photographers from Gaza win Golden Pen of Freedom Award",
-    "excerpt": "Photographers from the Gaza Strip have won the Golden Pen of Freedom Award for documenting Israeli atrocities in the coastal territory.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-15T11:35:36.919317+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/15/770469/Photographers-from-Gaza-"
-  },
-  {
-    "id": "2ae3e534e344",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T03:05",
-    "headline": "Uruguay squad lands in US after flight delay ahead of World Cup opener",
-    "excerpt": "Uruguay arrived in the US less than 24 hours before the kickoff time for their game against Saudi Arabia.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-06-15T05:39:50.984552+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/15/uruguay-squad-lands-in-us-after-flight-delay-ahead-of-world-cup-opener?traffic_source=rss"
-  },
-  {
-    "id": "53e9fc6ba318",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T02:26",
-    "headline": "Lebanese remain sceptical despite US-Iran ceasefire announcement",
-    "excerpt": "The US-Iran ceasefire announcement has raised hopes in Lebanon.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T05:39:50.984594+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/lebanese-remain-sceptical-despite-us-iran-ceasefire-announcement?traffic_source=rss"
-  },
-  {
-    "id": "a9a884131f80",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T01:40",
-    "headline": "US-Iran to sign a ‘peace deal’ on Friday: What we know so far",
-    "excerpt": "Trump says a US-Iran deal will be signed this Friday, as Tehran confirms plans to end hostilities.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-15T05:39:50.984629+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far?traffic_source=rss"
-  },
-  {
-    "id": "1f5cd1e0ad7a",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T01:13",
-    "headline": "Trump allies cheer Iran ‘peace deal’ announcement as Democrats seek clarity",
-    "excerpt": "US and Iran say memorandum of understanding to be signed on Friday, but no official terms yet released.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T05:39:50.984663+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/trump-allies-cheer-iran-deal-announcement-as-democrats-call-for-clarity?traffic_source=rss"
-  },
-  {
-    "id": "71e44c3f699d",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T00:42",
-    "headline": "Iran’s Ghalenoei, Taremi decry US treatment before first World Cup game",
-    "excerpt": "Striker Mehdi Taremi says US travel policies are dampening the usual joy the football tournament ignites.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-15T05:39:50.984699+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/15/irans-ghalenoei-taremi-decry-us-treatment-before-first-world-cup-game?traffic_source=rss"
   }
 ]
