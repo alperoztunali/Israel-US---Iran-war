@@ -1,5 +1,38 @@
 [
   {
+    "id": "748e5125f820",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T22:50",
+    "headline": "Israel’s deliberate targeting of Palestinian children",
+    "excerpt": "New UN report documents the toll of Israel&#039;s war on Gaza and its occupation of the West Bank on Palestinian children.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-23T23:16:16.054505+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss"
+  },
+  {
+    "id": "a7b4c6dbba7d",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T21:38",
+    "headline": "UN: Israel committed genocide by targeting Gaza children",
+    "excerpt": "Israel deliberately targeted Palestinian children in Gaza, resulting in genocide.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-23T23:16:16.054548+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss"
+  },
+  {
+    "id": "f98844e03a9a",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T19:50",
+    "headline": "US Senate votes to pass Iran war powers resolution in blow to Trump",
+    "excerpt": "The resolution is the first to pass both the Senate and the House, though it is likely to face a presidential veto.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-23T23:16:16.054597+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss"
+  },
+  {
     "id": "bcd7dfc2dc99",
     "source": "Al Jazeera",
     "date": "2026-06-23T21:19",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-15T11:35:36.919214+00:00",
     "link": "https://presstv.ir/Detail/2026/06/15/770474/Israel-acts-against-Iran-US-deal,-continues-to-strike-southern-Lebanon"
-  },
-  {
-    "id": "3107bf1c511c",
-    "source": "PressTV",
-    "date": "2026-06-15T11:35",
-    "headline": "Lebanese speaker thanks Iran for including halt to Israeli attacks as part of deal with US",
-    "excerpt": "Lebanon's parliament speaker thanks Iran for insisting on cessation of aggression against the Arab country as part of a potential MoU between the Islamic Republic and the US.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T11:35:36.919239+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/15/770479/Lebanon-Iran-ceasefire-Israel-United-States"
-  },
-  {
-    "id": "69976f16b781",
-    "source": "PressTV",
-    "date": "2026-06-15T11:35",
-    "headline": "Netanyahu must be removed by force if he tries to sabotage election: Ex-Israeli PM",
-    "excerpt": "Former Israeli prime minister Barak says Netanyahu must be removed by force, as he might try to sabotage the upcoming election.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-15T11:35:36.919264+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/15/770471/Ex-Israeli-premier-Barak-says-Netanyahu-must-be-removed-by-force,-warns-of-election-sabotage"
-  },
-  {
-    "id": "ee03d94844ea",
-    "source": "PressTV",
-    "date": "2026-06-15T11:35",
-    "headline": "Israeli settlers burn Palestinian cars, target mosque in fresh West Bank attacks",
-    "excerpt": "Extremist Jewish settlers torch multiple Palestinian vehicles and damage property in the town of Deir Dibwan, east of Ramallah, in fresh attacks.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-15T11:35:36.919293+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/15/770468/Palestine-Israel-settlers-West-Bank"
   }
 ]
