@@ -1,5 +1,93 @@
 [
   {
+    "id": "3fc265452b29",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T20:06",
+    "headline": "Rubio begins Gulf visit in the UAE to advance US-Iran peace deal",
+    "excerpt": "Arriving in the UAE at the start of a Gulf tour, Rubio is seeking to advance the US-Iran deal with regional partners.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-23T20:23:35.865881+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/rubio-begins-gulf-visit-in-the-uae-to-advance-us-iran-peace-deal?traffic_source=rss"
+  },
+  {
+    "id": "5e1beb62ab54",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T19:57",
+    "headline": "Iran’s president arrives in Pakistan for peace talks",
+    "excerpt": "Iran’s president arrives in Pakistan for peace talks",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-23T20:23:35.865930+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/irans-president-arrives-in-pakistan-for-peace-talks?traffic_source=rss"
+  },
+  {
+    "id": "ac35c5a8c5ec",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T19:50",
+    "headline": "US Senate votes to halt Iran war, bucking Trump",
+    "excerpt": "This is a breaking news story.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-23T20:23:35.865961+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss"
+  },
+  {
+    "id": "9bf2e6631e30",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T19:45",
+    "headline": "US says Iran can stay for two days before Egypt World Cup game",
+    "excerpt": "Iran&#039;s team will still need to leave the US shortly after their third group-stage match against Egypt on Friday.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-23T20:23:35.865994+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/23/us-says-iran-can-stay-for-two-days-before-egypt-world-cup-game?traffic_source=rss"
+  },
+  {
+    "id": "e3056cb154c2",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T19:04",
+    "headline": "Displaced Lebanese return south under fragile ceasefire deal",
+    "excerpt": "Displaced Lebanese are heading back south after a US-Iran backed ceasefire halted months of Israeli bombardment.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-06-23T20:23:35.866015+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/displaced-lebanese-return-south-under-fragile-ceasefire-deal?traffic_source=rss"
+  },
+  {
+    "id": "90574e37d89c",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T18:56",
+    "headline": "Video: Israeli troops seen patrolling Syrian countryside",
+    "excerpt": "Israeli troops and two Merkava tanks have been spotted in the Syrian countryside near Quneitra city.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-23T20:23:35.866046+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/video-israeli-troops-seen-patrolling-syrian-countryside?traffic_source=rss"
+  },
+  {
+    "id": "8efcab57a7fc",
+    "source": "PressTV",
+    "date": "2026-06-23T20:23",
+    "headline": "Iran's defense capabilities 'non-negotiable,' President Pezeshkian says",
+    "excerpt": "Iranian President Masoud Pezeshkian said that Tehran would never negotiate over its defense and deterrence capabilities.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-23T20:23:37.458033+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/23/770980/Pezeshkian-defense-capabilities-non-negotiable"
+  },
+  {
+    "id": "afb457660789",
+    "source": "PressTV",
+    "date": "2026-06-23T20:23",
+    "headline": "Hezbollah says Israeli project 'broken,' urges full withdrawal from Lebanon",
+    "excerpt": "Hezbollah Secretary-General Sheikh Naim Qassem has declared that the resistance has reached a stage of \"breaking the Israeli project.\"",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-23T20:23:37.458077+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/23/770978/Hezbollah-chief-declares-Israeli-project-broken-demands-full-withdrawal-from-Lebanon00"
+  },
+  {
     "id": "ead7d206ebbf",
     "source": "Al Jazeera",
     "date": "2026-06-23T17:35",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-15T05:39:50.984699+00:00",
     "link": "https://www.aljazeera.com/sports/2026/6/15/irans-ghalenoei-taremi-decry-us-treatment-before-first-world-cup-game?traffic_source=rss"
-  },
-  {
-    "id": "af421edc7cc5",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T00:37",
-    "headline": "Stock markets soar, oil falls as US, Iran confirm deal to end war",
-    "excerpt": "Asian stock markets surge as Washington and Tehran announce agreement to end hostilities and reopen Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-15T05:39:50.984774+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war?traffic_source=rss"
-  },
-  {
-    "id": "2fc79bc5b5b0",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T00:15",
-    "headline": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
-    "excerpt": "US diplomat Alan Eyre says despite the US-Iran ceasefire announcement, there is no deal until it has been formalised.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T05:39:50.984810+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss"
-  },
-  {
-    "id": "151e3f9445ee",
-    "source": "Al Jazeera",
-    "date": "2026-06-14T22:43",
-    "headline": "US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening",
-    "excerpt": "Trump announces that a ceasefire deal with Iran has been agreed, and that the Strait of Hormuz will reopen for shipping.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-15T05:39:50.984851+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss"
-  },
-  {
-    "id": "bf9a4a68da61",
-    "source": "PressTV",
-    "date": "2026-06-15T05:39",
-    "headline": "Iran deputy FM says MoU with US to be signed in Geneva on Friday",
-    "excerpt": "Iran’s Deputy Foreign Minister for Legal and International Affairs has announced that the memorandum of understanding (MoU) between Iran and the United States has been finalized.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-06-15T05:39:52.543124+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770453/Iran-deputy-FM-says-MoU-with-US-finalized-to-be-signed-on-Friday"
-  },
-  {
-    "id": "64d1a9d01ccb",
-    "source": "PressTV",
-    "date": "2026-06-15T05:39",
-    "headline": "World leaders welcome MoU that ends war imposed by US on Iran",
-    "excerpt": "UN Secretary‑General Antonio Guterres welcomed the agreement as a “critical step” toward resolving the conflict.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T05:39:52.543161+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/15/770458/World-leaders-welcome-MoU-that-ends-war-imposed-by-US-on-Iran"
-  },
-  {
-    "id": "22adc2c341e2",
-    "source": "PressTV",
-    "date": "2026-06-15T05:39",
-    "headline": "Pakistan PM says deal reached between Iran, US following 'intensive talks'",
-    "excerpt": "Pakistani prime minister Shehbaz Sharif in a social media post early on Monday claimed that a 'peace deal' has been reached between Iran and the US following 'intensive talks'",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T05:39:52.543188+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770452/pakistan-pm-claims-peace-deal-reached-between-iran-us-intensive-talks"
-  },
-  {
-    "id": "115f10351182",
-    "source": "Al Jazeera",
-    "date": "2026-06-14T22:54",
-    "headline": "BREAKING: US, Iran announce ceasefire agreement",
-    "excerpt": "US President Donald Trump has announced a ceasefire agreement with Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T00:18:11.193374+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss"
-  },
-  {
-    "id": "988f5fb21573",
-    "source": "Al Jazeera",
-    "date": "2026-06-14T22:43",
-    "headline": "US-Iran ‘peace deal’ announced, Trump says Strait of Hormuz reopening",
-    "excerpt": "Trump announces that a ceasefire deal with Iran has been agreed, and that the Strait of Hormuz will reopen for shipping.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-15T00:18:11.193421+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss"
   }
 ]
