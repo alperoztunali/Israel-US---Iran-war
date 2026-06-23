@@ -1,5 +1,49 @@
 [
   {
+    "id": "7168600c9455",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T01:23",
+    "headline": "Israeli strike kills Palestinian girl on her way to sit exam",
+    "excerpt": "17-year-old Raghad Ashour was walking to school to take an exam when she was killed in an Israeli strike.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-23T01:50:00.287356+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss"
+  },
+  {
+    "id": "4b077b9d2f8b",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T00:59",
+    "headline": "Mbappe leads France to win over Iraq in lightning-delayed World Cup game",
+    "excerpt": "Kylian Mbappe scores France&#039;s first two goals, with Ousmane Dembele adding the other in a 3-0 win against Iraq.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-06-23T01:50:00.287403+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/23/mbappe-leads-france-to-win-over-iraq-in-lightening-delayed-world-cup-tie?traffic_source=rss"
+  },
+  {
+    "id": "38fd1b9d35ab",
+    "source": "Al Jazeera",
+    "date": "2026-06-23T00:00",
+    "headline": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
+    "excerpt": "US says the decisions follow Iran&#039;s commitment to allow international nuclear inspections.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-23T01:50:00.287435+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss"
+  },
+  {
+    "id": "8f24bed21ecd",
+    "source": "PressTV",
+    "date": "2026-06-23T01:50",
+    "headline": "Iran’s deputy FM announces successful conclusion of technical talks",
+    "excerpt": "Iran’s deputy foreign minister and chief has announced the successful conclusion of four-country technical talks and the finalization of arrangements for the next phase of high-level negotiations.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-23T01:50:01.980964+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/23/770934/Iran%E2%80%99s-deputy-foreign-minister-announces-successful-conclusion-of-technical-talks"
+  },
+  {
     "id": "2afe888e69e7",
     "source": "Al Jazeera",
     "date": "2026-06-22T23:01",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-14T08:42:55.748704+00:00",
     "link": "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass?traffic_source=rss"
-  },
-  {
-    "id": "3e2f39c5ccd9",
-    "source": "Al Jazeera",
-    "date": "2026-06-14T06:09",
-    "headline": "Costs, careers and choice: Why Indians are having fewer children",
-    "excerpt": "India’s Total Fertility Rate (TFR) has dropped to 1.9 children per woman - lower than the benchmark level of 2.1.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-06-14T08:42:55.748745+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/14/costs-careers-and-choice-why-indians-are-having-fewer-children?traffic_source=rss"
-  },
-  {
-    "id": "6d1f49a88f6b",
-    "source": "Al Jazeera",
-    "date": "2026-06-14T05:14",
-    "headline": "Qatar earns first ever World Cup point",
-    "excerpt": "Qatar has earned its first-ever FIFA World Cup point in dramatic fashion against Switzerland.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-06-14T08:42:55.748773+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_qatar-earns-first-ever-world-cup-point-140626?traffic_source=rss"
-  },
-  {
-    "id": "403f440cf2dd",
-    "source": "PressTV",
-    "date": "2026-06-14T08:42",
-    "headline": "US use of AI in Iran school massacre did not breach Anthropic’s ‘red lines’: CEO",
-    "excerpt": "The AI-assisted attack on an Iranian elementary school during the US-Israeli aggression did not breach Anthropic’s “red lines,” the company’s CEO says.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-14T08:42:57.458067+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770407/Anthropic-CEO--AI-aided-school-strike-during-US-Israeli-aggression-on-Iran-breached-no-%E2%80%98red-lines%E2%80%99"
-  },
-  {
-    "id": "2cf370f908bd",
-    "source": "PressTV",
-    "date": "2026-06-14T08:42",
-    "headline": "Hezbollah fighters successfully ambush Israeli forces in southern Lebanon",
-    "excerpt": "Hezbollah fighters successfully ambushed Israeli occupation forces in southern Lebanon, inflicting casualties upon them.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-06-14T08:42:57.458093+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/14/770403/Hezbollah-fighters-successfully-ambush-Israeli-occupation-forces-in-southern-Lebanon"
   }
 ]
