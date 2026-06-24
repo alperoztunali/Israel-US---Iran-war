@@ -1,5 +1,27 @@
 [
   {
+    "id": "1920695e6ca3",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T23:25",
+    "headline": "Trump White House requests $87.6bn in spending, including for Iran war",
+    "excerpt": "The request is likely to face an uphill battle in Congress, which voted a day earlier to rein in Trump&#039;s war powers.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-24T23:44:29.907501+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "763babd35924",
+    "source": "PressTV",
+    "date": "2026-06-24T23:44",
+    "headline": "US army minimizing injuries from Iran retaliation: Wounded forces, families",
+    "excerpt": "Wounded American forces and their families say the US army is minimizing the severity of injuries sustained during Iran's retaliation.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-06-24T23:44:31.402831+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/24/771045/United-States-injured-soldiers-Iran-war"
+  },
+  {
     "id": "81a55e32d0d4",
     "source": "Al Jazeera",
     "date": "2026-06-24T21:47",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-15T22:34:26.056618+00:00",
     "link": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss"
-  },
-  {
-    "id": "f3f667fde3df",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T20:55",
-    "headline": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
-    "excerpt": "7-year-old mourns father and brother killed in Israeli strike on Gaza.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-15T22:34:26.056638+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "4e10a7c22b1f",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T20:24",
-    "headline": "Trump touts Iran deal and Ukraine ambition as he arrives at G7",
-    "excerpt": "Amid G7 tensions, Trump says Iran agreement is a step towards peace in the Middle East and beyond.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T22:34:26.056659+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/trump-touts-iran-deal-and-ukraine-ambition-as-he-arrives-at-g7?traffic_source=rss"
   }
 ]
