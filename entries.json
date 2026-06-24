@@ -1,5 +1,49 @@
 [
   {
+    "id": "6b3956bb572e",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T16:23",
+    "headline": "Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks",
+    "excerpt": "Israeli defence minister says troops won’t withdraw from southern Lebanon as attacks slow but do not stop.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-24T16:56:11.202948+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-kill-2-in-southern-lebanon-despite-ongoing-washington-talks?traffic_source=rss"
+  },
+  {
+    "id": "0e510dc7ebb2",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T15:21",
+    "headline": "Israeli attacks on Gaza and occupied West Bank kill two, including child",
+    "excerpt": "Health officials at Nasser Medical Complex tell Al Jazeera a 12-year-old child was killed in al-Mawasi, Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-24T16:56:11.202989+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-on-gaza-and-occupied-west-bank-kill-two-including-child?traffic_source=rss"
+  },
+  {
+    "id": "838d55d01d67",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T14:27",
+    "headline": "Rubio says Iran cannot charge tolls in Hormuz: What we know",
+    "excerpt": "Tehran says the strait &#039;will never return&#039; to its prewar conditions and claims it can charge fees for services.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-06-24T16:56:11.203026+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/24/rubio-says-iran-cannot-charge-tolls-in-hormuz-what-we-know?traffic_source=rss"
+  },
+  {
+    "id": "56d3721bbdae",
+    "source": "PressTV",
+    "date": "2026-06-24T16:56",
+    "headline": "Qalibaf urges new regional Islamic order after Iran humiliates US, Israel",
+    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf has called on West Asian and Islamic nations to establish a new regional order based on their own capacities, resources and peoples.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-06-24T16:56:12.905439+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/24/771026/Iran-Qalibaf-urges-Islamic-nations-to-build-new-regional-order-free-from-Zionist-influence"
+  },
+  {
     "id": "bbef883f72f8",
     "source": "Al Jazeera",
     "date": "2026-06-24T13:40",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-15T16:33:07.153699+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/oxford-unions-first-palestinian-president-faces-down-smear-campaign?traffic_source=rss"
-  },
-  {
-    "id": "61bbb4b11ced",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T14:34",
-    "headline": "World welcomes US-Iran ‘peace deal’ criticised by Israel",
-    "excerpt": "Governments across the world have welcomed the tentative deal between the US and Iran to end the war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T16:33:07.153733+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/world-welcomes-us-iran-peace-deal-criticised-by-israel?traffic_source=rss"
-  },
-  {
-    "id": "b73e735446ae",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T14:28",
-    "headline": "Trump says ships ‘starting to move’ through Strait of Hormuz",
-    "excerpt": "US military advisory says naval blockade of Iran ports to remain until US-Iran initial deal signing on Friday.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-15T16:33:07.153760+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/trump-says-ships-starting-to-move-through-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "c813f3fee101",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T13:56",
-    "headline": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
-    "excerpt": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-15T16:33:07.153789+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss"
-  },
-  {
-    "id": "30b44f8e2ea2",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T13:34",
-    "headline": "Israeli forces kill three-year-old Palestinian boy on family farm in Gaza",
-    "excerpt": "Rayan Abu al-Ajeen was being carried in Gaza when both were shot by Israeli forces on Sunday, family says.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-15T16:33:07.153829+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/israeli-forces-kill-three-year-old-palestinian-boy-on-family-farm-in-gaza?traffic_source=rss"
   }
 ]
