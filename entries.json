@@ -1,5 +1,104 @@
 [
   {
+    "id": "541f7a7dbda5",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T18:20",
+    "headline": "Our life stops’: West Bank childhood shattered by Israeli military raids",
+    "excerpt": "A new UN report documents killings, detentions and lasting psychological harm to Palestinian children.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-24T18:54:46.728623+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/24/our-life-stops-west-bank-childhood-shattered-by-israeli-military-raids?traffic_source=rss"
+  },
+  {
+    "id": "92740bae8f22",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T18:03",
+    "headline": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+    "excerpt": "An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-06-24T18:54:46.728657+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "098007b9722c",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T18:00",
+    "headline": "What to know about the Israeli-developed chip in Apple’s iPhone 17e",
+    "excerpt": "There’s more to the iPhone 17e than meets the eye. Like an advanced silicon chip that is said to be developed in Israel.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-06-24T18:54:46.728695+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/what-to-know-about-the-israeli-developed-chip-in-apples-iphone-17e?traffic_source=rss"
+  },
+  {
+    "id": "8a34980a44c8",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T17:33",
+    "headline": "Iran’s president awarded honorary doctorate in Pakistan",
+    "excerpt": "Iran’s President Masoud Pezeshkian was awarded an honorary medical fellowship in cardiac surgery.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-24T18:54:46.728724+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/irans-president-awarded-honorary-doctorate-in-pakistan?traffic_source=rss"
+  },
+  {
+    "id": "253c342b3a55",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T17:19",
+    "headline": "The children Gaza lost",
+    "excerpt": "What does a new UN report documenting the killing and suffering of Palestinian children in Gaza reveal?",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-24T18:54:46.728750+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/6/24/the-children-gaza-lost?traffic_source=rss"
+  },
+  {
+    "id": "424e4888fb56",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T17:14",
+    "headline": "Amid Israeli incursions, this mother demands the return of her son",
+    "excerpt": "Many Lebanese civilians have gone missing amid continuous Israeli incursions in the south.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-24T18:54:46.728782+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/amid-israeli-incursions-this-mother-demands-the-return-of-her-son?traffic_source=rss"
+  },
+  {
+    "id": "81a6872c9a00",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T16:50",
+    "headline": "Has the worst of the Hormuz crisis passed?",
+    "excerpt": "Ships are moving again through the Strait of Hormuz, with oil prices falling. But relief for consumers may take longer.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-06-24T18:54:46.728808+00:00",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/24/has-the-worst-of-the-hormuz-crisis-passed?traffic_source=rss"
+  },
+  {
+    "id": "44f26a41dcf0",
+    "source": "PressTV",
+    "date": "2026-06-24T18:54",
+    "headline": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
+    "excerpt": "Foreign Minister Abbas Araghchi and his Saudi counterpart Prince Faisal bin Farhan held a phone call on Wednesday to discuss regional developments.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-24T18:54:48.607793+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace"
+  },
+  {
+    "id": "55dc7aee1dec",
+    "source": "PressTV",
+    "date": "2026-06-24T18:54",
+    "headline": "Iran, India rekindle energy partnership amid US sanctions waiver",
+    "excerpt": "Iran seeks increased energy cooperation with India during the 60-day US sanctions waiver period.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-24T18:54:48.607824+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/24/771028/Iran-energy-ties-expansion-India-sanctions-waiver-Paknejad"
+  },
+  {
     "id": "6b3956bb572e",
     "source": "Al Jazeera",
     "date": "2026-06-24T16:23",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-15T20:16:40.983722+00:00",
     "link": "https://www.aljazeera.com/sports/2026/6/15/iran-vs-new-zealand-world-cup-team-news-start-lineups-and-where-to-watch?traffic_source=rss"
-  },
-  {
-    "id": "d07fc463cd8e",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T16:59",
-    "headline": "Trump says Iran deal ‘all signed’",
-    "excerpt": "US President Donald Trump has said the agreement with Iran is &#039;all signed&#039;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T20:16:40.983753+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-says-iran-deal-all?traffic_source=rss"
-  },
-  {
-    "id": "0a4e274e8cb2",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T16:59",
-    "headline": "UK court convicts two over PM-targeting plot run by mysterious Russian",
-    "excerpt": "Unverified reports say attacks were part of a campaign of sabotage and misinformation run by the Russian state.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-15T20:16:40.983787+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/uk-court-convicts-two-over-pm-targeting-plot-run-by-mysterious-russian?traffic_source=rss"
-  },
-  {
-    "id": "044882afdf33",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T16:45",
-    "headline": "Drone warfare kills over 1,000 in Sudan in 2026 as strikes multiply: UN",
-    "excerpt": "Reports show drone use expanding, with more than 1,000 civilians killed in first five months of 2026.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-15T20:16:40.983809+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/drone-warfare-kills-over-1000-in-sudan-in-2026-as-strikes-multiply-un?traffic_source=rss"
-  },
-  {
-    "id": "aea7ea88c0f6",
-    "source": "PressTV",
-    "date": "2026-06-15T20:16",
-    "headline": "Pezeshkian: Israeli anger over MoU with US ‘clear sign’ of Iran’s victory",
-    "excerpt": "Iran’s president says Israel’s anger at a memorandum of understanding between the Islamic Republic and the United States clearly signals the success of the Iranian nation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-15T20:16:43.394826+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/15/770509/Iran-US-Pezeshkian-MoU"
-  },
-  {
-    "id": "bcec9a6fff7d",
-    "source": "PressTV",
-    "date": "2026-06-15T20:16",
-    "headline": "Iran says talks with US to start right after signing of MoU in Switzerland",
-    "excerpt": "Iran’s FM says a first round of negotiations with the US will be held right after the signing of the MoU in Switzerland.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T20:16:43.394862+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/15/770517/Iran-FM-Araghchi-US-talks-MoU-signing"
-  },
-  {
-    "id": "fb4e8c3b05ad",
-    "source": "PressTV",
-    "date": "2026-06-15T20:16",
-    "headline": "Iran took ‘great step towards final victory’ against aggressors: Parliament speaker",
-    "excerpt": "Parliament Speaker Mohammad Baqer Qalibaf hails Iran’s historic resilience against aggressors.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-15T20:16:43.394898+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/15/770513/Qalibaf-Iran-final-victory"
-  },
-  {
-    "id": "a30d1b3064b2",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T15:32",
-    "headline": "Iran says Lebanon, assets release key parts of peace deal with US",
-    "excerpt": "Iran&#039;s foreign ministry spokesperson says ending the war in Lebanon is an ‘inseparable’ part of the US-Iran agreement.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T16:33:07.153611+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/iran-says-lebanon-assets-release-key-parts-of-peace-deal-with-us?traffic_source=rss"
-  },
-  {
-    "id": "4fbbf34ed389",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T15:20",
-    "headline": "Is Lebanon included? Country hopeful for US-Iran ceasefire, despite doubts",
-    "excerpt": "Ceasefire raises hopes in Lebanon, yet Israeli defiance and past violations overshadow lasting peace.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T16:33:07.153651+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/is-lebanon-included-country-hopeful-for-us-iran-ceasefire-despite-doubts?traffic_source=rss"
-  },
-  {
-    "id": "0ddd8a889a4c",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T14:50",
-    "headline": "Oxford Union’s first Palestinian president faces down smear campaign",
-    "excerpt": "Arwa Elrayess, the Oxford Union president, says that British media falsely accused her of justifying the Oct 7 attacks.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-15T16:33:07.153699+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/oxford-unions-first-palestinian-president-faces-down-smear-campaign?traffic_source=rss"
   }
 ]
