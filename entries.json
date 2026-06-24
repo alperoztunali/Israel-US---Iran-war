@@ -1,5 +1,71 @@
 [
   {
+    "id": "81a55e32d0d4",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T21:47",
+    "headline": "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32",
+    "excerpt": "Bosnia are in a strong position to be one of the best eight third-placed teams to progress to the last 32.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-06-24T22:22:19.800115+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/24/bosnia-win-3-2-knock-out-qatar-to-keep-alive-hopes-of-world-cup-round-of-32?traffic_source=rss"
+  },
+  {
+    "id": "24ce415f528a",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T21:38",
+    "headline": "Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone",
+    "excerpt": "Madibo&#039;s tackle on Kone in the team&#039;s Group B match left the Canadian player with a broken leg.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-06-24T22:22:19.800193+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/24/qatars-madibo-banned-for-5-games-after-breaking-leg-of-canadas-kone?traffic_source=rss"
+  },
+  {
+    "id": "9e06e5f0bfcc",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T21:35",
+    "headline": "Katz: Israel will not withdraw from Lebanon even if US demands it",
+    "excerpt": "Defence Minister Israel Katz said Israel will maintain its presence in Lebanon even if US demands withdrawal.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-24T22:22:19.800229+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_israel-will-not-withdraw-from-lebanon-us-demands-240626?traffic_source=rss"
+  },
+  {
+    "id": "0c7b9d884662",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T21:01",
+    "headline": "Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says",
+    "excerpt": "Iranian team&#039;s trip to Seattle was delayed by 25 minutes as Taremi and Alhoei were held up for an undisclosed reason.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-24T22:22:19.800264+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/24/mehdi-taremi-assistant-coach-held-up-at-airport-by-us-officials-iran-says?traffic_source=rss"
+  },
+  {
+    "id": "4f055b19010a",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T20:57",
+    "headline": "Palestinian activist faints after his release from Israeli prison",
+    "excerpt": "Palestinian activist Abdullah Shatat collapsed moments after his release from an Israeli jail.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-24T22:22:19.800295+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-activist-faints-after-his-release-from-israeli-prison?traffic_source=rss"
+  },
+  {
+    "id": "e8c020c639fd",
+    "source": "PressTV",
+    "date": "2026-06-24T22:22",
+    "headline": "Iran's Armed Forces created an 'epic' that exceeded aggressors' expectations: President Pezeshkian",
+    "excerpt": "President Masoud Pezeshkian praises Iran’s Armed Forces for their extraordinary display of sacrifice and resistance throughout the latest unprovoked aggression.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-24T22:22:21.369091+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/24/771044/Iran-Armed-Forces-United-States-Israel-enemy-Pezeshkian"
+  },
+  {
     "id": "60767a53a36c",
     "source": "Al Jazeera",
     "date": "2026-06-24T20:07",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-15T22:34:26.056659+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/15/trump-touts-iran-deal-and-ukraine-ambition-as-he-arrives-at-g7?traffic_source=rss"
-  },
-  {
-    "id": "8e73304416ec",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T20:21",
-    "headline": "Netanyahu says Israel won’t leave occupied land in Lebanon",
-    "excerpt": "Israel&#039;s occupation of territory in Lebanon and Syria will continue, PM Netanyahu said, despite US deal with Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T22:34:26.056685+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "8500214cbbc7",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T20:20",
-    "headline": "What Israeli leaders are saying about US-Iran ‘peace deal’",
-    "excerpt": "Israel’s political leaders, including Itamar Ben-Gvir and Bezalel Smotrich, have reacted to the US-Iran agreement.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T22:34:26.056736+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/what-israeli-leaders-are-saying-about-us-iran-peace?traffic_source=rss"
-  },
-  {
-    "id": "fdd0fc5c9455",
-    "source": "PressTV",
-    "date": "2026-06-15T22:34",
-    "headline": "Exclusive: Iranian oil tankers, cargo vessels sail through as US naval blockade officially lifted",
-    "excerpt": "At least three Iranian oil tankers and two cargo ships carrying essential goods have successfully broken through the US naval blockade, Press TV has learned from highly informed sources.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-15T22:34:27.816280+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/15/770518/exclusive-iranian-oil-tankers-cargo-vessels-sail-through-us-naval-blockade-officially-lifted"
-  },
-  {
-    "id": "e101332a7c70",
-    "source": "PressTV",
-    "date": "2026-06-15T22:34",
-    "headline": "Iran’s army: Any violation of MoU will be met with swift response",
-    "excerpt": "Iran plans to “maintain the level of readiness of the armed forces more than ever before” as the MoU with the US is put in place, said an Iranian army spokesperson.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-15T22:34:27.816322+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/15/770520/Iran%E2%80%99s-army--Any-violation-of-MoU-will-be-met-with-swift-response"
-  },
-  {
-    "id": "b6330ebcb594",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T19:36",
-    "headline": "Dutch court sentences Syrian to 26 years for torturing for al-Assad",
-    "excerpt": "The sentence is the latest in a series of European cases against Syrians since Bashar al-Assad was overthrown in 2024.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-06-15T20:16:40.983430+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/dutch-court-sentences-syrian-to-26-years-for-torturing-on-behalf-of-al-assad?traffic_source=rss"
-  },
-  {
-    "id": "3cf5d0504cf6",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T19:27",
-    "headline": "US Air Force B-52 bomber crashes after takeoff at Edwards Air Force Base",
-    "excerpt": "It was not immediately clear if any casualties in crash at base north of Los Angeles, California.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-06-15T20:16:40.983471+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says?traffic_source=rss"
   }
 ]
