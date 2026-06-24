@@ -1,5 +1,38 @@
 [
   {
+    "id": "2ce46018ae8a",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T08:32",
+    "headline": "Ukraine strikes strategic Russian bridge in Crimea",
+    "excerpt": "Ukraine strikes strategic Russian bridge in Crimea",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-24T08:45:53.194580+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ukraine-strikes-strategic-russian-bridge-in-crimea?traffic_source=rss"
+  },
+  {
+    "id": "93191ca0e459",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T07:04",
+    "headline": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+    "excerpt": "Iran and the US clash over nuclear inspections and Hormuz as negotiators push for a final deal within 60 days.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-24T08:45:53.194625+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss"
+  },
+  {
+    "id": "a31586289814",
+    "source": "Al Jazeera",
+    "date": "2026-06-24T06:04",
+    "headline": "Diabetes patients in Gaza face survival battle amid war shortages",
+    "excerpt": "Insulin and equipment shortages in Gaza pose fatal risks, leading to critical health complications.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-24T08:45:53.194661+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss"
+  },
+  {
     "id": "3695ad0723a3",
     "source": "Al Jazeera",
     "date": "2026-06-24T01:57",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-15T11:35:35.443088+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending?traffic_source=rss"
-  },
-  {
-    "id": "5a941d4c95a7",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T08:21",
-    "headline": "Trump hails MoU with Iran despite misgivings from some Republicans",
-    "excerpt": "Trump hails MoU with Iran despite misgivings from some Republicans.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-15T11:35:35.443115+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-hails-mou-with-iran-despite-misgivings-from-some-republicans?traffic_source=rss"
-  },
-  {
-    "id": "8c00e8965ba5",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T08:10",
-    "headline": "What still needs to be negotiated in US-Iran ‘peace deal’?",
-    "excerpt": "The US and Iran say they have reached a deal. Al Jazeera’s Osama Bin Javaid explains how both sides are claiming victory",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T11:35:35.443150+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/what-still-needs-to-be-negotiated-in-us-iran-peace?traffic_source=rss"
-  },
-  {
-    "id": "bc962ec1f1f4",
-    "source": "Al Jazeera",
-    "date": "2026-06-15T07:52",
-    "headline": "Iran war day 108: Iran, US reach a tentative deal to end conflict",
-    "excerpt": "US President Donald Trump and Iranian leaders say a deal has been agreed to end more than 100 days of war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-15T11:35:35.443178+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/15/iran-war-day-108-iran-us-reach-a-tentative-deal-to-end-conflict?traffic_source=rss"
   }
 ]
