@@ -1,5 +1,93 @@
 [
   {
+    "id": "f3bd859116a4",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T20:55",
+    "headline": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
+    "excerpt": "Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz evacuation after ship struck.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-06-25T21:18:02.828145+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss"
+  },
+  {
+    "id": "6f3a3d3355c8",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T20:34",
+    "headline": "Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’",
+    "excerpt": "Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-25T21:18:02.828194+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/netanyahu-we-will-remain-in-lebanon-syria-and-gaza-as-long-as?traffic_source=rss"
+  },
+  {
+    "id": "51bab0053b87",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T20:12",
+    "headline": "Ashura ceremonies intertwine faith and support for state in Iran",
+    "excerpt": "State-backed Ashura events showcase leaders killed by US, Israel, seen as martyrs in the mould of Imam Hussein.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-06-25T21:18:02.828223+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "0569750c3cf8",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T20:00",
+    "headline": "Has Marco Rubio’s tour of the Gulf reassured US allies?",
+    "excerpt": "The US secretary of state tells Gulf Cooperation Council (GCC) states that the Iran deal will ensure their security.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-25T21:18:02.828261+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/6/25/has-marco-rubios-tour-of-the-gulf-reassured-us-allies?traffic_source=rss"
+  },
+  {
+    "id": "2ca55d48afb6",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T19:44",
+    "headline": "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake",
+    "excerpt": "Devastated residents recall the moment when they experienced the twin earthquakes that toppled buildings and killed 188.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-25T21:18:02.828298+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/truly-terrifying-caracas-confronts-the-aftermath-of-venezuela-earthquake?traffic_source=rss"
+  },
+  {
+    "id": "6eef4ac74b25",
+    "source": "PressTV",
+    "date": "2026-06-25T21:18",
+    "headline": "Iran warns ships off unauthorized Hormuz routes amid talk with Oman",
+    "excerpt": "Iran warned ships off unauthorized Hormuz routes would not receive safe passage guarantees, as Tehran and Oman agreed to negotiate a framework for the strait's future administration.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-06-25T21:18:04.363925+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/25/771093/Iran-Qalibaf-frozen-assets-soybeans-Trump-mistrust-Araghchi-Oman-Strait-of-Hormuz"
+  },
+  {
+    "id": "297c8478b4fd",
+    "source": "PressTV",
+    "date": "2026-06-25T21:18",
+    "headline": "Araghchi urges formal Italian rejection of bases used by US against Iran",
+    "excerpt": "Iran’s foreign minister has called on Rome to formally reject claims by NATO’s chief that US forces used military bases in Italy during the recent US-Israeli aggression against Iran.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-06-25T21:18:04.363965+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/25/771085/Iran-Araghchi-Italy-Antonio-Tajani-US-NATO-Mark-Rutte-war-Romania-Gharibabadi-"
+  },
+  {
+    "id": "3b4d6b0cb758",
+    "source": "PressTV",
+    "date": "2026-06-25T21:18",
+    "headline": "Hezbollah chief: Iran support helped resistance break Israeli project",
+    "excerpt": "Hezbollah Secretary-General Sheikh Naim Qassem has declared that the Lebanese resistance, with Iran's backing, has entered a new phase of \"breaking the Israeli project\".",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-06-25T21:18:04.364003+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/25/771095/Hezbollah-chief--Resistance-astonished-world,-patience-change-future-equations"
+  },
+  {
     "id": "6362c42e2f43",
     "source": "Al Jazeera",
     "date": "2026-06-25T18:55",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-16T22:18:27.891855+00:00",
     "link": "https://presstv.ir/Detail/2026/06/16/770587/Iran-president-Leader-Khamenei-United-States-memorandum"
-  },
-  {
-    "id": "5e73d3bde4f1",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T19:16",
-    "headline": "What has Iran won and lost from this war?",
-    "excerpt": "Iran&#039;s relationship with its Gulf neighbours, which it attacked during the war, has been damaged.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-16T19:51:49.375553+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/6/16/what-has-iran-won-and-lost-from-this-war?traffic_source=rss"
-  },
-  {
-    "id": "e9ff90b90367",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T18:46",
-    "headline": "‘I know what you’ve been through’: FIFA president visits Iran team",
-    "excerpt": "FIFA President Gianni Infantino praised Iran’s players during a World Cup dressing room visit after the team’s 2-2 draw.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-16T19:51:49.375617+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/i-know-what-youve-been-through-fifa-president-visits-iran-team?traffic_source=rss"
-  },
-  {
-    "id": "e77da5432db0",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T18:27",
-    "headline": "Repairs begin at 1,000-year-old Kyiv monastery after Russian attack",
-    "excerpt": "The Kyiv Pechersk Lavra is under repair after deadly Russian attacks on the Ukrainian capital on Monday.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-16T19:51:49.375652+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/repairs-begin-at-1000-year-old-kyiv-monastery-after-russian-attack?traffic_source=rss"
-  },
-  {
-    "id": "5efdff08600f",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T17:42",
-    "headline": "Israeli strikes kill four in southern Lebanon amid ceasefire talks",
-    "excerpt": "Drone attacks target vehicles in Nabatieh amid fragile ceasefire negotiations between Iran and the US.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-16T19:51:49.375672+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/16/israeli-strikes-kill-four-in-southern-lebanon-amid-ceasefire-talks?traffic_source=rss"
-  },
-  {
-    "id": "0f18e87b4242",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T17:23",
-    "headline": "Israel seizes power over occupied West Bank mosque from Palestinians",
-    "excerpt": "Hebron&#039;s mayor warns unilateral changes breach agreements, posing significant consequences for the region&#039;s stability.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-16T19:51:49.375703+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/16/israel-seizes-power-over-occupied-west-bank-mosque-from-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "755ef581b350",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T16:55",
-    "headline": "Trump slams Israeli attacks on Lebanon at G7 summit",
-    "excerpt": "US President Donald Trump slammed Israeli attacks on Lebanon at the G7 Summit.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-16T19:51:49.375735+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-slams-israeli-attacks-on-lebanon-at-g7-summit?traffic_source=rss"
-  },
-  {
-    "id": "699a0185b761",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T16:51",
-    "headline": "Qatar renews mediation efforts for regional stability after US-Iran deal",
-    "excerpt": "Qatar says it is working to prevent a return to war, following the signing of the MoU between the US and Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-16T19:51:49.375762+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_qatar-renews-mediation-efforts-after-us-iran-deal-160626?traffic_source=rss"
-  },
-  {
-    "id": "445a2fcd13e4",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T15:57",
-    "headline": "Israel went to war with Iran, but Netanyahu may be the loser",
-    "excerpt": "Critics say PM Benjamin Netanyahu&#039;s Iran war strengthened Tehran, strained US ties, and left Israel weaker.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-06-16T19:51:49.375801+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/16/israel-went-to-war-with-iran-netanyahu-may-be-loser?traffic_source=rss"
   }
 ]
