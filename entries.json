@@ -1,5 +1,60 @@
 [
   {
+    "id": "71c4973b022d",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T11:16",
+    "headline": "Israeli forces kill Palestinian man during raid on his home",
+    "excerpt": "Israeli forces kill Palestinian man during raid on his home",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-25T12:25:59.408075+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss"
+  },
+  {
+    "id": "2f8edfb8c565",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T11:08",
+    "headline": "How minesweeping in the Strait of Hormuz works: A visual guide",
+    "excerpt": "Clearing mines is a slow, high-risk operation that involves finding and destroying them using specialised techniques.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-06-25T12:25:59.408126+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide?traffic_source=rss"
+  },
+  {
+    "id": "cc60da837d2a",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T10:59",
+    "headline": "Rubio tells Gulf allies that Iran deal will ensure their security",
+    "excerpt": "Rubio&#039;s Gulf tour is the first high-level diplomatic mission since the US-Iran framework agreement last week.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-25T12:25:59.408156+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss"
+  },
+  {
+    "id": "d6ef5d93b5cf",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T09:43",
+    "headline": "US says Iran will buy its goods: What could US-Iran trade look like?",
+    "excerpt": "Before the 1979 revolution in Iran, Washington and Tehran had close trade ties. Could a peace deal revive them?",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-25T12:25:59.408184+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/25/us-says-iran-will-buy-its-goods-what-could-us-iran-trade-look-like?traffic_source=rss"
+  },
+  {
+    "id": "e6a84a14a53c",
+    "source": "PressTV",
+    "date": "2026-06-25T12:26",
+    "headline": "In black and tears: Millions in Iran, globe observe Ashura to mourn Imam Hussein's martyrdom",
+    "excerpt": "Millions of mourners in Iran and worldwide observe Ashura, marking the martyrdom anniversary of Imam Hussein (AS).",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-25T12:26:02.113565+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/25/771071/Iran-Shura-Muslims-Muharram-"
+  },
+  {
     "id": "28b04191c448",
     "source": "Al Jazeera",
     "date": "2026-06-25T08:49",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-16T11:35:35.211350+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal?traffic_source=rss"
-  },
-  {
-    "id": "ad989ffaa0fa",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T09:13",
-    "headline": "G7 leaders meet in France with Iran and Ukraine high on agenda",
-    "excerpt": "French President Emmanuel Macron said Tuesday’s lunch summit would focus on reopening the Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-16T11:35:35.211389+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda?traffic_source=rss"
-  },
-  {
-    "id": "b1e0675a447b",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T09:04",
-    "headline": "Iran fans react to team’s first World Cup match amid political schisms",
-    "excerpt": "Iran fans react to team’s first World Cup match amid political schisms",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-16T11:35:35.211428+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-fans-react-to-teams-first-world-cup-match-amid-political-schisms?traffic_source=rss"
-  },
-  {
-    "id": "a8b34dd5848a",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T08:32",
-    "headline": "Eight people killed in US Air Force B-52 bomber crash: What we know",
-    "excerpt": "The aircraft, one of the US Air Force&#039;s longest-used bombers, goes down during a routine test mission.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-06-16T11:35:35.211454+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/16/us-b-52-bomber-crashes-in-california-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "274e0336f7b9",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T08:23",
-    "headline": "Palestine weekly wrap: World sanctions settlers, Israel funds settlements",
-    "excerpt": "Amnesty calls West Bank ethnic cleansing &#039;state-sponsored&#039; and international allies bar Finance Minister Smotrich.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-16T11:35:35.211488+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/16/palestine-weekly-wrap-world-sanctions-settlers-israel-funds-settlements?traffic_source=rss"
-  },
-  {
-    "id": "3fa22fc51853",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T08:19",
-    "headline": "Israel uses ‘battlefield evidence’ to prosecute Palestinians abroad",
-    "excerpt": "Palestinian activists are being put on trial in Europe for supporting Hamas on the basis of Israeli evidence.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-16T11:35:35.211527+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/16/israel-uses-battlefield-evidence-to-prosecute-palestinians-abroad?traffic_source=rss"
   }
 ]
