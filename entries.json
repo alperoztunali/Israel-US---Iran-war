@@ -1,5 +1,104 @@
 [
   {
+    "id": "3357d61cce68",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T15:05",
+    "headline": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
+    "excerpt": "Lebanon’s state-run National News Agency reports three people killed after an Israeli attack on a car in Nabatieh.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-25T15:25:29.961853+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss"
+  },
+  {
+    "id": "e78df33236c5",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T14:59",
+    "headline": "Lebanon Latest: Peace talks between Lebanon and Israel, people return south",
+    "excerpt": "Al Jazeera’s Robert McBride brings you the latest from Beirut as people return to the south of Lebanon.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-25T15:25:29.961902+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/lebanon-latest-peace-talks-between-lebanon-and-israel-people-return-south?traffic_source=rss"
+  },
+  {
+    "id": "15d5cf76fd69",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T14:43",
+    "headline": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
+    "excerpt": "NATO boss tries to convince Trump that European allies were there for the US during war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-25T15:25:29.961943+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play?traffic_source=rss"
+  },
+  {
+    "id": "bbb2b0eec476",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T14:33",
+    "headline": "IRGC warns against new Hormuz route for ships: What we know",
+    "excerpt": "Experts say disagreements over shipping routes and transit fees could complicate efforts to reach a permanent agreement.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-06-25T15:25:29.961976+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know?traffic_source=rss"
+  },
+  {
+    "id": "8d879bbfb86e",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T14:19",
+    "headline": "Iran negotiator Ghalibaf rejects claim unfrozen funds will buy US goods",
+    "excerpt": "The denial contradicts the US administration, which said unfrozen funds will be spent on produce from American farmers.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-06-25T15:25:29.962007+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/iran-negotiator-ghalibaf-rejects-claim-unfrozen-funds-will-buy-us-goods?traffic_source=rss"
+  },
+  {
+    "id": "b26f9e42176a",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T14:10",
+    "headline": "Deconfliction and disarmament: Can both be pursued in Lebanon?",
+    "excerpt": "New deconfliction mechanism seeks to prevent return to all-out war in Lebanon and in the region.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-06-25T15:25:29.962040+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/deconfliction-and-disarmament-can-both-be-pursued-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "2460ed858290",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T13:30",
+    "headline": "Iran, Israel and the Bomb",
+    "excerpt": "How a decades of sabotage and brinkmanship over Iran&#039;s nuclear programme erupted into the 2026 US-Israeli war on Iran.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-06-25T15:25:29.962057+00:00",
+    "link": "https://www.aljazeera.com/video/featured-documentaries/2026/6/25/iran-israel-and-the-bomb?traffic_source=rss"
+  },
+  {
+    "id": "6fde4ccb8640",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T13:03",
+    "headline": "Venezuela earthquakes: How will sanctions impact aid operations?",
+    "excerpt": "Financial sanctions are known to limit the flow of aid, but political influence is also a concern amid the devastation.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-06-25T15:25:29.962100+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss"
+  },
+  {
+    "id": "77a7c02d1fb3",
+    "source": "Al Jazeera",
+    "date": "2026-06-25T10:59",
+    "headline": "Rubio issues Hormuz toll warning as he wraps up Gulf visit",
+    "excerpt": "Rubio&#039;s Gulf tour is the first high-level diplomatic mission since the US-Iran framework agreement last week.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-25T15:25:29.962131+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss"
+  },
+  {
     "id": "71c4973b022d",
     "source": "Al Jazeera",
     "date": "2026-06-25T11:16",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-16T16:13:12.165815+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/16/justice-prevailed-is-the-netherlands-shifting-its-stance-on-israel?traffic_source=rss"
-  },
-  {
-    "id": "c5a288dbc826",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T13:56",
-    "headline": "Lebanese rush back to their devastated homes in south after US-Iran deal",
-    "excerpt": "Thousands return to their homes following Iran-US deal despite Israel saying it won&#039;t end its occupation of Lebanon.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-16T16:13:12.165844+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/16/lebanese-rush-back-to-their-devastated-homes-in-south-after-us-iran-deal?traffic_source=rss"
-  },
-  {
-    "id": "3a1917bdb7f6",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T13:52",
-    "headline": "Iran coach says team ‘oppressed’ by travel chaos after World Cup NZ draw",
-    "excerpt": "Amir Ghalenoei made the comment after Iran were forced to leave the US for their Mexico base after their opening match.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-16T16:13:12.165878+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/16/iran-coach-says-team-oppressed-by-travel-chaos-after-world-cup-nz-draw?traffic_source=rss"
-  },
-  {
-    "id": "7a236957a2d0",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T13:24",
-    "headline": "Israeli court rules to keep prominent Palestinian doctor in detention",
-    "excerpt": "The Palestinian doctor demanded his release last week after months of imprisonment and visible signs of torture.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-16T16:13:12.165908+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/16/israeli-court-rules-to-keep-prominent-palestinian-doctor-in-detention?traffic_source=rss"
-  },
-  {
-    "id": "c30dcf838fa6",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T13:09",
-    "headline": "‘There’s divergence between US and Israeli objectives in the region’",
-    "excerpt": "‘There’s divergence between US and Israeli objectives in the region’",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-16T16:13:12.165940+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/theres-divergence-between-us-and-israeli-objectives-in-the?traffic_source=rss"
-  },
-  {
-    "id": "8ea4515d034c",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T13:05",
-    "headline": "Geneva to host Iran-US deal event: What other pacts have been signed there?",
-    "excerpt": "Geneva is widely recognised as the &#039;Peace Capital&#039; of the world.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-16T16:13:12.165964+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/16/geneva-to-host-iran-us-deal-event-what-other-pacts-have-been-signed-there?traffic_source=rss"
-  },
-  {
-    "id": "f7343fdd1bf8",
-    "source": "PressTV",
-    "date": "2026-06-16T16:13",
-    "headline": "Hezbollah chief hails Iran for curbing Israeli attacks on Lebanon",
-    "excerpt": "Sheikh Naim Qassem expressed gratitude to Iran for its steadfast support of Lebanon and the resistance.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-16T16:13:13.624501+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/16/770567/Hezbollah-chief-hails-Iran-for-curbing-Israeli-attacks-Lebanon"
-  },
-  {
-    "id": "4c7a9a8033e9",
-    "source": "PressTV",
-    "date": "2026-06-16T16:13",
-    "headline": "Iran’s VP: Tehran will maintain control of Strait of Hormuz",
-    "excerpt": "Iran’s VP says Tehran would continue to manage the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-06-16T16:13:13.624543+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/16/770566/Iran-VP-Tehran-maintain-control-Strait-of-Hormuz-vessels-cost-of-service-safe-navigation-MoU"
-  },
-  {
-    "id": "55a9d2db9101",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T10:57",
-    "headline": "Qatar’s Emir hails Iran deal and touts US investments in Trump meeting",
-    "excerpt": "Qatar’s Emir hails Iran deal and touts US investments in Trump meeting.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-16T11:35:35.211305+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/qatars-emir-hails-iran-deal-and-touts-us-investments-in-trump-meeting?traffic_source=rss"
-  },
-  {
-    "id": "0f338fe888e8",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T09:22",
-    "headline": "Iran says Israeli occupation in Lebanon would breach US deal",
-    "excerpt": "Iran says any continued Israeli occupation in Lebanon would be a breach of the Memorandum of Understanding with the US.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-16T11:35:35.211350+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal?traffic_source=rss"
   }
 ]
