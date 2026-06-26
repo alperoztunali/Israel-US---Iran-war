@@ -1,5 +1,71 @@
 [
   {
+    "id": "19ecb39b0fd8",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T17:55",
+    "headline": "Why did these World Cup ads strike a nerve in Egypt?",
+    "excerpt": "A viral World Cup campaign tapped into a familiar conversation among Egyptian football fans, prompting debate.",
+    "category": "Other",
+    "location": "Egypt",
+    "addedAt": "2026-06-26T18:10:40.912503+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt-2?traffic_source=rss"
+  },
+  {
+    "id": "8abb363f1b1e",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T17:53",
+    "headline": "US announces framework agreement between Israel and Lebanon",
+    "excerpt": "US Secretary of State Marco Rubio has announced the deal after talks unfolded in Washington, DC.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-26T18:10:40.912544+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "906e5d529088",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T17:40",
+    "headline": "Nine people killed in building collapse in Lagos, Nigeria",
+    "excerpt": "Twenty seven people were rescued with injuries of varying severity; governor orders safety checks on surrounding area.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-26T18:10:40.912572+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss"
+  },
+  {
+    "id": "8a6c9f84f900",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T16:27",
+    "headline": "Hezbollah: Israel must ‘unconditionally’ leave Lebanon",
+    "excerpt": "Hezbollah says Israel has &quot;no option&quot; but to “unconditionally” withdraw from southern Lebanon and other occupied areas.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-26T18:10:40.912609+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah_israel-must-unconditionally-leave-lebanon-260626?traffic_source=rss"
+  },
+  {
+    "id": "359cb836a836",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T16:15",
+    "headline": "Why did these World Cup ads strike a nerve in Egypt?",
+    "excerpt": "Why did these World Cup ads strike a nerve in Egypt?",
+    "category": "Other",
+    "location": "Egypt",
+    "addedAt": "2026-06-26T18:10:40.912635+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt?traffic_source=rss"
+  },
+  {
+    "id": "47a136cadcd1",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T13:28",
+    "headline": "Hezbollah demands Israel leave Lebanon ‘unconditionally’ amid talks in US",
+    "excerpt": "As Lebanon-Israel reach an agreement, Hezbollah chief Naim Qassem accepts &#039;no normalisation&#039; and &#039;no gains for Israel&#039;",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-26T18:10:40.912684+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/hezbollah-demands-israel-leave-lebanon-unconditionally-as-us-talks-extend?traffic_source=rss"
+  },
+  {
     "id": "cf7b575022c9",
     "source": "Al Jazeera",
     "date": "2026-06-26T14:59",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-17T17:25:11.130042+00:00",
     "link": "https://presstv.ir/Detail/2026/06/17/770619/Ukraine-drone-attack-bus-carrying-Belarusian-youth-football-team-Bryansk--Russia-"
-  },
-  {
-    "id": "913958828b0a",
-    "source": "PressTV",
-    "date": "2026-06-17T17:25",
-    "headline": "Iran signs deal to purchase 20 helicopters from Russia for relief operations",
-    "excerpt": "Iran’s Red Crescent Society has signed a memorandum of understanding with a Russian state-owned helicopter company for the purchase of 20 helicopters to enhance the country’s aerial relief and logistics capabilities.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-17T17:25:11.130077+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770618/Iran-signs-deal-to-purchase-20-helicopters-from-Russia-for-Red-Crescent-relief-operations"
-  },
-  {
-    "id": "88ed868e5256",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T13:21",
-    "headline": "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
-    "excerpt": "US President Donald Trump has accused his predecessor Barack Obama of ‘bribing’ Iran to agree to the 2015 nuclear deal.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-17T14:01:54.966480+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-accuses-obama-of-bribing-iran-in-2015-nuclear-deal-at-g7-summit?traffic_source=rss"
-  },
-  {
-    "id": "f06fb9b1e567",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T13:15",
-    "headline": "Israeli air strikes on Lebanon continue despite US-Iran deal",
-    "excerpt": "There has been a reduction in violence since the US-Iran agreement was announced, but attacks have not stopped.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-17T14:01:54.966512+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal?traffic_source=rss"
-  },
-  {
-    "id": "e178af9b2330",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T12:26",
-    "headline": "China pledges new humanitarian aid packages for Lebanon and Iran",
-    "excerpt": "China pledges new humanitarian aid packages for Lebanon and Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-17T14:01:54.966547+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/china-pledges-new-humanitarian-aid-packages-for-lebanon-and-iran?traffic_source=rss"
-  },
-  {
-    "id": "140c3eae473f",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T11:41",
-    "headline": "Israel takes control of Hebron’s Ibrahimi Mosque: What this means",
-    "excerpt": "Palestinians controlled planning and construction in the entire West Bank city under the 1997 Hebron Agreement.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-17T14:01:54.966584+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/17/israel-takes-control-of-hebrons-ibrahimi-mosque-what-next?traffic_source=rss"
-  },
-  {
-    "id": "3facae49824d",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T10:57",
-    "headline": "Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment",
-    "excerpt": "Manchester-born midfielder Zidane Iqbal becomes the first player of Pakistani heritage to feature at a World Cup.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-17T14:01:54.966622+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/17/zidane-iqbal-the-footballer-who-gave-pakistan-its-first-world-cup-moment?traffic_source=rss"
   }
 ]
