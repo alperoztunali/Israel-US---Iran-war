@@ -1,5 +1,49 @@
 [
   {
+    "id": "0b2a53de7e63",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T08:16",
+    "headline": "North Korea conducts major weapons tests; South training ‘drone warriors’",
+    "excerpt": "Kim Jong Un demands a &#039;deadly and destructive offensive posture&#039; as North Korea upgrades arsenal to reach all of South.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-26T08:32:25.532853+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/north-korea-conducts-major-weapons-tests-south-training-drone-warriors?traffic_source=rss"
+  },
+  {
+    "id": "c68e4a21b4f6",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T07:07",
+    "headline": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
+    "excerpt": "Israeli and Lebanese delegations will continue their talks on Friday.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-26T08:32:25.532895+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss"
+  },
+  {
+    "id": "5eb6410abf5b",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T05:25",
+    "headline": "US ends deportation protections (TPS) for Haitians and Syrians",
+    "excerpt": "The US Supreme Court has sided with the Trump administration in its bid to end Temporary Protected Status (TPS).",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-06-26T08:32:25.532930+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss"
+  },
+  {
+    "id": "6cf461e7658d",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T02:35",
+    "headline": "Oil prices ease after spiking over halt to Strait of Hormuz evacuation plan",
+    "excerpt": "Brent crude subsides after attack in waterway prompted jump in prices.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-06-26T08:32:25.532970+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss"
+  },
+  {
     "id": "962c0d4da801",
     "source": "Al Jazeera",
     "date": "2026-06-26T04:04",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-17T05:03:41.175617+00:00",
     "link": "https://www.aljazeera.com/sports/2026/6/16/iran-will-have-to-leave-us-hours-after-every-world-cup-match-official-says?traffic_source=rss"
-  },
-  {
-    "id": "634098d7c9bb",
-    "source": "PressTV",
-    "date": "2026-06-17T05:03",
-    "headline": "White House rejects Israeli request to 'review' Iran-US MoU: Reports",
-    "excerpt": "The US has rejected an \"official Israeli request to review\" the newly announced MoU between Washington and Tehran, according to reports.",
-    "category": "Statement",
-    "location": "Tehran",
-    "addedAt": "2026-06-17T05:03:42.841713+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770589/United-States-Iran-Israel-MoU"
-  },
-  {
-    "id": "971697426f22",
-    "source": "PressTV",
-    "date": "2026-06-17T05:03",
-    "headline": "Pope expresses optimism regarding Iran-US MoU",
-    "excerpt": "Pope Leo expresses optimism regarding a memorandum of understanding, which is expected to be signed between Iran and the US later this week.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-17T05:03:42.841756+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770590/Iran-United-States-Pope-MoU"
-  },
-  {
-    "id": "e423675b9510",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T22:46",
-    "headline": "Brazilian court convicts Eduardo Bolsonaro of courting US interference",
-    "excerpt": "US placed tariffs on Brazilian goods and sanctioned judicial officials involved in trial of the father for coup plot.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-16T23:57:05.637240+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/16/brazilian-court-convicts-eduardo-bolsonaro-of-courting-us-interference?traffic_source=rss"
-  },
-  {
-    "id": "1b9c7c22c47e",
-    "source": "Al Jazeera",
-    "date": "2026-06-16T21:51",
-    "headline": "Somaliland president visits Israeli Knesset on tour",
-    "excerpt": "Somaliland’s President is on a ‘historic’ tour of Israel, where he’s opened an embassy and visited the Knesset.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-16T22:18:26.263849+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_somaliland-president-visits-israeli-knesset-on-tour-160626?traffic_source=rss"
   }
 ]
