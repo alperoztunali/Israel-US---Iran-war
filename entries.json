@@ -1,5 +1,60 @@
 [
   {
+    "id": "64b8b6175f2b",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T19:49",
+    "headline": "Israeli attack on car in central Gaza kills three Palestinians",
+    "excerpt": "Palestinian Interior Ministry says those killed in attack on Maghazi refugee camp were police officers.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-26T20:11:48.230038+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "a5809bec6e95",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T19:26",
+    "headline": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
+    "excerpt": "Fragile US-Iran ceasefire tested as drone strike off Oman draws stern warning from the US president.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-26T20:11:48.230076+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "780bb7061e0d",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T19:05",
+    "headline": "Israel, Lebanon sign framework deal after US-mediated talks",
+    "excerpt": "US Secretary of State Marco Rubio announced a US-mediated framework agreement between Israel and Lebanon.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-26T20:11:48.230111+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/israel-lebanon-sign-framework-deal-after-us-mediated-talks?traffic_source=rss"
+  },
+  {
+    "id": "8164b6eeb10e",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T18:33",
+    "headline": "Advocates warn of wide-ranging implications of US Supreme Court TPS ruling",
+    "excerpt": "Supreme Court allows Trump to end protected status for Haiti and Syria, threatening family separation say advocates.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-06-26T20:11:48.230172+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/advocates-warn-of-wide-ranging-implications-of-us-supreme-court-tps-ruling?traffic_source=rss"
+  },
+  {
+    "id": "c3352c949d0d",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T18:00",
+    "headline": "Israeli prosecutors charge six settlers after West Bank mosque attack",
+    "excerpt": "Israeli attacks on Palestinian villages have increased in the occupied West Bank, even as settlers charged.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-26T20:11:48.230205+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/israeli-prosecutors-charge-six-settlers-after-west-bank-mosque-attack?traffic_source=rss"
+  },
+  {
     "id": "19ecb39b0fd8",
     "source": "Al Jazeera",
     "date": "2026-06-26T17:55",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-17T17:25:09.589683+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/israeli-settlers-set-fire-to-a-mosque-in-the-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "cc7da7a4b749",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T14:03",
-    "headline": "‘He wanted to burn me alive’: 92-year-old recounts West Bank settler attack",
-    "excerpt": "Settlers target mosques and homes amid escalating attacks in the occupied West Bank, increasing fear among Palestinians.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-17T17:25:09.589728+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/17/he-wanted-to-burn-me-alive-92-year-old-recounts-west-bank-settler-attack?traffic_source=rss"
-  },
-  {
-    "id": "22fa329cee65",
-    "source": "PressTV",
-    "date": "2026-06-17T17:25",
-    "headline": "Exclusive: 11 Iranian vessels have broken through US naval blockade since MoU finalization",
-    "excerpt": "Eleven Iranian ships have so far successfully broken through the US naval blockade, an informed source tells Press TV.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-17T17:25:11.129943+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770635/11-Iranian-vessels-US-naval-blockade"
-  },
-  {
-    "id": "dac4d5a2697a",
-    "source": "PressTV",
-    "date": "2026-06-17T17:25",
-    "headline": "Iran, China will be at heart of any emerging regional bloc: Qalibaf",
-    "excerpt": "Iran’s Parliament speaker Mohammad Baqer Qalibaf has stressed that Tehran is a “full-fledged” partner of China, emphasizing the crucial role played by the two countries in any regional bloc.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-06-17T17:25:11.129988+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770627/Qalibaf-Iran-China-full-fledged-partner"
-  },
-  {
-    "id": "de034f76b1fe",
-    "source": "PressTV",
-    "date": "2026-06-17T17:25",
-    "headline": "China backs Iran-US MoU, offers to help facilitate implementation",
-    "excerpt": "China has expressed full support for the Islamabad memorandum of understanding (MoU) between Iran and the United States.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-17T17:25:11.130015+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770629/China-backs-Islamabad-MoU-offers-to-help-facilitate-implementation"
-  },
-  {
-    "id": "f549c9780c87",
-    "source": "PressTV",
-    "date": "2026-06-17T17:25",
-    "headline": "One killed in Ukrainian drone strike on bus carrying Belarusian youth football team in Russia",
-    "excerpt": "A bus carrying members of a Belarusian youth football team was hit by the Ukrainian drone in a border region on Wednesday, Russian officials say.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-17T17:25:11.130042+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770619/Ukraine-drone-attack-bus-carrying-Belarusian-youth-football-team-Bryansk--Russia-"
   }
 ]
