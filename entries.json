@@ -1,5 +1,38 @@
 [
   {
+    "id": "0ce37c5a04f0",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T21:10",
+    "headline": "Burkina Faso cuts diplomatic ties with former colonial ruler France",
+    "excerpt": "The military government, in power since 2022 coup, accused France of having &#039;neo-colonial ambitions&#039;.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-06-26T21:41:44.476337+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france?traffic_source=rss"
+  },
+  {
+    "id": "8282088a4b09",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T21:08",
+    "headline": "US strikes Iran in response to drone strike on commercial ship",
+    "excerpt": "The new strikes come in response to an Iranian drone attack on the Ever Lovely in the Strait of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-26T21:41:44.476370+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss"
+  },
+  {
+    "id": "47c700cff345",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T20:46",
+    "headline": "Hezbollah will not support Israel-Lebanon framework deal",
+    "excerpt": "Al Jazeera brings you the latest from Beirut as the US announces a framework agreement between Israel and Lebanon.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-26T21:41:44.476400+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah-rejects-israel-lebanon-framework-deal-260626?traffic_source=rss"
+  },
+  {
     "id": "64b8b6175f2b",
     "source": "Al Jazeera",
     "date": "2026-06-26T19:49",
@@ -5465,38 +5498,5 @@
     "location": "Lebanon",
     "addedAt": "2026-06-17T17:25:09.589593+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/17/northern-lebanon-airport-revival-brings-economic-hope-for-the-region?traffic_source=rss"
-  },
-  {
-    "id": "129f5ee8a158",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T14:53",
-    "headline": "Tehran War Diary: Shooting war at home",
-    "excerpt": "An internationally acclaimed photojournalist in Iran turns his lens on his own city, as Tehran comes under bombardment.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-06-17T17:25:09.589612+00:00",
-    "link": "https://www.aljazeera.com/video/witness/2026/6/17/tehran-war-diary-shooting-war-at-home?traffic_source=rss"
-  },
-  {
-    "id": "5c6170baab7c",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T14:07",
-    "headline": "Strait of Hormuz reopens: But can ships’ safety be assured?",
-    "excerpt": "Shipping operators and insurers prefer to wait and watch from a distance for now.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-06-17T17:25:09.589652+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/17/strait-of-hormuz-reopens-how-will-safe-passage-for-ships-be-ensured?traffic_source=rss"
-  },
-  {
-    "id": "f300d19162a4",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T14:04",
-    "headline": "Israeli settlers set fire to a mosque in the occupied West Bank",
-    "excerpt": "Israeli settlers have vandalised and burned a mosque in the occupied West Bank village of Jaljulia, north of Ramallah.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-17T17:25:09.589683+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/israeli-settlers-set-fire-to-a-mosque-in-the-occupied-west-bank?traffic_source=rss"
   }
 ]
