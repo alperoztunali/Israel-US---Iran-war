@@ -1,5 +1,49 @@
 [
   {
+    "id": "89afcc99da81",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T23:13",
+    "headline": "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
+    "excerpt": "The country is still reeling from devastating pair of earthquakes that killed hundreds of people earlier this week.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-27T00:13:38.776846+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/4-9-earthquake-detected-in-venezuela-just-days-after-major-quakes?traffic_source=rss"
+  },
+  {
+    "id": "b77883dffee6",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T22:57",
+    "headline": "Egypt vs Iran LIVE: FIFA World Cup 2026",
+    "excerpt": "Live updates, score and commentary stream as Mohamed Salah&#039;s Egypt play Iran in the final group match in Seattle.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-27T00:13:38.776891+00:00",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/live-egypt-vs-iran-world-cup-2026?traffic_source=rss"
+  },
+  {
+    "id": "a4973a4faf93",
+    "source": "Al Jazeera",
+    "date": "2026-06-26T22:56",
+    "headline": "What is the framework agreement signed by Israel and Lebanon?",
+    "excerpt": "Deal comes after months of US-brokered direct talks, but Israel continues to occupy Lebanese land.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-27T00:13:38.776921+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/26/what-is-the-framework-agreement-signed-by-israel-and-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "e502c9a3e396",
+    "source": "PressTV",
+    "date": "2026-06-27T00:13",
+    "headline": "IRGC Navy strikes US military targets in retaliation for attack on Iranian coastal areas",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC) Navy strikes American military targets in the region in retaliation for earlier aggression against Iranian coastal areas.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-27T00:13:40.542165+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/26/771154/Iran-IRGC-strike-United-States"
+  },
+  {
     "id": "498c19a431b6",
     "source": "Al Jazeera",
     "date": "2026-06-26T22:05",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-17T17:25:09.589393+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss"
-  },
-  {
-    "id": "8a4e1b83363d",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T16:58",
-    "headline": "Young Palestinian women learn AI to tell stories of war on Gaza",
-    "excerpt": "Young Palestinian women learn AI to tell stories of war on Gaza.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-06-17T17:25:09.589437+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/young-palestinian-women-learn-ai-to-tell-stories-of-war-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "ded0b9523adb",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T16:30",
-    "headline": "Trump: ‘Very strong’ Iran deal is a ‘wall to a nuclear weapon’",
-    "excerpt": "US President Donald Trump claimed that the scheduled signing of his Iran “peace deal” in Geneva on Friday would be succe",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-17T17:25:09.589474+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-very-strong-iran-deal-is-a-wall-to-a-nuclear?traffic_source=rss"
-  },
-  {
-    "id": "42492a0bb5b2",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T16:00",
-    "headline": "Nanawati: The Last Negotiation | Ep 6 – Afghanistan",
-    "excerpt": "Under Taliban rule, one woman struggles to negotiate with the men limiting the lives of Afghan women.",
-    "category": "Diplomatic",
-    "location": "Oman",
-    "addedAt": "2026-06-17T17:25:09.589509+00:00",
-    "link": "https://www.aljazeera.com/video/making-peace/2026/6/17/nanawati-the-last-negotiation-ep-6?traffic_source=rss"
-  },
-  {
-    "id": "4f3596696c4a",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T15:23",
-    "headline": "Why Israel could still derail the Iran-US deal",
-    "excerpt": "Trump called it a historic deal. But with nuclear talks and Israel all unresolved, what did either side actually win?",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-17T17:25:09.589535+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/6/17/why-israel-could-still-derail-the-iran-us-deal?traffic_source=rss"
   }
 ]
