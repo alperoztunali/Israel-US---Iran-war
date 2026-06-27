@@ -1,5 +1,16 @@
 [
   {
+    "id": "2b2dd2abd66b",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T22:07",
+    "headline": "US launches second night of strikes on Iran after ship hit by drone",
+    "excerpt": "The attacks come after an alleged Iranian drone struck another commercial vessel in the Strait of Hormuz on Saturday.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-27T23:45:03.305972+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss"
+  },
+  {
     "id": "ca65b0896a9e",
     "source": "Al Jazeera",
     "date": "2026-06-27T22:07",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-18T17:44:37.510927+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/18/how-does-trumps-mou-with-iran-compare-with-obamas-nuclear-pact?traffic_source=rss"
-  },
-  {
-    "id": "a4b4c84d829b",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T14:44",
-    "headline": "Trump-Netanyahu tensions: Have Israeli and US leaders clashed before?",
-    "excerpt": "Media reports talk about rifts between Israeli and American leaders, but it has not changed US policy towards Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-18T17:44:37.510961+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/18/trump-netanyahu-tensions-have-israeli-and-us-leaders-clashed-before?traffic_source=rss"
   }
 ]
