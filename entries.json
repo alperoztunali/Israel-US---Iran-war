@@ -1,5 +1,49 @@
 [
   {
+    "id": "78d36dedfe26",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T04:13",
+    "headline": "US strikes on Iran test fragile ceasefire",
+    "excerpt": "The US has struck Iran for the first time since the two sides reached a Memorandum of Understanding on June 17.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-27T04:28:34.415619+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "75cc0e1d8c27",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T00:16",
+    "headline": "Trump justifies strikes on Iran amid ceasefire",
+    "excerpt": "The US has struck Iran in retaliation for what it says was an Iranian attack on a ship in the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-27T04:28:34.415657+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "ac7d3f795fd2",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T00:00",
+    "headline": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
+    "excerpt": "Iran&#039;s IRGC says it targeted US military in region after Trump administration launched attack on the country.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-06-27T04:28:34.415684+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "095ef7d1600f",
+    "source": "PressTV",
+    "date": "2026-06-27T04:28",
+    "headline": "Hezbollah not to allow implementation of US-backed agreement on Lebanon: Lawmaker",
+    "excerpt": "Lebanese lawmaker says Hezbollah will not allow implementation of a US-backed so-called \"framework agreement\" that purports to be seeking \"dismantling\" of the group.",
+    "category": "Diplomatic",
+    "location": "Lebanon",
+    "addedAt": "2026-06-27T04:28:42.210398+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/27/771156/Lebanon-Hezbollah-United-States-Israel"
+  },
+  {
     "id": "89afcc99da81",
     "source": "Al Jazeera",
     "date": "2026-06-26T23:13",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-17T19:36:55.579622+00:00",
     "link": "https://presstv.ir/Detail/2026/06/17/770641/Global-oil-reserves-critical-lows-pressure-US-to-accept-Iran-terms-Trump-admits"
-  },
-  {
-    "id": "420e3584e14c",
-    "source": "PressTV",
-    "date": "2026-06-17T19:36",
-    "headline": "Five Israeli occupation forces injured in drone attack in southern Lebanon",
-    "excerpt": "Israeli military says one of the soldiers sustained serious injuries.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-06-17T19:36:55.579650+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770636/Five-Israeli-soldiers-injured-in-drone-attack-southern-Lebanon"
-  },
-  {
-    "id": "be35f86b69a0",
-    "source": "PressTV",
-    "date": "2026-06-17T19:36",
-    "headline": "Hezbollah chief welcomes Iran’s ‘great victory’ following MoU with US",
-    "excerpt": "The Hezbollah chief welcomes Iran's \"great victory\" following the recently concluded memorandum of understanding between Tehran and Washington.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-06-17T19:36:55.579687+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770638/Hezbollah-chief-welcomes-Iran-s--great-victory--following-MoU-with-US"
-  },
-  {
-    "id": "3210c1535a17",
-    "source": "PressTV",
-    "date": "2026-06-17T19:36",
-    "headline": "Pezeshkian hails Iran students’ success at World University Combat Sports championship",
-    "excerpt": "President Masoud Pezeshkian has stressed that Iranian athletes’ winning the world runner-up title at the 2026 FISU World University Championship Combat Sports in Brazil reflects the determination, and competence of Iran’s youth.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-17T19:36:55.579720+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770633/Pezeshkian-world-runner-up-title-competence-Iran-youth"
-  },
-  {
-    "id": "9c62a368b443",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T17:14",
-    "headline": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
-    "excerpt": "More than 1,000 people in Gaza have been killed since a US-brokered &#039;ceasefire&#039; between Hamas and Israel was agreed.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-17T17:25:09.589393+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss"
   }
 ]
