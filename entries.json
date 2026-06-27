@@ -1,5 +1,38 @@
 [
   {
+    "id": "b1523d064c38",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T09:35",
+    "headline": "FIFA World Cup 2026: Saturday schedule, Round of 32 standings, predictions",
+    "excerpt": "Six World Cup games, knockout places on the line, Cape Verde make history and Iran wait for a place in the Round of 32.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-27T09:51:46.077921+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/27/fifa-world-cup-2026-saturday-schedule-round-of-32-standings-predictions?traffic_source=rss"
+  },
+  {
+    "id": "a103a308984a",
+    "source": "PressTV",
+    "date": "2026-06-27T09:51",
+    "headline": "Iran blasts US air raids on southern coasts as ‘flagrant violation’ of MoU",
+    "excerpt": "Iran condemns US military airstrikes on Friday night targeting several locations along Iran’s southern coasts.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-06-27T09:51:47.823272+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/27/771174/Iran-condemns-US-airstrikes-on-soutern-coasts-ceasefire-MoU"
+  },
+  {
+    "id": "c2e62d35a1db",
+    "source": "PressTV",
+    "date": "2026-06-27T09:51",
+    "headline": "Israel redirecting Lebanon invasion forces to West Bank for expanded raids: Report",
+    "excerpt": "The Israeli military has shifted its troops from Lebanon to conduct extensive invasions in the occupied West Bank.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-27T09:51:47.823312+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/27/771173/Israel-shifts-troops-from-Lebanon-to-conduct-extensive-invasions-in-the-occupied-West-Bank-"
+  },
+  {
     "id": "7fa4f40ca578",
     "source": "Al Jazeera",
     "date": "2026-06-27T07:20",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-17T21:45:48.710116+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/why-was-indias-cockroach-janta-party-founder-attacked?traffic_source=rss"
-  },
-  {
-    "id": "791690906760",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T20:05",
-    "headline": "Read the US account of unreleased 14-point Iran ceasefire memorandum",
-    "excerpt": "US official gives clearest account yet of deal set to be signed by US and Iran Friday; Iran has not confirmed text.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-17T21:45:48.710157+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/17/read-the-us-account-of-unreleased-14-point-iran-ceasefire-memorandum?traffic_source=rss"
-  },
-  {
-    "id": "03ea25d8690d",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T19:21",
-    "headline": "Freed Palestinian prisoner meets son conceived with smuggled sperm",
-    "excerpt": "After spending 25 years in Israeli prisons, Abdul Karim al-Rimawi embraced his son Majd for the first time.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-17T21:45:48.710189+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/freed-palestinian-prisoner-meets-son-conceived-with-smuggled-sperm?traffic_source=rss"
-  },
-  {
-    "id": "3a559c2f4e6c",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T19:14",
-    "headline": "Trump eyes US-Iran ‘peace deal’ signing",
-    "excerpt": "An US-Iran agreement aimed at ending hostilities and reopening the Strait of Hormuz is set to be signed Friday.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-17T21:45:48.710221+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-eyes-us-iran-peace-deal-signing?traffic_source=rss"
   }
 ]
