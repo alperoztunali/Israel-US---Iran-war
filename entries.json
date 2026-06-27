@@ -1,5 +1,38 @@
 [
   {
+    "id": "d8b26653f497",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T21:13",
+    "headline": "Videos show Israeli settlers trying to seize house in occupied West Bank",
+    "excerpt": "Videos show Israeli settlers trying to seize a house under construction in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-27T21:31:22.566256+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "a7f57fc20695",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T20:23",
+    "headline": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’",
+    "excerpt": "Vucic is under ⁠pressure after months ⁠of antigovernment protests.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-27T21:31:22.566317+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/27/serbias-president-aleksandar-vucic-says-will-resign-within-weeks?traffic_source=rss"
+  },
+  {
+    "id": "b3760c4adf73",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T15:53",
+    "headline": "Brother and sister killed in Israeli attack on Gaza ‘safe zone’",
+    "excerpt": "Israeli drones struck tents in al-Mawasi, killing two Palestinians and wounding several others.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-06-27T21:31:22.566371+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss"
+  },
+  {
     "id": "3a1ba403f14b",
     "source": "Al Jazeera",
     "date": "2026-06-27T19:22",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-18T17:44:37.510988+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/these-are-the-palestinians-that-israel-has-killed-during-gazas?traffic_source=rss"
-  },
-  {
-    "id": "c91ff11dbd5b",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T14:30",
-    "headline": "Patients die in Gaza waiting for medical evacuations Israel keeps blocking",
-    "excerpt": "Despite having medical referrals to leave Gaza, Palestinians are not allowed to leave.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-18T17:44:37.511016+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/18/patients-die-in-gaza-waiting-for-medical-evacuations-israel-keeps-blocking?traffic_source=rss"
-  },
-  {
-    "id": "d2e792080feb",
-    "source": "PressTV",
-    "date": "2026-06-18T17:44",
-    "headline": "Leader hails Iranian officials' efforts, says Trump desperate in reaching deal",
-    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei has hailed Iranian officials' \"compassion and goodwill\" in reaching a memorandum of understanding with the United States, while saying the American president had used various leverage points out of desperation.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-18T17:44:39.137836+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/18/770692/Leader-hails-Iranian-officials--efforts,-says-Trump-desperate-in-reaching-deal"
-  },
-  {
-    "id": "8a5bae9d101c",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T13:27",
-    "headline": "Rial rebounds and stocks soar, but Iranians still grapple with high prices",
-    "excerpt": "After an initial US-Iran agreement is reached, Iranians still await relief at the grocery checkout.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-18T14:29:10.770113+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/18/rial-rebounds-and-stocks-soar-but-iranians-still-grapple-with-high-prices?traffic_source=rss"
   }
 ]
