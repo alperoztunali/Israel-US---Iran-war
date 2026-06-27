@@ -1,5 +1,38 @@
 [
   {
+    "id": "79e20c52a893",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T17:04",
+    "headline": "Explosion and gunfire reported in Pakistan’s Karachi",
+    "excerpt": "Local sources say incident took place at gate leading to the offices of paramilitary force known as the Rangers.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-27T17:31:49.522217+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss"
+  },
+  {
+    "id": "cc0cd9beacd4",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T16:31",
+    "headline": "Lebanon divided over framework agreement signed in Washington",
+    "excerpt": "Lebanon divided over framework agreement signed in Washington",
+    "category": "Diplomatic",
+    "location": "Lebanon",
+    "addedAt": "2026-06-27T17:31:49.522259+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/lebanon-divided-over-framework-agreement-signed-in-washington?traffic_source=rss"
+  },
+  {
+    "id": "530e624f79fc",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T15:53",
+    "headline": "Israeli drone attack kills young girl in Gaza safe zone",
+    "excerpt": "Israeli drones struck tents in al-Mawasi, Khan Younis, killing two Palestinians and wounding several others.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-06-27T17:31:49.522282+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss"
+  },
+  {
     "id": "450cf522e7d1",
     "source": "Al Jazeera",
     "date": "2026-06-27T15:40",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-18T11:17:39.182228+00:00",
     "link": "https://presstv.ir/Detail/2026/06/18/770671/US-Tucker-Carlson-Iran-MoU-empire-Trump-Suez-crisis-British-Empire"
-  },
-  {
-    "id": "060e3289c8ac",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T04:35",
-    "headline": "Activist praises Algeria’s support for Gaza orphans following World Cup def",
-    "excerpt": "Activist praises Algeria’s support for Gaza orphans following World Cup defeat",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-06-18T07:10:16.447966+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/activist-praises-algerias-support-for-gaza-orphans-following-world-cup-def?traffic_source=rss"
-  },
-  {
-    "id": "ae512999066e",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T04:15",
-    "headline": "US must ‘force’ Israel to change its policy on Lebanon",
-    "excerpt": "Rami Khouri says real policy change will only happen when the US forces Israel’s hand in Lebanon.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-18T07:10:16.448013+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-must-force-israel-to-change-its-policy-on-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "27b2dd34466a",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T03:45",
-    "headline": "Oil prices fall, stocks rally as US, Iran sign framework to end war",
-    "excerpt": "Brent crude drops 2.3 percent, while key stock indices in Japan, South Korea and Taiwan climb.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-18T07:10:16.448049+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/18/oil-prices-fall-stocks-rally-as-us-iran-sign-framework-to-end-war?traffic_source=rss"
   }
 ]
