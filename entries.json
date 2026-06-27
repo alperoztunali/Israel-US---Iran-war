@@ -1,5 +1,93 @@
 [
   {
+    "id": "7fa4f40ca578",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T07:20",
+    "headline": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+    "excerpt": "US says it targeted Iranian missile and drone storage locations while IRGC said it hit US military sites in the region.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-06-27T07:36:40.080915+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss"
+  },
+  {
+    "id": "22e0d8b34d75",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T07:04",
+    "headline": "Belgium reach World Cup knockouts as New Zealand exit tournament",
+    "excerpt": "A double strike from Arsenal&#039;s Leandro Trossard against New Zealand carried Belgium to top of Group G, ahead of Egypt.",
+    "category": "Other",
+    "location": "Egypt",
+    "addedAt": "2026-06-27T07:36:40.080968+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/27/belgium-new-zealand-fifa-world-cup-2026-trossard-lukaku-de-bruyne-saelemaekers?traffic_source=rss"
+  },
+  {
+    "id": "f1499da0c4b3",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T07:00",
+    "headline": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+    "excerpt": "Vance warned &#039;violence will be met with violence&#039; while the IRGC says future responses to aggression will be &#039;broader&#039;.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-27T07:36:40.081004+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "f854dd468b71",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T05:46",
+    "headline": "Iran wait on World Cup progress after late goal disallowed in Egypt draw",
+    "excerpt": "Egypt finish second with five points in Group G, while Iran finish third with three points.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-27T07:36:40.081039+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/27/iran-wait-on-world-cup-progress-after-late-goal-disallowed-in-egypt-draw?traffic_source=rss"
+  },
+  {
+    "id": "94706b8e2191",
+    "source": "PressTV",
+    "date": "2026-06-27T07:36",
+    "headline": "Leader’s advisor warns US, Israel of high casualties in any future aggression against Iran",
+    "excerpt": "Mohsen Rezaei, senior advisor to the Leader of the Islamic Revolution has warned that any new war initiated by the United States or Israel would result in heavy casualties.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-06-27T07:36:42.877219+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/27/771164/Iran-Mohsen-Rezaei-warns-US-Israel-new-war-result-heavy-casualties"
+  },
+  {
+    "id": "e7b38d80f02e",
+    "source": "PressTV",
+    "date": "2026-06-27T07:36",
+    "headline": "Iran FM discusses Islamabad agreement, regional developments with counterparts",
+    "excerpt": "Araghchi holds a series of telephone conversations with his counterparts discussing the Islamabad agreement and regional developments.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-27T07:36:42.877258+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/27/771162/Araghchi-holds-phone-calls-with-counterparts-on-Islamabad-agreement,-regional-developments"
+  },
+  {
+    "id": "aa858d6c5075",
+    "source": "PressTV",
+    "date": "2026-06-27T07:36",
+    "headline": "Thousands flood Lebanon’s streets to reject US-backed deal with Israel",
+    "excerpt": "Protests erupt across Lebanon as demonstrators rejected a US-brokered “framework agreement” between Beirut and Tel Aviv.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-27T07:36:42.877295+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/27/771167/Lebanese-take-to-streets-to-condemn-US-brokered-agreement-between-Beirut,-Tel-Aviv"
+  },
+  {
+    "id": "c92ebfd90f8c",
+    "source": "PressTV",
+    "date": "2026-06-27T07:36",
+    "headline": "US-backed deal with Israel has ‘no legitimacy’: Top Lebanese cleric",
+    "excerpt": "A senior Lebanese Shia cleric says there is no legitimacy for the US-sponsored framework agreement between the Beirut government and the Tel Aviv regime.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-27T07:36:42.877334+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/27/771163/Top-cleric--No-legitimacy-for-US-sponsored-framework-agreement-between-Beirut-govt-,-and-Israel"
+  },
+  {
     "id": "78d36dedfe26",
     "source": "Al Jazeera",
     "date": "2026-06-27T04:13",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-17T21:45:48.710221+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-eyes-us-iran-peace-deal-signing?traffic_source=rss"
-  },
-  {
-    "id": "a182ea39a1f2",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T19:04",
-    "headline": "Ukrainian rescuers killed in Russian secondary strike laid to rest",
-    "excerpt": "Mourners gathered at a cemetery in Kharkiv as three Ukrainian rescuers were laid to rest.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-17T21:45:48.710247+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/ukrainian-rescuers-killed-in-russian-secondary-strike-laid-to-rest?traffic_source=rss"
-  },
-  {
-    "id": "e4a0fb8c4637",
-    "source": "PressTV",
-    "date": "2026-06-17T21:45",
-    "headline": "Iran, US presidents sign war-ending MoU, Geneva meeting still on track: FM spox",
-    "excerpt": "The spokesman explained that the decision to have the agreement signed by the highest-ranking officials of both countries was intentional, given past experiences.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-17T21:45:50.627877+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770645/Iran-US-presidents-sign-war-ending-MoU-Geneva-meeting-still-on-track-FM-spox"
-  },
-  {
-    "id": "f42eec09849a",
-    "source": "PressTV",
-    "date": "2026-06-17T21:45",
-    "headline": "Factbox: 14-point US-Iran MoU lays out terms to end imposed war, reshape regional security framework",
-    "excerpt": "The 14-point MoU between Iran and the US lays out a comprehensive framework designed to end the imposed war and reconfigure the regional order with Iran as a principal power.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-17T21:45:50.627918+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770643/full-text-14-point-iran-us-mou-terms-ending-war-reshape-regional-framework"
-  },
-  {
-    "id": "0f4ab6aa9a2e",
-    "source": "PressTV",
-    "date": "2026-06-17T21:45",
-    "headline": "The banner of battlefield victory today underpins Iran’s diplomacy of strength: Qalibaf",
-    "excerpt": "The speaker of Iran’s Parliament says the country is pursuing a \"diplomacy of strength\" backed by its battlefield victory over the US and the Israeli regime.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-17T21:45:50.627965+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770644/Iran-United-States-Israel-war-diplomacy-Qalibaf-interview"
-  },
-  {
-    "id": "1bb18ca4269b",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T18:53",
-    "headline": "Tehran says considering plan for Iran, US presidents to sign deal",
-    "excerpt": "Trump says he expects the agreement with Iran to be signed &#039;shortly&#039; without specifying the exact date.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-17T19:36:53.836930+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/17/tehran-says-considering-plan-for-iran-us-presidents-to-sign-deal?traffic_source=rss"
-  },
-  {
-    "id": "1ad858bafb97",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T18:08",
-    "headline": "Trump: World will ‘find out pretty soon’ if Iran MOU signing will happen",
-    "excerpt": "Trump suggests deal signing on Friday could still fall through, vows to bomb Iran if they don&#039;t &#039;behave&#039;.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-17T19:36:53.836968+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/17/trump-world-will-find-out-pretty-soon-if-iran-mou-signing-will-happen?traffic_source=rss"
-  },
-  {
-    "id": "f1f5c2dc8277",
-    "source": "Al Jazeera",
-    "date": "2026-06-17T18:07",
-    "headline": "US Federal Reserve holds rates steady under new chair Warsh",
-    "excerpt": "Heightened energy prices because of the US-Israel war with Iran has pushed US inflation to a three-year high.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-17T19:36:53.837006+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/17/us-federal-reserve-holds-rates-steady-under-new-chair-warsh?traffic_source=rss"
-  },
-  {
-    "id": "556a01500b22",
-    "source": "PressTV",
-    "date": "2026-06-17T19:36",
-    "headline": "Trump admits world had just ‘four weeks’ of oil left without Iran deal",
-    "excerpt": "Trump's admission underscores the effectiveness of Iran's strategy in placing restrictions on the strategic waterway.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-17T19:36:55.579622+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/17/770641/Global-oil-reserves-critical-lows-pressure-US-to-accept-Iran-terms-Trump-admits"
   }
 ]
