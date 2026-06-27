@@ -1,5 +1,82 @@
 [
   {
+    "id": "3a1ba403f14b",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T19:22",
+    "headline": "Why is Crimea critical to the Russia–Ukraine war?",
+    "excerpt": "Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv tries to pressure Moscow into ending the war.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-27T20:11:56.773607+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "a0c7400575c9",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T19:12",
+    "headline": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
+    "excerpt": "Israeli Defence Minister Israel Katz says the military has been ordered to prepare for an ‘extended stay’ in Lebanon.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-27T20:11:56.773656+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "516d6c1da1a9",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T18:50",
+    "headline": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
+    "excerpt": "Two killed and dozens injured in Israeli strike on displacement tents in Gaza",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-27T20:11:56.773685+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "b6f35ea97168",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T18:46",
+    "headline": "Kenya rights groups say protesters found dumped, tortured after arrests",
+    "excerpt": "Six found and one missing, NGOs say, after arrests at memorial gatherings for protesters killed in 2024.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-27T20:11:56.773717+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss"
+  },
+  {
+    "id": "817d30c24daa",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T18:30",
+    "headline": "Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US",
+    "excerpt": "Iran, who played their three group-stage matches at World Cup 2026, now face a wait to know if they will reach last 32.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-27T20:11:56.773754+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/27/iran-urge-fifa-to-stand-up-to-really-terrible-world-cup-treatment-by-us?traffic_source=rss"
+  },
+  {
+    "id": "85db131b6c4c",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T15:53",
+    "headline": "Israel kills brother and sister in attack on Gaza ‘safe zone’",
+    "excerpt": "Israeli drones struck tents in al-Mawasi, Khan Younis, killing two Palestinians and wounding several others.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-06-27T20:11:56.773791+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss"
+  },
+  {
+    "id": "05f98fb95d0c",
+    "source": "PressTV",
+    "date": "2026-06-27T20:11",
+    "headline": "Israel keeps bombing Lebanon, prepares for long occupation",
+    "excerpt": "Israel’s war minister says the regime is preparing for a long occupation of southern Lebanon.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-27T20:11:59.143319+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/27/771207/Israel-attacks-occupation-Lebanon-Katz-US"
+  },
+  {
     "id": "bb04b4dee308",
     "source": "Al Jazeera",
     "date": "2026-06-27T17:21",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-18T14:29:10.770113+00:00",
     "link": "https://www.aljazeera.com/economy/2026/6/18/rial-rebounds-and-stocks-soar-but-iranians-still-grapple-with-high-prices?traffic_source=rss"
-  },
-  {
-    "id": "d0cd2d7dad6a",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T13:04",
-    "headline": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
-    "excerpt": "Israeli attacks in southern Lebanon continue in spite of a US-Iran deal that would mean ceasing military operations.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-18T14:29:10.770162+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal?traffic_source=rss"
-  },
-  {
-    "id": "4c2bf2056a7f",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T12:23",
-    "headline": "Iran says it will charge a ‘payment for services’ in the Strait of Hormuz",
-    "excerpt": "Iran says it will charge a ‘payment for services’ in the Strait of Hormuz",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-18T14:29:10.770200+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/iran-says-it-will-charge-a-payment-for-services-in-the-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "8f80979af37d",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T11:50",
-    "headline": "What the Trump-Iran agreement says about Lebanon, Hormuz and uranium",
-    "excerpt": "The memorandum of understanding covers 14 points but leaves many crucial questions unanswered.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-18T14:29:10.770228+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium?traffic_source=rss"
-  },
-  {
-    "id": "1703e1818626",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T11:06",
-    "headline": "World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz",
-    "excerpt": "Several countries welcome deal, as IAEA chief says &#039;now the technical work starts&#039; on Iran&#039;s nuclear programme.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-18T14:29:10.770255+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/18/world-reacts-to-us-iran-deal-to-extend-ceasefire-begin-negotations?traffic_source=rss"
-  },
-  {
-    "id": "c848579c43f5",
-    "source": "PressTV",
-    "date": "2026-06-18T14:29",
-    "headline": "Pezeshkian hails MoU with US as testament to ‘a powerful Iran’",
-    "excerpt": "Iranian President Masoud Pezeshkian has hailed the Islamabad Memorandum of Understanding signed with the United States as a “historic document” and a demonstration of Iran’s strength on the world stage.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-18T14:29:12.459994+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/18/770679/Pezeshkian--Islamabad-MoU-historic-message-powerful-Iran"
-  },
-  {
-    "id": "ed72c161ca92",
-    "source": "PressTV",
-    "date": "2026-06-18T14:29",
-    "headline": "'US imperialist hubris damaged': Netizens weigh in on Iran-US war-ending MoU",
-    "excerpt": "Social media users largely believe that the 14-point Iran-US MoU deals a blow to US imperialist hubris.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-18T14:29:12.460035+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/18/770674/Iran-US-MoU-Netizens"
-  },
-  {
-    "id": "8a8c2d8f6970",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T08:11",
-    "headline": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
-    "excerpt": "Russia&#039;s Defence Ministry says air defences shot down 555 Ukrainian drones over several regions overnight.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-18T11:17:37.549950+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss"
   }
 ]
