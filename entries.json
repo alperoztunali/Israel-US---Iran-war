@@ -1,5 +1,16 @@
 [
   {
+    "id": "ca65b0896a9e",
+    "source": "Al Jazeera",
+    "date": "2026-06-27T22:07",
+    "headline": "US launches second night of strikes against Iran after ship struck by drone",
+    "excerpt": "The attacks come after an Iranian drone allegedly struck another commercial vessel in the Strait of Hormuz on Saturday.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-06-27T22:44:12.931053+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss"
+  },
+  {
     "id": "d8b26653f497",
     "source": "Al Jazeera",
     "date": "2026-06-27T21:13",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-18T17:44:37.510961+00:00",
     "link": "https://www.aljazeera.com/features/2026/6/18/trump-netanyahu-tensions-have-israeli-and-us-leaders-clashed-before?traffic_source=rss"
-  },
-  {
-    "id": "92c9a9d9d65f",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T14:33",
-    "headline": "These are the Palestinians that Israel has killed during Gaza’s ‘ceasefire’",
-    "excerpt": "Israel has killed more than 1,000 Palestinians since agreeing to a US-brokered ‘ceasefire’ in its genocidal war.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-18T17:44:37.510988+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/these-are-the-palestinians-that-israel-has-killed-during-gazas?traffic_source=rss"
   }
 ]
