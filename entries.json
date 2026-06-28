@@ -1,5 +1,38 @@
 [
   {
+    "id": "59b03fe5165e",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T19:21",
+    "headline": "Israeli forces bulldoze olive groves in the occupied West Bank",
+    "excerpt": "Israeli forces bulldozed olive trees in the village of Zububa, west of Jenin in the occupied West Bank.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-28T19:46:41.820454+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "7d20e6f099d9",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T18:55",
+    "headline": "US and Iran trade strikes days after peace agreement",
+    "excerpt": "Just days after signing a memorandum of understanding, the US and Iran have traded strikes.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-28T19:46:41.820496+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss"
+  },
+  {
+    "id": "e421345356af",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T18:05",
+    "headline": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
+    "excerpt": "Anger over deal that does not force Israeli troops to withdraw from occupied land after months of deadly attacks.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-28T19:46:41.820525+00:00",
+    "link": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss"
+  },
+  {
     "id": "580530f50b8c",
     "source": "Al Jazeera",
     "date": "2026-06-28T16:38",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-19T13:50:01.175443+00:00",
     "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships"
-  },
-  {
-    "id": "a113cdceedba",
-    "source": "PressTV",
-    "date": "2026-06-19T13:50",
-    "headline": "IRGC ready to inflict ‘much greater defeat’ on enemy if Iran’s rights violated",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) voices its readiness to inflict a “much greater defeat” on the enemy if it repeats its excessive demands and violates the Iranian nation’s rights.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-19T13:50:01.175474+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/19/770728/Iran-IRGC-ready-inflict-defeat-enemy"
-  },
-  {
-    "id": "057b65be4bad",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T09:54",
-    "headline": "Israel continues attacks on Lebanon despite US-Iran deal",
-    "excerpt": "Israel continues attacks on Lebanon despite US-Iran deal",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-19T10:02:58.014212+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-continues-attacks-on-lebanon-despite-us-iran-deal?traffic_source=rss"
-  },
-  {
-    "id": "a898f9fd6ff8",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T09:49",
-    "headline": "Syrian activist Hassan Akkad detained in Damascus",
-    "excerpt": "Syrian journalist Mousa al-Omar reportedly filed a complaint about Akkad’s social media comments prior to his arrest.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-06-19T10:02:58.014267+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss"
   }
 ]
