@@ -1,5 +1,38 @@
 [
   {
+    "id": "580530f50b8c",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T16:38",
+    "headline": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
+    "excerpt": "Drone footage from Venezuela&#039;s La Guaira shows widespread destruction after twin earthquakes devastated the region.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-28T16:48:54.884604+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss"
+  },
+  {
+    "id": "b1c9a4f8e24c",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T15:53",
+    "headline": "Israel strikes Lebanon, testing days-old peace deal",
+    "excerpt": "Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-06-28T16:48:54.884645+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss"
+  },
+  {
+    "id": "1f04c6d90836",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T15:16",
+    "headline": "Three firefighters killed in US wildfires along Colorado–Utah border",
+    "excerpt": "The US has seen a harsh wildfire season this year, with prolonged droughts and dry conditions fuelling blazes.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-06-28T16:48:54.884686+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah?traffic_source=rss"
+  },
+  {
     "id": "44af40110299",
     "source": "Al Jazeera",
     "date": "2026-06-28T15:19",
@@ -5465,38 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-06-19T10:02:58.014267+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss"
-  },
-  {
-    "id": "63e8564c9a36",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T09:36",
-    "headline": "Achraf Hakimi, Morocco’s World Cup captain, to stand trial on rape charge",
-    "excerpt": "A French appeals court confirmed that Hakimi will face trial for the alleged rape of a woman in 2023, which he denies.",
-    "category": "Statement",
-    "location": "Oman",
-    "addedAt": "2026-06-19T10:02:58.014316+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/19/achraf-hakimi-moroccos-world-cup-captain-to-stand-trial-on-rape-charge?traffic_source=rss"
-  },
-  {
-    "id": "2e34f1215f72",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T08:49",
-    "headline": "For one Yemeni, World Cup serves as a marker of war and peace",
-    "excerpt": "Since 1982, a Yemeni fan&#039;s commitment to the World Cup has endured war, economic turmoil, and personal sacrifices.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-06-19T10:02:58.014351+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/19/for-one-yemeni-world-cup-serves-as-a-marker-of-war-and-peace?traffic_source=rss"
-  },
-  {
-    "id": "1ffb15643385",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T08:32",
-    "headline": "World Cup: Who is Ayyoub Bouaddi, the French teenager playing for Morocco?",
-    "excerpt": "A promising midfielder marked for the French team, Bouaddi is a breakout sensation on his World Cup debut with Morocco.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-19T10:02:58.014389+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/19/world-cup-who-is-ayyoub-bouaddi-the-french-teenager-playing-for-morocco?traffic_source=rss"
   }
 ]
