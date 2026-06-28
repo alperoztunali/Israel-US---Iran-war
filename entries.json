@@ -1,5 +1,60 @@
 [
   {
+    "id": "1d000192d115",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T05:09",
+    "headline": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out",
+    "excerpt": "Lionel Messi scored his sixth goal of the 2026 World Cup, Harry Kane sent England top of their group, and Iran exited.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-28T06:33:27.476849+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/6/28/messi-argentina-fifa-world-cup-2026-england-dr-congo-portugal-iran?traffic_source=rss"
+  },
+  {
+    "id": "f2c3d94f5874",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T03:40",
+    "headline": "Gulf countries attacked after US launches second round of strikes on Iran",
+    "excerpt": "Gulf countries attacked after US launches second round of strikes on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-28T06:33:27.476894+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "128ee7cf17a4",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T00:00",
+    "headline": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
+    "excerpt": "President Trump threatens to &#039;militarily complete the job&#039; as the US strikes Sirik and Qeshm Island over ship attacks.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-06-28T06:33:27.476921+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss"
+  },
+  {
+    "id": "6600459a3815",
+    "source": "PressTV",
+    "date": "2026-06-28T06:33",
+    "headline": "Iran slams Italy’s ‘technical support’ for US-Israeli aggression as ‘clear’ complicity",
+    "excerpt": "Iran says Italy’s technical and logistical support for the recent US-Israeli war of aggression against the Islamic Republic is tantamount to a “clear and direct” role in the illegal military assault.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-28T06:33:30.541744+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/28/771218/Iran-Italy-direct-role-US-Isreali-war"
+  },
+  {
+    "id": "ce7f17402ffb",
+    "source": "PressTV",
+    "date": "2026-06-28T06:33",
+    "headline": "Iraqi forces deployed in Baghdad’s Green Zone, arrest officials on corruption charges",
+    "excerpt": "Iraqi security forces have launched a major operation in Baghdad’s Green Zone, arresting several officials facing corruption charges.",
+    "category": "Movement",
+    "location": "Iraq",
+    "addedAt": "2026-06-28T06:33:30.541787+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/28/771216/Iraqi-armed-forces-raid-Baghdad%E2%80%99s-Green-Zone,-arrest-officials-charged-with-corruption"
+  },
+  {
     "id": "e56881181fe4",
     "source": "Al Jazeera",
     "date": "2026-06-28T00:09",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-18T20:00:07.899188+00:00",
     "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU"
-  },
-  {
-    "id": "7954115a3f34",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T17:09",
-    "headline": "Southern Lebanon residents doubt US-Iran agreement will bring lasting calm",
-    "excerpt": "Residents of southern Lebanon expressed scepticism that hostilities would end after the US-Iran MoU to end the war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-18T17:44:37.510682+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_southern-lebanon-residents-doubt-us-iran-deal-180626?traffic_source=rss"
-  },
-  {
-    "id": "5672cc12abb1",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T17:08",
-    "headline": "JD Vance tells Israel ‘you can’t kill your way out’ of security problems",
-    "excerpt": "US vice president defends Iran war MoU, framing war as victory for Washington regardless of negotiation outcome.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-18T17:44:37.510740+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/18/jd-vance-tells-israel-you-cant-kill-your-way-out-of-security-problems?traffic_source=rss"
-  },
-  {
-    "id": "c3e5a430058f",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T16:52",
-    "headline": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
-    "excerpt": "An Israeli attack on a vehicle in Gaza City has killed at least three Palestinians.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-18T17:44:37.510769+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/more-than-1000-killed-in-israel-attacks-on-gaza-since-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "6d12e4a27267",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T16:50",
-    "headline": "Israel kills at least three Palestinians in Gaza City drone strike",
-    "excerpt": "Gaza&#039;s Health Ministry says at least 1,007 Palestinians have been killed by Israel since the so-called &#039;ceasefire&#039;.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-06-18T17:44:37.510795+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/18/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike?traffic_source=rss"
-  },
-  {
-    "id": "e526359d3f92",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T16:49",
-    "headline": "What we know so far about the US-Iran ceremony in Switzerland",
-    "excerpt": "Talks expected to begin at the Qatar-owned Burgenstock Resort in Switzerland.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-18T17:44:37.510823+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/18/what-we-know-so-far-about-the-us-iran-ceremony-in-switzerland?traffic_source=rss"
   }
 ]
