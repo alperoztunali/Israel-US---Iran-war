@@ -1,5 +1,38 @@
 [
   {
+    "id": "e56881181fe4",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T00:09",
+    "headline": "Anger grows in Venezuela as citizens blocked from aiding earthquake rescue",
+    "excerpt": "Anger is mounting in Venezuela after the military barred citizens from entering zones devastated by the earthquakes.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-28T01:56:35.663535+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/anger-grows-in-venezuela-as-citizens-blocked-from-aiding-earthquake-rescue?traffic_source=rss"
+  },
+  {
+    "id": "f14f718b2587",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T00:00",
+    "headline": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
+    "excerpt": "US president threatens to &#039;militarily complete the job&#039; as the US strikes Sirik and Qeshm Island over ship attacks.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-06-28T01:56:35.663571+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss"
+  },
+  {
+    "id": "e7c444db4f95",
+    "source": "PressTV",
+    "date": "2026-06-28T01:56",
+    "headline": "'Decisive response': IRGC strikes eight US military installations after renewed American attacks",
+    "excerpt": "The IRGC says it launched a large-scale missile and drone operation against eight US military installations in the region in reprisal for renewed American aggression.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-28T01:56:37.399177+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/28/771212/Iran-IRGC-ballistic-missile-drone-operation-United-States-Kuwait-Bahrain"
+  },
+  {
     "id": "2b2dd2abd66b",
     "source": "Al Jazeera",
     "date": "2026-06-27T22:07",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-18T17:44:37.510823+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/18/what-we-know-so-far-about-the-us-iran-ceremony-in-switzerland?traffic_source=rss"
-  },
-  {
-    "id": "4cdfe7b14140",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T16:26",
-    "headline": "Lebanon Latest: Tensions remain despite US-Iran deal",
-    "excerpt": "Residents return home as a fragile ceasefire takes hold across southern Lebanon.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-18T17:44:37.510853+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-aje_onl_lebanon_wrap-180626?traffic_source=rss"
-  },
-  {
-    "id": "d2ac344b0af7",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T16:05",
-    "headline": "Niger says soldiers, civilians killed in armed attack on Niamey airport",
-    "excerpt": "Ministry of Defence says 11 soldiers, 2 civilians and 22 attackers killed in Diori Hamani International Airport assault.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-18T17:44:37.510884+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/18/niger-says-soldiers-civilians-killed-in-armed-attack-on-niamey-airport?traffic_source=rss"
-  },
-  {
-    "id": "d5653b7a2490",
-    "source": "Al Jazeera",
-    "date": "2026-06-18T15:10",
-    "headline": "How does Trump’s MOU with Iran compare with Obama’s nuclear pact?",
-    "excerpt": "Trump promised a better deal than the 2015 JCPOA nuclear agreement with Iran - but is it?",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-18T17:44:37.510927+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/18/how-does-trumps-mou-with-iran-compare-with-obamas-nuclear-pact?traffic_source=rss"
   }
 ]
