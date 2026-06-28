@@ -1,5 +1,60 @@
 [
   {
+    "id": "44af40110299",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T15:19",
+    "headline": "Iraq arrests senior officials in anti-corruption raids",
+    "excerpt": "Iraqi security forces arrested several politicians, lawmakers and senior officials in dawn raids across Baghdad.",
+    "category": "Movement",
+    "location": "Iraq",
+    "addedAt": "2026-06-28T15:40:46.822409+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss"
+  },
+  {
+    "id": "558103fb7d3f",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T14:46",
+    "headline": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
+    "excerpt": "Political scientist Robert Pape argues the fallout of Iran war curbs US hubris and challenges Trump’s self-image.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-28T15:40:46.822449+00:00",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss"
+  },
+  {
+    "id": "196e7a0bf4ef",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T14:01",
+    "headline": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
+    "excerpt": "Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-28T15:40:46.822474+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss"
+  },
+  {
+    "id": "70db029332ba",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T13:59",
+    "headline": "The US-Iran MoU: A mirage of an agreement",
+    "excerpt": "Both Washington and Tehran know that current deal will not lead to lasting peace. It is merely a strategic pause",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-28T15:40:46.822495+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/6/28/the-us-iran-mou-a-mirage-of-an-agreement?traffic_source=rss"
+  },
+  {
+    "id": "057fd5ec9c37",
+    "source": "PressTV",
+    "date": "2026-06-28T15:40",
+    "headline": "Iran seriously pursuing halt to Israeli war on Lebanon: Qalibaf",
+    "excerpt": "The Iranian Parliament speaker says ending the war in Lebanon and preserving its sovereignty and territorial integrity are key parts of the paragraph one of Iran-US MoU.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-28T15:40:49.284718+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/28/771251/Iran-Lebanon-Qalibaf-Berri"
+  },
+  {
     "id": "d44e2d76db5a",
     "source": "Al Jazeera",
     "date": "2026-06-28T13:36",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-19T10:02:58.014389+00:00",
     "link": "https://www.aljazeera.com/sports/2026/6/19/world-cup-who-is-ayyoub-bouaddi-the-french-teenager-playing-for-morocco?traffic_source=rss"
-  },
-  {
-    "id": "dac8075d4dcf",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T08:23",
-    "headline": "US kills 3 in strike on alleged drug smuggling boat in Eastern Pacific",
-    "excerpt": "The attack is the latest in a series of strikes on vessels operated by &#039;narco-terrorists,&#039; according to Washington.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-06-19T10:02:58.014425+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/19/us-kills-3-in-strike-on-alleged-drug-smuggling-boat-in-eastern-pacific?traffic_source=rss"
-  },
-  {
-    "id": "1f19b06ddb0e",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T07:19",
-    "headline": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow",
-    "excerpt": "Brent crude reverses slide after oil, LNG tankers cross critical waterway.",
-    "category": "Naval",
-    "location": "Lebanon",
-    "addedAt": "2026-06-19T10:02:58.014453+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow?traffic_source=rss"
-  },
-  {
-    "id": "8dbddf50673b",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T07:06",
-    "headline": "Fears for US-Iran deal as talks delayed by Israeli strikes on Lebanon",
-    "excerpt": "Tehran holds back from talks to cement ceasefire due to ongoing Israeli attacks on southern Lebanon.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-19T10:02:58.014490+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/19/us-iran-talks-postponed-as-israel-attacks-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "0b4b464e4a78",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T07:01",
-    "headline": "Iran to lodge complaint with FIFA over World Cup 2026 travel restrictions",
-    "excerpt": "Team&#039;s complaint comes amid the denial of their request to fly to the United States two days before their next match.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-19T10:02:58.014522+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/19/iran-to-lodge-complaint-with-fifa-over-world-cup-2026-travel-restrictions?traffic_source=rss"
-  },
-  {
-    "id": "bc74a30ae3be",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T06:04",
-    "headline": "Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off",
-    "excerpt": "Vance backs US-Iran deal as Washington ends blockade and Iran hails wartime gains.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-19T10:02:58.014555+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/19/iran-war-day-112-vance-defends-tehran-deal-but-switzerland-trips-are-off?traffic_source=rss"
   }
 ]
