@@ -1,5 +1,49 @@
 [
   {
+    "id": "6b3489226e6f",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T20:29",
+    "headline": "Protesters in Serbia doubt Vucic resignation will bring change",
+    "excerpt": "Thousands of protesters gathered in Serbia&#039;s Kraljevo, dismissing Aleksandar Vucic&#039;s pledge to resign.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-28T21:08:46.234210+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss"
+  },
+  {
+    "id": "f9efa8f44e0a",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T19:54",
+    "headline": "Israel kills four Palestinians in Gaza as attacks on tents continue",
+    "excerpt": "Israeli forces restrict Palestinian worshippers at Al-Aqsa Mosque and block the call to prayer at the Ibrahimi Mosque.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-06-28T21:08:46.234251+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss"
+  },
+  {
+    "id": "bfe16bbde322",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T19:54",
+    "headline": "Hope of finding more Venezuela quake survivors fades despite late rescues",
+    "excerpt": "Those rescued include 60-year-old woman trapped for 86 hours, as tens of thousands still reported missing.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-06-28T21:08:46.234292+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss"
+  },
+  {
+    "id": "b3571b5960fc",
+    "source": "Al Jazeera",
+    "date": "2026-06-28T19:43",
+    "headline": "Gaza’s displaced families face worsening living conditions",
+    "excerpt": "Rats infest Gaza&#039;s camps, where sewage and tents full of waste spread disease as families live without sanitation.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-28T21:08:46.234333+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gazas-displaced-families-face-worsening-living-conditions?traffic_source=rss"
+  },
+  {
     "id": "59b03fe5165e",
     "source": "Al Jazeera",
     "date": "2026-06-28T19:21",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-19T13:49:58.787362+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/19/afghanistan-strikes-targets-in-pakistan-raising-cross-border-tension?traffic_source=rss"
-  },
-  {
-    "id": "309b3759031a",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T11:07",
-    "headline": "Trump hints at new approach to North Korea’s nuclear programme",
-    "excerpt": "South Korea&#039;s president said Trump had told him the &#039;time had come&#039; to focus on North Korea &#039;issue&#039; at the G7 summit.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-06-19T13:49:58.787398+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/19/trump-hints-at-new-approach-to-north-koreas-nuclear-programme?traffic_source=rss"
-  },
-  {
-    "id": "707213f39736",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T10:13",
-    "headline": "Can US-Iran peace ‘deal’ survive Israeli bombing of Lebanon?",
-    "excerpt": "Israel is blowing up buildings in Lebanon - and chances of a lasting deal to secure peace in the region.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-19T13:49:58.787414+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/19/can-us-iran-peace-deal-survive-israeli-bombing-of-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "495f1ec0cb9b",
-    "source": "PressTV",
-    "date": "2026-06-19T13:50",
-    "headline": "Iran strongly condemns Israel’s latest bloody aggression against Lebanon",
-    "excerpt": "Iran’s Foreign Ministry has condemned in the strongest terms Israel’s latest aggression against Lebanon, placing a premium on Washington’s accountability for the consequences of the regime’s war mongering.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-19T13:50:01.175414+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/19/770736/iran-israel-lebanon-foreign-ministry"
-  },
-  {
-    "id": "b839000c39db",
-    "source": "PressTV",
-    "date": "2026-06-19T13:50",
-    "headline": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
-    "excerpt": "The Persian Gulf Strait Authority issues a compulsory online clearance system for all vessels intending to transit the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-19T13:50:01.175443+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships"
   }
 ]
