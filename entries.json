@@ -1,5 +1,49 @@
 [
   {
+    "id": "8f67b88c4fa3",
+    "source": "Al Jazeera",
+    "date": "2026-06-29T21:01",
+    "headline": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+    "excerpt": "Israeli Finance Minister Bezalel Smotrich calls for the immediate establishment of Jewish settlements in the Gaza Strip.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-29T21:54:06.890331+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss"
+  },
+  {
+    "id": "ba1202ef5eab",
+    "source": "Al Jazeera",
+    "date": "2026-06-29T20:24",
+    "headline": "What’s behind the anti-corruption crackdown in Iraq?",
+    "excerpt": "A number of senior politicians have been detained in a wave of arrests.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-06-29T21:54:06.890377+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss"
+  },
+  {
+    "id": "a6028224bb35",
+    "source": "Al Jazeera",
+    "date": "2026-06-29T19:08",
+    "headline": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
+    "excerpt": "Israeli rights group B’Tselem has condemned the &#039;unprecedented killing of Palestinian children and teenagers&quot;",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-29T21:54:06.890414+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "924d6fefdeaf",
+    "source": "PressTV",
+    "date": "2026-06-29T21:54",
+    "headline": "President Pezeshkian says Iran will stand by deal only if US does",
+    "excerpt": "Pezeshkian has said that any agreement between Iran and the United States must be rooted in mutual respect and reciprocal commitments, not threats or one-sided pressure.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-29T21:54:08.759660+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/29/771325/President-Pezeshkian-says-Iran-will-stand-by-deal-only-if-US-does"
+  },
+  {
     "id": "be5fa2a38589",
     "source": "Al Jazeera",
     "date": "2026-06-29T19:08",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-20T15:17:26.158124+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/20/nine-left-in-critical-condition-after-uk-train-collision-that-killed-driver?traffic_source=rss"
-  },
-  {
-    "id": "c82440a5ab43",
-    "source": "PressTV",
-    "date": "2026-06-20T15:17",
-    "headline": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
-    "excerpt": "Iran’s central military command has officially declared the Strait of Hormuz closed to all maritime traffic, citing US and Israeli violations of a memorandum of understating between Tehran and Washington.",
-    "category": "Statement",
-    "location": "Tehran",
-    "addedAt": "2026-06-20T15:17:28.023899+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-"
-  },
-  {
-    "id": "60215b59f7b1",
-    "source": "PressTV",
-    "date": "2026-06-20T15:17",
-    "headline": "Hezbollah vows armed resistance against any Israeli attempt to seize Lebanese territory",
-    "excerpt": "Hezbollah says its fighters are fully prepared to make any sacrifice necessary to defend Lebanon.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-06-20T15:17:28.023936+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/20/770798/Hezbollah-vows-armed-resistance-against-Israeli-attempt-seize-Lebanese-territory"
-  },
-  {
-    "id": "a897a6c82888",
-    "source": "Al Jazeera",
-    "date": "2026-06-20T13:05",
-    "headline": "Where do Iran’s political factions stand on the US peace deal?",
-    "excerpt": "Iran&#039;s rival political camps are locking horns over a memorandum of understanding with the US.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-20T13:14:39.828541+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss"
-  },
-  {
-    "id": "aaef5a28a9ee",
-    "source": "Al Jazeera",
-    "date": "2026-06-20T13:01",
-    "headline": "UK condemns Israeli minister over inflammatory Lebanon remarks",
-    "excerpt": "UK foreign secretary slams Israeli minister&#039;s inflammatory remarks amid regional tensions and fragile ceasefire.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-20T13:14:39.828587+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/20/uk-condemns-israeli-minister-over-inflammatory-lebanon-remarks?traffic_source=rss"
   }
 ]
