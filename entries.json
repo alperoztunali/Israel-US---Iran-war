@@ -1,5 +1,71 @@
 [
   {
+    "id": "57ec5fd9f0cb",
+    "source": "Al Jazeera",
+    "date": "2026-06-29T05:35",
+    "headline": "Skydiving plane crash kills 11 in northeastern France",
+    "excerpt": "11 people were killed when a plane belonging to a parachuting school crashed in Tomblaine, France.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-29T06:56:44.930251+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-nf_skydiving-plane-crash-kills-11-in-france-290626?traffic_source=rss"
+  },
+  {
+    "id": "897f03996319",
+    "source": "Al Jazeera",
+    "date": "2026-06-29T03:55",
+    "headline": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+    "excerpt": "Brent crude edges up as tit-for-tat strikes hinder return to normality in key waterway.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-29T06:56:44.930298+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss"
+  },
+  {
+    "id": "7cad72c21994",
+    "source": "Al Jazeera",
+    "date": "2026-06-29T03:03",
+    "headline": "Putin says Ukraine proposed halt to deep strikes",
+    "excerpt": "Russian President Vladimir Putin says Ukraine has proposed a mutual halt to long-range strikes",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-29T06:56:44.930336+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/putin-says-ukraine-proposed-halt-to-deep-strikes?traffic_source=rss"
+  },
+  {
+    "id": "7b78709cb983",
+    "source": "PressTV",
+    "date": "2026-06-29T06:56",
+    "headline": "Contrary to enemy propaganda, Iran’s defense sector continues to make progress: Top general",
+    "excerpt": "A senior Iranian Army commander says the country's defense sector continues to achieve leaps and developments despite hostile media claims.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-29T06:56:46.431923+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/29/771273/Iran-defense-Army-Khoshqalb-"
+  },
+  {
+    "id": "ad89dcf2f004",
+    "source": "PressTV",
+    "date": "2026-06-29T06:56",
+    "headline": "Hezbollah reaffirms right to defend Lebanon amid continuous Israeli violations of truce",
+    "excerpt": "Hezbollah says Israel continues to violate the ceasefire agreement, adding it reserves the right to defend Lebanon and its people.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-06-29T06:56:46.431960+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/29/771274/Hezbollah--Israeli-violations-of-ceasefire-persist-throughout-southern-Lebanon"
+  },
+  {
+    "id": "bb6927acda30",
+    "source": "PressTV",
+    "date": "2026-06-29T06:56",
+    "headline": "Iran FM holds high-level talks in Baghdad, urges collective regional security",
+    "excerpt": "Araghchi met with Iraqi President Nezar Amidi, Parliament Speaker Hebat al-Halbousi, and National Security Adviser Qasim al-Araji.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-29T06:56:46.431985+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/29/771267/Iran-FM-holds-high-level-talks-in-Baghdad-urges-collective-regional-security"
+  },
+  {
     "id": "e944b29ffafd",
     "source": "Al Jazeera",
     "date": "2026-06-29T01:06",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-19T16:33:48.184943+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss"
-  },
-  {
-    "id": "0136bd7dcb82",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T15:16",
-    "headline": "Three killed in Ukraine a day after drone attack kills child in Moscow",
-    "excerpt": "The Kremlin said it will &#039;continue&#039; striking Ukraine after biggest-ever drone attack on Russian capital.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-19T16:33:48.184975+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss"
-  },
-  {
-    "id": "0e7424df468c",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T15:14",
-    "headline": "Trump’s Iran deal: A victory lap before the victory",
-    "excerpt": "The MOU may pause the war, but it leaves Israel exposed while giving Iran relief before real verification.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-19T16:33:48.185009+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/6/19/trumps-iran-deal-a-victory-lap-before-the-victory?traffic_source=rss"
-  },
-  {
-    "id": "00d2dee5fd2e",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T14:50",
-    "headline": "Trump takes aim at critics of US-Iran MoU, says Iran ‘finished’",
-    "excerpt": "Trump says deal amounts to Iran&#039;s &#039;unconditional surrender&#039;; Negotiations thrown into doubt as Vance delays trip.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-19T16:33:48.185054+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/19/trump-takes-aim-at-critics-of-us-iran-mou-says-iran-finished?traffic_source=rss"
-  },
-  {
-    "id": "99ce8f14d568",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T14:28",
-    "headline": "As Lebanon tests US-Iran deal, Trump must rein in Netanyahu, analysts say",
-    "excerpt": "Israel&#039;s invasion and attacks in Lebanon pose &#039;greatest vulnerability&#039; to US-Iran diplomacy, says analyst Trita Parsi.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-19T16:33:48.185086+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/19/as-lebanon-tests-us-iran-deal-trump-must-rein-in-netanyahu-analysts-say?traffic_source=rss"
-  },
-  {
-    "id": "2e2775f07adb",
-    "source": "Al Jazeera",
-    "date": "2026-06-19T13:58",
-    "headline": "Israel slams EU’s Kallas for ‘apartheid’ comment: Are ties unravelling?",
-    "excerpt": "Leaked media reports quoted EU&#039;s top diplomat likening Israel to South Africa&#039;s apartheid regime.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-19T16:33:48.185120+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/19/israel-slams-eus-kallas-for-apartheid-comment-are-ties-unravelling?traffic_source=rss"
-  },
-  {
-    "id": "4d537d700962",
-    "source": "PressTV",
-    "date": "2026-06-19T16:33",
-    "headline": "Iran delays Swiss meeting, links US talks to MoU implementation amid Israel’s Lebanon strikes",
-    "excerpt": "Iran says Friday talks with the US in Switzerland on the Islamabad MoU were postponed as Israel keeps up its attacks on Lebanon.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-19T16:33:49.824855+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/19/770749/Iran-US-Switzerland-Baghaei"
   }
 ]
