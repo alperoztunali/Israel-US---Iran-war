@@ -1,5 +1,38 @@
 [
   {
+    "id": "f739c6cdc64a",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T00:00",
+    "headline": "Iran war live: Tehran denies Trump’s claim of meeting in Doha",
+    "excerpt": "Trump says meeting with Iran will take place in Doha today, but Tehran says there are no plans for talks in coming days.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-30T01:25:21.615337+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss"
+  },
+  {
+    "id": "1b135eb52e62",
+    "source": "Al Jazeera",
+    "date": "2026-06-29T23:29",
+    "headline": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+    "excerpt": "Two people were killed and several others were injured after an Israeli strike hit the Mawasi area of Khan Younis, Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-06-30T01:25:21.615377+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss"
+  },
+  {
+    "id": "2a00f06aa494",
+    "source": "PressTV",
+    "date": "2026-06-30T01:25",
+    "headline": "Hamas: World silence over murdered Palestinian children in Gaza is complicity in Israeli genocide",
+    "excerpt": "A young Palestinian girl was martyred on Monday evening after Israeli warplanes bombed dilapidated tents sheltering displaced families in Khan Younis, southern Gaza Strip.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-06-30T01:25:23.299359+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/30/771328/Hamas--World-silence-over-murdered-Palestinian-children-in-Gaza-is-complicity-in-Israeli-genocide"
+  },
+  {
     "id": "8f67b88c4fa3",
     "source": "Al Jazeera",
     "date": "2026-06-29T21:01",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-20T17:04:13.635496+00:00",
     "link": "https://presstv.ir/Detail/2026/06/20/770810/Islamabad-MoU-follow-up-tops-agenda-Pakistan-s-interior-minister-meets-Araghchi"
-  },
-  {
-    "id": "ed679b620d3e",
-    "source": "PressTV",
-    "date": "2026-06-20T17:04",
-    "headline": "‘Minab 168’: Iran delegation heads to Switzerland to press US over Israeli attacks on Lebanon",
-    "excerpt": "Iran's negotiating delegation has departed for Switzerland to seek clarification on the implementation of US commitments under the recently signed MoU, Baghaei says.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-20T17:04:13.635544+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/20/770808/Iran-Foreign-Ministry-spokesman-warns-Israeli-violations-ceasefire-Lebanon-jeopardize-MoU-US-delegation-heads-to-Switzerland"
-  },
-  {
-    "id": "c5f286c9041b",
-    "source": "Al Jazeera",
-    "date": "2026-06-20T15:10",
-    "headline": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
-    "excerpt": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-20T15:17:26.158081+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-warns-of-reciprocal-action-if-us-doesnt-honour-mou-commitments?traffic_source=rss"
-  },
-  {
-    "id": "c28a83f05b4c",
-    "source": "Al Jazeera",
-    "date": "2026-06-20T14:50",
-    "headline": "Nine left in critical condition after UK train collision that killed driver",
-    "excerpt": "More than 80 people received treatment after the crash and 28 remain in hospital.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-20T15:17:26.158124+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/20/nine-left-in-critical-condition-after-uk-train-collision-that-killed-driver?traffic_source=rss"
   }
 ]
