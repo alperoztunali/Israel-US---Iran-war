@@ -1,5 +1,60 @@
 [
   {
+    "id": "ab46f978f91b",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T20:03",
+    "headline": "Five humanitarian workers killed in convoy ambush in South Sudan",
+    "excerpt": "UN &#039;deeply saddened&#039; by Monday attack on convoy in Jonglei State, calls for investigation.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-30T21:06:09.122427+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss"
+  },
+  {
+    "id": "9f9c3c90a2f6",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T20:00",
+    "headline": "Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era",
+    "excerpt": "Has Iran&#039;s regional deterrence been permanently degraded, or is its proxy network mutating into a resilient force?",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-06-30T21:06:09.122471+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/30/evolution-under-fire-irans-axis-of-resistance-in-a-post-war-era?traffic_source=rss"
+  },
+  {
+    "id": "37894aef235d",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T19:29",
+    "headline": "Russia’s fuel crisis deepens following Ukrainian drone strikes",
+    "excerpt": "Russia&#039;s fuel crisis deepens as Ukrainian drone strikes intensify",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-30T21:06:09.122496+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss"
+  },
+  {
+    "id": "3cf3a714d2ae",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T19:25",
+    "headline": "Lebanon’s fragile ceasefire: 3 months later",
+    "excerpt": "This video also looks at what happened during the three months of the fragile ceasefire.",
+    "category": "Diplomatic",
+    "location": "Lebanon",
+    "addedAt": "2026-06-30T21:06:09.122519+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/lebanons-fragile-ceasefire-3-months-later?traffic_source=rss"
+  },
+  {
+    "id": "c24faaecfc9f",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T18:39",
+    "headline": "At least 14 children killed after roof of Pakistan tuition centre collapses",
+    "excerpt": "One teacher and eight other children also injured after incident in Lahore.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-30T21:06:09.122539+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/30/at-least-14-children-killed-after-roof-of-pakistan-tuition-centre-collapses?traffic_source=rss"
+  },
+  {
     "id": "e943419e3aff",
     "source": "Al Jazeera",
     "date": "2026-06-30T18:09",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-21T12:25:27.514371+00:00",
     "link": "https://presstv.ir/Detail/2026/06/21/770849/Russian-forces-launch-retaliatory-strikes-on-Ukraine-key-energy-sites-in-Kiev-Sumy-Chernigov-DPR"
-  },
-  {
-    "id": "47ef3a8c7557",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T10:11",
-    "headline": "Stop ‘Greater Israel’ to make peace",
-    "excerpt": "Expansionist Israel will not stop dragging the US to war in the Middle East.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-21T10:22:36.739005+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/6/21/stop-greater-israel-to-make-peace?traffic_source=rss"
-  },
-  {
-    "id": "faf573a1dda7",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T10:06",
-    "headline": "Lebanon’s ancient monuments remain at risk from Israeli attack",
-    "excerpt": "Lebanon’s ancient monuments remain at risk from Israeli attack",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-21T10:22:36.739052+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/lebanons-ancient-monuments-remain-at-risk-from-israeli-attack?traffic_source=rss"
-  },
-  {
-    "id": "66dc2f0c25cb",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T10:01",
-    "headline": "Mother of Al Jazeera’s Ahmed Wishah mourns his killing",
-    "excerpt": "This is the moment the mother of Al Jazeera cameraman Ahmed Wishah first saw his body after Israel killed him in Gaza.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-21T10:22:36.739081+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/mother-of-al-jazeeras-ahmed-wishah-mourns-his-killing?traffic_source=rss"
-  },
-  {
-    "id": "60411bf6b7f6",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T09:17",
-    "headline": "The deal with Iran may be imperfect but it is what the American people want",
-    "excerpt": "The Iran war has put the US in a difficult position, but Trump has made the most of it.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-21T10:22:36.739110+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/6/21/the-deal-with-iran-may-be-imperfect-but-it-is-what-the-american-people-want?traffic_source=rss"
-  },
-  {
-    "id": "009cc204830d",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T09:12",
-    "headline": "World Cup 2026 Day 11: Spain and Iran in action, predictions and schedule",
-    "excerpt": "Spain-Saudi Arabia, Belgium-Iran play on Sunday. Germany reach knockouts, and Curacao earn first point at a World Cup.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-21T10:22:36.739140+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/21/fifa-world-cup-2026-spain-iran-predictions-schedule-germany-curacao?traffic_source=rss"
   }
 ]
