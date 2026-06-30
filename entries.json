@@ -1,5 +1,82 @@
 [
   {
+    "id": "f1907748a38a",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T16:55",
+    "headline": "Palestine weekly: Israel accelerates land grabs in Gaza, West Bank",
+    "excerpt": "Permanent alterations begin at Hebron&#039;s Ibrahimi Mosque as plans advance for settlements in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-06-30T17:08:25.642067+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/30/palestine-weekly-israel-quiet-annexation?traffic_source=rss"
+  },
+  {
+    "id": "c5fbbe7f56dc",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T16:40",
+    "headline": "The path from Gaza to Trump’s return",
+    "excerpt": "How the Biden administration’s response to October 7 reshaped US politics and influenced the 2024 presidential election.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-06-30T17:08:25.642121+00:00",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/6/30/the-path-from-gaza-to-trumps-return?traffic_source=rss"
+  },
+  {
+    "id": "2f0fdf83c4a7",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T16:31",
+    "headline": "How severe is Russia’s energy shortage because of Ukrainian strikes?",
+    "excerpt": "Analysts say Russia&#039;s fuel crisis may affect its domestic economy, but the war in Ukraine will remain the priority.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-06-30T17:08:25.642169+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes?traffic_source=rss"
+  },
+  {
+    "id": "13b196d497b2",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T15:51",
+    "headline": "Ivory Coast vs Norway LIVE: FIFA World Cup 2026",
+    "excerpt": "Follow live updates and text commentary as Erling Haaland&#039;s Norway and Yan Diomande&#039;s Ivory Coast meet in last 32 match.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-06-30T17:08:25.642206+00:00",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/6/30/ivory-coast-vs-norway-live-fifa-world-cup-2026?traffic_source=rss"
+  },
+  {
+    "id": "98ed040be5b1",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T15:06",
+    "headline": "Monaco prosecutors say no ‘terror’ evidence after blast, suspect at large",
+    "excerpt": "Search under way for suspect who fled scene after explosive device placed at entrance to building wounded three.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-06-30T17:08:25.642240+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/30/monaco-prosecutors-say-no-terror-evidence-after-blast-suspect-at-large?traffic_source=rss"
+  },
+  {
+    "id": "d8ce0cab00dc",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T14:57",
+    "headline": "Iran to hold talks with Qatar on MoU deal with US, frozen assets",
+    "excerpt": "Iran says it will hold indirect talks with mediator Qatar, to discuss implementing its MoU deal with the US.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-30T17:08:25.642271+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets?traffic_source=rss"
+  },
+  {
+    "id": "59f4d5590db3",
+    "source": "PressTV",
+    "date": "2026-06-30T17:08",
+    "headline": "'War crime': Iran FM vows legal action against US over torpedo attack on Dena frigate",
+    "excerpt": "Foreign Minister Abbas Araghchi says Tehran will pursue the US torpedo attack on the Iranian frigate IRIS Dena through all legal and political channels.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-06-30T17:08:27.459018+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/30/771369/Iran-FM-vows-legal-action-against-US-over-torpedo-attack-on-defenseless-Dena-frigate"
+  },
+  {
     "id": "dad169a8e172",
     "source": "Al Jazeera",
     "date": "2026-06-30T13:25",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-21T10:22:36.739195+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/21/us-iran-talks-in-switzerland-is-lebanon-top-of-agenda-who-is-attending?traffic_source=rss"
-  },
-  {
-    "id": "7e8c615dacd4",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T07:53",
-    "headline": "US and Iran face make-or-break talks in Switzerland",
-    "excerpt": "Iranian and US officials are set for high stakes talks in Switzerland to reinforce the Memorandum of Understanding.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-21T10:22:36.739222+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-and-iran-face-make-or-break-talks-in-switzerland?traffic_source=rss"
-  },
-  {
-    "id": "df25520b62a2",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T07:39",
-    "headline": "Vance arrives in Switzerland for US-Iran talks",
-    "excerpt": "Both nations seek a durable end to their war as Iran slams Israeli attacks on Lebanon as violations of interim deal.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-21T10:22:36.739258+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss"
-  },
-  {
-    "id": "808317db0079",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T07:22",
-    "headline": "Iran war day 114: US, Iranian delegations in Switzerland for key talks",
-    "excerpt": "Lebanon to top the agenda as US and Iran to hold talks in Switzerland’s Burgenstock mediated by Qatar and Pakistan.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-21T10:22:36.739289+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks?traffic_source=rss"
-  },
-  {
-    "id": "1486c5943cac",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T06:28",
-    "headline": "Trump official says Iran World Cup visa approval ‘amazing’",
-    "excerpt": "The chief of the White House World Cup task force says it’s “pretty amazing” Iran’s football team has been given visas.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-21T10:22:36.739323+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/aje-onl-nf_trump-official-says-iran-visa-approval-amazing-210626?traffic_source=rss"
-  },
-  {
-    "id": "12cbe2d61440",
-    "source": "PressTV",
-    "date": "2026-06-21T10:22",
-    "headline": "Iran says US talks to focus on non-implementation of deal’s first clause",
-    "excerpt": "Iran says the planned negotiations with the US will focus on the non-implementation of the first clause of the recently signed Memorandum of Understanding between the two countries.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-21T10:22:38.077738+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/21/770846/Iran-US-talks-deal-first-clause"
-  },
-  {
-    "id": "d9b6d394e9a3",
-    "source": "PressTV",
-    "date": "2026-06-21T10:22",
-    "headline": "Lebanese display banners lauding Iran’s support for end to Israeli aggression on Lebanon",
-    "excerpt": "Banners expressing gratitude to Iran have been installed along a main road leading to Beirut’s airport.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-21T10:22:38.077782+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/21/770841/Lebanese-display-banners-hailing-Iran%E2%80%99s-support-for-permanent-end-to-Israeli-aggression-on-Lebanon"
-  },
-  {
-    "id": "52b892f28f49",
-    "source": "PressTV",
-    "date": "2026-06-21T10:22",
-    "headline": "Israeli minister defies US, says occupation forces will stay in Lebanon for years",
-    "excerpt": "Israeli finance minister Bezalel Smotrich says the occupation’s forces will stay in Lebanon even if the United States demands their withdrawal.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-21T10:22:38.077814+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/21/770835/Israel-Smotrich-occupy-Lebanon-years-"
   }
 ]
