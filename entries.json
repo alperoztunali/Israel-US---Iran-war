@@ -1,5 +1,60 @@
 [
   {
+    "id": "dad169a8e172",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T13:25",
+    "headline": "US envoys in Doha for indirect talks with Iranian technical delegation",
+    "excerpt": "Iran says it has sent an expert delegation to Doha to follow up on the release of frozen Iranian funds.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-06-30T14:45:21.796841+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation?traffic_source=rss"
+  },
+  {
+    "id": "1fa0fd8d6d37",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T13:14",
+    "headline": "UK’s Starmer announces 300-billion-pound defence investment plan",
+    "excerpt": "Plan includes more than 5 billion pounds for drones and autonomous systems over four years, Ministry of Defence says.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-06-30T14:45:21.796894+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/6/30/uks-starmer-announces-300-billion-pound-defence-investment-plan?traffic_source=rss"
+  },
+  {
+    "id": "f8d29f019251",
+    "source": "Al Jazeera",
+    "date": "2026-06-30T11:57",
+    "headline": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
+    "excerpt": "Trump says Iran wants to meet in Qatar after attacks, but Tehran says it is sending a delegation only over frozen funds.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-06-30T14:45:21.796929+00:00",
+    "link": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss"
+  },
+  {
+    "id": "c54686414413",
+    "source": "PressTV",
+    "date": "2026-06-30T14:45",
+    "headline": "Iran monitors US compliance moment-by-moment, won’t implement MoU unilaterally: FM spox",
+    "excerpt": "Iran’s Foreign Ministry spokesman has declared that Tehran will monitor the United States’ compliance with the war‑termination memorandum of understanding (MoU) “moment‑by‑moment.”",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-06-30T14:45:23.696627+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/30/771356/Iran-monitors-US-compliance-moment-by-moment"
+  },
+  {
+    "id": "a9bded87d61a",
+    "source": "PressTV",
+    "date": "2026-06-30T14:45",
+    "headline": "Over 90 countries declare readiness to attend funeral of martyred Leader",
+    "excerpt": "A senior Iranian official says representatives from more than 90 countries are expected to attend the funeral of Ayatollah Seyyed Ali Khamenei.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-06-30T14:45:23.696688+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/30/771359/Iran-funeral-farewell-ceremonies-martyred-Leader-ninety-countries-declares-readiness-participate-"
+  },
+  {
     "id": "2903721b46f9",
     "source": "Al Jazeera",
     "date": "2026-06-30T10:09",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-21T10:22:38.077814+00:00",
     "link": "https://presstv.ir/Detail/2026/06/21/770835/Israel-Smotrich-occupy-Lebanon-years-"
-  },
-  {
-    "id": "a3142c303883",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T05:35",
-    "headline": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
-    "excerpt": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-21T06:32:47.546132+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/al-jazeera-cameraman-ahmed-wishah-killed-in-targeted-israeli-strike?traffic_source=rss"
-  },
-  {
-    "id": "80453924fb64",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T00:00",
-    "headline": "Iran war live: US, Tehran set to hold high-level talks in Switzerland",
-    "excerpt": "Talks come as Iran says it is closing the Strait of Hormuz over Israel&#039;s deadly attacks on Lebanon.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-06-21T06:32:47.546167+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "03947a569a16",
-    "source": "PressTV",
-    "date": "2026-06-21T06:32",
-    "headline": "Israeli soldier slain, 13 others injured in southern Lebanon",
-    "excerpt": "An Israeli soldier has been killed, and 13 others sustained injuries in an overnight operation in southern Lebanon.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-21T06:32:52.370664+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/21/770833/Israeli-soldier-slain,-13-others-injured-in-overnight-operation-in-southern-Lebanon"
-  },
-  {
-    "id": "62fcc124c45a",
-    "source": "PressTV",
-    "date": "2026-06-21T06:32",
-    "headline": "Power remains the only reliable guarantee against enemies: IRGC Navy official",
-    "excerpt": "Senior IRGC Navy official stresses that national power remains the only effective guarantee against the Islamic Republic's adversaries.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-21T06:32:52.370713+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/21/770827/Iran-IRGC-power-enemies-Israel-United-States"
-  },
-  {
-    "id": "fdad79fe3888",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T00:00",
-    "headline": "Iran war live: Vance heads to Switzerland; Israel kills 16 in Lebanon",
-    "excerpt": "Talks come as Iran says it is closing the Strait of Hormuz over Israel&#039;s deadly attacks on Lebanon.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-06-21T01:42:21.734001+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss"
   }
 ]
