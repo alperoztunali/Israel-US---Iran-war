@@ -1,5 +1,49 @@
 [
   {
+    "id": "b05ce1751d40",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T02:45",
+    "headline": "Iran says it couldn’t export a ‘single barrel of oil’ during US blockade",
+    "excerpt": "Iran was unable to export any oil during the US blockade of its ports, the country&#039;s chief negotiator has said.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-01T04:22:27.784761+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-says-it-couldnt-export-a-single-barrel-of-oil-during-us-blockade?traffic_source=rss"
+  },
+  {
+    "id": "2b04a712225a",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T01:18",
+    "headline": "Iran leaves World Cup with warm send-off from Mexican fans",
+    "excerpt": "Mexican fans gathered in Tijuana to bid farewell to Iran&#039;s national football team before the squad departed",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-01T04:22:27.784804+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-leaves-world-cup-with-warm-send-off-from-mexican-fans?traffic_source=rss"
+  },
+  {
+    "id": "831a7ae335f7",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T00:00",
+    "headline": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
+    "excerpt": "Iran says talks on a final deal will not begin until hostilities end in Lebanon and US releases frozen Iranian funds.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-07-01T04:22:27.784840+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss"
+  },
+  {
+    "id": "04090cc90627",
+    "source": "PressTV",
+    "date": "2026-07-01T04:22",
+    "headline": "Iran, Iraq preparing for 'historic' funeral for martyred Leader: FM",
+    "excerpt": "Foreign Minister Abbas Araghchi says Iran and Iraq are preparing for a \"historic\" funeral for the martyred Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-01T04:22:30.759158+00:00",
+    "link": "https://presstv.ir/Detail/2026/06/30/771385/Iran-Iraq-funeral-martyred-Leader"
+  },
+  {
     "id": "6e8bcd0323e2",
     "source": "Al Jazeera",
     "date": "2026-06-30T21:30",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-21T14:56:19.675350+00:00",
     "link": "https://presstv.ir/Detail/2026/06/21/770852/Iran-US-Switzerland-Baghaei"
-  },
-  {
-    "id": "99ba822f66d8",
-    "source": "PressTV",
-    "date": "2026-06-21T14:56",
-    "headline": "Iranian delegation holds key meetings ahead of US talks in Switzerland",
-    "excerpt": "The delegation held talks with diplomats from Pakistan, Qatar and Switzerland ahead of a new round of US-Iranian talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-21T14:56:19.675374+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/21/770851/Iranian-delegation-holds-key-meetings-ahead-US-talks-Switzerland"
-  },
-  {
-    "id": "90440cd77956",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T11:03",
-    "headline": "US-Iran delegations arrive as talks begin in Switzerland",
-    "excerpt": "US-Iran delegations arrive as talks begin in Switzerland.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-21T12:25:25.944940+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-delegations-arrive-as-talks-begin-in-switzerland?traffic_source=rss"
-  },
-  {
-    "id": "485dcb59fd14",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T10:30",
-    "headline": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
-    "excerpt": "Crimea&#039;s Moscow-installed leader says four people killed in drone attack on the Russian-occupied Black Sea peninsula.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-21T12:25:25.944988+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss"
-  },
-  {
-    "id": "fb8c6cefe249",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T10:30",
-    "headline": "‘Kind, principled’: Colleagues remember Gaza journalist killed by Israel",
-    "excerpt": "Ahmed Wishah is the 12th Al Jazeera journalist killed by Israel in Gaza since October 2023.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-21T12:25:25.945020+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss"
   }
 ]
