@@ -1,5 +1,27 @@
 [
   {
+    "id": "d703242c2cbb",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T20:14",
+    "headline": "Israeli opposition signal foreign policy change in style, but not substance",
+    "excerpt": "Israeli opposition criticise the means employed by Netanyahu, but cannot risk opposing his ends.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-01T20:29:36.008250+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/1/israeli-opposition-signal-foreign-policy-change-in-style-but-not-substance?traffic_source=rss"
+  },
+  {
+    "id": "d19f4ea9d20f",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T19:29",
+    "headline": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
+    "excerpt": "An Israeli drone strike near a Gaza hospital and fuel station kills at least three people, reports Wafa news agency.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-07-01T20:29:36.008291+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss"
+  },
+  {
     "id": "834fb9ba4674",
     "source": "Al Jazeera",
     "date": "2026-07-01T17:39",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-22T05:42:27.240987+00:00",
     "link": "https://presstv.ir/Detail/2026/06/22/770877/Iran-FM-spox-says-Switzerland-meeting-with-US-end-as-technical-talks-continue-"
-  },
-  {
-    "id": "6768ac7e5655",
-    "source": "PressTV",
-    "date": "2026-06-22T05:42",
-    "headline": "US military attacks another vessel in Caribbean, killing two",
-    "excerpt": "The US military says it has attacked a vessel in the Caribbean Sea, killing two individuals on board.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-06-22T05:42:27.241023+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/22/770878/US-military-strikes-vessel-in-Caribbean,-killing-two-alleged-%E2%80%98narco-terrorists%E2%80%99"
-  },
-  {
-    "id": "75561172ca81",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T00:00",
-    "headline": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
-    "excerpt": "Trump threatens to hit Iran &#039;very hard&#039; amid talks, prompting Ghalibaf to warn the US to take care with its rhetoric.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-22T00:16:48.142047+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss"
   }
 ]
