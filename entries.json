@@ -1,5 +1,38 @@
 [
   {
+    "id": "e78515215fc8",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T21:09",
+    "headline": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+    "excerpt": "The US and Israel have signed a deal allocating land for a permanent US embassy in West Jerusalem.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-01T22:06:08.579782+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss"
+  },
+  {
+    "id": "66738cebe21f",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T20:55",
+    "headline": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+    "excerpt": "Iran&#039;s Deputy FM Gharibabadi also says part of $6bn in frozen assets would be used to buy goods that Tehran needs.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-07-01T22:06:08.579835+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss"
+  },
+  {
+    "id": "61bd448e7929",
+    "source": "PressTV",
+    "date": "2026-07-01T22:06",
+    "headline": "Reports of IAEA access to targeted nuclear sites 'false': Iran Parl. speaker",
+    "excerpt": "Iran's Parliament speaker and top negotiator rejects reports of access by IAEA inspectors to targeted nuclear sites.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-01T22:06:10.166059+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/01/771450/Iran-nuclear-access-IAEA-Qalibaf-Israel-United-States-talks"
+  },
+  {
     "id": "d703242c2cbb",
     "source": "Al Jazeera",
     "date": "2026-07-01T20:14",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-22T05:42:25.558503+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss"
-  },
-  {
-    "id": "6708a91d6dd5",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T00:14",
-    "headline": "Iranians gather in Tehran to support team in critical draw against Belgium",
-    "excerpt": "Iranian fans in Tehran watched their team secure a 0-0 draw against Belgium at the World Cup in Los Angeles.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-06-22T05:42:25.558541+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss"
-  },
-  {
-    "id": "c80ed5bf7a51",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T00:00",
-    "headline": "Iran war live: US-Tehran agree roadmap to reach final deal in 60 days",
-    "excerpt": "US, Iran establish committee to oversee talks and a &#039;de-confliction cell&#039; to end attacks in Lebanon, mediators say.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-22T05:42:25.558570+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss"
-  },
-  {
-    "id": "2e7d8bc74646",
-    "source": "PressTV",
-    "date": "2026-06-22T05:42",
-    "headline": "Progress made toward ending war, Lebanon ceasefire remains key test: Iran FM",
-    "excerpt": "Tasnim reported that Iran has made clear that no progress on other issues will be possible unless the first clause of the MoU, concerning the end of the war on all fronts, including Lebanon, is fully implemented.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-22T05:42:27.240987+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/22/770877/Iran-FM-spox-says-Switzerland-meeting-with-US-end-as-technical-talks-continue-"
   }
 ]
