@@ -1,5 +1,93 @@
 [
   {
+    "id": "1fb32fa1206b",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T09:38",
+    "headline": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
+    "excerpt": "President Zelenskyy says Ukraine is expanding its long-range drone campaign with new strikes deep inside Russia.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-01T11:44:37.575953+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss"
+  },
+  {
+    "id": "e1b396e1674b",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T08:38",
+    "headline": "US-Iran negotiations: What’s the latest?",
+    "excerpt": "Iranian officials are expected in Doha for talks with Qatari mediators, a day after US negotiators arrived there.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-01T11:44:37.576003+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "c4162e854c7c",
+    "source": "PressTV",
+    "date": "2026-07-01T11:44",
+    "headline": "Iran vows to avenge Martyr Leader's 'pure blood at the right time'",
+    "excerpt": "The secretary of Iran’s Supreme National Security Council says the case of the martyred Leader’s blood “remains open” and that perpetrators will face justice.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-01T11:44:39.251769+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/01/771411/Iran-top-security-Leader-s-blood-pursued"
+  },
+  {
+    "id": "9141e4d09562",
+    "source": "PressTV",
+    "date": "2026-07-01T11:44",
+    "headline": "Iran's Christian minorities call for magnificent funeral for Martyr Leader",
+    "excerpt": "The Christian communities joined other religious minorities across Iran in mourning the loss of Ayatollah Seyyed Ali Khamenei, who was martyred on Feb. 28 in a US-Israeli terrorist strike targeting his residence in Tehran.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-01T11:44:39.251804+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/01/771399/Armenian-Christians-northern-Iran-mourn-martyrdom-Leader"
+  },
+  {
+    "id": "fff894e46504",
+    "source": "PressTV",
+    "date": "2026-07-01T11:44",
+    "headline": "Iran slams US over World Cup conduct after official cheers team's elimination",
+    "excerpt": "Iran’s FM has said the US has proved itself unfit to host the FIFA World Cup after its homeland security secretary celebrated Iran's elimination.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-01T11:44:39.251857+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/01/771393/Iran-Araghchi-Team-Melli-football-US-FIFA-World-Markwayne-Mullin-Tijuana-"
+  },
+  {
+    "id": "81df89f458a4",
+    "source": "PressTV",
+    "date": "2026-07-01T11:44",
+    "headline": "Iran deploys special forces to western borders after wave of terrorist attacks",
+    "excerpt": "Iran has deployed rapid reaction units and special forces to its western borders following a series of terrorist attacks on security personnel which martyred one police officer on Wednesday.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-01T11:44:39.251880+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/01/771401/Police-officer-martyred-in-terrorist-shooting-in-Iran%E2%80%99s-Sistan-and-Baluchestan-province"
+  },
+  {
+    "id": "a1bf17c4e29c",
+    "source": "PressTV",
+    "date": "2026-07-01T11:44",
+    "headline": "France bans anti-Iran rally after security warnings over monarchist threats",
+    "excerpt": "French authorities banned an anti-ran rally after security services warned of threats linked to rival monarchist groups.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-01T11:44:39.251905+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/01/771395/France-banned-anti-Iran-rally-after-security-warnings-over-monarchist-threats"
+  },
+  {
+    "id": "7978ad4f8e31",
+    "source": "PressTV",
+    "date": "2026-07-01T11:44",
+    "headline": "Defense minister: Iran's missile, drone capabilities will continue to expand",
+    "excerpt": "Iran’s acting defense minister says the country’s missile and drone capabilities remain a national security red line and will continue to be developed using domestic resources.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-01T11:44:39.251930+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/01/771412/Iran%E2%80%99s-acting-defense-minister--Missile,-drone-capabilities-will-continue-to-expand"
+  },
+  {
     "id": "0be438292fe3",
     "source": "Al Jazeera",
     "date": "2026-07-01T08:03",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-21T16:50:09.793760+00:00",
     "link": "https://presstv.ir/Detail/2026/06/21/770853/Iran-US-talks-begin-in-Switzerland-with-Pakistan-and-Qatar-as-mediators-"
-  },
-  {
-    "id": "29ba8a340547",
-    "source": "PressTV",
-    "date": "2026-06-21T16:50",
-    "headline": "Iran delegation protests Trump's threat at Switzerland talks, weighs ‘proper’ response: Source",
-    "excerpt": "The Iranian delegation to the Switzerland talks protests at Trump's latest verbal threats while simultaneously weighing a proper response, a source tells Press TV.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-21T16:50:09.793803+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/21/770863/Iran-US-Switzerland-Trump"
-  },
-  {
-    "id": "bf38d1b605dd",
-    "source": "PressTV",
-    "date": "2026-06-21T16:50",
-    "headline": "Israeli troops face no restrictions in southern Lebanon despite ceasefire: Minister",
-    "excerpt": "Israeli minister of military affairs says Israeli troops would remain in southern Lebanon with full freedom to act despite a ceasefire with Hezbollah.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-21T16:50:09.793829+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/21/770856/Israel-minister-of-military-affairs-Israeli-troops-face-no-restriction-remain-southern-Lebanon-despite-ceasefire-Hezbollah"
-  },
-  {
-    "id": "946c84693ec6",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T14:48",
-    "headline": "Fans flood Atlanta streets before Spain-Saudi Arabia match",
-    "excerpt": "Spain and Saudi Arabia fans filled the streets of Atlanta with chants and celebrations ahead of their World Cup clash.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-06-21T14:56:18.020812+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/fans-flood-atlanta-streets-before-spain-saudi-arabia-match?traffic_source=rss"
-  },
-  {
-    "id": "6e4cf41fdcf0",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T14:27",
-    "headline": "Bolivian authorities say no active blockades after state of emergency decree",
-    "excerpt": "State of emergency permits deployment of military to support police amid five weeks of anti-government protests.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-21T14:56:18.020870+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/21/bolivian-authorities-say-no-active-blockades-after-state-of-emergency-decree?traffic_source=rss"
-  },
-  {
-    "id": "046ff4eef777",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T14:12",
-    "headline": "Gaza bids farewell to slain journalist Ahmed Wishah",
-    "excerpt": "Gaza bids farewell to slain journalist Ahmed Wishah.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-06-21T14:56:18.020901+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss"
-  },
-  {
-    "id": "e2ba0396d609",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T13:52",
-    "headline": "Police charge man after suspected anti-Muslim attacks in Edinburgh",
-    "excerpt": "UK Prime Minister Keir Starmer says &#039;the suspect appears to be motivated by anti-Muslim hatred&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-21T14:56:18.020938+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/21/police-charge-man-after-suspected-anti-muslim-attacks-in-edinburgh?traffic_source=rss"
-  },
-  {
-    "id": "d62977e41e00",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T13:41",
-    "headline": "Andy Burnham says Israel would be his first overseas visit in old clip",
-    "excerpt": "An old clip has resurfaced showing Andy Burnham saying Israel would be his first overseas visit if elected as UK PM.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-21T14:56:18.020967+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/andy-burnham-says-israel-would-be-his-first-overseas-visit-in-old-clip?traffic_source=rss"
-  },
-  {
-    "id": "b2955de4272a",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T13:11",
-    "headline": "Why Lebanon may make or break the Iran-US deal",
-    "excerpt": "Israeli escalation in Lebanon threatens to undermine agreement between Tehran and Washington, analysts say.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-21T14:56:18.020997+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/21/why-lebanon-may-make-or-break-the-iran-us-deal?traffic_source=rss"
   }
 ]
