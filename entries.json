@@ -1,5 +1,93 @@
 [
   {
+    "id": "834fb9ba4674",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T17:39",
+    "headline": "Can Sudan’s Rapid Support Forces take control of el-Obeid?",
+    "excerpt": "The RSF wants to seize the strategic southern city from the Sudanese military.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-07-01T18:31:47.686967+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss"
+  },
+  {
+    "id": "5ccb966407db",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T17:36",
+    "headline": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
+    "excerpt": "Displaced Lebanese face a void as war annihilates the physical and emotional anchors of their past and identity.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-01T18:31:47.687020+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss"
+  },
+  {
+    "id": "c9b153a3f645",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T17:19",
+    "headline": "What military capabilities does Iran possess as it negotiates with US?",
+    "excerpt": "US and Israel claim extensive damage, Iran projects defiance, and satellite images show fast attempts at recovery.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-01T18:31:47.687062+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss"
+  },
+  {
+    "id": "2aaeb4fe5ca1",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T17:05",
+    "headline": "The Iran talks expose the collapse of US diplomacy",
+    "excerpt": "In the Trump era, American diplomacy is being led not by impartial diplomats, but by real estate investors.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-01T18:31:47.687093+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss"
+  },
+  {
+    "id": "ea972dd589af",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T16:24",
+    "headline": "Amnesty says RSF committed ethnic cleansing in Sudan’s el-Fasher",
+    "excerpt": "Rights group accuses the paramilitary of &#039;crimes against humanity&#039; for attacks in and around North Darfur State capital.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-01T18:31:47.687143+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/1/amnesty-says-rsf-committed-ethnic-cleansing-in-sudans-el-fasher?traffic_source=rss"
+  },
+  {
+    "id": "6fcdd11a91b1",
+    "source": "Al Jazeera",
+    "date": "2026-07-01T14:45",
+    "headline": "‘Never the same’: How war on Iran changed the global energy sector",
+    "excerpt": "Conflict will accelerate shift to renewables and search for alternatives to Strait of Hormuz, energy analysts say.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-01T18:31:47.687197+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss"
+  },
+  {
+    "id": "c8642d4c62d7",
+    "source": "PressTV",
+    "date": "2026-07-01T18:31",
+    "headline": "Doha talks focused on US violations of MoU, frozen assets: Iran’s deputy FM",
+    "excerpt": "Iran’s top nuclear negotiator says talks in Doha with Qatari and Pakistani mediators focused on US violations of the Islamabad Memorandum of Understanding (MoU).",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-01T18:31:49.378971+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/01/771443/Doha-talks-focused-on-US-violations-of-MoU-Iran-deputy-fm"
+  },
+  {
+    "id": "3d3864953912",
+    "source": "PressTV",
+    "date": "2026-07-01T18:31",
+    "headline": "Iran warns UN of Israel’s ‘deliberate’ and ‘public’ threat against Leader",
+    "excerpt": "Iran’s permanent mission to the United Nations has earnestly warned about Israel’s “neither isolated nor rhetorical” threat of targeting Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-01T18:31:49.379023+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/01/771438/iran-un-mission-israel-public-threat-ayatollah-khamenei"
+  },
+  {
     "id": "5e644cc0823b",
     "source": "Al Jazeera",
     "date": "2026-07-01T16:08",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-22T00:16:48.142047+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss"
-  },
-  {
-    "id": "a9d22705a4ae",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T23:19",
-    "headline": "Football fans in Gaza gather to watch Spain-Saudi Arabia match",
-    "excerpt": "Palestinians in Gaza gathered to watch Spain&#039;s World Cup victory over Saudi Arabia.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-06-22T00:16:48.142093+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/football-fans-in-gaza-gather-to-watch-spain-saudi-arabia-match?traffic_source=rss"
-  },
-  {
-    "id": "196b1138f4b3",
-    "source": "PressTV",
-    "date": "2026-06-22T00:16",
-    "headline": "Iran def. minister warns of 'heavy, regretful' response to any violation of US MoU",
-    "excerpt": "General Ebnolreza emphasized that despite the signing of the MoU, Iran’s armed forces have not lowered their guard.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-22T00:16:49.756834+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/21/770875/Iran-warns-of-heavy-regretful-response-to-any-violation-of-US-MoU"
-  },
-  {
-    "id": "231a5623837c",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T21:45",
-    "headline": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
-    "excerpt": "Nathan Ngoy was sent off for hauling down Mehdi Taremi, whose first-half strike was ruled offside in close Group G game.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-21T22:53:01.031953+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss"
-  },
-  {
-    "id": "976fd0cd7d2a",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T20:59",
-    "headline": "What are the end goals of Iran-US negotiations?",
-    "excerpt": "Professor and political analyst Mahjoub Zweiri breaks down what intentions behind US-Iran talks will result in.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-21T21:45:14.241078+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss"
-  },
-  {
-    "id": "e63536b9d914",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T20:21",
-    "headline": "Mourners gather to remember Lebanese conservationist killed by Israel",
-    "excerpt": "People gathered in Beirut in memory of beloved turtle conservationist Mona Khalil, killed in Israeli attack.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-21T21:45:14.241120+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss"
-  },
-  {
-    "id": "56ee5e6edd97",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T20:11",
-    "headline": "Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work",
-    "excerpt": "Al Jazeera cameraman Ahmed Wishah dedicated his life to documenting life in Gaza before he was killed by Israel.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-21T21:45:14.241150+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/remembering-al-jazeera-cameraman-ahmed-wishahs-lifes-work?traffic_source=rss"
-  },
-  {
-    "id": "9fd6f6dc7468",
-    "source": "Al Jazeera",
-    "date": "2026-06-21T20:04",
-    "headline": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
-    "excerpt": "Displaced residents returned to Nabatieh after Israel ordered a halt to fighting in southern Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-21T21:45:14.241183+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss"
-  },
-  {
-    "id": "ae2daab66b4b",
-    "source": "PressTV",
-    "date": "2026-06-21T21:45",
-    "headline": "Leave southern Lebanon or be kicked out: IRGC Quds Force chief warns Israel",
-    "excerpt": "“Today, if you persist in aggression and occupation, you will be kicked out in humiliation and defeat. The choice is yours.”",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-21T21:45:15.815358+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/21/770872/Leave-southern-Lebanon-or-be-kicked-out-IRGC-Quds-Force-chief-warns-Israel"
   }
 ]
