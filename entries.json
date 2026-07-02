@@ -1,5 +1,71 @@
 [
   {
+    "id": "87cb6bee4bf3",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T15:30",
+    "headline": "Into the Darkness",
+    "excerpt": "Fault Lines investigates allegations of systematic torture of Palestinian prisoners and detainees in Israeli custody.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-02T16:20:46.794686+00:00",
+    "link": "https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss"
+  },
+  {
+    "id": "330c515343d5",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T14:15",
+    "headline": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
+    "excerpt": "Iranian oil shipping magnate Mohammad Hossein Shamkhani has been sanctioned by the West over his shadow fleet.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-02T16:20:46.794749+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "46112eeb2c3a",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T12:49",
+    "headline": "Syria explosion updates: Bomb blast kills 5 people in Damascus",
+    "excerpt": "⁠An improvised explosive device detonates in a popular ​Damascus cafe as Syrian security forces hunt for attackers.",
+    "category": "Airstrike",
+    "location": "Syria",
+    "addedAt": "2026-07-02T16:20:46.794790+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/2/syria-explosion-live-blast-rocks-damascus-as-authorities-investigate-cause?traffic_source=rss"
+  },
+  {
+    "id": "12e914aee4c2",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T12:32",
+    "headline": "At least six killed in explosion inside central Damascus cafe",
+    "excerpt": "Blast at a cafe reportedly kills five people and injures many more.",
+    "category": "Casualties",
+    "location": "Damascus",
+    "addedAt": "2026-07-02T16:20:46.794816+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/2/explosion-heard-in-syrias-capital-damascus-state-media?traffic_source=rss"
+  },
+  {
+    "id": "856ae5721ecd",
+    "source": "PressTV",
+    "date": "2026-07-02T16:20",
+    "headline": "Army Chief: Iranian nation will never surrender to enemies",
+    "excerpt": "The chief of the Iranian Army says that the Iranian nation will never surrender to its enemies.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-02T16:20:48.429743+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/02/771493/Army-Chief--Iranian-never-surrender-enemies"
+  },
+  {
+    "id": "76114c10a38b",
+    "source": "PressTV",
+    "date": "2026-07-02T16:20",
+    "headline": "Israel's largest refineries face years of repair after Iran airstrikes: Report",
+    "excerpt": "Israeli reports say Haifa refineries suffered far heavier damage than authorities publicly admitted and will be under reconstruction until 2028",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-02T16:20:48.429772+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/02/771492/Iran-US-Israel-Haifa-Bay"
+  },
+  {
     "id": "cf7d82f2a00a",
     "source": "Al Jazeera",
     "date": "2026-07-02T13:41",
@@ -5432,71 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-06-22T19:48:27.690270+00:00",
     "link": "https://presstv.ir/Detail/2026/06/22/770912/US-Iran-oil-sanctions-waiver"
-  },
-  {
-    "id": "196bb3af72f6",
-    "source": "PressTV",
-    "date": "2026-06-22T19:48",
-    "headline": "President Pezeshkian to visit Pakistan for high-level talks",
-    "excerpt": "The Iranian president is scheduled to embark on an official visit to Pakistan for high-level talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-22T19:48:27.690293+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/22/770903/Iiran-Pakistan-Pezeshkian-visit"
-  },
-  {
-    "id": "6968fb3d3190",
-    "source": "PressTV",
-    "date": "2026-06-22T19:48",
-    "headline": "Iran will not yield to excessive demands, says Pezeshkian amid Iran-US talks",
-    "excerpt": "The Iranian president says Tehran will never bow to excessive demands or accept the disregard of its people's rights.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-22T19:48:27.690315+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/22/770918/Iran-Pezeshkian-rights-demands"
-  },
-  {
-    "id": "064944725902",
-    "source": "PressTV",
-    "date": "2026-06-22T19:48",
-    "headline": "Iran to continue IAEA cooperation under existing framework, SNSC decision: Baghaei",
-    "excerpt": "The spokesperson for the Iranian negotiating team says Iran's cooperation with the IAEA will continue under the existing framework, denying any new commitments.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-22T19:48:27.690343+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/22/770922/Baghaei--Iran-s-cooperation-with-IAEA-will-continue-under-existing-framework-"
-  },
-  {
-    "id": "9b5c91dc8cf3",
-    "source": "PressTV",
-    "date": "2026-06-22T19:48",
-    "headline": "Iran to hold six-day funeral for martyred Leader across country and in Iraq: Organizers",
-    "excerpt": "Iran says the martyred Leader will have a six-day funeral schedule spanning five cities, beginning with a two-day farewell ceremony in Tehran on July 4 and concluding with burial in Mashhad on July 9.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-06-22T19:48:27.690361+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/22/770892/Iran-six-day-funeral-martyred-Leader-Tehran,-Qom,-Iraq,-Mashhad"
-  },
-  {
-    "id": "723c4896618b",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T15:38",
-    "headline": "US partially lifts Iran oil sanctions amid ‘encouraging’ talks",
-    "excerpt": "The move, expected under the MoU, comes as Vice President JD Vance says there&#039;s a &#039;good foundation&#039; for a final deal.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-22T16:11:40.288511+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks?traffic_source=rss"
-  },
-  {
-    "id": "f83b02fd6a50",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T15:26",
-    "headline": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
-    "excerpt": "Football fans in Gaza showed overwhelming support for Spain against Saudi Arabia during Sunday&#039;s World Cup clash.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-06-22T16:11:40.288557+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss"
   }
 ]
