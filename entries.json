@@ -1,5 +1,104 @@
 [
   {
+    "id": "152383ebe159",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T17:36",
+    "headline": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
+    "excerpt": "At least 6 people were killed and 22 injured after an explosive device detonated in a café in Damascus&#039; Al-Hijaz area.",
+    "category": "Casualties",
+    "location": "Damascus",
+    "addedAt": "2026-07-02T18:15:12.334062+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss"
+  },
+  {
+    "id": "98e0e40da999",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T17:35",
+    "headline": "Rally for Luxembourg teacher fired over pro-Gaza posts",
+    "excerpt": "Students and supporters of a Luxembourg teacher fired over social media posts held a demonstration for her this week.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-02T18:15:12.334109+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss"
+  },
+  {
+    "id": "33190cc1fee1",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T17:34",
+    "headline": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
+    "excerpt": "Despite Iranian attacks, several GCC states continue to speak with Tehran in effort to mend ties and forge cooperation.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-02T18:15:12.334150+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss"
+  },
+  {
+    "id": "399cd7df9b94",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T17:22",
+    "headline": "What’s behind the deadly bombing of a crowded Damascus cafe?",
+    "excerpt": "The blast near Damascus&#039;s main courthouse killed five and wounded 16 as Syria&#039;s new state battles to enforce security.",
+    "category": "Airstrike",
+    "location": "Syria",
+    "addedAt": "2026-07-02T18:15:12.334173+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss"
+  },
+  {
+    "id": "78162c616b3c",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T17:20",
+    "headline": "US wants intervention, but Syria signals diplomacy after FM’s Lebanon trip",
+    "excerpt": "Syrian Foreign Minister al-Shaibani met Hezbollah ally Berri during visit, as Trump calls for Syria to disarm group.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-07-02T18:15:12.334235+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/2/us-wants-intervention-syria-signals-diplomacy-after-fm-lebanon-trip?traffic_source=rss"
+  },
+  {
+    "id": "8ea041407198",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T16:46",
+    "headline": "German prosecutors allege Ukraine ordered Nord Stream pipeline attack",
+    "excerpt": "Former Ukrainian soldier accused of &#039;war crime&#039; and leading a team of divers to blow up Nord Stream pipelines.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-02T18:15:12.334279+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-allege-ukraine-ordered-nord-stream-pipeline-attack?traffic_source=rss"
+  },
+  {
+    "id": "e9cce17dfc7f",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T16:26",
+    "headline": "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
+    "excerpt": "Israel has rejected a UN Commission report that says its army deliberately targets Palestinian children.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-02T18:15:12.334315+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/collateral-damage-73-palestinian-children-israel-shot-in-the-head?traffic_source=rss"
+  },
+  {
+    "id": "1150c511abb0",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T16:14",
+    "headline": "Why is Prada facing pro-Israeli backlash?",
+    "excerpt": "Prada is facing boycott calls after appointing Palestinian singer Saint Levant as a brand ambassador.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-02T18:15:12.334353+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss"
+  },
+  {
+    "id": "adcf2418bc13",
+    "source": "PressTV",
+    "date": "2026-07-02T18:15",
+    "headline": "Iraq expects millions to join Martyr Leader’s funeral in Najaf, Karbala",
+    "excerpt": "Millions of people are expected to attend funeral ceremonies in Iraq for martyred Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei, a spokesman for the Iraqi media committee organizing the event has said.",
+    "category": "Casualties",
+    "location": "Iraq",
+    "addedAt": "2026-07-02T18:15:13.940286+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/02/771496/Iraq-Faily-Kurds-funeral-procession-Ayatollah-Seyyed-Ali-Khamenei-Najaf-Karbala"
+  },
+  {
     "id": "87cb6bee4bf3",
     "source": "Al Jazeera",
     "date": "2026-07-02T15:30",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-22T19:48:26.112388+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/22/us-raises-concern-as-rsf-forces-encircle-sudanese-city-of-el-obeid?traffic_source=rss"
-  },
-  {
-    "id": "28143597d531",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T18:28",
-    "headline": "A leftward lurch? What to know about the Democratic primaries in New York",
-    "excerpt": "Democratic socialist candidates push for an edge in US races that hinge on issues like Israel policy and inequality.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-22T19:48:26.112423+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/22/a-leftward-lurch-what-to-know-about-the-democratic-primaries-in-new-york?traffic_source=rss"
-  },
-  {
-    "id": "8b46985ce1d0",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T18:18",
-    "headline": "Lebanon discusses ‘deconfliction’ mechanism ahead of Israel talks",
-    "excerpt": "Mediators Qatar and Pakistan say plan seeks to ensure the end of military operations in Lebanon.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-22T19:48:26.112456+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/22/lebanon-discusses-de-confliction-mechanism-ahead-of-israel-talks?traffic_source=rss"
-  },
-  {
-    "id": "e86c588bc298",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T17:34",
-    "headline": "Qatar’s PM tells Al Jazeera progress made in US-Iran talks",
-    "excerpt": "Qatar&#039;s PM  said US-Iran talks in Switzerland laid the groundwork for a final deal after 18 hours of discussions.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-22T19:48:26.112487+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatars-pm-tells-al-jazeera-progress-made-in-us-iran-talks?traffic_source=rss"
-  },
-  {
-    "id": "3048cf8ea978",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T17:06",
-    "headline": "Will a US-Iran deal transform the Iranian economy?",
-    "excerpt": "A US-Iran deal could unlock frozen assets, oil exports, and investment, reshaping Iran&#039;s economic future.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-22T19:48:26.112519+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/22/will-a-us-iran-deal-transform-the-iranian-economy?traffic_source=rss"
-  },
-  {
-    "id": "9caaf756ac39",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T17:04",
-    "headline": "Marco Rubio heads to Middle East to address Iran MoU, Hormuz",
-    "excerpt": "Rubio to visit UAE, Kuwait and Bahrain for talks on Iran and Hormuz priorities from June 23 to June 25.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-22T19:48:26.112543+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/22/marco-rubio-heads-to-middle-east-to-address-iran-mou-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "16086ee400d2",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T17:03",
-    "headline": "France vs Iraq LIVE: World Cup 2026",
-    "excerpt": "Follow updates as Mbappe&#039;s France play Iraq in Group I, including the build-up, analysis and live text commentary.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-06-22T19:48:26.112580+00:00",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/6/22/live-france-vs-iraq-world-cup-2026?traffic_source=rss"
-  },
-  {
-    "id": "cf49389708d0",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T16:19",
-    "headline": "Lebanon Latest: Israeli attacks surge despite ceasefire efforts",
-    "excerpt": "Israeli attacks intensify across southern Lebanon despite ongoing diplomatic efforts.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-22T19:48:26.112606+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/aje-onl-aje_onl_lebanon_wrap-220626?traffic_source=rss"
-  },
-  {
-    "id": "28b97ff2bce3",
-    "source": "PressTV",
-    "date": "2026-06-22T19:48",
-    "headline": "Iran top negotiator departs for Muscat to discuss Hormuz Strait cooperation",
-    "excerpt": "Iran’s top negotiator in the talks with the US heads for Oman for discussion about joint cooperation on the Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-22T19:48:27.690234+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/22/770921/Iran-Oman-Qalibaf-Hormuz"
-  },
-  {
-    "id": "b95f270ba3e2",
-    "source": "PressTV",
-    "date": "2026-06-22T19:48",
-    "headline": "US Treasury issues waiver for Iranian oil exports under Islamabad MoU",
-    "excerpt": "The United States has authorized the production, delivery and sale of Iranian oil for 60 days, implementing a key provision of a recent memorandum of understanding between Washington and Tehran aimed at advancing talks toward a final agreement.",
-    "category": "Movement",
-    "location": "Tehran",
-    "addedAt": "2026-06-22T19:48:27.690270+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/22/770912/US-Iran-oil-sanctions-waiver"
   }
 ]
