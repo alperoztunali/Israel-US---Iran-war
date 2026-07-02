@@ -1,5 +1,38 @@
 [
   {
+    "id": "d3cf827692fd",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T05:17",
+    "headline": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
+    "excerpt": "Brent falls below $71 a barrel amid reports of progress in talks to end the war.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-02T06:04:29.085906+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "3516d0fa1541",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T02:15",
+    "headline": "At least 8 killed in Kyiv after Zelenskyy warns of ‘massive Russian strike’",
+    "excerpt": "At least eight dead and dozens injured as Ukraine&#039;s forces defend against ballistic missiles, drones targeting capital.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-02T06:04:29.085952+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss"
+  },
+  {
+    "id": "a5b518d67fdc",
+    "source": "PressTV",
+    "date": "2026-07-02T06:04",
+    "headline": "600 foreign journalists to cover funeral of martyred Ayatollah Khamenei: Minister",
+    "excerpt": "The Iranian culture minister says some 600 foreign journalists and media representatives will cover the upcoming funeral ceremonies for martyr Ayatollah Khamenei.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-02T06:04:30.687935+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/02/771461/Iran-Khamenei-funeral-reporters"
+  },
+  {
     "id": "c90fce871dca",
     "source": "Al Jazeera",
     "date": "2026-07-02T00:00",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-22T11:23:37.827895+00:00",
     "link": "https://presstv.ir/Detail/2026/06/22/770895/Two-Palestinian-teenagers-martyred,-others-abducted-in-Israeli-raids-across-West-Bank"
-  },
-  {
-    "id": "a7787fd1fc6e",
-    "source": "PressTV",
-    "date": "2026-06-22T11:23",
-    "headline": "At least 54 injured, 18 missing after blast at gas processing factory in Qatar",
-    "excerpt": "At least 54 people have been injured and 18 are missing due to an explosion at a gas factory in Qatar.",
-    "category": "Casualties",
-    "location": "Qatar",
-    "addedAt": "2026-06-22T11:23:37.827914+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/22/770884/At-least-54-injured,-18-missing-after-explosion-at-a-gas-processing-factory--Qatar"
-  },
-  {
-    "id": "ae554914063b",
-    "source": "PressTV",
-    "date": "2026-06-22T11:23",
-    "headline": "Chicago shootings leave 7 dead, dozens wounded amid Trump's military deployment push",
-    "excerpt": "At least seven people are killed and dozens more injured in a series of shootings across Chicago, with Trump renewing calls for military deployment to the city.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-22T11:23:37.827942+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/22/770881/United-States-Chicago-shootings-Trump-military-deployment"
-  },
-  {
-    "id": "ffbe6286eb41",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T04:56",
-    "headline": "‘Encouraging progress’ made as first round US-Iran talks end",
-    "excerpt": "The first round of US-Iran talks has ended with both sides agreeing on a roadmap towards a final deal.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-22T05:42:25.558305+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/encouraging-progress-made-as-first-round-us-iran-talks-end?traffic_source=rss"
   }
 ]
