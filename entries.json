@@ -1,5 +1,49 @@
 [
   {
+    "id": "cd80e6a0833c",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T10:19",
+    "headline": "A Palestinian home inside a cage",
+    "excerpt": "This Palestinian family&#039;s home is sealed inside an Israeli settlement and the separation wall. Al Jazeera&#039;s Leila Warah",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-02T11:56:59.154412+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/a-palestinian-home-inside-a-cage?traffic_source=rss"
+  },
+  {
+    "id": "25139052a2a1",
+    "source": "Al Jazeera",
+    "date": "2026-07-02T10:04",
+    "headline": "Eight Thai monks killed after child drives truck into procession",
+    "excerpt": "Police say 11-year-old boy who took his parents&#039; vehicle without permission is now in custody and will be questioned.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-02T11:56:59.154462+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss"
+  },
+  {
+    "id": "636fbc2068ab",
+    "source": "PressTV",
+    "date": "2026-07-02T11:57",
+    "headline": "Pezeshkian: Mass turnout at Leader's funeral a 'decisive’ response to bullying, terror",
+    "excerpt": "The Iranian president says a massive public turnout at the funeral of late Ayatollah Khamenei will serve as a decisive response to terrorism, violence and bullying.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-02T11:57:00.914927+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/02/771481/Iran-Pezeshkian-Khamenei-burial-"
+  },
+  {
+    "id": "80c37a6fee11",
+    "source": "PressTV",
+    "date": "2026-07-02T11:57",
+    "headline": "Iran’s armed forces vow swift response to any US violation in Strait of Hormuz",
+    "excerpt": "Iran's Khatam al-Anbiya Central Headquarters has warned that any US interference in the Strait of Hormuz will draw a swift military response.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-02T11:57:00.914976+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/02/771478/Iran-Khatam-al-Anbiya-Strait-of-Hormuz-US-interference-tankers-ceasefire-MoU-Trump"
+  },
+  {
     "id": "830d5a8c8c43",
     "source": "Al Jazeera",
     "date": "2026-07-02T09:06",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-22T16:11:40.288783+00:00",
     "link": "https://www.aljazeera.com/sports/2026/6/22/gazas-surfers-seek-solace-from-war-in-the-mediterranean-sea?traffic_source=rss"
-  },
-  {
-    "id": "9eacdc0fcde7",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T11:44",
-    "headline": "The ICC must investigate Israel’s genocidal use of sexual violence",
-    "excerpt": "There is a growing body of evidence of the systematic nature of sexual assaults against Palestinian detainees.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-22T16:11:40.288819+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/6/22/the-icc-must-investigate-israels-genocidal-use-of-sexual?traffic_source=rss"
-  },
-  {
-    "id": "86761041bf03",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T11:43",
-    "headline": "Israel kills turtle conservationist Mona Khalil",
-    "excerpt": "Turtle conservationist Mona Khalil has died after an Israeli air strike on her home near Tyre, Lebanon.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-06-22T16:11:40.288835+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/israel-kills-turtle-conservationist-mona-khalil?traffic_source=rss"
-  },
-  {
-    "id": "dd1bd76a369f",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T10:43",
-    "headline": "Vance’s warning to Israel signals a new phase in US-Israeli relations",
-    "excerpt": "There won’t be a rupture, but there won’t be business as usual, either.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-22T11:23:36.238760+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/6/22/vances-warning-to-israel-signals-a-new-phase-in-us-israeli-relations?traffic_source=rss"
-  },
-  {
-    "id": "6f8cd5be8e46",
-    "source": "Al Jazeera",
-    "date": "2026-06-22T10:19",
-    "headline": "British parliament to debate Israeli influence on UK politics: What we know",
-    "excerpt": "The debate comes after a petition expressed concern over Israeli lobbies&#039; influence in the UK.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-22T11:23:36.238808+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/22/british-parliament-to-debate-israeli-influence-on-uk-politics-what-we-know?traffic_source=rss"
   }
 ]
