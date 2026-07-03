@@ -1,5 +1,104 @@
 [
   {
+    "id": "8a8d114da6a7",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T14:28",
+    "headline": "Mourners bury victims of Damascus cafe bombing with six lawyers among dead",
+    "excerpt": "Syrian Bar Association mourns six lawyers amid international condemnation of Thursday&#039;s attack in Damascus.",
+    "category": "Airstrike",
+    "location": "Syria",
+    "addedAt": "2026-07-03T14:52:40.439362+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/mourners-bury-victims-of-damascus-cafe-bombing-with-six-lawyers-among-dead?traffic_source=rss"
+  },
+  {
+    "id": "c6663a617e76",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T13:57",
+    "headline": "Russia’s advance collapses in Ukraine, ‘40,000’ troops killed in June",
+    "excerpt": "Ukraine&#039;s long-range strikes hit targets in Russia, where anxiety is rising.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-03T14:52:40.439411+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/russian-advance-collapses-in-ukraine-as-anxiety-rises-in-moscow?traffic_source=rss"
+  },
+  {
+    "id": "9f15f2817549",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T13:25",
+    "headline": "Interpol names Ukrainian woman as suspect in Monaco bombing",
+    "excerpt": "Anastasiia Berezovska is named as the chief suspect responsible for injuring Ukrainian tycoon Vadym Yermolaiev.",
+    "category": "Airstrike",
+    "location": "Oman",
+    "addedAt": "2026-07-03T14:52:40.439441+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/interpol-names-ukrainian-woman-as-suspect-in-monaco-bombing?traffic_source=rss"
+  },
+  {
+    "id": "18dd8dce2f1b",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T12:15",
+    "headline": "Don’t eat your greens? A diet taking Yemen by storm has doctors worried",
+    "excerpt": "Hospitals in Yemen report increase in workload after struck off doctor encourages diabetes patients not to take insulin.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-07-03T14:52:40.439504+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/3/dont-eat-your-greens-a-diet-taking-yemen-by-storm-has-doctors-worried?traffic_source=rss"
+  },
+  {
+    "id": "0ec36a87ca12",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T12:00",
+    "headline": "Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state",
+    "excerpt": "Iran begins seven-day state funeral for late ayatollah as some 100 foreign delegations arrive under a tense ceasefire",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-03T14:52:40.439547+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/mourners-pay-respects-as-irans-slain-leader-ali-khamenei-laid-in-state?traffic_source=rss"
+  },
+  {
+    "id": "faff70a19539",
+    "source": "PressTV",
+    "date": "2026-07-03T14:52",
+    "headline": "Iranian officials, world leaders, high-ranking delegations pay tribute to martyred Leader in Tehran",
+    "excerpt": "Top Iranian officials and high-ranking delegations from across the world pay their respects to the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-03T14:52:41.925209+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771538/Iran-Khamenei-respect-leaders"
+  },
+  {
+    "id": "6dc78ac725ab",
+    "source": "PressTV",
+    "date": "2026-07-03T14:52",
+    "headline": "'Hard, unexpected blows' will continue after Leader's martyrdom: IRGC commander",
+    "excerpt": "The commander of the IRGC aerospace division vows that the hard and unexpected blows inflicted on the enemy will continue.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-03T14:52:41.925253+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771543/Iran-IRGC-Mousavi-aerospace-"
+  },
+  {
+    "id": "2aa6fd86ae41",
+    "source": "PressTV",
+    "date": "2026-07-03T14:52",
+    "headline": "‘Unforgivable crime’: On 37th anniversary, Iran vows to never forget deliberate US downing of Flight",
+    "excerpt": "Iran's Foreign Ministry has strongly condemned the United States for its \"unforgivable crime\" of shooting down a passenger plane over the Persian Gulf.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-03T14:52:41.925305+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771544/Iran-strongly-condemns-US-%E2%80%98unforgivable-crime%E2%80%99-on-anniversary-of-Iran-Air-Flight-655-downing"
+  },
+  {
+    "id": "e307b4a64b87",
+    "source": "PressTV",
+    "date": "2026-07-03T14:52",
+    "headline": "Top commander says martyred Leader’s defense strategy delivered battlefield victory",
+    "excerpt": "The power of the country’s armed forces has been showcased to the entire world, says Iran Police Chief.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-03T14:52:41.925329+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771539/Power-Iran-armed-forces-revealed-"
+  },
+  {
     "id": "3fb88b1fe715",
     "source": "Al Jazeera",
     "date": "2026-07-03T12:00",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-23T12:48:03.034356+00:00",
     "link": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss"
-  },
-  {
-    "id": "c29e4f206d6a",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T11:16",
-    "headline": "Why is Israel being accused of meddling in Colombia presidential election?",
-    "excerpt": "President Gustavo Petro claims digital manipulation affected the results, but attorney general dismisses allegations.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-23T12:48:03.034393+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss"
-  },
-  {
-    "id": "cd9dff03a2f2",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T10:37",
-    "headline": "Iran’s President Pezeshkian lands in Pakistan after US deal",
-    "excerpt": "Pakistan hosts Iranian President Masoud Pezeshkian after mediating the breakthrough US-Iran negotiations in Switzerland.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T12:48:03.034433+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us?traffic_source=rss"
-  },
-  {
-    "id": "c8c5575a6b69",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T10:26",
-    "headline": "What Israeli and Lebanese officials are saying before Washington talks",
-    "excerpt": "Iran has made a ceasefire in Lebanon a key condition in its ongoing negotiations with the US.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T12:48:03.034463+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss"
-  },
-  {
-    "id": "f69fe8cf6a3e",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T07:58",
-    "headline": "Iran war day 116: US eases Iran sanctions; Israel kills two in Lebanon",
-    "excerpt": "US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T12:48:03.034502+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/iran-war-day-116-us-eases-iran-sanctions-lebanon-ceasefire-holds?traffic_source=rss"
-  },
-  {
-    "id": "86a6a6def86e",
-    "source": "PressTV",
-    "date": "2026-06-23T12:48",
-    "headline": "Iran’s Qalibaf meets Sultan of Oman after Switzerland talks",
-    "excerpt": "Qalibaf has met Oman's Sultan Haitham bin Tariq in Muscat, as they discussed the bilateral ties and the latest developments regarding negotiations on the Iran-US MoU.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T12:48:04.871041+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770958/Iran-Qalibaf-meets-Sultan-of-Oman-"
-  },
-  {
-    "id": "86e85550728b",
-    "source": "PressTV",
-    "date": "2026-06-23T12:48",
-    "headline": "US has an obligation to lift all illegal sanctions against Iran: Foreign Ministry",
-    "excerpt": "The Iranian Foreign Ministry says the US bears an obligation towards removal of all economic sanctions illegally imposed on Iran as part of ongoing diplomatic engagement.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T12:48:04.871083+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770954/Iran-United-States-sanctions-talks-memorandum-Israel"
-  },
-  {
-    "id": "08567ea8bcf3",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T08:49",
-    "headline": "Iran says technical talks with US in Switzerland conclude successfully",
-    "excerpt": "Iran&#039;s top negotiator Mohammad Ghalibaf also says an agreement reached with the US to release $12bn in frozen assets.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T10:05:53.247659+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/iran-says-technical-talks-with-us-in-switzerland-conclude-successfully?traffic_source=rss"
-  },
-  {
-    "id": "6171e165c132",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T08:42",
-    "headline": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
-    "excerpt": "United Nations Commission of Inquiry says Israel&#039;s &#039;deliberate targeting&#039; of Gaza children part of ongoing &#039;genocide&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-23T10:05:53.247717+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss"
-  },
-  {
-    "id": "1835a523da8c",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T07:58",
-    "headline": "Iran war day 116: US eases Iran sanctions; Lebanon ceasefire holds",
-    "excerpt": "US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T10:05:53.247750+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/iran-war-day-116-us-eases-iran-sanctions-lebanon-ceasefire-holds?traffic_source=rss"
   }
 ]
