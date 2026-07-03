@@ -1,5 +1,49 @@
 [
   {
+    "id": "3d05c1890b76",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T15:44",
+    "headline": "Yemen’s Houthis threaten Saudi Arabia after alleged airspace intrusion",
+    "excerpt": "This is a breaking news story.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-07-03T16:38:42.845843+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/yemens-houthis-threaten-saudi-arabia-after-alleged-airspace-intrusion?traffic_source=rss"
+  },
+  {
+    "id": "d9320fcee8a9",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T14:43",
+    "headline": "Gaza sports community pledges to continue legacy of killed goalkeeper",
+    "excerpt": "Slain seeking cooking gas, Gaza goalkeeper Saleem al-Ashqar joins more than 1,000 Palestinian athletes killed in war.",
+    "category": "Casualties",
+    "location": "Gaza",
+    "addedAt": "2026-07-03T16:38:42.845880+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/3/gaza-sports-community-pledges-to-continue-legacy-of-killed-goalkeeper?traffic_source=rss"
+  },
+  {
+    "id": "5b4997bac029",
+    "source": "PressTV",
+    "date": "2026-07-03T16:38",
+    "headline": "Iranian officials, world leaders, and high-ranking delegations pay tribute to martyred Leader",
+    "excerpt": "Top Iranian officials and high-ranking delegations from across the world pay their respects to the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-03T16:38:44.420880+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771538/Iran-Khamenei-respect-leaders"
+  },
+  {
+    "id": "d1b5689c0a7c",
+    "source": "PressTV",
+    "date": "2026-07-03T16:38",
+    "headline": "On 37th anniversary, Iran vows to never forgive deliberate US downing of Flight 655",
+    "excerpt": "Iran's Foreign Ministry has strongly condemned the United States for its \"unforgivable crime\" of shooting down a passenger plane over the Persian Gulf.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-03T16:38:44.420928+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771544/Iran-strongly-condemns-US-%E2%80%98unforgivable-crime%E2%80%99-on-anniversary-of-Iran-Air-Flight-655-downing"
+  },
+  {
     "id": "8a8d114da6a7",
     "source": "Al Jazeera",
     "date": "2026-07-03T14:28",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-23T15:54:20.276687+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us?traffic_source=rss"
-  },
-  {
-    "id": "1c09de34a4be",
-    "source": "PressTV",
-    "date": "2026-06-23T15:54",
-    "headline": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
-    "excerpt": "Iran and Oman have agreed to form a joint committee to discuss the future administration of the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-23T15:54:22.235738+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait"
-  },
-  {
-    "id": "acbdd42e5852",
-    "source": "PressTV",
-    "date": "2026-06-23T15:54",
-    "headline": "Iran's military yet to deploy full capabilities: Senior Army commander",
-    "excerpt": "The commander emphasized that Iran's armed forces remain at 100 percent readiness and have yet to reveal all their capabilities.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-23T15:54:22.235775+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770961/Iran-military-yet-to-deploy-full-capabilities-could-stage-preemptive-strikes-Senior-Army-commander"
-  },
-  {
-    "id": "fdbe7b7af6bd",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T12:23",
-    "headline": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
-    "excerpt": "Lebanese armed group Hezbollah denounced the &#039;treacherous attack&#039;, saying it was a &#039;blatant&#039; violation of the truce.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-23T12:48:03.034305+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/israeli-fire-kills-two-in-lebanon-as-hezbollah-slams-truce-violation?traffic_source=rss"
-  },
-  {
-    "id": "2dc07aae959a",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T11:55",
-    "headline": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
-    "excerpt": "UN commission of inquiry says Israel&#039;s deliberate targeting of Palestinian children in Gaza resulted in genocide.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-23T12:48:03.034356+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss"
   }
 ]
