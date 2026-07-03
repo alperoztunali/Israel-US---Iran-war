@@ -1,5 +1,93 @@
 [
   {
+    "id": "7d35d9a41699",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T09:26",
+    "headline": "Four killed in Ukraine a day after deadliest Russian attacks this year",
+    "excerpt": "At least two people were separately killed in Ukrainian attacks on Russia&#039;s border regions.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-03T10:14:42.742916+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss"
+  },
+  {
+    "id": "f5ce247238b2",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T08:20",
+    "headline": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says",
+    "excerpt": "Greek former parliamentarian Stelios Kouloglou targeted with Pegasus software, Citizen Lab analysis finds.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-03T10:14:42.742964+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/3/eu-lawmaker-investigating-surveillance-hacked-by-israeli-spyware-report-says?traffic_source=rss"
+  },
+  {
+    "id": "4bcd8793470e",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T08:04",
+    "headline": "Iran’s Khamenei funeral: Which world leaders are attending?",
+    "excerpt": "Several heads of state and other government officials will gather in Tehran for Khamenei&#039;s state funeral.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-03T10:14:42.743008+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending?traffic_source=rss"
+  },
+  {
+    "id": "ac81bf5f00cb",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T08:01",
+    "headline": "Seven pro-Palestine protesters convicted of misdemeanour charges in US",
+    "excerpt": "Activists found guilty of misdemeanour counts after blocking San Francisco&#039;s Golden Gate Bridge in a 2024 Gaza protest.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-03T10:14:42.743043+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/seven-pro-palestine-protesters-convicted-of-misdemeanour-charges-in-us?traffic_source=rss"
+  },
+  {
+    "id": "760740379daa",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T07:48",
+    "headline": "Ukraine strike hits Belgorod, causing fire and power outages",
+    "excerpt": "Ukraine strike hits Belgorod, causing fire and power outages",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-03T10:14:42.743077+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/ukraine-strike-hits-belgorod-causing-fire-and-power-outages?traffic_source=rss"
+  },
+  {
+    "id": "725cbcc27a0a",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T07:24",
+    "headline": "At least 40 killed in passenger bus crash in southwest Pakistan",
+    "excerpt": "Bus loses control and falls into rocky ravine near border of Balochistan and Khyber Pakhtunkhwa, officials say.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-03T10:14:42.743111+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/at-least-40-killed-in-passenger-bus-crash-in-southwest-pakistan?traffic_source=rss"
+  },
+  {
+    "id": "c186434d36ab",
+    "source": "PressTV",
+    "date": "2026-07-03T10:14",
+    "headline": "Avenging Leader’s blood means freeing Muslims from oppression: Qalibaf",
+    "excerpt": "Iran’s Parliament Speaker Mohammad Baqer Qalibaf says avenging the blood of the martyred Leader of the Islamic Revolution is tantamount to liberating Muslims from the US-Israeli oppression.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-03T10:14:44.424393+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771524/Iran-Qalibaf-avenge-Leader-blood-free-Muslims"
+  },
+  {
+    "id": "2eb9def5cce9",
+    "source": "PressTV",
+    "date": "2026-07-03T10:14",
+    "headline": "Iran calls for Islamic security alliance against Israel in Turkey talks",
+    "excerpt": "Iran's acting defense minister has called for a joint security mechanism among Islamic countries, saying the presence of extra-regional forces has become a source of insecurity.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-03T10:14:44.424437+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771519/Islamic-security-mechanism-foreign-forces-fuel-insecurity-Iran-tells-Turkey"
+  },
+  {
     "id": "434c57ac9938",
     "source": "Al Jazeera",
     "date": "2026-07-03T04:25",
@@ -5410,93 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-06-23T06:13:13.303207+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/latin-patriarch-of-jerusalem-pizzaballa-makes-solidarity-visit-to-gaza?traffic_source=rss"
-  },
-  {
-    "id": "db7cb8b0f0d6",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T04:13",
-    "headline": "Iraq fans ‘proud’ and joyful despite World Cup loss to France",
-    "excerpt": "Iraqis in Philadelphia weather Mbappe and a storm, but still find happiness in their team&#039;s FIFA World Cup performance.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-06-23T06:13:13.303277+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/23/iraq-fans-proud-and-joyful-despite-world-cup-loss-to-france?traffic_source=rss"
-  },
-  {
-    "id": "153c48d9fbd1",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T04:12",
-    "headline": "Bullying investigated after rare Philippines school shooting kills three",
-    "excerpt": "Three students are killed and seven others wounded after a rare school shooting in the central Philippines.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-23T06:13:13.303315+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/bullying-investigated-after-rare-philippines-school-shooting-kills-three?traffic_source=rss"
-  },
-  {
-    "id": "3e6a5a97798c",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T03:42",
-    "headline": "Conservative radio host defends Trump, says he’s better than Vance",
-    "excerpt": "Prominent conservative radio host, spoke at the International Policy Summit to defend Trump’s handling of the Iran war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T06:13:13.303355+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/conservative-radio-host-defends-trump-says-hes-better-than-vance?traffic_source=rss"
-  },
-  {
-    "id": "c0916ccaf028",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T02:45",
-    "headline": "Haaland scores two as Norway beat Senegal 3-2, enter World Cup knockouts",
-    "excerpt": "Senegal fought back until stoppage time but couldn’t draw level and must beat Iraq for a chance to progress.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-06-23T06:13:13.303391+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/23/haaland-scores-two-as-norway-beat-senegal-3-2-enter-world-cup-knockouts?traffic_source=rss"
-  },
-  {
-    "id": "7e76ad2cd7ab",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T02:41",
-    "headline": "US watchdog opens probe after Tesla crashes into Texas home, killing woman",
-    "excerpt": "Road safety regulator investigates crash involving a Model 3 that had been reportedly operating in self-driving mode.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-06-23T06:13:13.303437+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/23/us-watchdog-opens-probe-after-tesla-crashes-into-texas-home-killing-woman?traffic_source=rss"
-  },
-  {
-    "id": "9d3517b281f9",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T01:45",
-    "headline": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
-    "excerpt": "Iran’s chief negotiator said the Strait will never return to the way it was before the war.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-06-23T06:13:13.303471+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "34364a08716e",
-    "source": "PressTV",
-    "date": "2026-06-23T06:13",
-    "headline": "Iran, Oman discuss new arrangements to manage Strait of Hormuz",
-    "excerpt": "Iranian and Omani officials hold talks on new arrangements for the management of the strategic Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T06:13:14.712690+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770941/Iran,-Oman-discuss-new-arrangements-Strait-Hormuz-management"
-  },
-  {
-    "id": "7168600c9455",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T01:23",
-    "headline": "Israeli strike kills Palestinian girl on her way to sit exam",
-    "excerpt": "17-year-old Raghad Ashour was walking to school to take an exam when she was killed in an Israeli strike.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-23T01:50:00.287356+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss"
   }
 ]
