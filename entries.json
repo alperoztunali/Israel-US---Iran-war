@@ -1,5 +1,115 @@
 [
   {
+    "id": "3fb88b1fe715",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T12:00",
+    "headline": "Mourners pay respects as Iran’s slain leader Ali Khamenei laid in state",
+    "excerpt": "Iran begins seven-day state funeral for late ayatollah as some 100 foreign delegations arrive under a tense ceasefire",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-03T12:21:29.370066+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/mourners-pay-respects-as-irans-slain-leader-ali-khamenei-laid-in-state?traffic_source=rss"
+  },
+  {
+    "id": "95541f8ec695",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T10:38",
+    "headline": "Russia’s triumphant tone shifts as Ukraine deploys ‘asymmetrical tactics’",
+    "excerpt": "Putin wobbles as Russia&#039;s top brass stays mum on Kyiv&#039;s long-range strikes, which analysts say look set to continue.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-03T12:21:29.370130+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/russias-triumphant-tone-shifts-as-ukraine-deploys-asymmetrical-tactics?traffic_source=rss"
+  },
+  {
+    "id": "20b94d239057",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T09:59",
+    "headline": "Israel approves plan to establish 13 new settlements in occupied West Bank",
+    "excerpt": "Palestinian officials warn against the implications of the plan, saying it would further isolate East Jerusalem.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-03T12:21:29.370164+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/israel-approves-plan-to-establish-13-new-settlements-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "63b9b68bc921",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T09:26",
+    "headline": "Five killed in Ukraine a day after deadliest Russian attacks this year",
+    "excerpt": "Separately, at least 10 people killed in Ukrainian attacks on Russia and Russian-controlled areas.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-03T12:21:29.370192+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss"
+  },
+  {
+    "id": "af11ed5ea0de",
+    "source": "PressTV",
+    "date": "2026-07-03T12:21",
+    "headline": "Iran begins funeral ceremonies for martyred Leader as foreign dignitaries pay their respects",
+    "excerpt": "Iran has begun the first stage of funeral ceremonies for the martyred Leader of the Islamic Revolution.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-03T12:21:31.010106+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771508/Funeral-martyred-Leader-begins-Tehran"
+  },
+  {
+    "id": "2a334a9b3dd2",
+    "source": "PressTV",
+    "date": "2026-07-03T12:21",
+    "headline": "Qalibaf: Iran will not let US interfere in Hormuz, US-Israeli war failed",
+    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf said that Tehran would not allow any US intervention in the Strait of Hormuz.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-07-03T12:21:31.010142+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771525/Iran-will-not-let-US-interfere-in-Strait-of-Hormuz"
+  },
+  {
+    "id": "7847244ed189",
+    "source": "PressTV",
+    "date": "2026-07-03T12:21",
+    "headline": "Iran vows vengeance for Martyr Leader as dignitaries arrive for funeral",
+    "excerpt": "Iran’s Parliament Speaker Mohammad Baqer Qalibaf says avenging the blood of the martyred Leader of the Islamic Revolution is tantamount to liberating Muslims from the US-Israeli oppression.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-03T12:21:31.010169+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771524/Iran-Qalibaf-avenge-Leader-blood-free-Muslims"
+  },
+  {
+    "id": "13ea1fc58d93",
+    "source": "PressTV",
+    "date": "2026-07-03T12:21",
+    "headline": "Iraq's leaders flock to Tehran for funeral as Iran hails solidarity",
+    "excerpt": "Iran's president and parliament speaker has thanked Iraq for its solidarity during the recent US-Israeli war and called for deeper cooperation between the two neighbors.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-07-03T12:21:31.010202+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771530/Iran-Iraq-stand-by-each-other-Qalibaf"
+  },
+  {
+    "id": "634a3f87c052",
+    "source": "PressTV",
+    "date": "2026-07-03T12:21",
+    "headline": "Enemies will 'take to their graves' dream of Iran’s surrender: IRGC deputy commander",
+    "excerpt": "A senior commander of Iran's Islamic Revolution Guards Corps (IRGC) said Saturday that Iran's enemies would “take to their graves” the hope of seeing the Iranian nation surrender.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-03T12:21:31.010239+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771532/Enemies-take-graves-dream-Iran-surrender-IRGC"
+  },
+  {
+    "id": "e05877a56fc5",
+    "source": "PressTV",
+    "date": "2026-07-03T12:21",
+    "headline": "IRGC warns of response ‘more crushing than ever’ to enemy miscalculation",
+    "excerpt": "The Islamic Revolution Guards Corps warns that any enemy miscalculation against Iran will be met with a response “more crushing than ever”.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-03T12:21:31.010270+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771529/Iran-IRGC-crushing-response-enemy-miscalculation"
+  },
+  {
     "id": "7d35d9a41699",
     "source": "Al Jazeera",
     "date": "2026-07-03T09:26",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-23T10:05:53.247750+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/23/iran-war-day-116-us-eases-iran-sanctions-lebanon-ceasefire-holds?traffic_source=rss"
-  },
-  {
-    "id": "caf7c2547add",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T07:49",
-    "headline": "US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker",
-    "excerpt": "Top civil rights prosecutor announces probe after cafe chain says it will not serve Democratic lawmaker Dan Goldman.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-23T10:05:53.247789+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker?traffic_source=rss"
-  },
-  {
-    "id": "6bcac0f7c8d9",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T07:17",
-    "headline": "How a dead extremist Rabbi still shapes Israeli politics today",
-    "excerpt": "How a dead extremist Rabbi still shapes Israeli politics today",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-23T10:05:53.247810+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/how-a-dead-extremist-rabbi-still-shapes-israeli-politics-today?traffic_source=rss"
-  },
-  {
-    "id": "0c2a715b9be9",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T06:37",
-    "headline": "Why Iran’s President Pezeshkian is heading to Pakistan after US talks",
-    "excerpt": "This is Pezeshkian&#039;s first overseas trip since Iran war began, and comes a day after the high-stakes Switzerland talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T10:05:53.247846+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/why-irans-president-pezeshkian-is-heading-to-pakistan-after-us-iran-talks?traffic_source=rss"
-  },
-  {
-    "id": "7d3889741faf",
-    "source": "PressTV",
-    "date": "2026-06-23T10:05",
-    "headline": "Pezeshkian vows to push for full implementation of Iran-US MoU as he visits Pakistan",
-    "excerpt": "President Pezeshkian says his visit to Pakistan is aimed at following up on the full implementation of all clauses of the Iran-US MoU.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-23T10:05:54.804066+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770952/Pezeshkian--PakistanVisit-Aims-Implement-Clauses-Iran-US-MoU"
-  },
-  {
-    "id": "c61b8eb6faaf",
-    "source": "PressTV",
-    "date": "2026-06-23T10:05",
-    "headline": "Pezeshkian: US commitment to obligations will determine if talks can progress",
-    "excerpt": "President Masoud Pezeshkian stresses the importance of commitment to the agreed obligations to the progress of ongoing Iran-US talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T10:05:54.804107+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770946/Iran-United-States-talks-Pezeshkian"
-  },
-  {
-    "id": "c58461b6fcb9",
-    "source": "PressTV",
-    "date": "2026-06-23T10:05",
-    "headline": "Netanyahu says Israeli military will keep occupying southern Lebanon",
-    "excerpt": "Israeli prime minister Benjamin Netanyahu and top military officials have reaffirmed the regime’s plans to maintain the occupation of areas of southern Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-23T10:05:54.804170+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770944/Netanyahu-Israeli-military-officials-reaffirm-plots-occupation-Lebanon"
-  },
-  {
-    "id": "db7c75f36e2e",
-    "source": "PressTV",
-    "date": "2026-06-23T10:05",
-    "headline": "Yemen warms any Israeli presence in Somalia’s waters a ‘legitimate target’",
-    "excerpt": "The Yemeni Ansarullah resistance movement declares any Israeli presence in Somalia’s waters a legitimate target.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-23T10:05:54.804203+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770945/Ansarullah-declares-any-Israeli-presence-in-Somalia-s-waters-a-legitimate-target-"
-  },
-  {
-    "id": "f312ca9e59b2",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T05:41",
-    "headline": "Football offers escape for Gaza, but World Cup spirit dimmed",
-    "excerpt": "Palestinians in Gaza struggle to find World Cup joy amid displacement, power outages, and memories of previous lives.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-06-23T06:13:13.303130+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/23/gaza-world-cup-football-offers-escape?traffic_source=rss"
-  },
-  {
-    "id": "8bb871368d1f",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T05:40",
-    "headline": "Palestine weekly wrap: Israel’s ‘quiet annexation’ grows louder",
-    "excerpt": "Al Jazeera cameraman killed in Gaza, West Bank mosques torched, as Israeli officials describe attempt to expand control.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-23T06:13:13.303171+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/palestine-weekly-wrap-israels-quiet-annexation-grows-louder?traffic_source=rss"
-  },
-  {
-    "id": "ca5373c6f4db",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T04:40",
-    "headline": "Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza",
-    "excerpt": "Latin Patriarch of Jerusalem, Cardinal Pizzaballa visited Gaza in a show of solidarity with its Christian community.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-06-23T06:13:13.303207+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/latin-patriarch-of-jerusalem-pizzaballa-makes-solidarity-visit-to-gaza?traffic_source=rss"
   }
 ]
