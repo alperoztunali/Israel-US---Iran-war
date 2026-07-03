@@ -1,5 +1,27 @@
 [
   {
+    "id": "b5e216fdbdd2",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T17:44",
+    "headline": "Pakistan bus crash kills 40",
+    "excerpt": "At least 40 people were killed and eight others injured after a passenger bus plunged into a ravine in Pakistan.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-03T18:02:42.218151+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss"
+  },
+  {
+    "id": "557000396be3",
+    "source": "Al Jazeera",
+    "date": "2026-07-03T17:35",
+    "headline": "World leaders pay tribute to Iran’s late leader Khamenei in Tehran",
+    "excerpt": "World leaders pay tribute to Iran&#039;s late leader Khamenei in Tehran",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-03T18:02:42.218202+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/world-leaders-pay-tribute-to-irans-late-leader-khamenei-in-tehran?traffic_source=rss"
+  },
+  {
     "id": "3d05c1890b76",
     "source": "Al Jazeera",
     "date": "2026-07-03T15:44",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-23T15:54:20.276596+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/23/what-the-us-and-iran-agreed-and-disagreed-on-first-day-of-talks?traffic_source=rss"
-  },
-  {
-    "id": "3d569b8014e8",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T12:37",
-    "headline": "Former PM says Israel smuggled Starlink internet systems into Iran",
-    "excerpt": "Former PM Naftali Bennett has admitted Israel smuggled Starlink internet systems into Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-23T15:54:20.276640+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/former-pm-says-israel-smuggled-starlink-internet-systems-into-iran?traffic_source=rss"
-  },
-  {
-    "id": "80fb5f366205",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T10:37",
-    "headline": "Iran’s President Pezeshkian lands in Pakistan for talks after US deal",
-    "excerpt": "Pakistan hosts Iranian President Masoud Pezeshkian after mediating the breakthrough US-Iran negotiations in Switzerland.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T15:54:20.276687+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us?traffic_source=rss"
   }
 ]
