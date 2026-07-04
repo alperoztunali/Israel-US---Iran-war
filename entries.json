@@ -1,5 +1,27 @@
 [
   {
+    "id": "e34e69bb3339",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T15:49",
+    "headline": "Iran promotes message of continuity and revenge at Khamenei commemoration",
+    "excerpt": "Iran will be shut down on Sunday and Monday to encourage more mourners to join funeral procession.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-04T16:16:15.626858+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss"
+  },
+  {
+    "id": "0f68c42771a5",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T15:46",
+    "headline": "Russian attacks leave trail of destruction across Ukraine",
+    "excerpt": "Russian attacks leave trail of destruction across Ukraine",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-04T16:16:15.626911+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss"
+  },
+  {
     "id": "d5d0676fdcbd",
     "source": "Al Jazeera",
     "date": "2026-07-04T13:38",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-24T11:48:41.635967+00:00",
     "link": "https://presstv.ir/Detail/2026/06/24/770997/Downed-US-pilot-Iranian-drones-jellyfish--F-15-shootdown"
-  },
-  {
-    "id": "2ce46018ae8a",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T08:32",
-    "headline": "Ukraine strikes strategic Russian bridge in Crimea",
-    "excerpt": "Ukraine strikes strategic Russian bridge in Crimea",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-24T08:45:53.194580+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ukraine-strikes-strategic-russian-bridge-in-crimea?traffic_source=rss"
-  },
-  {
-    "id": "93191ca0e459",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T07:04",
-    "headline": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
-    "excerpt": "Iran and the US clash over nuclear inspections and Hormuz as negotiators push for a final deal within 60 days.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-24T08:45:53.194625+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss"
   }
 ]
