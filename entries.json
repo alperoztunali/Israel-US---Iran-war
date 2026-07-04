@@ -1,5 +1,38 @@
 [
   {
+    "id": "51bfc453b6d9",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T21:08",
+    "headline": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
+    "excerpt": "Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-04T23:15:43.631113+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss"
+  },
+  {
+    "id": "1cf6c6f8738f",
+    "source": "PressTV",
+    "date": "2026-07-04T23:15",
+    "headline": "Iran hails participation of representatives from over 70 countries in martyred Leader’s funeral",
+    "excerpt": "Iran hails participation of representatives from more than 70 countries in funeral ceremonies held for the martyred Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-04T23:15:45.589751+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771630/Iran-martyred-Leader-funeral-foreign-officials-Araghchi"
+  },
+  {
+    "id": "0d6807b3c383",
+    "source": "PressTV",
+    "date": "2026-07-04T23:15",
+    "headline": "Turkey warns of renewed regional war driven by Israel",
+    "excerpt": "Turkey warns about the risk of renewed regional war driven by the Israeli regime, saying Ankara supports efforts to reduce tensions through dialogue and diplomacy.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-04T23:15:45.589815+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771631/Turkey-warning-Israel-war-region"
+  },
+  {
     "id": "241fc5eeb800",
     "source": "Al Jazeera",
     "date": "2026-07-04T20:06",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-24T16:56:12.905439+00:00",
     "link": "https://presstv.ir/Detail/2026/06/24/771026/Iran-Qalibaf-urges-Islamic-nations-to-build-new-regional-order-free-from-Zionist-influence"
-  },
-  {
-    "id": "bbef883f72f8",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T13:40",
-    "headline": "Rubio tries to reassure Gulf allies on US-Iran deal details",
-    "excerpt": "Rubio tours Gulf in bid to allay allies&#039; security concerns over the US-Iran memorandum of understanding.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-24T14:43:17.251351+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/24/rubio-tries-to-reassure-gulf-allies-on-us-iran-deal-details?traffic_source=rss"
-  },
-  {
-    "id": "818d25315af8",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T12:59",
-    "headline": "What does Pakistan stand to gain from helping broker the US-Iran deal?",
-    "excerpt": "Pakistan sees strategic opportunity in the US-Iran thaw, including trade, energy access and renewed regional relevance.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-24T14:43:17.251397+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/24/what-does-pakistan-stand-to-gain-from-helping-broker-the-us-iran-deal?traffic_source=rss"
-  },
-  {
-    "id": "79b9746ff993",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T12:44",
-    "headline": "Iranians cautiously optimistic about thorny deal with US",
-    "excerpt": "Iran is watching closely as months of complex negotiations lie ahead amid internal political disputes.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-24T14:43:17.251458+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/24/iranians-cautiously-optimistic-about-thorny-deal-with-us?traffic_source=rss"
   }
 ]
