@@ -1,5 +1,49 @@
 [
   {
+    "id": "40231ee5336a",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T10:29",
+    "headline": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
+    "excerpt": "Kyiv&#039;s drones disrupt St Petersburg internet and flights as Russian strikes halt a gas facility in central Ukraine.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-04T11:53:17.754784+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss"
+  },
+  {
+    "id": "08887044e21c",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T10:16",
+    "headline": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
+    "excerpt": "Mourners pack Tehran streets for Khamenei’s funeral, with ceremonies spanning cities and ending in Mashhad burial.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-04T11:53:17.754830+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss"
+  },
+  {
+    "id": "7d1356130efd",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T09:14",
+    "headline": "Mali’s army says rebels launch new attacks on towns and cities",
+    "excerpt": "Tuareg-led armed ⁠group says it attacked northern town where Malian troops and Russian fighters are based.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-07-04T11:53:17.754858+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss"
+  },
+  {
+    "id": "0271f51334a5",
+    "source": "PressTV",
+    "date": "2026-07-04T11:53",
+    "headline": "Iran’s Intelligence Ministry vows to avenge martyred Leader’s blood",
+    "excerpt": "The Ministry of Intelligence has vowed to avenge the blood of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, and other oppressed martyrs.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-04T11:53:19.447684+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771596/Iran%E2%80%99s-Intelligence-Ministry-avenge-martyred-Leader-s-blood"
+  },
+  {
     "id": "978d9b6b6c3c",
     "source": "Al Jazeera",
     "date": "2026-07-04T09:35",
@@ -5454,49 +5498,5 @@
     "location": "Strait Of Hormuz",
     "addedAt": "2026-06-24T01:26:23.711277+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-begins-evacuation-of-11000-sailors-stranded-in-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "48424c4ad855",
-    "source": "PressTV",
-    "date": "2026-06-24T01:26",
-    "headline": "Attacks on Lebanon 'red line'; Iran to respond to Israeli violations: Senior diplomat",
-    "excerpt": "Senior Iranian diplomat describes Lebanon as an unquestionable part of the recently signed memorandum of understanding between the Islamic Republic and the US.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-24T01:26:25.479130+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770988/Iran-Lebanon-Israel-United-States-memorandum"
-  },
-  {
-    "id": "748e5125f820",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T22:50",
-    "headline": "Israel’s deliberate targeting of Palestinian children",
-    "excerpt": "New UN report documents the toll of Israel&#039;s war on Gaza and its occupation of the West Bank on Palestinian children.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-23T23:16:16.054505+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss"
-  },
-  {
-    "id": "a7b4c6dbba7d",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T21:38",
-    "headline": "UN: Israel committed genocide by targeting Gaza children",
-    "excerpt": "Israel deliberately targeted Palestinian children in Gaza, resulting in genocide.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-23T23:16:16.054548+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss"
-  },
-  {
-    "id": "f98844e03a9a",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T19:50",
-    "headline": "US Senate votes to pass Iran war powers resolution in blow to Trump",
-    "excerpt": "The resolution is the first to pass both the Senate and the House, though it is likely to face a presidential veto.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-23T23:16:16.054597+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss"
   }
 ]
