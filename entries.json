@@ -1,5 +1,60 @@
 [
   {
+    "id": "6d934e8ba422",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T18:17",
+    "headline": "Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week",
+    "excerpt": "The visit would mark Netanyahu&#039;s seventh visit to the US since Trump returned to office for a second term as president.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-04T18:42:14.257642+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/4/trump-hints-israels-benjamin-netanyahu-may-visit-us-as-early-as-next-week?traffic_source=rss"
+  },
+  {
+    "id": "8c30ed670a85",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T18:09",
+    "headline": "Turkiye’s Erdogan says Israel must not be able to ‘dynamite’ US-Iran deal",
+    "excerpt": "The Turkiye leader has repeatedly accused Israel of trying to undermine the US-Iran memorandum of understanding.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-04T18:42:14.257734+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal?traffic_source=rss"
+  },
+  {
+    "id": "974a206208fc",
+    "source": "PressTV",
+    "date": "2026-07-04T18:42",
+    "headline": "Qalibaf: Iran's resistance inflicted political, military defeat on US, Israel",
+    "excerpt": "The Iranian Parliament speaker says the country’s resistance in the recent war dealt a decisive political and military defeat to the US and Israel.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-04T18:42:15.956374+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771622/Qalibaf--Iran-s-resistance-dealt-political,-military-defeat-to-US,-Israel"
+  },
+  {
+    "id": "8bb53fa6eeb1",
+    "source": "PressTV",
+    "date": "2026-07-04T18:42",
+    "headline": "Iran doesn’t trust US, will give 'decisive response' to any MoU violation: Acting defense minister",
+    "excerpt": "Iran's acting defense minister warns any violation of the Iran-US ceasefire agreement will be met with a firm and decisive response.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-04T18:42:15.956417+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771623/1-%09Iran%E2%80%99s-acting-defense-minister-warns-of-%E2%80%98decisive-response%E2%80%99-to-any-MoU-violation"
+  },
+  {
+    "id": "787070362a0f",
+    "source": "PressTV",
+    "date": "2026-07-04T18:42",
+    "headline": "Martyr Ayatollah Khamenei was pillar of support for Palestine: Islamic Jihad",
+    "excerpt": "Palestinian Islamic Jihad has paid tribute to Iran's martyred Leader Ayatollah Seyyed Ali Khamenei, describing him as a steadfast supporter of the Palestinian cause.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-04T18:42:15.956440+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771624/Islamic-Jihad-hails-martyred-Iranian-Leader-as-pillar-of-support-for-Palestine"
+  },
+  {
     "id": "2036e5c35cc4",
     "source": "Al Jazeera",
     "date": "2026-07-04T16:23",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-24T14:43:18.773380+00:00",
     "link": "https://presstv.ir/Detail/2026/06/24/771016/Iran-rules-out-immediate-IAEA-access-to-bombed-nuclear-sites-says-inspections-tied-to-final-deal"
-  },
-  {
-    "id": "0453d04fb587",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T11:25",
-    "headline": "US Senate approves Iran war powers resolution: What that means for Trump",
-    "excerpt": "Four Republicans cross party lines to vote in favour of the measure.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-24T11:48:39.913868+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss"
-  },
-  {
-    "id": "4ab1515801af",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T11:24",
-    "headline": "North Korea commissions warship as Kim eyes nuclear navy",
-    "excerpt": "Kim Jong Un vows to equip North Korea&#039;s navy with nuclear weapons, signaling a strategic shift in military capabilities.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-06-24T11:48:39.913912+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy?traffic_source=rss"
-  },
-  {
-    "id": "0b209656611e",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T10:03",
-    "headline": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
-    "excerpt": "The largest city on the Russia-controlled peninsula has been left without power after an attack on energy facilities.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-24T11:48:39.913954+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss"
-  },
-  {
-    "id": "18eb69d9029b",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T09:39",
-    "headline": "Four Gaza aid flotilla activists released from Libya detention",
-    "excerpt": "Global Sumud Flotilla group says six others remain in detention and are expected to be released within 24 hours.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-06-24T11:48:39.913986+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/24/four-gaza-aid-flotilla-activists-released-from-libya-detention?traffic_source=rss"
-  },
-  {
-    "id": "5371537e3eb7",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T09:38",
-    "headline": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family’s home",
-    "excerpt": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family&#039;s home",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-24T11:48:39.914022+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/israeli-soldiers-celebrate-inside-displaced-lebanese-familys-home?traffic_source=rss"
   }
 ]
