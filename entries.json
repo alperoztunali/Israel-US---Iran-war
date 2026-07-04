@@ -1,5 +1,71 @@
 [
   {
+    "id": "978d9b6b6c3c",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T09:35",
+    "headline": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
+    "excerpt": "Thousands of mourners attended the public grand procession of Iran’s late Supreme Leader Khamenei in Tehran.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-04T10:26:26.382741+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/thousands-gather-as-khamenei-funeral-ceremonies-open-in-tehran?traffic_source=rss"
+  },
+  {
+    "id": "db21db06e7f3",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T09:14",
+    "headline": "Armed fighters attack multiple towns across Mali",
+    "excerpt": "Tuareg-led armed ⁠group says it attacked northern town where Malian troops and Russian fighters are based.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-07-04T10:26:26.382785+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss"
+  },
+  {
+    "id": "31c5add8faa5",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T08:59",
+    "headline": "Saudi-led coalition pledges ‘unprecedented’ force against Houthi threats",
+    "excerpt": "Threats escalate after Houthis block Saudi warplanes, allowing Iranian plane to land in Sanaa for first time in decade.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-04T10:26:26.382811+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss"
+  },
+  {
+    "id": "88c9e30be1e4",
+    "source": "PressTV",
+    "date": "2026-07-04T10:26",
+    "headline": "Iran warns any military adventurism in Strait of Hormuz will have consequences",
+    "excerpt": "Iran warns that any military adventurism in the Strait of Hormuz will have consequences, stressing that security in the waterway is the responsibility of coastal states.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-04T10:26:28.194857+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771588/Iran-warns-military-adventurism-Strait-Hormuz-consequences"
+  },
+  {
+    "id": "9c6363fd6eb0",
+    "source": "PressTV",
+    "date": "2026-07-04T10:26",
+    "headline": "Divine retribution against US, Israel not far off: IRGC Navy chief",
+    "excerpt": "The IRGC navy commander says Iran’s armed forces have pledged to continue the path of martyred leader of the Islamic Revolution.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-04T10:26:28.194892+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771593/IRGC-navy-commander--Divine-retribution-against--terrorist--US,--illegitimate--Israel,-near-"
+  },
+  {
+    "id": "4b39c665b27b",
+    "source": "PressTV",
+    "date": "2026-07-04T10:26",
+    "headline": "D-8, OPEC heads extend condolences to Iran over martyrdom of Leader",
+    "excerpt": "The heads of the D-8 Organization and OPEC have extended condolences to Iran over the martyrdom of its late Leader, Ayatollah Seyyed Ali Khamenei, expressing solidarity with the Iranian people and reaffirming continued engagement with the country.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-04T10:26:28.194930+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771591/Iran-D-8-Secretary-General-OPEC-convey-condolences-martyrdom-Late-Leader-reaffirm-solidarity-Iranian-people-funeral-ceremonies"
+  },
+  {
     "id": "0a6648a614fb",
     "source": "Al Jazeera",
     "date": "2026-07-04T05:41",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-23T23:16:16.054597+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss"
-  },
-  {
-    "id": "bcd7dfc2dc99",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T21:19",
-    "headline": "Trump allies reassure Israelis amid tensions on US-Iran deal",
-    "excerpt": "Trump allies reassure Israelis amid tensions on US-Iran deal",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T21:58:21.637711+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss"
-  },
-  {
-    "id": "41b13decae1e",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T21:00",
-    "headline": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
-    "excerpt": "Following the start of the US-Israel war on Iran on February 28, Tehran had effectively closed off the vital waterway.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-06-23T21:58:21.637757+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "81164d4a865e",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T20:12",
-    "headline": "Alibaba sues US military over labelling it a ‘Chinese military company’",
-    "excerpt": "E-commerce giant says that claims of affiliation with Chinese military have &#039;no basis in fact or law&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-23T21:58:21.637806+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss"
-  },
-  {
-    "id": "c658403782fb",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T20:11",
-    "headline": "Trump disputes Iran’s rejection of nuclear inspectors",
-    "excerpt": "President Trump pushed back on Iran’s foreign ministry claim that there are no plans to allow IAEA nuclear inspectors.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-23T21:58:21.637845+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-disputes-irans-rejection-of-nuclear-inspectors?traffic_source=rss"
-  },
-  {
-    "id": "23f2103cce8e",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T19:50",
-    "headline": "US Senate votes to pass Iran war powers resolution, in blow to Trump",
-    "excerpt": "The resolution is the first to pass both the Senate and the House, though it is likely to face a presidential veto.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-23T21:58:21.637885+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss"
-  },
-  {
-    "id": "bde0da648d20",
-    "source": "PressTV",
-    "date": "2026-06-23T21:58",
-    "headline": "US Senate approves resolution challenging Trump's authority to wage war on Iran",
-    "excerpt": "The US Senate approves a war powers resolution aimed at preventing Trump from waging military aggression against Iran without congressional authorization.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-23T21:58:23.048459+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770986/United-States-war-Iran-Trump"
   }
 ]
