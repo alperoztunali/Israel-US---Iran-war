@@ -1,5 +1,27 @@
 [
   {
+    "id": "2036e5c35cc4",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T16:23",
+    "headline": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
+    "excerpt": "A further nine bodies were recovered from under the rubble, according to Gaza&#039;s Ministry of Health.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-04T17:35:07.027555+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "e5d8e307fc53",
+    "source": "PressTV",
+    "date": "2026-07-04T17:35",
+    "headline": "Millions attend farewell ceremony for martyred Leader in Tehran",
+    "excerpt": "The farewell ceremony for the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, begins at Tehran's Grand Imam Khomeini Mosalla.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-04T17:35:08.479426+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771576/Farewell-ceremony-martyr-Leader-Tehran"
+  },
+  {
     "id": "e34e69bb3339",
     "source": "Al Jazeera",
     "date": "2026-07-04T15:49",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-24T11:48:39.914022+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/israeli-soldiers-celebrate-inside-displaced-lebanese-familys-home?traffic_source=rss"
-  },
-  {
-    "id": "8d196febf768",
-    "source": "PressTV",
-    "date": "2026-06-24T11:48",
-    "headline": "Iran's oil minister heads to India for BRICS summit as sanctions lift",
-    "excerpt": "India was the second-largest buyer of Iranian oil until 2019. With US sanctions now lifted and payment channels restored, Iran's oil minister visits India for BRICS talks, signaling imminent resumption of crude shipments.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-24T11:48:41.635939+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/24/771002/Iran-Mohsen-Paknejad-oil-India-BRICS-sustainable-energy"
-  },
-  {
-    "id": "8908125c4053",
-    "source": "PressTV",
-    "date": "2026-06-24T11:48",
-    "headline": "Downed F-15 pilot’s account of 'alien' Iranian jellyfish formation shocks US intel",
-    "excerpt": "A US warplane pilot rescued after being shot down over Iran in April describes witnessing multiple Iranian drones hovering in a synchronized formation resembling a jellyfish.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-24T11:48:41.635967+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/24/770997/Downed-US-pilot-Iranian-drones-jellyfish--F-15-shootdown"
   }
 ]
