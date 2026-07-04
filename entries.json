@@ -1,5 +1,27 @@
 [
   {
+    "id": "600f9fee5b9b",
+    "source": "PressTV",
+    "date": "2026-07-04T05:23",
+    "headline": "Farewell ceremony for martyred Leader officially begins in Tehran",
+    "excerpt": "The farewell ceremony for the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, begins at Tehran's Grand Imam Khomeini Mosalla.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-04T05:23:54.244992+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771576/Farewell-ceremony-martyr-Leader-Tehran"
+  },
+  {
+    "id": "a1ff2d224fe9",
+    "source": "PressTV",
+    "date": "2026-07-04T05:23",
+    "headline": "'He made the Ummah proud': Netizens honor Iran’s martyred Leader ahead of funeral",
+    "excerpt": "Netizens flood social media with emotional commentary on the legacy of Ayatollah Khamenei on the eve of the martyred Leader of the Islamic Revolution's funeral.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-04T05:23:54.245038+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771572/Iran-martyred-Leader-funeral-netizens-social-media"
+  },
+  {
     "id": "75b255de3aa5",
     "source": "Al Jazeera",
     "date": "2026-07-04T00:20",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-23T20:23:35.865930+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/irans-president-arrives-in-pakistan-for-peace-talks?traffic_source=rss"
-  },
-  {
-    "id": "ac35c5a8c5ec",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T19:50",
-    "headline": "US Senate votes to halt Iran war, bucking Trump",
-    "excerpt": "This is a breaking news story.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-23T20:23:35.865961+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss"
-  },
-  {
-    "id": "9bf2e6631e30",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T19:45",
-    "headline": "US says Iran can stay for two days before Egypt World Cup game",
-    "excerpt": "Iran&#039;s team will still need to leave the US shortly after their third group-stage match against Egypt on Friday.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-23T20:23:35.865994+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/23/us-says-iran-can-stay-for-two-days-before-egypt-world-cup-game?traffic_source=rss"
   }
 ]
