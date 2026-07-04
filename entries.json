@@ -1,5 +1,38 @@
 [
   {
+    "id": "75b255de3aa5",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T00:20",
+    "headline": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates",
+    "excerpt": "Fans in Gaza celebrated Egypt&#039;s win at match screenings held against the backdrop of bombed buildings.",
+    "category": "Airstrike",
+    "location": "Gaza",
+    "addedAt": "2026-07-04T01:18:11.556214+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss"
+  },
+  {
+    "id": "e876daa3b7e3",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T00:00",
+    "headline": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+    "excerpt": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-07-04T01:18:11.556252+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss"
+  },
+  {
+    "id": "90867181d78e",
+    "source": "PressTV",
+    "date": "2026-07-04T01:18",
+    "headline": "Huge crowd rally in Sanaa to thank Iran for breaking Yemen airport siege",
+    "excerpt": "The crowds expressed deep appreciation for Iran’s humanitarian initiative in facilitating the transfer of patients.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-04T01:18:13.183265+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/03/771568/Thousands-rally-in-Sanaa-to-thank-Iran-for-breaking-Yemen-siege"
+  },
+  {
     "id": "ceb2b4af60fb",
     "source": "PressTV",
     "date": "2026-07-03T23:37",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-23T20:23:35.865994+00:00",
     "link": "https://www.aljazeera.com/sports/2026/6/23/us-says-iran-can-stay-for-two-days-before-egypt-world-cup-game?traffic_source=rss"
-  },
-  {
-    "id": "e3056cb154c2",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T19:04",
-    "headline": "Displaced Lebanese return south under fragile ceasefire deal",
-    "excerpt": "Displaced Lebanese are heading back south after a US-Iran backed ceasefire halted months of Israeli bombardment.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-23T20:23:35.866015+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/displaced-lebanese-return-south-under-fragile-ceasefire-deal?traffic_source=rss"
-  },
-  {
-    "id": "90574e37d89c",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T18:56",
-    "headline": "Video: Israeli troops seen patrolling Syrian countryside",
-    "excerpt": "Israeli troops and two Merkava tanks have been spotted in the Syrian countryside near Quneitra city.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-23T20:23:35.866046+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/video-israeli-troops-seen-patrolling-syrian-countryside?traffic_source=rss"
-  },
-  {
-    "id": "8efcab57a7fc",
-    "source": "PressTV",
-    "date": "2026-06-23T20:23",
-    "headline": "Iran's defense capabilities 'non-negotiable,' President Pezeshkian says",
-    "excerpt": "Iranian President Masoud Pezeshkian said that Tehran would never negotiate over its defense and deterrence capabilities.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-23T20:23:37.458033+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/23/770980/Pezeshkian-defense-capabilities-non-negotiable"
   }
 ]
