@@ -1,5 +1,27 @@
 [
   {
+    "id": "0a6648a614fb",
+    "source": "Al Jazeera",
+    "date": "2026-07-04T05:41",
+    "headline": "Could Israel really build settlements in Gaza?",
+    "excerpt": "After a genocidal war and famine, leading Israeli politicians say they are now ready to settle Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-04T08:10:47.489030+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "c3612cad167a",
+    "source": "PressTV",
+    "date": "2026-07-04T08:10",
+    "headline": "Qalibaf lauds Pakistan for support during US-Israeli aggression",
+    "excerpt": "Qalibaf has expressed gratitude for Pakistan’s support during the US-Israeli aggression in talks with Pakistan’s Senate chairman in Tehran.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-07-04T08:10:49.412039+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/04/771584/Qalibaf-lauds-Pakistan-for-support-during-US-Israeli-aggression"
+  },
+  {
     "id": "600f9fee5b9b",
     "source": "PressTV",
     "date": "2026-07-04T05:23",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-23T21:58:23.048459+00:00",
     "link": "https://presstv.ir/Detail/2026/06/23/770986/United-States-war-Iran-Trump"
-  },
-  {
-    "id": "3fc265452b29",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T20:06",
-    "headline": "Rubio begins Gulf visit in the UAE to advance US-Iran peace deal",
-    "excerpt": "Arriving in the UAE at the start of a Gulf tour, Rubio is seeking to advance the US-Iran deal with regional partners.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T20:23:35.865881+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/rubio-begins-gulf-visit-in-the-uae-to-advance-us-iran-peace-deal?traffic_source=rss"
-  },
-  {
-    "id": "5e1beb62ab54",
-    "source": "Al Jazeera",
-    "date": "2026-06-23T19:57",
-    "headline": "Iran’s president arrives in Pakistan for peace talks",
-    "excerpt": "Iran’s president arrives in Pakistan for peace talks",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-23T20:23:35.865930+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/irans-president-arrives-in-pakistan-for-peace-talks?traffic_source=rss"
   }
 ]
