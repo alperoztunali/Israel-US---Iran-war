@@ -1,5 +1,16 @@
 [
   {
+    "id": "6ccb2fffcacc",
+    "source": "Al Jazeera",
+    "date": "2026-07-05T20:16",
+    "headline": "8 injured, including 4 children, in New York City Fourth of July shooting",
+    "excerpt": "A shooting at a Fourth of July celebration in the US city of New York wounded eight victims, four of whom are children.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-05T21:14:28.126687+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/8-injured-including-4-children-in-new-york-city-fourth-of-july-shooting?traffic_source=rss"
+  },
+  {
     "id": "bc82cf9fea6f",
     "source": "Al Jazeera",
     "date": "2026-07-05T18:55",
@@ -5487,16 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-25T01:51:57.660912+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/25/two-years-on-kenyan-families-still-seek-justice-after-gen-z-protests?traffic_source=rss"
-  },
-  {
-    "id": "4cdb4f765f4f",
-    "source": "Al Jazeera",
-    "date": "2026-06-25T00:07",
-    "headline": "Venezuela struck by back-to-back earthquakes, many casualties feared",
-    "excerpt": "US Geological Survey says high casualties &#039;probable&#039; after powerful quakes hit South American country.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-25T01:51:57.660943+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/25/venezuela-struck-by-back-to-back-earthquakes-high-casualties-feared?traffic_source=rss"
   }
 ]
