@@ -1,5 +1,71 @@
 [
   {
+    "id": "2b8d629a2e18",
+    "source": "Al Jazeera",
+    "date": "2026-07-05T16:59",
+    "headline": "50 Houthi fighters killed in renewed clashes in Yemen",
+    "excerpt": "Yemeni government officials say the Houthis launched a surprise offensive targeting army barracks in southern Hodeidah.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-07-05T17:17:22.708859+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss"
+  },
+  {
+    "id": "ca2716da0dec",
+    "source": "Al Jazeera",
+    "date": "2026-07-05T16:19",
+    "headline": "Syria delays first session of transitional parliament without explanation",
+    "excerpt": "The transitional parliament aims to draft a new elections law during its 30-month term.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-05T17:17:22.708906+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/5/syria-delays-first-session-of-transitional-parliament-without-explanation?traffic_source=rss"
+  },
+  {
+    "id": "a8fb47b1f13c",
+    "source": "Al Jazeera",
+    "date": "2026-07-05T16:05",
+    "headline": "Photo of abused Palestinian detainee causes anguish for two Gaza mothers",
+    "excerpt": "Disturbing image showing restrained detainee adds to agony of two mothers, each of whom is certain he is their son.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-05T17:17:22.708941+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/5/photo-of-abused-palestinian-detainee-sparks-anguish-for-two-gaza-mothers?traffic_source=rss"
+  },
+  {
+    "id": "6ab0db51764e",
+    "source": "Al Jazeera",
+    "date": "2026-07-05T13:46",
+    "headline": "Houthi rebels kill 16 Yemeni government troops in fiercest clashes in years",
+    "excerpt": "Medical sources on the Red Sea coast report 16 dead from pro-government forces and 22 wounded.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-07-05T17:17:22.708971+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting?traffic_source=rss"
+  },
+  {
+    "id": "b4d856a3a5b0",
+    "source": "PressTV",
+    "date": "2026-07-05T17:17",
+    "headline": "Qalibaf: Iran not at peace with US; MoU implementation difficult but possible",
+    "excerpt": "The Iranian Parliament speaker says the implementation of Iran-US MoU is difficult but possible.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-05T17:17:25.302942+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/05/771676/Qalibaf--Iran-not-at-peace-with-US--MoU-implementation-difficult-but-possible"
+  },
+  {
+    "id": "0759e36b68a8",
+    "source": "PressTV",
+    "date": "2026-07-05T17:17",
+    "headline": "Iran owes its military might to martyred Leader; his legacy will be upheld: Commander",
+    "excerpt": "Rear Admiral Habibollah Sayyari says Iran’s armed forces will build on the military strength achieved under Ayatollah Seyyed Ali Khamenei’s leadership.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-05T17:17:25.302982+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/05/771675/iran-leader-ayatollah-khamenei-commander-legacy-army"
+  },
+  {
     "id": "77733d6f6296",
     "source": "PressTV",
     "date": "2026-07-05T15:48",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-25T01:51:59.310161+00:00",
     "link": "https://presstv.ir/Detail/2026/06/24/771045/United-States-injured-soldiers-Iran-war"
-  },
-  {
-    "id": "1920695e6ca3",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T23:25",
-    "headline": "Trump White House requests $87.6bn in spending, including for Iran war",
-    "excerpt": "The request is likely to face an uphill battle in Congress, which voted a day earlier to rein in Trump&#039;s war powers.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-24T23:44:29.907501+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "763babd35924",
-    "source": "PressTV",
-    "date": "2026-06-24T23:44",
-    "headline": "US army minimizing injuries from Iran retaliation: Wounded forces, families",
-    "excerpt": "Wounded American forces and their families say the US army is minimizing the severity of injuries sustained during Iran's retaliation.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-06-24T23:44:31.402831+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/24/771045/United-States-injured-soldiers-Iran-war"
-  },
-  {
-    "id": "81a55e32d0d4",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T21:47",
-    "headline": "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32",
-    "excerpt": "Bosnia are in a strong position to be one of the best eight third-placed teams to progress to the last 32.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-06-24T22:22:19.800115+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/24/bosnia-win-3-2-knock-out-qatar-to-keep-alive-hopes-of-world-cup-round-of-32?traffic_source=rss"
-  },
-  {
-    "id": "24ce415f528a",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T21:38",
-    "headline": "Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone",
-    "excerpt": "Madibo&#039;s tackle on Kone in the team&#039;s Group B match left the Canadian player with a broken leg.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-06-24T22:22:19.800193+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/24/qatars-madibo-banned-for-5-games-after-breaking-leg-of-canadas-kone?traffic_source=rss"
-  },
-  {
-    "id": "9e06e5f0bfcc",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T21:35",
-    "headline": "Katz: Israel will not withdraw from Lebanon even if US demands it",
-    "excerpt": "Defence Minister Israel Katz said Israel will maintain its presence in Lebanon even if US demands withdrawal.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-24T22:22:19.800229+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_israel-will-not-withdraw-from-lebanon-us-demands-240626?traffic_source=rss"
-  },
-  {
-    "id": "0c7b9d884662",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T21:01",
-    "headline": "Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says",
-    "excerpt": "Iranian team&#039;s trip to Seattle was delayed by 25 minutes as Taremi and Alhoei were held up for an undisclosed reason.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-24T22:22:19.800264+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/24/mehdi-taremi-assistant-coach-held-up-at-airport-by-us-officials-iran-says?traffic_source=rss"
   }
 ]
