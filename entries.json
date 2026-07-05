@@ -1,5 +1,27 @@
 [
   {
+    "id": "bbdab0271574",
+    "source": "Al Jazeera",
+    "date": "2026-07-05T22:03",
+    "headline": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+    "excerpt": "Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-05T23:36:29.639700+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss"
+  },
+  {
+    "id": "03ce0bfe8139",
+    "source": "PressTV",
+    "date": "2026-07-05T23:36",
+    "headline": "US 'defeated' as Iran MoU forces recognition of resistance allies: Qalibaf",
+    "excerpt": "Qalibaf stressed that strong diplomacy depends on full military preparedness.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-05T23:36:31.517599+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/05/771691/US-defeated-as-Iran-MoU-forces-recognition-of-resistance-allies-Qalibaf"
+  },
+  {
     "id": "6ccb2fffcacc",
     "source": "Al Jazeera",
     "date": "2026-07-05T20:16",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-25T06:13:23.298578+00:00",
     "link": "https://presstv.ir/Detail/2026/06/25/771052/Venezuela-earthquakes-casualties-Caracas"
-  },
-  {
-    "id": "a2edd552f244",
-    "source": "Al Jazeera",
-    "date": "2026-06-25T01:11",
-    "headline": "Venezuela earthquakes live: Buildings fall in Caracas, casualties feared",
-    "excerpt": "A magnitude 7.1 earthquake hit Venezuela near city of Moron, followed by a stronger magnitude 7.5 quake in same area.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-25T01:51:57.660871+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-two-powerful-quakes-shake-s-american-country?traffic_source=rss"
-  },
-  {
-    "id": "dfe63f72516a",
-    "source": "Al Jazeera",
-    "date": "2026-06-25T00:11",
-    "headline": "Two years on, Kenyan families still seek justice after Gen Z protests",
-    "excerpt": "Families of those killed and missing say investigations have stalled as accountability remains out of reach.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-25T01:51:57.660912+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/25/two-years-on-kenyan-families-still-seek-justice-after-gen-z-protests?traffic_source=rss"
   }
 ]
