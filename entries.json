@@ -1,5 +1,38 @@
 [
   {
+    "id": "20950ad03221",
+    "source": "Al Jazeera",
+    "date": "2026-07-05T08:25",
+    "headline": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
+    "excerpt": "Palestinians in Gaza celebrate Morocco&#039;s World Cup victory",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-05T10:52:34.997547+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss"
+  },
+  {
+    "id": "c8a2c10d7ffa",
+    "source": "PressTV",
+    "date": "2026-07-05T10:52",
+    "headline": "West assassinated Leader over unwavering support for Palestinian cause: Ansarullah",
+    "excerpt": "The West assassinated the martyred Leader of the Islamic Revolution because of his unwavering support for the Palestinian cause, according to a member of Yemen’s Ansarullah.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-07-05T10:52:37.273332+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/05/771653/West-assassinated-Leader-over-unwavering-support-Palestinian-cause-Ansarullah"
+  },
+  {
+    "id": "b44bed6525ea",
+    "source": "PressTV",
+    "date": "2026-07-05T10:52",
+    "headline": "Iran’s Army warns of ‘crushing’ response to enemy miscalculation",
+    "excerpt": "Iran’s Army warns that any miscalculation by the enemy against the country will be met with a “crushing” response.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-05T10:52:37.273375+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/05/771647/Army-warns-enemy-miscalculation-crushing-response"
+  },
+  {
     "id": "50e4164eb306",
     "source": "Al Jazeera",
     "date": "2026-07-05T08:09",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-24T20:50:10.436732+00:00",
     "link": "https://www.aljazeera.com/video/inside-story/2026/6/24/why-does-israel-want-to-be-less-dependent-on-us-weapons?traffic_source=rss"
-  },
-  {
-    "id": "ebc888cd8b39",
-    "source": "PressTV",
-    "date": "2026-06-24T20:50",
-    "headline": "Iran warns Rubio: 'No one will be fooled' by US attempt to redefine MoU",
-    "excerpt": "Iran has strongly rejected US Secretary of State Marco Rubio's interpretation of the recently signed Memorandum of Understanding, insisting that the agreement mandates a comprehensive end to hostilities across the region.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-24T20:50:11.902543+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/24/771041/Iran-Peace-West-Asia-come-US-interventions-Israeli-occupation-end"
-  },
-  {
-    "id": "541f7a7dbda5",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T18:20",
-    "headline": "Our life stops’: West Bank childhood shattered by Israeli military raids",
-    "excerpt": "A new UN report documents killings, detentions and lasting psychological harm to Palestinian children.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-24T18:54:46.728623+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/24/our-life-stops-west-bank-childhood-shattered-by-israeli-military-raids?traffic_source=rss"
-  },
-  {
-    "id": "92740bae8f22",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T18:03",
-    "headline": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
-    "excerpt": "An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-06-24T18:54:46.728657+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss"
   }
 ]
