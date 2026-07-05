@@ -1,5 +1,49 @@
 [
   {
+    "id": "2445bbd157c4",
+    "source": "Al Jazeera",
+    "date": "2026-07-05T00:49",
+    "headline": "This immigrant served in the US military. Now he faces deportation",
+    "excerpt": "Benito Miranda Hernandez completed three tours during the Iraq war but now faces removal from the US to Mexico.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-05T01:16:27.054222+00:00",
+    "link": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss"
+  },
+  {
+    "id": "eaf764571a21",
+    "source": "Al Jazeera",
+    "date": "2026-07-05T00:00",
+    "headline": "Iran war live: Huge crowds mourn Khamenei, Trump vows calm during funeral",
+    "excerpt": "Iran&#039;s late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-05T01:16:27.054259+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss"
+  },
+  {
+    "id": "05d63453e751",
+    "source": "PressTV",
+    "date": "2026-07-05T01:16",
+    "headline": "Prayers to be offered for martyred Leader on third day of Tehran funeral ceremonies",
+    "excerpt": "Funeral prayers are to be offered over the body of the martyred Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei on the third day of extensive funeral ceremonies in the Iranian capital.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-05T01:16:28.583224+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/05/771633/Iran-martyred-Leader-Ayatollah-Khamenei-funeral-prayers"
+  },
+  {
+    "id": "b7ed04f1e92e",
+    "source": "PressTV",
+    "date": "2026-07-05T01:16",
+    "headline": "Hind Rajab Foundation hails ‘significant victory’ after Israeli minister cancels US visit",
+    "excerpt": "A far-right Israeli minister has canceled a planned visit to New York following legal action and grassroots pressure, with rights groups hailing the cancellation as a “significant victory.”",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-05T01:16:28.583286+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/05/771632/Israel-minister-Ben-Gvir-cancels-United-States-New-York-visit-HRF-Center-for-Constitutional-Rights"
+  },
+  {
     "id": "51bfc453b6d9",
     "source": "Al Jazeera",
     "date": "2026-07-04T21:08",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-24T18:54:48.607824+00:00",
     "link": "https://presstv.ir/Detail/2026/06/24/771028/Iran-energy-ties-expansion-India-sanctions-waiver-Paknejad"
-  },
-  {
-    "id": "6b3956bb572e",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T16:23",
-    "headline": "Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks",
-    "excerpt": "Israeli defence minister says troops won’t withdraw from southern Lebanon as attacks slow but do not stop.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-24T16:56:11.202948+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-kill-2-in-southern-lebanon-despite-ongoing-washington-talks?traffic_source=rss"
-  },
-  {
-    "id": "0e510dc7ebb2",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T15:21",
-    "headline": "Israeli attacks on Gaza and occupied West Bank kill two, including child",
-    "excerpt": "Health officials at Nasser Medical Complex tell Al Jazeera a 12-year-old child was killed in al-Mawasi, Gaza.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-24T16:56:11.202989+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-on-gaza-and-occupied-west-bank-kill-two-including-child?traffic_source=rss"
-  },
-  {
-    "id": "838d55d01d67",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T14:27",
-    "headline": "Rubio says Iran cannot charge tolls in Hormuz: What we know",
-    "excerpt": "Tehran says the strait &#039;will never return&#039; to its prewar conditions and claims it can charge fees for services.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-06-24T16:56:11.203026+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/24/rubio-says-iran-cannot-charge-tolls-in-hormuz-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "56d3721bbdae",
-    "source": "PressTV",
-    "date": "2026-06-24T16:56",
-    "headline": "Qalibaf urges new regional Islamic order after Iran humiliates US, Israel",
-    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf has called on West Asian and Islamic nations to establish a new regional order based on their own capacities, resources and peoples.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-06-24T16:56:12.905439+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/24/771026/Iran-Qalibaf-urges-Islamic-nations-to-build-new-regional-order-free-from-Zionist-influence"
   }
 ]
