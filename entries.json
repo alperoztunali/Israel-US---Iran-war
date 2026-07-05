@@ -1,5 +1,60 @@
 [
   {
+    "id": "50e4164eb306",
+    "source": "Al Jazeera",
+    "date": "2026-07-05T08:09",
+    "headline": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
+    "excerpt": "Despite US objections, ambassador insists new fees to be charged to vessels transiting Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-05T08:31:48.348583+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss"
+  },
+  {
+    "id": "aaaff5e6d170",
+    "source": "Al Jazeera",
+    "date": "2026-07-05T00:00",
+    "headline": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
+    "excerpt": "Late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike on February 28.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-05T08:31:48.348628+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss"
+  },
+  {
+    "id": "62679230374b",
+    "source": "PressTV",
+    "date": "2026-07-05T08:31",
+    "headline": "Resistance officials hold talks with Iran FM, offer condolences on Leader’s martyrdom",
+    "excerpt": "Officials from the Resistance Front hold talks with Iran’s Foreign Minister Abbas Araghchi, extending condolences on the martyrdom of the Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-05T08:31:50.237588+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/05/771642/Araghchi-meets-resistance-officials-martred-leader-funeral"
+  },
+  {
+    "id": "8c4e4a5e590a",
+    "source": "PressTV",
+    "date": "2026-07-05T08:31",
+    "headline": "North Korea test-fires strategic cruise missile, other weapons from new naval destroyer",
+    "excerpt": "North Korea test-fires a strategic cruise missile and other weapons from its new 5,000-ton naval destroyer, Kang Kon.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-05T08:31:50.237633+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/05/771640/Korea-Test-Fire-Missile-Kang-Kon"
+  },
+  {
+    "id": "f6252aefa221",
+    "source": "PressTV",
+    "date": "2026-07-05T08:31",
+    "headline": "Dr. Abu Safiya enduring life-threatening condition in Israeli jail: Rights group",
+    "excerpt": "An international human rights organization says the abducted director of Gaza’s Kamal Adwan Hospital is facing a life-threatening condition in Israeli detention.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-05T08:31:50.237677+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/05/771643/Dr-Abu-Safiya-enduring-life-threatening-condition-Israeli-jail-Rights-group"
+  },
+  {
     "id": "f7c1799723a1",
     "source": "Al Jazeera",
     "date": "2026-07-05T00:00",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-24T18:54:46.728657+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "098007b9722c",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T18:00",
-    "headline": "What to know about the Israeli-developed chip in Apple’s iPhone 17e",
-    "excerpt": "There’s more to the iPhone 17e than meets the eye. Like an advanced silicon chip that is said to be developed in Israel.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-06-24T18:54:46.728695+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/what-to-know-about-the-israeli-developed-chip-in-apples-iphone-17e?traffic_source=rss"
-  },
-  {
-    "id": "8a34980a44c8",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T17:33",
-    "headline": "Iran’s president awarded honorary doctorate in Pakistan",
-    "excerpt": "Iran’s President Masoud Pezeshkian was awarded an honorary medical fellowship in cardiac surgery.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-24T18:54:46.728724+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/irans-president-awarded-honorary-doctorate-in-pakistan?traffic_source=rss"
-  },
-  {
-    "id": "253c342b3a55",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T17:19",
-    "headline": "The children Gaza lost",
-    "excerpt": "What does a new UN report documenting the killing and suffering of Palestinian children in Gaza reveal?",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-06-24T18:54:46.728750+00:00",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/6/24/the-children-gaza-lost?traffic_source=rss"
-  },
-  {
-    "id": "424e4888fb56",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T17:14",
-    "headline": "Amid Israeli incursions, this mother demands the return of her son",
-    "excerpt": "Many Lebanese civilians have gone missing amid continuous Israeli incursions in the south.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-24T18:54:46.728782+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/amid-israeli-incursions-this-mother-demands-the-return-of-her-son?traffic_source=rss"
-  },
-  {
-    "id": "81a6872c9a00",
-    "source": "Al Jazeera",
-    "date": "2026-06-24T16:50",
-    "headline": "Has the worst of the Hormuz crisis passed?",
-    "excerpt": "Ships are moving again through the Strait of Hormuz, with oil prices falling. But relief for consumers may take longer.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-06-24T18:54:46.728808+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/24/has-the-worst-of-the-hormuz-crisis-passed?traffic_source=rss"
   }
 ]
