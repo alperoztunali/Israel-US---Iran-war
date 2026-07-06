@@ -1,5 +1,49 @@
 [
   {
+    "id": "38fefee29ffc",
+    "source": "Al Jazeera",
+    "date": "2026-07-06T20:50",
+    "headline": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
+    "excerpt": "The French president is the first leader from western Europe to visit Syria since the overthrow of Bashar al-Assad.",
+    "category": "Diplomatic",
+    "location": "Syria",
+    "addedAt": "2026-07-06T21:11:28.068857+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss"
+  },
+  {
+    "id": "29e8315517b0",
+    "source": "Al Jazeera",
+    "date": "2026-07-06T20:33",
+    "headline": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
+    "excerpt": "A giant banner reading ‘Destroy Israel’ was unfurled as thousands gathered for the San Fermin bull run festival.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-06T21:11:28.068913+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/crowds-hold-destroy-israel-banner-at-spains-pamplona-bull-run?traffic_source=rss"
+  },
+  {
+    "id": "6c42a4c43ca8",
+    "source": "Al Jazeera",
+    "date": "2026-07-06T20:11",
+    "headline": "What is the fallout of the increasing violence in Mali?",
+    "excerpt": "Coalition of rebels and armed groups carries out another series of attacks.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-06T21:11:28.068953+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/6/what-is-the-fallout-of-the-increasing-violence-in-mali?traffic_source=rss"
+  },
+  {
+    "id": "e6b600ec4ce8",
+    "source": "Al Jazeera",
+    "date": "2026-07-06T19:56",
+    "headline": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
+    "excerpt": "Ayatollah Ali Khamenei’s body arrives in Qom as millions of mourners honour his leadership over past three days.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-06T21:11:28.068987+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/6/body-of-irans-slain-supreme-leader-ali-khamenei-arrives-in-qom?traffic_source=rss"
+  },
+  {
     "id": "40d1e2d82635",
     "source": "Al Jazeera",
     "date": "2026-07-06T19:09",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-26T04:51:03.012066+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss"
-  },
-  {
-    "id": "7e9e40dd8a7f",
-    "source": "Al Jazeera",
-    "date": "2026-06-26T02:35",
-    "headline": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan",
-    "excerpt": "Brent crude rises after cargo ship comes under attack in key waterway.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-06-26T04:51:03.012097+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss"
-  },
-  {
-    "id": "89d284ffeba7",
-    "source": "Al Jazeera",
-    "date": "2026-06-26T00:53",
-    "headline": "Shia pilgrims gather in Iraq’s holy city of Karbala to mark Ashura",
-    "excerpt": "Shia Muslims gathered in the Iraqi city of Karbala to mark Ashura",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-06-26T04:51:03.012130+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/shia-pilgrims-gather-in-iraqs-holy-city-of-karbala-to-mark-ashura?traffic_source=rss"
-  },
-  {
-    "id": "dcc7e432001e",
-    "source": "Al Jazeera",
-    "date": "2026-06-26T00:00",
-    "headline": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
-    "excerpt": "Israeli leader says military to stay in occupied areas of southern Lebanon &#039;as long as necessary&#039;, despite US-Iran deal.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-06-26T04:51:03.012156+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss"
-  },
-  {
-    "id": "f3bd859116a4",
-    "source": "Al Jazeera",
-    "date": "2026-06-25T20:55",
-    "headline": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
-    "excerpt": "Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz evacuation after ship struck.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-06-25T21:18:02.828145+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss"
   }
 ]
