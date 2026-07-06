@@ -1,5 +1,49 @@
 [
   {
+    "id": "25dbf0044852",
+    "source": "Al Jazeera",
+    "date": "2026-07-06T03:04",
+    "headline": "OPEC+ countries say they will expand monthly oil production",
+    "excerpt": "Seven OPEC+ members, including Saudi Arabia and Russia, to increase output by 188,000 barrels per day.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-07-06T06:02:47.183523+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production?traffic_source=rss"
+  },
+  {
+    "id": "8a9a6844e8ae",
+    "source": "Al Jazeera",
+    "date": "2026-07-06T02:10",
+    "headline": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+    "excerpt": "The move underscores growing scrutiny of the conflict mineral trade fuelling violence in eastern DR Congo.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-07-06T06:02:47.183572+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss"
+  },
+  {
+    "id": "bb3fc6d50f46",
+    "source": "Al Jazeera",
+    "date": "2026-07-06T00:00",
+    "headline": "Iran war live: Khamenei’s funeral procession under way in Tehran",
+    "excerpt": "The funeral procession is expected to last 10-12 hours and has drawn crowds of hundreds of thousands of mourners.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-06T06:02:47.183618+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "736be77d2ed7",
+    "source": "PressTV",
+    "date": "2026-07-06T06:02",
+    "headline": "Tehran funeral procession starts as millions gather to honor martyred Leader",
+    "excerpt": "Organizers expect the procession to last 10 to 12 hours, winding along a 10-kilometer route.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-06T06:02:48.998982+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/05/771692/Huge-crowds-gather-in-Tehran-for-historic-funeral-procession-of-martyred-Leader-Ayatollah-Khamenei"
+  },
+  {
     "id": "440842fe393f",
     "source": "Al Jazeera",
     "date": "2026-07-06T01:04",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-25T09:47:02.515405+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/25/icc-judges-sue-trump-over-sanctions-call-measures-unlawful?traffic_source=rss"
-  },
-  {
-    "id": "8f3eda88ac81",
-    "source": "PressTV",
-    "date": "2026-06-25T09:47",
-    "headline": "Iran: NATO members complicit in US-Israeli war must be held to account",
-    "excerpt": "Iran says the NATO member states complicit in the illegal US-Israeli aggression against Iran, namely Italy and Romania, must be held accountable for their war crimes against the nation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-25T09:47:04.469229+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/25/771056/Iran-NATO-Italy-Romania-US-Isreali-aggression"
-  },
-  {
-    "id": "0d881f11b815",
-    "source": "PressTV",
-    "date": "2026-06-25T09:47",
-    "headline": "‘Neither commit oppression, nor accept it’: Iranian president cites lesson from Imam Hussein",
-    "excerpt": "Iranian President Pezeshkian cites a lesson form Imam Hussein (AS), the third Shia Imam, and rejects oppression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-25T09:47:04.469282+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/25/771063/Iran-Pezeshkian-Imam-Hussein-Ashura"
-  },
-  {
-    "id": "780f4beb664e",
-    "source": "Al Jazeera",
-    "date": "2026-06-25T03:55",
-    "headline": "Iranians mark first Ashura since Khamenei’s killing in the US-Iran war",
-    "excerpt": "Thousands gathered in Tehran on the eve of Ashura, the first since the killing of Iranian supreme leader Ali Khamenei.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-06-25T06:13:21.634038+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/iranians-mark-first-ashura-since-khameneis-killing-in-the-us-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "816c578b219a",
-    "source": "Al Jazeera",
-    "date": "2026-06-25T02:22",
-    "headline": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
-    "excerpt": "NATO chief Mark Rutte visited the White House to ease tensions with Trump ahead of next month&#039;s NATO summit.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-25T06:13:21.634082+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss"
   }
 ]
