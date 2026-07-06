@@ -1,5 +1,38 @@
 [
   {
+    "id": "40d1e2d82635",
+    "source": "Al Jazeera",
+    "date": "2026-07-06T19:09",
+    "headline": "Nigeria sees no sign that anti-immigrant violence is waning in South Africa",
+    "excerpt": "South Africa&#039;s government has been accused of not doing enough to tackle xenophobic attacks.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-06T19:20:05.091122+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/6/nigeria-sees-no-sign-that-anti-immigrant-violence-is-waning-in-south-africa?traffic_source=rss"
+  },
+  {
+    "id": "b89e47e1e554",
+    "source": "Al Jazeera",
+    "date": "2026-07-06T18:28",
+    "headline": "Iran reappoints a familiar face to powerful post during Khamenei funeral",
+    "excerpt": "The judiciary chief has emphasised the need to avenge Supreme Leader Ali Khamenei and prosecute foreign &#039;aggressors&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-06T19:20:05.091171+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/6/iran-reappoints-a-familiar-face-to-powerful-post-during-khamenei-funeral?traffic_source=rss"
+  },
+  {
+    "id": "e32150ed21f7",
+    "source": "PressTV",
+    "date": "2026-07-06T19:20",
+    "headline": "Preparations done for martyred Leader’s funeral in Iraq: Organizing group",
+    "excerpt": "The Higher Committee overseeing the funeral of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, in Iraq says necessary preparations have been made for the procession in Najaf and Karbala.",
+    "category": "Casualties",
+    "location": "Iraq",
+    "addedAt": "2026-07-06T19:20:07.412743+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/06/771742/Preparations-completed-for-martyred-Leader%E2%80%99s-funeral-in-Iraq--Committee"
+  },
+  {
     "id": "2f8d68019394",
     "source": "Al Jazeera",
     "date": "2026-07-06T17:20",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-06-25T21:18:02.828145+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss"
-  },
-  {
-    "id": "6f3a3d3355c8",
-    "source": "Al Jazeera",
-    "date": "2026-06-25T20:34",
-    "headline": "Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’",
-    "excerpt": "Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-25T21:18:02.828194+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/netanyahu-we-will-remain-in-lebanon-syria-and-gaza-as-long-as?traffic_source=rss"
-  },
-  {
-    "id": "51bab0053b87",
-    "source": "Al Jazeera",
-    "date": "2026-06-25T20:12",
-    "headline": "Ashura ceremonies intertwine faith and support for state in Iran",
-    "excerpt": "State-backed Ashura events showcase leaders killed by US, Israel, seen as martyrs in the mould of Imam Hussein.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-06-25T21:18:02.828223+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss"
-  },
-  {
-    "id": "0569750c3cf8",
-    "source": "Al Jazeera",
-    "date": "2026-06-25T20:00",
-    "headline": "Has Marco Rubio’s tour of the Gulf reassured US allies?",
-    "excerpt": "The US secretary of state tells Gulf Cooperation Council (GCC) states that the Iran deal will ensure their security.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-25T21:18:02.828261+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/6/25/has-marco-rubios-tour-of-the-gulf-reassured-us-allies?traffic_source=rss"
   }
 ]
