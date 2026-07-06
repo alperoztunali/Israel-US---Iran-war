@@ -1,5 +1,27 @@
 [
   {
+    "id": "440842fe393f",
+    "source": "Al Jazeera",
+    "date": "2026-07-06T01:04",
+    "headline": "Neymar quits international football after Brazil’s World Cup knockout loss",
+    "excerpt": "The injury-plagued striker converted a penalty but failed to take his team into the last 16 of the FIFA World Cup.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-06T01:25:02.823338+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss?traffic_source=rss"
+  },
+  {
+    "id": "7cb96b2b3134",
+    "source": "Al Jazeera",
+    "date": "2026-07-06T00:00",
+    "headline": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
+    "excerpt": "Millions expected at funeral procession for Iran&#039;s slain supreme leader in Tehran today.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-06T01:25:02.823379+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss"
+  },
+  {
     "id": "bbdab0271574",
     "source": "Al Jazeera",
     "date": "2026-07-05T22:03",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-25T06:13:21.634082+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss"
-  },
-  {
-    "id": "2d0da28b6642",
-    "source": "PressTV",
-    "date": "2026-06-25T06:13",
-    "headline": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
-    "excerpt": "The IRGC Navy strongly warns that safe passage through the Strait of Hormuz is only possible via routes officially designated by the Islamic Republic.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-06-25T06:13:23.298540+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning"
-  },
-  {
-    "id": "042d03a59cc0",
-    "source": "PressTV",
-    "date": "2026-06-25T06:13",
-    "headline": "High casualties feared as twin earthquakes strike central Venezuela",
-    "excerpt": "Two powerful back-to-back earthquakes struck Venezuela, causing extensive damage and raising fears of significant casualties.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-25T06:13:23.298578+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/25/771052/Venezuela-earthquakes-casualties-Caracas"
   }
 ]
