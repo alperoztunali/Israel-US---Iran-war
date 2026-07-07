@@ -1,5 +1,104 @@
 [
   {
+    "id": "05b1cc2ee82d",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T07:09",
+    "headline": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
+    "excerpt": "Defence spending and support for Ukraine&#039;s military needs are expected to top the agenda of summit in Turkish capital.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-07-07T07:46:44.241729+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss"
+  },
+  {
+    "id": "1b87e94b8661",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T05:48",
+    "headline": "Palestine weekly: One thousand days of genocide in Gaza",
+    "excerpt": "Gaza marks 1,000 days of Israel&#039;s genocidal war, with at least 1,072 killed since October &#039;ceasefire&#039;.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-07T07:46:44.241760+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "7ff20f1d3dca",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T05:32",
+    "headline": "Sorry USA riled for World Cup thrashing by Belgium despite Balogun reprieve",
+    "excerpt": "Belgium midfielder Nicolas Raskin said his side’s win felt like a measure of justice after FIFA’s decision on Balogun.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-07-07T07:46:44.241795+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/7/sorry-usa-riled-for-world-cup-thrashing-by-belgium-despite-balogun-reprieve?traffic_source=rss"
+  },
+  {
+    "id": "6542ad366169",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T04:52",
+    "headline": "Khamenei’s coffin arrives in holy city of Qom",
+    "excerpt": "Tens of thousands of mourners gather in Qom for a funeral service for Iran’s late Supreme Leader Ali Khamenei.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-07T07:46:44.241822+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_khameneis-coffin-arrives-in-holy-city-of-qom-070726?traffic_source=rss"
+  },
+  {
+    "id": "05da8edc84b7",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T04:06",
+    "headline": "Tanker on fire in Strait of Hormuz after being hit by projectile off Oman",
+    "excerpt": "Iranian television said the liquefied natural gas tanker came under attack after ignoring warnings.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-07T07:46:44.241838+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss"
+  },
+  {
+    "id": "47dccb6884d6",
+    "source": "PressTV",
+    "date": "2026-07-07T07:46",
+    "headline": "After Tehran, millions join funeral prayers for martyred Leader, family members in Qom",
+    "excerpt": "Millions of mourners gather at the Holy Jamkaran Mosque in Qom on Tuesday, to offer funeral prayers for Iran's martyred leader, Ayatollah Seyyed Ali Khamenei, and members of his family.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-07T07:46:46.603795+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/07/771750/Millions-join-funeral-prayer-martyred-Leader-Qom"
+  },
+  {
+    "id": "fbf97273b8eb",
+    "source": "PressTV",
+    "date": "2026-07-07T07:46",
+    "headline": "Qalibaf vows those behind Ayatollah Khamenei’s assassination will be punished",
+    "excerpt": "Iran’s parliament speaker says those behind the martyrdom of the Leader will be punished, stressing that the tragedy has strengthened public resolve.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-07T07:46:46.603842+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/07/771756/Iran-Qalibaf-Khamenei-US-Israel-justice-punishment-funeral"
+  },
+  {
+    "id": "787df323de5c",
+    "source": "PressTV",
+    "date": "2026-07-07T07:46",
+    "headline": "Ayatollah Khamenei’s funeral in Iraq will show solidarity between two nations: Senior cleric",
+    "excerpt": "A senior Iraqi cleric says the planned funeral processions for Ayatollah Khamenei in Iraq would represent public expression of solidarity between the Iraqi and Iranian nations.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-07T07:46:46.603881+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/07/771755/Iran-Iraq-martyred-Leader-funeral"
+  },
+  {
+    "id": "88dac1b98421",
+    "source": "PressTV",
+    "date": "2026-07-07T07:46",
+    "headline": "Iranian people and armed forces not moved by any threats: Araghchi",
+    "excerpt": "Araghchi says that neither the Iranian people nor the country’s armed forces would be moved by threats.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-07T07:46:46.603901+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/07/771757/Neither-Iranian-people-nor-Armed-Forces-moved-threats--Araghchi"
+  },
+  {
     "id": "7f7830187e65",
     "source": "Al Jazeera",
     "date": "2026-07-07T03:25",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-26T16:21:15.195804+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/6/26/new-yorks-primaries-signal-a-new-force-in-us-politics?traffic_source=rss"
-  },
-  {
-    "id": "a6a9425488e0",
-    "source": "Al Jazeera",
-    "date": "2026-06-26T13:32",
-    "headline": "Aid groups urge swift action to avert ‘atrocities’ in Sudan’s el-Obeid",
-    "excerpt": "The city is at risk of an &#039;imminent ground offensive&#039; by the RSF paramilitary and its allies, 38 NGOs warn.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-26T16:21:15.195848+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/26/aid-groups-urge-swift-action-to-avert-atrocities-in-sudans-el-obeid?traffic_source=rss"
-  },
-  {
-    "id": "8b44d4df8990",
-    "source": "Al Jazeera",
-    "date": "2026-06-26T13:28",
-    "headline": "Hezbollah demands Israel leave Lebanon ‘unconditionally’ as US talks extend",
-    "excerpt": "As Lebanon-Israel strive for agreement, Hezbollah chief Naim Qassem accepts &#039;no normalisation&#039; and &#039;no gains for Israel&#039;",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-26T16:21:15.195887+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/26/hezbollah-demands-israel-leave-lebanon-unconditionally-as-us-talks-extend?traffic_source=rss"
-  },
-  {
-    "id": "88f8a517fd30",
-    "source": "PressTV",
-    "date": "2026-06-26T16:21",
-    "headline": "Iran: Defense capabilities essential to national security, not open to negotiation",
-    "excerpt": "The Iranian Foreign Ministry spokesman says the country's defense capabilities are vital for national security and cannot be the subject of negotiations or compromise.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-26T16:21:16.787089+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/26/771138/Iran-US-GCC-Baghaei"
-  },
-  {
-    "id": "bd54b9c7e9d7",
-    "source": "PressTV",
-    "date": "2026-06-26T13:50",
-    "headline": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
-    "excerpt": "A communication line has been established between Iran and the United States in the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-26T13:50:09.883153+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz"
-  },
-  {
-    "id": "4bd284428a10",
-    "source": "PressTV",
-    "date": "2026-06-26T13:50",
-    "headline": "Hezbollah chief: Israel will have to leave Lebanon 'humiliated, defeated'",
-    "excerpt": "The Hezbollah leader says Israel must end its military operations by land, air and sea and fully withdraw from Lebanese territory.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-26T13:50:09.883220+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/26/771128/Hezbollah-chief-Israel-must-leave-Lebanon-humiliated-defeated-"
-  },
-  {
-    "id": "084a778f74a6",
-    "source": "PressTV",
-    "date": "2026-06-26T13:50",
-    "headline": "Senior official: Hormuz safe passage conditional on Iran's coordination",
-    "excerpt": "Iran's deputy Foreign minister Kazem Gharibabadi has warned ships against using routes unauthorized by Tehran to pass through the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-06-26T13:50:09.883243+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/26/771119/Gharibabadi-warns-routes-unapproved-Strait-of-Hormuz"
-  },
-  {
-    "id": "6682cffaca89",
-    "source": "PressTV",
-    "date": "2026-06-26T13:50",
-    "headline": "Iran mocks US for ‘solving’ domestic hunger problem, lecturing others",
-    "excerpt": "Iran mocks the United States for “solving” its domestic hunger problem by simply stopping reports while lecturing other countries on the issue.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-26T13:50:09.883277+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/26/771120/Iran-US-hunger-problem"
-  },
-  {
-    "id": "311442e67cf6",
-    "source": "Al Jazeera",
-    "date": "2026-06-26T11:25",
-    "headline": "Egypt vs Iran at World Cup 2026 – Salah, prediction, lineups, how to watch",
-    "excerpt": "Mohamed Salah&#039;s Egypt and Mehdi Taremi&#039;s Iran are both in the hunt for the FIFA World Cup knockouts in Group G.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-26T11:33:19.916856+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/26/egypt-vs-iran-world-cup-2026-prediction-kickoff-schedule-teams?traffic_source=rss"
-  },
-  {
-    "id": "50b1879dab2f",
-    "source": "Al Jazeera",
-    "date": "2026-06-26T10:38",
-    "headline": "IAEA demands verification of Iran nuclear ambitions amid ‘statement war’",
-    "excerpt": "Watchdog&#039;s call for &#039;strong system&#039; comes as US and Iran issue conflicting claims over ceasefire negotiations.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-26T11:33:19.916905+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme?traffic_source=rss"
   }
 ]
