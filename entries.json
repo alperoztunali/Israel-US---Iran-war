@@ -1,5 +1,27 @@
 [
   {
+    "id": "1538277f7775",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T22:46",
+    "headline": "Egypt buoyed by praise for World Cup heroics despite controversial exit",
+    "excerpt": "From fans in Gaza to world leaders and supporters on social media, Egypt won hearts, even if they lost to Argentina.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-07T23:06:20.744338+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/7/egypt-buoyed-by-praise-for-world-cup-heroics-despite-controversial-exit?traffic_source=rss"
+  },
+  {
+    "id": "5f39aa5171a2",
+    "source": "PressTV",
+    "date": "2026-07-07T23:06",
+    "headline": "Ex-IRGC chief commander stresses dual revenge for martyred Leader",
+    "excerpt": "Former IRGC chief commander distinguishes between strategic revenge and revenge to be exacted upon the main perpetrators over the martyrdom of Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-07T23:06:22.242722+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/07/771802/Iran-Leader-revenge-IRGC-Israel-United-States-Trump-Netanyahu"
+  },
+  {
     "id": "9a1545fe2eca",
     "source": "Al Jazeera",
     "date": "2026-07-07T21:21",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-27T07:36:40.081039+00:00",
     "link": "https://www.aljazeera.com/sports/2026/6/27/iran-wait-on-world-cup-progress-after-late-goal-disallowed-in-egypt-draw?traffic_source=rss"
-  },
-  {
-    "id": "94706b8e2191",
-    "source": "PressTV",
-    "date": "2026-06-27T07:36",
-    "headline": "Leader’s advisor warns US, Israel of high casualties in any future aggression against Iran",
-    "excerpt": "Mohsen Rezaei, senior advisor to the Leader of the Islamic Revolution has warned that any new war initiated by the United States or Israel would result in heavy casualties.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-06-27T07:36:42.877219+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/27/771164/Iran-Mohsen-Rezaei-warns-US-Israel-new-war-result-heavy-casualties"
-  },
-  {
-    "id": "e7b38d80f02e",
-    "source": "PressTV",
-    "date": "2026-06-27T07:36",
-    "headline": "Iran FM discusses Islamabad agreement, regional developments with counterparts",
-    "excerpt": "Araghchi holds a series of telephone conversations with his counterparts discussing the Islamabad agreement and regional developments.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-27T07:36:42.877258+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/27/771162/Araghchi-holds-phone-calls-with-counterparts-on-Islamabad-agreement,-regional-developments"
   }
 ]
