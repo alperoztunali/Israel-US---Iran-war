@@ -1,5 +1,27 @@
 [
   {
+    "id": "58ae12597717",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T14:53",
+    "headline": "Netanyahu’s Christian comments ‘aimed at sowing strife’: Lebanese analysts",
+    "excerpt": "After Netanyahu&#039;s statements on Lebanese Christians were denounced in Lebanon, analysts call Israel&#039;s PM a liar.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-07-07T16:04:47.761301+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/7/netanyahus-christian-comments-aimed-at-sowing-strife-lebanese-analysts?traffic_source=rss"
+  },
+  {
+    "id": "375410ac5153",
+    "source": "PressTV",
+    "date": "2026-07-07T16:04",
+    "headline": "Iran vows response to any aggression, hails self-reliant defense as legacy of martyred Leader",
+    "excerpt": "Iran’s Defense Ministry spokesman says the country’s self-sufficient defense capability is the strategic legacy of the martyred Leader of the Islamic Revolution.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-07T16:04:49.452739+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/07/771783/Self-reliant-defense-enduring-legacy-of-martyred-Leader-Defense-Ministry-spox"
+  },
+  {
     "id": "27069ecc2ea9",
     "source": "Al Jazeera",
     "date": "2026-07-07T13:16",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-26T21:41:44.476337+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france?traffic_source=rss"
-  },
-  {
-    "id": "8282088a4b09",
-    "source": "Al Jazeera",
-    "date": "2026-06-26T21:08",
-    "headline": "US strikes Iran in response to drone strike on commercial ship",
-    "excerpt": "The new strikes come in response to an Iranian drone attack on the Ever Lovely in the Strait of Hormuz.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-06-26T21:41:44.476370+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss"
-  },
-  {
-    "id": "47c700cff345",
-    "source": "Al Jazeera",
-    "date": "2026-06-26T20:46",
-    "headline": "Hezbollah will not support Israel-Lebanon framework deal",
-    "excerpt": "Al Jazeera brings you the latest from Beirut as the US announces a framework agreement between Israel and Lebanon.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-26T21:41:44.476400+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah-rejects-israel-lebanon-framework-deal-260626?traffic_source=rss"
   }
 ]
