@@ -1,5 +1,16 @@
 [
   {
+    "id": "9a1545fe2eca",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T21:21",
+    "headline": "US says strikes launched as explosions heard in southern Iran",
+    "excerpt": "US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-07T21:55:05.110800+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss"
+  },
+  {
     "id": "eae5df9d0411",
     "source": "Al Jazeera",
     "date": "2026-07-07T19:55",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-27T07:36:42.877258+00:00",
     "link": "https://presstv.ir/Detail/2026/06/27/771162/Araghchi-holds-phone-calls-with-counterparts-on-Islamabad-agreement,-regional-developments"
-  },
-  {
-    "id": "aa858d6c5075",
-    "source": "PressTV",
-    "date": "2026-06-27T07:36",
-    "headline": "Thousands flood Lebanon’s streets to reject US-backed deal with Israel",
-    "excerpt": "Protests erupt across Lebanon as demonstrators rejected a US-brokered “framework agreement” between Beirut and Tel Aviv.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-27T07:36:42.877295+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/27/771167/Lebanese-take-to-streets-to-condemn-US-brokered-agreement-between-Beirut,-Tel-Aviv"
   }
 ]
