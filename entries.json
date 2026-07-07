@@ -1,5 +1,60 @@
 [
   {
+    "id": "eae5df9d0411",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T19:55",
+    "headline": "Deadly  landslide buries tunnel construction site in India",
+    "excerpt": "At least five people were killed after a massive landslide buried a tunnel construction site in Kerala",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-07T20:26:04.677155+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/deadly-landslide-buries-tunnel-construction-site-in-india?traffic_source=rss"
+  },
+  {
+    "id": "62fa87f555a5",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T19:16",
+    "headline": "Trump criticises NATO allies over Iran conflict support",
+    "excerpt": "US President Donald Trump criticised NATO allies for refusing to back the United States during its conflict with Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-07T20:26:04.677208+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trump-criticises-nato-allies-over-iran-conflict-support?traffic_source=rss"
+  },
+  {
+    "id": "6e42b4637e77",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T18:44",
+    "headline": "‘They brought me here to kill me’ says Gaza doctor in Israeli prison",
+    "excerpt": "‘They brought me here to kill me’ says Gaza doctor in Israeli prison",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-07T20:26:04.677251+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/they-brought-me-here-to-kill-me-says-gaza-doctor-in-israeli-prison?traffic_source=rss"
+  },
+  {
+    "id": "0d692ee3b28b",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T18:09",
+    "headline": "Several hurt in Damascus blasts as Macron meets Syria’s Sharaa",
+    "excerpt": "Several hurt in Damascus blasts as Macron meets Syria&#039;s Sharaa",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-07T20:26:04.677289+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/several-hurt-in-damascus-blasts-as-macron-meets-syrias-sharaa?traffic_source=rss"
+  },
+  {
+    "id": "5d2e3ef17db1",
+    "source": "PressTV",
+    "date": "2026-07-07T20:26",
+    "headline": "Pezeshkian, Iraqi PM attend official reception for martyred Leader in Najaf",
+    "excerpt": "The plane carrying the coffins of Ayatollah Khamenei and his martyred family members arrives in Iraq for a funeral procession.",
+    "category": "Casualties",
+    "location": "Iraq",
+    "addedAt": "2026-07-07T20:26:06.222333+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/07/771798/Iran-Leader-coffins-plane-arrival-Iraq-funeral"
+  },
+  {
     "id": "e1761ddf45d3",
     "source": "Al Jazeera",
     "date": "2026-07-07T17:23",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-27T07:36:42.877295+00:00",
     "link": "https://presstv.ir/Detail/2026/06/27/771167/Lebanese-take-to-streets-to-condemn-US-brokered-agreement-between-Beirut,-Tel-Aviv"
-  },
-  {
-    "id": "c92ebfd90f8c",
-    "source": "PressTV",
-    "date": "2026-06-27T07:36",
-    "headline": "US-backed deal with Israel has ‘no legitimacy’: Top Lebanese cleric",
-    "excerpt": "A senior Lebanese Shia cleric says there is no legitimacy for the US-sponsored framework agreement between the Beirut government and the Tel Aviv regime.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-27T07:36:42.877334+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/27/771163/Top-cleric--No-legitimacy-for-US-sponsored-framework-agreement-between-Beirut-govt-,-and-Israel"
-  },
-  {
-    "id": "78d36dedfe26",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T04:13",
-    "headline": "US strikes on Iran test fragile ceasefire",
-    "excerpt": "The US has struck Iran for the first time since the two sides reached a Memorandum of Understanding on June 17.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-27T04:28:34.415619+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "75cc0e1d8c27",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T00:16",
-    "headline": "Trump justifies strikes on Iran amid ceasefire",
-    "excerpt": "The US has struck Iran in retaliation for what it says was an Iranian attack on a ship in the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-27T04:28:34.415657+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "ac7d3f795fd2",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T00:00",
-    "headline": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
-    "excerpt": "Iran&#039;s IRGC says it targeted US military in region after Trump administration launched attack on the country.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-06-27T04:28:34.415684+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "095ef7d1600f",
-    "source": "PressTV",
-    "date": "2026-06-27T04:28",
-    "headline": "Hezbollah not to allow implementation of US-backed agreement on Lebanon: Lawmaker",
-    "excerpt": "Lebanese lawmaker says Hezbollah will not allow implementation of a US-backed so-called \"framework agreement\" that purports to be seeking \"dismantling\" of the group.",
-    "category": "Diplomatic",
-    "location": "Lebanon",
-    "addedAt": "2026-06-27T04:28:42.210398+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/27/771156/Lebanon-Hezbollah-United-States-Israel"
   }
 ]
