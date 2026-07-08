@@ -1,5 +1,60 @@
 [
   {
+    "id": "c6c2a5e90117",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T01:26",
+    "headline": "US immigration officer shoots and kills man in Texas",
+    "excerpt": "Man, identified as Lorenzo Salgado Araujo, is latest to be killed by ICE officers since President Trump took power.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-08T03:48:20.497233+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss"
+  },
+  {
+    "id": "e46f508d174a",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T01:13",
+    "headline": "US strikes Iran despite promised pause for Khamenei funeral",
+    "excerpt": "The US launches new strikes on Iran despite a promise by US President Donald Trump to pause attacks.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-08T03:48:20.497279+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/us-strikes-iran-despite-promised-pause-for-khamenei-funeral?traffic_source=rss"
+  },
+  {
+    "id": "b0d3039b20f2",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T01:04",
+    "headline": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
+    "excerpt": "The US-Israel war on Iran is forcing African governments to rethink their security and economic priorities.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-08T03:48:20.497344+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss"
+  },
+  {
+    "id": "45173ff5781b",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T21:21",
+    "headline": "US launches strikes on southern Iran, Tehran vows ‘crushing response’",
+    "excerpt": "US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-07-08T03:48:20.497394+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss"
+  },
+  {
+    "id": "4c5930b71943",
+    "source": "PressTV",
+    "date": "2026-07-08T03:48",
+    "headline": "Iran’s military vows ‘crushing response’ to US aggression",
+    "excerpt": "Iran’s top military command vows that the Islamic Republic’s Armed Forces will deliver a “crushing response” to the US’s most recent acts of aggression.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-08T03:48:22.020455+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/08/771808/Iran-United-States-warning-crushing-response-attacks"
+  },
+  {
     "id": "d158578e941c",
     "source": "Al Jazeera",
     "date": "2026-07-08T00:00",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-27T11:39:30.963261+00:00",
     "link": "https://presstv.ir/Detail/2026/06/27/771176/Iran-Khatam-al-Anbiya-Central-Headqaurters-commander-armed-forces-ready-cooperate-judiciary-support-justice-national-security"
-  },
-  {
-    "id": "c69897a4f63c",
-    "source": "PressTV",
-    "date": "2026-06-27T11:39",
-    "headline": "Israeli forces advance in southern Lebanese towns after truce deal with Beirut",
-    "excerpt": "Israeli forces have continued their aggression in southern Lebanon despite a US-brokered agreement between Beirut and Tel Aviv.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-27T11:39:30.963292+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/27/771177/Israeli-forces-attack-southern-Lebanese-towns-despite-US-Brokered-Beirut-Tel-Aviv-agreement"
-  },
-  {
-    "id": "b1523d064c38",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T09:35",
-    "headline": "FIFA World Cup 2026: Saturday schedule, Round of 32 standings, predictions",
-    "excerpt": "Six World Cup games, knockout places on the line, Cape Verde make history and Iran wait for a place in the Round of 32.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-27T09:51:46.077921+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/27/fifa-world-cup-2026-saturday-schedule-round-of-32-standings-predictions?traffic_source=rss"
-  },
-  {
-    "id": "a103a308984a",
-    "source": "PressTV",
-    "date": "2026-06-27T09:51",
-    "headline": "Iran blasts US air raids on southern coasts as ‘flagrant violation’ of MoU",
-    "excerpt": "Iran condemns US military airstrikes on Friday night targeting several locations along Iran’s southern coasts.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-06-27T09:51:47.823272+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/27/771174/Iran-condemns-US-airstrikes-on-soutern-coasts-ceasefire-MoU"
-  },
-  {
-    "id": "c2e62d35a1db",
-    "source": "PressTV",
-    "date": "2026-06-27T09:51",
-    "headline": "Israel redirecting Lebanon invasion forces to West Bank for expanded raids: Report",
-    "excerpt": "The Israeli military has shifted its troops from Lebanon to conduct extensive invasions in the occupied West Bank.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-27T09:51:47.823312+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/27/771173/Israel-shifts-troops-from-Lebanon-to-conduct-extensive-invasions-in-the-occupied-West-Bank-"
-  },
-  {
-    "id": "7fa4f40ca578",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T07:20",
-    "headline": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-    "excerpt": "US says it targeted Iranian missile and drone storage locations while IRGC said it hit US military sites in the region.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-06-27T07:36:40.080915+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss"
   }
 ]
