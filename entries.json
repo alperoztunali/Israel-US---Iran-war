@@ -1,5 +1,60 @@
 [
   {
+    "id": "def5b6e76e25",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T08:54",
+    "headline": "The Iranian Striker: The journey of Mehdi Taremi | Al Jazeera Originals",
+    "excerpt": "From Bushehr to the world stage, Mehdi Taremi reflects on football, sacrifice and representing Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-08T09:14:50.637363+00:00",
+    "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/7/8/aje-onl-aj_or_irn_football-080726?traffic_source=rss"
+  },
+  {
+    "id": "c7c43223e46c",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T08:27",
+    "headline": "Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq",
+    "excerpt": "Khamenei&#039;s coffin made its way through the streets of Najaf to the shrine of Imam Ali, Prophet Muhammad&#039;s son-in-law.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-08T09:14:50.637416+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/8/funeral-events-for-irans-slain-supreme-leader-khamenei-under-way-in-iraq?traffic_source=rss"
+  },
+  {
+    "id": "f15c9ef9006b",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T04:02",
+    "headline": "Oil surges as US strikes Iran, reversing return to pre-war prices",
+    "excerpt": "Brent crude rises above $76 a barrel for the first time in two weeks amid renewed violence in Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-08T09:14:50.637470+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels?traffic_source=rss"
+  },
+  {
+    "id": "20640a20da04",
+    "source": "PressTV",
+    "date": "2026-07-08T09:14",
+    "headline": "Iran Army expands retaliation with drone strikes on US forces in Bahrain",
+    "excerpt": "The Iranian Army says it has carried out drone strikes against US military assembly points at Sheikh Isa Air Base in Bahrain, widening the Islamic Republic's military response to American airstrikes on Iranian territory.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-08T09:14:52.324437+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/08/771816/Iranian-army-launches-drone-US-bases-Bahrain-US-aggression"
+  },
+  {
+    "id": "e87ff736dfad",
+    "source": "PressTV",
+    "date": "2026-07-08T09:14",
+    "headline": "Qalibaf: Iran will not fold, era of US bullying over",
+    "excerpt": "Qalibaf slams the US for committing major violations of the Tehran-Washington MoU, stressing that the “era of bullying and extortion” is over.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-08T09:14:52.324481+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/08/771813/Iran-Qalibaf-MoU-US-violations-strikes-Sirik-CENTCOM-Strait-of-Hormuz-Gharibabadi-"
+  },
+  {
     "id": "f2f1b0e7f498",
     "source": "Al Jazeera",
     "date": "2026-07-08T06:03",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-27T17:31:49.522217+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss"
-  },
-  {
-    "id": "cc0cd9beacd4",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T16:31",
-    "headline": "Lebanon divided over framework agreement signed in Washington",
-    "excerpt": "Lebanon divided over framework agreement signed in Washington",
-    "category": "Diplomatic",
-    "location": "Lebanon",
-    "addedAt": "2026-06-27T17:31:49.522259+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/lebanon-divided-over-framework-agreement-signed-in-washington?traffic_source=rss"
-  },
-  {
-    "id": "530e624f79fc",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T15:53",
-    "headline": "Israeli drone attack kills young girl in Gaza safe zone",
-    "excerpt": "Israeli drones struck tents in al-Mawasi, Khan Younis, killing two Palestinians and wounding several others.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-06-27T17:31:49.522282+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss"
-  },
-  {
-    "id": "450cf522e7d1",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T15:40",
-    "headline": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south",
-    "excerpt": "Hezbollah supporters and many others in Lebanon view latest agreement with Israel as a &#039;surrender of sovereignty&#039;.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-27T16:09:34.809178+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss"
-  },
-  {
-    "id": "c92aa67df35f",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T13:54",
-    "headline": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
-    "excerpt": "Hezbollah chief calls the deal &#039;null and void&#039;, raising questions if the latest agreement can lead to peace in Lebanon.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-27T14:50:18.523074+00:00",
-    "link": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss"
-  },
-  {
-    "id": "0c6111b556ea",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T13:26",
-    "headline": "‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’",
-    "excerpt": "Iran&#039;s IRGC appears to have rejected US claims of a military hotline will operate between the two countries.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-27T14:50:18.523126+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/27/pick-up-the-phone-irgc-appears-to-rebuff-us-strait-of-hormuz-hotline?traffic_source=rss"
   }
 ]
