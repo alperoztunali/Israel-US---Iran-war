@@ -1,5 +1,38 @@
 [
   {
+    "id": "d158578e941c",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T00:00",
+    "headline": "Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks",
+    "excerpt": "Explosions in Iran&#039;s Sirik, Bandar Abbas and Qeshm as US launches attacks after revoking waivers on Iranian oil exports.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-08T00:12:35.155998+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/8/iran-war-live-us-bombs-sirik-qeshm-bandar-abbas-over-hormuz-attacks?traffic_source=rss"
+  },
+  {
+    "id": "ec4fb86888ea",
+    "source": "Al Jazeera",
+    "date": "2026-07-07T22:53",
+    "headline": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+    "excerpt": "The attacks have triggered fires in two districts of Kyiv, according to the city&#039;s mayor.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-08T00:12:35.156047+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss"
+  },
+  {
+    "id": "9261cb9667fa",
+    "source": "PressTV",
+    "date": "2026-07-08T00:12",
+    "headline": "Iran will take ‘firm measures’ to safeguard ntl. interests in face of US violations: Senior diplomat",
+    "excerpt": "A senior diplomat warns that Iran will take “firm measures” to safeguard its national interests and national security in the face of the United States’ successive violations of a Pakistan-mediated MoU.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-08T00:12:37.626974+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/07/771803/Iran-United-States-warning-firm-measures-attacks-violations-memorandum"
+  },
+  {
     "id": "1538277f7775",
     "source": "Al Jazeera",
     "date": "2026-07-07T22:46",
@@ -5465,38 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-06-27T07:36:40.080915+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss"
-  },
-  {
-    "id": "22e0d8b34d75",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T07:04",
-    "headline": "Belgium reach World Cup knockouts as New Zealand exit tournament",
-    "excerpt": "A double strike from Arsenal&#039;s Leandro Trossard against New Zealand carried Belgium to top of Group G, ahead of Egypt.",
-    "category": "Other",
-    "location": "Egypt",
-    "addedAt": "2026-06-27T07:36:40.080968+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/27/belgium-new-zealand-fifa-world-cup-2026-trossard-lukaku-de-bruyne-saelemaekers?traffic_source=rss"
-  },
-  {
-    "id": "f1499da0c4b3",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T07:00",
-    "headline": "Iran and US trade blame for attacks, threatening fragile ceasefire",
-    "excerpt": "Vance warned &#039;violence will be met with violence&#039; while the IRGC says future responses to aggression will be &#039;broader&#039;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-27T07:36:40.081004+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "f854dd468b71",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T05:46",
-    "headline": "Iran wait on World Cup progress after late goal disallowed in Egypt draw",
-    "excerpt": "Egypt finish second with five points in Group G, while Iran finish third with three points.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-27T07:36:40.081039+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/27/iran-wait-on-world-cup-progress-after-late-goal-disallowed-in-egypt-draw?traffic_source=rss"
   }
 ]
