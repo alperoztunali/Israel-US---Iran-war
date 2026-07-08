@@ -1,5 +1,38 @@
 [
   {
+    "id": "2a40f0f14ef2",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T12:36",
+    "headline": "Gaza aid worker killed minutes before World Cup screening he organised",
+    "excerpt": "Mohammed al-Wahidi was killed in an Israeli strike just before people gathered for a World Cup screening he organised.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-08T13:08:19.449300+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss"
+  },
+  {
+    "id": "fc706c5a17ae",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T12:06",
+    "headline": "‘There are risks’: Ex-India judge behind damning UN report on Gaza children",
+    "excerpt": "Before he exposed Israel&#039;s deliberate targeting of Gaza children, Srinivasan Muralidhar took on Indian authorities.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-08T13:08:19.449356+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/8/there-are-risks-ex-india-judge-behind-damning-un-report-on-gaza-children?traffic_source=rss"
+  },
+  {
+    "id": "6443072094b4",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T11:22",
+    "headline": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
+    "excerpt": "Macron, who continued his visit after the blasts, said Syria must not be &#039;destabilised&#039; by the attacks.",
+    "category": "Casualties",
+    "location": "Syria",
+    "addedAt": "2026-07-08T13:08:19.449415+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss"
+  },
+  {
     "id": "0c6b1211bbf0",
     "source": "Al Jazeera",
     "date": "2026-07-08T10:06",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-27T20:11:56.773656+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "516d6c1da1a9",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T18:50",
-    "headline": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
-    "excerpt": "Two killed and dozens injured in Israeli strike on displacement tents in Gaza",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-27T20:11:56.773685+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "b6f35ea97168",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T18:46",
-    "headline": "Kenya rights groups say protesters found dumped, tortured after arrests",
-    "excerpt": "Six found and one missing, NGOs say, after arrests at memorial gatherings for protesters killed in 2024.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-27T20:11:56.773717+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss"
-  },
-  {
-    "id": "817d30c24daa",
-    "source": "Al Jazeera",
-    "date": "2026-06-27T18:30",
-    "headline": "Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US",
-    "excerpt": "Iran, who played their three group-stage matches at World Cup 2026, now face a wait to know if they will reach last 32.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-27T20:11:56.773754+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/27/iran-urge-fifa-to-stand-up-to-really-terrible-world-cup-treatment-by-us?traffic_source=rss"
   }
 ]
