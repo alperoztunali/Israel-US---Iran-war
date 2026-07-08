@@ -1,5 +1,60 @@
 [
   {
+    "id": "6696aeddc14b",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T18:35",
+    "headline": "Israeli air strikes in Gaza kill eight, including two children",
+    "excerpt": "Medics report 12 injuries alongside eight deaths in Gaza as Israeli air strikes target civilians and displaced families.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-07-08T18:48:37.782109+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children?traffic_source=rss"
+  },
+  {
+    "id": "8f8df9a2f49f",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T18:33",
+    "headline": "Trump says he ‘may be gone’ as he declares himself Iran’s No. 1 target",
+    "excerpt": "US President Donald Trump declared himself Iran’s ‘No. 1 target’ after claiming their leaders have been eliminated",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-08T18:48:37.782162+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-he-may-be-gone-as-he-declares-himself-irans-no-1-target?traffic_source=rss"
+  },
+  {
+    "id": "81fb8c88273d",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T17:55",
+    "headline": "France returns Syrian artefacts it’s held since civil war",
+    "excerpt": "France has returned 23 Syrian antique artefacts it’s held since the outbreak of the 2011 civil war.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-08T18:48:37.782204+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/france-returns-syrian-artefacts-its-held-since-civil-war?traffic_source=rss"
+  },
+  {
+    "id": "f59712954645",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T17:24",
+    "headline": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
+    "excerpt": "Trump says US will &#039;show&#039; Ukraine how to produce Patriot missile systems during a friendly appearance with Zelenskyy.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-08T18:48:37.782239+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss"
+  },
+  {
+    "id": "51d5db795d05",
+    "source": "PressTV",
+    "date": "2026-07-08T18:48",
+    "headline": "Iran will answer Trump's 'vulgarity' with action, not vulgarity: Araghchi",
+    "excerpt": "\"Iranians are known for their civility, culture, and strong moral values. We do not answer vulgarity with vulgarity, but with action: fearlessly and with great valor.\"",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-08T18:48:39.279391+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/08/771864/Iran-FM-We-answer-Trump-vulgarity-with-action-not-vulgarity"
+  },
+  {
     "id": "ff66ea9e790b",
     "source": "Al Jazeera",
     "date": "2026-07-08T16:48",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-28T11:49:25.016394+00:00",
     "link": "https://presstv.ir/Detail/2026/06/28/771234/Leader-marks-Judiciary-Week-urges-legal-pursuit-of-crimes-against-Iran"
-  },
-  {
-    "id": "453d10a1572a",
-    "source": "PressTV",
-    "date": "2026-06-28T11:49",
-    "headline": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
-    "excerpt": "Foreign Minister Abbas Araghchi says only Iran is in charge of reopening the Strait of Hormuz under the Tehran-Washington deal, warning that any foreign interference will complicate the process.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-28T11:49:25.016426+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening"
-  },
-  {
-    "id": "aebb44ebda50",
-    "source": "PressTV",
-    "date": "2026-06-28T11:49",
-    "headline": "Murder is inherent in ‘evil’ US regime: Iran’s judiciary chief",
-    "excerpt": "Eje’i says murder is ingrained in the nature of the “evil US regime,” arguing that hostility toward humanity and human rights is embedded in the genes of American leaders.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-28T11:49:25.016455+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/28/771229/Iranian-judiciary-chief--Criminality,-Killing-inherent-to-malicious-US-regime"
-  },
-  {
-    "id": "4f6b9a347a03",
-    "source": "PressTV",
-    "date": "2026-06-28T11:49",
-    "headline": "Iran built more sophisticated weapons during latest US-Israeli onslaught: Army spox",
-    "excerpt": "Iran managed to manufacture more advanced and sophisticated military hardware during the recent 40-day-long US-Israeli war of aggression, says the Iranian Army.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-28T11:49:25.016479+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/28/771233/Army-spokesperson-Iran-produced-more-sophisticated-weapons-during-40-day-US-Israeli-onslaught"
-  },
-  {
-    "id": "15776485b0f9",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T09:33",
-    "headline": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
-    "excerpt": "Knockout matches begin with South Africa vs Canada as Iran exit, Africa make history, Messi-Ronaldo final hopes rise.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-28T09:48:10.310778+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/28/fifa-world-cup-2026-sunday-schedule-round-of-32-fixtures-predictions?traffic_source=rss"
-  },
-  {
-    "id": "3ef5003e7faa",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T08:39",
-    "headline": "Iran attacks Kuwait and Bahrain in response to US strikes",
-    "excerpt": "US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-28T09:48:10.310820+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss"
   }
 ]
