@@ -1,5 +1,38 @@
 [
   {
+    "id": "baa01c99af81",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T21:42",
+    "headline": "Family demands investigation after US man killed by ICE agent in Texas",
+    "excerpt": "Calls for answers after Lorenzo Salgado Araujo fatally shot during traffic stop in Houston in latest ICE killing.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-08T22:46:28.618995+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss"
+  },
+  {
+    "id": "46a3cd2d5cee",
+    "source": "Al Jazeera",
+    "date": "2026-07-08T21:36",
+    "headline": "US moves to delist Syria as a ‘state sponsor of terrorism’",
+    "excerpt": "President Trump announces a move to delist Syria, citing efforts by Ahmed al-Sharaa to unify the country.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-08T22:46:28.619049+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss"
+  },
+  {
+    "id": "8b822bd38658",
+    "source": "PressTV",
+    "date": "2026-07-08T22:46",
+    "headline": "US carries out fresh aggression against Iran; electricity grid, hospital in Chabahar among targets",
+    "excerpt": "The US launches a fresh round of unprovoked military assaults against Iran, with attacks reported on the southeastern port city of Chabahar.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-08T22:46:30.180872+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/08/771872/United-States-attacks-Iran-south"
+  },
+  {
     "id": "2cf41e5731c4",
     "source": "Al Jazeera",
     "date": "2026-07-08T21:12",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-28T14:00:23.303964+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "922767554045",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T12:38",
-    "headline": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
-    "excerpt": "Iran’s foreign minister has urged ‘all parties not to interfere’ in the management of the Strait of Hormuz.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-06-28T14:00:23.304001+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss"
-  },
-  {
-    "id": "c5605ae88ed5",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T12:13",
-    "headline": "US strikes Iran for second day: Is it a violation of war powers resolution?",
-    "excerpt": "Days after Congress tells Trump he needs to seek its approval or end Iran war, Trump returns to attacks. Is it legal?",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-28T14:00:23.304058+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/28/us-strikes-iran-for-second-day-is-it-a-violation-of-war-powers-resolution?traffic_source=rss"
-  },
-  {
-    "id": "f521bcfb4875",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T12:10",
-    "headline": "Saudi Aramco helicopter crash in Ras Tanura kills all 14 on board",
-    "excerpt": "The helicopter crashed in Saudi Arabia&#039;s Ras Tanura terminal, state media reported.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-06-28T14:00:23.304097+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/28/saudi-arabia-helicopter-crash-kills-all-14-on-board?traffic_source=rss"
   }
 ]
