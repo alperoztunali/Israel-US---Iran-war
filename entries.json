@@ -1,5 +1,60 @@
 [
   {
+    "id": "477e3d9c72a2",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T20:06",
+    "headline": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
+    "excerpt": "Carney and Saudi Crown Prince Bin Salman strengthen partnerships after years of strained relations under Trudeau.",
+    "category": "Naval",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-07-09T20:25:31.412388+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/9/canadian-pm-visits-saudi-arabia-to-strengthen-energy-mining-partnerships?traffic_source=rss"
+  },
+  {
+    "id": "ab0a4de486b3",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T20:03",
+    "headline": "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
+    "excerpt": "US oil reserves hit lowest levels since 1983 amid growing tensions with Iran and global supply concerns.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-09T20:25:31.412435+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/9/why-the-us-strategic-petroleum-reserve-matters-amid-us-iran-tensions?traffic_source=rss"
+  },
+  {
+    "id": "5f58a8a46e90",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T18:56",
+    "headline": "Is Syria stable enough to engage with the world?",
+    "excerpt": "The Trump administration plans to remove Syria from list of state sponsors of &#039;terrorism&#039;.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-09T20:25:31.412466+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/9/is-syria-stable-enough-to-engage-with-the-world?traffic_source=rss"
+  },
+  {
+    "id": "7b7fa1c020a2",
+    "source": "PressTV",
+    "date": "2026-07-09T20:25",
+    "headline": "Iraq: 10 million attended martyred Leader's funeral in Najaf, Karbala",
+    "excerpt": "Iraqi officials say the massive funeral procession in Iraq for the martyred Leader of the Islamic Revolution drew over 10 million mourners.",
+    "category": "Casualties",
+    "location": "Iraq",
+    "addedAt": "2026-07-09T20:25:33.565375+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/09/771928/Iraq-Najaf-Karbala--Martyr-Khamenei-"
+  },
+  {
+    "id": "1473482b23f1",
+    "source": "PressTV",
+    "date": "2026-07-09T20:25",
+    "headline": "Top commander says assassins of martyred Leader will face retribution",
+    "excerpt": "A senior Iranian commander has vowed retribution for the late Leader's martyrdom, calling his funeral a powerful display of faith and resistance.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-09T20:25:33.565409+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/09/771923/Iran-Abdollahi-Leader-Ayatollah-Khamenei-martyrdom-retribution-vengeance-US-Israel-Iraq"
+  },
+  {
     "id": "53aa88b5ef55",
     "source": "Al Jazeera",
     "date": "2026-07-09T18:17",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-29T16:11:50.349525+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/brazil-supporters-in-indonesia-grab-israeli-flag-off-motorcyclist?traffic_source=rss"
-  },
-  {
-    "id": "fad086c34530",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T13:05",
-    "headline": "Five killed in shooting at youth welfare centre in Germany’s Stade",
-    "excerpt": "Police say several others were injured and the suspected attacker has been arrested.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-06-29T16:11:50.349557+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/29/five-killed-in-shooting-at-youth-welfare-centre-in-germanys-stade?traffic_source=rss"
-  },
-  {
-    "id": "3c07abdec9fa",
-    "source": "PressTV",
-    "date": "2026-06-29T16:11",
-    "headline": "Lebanon parl. speaker rejects deal with Israel as 'imposition' on country",
-    "excerpt": "Lebanese Parliament Speaker Nabih Berri says the agreement signed in Washington is an imposed set of dictates rather than an agreement that safeguards Lebanon's rights.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-29T16:11:52.253127+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/29/771275/Lebanese-parl--speaker--Washington-agreement-imposition,-not-deal"
-  },
-  {
-    "id": "5d8b161ed08f",
-    "source": "PressTV",
-    "date": "2026-06-29T16:11",
-    "headline": "Iran says ‘no technical talks’ with US scheduled for this week in Doha",
-    "excerpt": "An Iranian deputy foreign minister says no technical talks with the US have been set in the Qatari capital Doha this week.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-29T16:11:52.253167+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/29/771296/Iran-US-Gharibabadi-Doha"
-  },
-  {
-    "id": "82e642a2e0e8",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T11:22",
-    "headline": "Saudi Arabia’s early FIFA World Cup exit prompts federation chief to resign",
-    "excerpt": "Saudi Arabia, the three-time Asian champions, finish bottom of Group H with two points from three games.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-06-29T12:04:45.421971+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/6/29/saudi-arabias-early-fifa-world-cup-exit-prompts-federation-chief-to-resign?traffic_source=rss"
-  },
-  {
-    "id": "e632861fb157",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T11:18",
-    "headline": "Drone relayers off: Ukraine’s diplomatic triumph over Russia ally Belarus",
-    "excerpt": "President Zelenskyy demands Lukashenko shut down stations installed by Russia &#039;or we will&#039;.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-29T12:04:45.422018+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/29/drone-relayers-off-ukraines-diplomatic-triumph-over-belarus?traffic_source=rss"
   }
 ]
