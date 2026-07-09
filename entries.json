@@ -1,5 +1,93 @@
 [
   {
+    "id": "00440bbd7ba6",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T02:58",
+    "headline": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
+    "excerpt": "Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-09T04:32:15.674779+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout?traffic_source=rss"
+  },
+  {
+    "id": "9b37c5e8d3cb",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T02:39",
+    "headline": "Would the US protect NATO allies if they were attacked?",
+    "excerpt": "This is America: Jim Townsend says he is unsure whether the US would send troops if a NATO ally were attacked.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-07-09T04:32:15.674827+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_would-the-us-protect-nato-allies-080726?traffic_source=rss"
+  },
+  {
+    "id": "17698d255ee4",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T00:51",
+    "headline": "Eight killed as landslide hits Rohingya school in Bangladesh",
+    "excerpt": "At least seven children and a teacher were killed after a landslide hit a girls’ school at a refugee camp in Bangladesh.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-09T04:32:15.674866+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/eight-killed-as-landslide-hits-rohingya-school-in-bangladesh?traffic_source=rss"
+  },
+  {
+    "id": "16e3b80fb038",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T00:15",
+    "headline": "Tehran releases footage showing ruins of late Iranian leader’s compound",
+    "excerpt": "Iranian state media has released what it calls the first footage showing damage to the late Khamenei’s compound.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-09T04:32:15.674905+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_iran-video-of-the-ruins-of-khameneis-compound-080726?traffic_source=rss"
+  },
+  {
+    "id": "2a580fbe4175",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T00:14",
+    "headline": "Khamenei’s coffin in Karbala on last stop before burial in Mashhad",
+    "excerpt": "Millions gathered in the holy city of Karbala, Iraq to pay their respects at the funeral of Iran’s late supreme leader.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-09T04:32:15.674943+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/khameneis-coffin-in-karbala-on-last-stop-before-burial-in-mashhad?traffic_source=rss"
+  },
+  {
+    "id": "a81b6923ba1e",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T00:00",
+    "headline": "Iran war live: Tehran attacks Bahrain, Kuwait after deadly US raids",
+    "excerpt": "US attacks kill at least one person in the city of Iranshahr and cause widespread power outages in Chabahar.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-09T04:32:15.674972+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/9/iran-war-live-one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask?traffic_source=rss"
+  },
+  {
+    "id": "828168fd6fef",
+    "source": "PressTV",
+    "date": "2026-07-09T04:32",
+    "headline": "IRGC strikes key US infrastructure in Kuwait, Bahrain in initial response to latest violations",
+    "excerpt": "The IRGC’s Aerospace Force strikes key infrastructure at four American bases in Kuwait and Bahrain in the first phase of its response against the US’s most recent violations of Iranian territory.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-09T04:32:17.293574+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/09/771878/Iran-IRGC-strikes-United-States-Kuwait-Bahrain-missiles-drones"
+  },
+  {
+    "id": "3199f763e92f",
+    "source": "PressTV",
+    "date": "2026-07-09T04:32",
+    "headline": "Iran formally notifies UN Security Council of fresh US violations, warns Washington of consequences",
+    "excerpt": "Iran formally notifies the UN Security Council of fresh large-scale US military attacks against its territory, warning Washington about the consequences.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-09T04:32:17.293625+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/09/771875/Iran-United-Nations-United-States-attacks"
+  },
+  {
     "id": "fa81b8909998",
     "source": "Al Jazeera",
     "date": "2026-07-08T22:52",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-28T16:48:54.884686+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah?traffic_source=rss"
-  },
-  {
-    "id": "44af40110299",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T15:19",
-    "headline": "Iraq arrests senior officials in anti-corruption raids",
-    "excerpt": "Iraqi security forces arrested several politicians, lawmakers and senior officials in dawn raids across Baghdad.",
-    "category": "Movement",
-    "location": "Iraq",
-    "addedAt": "2026-06-28T15:40:46.822409+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss"
-  },
-  {
-    "id": "558103fb7d3f",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T14:46",
-    "headline": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
-    "excerpt": "Political scientist Robert Pape argues the fallout of Iran war curbs US hubris and challenges Trump’s self-image.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-28T15:40:46.822449+00:00",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss"
-  },
-  {
-    "id": "196e7a0bf4ef",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T14:01",
-    "headline": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-    "excerpt": "Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-28T15:40:46.822474+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss"
-  },
-  {
-    "id": "70db029332ba",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T13:59",
-    "headline": "The US-Iran MoU: A mirage of an agreement",
-    "excerpt": "Both Washington and Tehran know that current deal will not lead to lasting peace. It is merely a strategic pause",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-28T15:40:46.822495+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/6/28/the-us-iran-mou-a-mirage-of-an-agreement?traffic_source=rss"
-  },
-  {
-    "id": "057fd5ec9c37",
-    "source": "PressTV",
-    "date": "2026-06-28T15:40",
-    "headline": "Iran seriously pursuing halt to Israeli war on Lebanon: Qalibaf",
-    "excerpt": "The Iranian Parliament speaker says ending the war in Lebanon and preserving its sovereignty and territorial integrity are key parts of the paragraph one of Iran-US MoU.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-28T15:40:49.284718+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/28/771251/Iran-Lebanon-Qalibaf-Berri"
-  },
-  {
-    "id": "d44e2d76db5a",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T13:36",
-    "headline": "Ukraine says it attacked two Russian oil refineries",
-    "excerpt": "At least two killed in drone attacks, Russian authorities say, as Ukraine continues to target energy facilities.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-28T14:00:23.303837+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss"
-  },
-  {
-    "id": "8a26f7af5420",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T13:30",
-    "headline": "Adam Johnson on how US corporate media sold Israel’s genocide in Gaza",
-    "excerpt": "Marc Lamont Hill speaks with author Adam Johnson on US corporate media’s role in enabling the genocide in Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-28T14:00:23.303893+00:00",
-    "link": "https://www.aljazeera.com/video/upfront/2026/6/28/adam-johnson-on-how-us-corporate-media-sold-israels-genocide-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "26f9207eb4ba",
-    "source": "Al Jazeera",
-    "date": "2026-06-28T13:19",
-    "headline": "Paradise lost: How Israel is making war on West Bank farmers",
-    "excerpt": "Israel is attacking West Bank agriculture in an attempt to drive Palestinian farmers off their land.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-28T14:00:23.303930+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/28/paradise-lost-how-israel-is-making-war-on-west-bank-farmers?traffic_source=rss"
   }
 ]
