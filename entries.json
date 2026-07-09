@@ -1,5 +1,49 @@
 [
   {
+    "id": "53aa88b5ef55",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T18:17",
+    "headline": "US expands Iran strikes Iran hitting  fishing piers near nuclear plant",
+    "excerpt": "Iranian officials say US strikes across Bushehr province damaged civilian infrastructure",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-09T18:29:39.154697+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss"
+  },
+  {
+    "id": "6f586341243b",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T18:04",
+    "headline": "Israeli attacks on Gaza kill 10 people in 24 hours despite ‘ceasefire’",
+    "excerpt": "World Central Kitchen condemns deadly air strike on aid driver, calls for accountability amid escalating Gaza violence.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-07-09T18:29:39.154737+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "57c5d1e22804",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T17:43",
+    "headline": "Gaza artists honour Egypt coach Hossam Hassan with sand portrait",
+    "excerpt": "Artists in Gaza have created a sand portrait of Egypt coach Hossam Hassan.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-09T18:29:39.154769+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/gaza-artists-honour-egypt-coach-hossam-hassan-with-sand-portrait?traffic_source=rss"
+  },
+  {
+    "id": "2bcef2fde6e5",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T16:52",
+    "headline": "Will NATO get involved in securing Strait of Hormuz?",
+    "excerpt": "Iran war overshadows defence alliance&#039;s summit in Turkiye.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-09T18:29:39.154796+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/9/will-nato-get-involved-in-securing-strait-of-hormuz?traffic_source=rss"
+  },
+  {
     "id": "0d5789e08b1a",
     "source": "Al Jazeera",
     "date": "2026-07-09T15:38",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-29T12:04:45.422018+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/29/drone-relayers-off-ukraines-diplomatic-triumph-over-belarus?traffic_source=rss"
-  },
-  {
-    "id": "8276a338e3a6",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T11:15",
-    "headline": "Nigerians return home after fleeing xenophobic attacks in South Africa",
-    "excerpt": "Nigerians are returning home after facing a wave of xenophobic violence in South Africa.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-29T12:04:45.422057+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/nigerians-return-home-after-fleeing-xenophobic-attacks-in-south-africa?traffic_source=rss"
-  },
-  {
-    "id": "bf1bf0ec59d4",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T11:05",
-    "headline": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
-    "excerpt": "The White House denied a split between the two officials who have historically held diverging foreign policy positions.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-29T12:04:45.422088+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "0c7bdd515fdb",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T09:58",
-    "headline": "‘Tit-for-tat US-Iran attacks appear to be over’",
-    "excerpt": "Former US Ambassador to Oman Richard Schmierer says recent US-Iran military exchanges appear to have run their course.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-29T12:04:45.422121+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss"
-  },
-  {
-    "id": "0cc2a2139f85",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T09:58",
-    "headline": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
-    "excerpt": "Russian president claims Ukraine, which has ramped up attacks on Russia&#039;s energy sector, proposed the limits.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-29T12:04:45.422162+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss"
   }
 ]
