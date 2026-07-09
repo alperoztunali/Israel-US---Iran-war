@@ -1,5 +1,93 @@
 [
   {
+    "id": "0d5789e08b1a",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T15:38",
+    "headline": "Chemical weapons watchdog restores Syria’s voting rights, citing progress",
+    "excerpt": "Syria regains voting rights in the OPCW as new leadership makes progress in addressing chemical weapons issues.",
+    "category": "Naval",
+    "location": "Syria",
+    "addedAt": "2026-07-09T16:42:43.398278+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/9/chemical-weapons-watchdog-restores-syrias-voting-rights-citing-progress?traffic_source=rss"
+  },
+  {
+    "id": "06e27d99f37b",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T15:38",
+    "headline": "Lebanon Latest: concerns about latest escalation in regional fighting",
+    "excerpt": "Al Jazeera’s Robert McBride has the latest from Beirut with concerns on how renewed fighting could impact Lebanon.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-07-09T16:42:43.398332+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/lebanon-latest-concerns-about-latest-escalation-in-regional-fighting-2?traffic_source=rss"
+  },
+  {
+    "id": "73ba4b45bba1",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T15:34",
+    "headline": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
+    "excerpt": "More than 500 ships have passed through the strait since June 17, but many remain stuck.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-09T16:42:43.398360+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17?traffic_source=rss"
+  },
+  {
+    "id": "b6f81f7600db",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T15:10",
+    "headline": "At least 28 people killed as fire engulfs shoe factory in China",
+    "excerpt": "Beijing demands &#039;all-out&#039; effort to extinguish the blaze, search for survivors and treat the injured.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-09T16:42:43.398388+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/9/at-least-28-people-killed-as-fire-engulfs-shoe-factory-in-china?traffic_source=rss"
+  },
+  {
+    "id": "05a45bc3abb8",
+    "source": "Al Jazeera",
+    "date": "2026-07-09T13:42",
+    "headline": "Photos: Iran to bury slain supreme leader in culmination of mass funeral",
+    "excerpt": "Iranians gather in sweltering heat for Ayatollah Ali Khamenei’s funeral in his hometown of Mashhad.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-09T16:42:43.398421+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/7/9/photos-iran-to-bury-slain-supreme-leader-in-culmination-of-mass-funeral?traffic_source=rss"
+  },
+  {
+    "id": "3c5eda47a708",
+    "source": "PressTV",
+    "date": "2026-07-09T16:42",
+    "headline": "Massive Iraq funeral was a call for vengeance for martyred Leader: Qalibaf",
+    "excerpt": "Iran’s parliament speaker says the massive funeral procession in Iraq for the martyred Leader was a declaration of support for his legacy and a call to avenge his death.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-09T16:42:45.196711+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/09/771912/Iran-Qalibaf-Iraq-funeral-procession-Leader-Khamenei-vengeance-US-Velayati-resistance-Najaf"
+  },
+  {
+    "id": "5052035b8481",
+    "source": "PressTV",
+    "date": "2026-07-09T16:42",
+    "headline": "IRGC: US command center, airbase in Jordan crushed with 10 missiles",
+    "excerpt": "The Islamic Revolution Guards Corps says it has struck a US command and control center in West Asia and the al-Azraq airbase in Jordan with 10 ballistic missiles, in a second wave of retaliation for American strikes on Iranian territory.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-09T16:42:45.196742+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/09/771916/IRGC-strikes-USCommand-Center--West-Asia"
+  },
+  {
+    "id": "fc01f65f83b4",
+    "source": "PressTV",
+    "date": "2026-07-09T16:42",
+    "headline": "IRGC Navy: Foreign powers have no role in Strait of Hormuz",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC) Navy says foreign powers have no role in the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-07-09T16:42:45.196779+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/09/771911/IRGC-Foreign-powers-no-role-Strait-Hormuz"
+  },
+  {
     "id": "d2dd3eb02698",
     "source": "Al Jazeera",
     "date": "2026-07-09T13:07",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-29T12:04:45.422162+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss"
-  },
-  {
-    "id": "7921e0277229",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T09:43",
-    "headline": "Australia and Vanuatu sign deal to block foreign military bases",
-    "excerpt": "Two countries sign economic and security pact, as China expresses concern that the agreement may be targeted at it.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-06-29T12:04:45.422196+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/29/australia-and-vanuatu-sign-deal-to-block-foreign-military-bases?traffic_source=rss"
-  },
-  {
-    "id": "9444e0baa632",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T08:37",
-    "headline": "Will Andy Burnham mark a shift in the UK’s Gaza policy?",
-    "excerpt": "The Labour Party has the chance to review its policy on Israel, but observers say it will opt for continuity.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-29T12:04:45.422240+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss"
-  },
-  {
-    "id": "3366fe188ae1",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T08:32",
-    "headline": "Israel triggers huge explosion in southern Lebanon",
-    "excerpt": "A massive explosion triggered by the Israeli military shook the southern Lebanese village of Majdal Zoun.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-29T12:04:45.422270+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-triggers-huge-explosion-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "68571d155112",
-    "source": "PressTV",
-    "date": "2026-06-29T12:04",
-    "headline": "Pezeshkian: Iran to recover $6 billion in frozen funds under Islamabad MoU",
-    "excerpt": "The Iranian president says that $6 billion of the country's frozen assets held in Qatar will be released and repatriated under the Iran-US MoU.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-29T12:04:51.010371+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/29/771291/Iran-Pezeshkian-assets-frozen"
-  },
-  {
-    "id": "f51cdaeaa782",
-    "source": "PressTV",
-    "date": "2026-06-29T12:04",
-    "headline": "Iran, Oman launch joint Hormuz committee to discuss strait’s future governance",
-    "excerpt": "Iran and Oman hold the first meeting of their newly established joint Hormuz committee, with discussions focusing on the future governance of the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-29T12:04:51.010419+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/29/771281/Iran-Oman-first-Hormuz-meeting"
-  },
-  {
-    "id": "15fb1f13db6d",
-    "source": "PressTV",
-    "date": "2026-06-29T12:04",
-    "headline": "North Korea says Japan turning into 'war nation', slams joint war game with US",
-    "excerpt": "North Korea denounces an ongoing US-Japan joint military drill, slamming Tokyo for using the \"confusing\" global situation to \"justify its transformation into a war nation.\"",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-29T12:04:51.010482+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/29/771292/North-Korea-denounces-US-Japan-joint-military-drill"
-  },
-  {
-    "id": "87b6a059ba17",
-    "source": "PressTV",
-    "date": "2026-06-29T12:04",
-    "headline": "Lebanon parl. speaker rejects deal with Israel as 'imposition' on Lebanon",
-    "excerpt": "Lebanese Parliament Speaker Nabih Berri says the agreement signed in Washington is an imposed set of dictates rather than an agreement that safeguards Lebanon's rights.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-29T12:04:51.010523+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/29/771275/Lebanese-parl--speaker--Washington-agreement-imposition,-not-deal"
-  },
-  {
-    "id": "4dde79a096f2",
-    "source": "PressTV",
-    "date": "2026-06-29T12:04",
-    "headline": "China imposes export controls on 40 Japanese entities amid tensions with Tokyo",
-    "excerpt": "China has imposed new export restrictions on 40 Japanese entities, citing concerns over Japan’s growing military buildup.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-06-29T12:04:51.010566+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/29/771290/China-imposes-export-controls-on-40-Japanese-entities-amid-escalating-military-dispute-with-Tokyo"
   }
 ]
