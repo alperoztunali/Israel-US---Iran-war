@@ -1,5 +1,60 @@
 [
   {
+    "id": "1e2888bca589",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T00:32",
+    "headline": "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza",
+    "excerpt": "Andy Burnham took to social media to apologise for the Labour Party’s initial stance on Israeli attacks in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-10T01:16:56.304475+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/britains-likely-pm-says-will-work-to-stop-the-suffering-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "0dadf9d42542",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T00:04",
+    "headline": "China expands anti-sanctions toolkit, raising risks for foreign firms",
+    "excerpt": "Beijing is rolling out measures to expand its ability to hit back at US and EU sanctions and export controls.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-07-10T01:16:56.304525+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/10/china-expands-anti-sanctions-toolkit-raising-risks-for-foreign-firms?traffic_source=rss"
+  },
+  {
+    "id": "181ccb28bd70",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T00:00",
+    "headline": "Iran war live: New attacks on Iran as US says talks still on",
+    "excerpt": "Washington official says US not behind the latest strikes and that technical talks with Iran continue.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-10T01:16:56.304558+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss"
+  },
+  {
+    "id": "6e3c8a1abafc",
+    "source": "PressTV",
+    "date": "2026-07-10T01:16",
+    "headline": "Pezeshkian: Historic outpouring renews Iran’s sacred covenant with martyred Leader",
+    "excerpt": "Pezeshkian on Thursday described the millions-strong gatherings in Tehran, Qom, the holy city of Mashhad, Najaf, and Karbala as a magnificent and enduring manifestation of loyalty, national solidarity, and Islamic unity.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-10T01:16:58.243582+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/10/771938/Pezeshkian--Historic-outpouring-renews-Iran%E2%80%99s-sacred-covenant-with-martyred-Leader"
+  },
+  {
+    "id": "51164d409e67",
+    "source": "PressTV",
+    "date": "2026-07-10T01:16",
+    "headline": "'Largest in human history': Over 43 million join funeral ceremonies for Martyr Leader in Iran, Iraq",
+    "excerpt": "Tens of millions of Iranians and devotees from across the region turned the funeral ceremonies for the Martyr Leader of the Islamic Revolution into the largest procession the world has ever witnessed.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-10T01:16:58.243626+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/09/771935/Over-43-million-join-epic-mourning-for-Martyr-Leader"
+  },
+  {
     "id": "5dab2ea739e7",
     "source": "Al Jazeera",
     "date": "2026-07-09T21:39",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-06-29T18:24:59.410155+00:00",
     "link": "https://presstv.ir/Detail/2026/06/29/771310/Palestine-Israel-West-Bank-Gaza-"
-  },
-  {
-    "id": "bca547134fc0",
-    "source": "PressTV",
-    "date": "2026-06-29T18:24",
-    "headline": "Iraq sets Sept. 30 deadline for resistance groups to hand over arms amid US pressure",
-    "excerpt": "The Baghdad government has set September 30 deadline for resistance groups to hand over their weapons.",
-    "category": "Casualties",
-    "location": "Iraq",
-    "addedAt": "2026-06-29T18:24:59.410176+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/29/771313/Baghdad-sets-late-September-deadline-for-resistance-groups-to-hand-in-weapons"
-  },
-  {
-    "id": "56a11089f92d",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T15:57",
-    "headline": "Iraq’s corruption crackdown is a start, not a solution",
-    "excerpt": "New PM Ali al-Zaidi&#039;s arrest of 47 officials is welcome, but the rot runs through the system that put him in power.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-06-29T16:11:50.349086+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/6/29/iraqs-corruption-crackdown-is-a-start-not-a-solution?traffic_source=rss"
-  },
-  {
-    "id": "963985ca7576",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T15:54",
-    "headline": "Gaza high school student’s fight for a future",
-    "excerpt": "Amid Israel’s genocidal war on Gaza that destroyed most schools, 18-year-old Dana Shabat sits her final exams online.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-29T16:11:50.349136+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/gaza-high-school-students-fight-for-a-future?traffic_source=rss"
-  },
-  {
-    "id": "b091d9e9802f",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T15:51",
-    "headline": "The US-Iran MoU looks at managing the pain rather than ending the war",
-    "excerpt": "The US-Iran MoU acts as a state-to-state framework managing mutual pain, not a definitive end to regional conflict.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-29T16:11:50.349172+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/29/the-us-iran-mou-looks-at-managing-the-pain-rather-than-ending-the-war?traffic_source=rss"
-  },
-  {
-    "id": "ea8dd040aa02",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T15:30",
-    "headline": "Lebanon Latest: Israel strikes as Hezbollah condemns new deal",
-    "excerpt": "Israeli strikes continue as the new Israel-Lebanon agreement faces opposition.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-06-29T16:11:50.349203+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-aje_onl_lebanon_wrap-290626?traffic_source=rss"
   }
 ]
