@@ -1,5 +1,60 @@
 [
   {
+    "id": "e9afef154648",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T18:01",
+    "headline": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
+    "excerpt": "Palestinian Health Ministry denounces attack as part of Israel&#039;s &#039;systematic targeting of health facilities&#039;.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-07-10T18:45:56.731765+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss"
+  },
+  {
+    "id": "c6fe02ac420e",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T17:21",
+    "headline": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
+    "excerpt": "Ukrainian official says Russia&#039;s attack on Kramatorsk kills four, including a teenager, and injures nine.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-10T18:45:56.731819+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss"
+  },
+  {
+    "id": "dfd1c24c84f6",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T17:08",
+    "headline": "Hundreds give hero’s welcome to Egypt after best World Cup run",
+    "excerpt": "Supporters waved Egyptian and Palestinian flags in support of Gaza as the Pharaohs boarded an open-top bus for a parade.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-10T18:45:56.731861+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/10/hundreds-give-heros-welcome-to-egypt-after-best-world-cup-run?traffic_source=rss"
+  },
+  {
+    "id": "1714ab4e323e",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T16:30",
+    "headline": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
+    "excerpt": "Iran has not responded to Trump&#039;s latest claim, which comes as new attacks threaten the full resumption of war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-10T18:45:56.731894+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss"
+  },
+  {
+    "id": "f27401b20c93",
+    "source": "PressTV",
+    "date": "2026-07-10T18:45",
+    "headline": "Qalibaf: Only those ready for war can negotiate with US",
+    "excerpt": "The Iranian Parliament speaker says only those who are prepared for war can engage in negotiation with the US.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-10T18:45:59.491750+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/10/771992/Iran-Indonesia-US-Qalibaf"
+  },
+  {
     "id": "ed0e8e8a051e",
     "source": "Al Jazeera",
     "date": "2026-07-10T16:30",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-30T17:08:25.642271+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets?traffic_source=rss"
-  },
-  {
-    "id": "59f4d5590db3",
-    "source": "PressTV",
-    "date": "2026-06-30T17:08",
-    "headline": "'War crime': Iran FM vows legal action against US over torpedo attack on Dena frigate",
-    "excerpt": "Foreign Minister Abbas Araghchi says Tehran will pursue the US torpedo attack on the Iranian frigate IRIS Dena through all legal and political channels.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-06-30T17:08:27.459018+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/30/771369/Iran-FM-vows-legal-action-against-US-over-torpedo-attack-on-defenseless-Dena-frigate"
-  },
-  {
-    "id": "dad169a8e172",
-    "source": "Al Jazeera",
-    "date": "2026-06-30T13:25",
-    "headline": "US envoys in Doha for indirect talks with Iranian technical delegation",
-    "excerpt": "Iran says it has sent an expert delegation to Doha to follow up on the release of frozen Iranian funds.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-30T14:45:21.796841+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation?traffic_source=rss"
-  },
-  {
-    "id": "1fa0fd8d6d37",
-    "source": "Al Jazeera",
-    "date": "2026-06-30T13:14",
-    "headline": "UK’s Starmer announces 300-billion-pound defence investment plan",
-    "excerpt": "Plan includes more than 5 billion pounds for drones and autonomous systems over four years, Ministry of Defence says.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-30T14:45:21.796894+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/6/30/uks-starmer-announces-300-billion-pound-defence-investment-plan?traffic_source=rss"
-  },
-  {
-    "id": "f8d29f019251",
-    "source": "Al Jazeera",
-    "date": "2026-06-30T11:57",
-    "headline": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
-    "excerpt": "Trump says Iran wants to meet in Qatar after attacks, but Tehran says it is sending a delegation only over frozen funds.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-30T14:45:21.796929+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss"
-  },
-  {
-    "id": "c54686414413",
-    "source": "PressTV",
-    "date": "2026-06-30T14:45",
-    "headline": "Iran monitors US compliance moment-by-moment, won’t implement MoU unilaterally: FM spox",
-    "excerpt": "Iran’s Foreign Ministry spokesman has declared that Tehran will monitor the United States’ compliance with the war‑termination memorandum of understanding (MoU) “moment‑by‑moment.”",
-    "category": "Statement",
-    "location": "Tehran",
-    "addedAt": "2026-06-30T14:45:23.696627+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/30/771356/Iran-monitors-US-compliance-moment-by-moment"
   }
 ]
