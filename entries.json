@@ -1,5 +1,104 @@
 [
   {
+    "id": "ed0e8e8a051e",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T16:30",
+    "headline": "Trump says US has ‘agreed’ to continue Iran talks but ceasefire ‘over’",
+    "excerpt": "Iran has not responded to Trump&#039;s latest claim, which comes as new attacks threaten the full resumption of war.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-10T17:00:42.649652+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss"
+  },
+  {
+    "id": "7e5eca718284",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T16:27",
+    "headline": "Who is Fadel Shaker? Lebanese pop star released on bail",
+    "excerpt": "In 2012, singing star Shaker quit his music career, before being accused of joining an armed group in Lebanon.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-07-10T17:00:42.649725+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/10/who-is-fadel-shaker-lebanese-pop-star-released-on-bail?traffic_source=rss"
+  },
+  {
+    "id": "c3dcfaf3e10e",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T15:53",
+    "headline": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
+    "excerpt": "The incident is the latest in a pattern of Israeli measures in the occupied territory since the Gaza genocide began.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-10T17:00:42.649822+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss"
+  },
+  {
+    "id": "da88bd97adfc",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T15:05",
+    "headline": "Family mourns baby after Israeli forces blocked journey to hospital",
+    "excerpt": "Three-month-old Ahmad Zaid’s family received his birth certificate and death certificate on the same day.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-07-10T17:00:42.649880+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss"
+  },
+  {
+    "id": "38af1b45dafa",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T15:00",
+    "headline": "The search for Gaza’s missing brings heartbreak and closure for loved ones",
+    "excerpt": "Thousands of bodies remain trapped under the rubble of their homes in Gaza, with retrieval a long and difficult task.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-10T17:00:42.649925+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/10/the-search-for-gazas-missing-brings-heartbreak-and-closure-for-loved-ones?traffic_source=rss"
+  },
+  {
+    "id": "c52563439091",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T14:38",
+    "headline": "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
+    "excerpt": "Ukraine’s unmanned systems have cut overland routes and begun to target Russian shadow tankers.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-07-10T17:00:42.649966+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/10/ukraine-chokes-fuel-to-crimea-russian-consumers-targeting-military-supply?traffic_source=rss"
+  },
+  {
+    "id": "5d30008b6a77",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T14:35",
+    "headline": "Israeli drones strike Lebanon despite US-brokered framework deal",
+    "excerpt": "The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-07-10T17:00:42.649989+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss"
+  },
+  {
+    "id": "d03337998ff6",
+    "source": "PressTV",
+    "date": "2026-07-10T17:00",
+    "headline": "Russia, China reject Western push to use UNSC against Iran after Resolution 2231 expiry",
+    "excerpt": "Russia rejects unjustified attempts to escalate tensions around Iran or to use the Security Council as a venue for political score-settling with Tehran.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-10T17:00:44.230714+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/10/771987/Russia-China-UNSC-Res-2231-Western-push-snapback"
+  },
+  {
+    "id": "a49da0e16928",
+    "source": "PressTV",
+    "date": "2026-07-10T17:00",
+    "headline": "Leader's funeral epic 'strategic asset' for Iran's deterrence: Acting defense minister",
+    "excerpt": "The Iranian acting defense minister says the massive turnout at the funeral of Martyr Ayatollah Khamenei is a strategic asset for the country’s defense and deterrence capabilities.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-10T17:00:44.230780+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/10/771982/Iran-Leader-deterrence-asset-"
+  },
+  {
     "id": "333a432da514",
     "source": "Al Jazeera",
     "date": "2026-07-10T14:01",
@@ -5399,104 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-06-30T14:45:23.696627+00:00",
     "link": "https://presstv.ir/Detail/2026/06/30/771356/Iran-monitors-US-compliance-moment-by-moment"
-  },
-  {
-    "id": "a9bded87d61a",
-    "source": "PressTV",
-    "date": "2026-06-30T14:45",
-    "headline": "Over 90 countries declare readiness to attend funeral of martyred Leader",
-    "excerpt": "A senior Iranian official says representatives from more than 90 countries are expected to attend the funeral of Ayatollah Seyyed Ali Khamenei.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-06-30T14:45:23.696688+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/30/771359/Iran-funeral-farewell-ceremonies-martyred-Leader-ninety-countries-declares-readiness-participate-"
-  },
-  {
-    "id": "2903721b46f9",
-    "source": "Al Jazeera",
-    "date": "2026-06-30T10:09",
-    "headline": "Man in Gaza survives double tap Israeli strike on vehicle",
-    "excerpt": "Man in Gaza survives double tap Israeli strike on vehicle",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-30T12:14:02.179458+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss"
-  },
-  {
-    "id": "fd615b7ac83e",
-    "source": "PressTV",
-    "date": "2026-06-30T12:14",
-    "headline": "Iran will respond decisively to any ceasefire violation: Acting defense minister",
-    "excerpt": "Iran's acting defense minister has warned that Tehran will respond decisively to any breach of the current ceasefire between the Islamic Republic and the US.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-06-30T12:14:03.882830+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/30/771349/Iran-Majid-Ibn-Reza-Qatar-Al-Thani-US-war-ceasefire-violation-Israel-Gaza-Lebanon-"
-  },
-  {
-    "id": "bb7b67a64381",
-    "source": "PressTV",
-    "date": "2026-06-30T12:14",
-    "headline": "Hezbollah MP blasts ‘sell-out’ government, says Lebanon central to any Iran-US deal",
-    "excerpt": "A Lebanese legislator says Lebanon remains Iran’s critical priority in any potential deal with the United States, arguing that the Beirut government sold itself out to Israel.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-30T12:14:03.882874+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/30/771351/Hezbollah-MP--Lebanon-remains-Iran-s-priority-in-any-deal-with-US,-Beirut-govt--sold-itself-to-Israel-"
-  },
-  {
-    "id": "0aa2522b10c5",
-    "source": "Al Jazeera",
-    "date": "2026-06-30T09:10",
-    "headline": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-    "excerpt": "An Israeli attack on the al-Mawasi camp in Khan Younis has killed several people, including a mother and her child.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-06-30T09:50:18.411245+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "a67dc0005f6f",
-    "source": "Al Jazeera",
-    "date": "2026-06-30T08:28",
-    "headline": "Ivory Coast vs Norway: FIFA World Cup Round of 32: Prediction, how to watch",
-    "excerpt": "Erling Haaland&#039;s Norway face Yan Diomande-powered Ivory Coast, as the pair clash for a place in the round of 16.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-06-30T09:50:18.411299+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/30/ivory-coast-norway-fifa-world-cup-round-of-32-prediction-haaland-diomande-lineups?traffic_source=rss"
-  },
-  {
-    "id": "549465aed075",
-    "source": "Al Jazeera",
-    "date": "2026-06-30T06:33",
-    "headline": "What is Iran looking for in any upcoming talks with the US?",
-    "excerpt": "Strait of Hormuz, frozen funds, Lebanon at forefront of the minds of Iran&#039;s negotiators ahead of potential talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-06-30T09:50:18.411329+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/30/what-is-iran-looking-for-in-any-upcoming-talks-with-the-us?traffic_source=rss"
-  },
-  {
-    "id": "2d0999ab6a5c",
-    "source": "Al Jazeera",
-    "date": "2026-06-30T06:10",
-    "headline": "Moment drone hits vehicle in Zaporizhzhia",
-    "excerpt": "Video shows the moment a vehicle was damaged by a drone in Zaporizhzhia, southeastern Ukraine.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-30T09:50:18.411353+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/moment-drone-hits-vehicle-in-zaporizhzhia?traffic_source=rss"
-  },
-  {
-    "id": "f83bc043c389",
-    "source": "PressTV",
-    "date": "2026-06-30T09:50",
-    "headline": "Management of Strait of Hormuz solely Iran’s responsibility: Senior MP",
-    "excerpt": "A senior Iranian parliamentarian says the management of the Strait of Hormuz is exclusively the responsibility of the Islamic Republic.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-30T09:50:20.304785+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/30/771345/Iranian-lawmaker--Management-Strait-Hormuz-solely-Tehran-s-responsibility"
   }
 ]
