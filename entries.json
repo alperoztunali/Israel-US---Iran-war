@@ -1,5 +1,49 @@
 [
   {
+    "id": "84c5243a9e9d",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T08:48",
+    "headline": "Degree but no job: The battle against unemployment in Gaza",
+    "excerpt": "Gaza&#039;s young graduates face sky-high unemployment as Israel&#039;s war devastates job market.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-10T08:51:30.535636+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "6c5314cc8338",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T08:03",
+    "headline": "Administration without sovereignty will not free Palestine",
+    "excerpt": "The end of Hamas governance in Gaza may change who administers it, but not who holds power over Palestinian life.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-10T08:51:30.535710+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss"
+  },
+  {
+    "id": "be40d1e785ef",
+    "source": "Al Jazeera",
+    "date": "2026-07-10T07:29",
+    "headline": "The US is building a new pressure architecture against Iran",
+    "excerpt": "Trump’s NATO diplomacy is part of a wider effort to weaken Tehran by reshaping the region around it.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-10T08:51:30.535757+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss"
+  },
+  {
+    "id": "3075b63fd812",
+    "source": "PressTV",
+    "date": "2026-07-10T08:51",
+    "headline": "IRGC chief vows justice for martyred Leader, says resistance path will endure",
+    "excerpt": "The commander-in-chief of Iran's Islamic Revolution Guards Corps (IRGC) has vowed that Iran and the resistance front will continue the path of the martyred leader.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-10T08:51:32.444732+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/10/771956/IRGC-chief-justice-for-Leader-resistance-continue"
+  },
+  {
     "id": "295438812f4f",
     "source": "Al Jazeera",
     "date": "2026-07-10T04:36",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-06-29T21:54:08.759660+00:00",
     "link": "https://presstv.ir/Detail/2026/06/29/771325/President-Pezeshkian-says-Iran-will-stand-by-deal-only-if-US-does"
-  },
-  {
-    "id": "be5fa2a38589",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T19:08",
-    "headline": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
-    "excerpt": "Israeli rights group B’Tselem has condemned the &#039;unprecedented killing of Palestinian children and teenagers&quot;",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-06-29T20:26:10.451048+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "381bb57282eb",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T18:44",
-    "headline": "Pakistani strikes kill dozens of Afghan villagers",
-    "excerpt": "Afghan villagers inspected destroyed homes after overnight Pakistani strikes targeting Taliban-allied fighters.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-06-29T20:26:10.451091+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/pakistani-strikes-kill-dozens-of-afghan-villagers?traffic_source=rss"
-  },
-  {
-    "id": "bbf86b4c8f67",
-    "source": "Al Jazeera",
-    "date": "2026-06-29T18:43",
-    "headline": "Israel launches attacks and incursions inside southern Syria",
-    "excerpt": "Israeli forces have shelled a village in southern Syria, firing artillery and illumination flares overnight.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-06-29T20:26:10.451124+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss"
-  },
-  {
-    "id": "2b7b1ffe43b7",
-    "source": "PressTV",
-    "date": "2026-06-29T20:26",
-    "headline": "Iran says only it can demine Strait of Hormuz under MoU with US",
-    "excerpt": "Iran’s Deputy Foreign Minister Kazem Gharibabadi rejects France’s bid to demine the Strait of Hormuz in collaboration with its allies, saying the operation will exclusively be carried out by the Islamic Republic.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-29T20:26:12.801791+00:00",
-    "link": "https://presstv.ir/Detail/2026/06/29/771321/Iran-Strait-Hormuz-demine"
   }
 ]
