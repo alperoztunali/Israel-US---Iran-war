@@ -1,5 +1,38 @@
 [
   {
+    "id": "02e1eab169dc",
+    "source": "Al Jazeera",
+    "date": "2026-07-11T16:05",
+    "headline": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+    "excerpt": "Analysts say door to diplomacy still open despite exchange of attacks and threats.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-11T17:32:05.139617+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss"
+  },
+  {
+    "id": "18d7f6e01f19",
+    "source": "PressTV",
+    "date": "2026-07-11T17:32",
+    "headline": "Iran’s Judiciary chief vows to prosecute war criminals over attacks on Iran",
+    "excerpt": "Eje’i says Iran is determined to prosecute those responsible for war crimes committed by the United States and the Israeli regime against the nation.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-11T17:32:06.899694+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/11/772052/Iran%E2%80%99s-judiciary-chief-vows-prosecute-war-criminals-attacks--Iran"
+  },
+  {
+    "id": "a248b751d340",
+    "source": "PressTV",
+    "date": "2026-07-11T17:32",
+    "headline": "Illegal Israeli settlers assault Palestinian workers, destroy farm in West Bank",
+    "excerpt": "Illegal Israeli settlers have attacked Palestinian municipal workers south of Nablus in the occupied West Bank, and destroyed a farm northwest of the city.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-11T17:32:06.899740+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/11/772049/Illegal-Israeli-settlers-assault-Palestinian-workers,-destroy-farm-in-occupied-West-Bank"
+  },
+  {
     "id": "7cb2d7c30c24",
     "source": "Al Jazeera",
     "date": "2026-07-11T15:54",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-01T18:31:49.379023+00:00",
     "link": "https://presstv.ir/Detail/2026/07/01/771438/iran-un-mission-israel-public-threat-ayatollah-khamenei"
-  },
-  {
-    "id": "5e644cc0823b",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T16:08",
-    "headline": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
-    "excerpt": "Board of Peace talks on Gaza&#039;s post-war future face funding crises and warnings of a colonial occupation.",
-    "category": "Diplomatic",
-    "location": "Gaza",
-    "addedAt": "2026-07-01T16:33:24.954056+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss"
-  },
-  {
-    "id": "ff03784b5f91",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T16:04",
-    "headline": "Trump takes first flight on new Qatar-gifted Air Force One",
-    "excerpt": "US President Donald Trump took his maiden voyage aboard the new Air Force One on Wednesday.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-01T16:33:24.954105+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/trump-takes-first-flight-on-new-qatar-gifted-air-force-one?traffic_source=rss"
-  },
-  {
-    "id": "20f0ff834647",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T15:08",
-    "headline": "‘Will not leave’: Is Israel killing the US-Iran MoU by staying in Lebanon?",
-    "excerpt": "Analysts say both sides want the MOU to succeed but Israel&#039;s actions in Lebanon will prove a formidable obstacle.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-01T16:33:24.954145+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/1/will-not-leave-is-israel-killing-the-us-iran-mou-by-staying-in-lebanon?traffic_source=rss"
   }
 ]
