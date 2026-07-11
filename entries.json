@@ -1,5 +1,38 @@
 [
   {
+    "id": "233517240a53",
+    "source": "Al Jazeera",
+    "date": "2026-07-11T14:25",
+    "headline": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
+    "excerpt": "The former government minister is believed to have been attacked a full day before her body was discovered.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-11T15:18:03.985552+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss"
+  },
+  {
+    "id": "25c7158a1f20",
+    "source": "PressTV",
+    "date": "2026-07-11T15:18",
+    "headline": "Iran: Production of drones tripled during US-Israeli war of aggression",
+    "excerpt": "The Iranian caretaker defense minister says the country’s production of various types of domestically-developed unmanned aerial vehicles grew by threefold in the midst of the US-Israeli war of aggression against the Islamic Republic.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-11T15:18:07.263823+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/11/772039/Production-of-drones-tripled-in-war-of-aggression-against-Iran--Caretaker-defense-minister"
+  },
+  {
+    "id": "007fb40f501c",
+    "source": "PressTV",
+    "date": "2026-07-11T15:18",
+    "headline": "Iran issues over 300 indictments against individuals linked to hostile media networks",
+    "excerpt": "The cases involve individuals associated with propaganda media networks, including Iran International and Manoto.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-11T15:18:07.263859+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/11/772035/Iran-issues-300-indictments-against-individuals-linked-hostile-media-networks-Manoto-Reza-Pahlavi"
+  },
+  {
     "id": "643cc5dfc817",
     "source": "Al Jazeera",
     "date": "2026-07-11T13:18",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-01T16:33:24.954265+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/1/after-afghanistan-fires-drones-into-pakistan-whats-next?traffic_source=rss"
-  },
-  {
-    "id": "e67641e99b76",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T14:00",
-    "headline": "Caught between the US and China, can Europe remain competitive?",
-    "excerpt": "As trade tensions grow, Europe tries to remain competitive while balancing ties with the US and China.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-01T16:33:24.954310+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/1/caught-between-the-us-and-china-can-europe-remain-competitive?traffic_source=rss"
-  },
-  {
-    "id": "d0712adb8c61",
-    "source": "PressTV",
-    "date": "2026-07-01T16:33",
-    "headline": "US sanctions on Cuba ‘crime against humanity’: FM",
-    "excerpt": "Cuba’s Rodriguez says US sanctions on Cuba have targeted the livelihood of the Cuban people.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-01T16:33:26.527072+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/01/771422/Cuba-FM-Rodriguez-condemnation-US-sanctions"
-  },
-  {
-    "id": "425cb03d7489",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T13:05",
-    "headline": "Man charged after arson attack on Islamic centre in Dublin",
-    "excerpt": "A man set fire to an Islamic centre and mosque in Dublin, shouting Islamophobic and anti-immigrant slogans.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-01T13:57:00.146292+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/man-charged-after-arson-attack-on-islamic-centre-in-dublin?traffic_source=rss"
   }
 ]
