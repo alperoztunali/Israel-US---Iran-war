@@ -1,5 +1,27 @@
 [
   {
+    "id": "be582c8a1f80",
+    "source": "Al Jazeera",
+    "date": "2026-07-11T08:53",
+    "headline": "Russian missile attacks wound 11 in Kyiv",
+    "excerpt": "In the latest salvo in one of the war&#039;s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-11T10:03:47.712451+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss"
+  },
+  {
+    "id": "0e836bccb655",
+    "source": "Al Jazeera",
+    "date": "2026-07-11T08:25",
+    "headline": "Russian overnight strikes on Kyiv injure ten",
+    "excerpt": "Russian overnight strikes on Kyiv injure ten",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-11T10:03:47.712497+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss"
+  },
+  {
     "id": "5a2c416fc423",
     "source": "Al Jazeera",
     "date": "2026-07-11T08:04",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-01T11:44:39.251930+00:00",
     "link": "https://presstv.ir/Detail/2026/07/01/771412/Iran%E2%80%99s-acting-defense-minister--Missile,-drone-capabilities-will-continue-to-expand"
-  },
-  {
-    "id": "0be438292fe3",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T08:03",
-    "headline": "The Lebanon-Israel agreement is paving the way for the next war",
-    "excerpt": "And the agreement has ensured that Lebanon will be blamed for it.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-01T08:36:22.196686+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss"
-  },
-  {
-    "id": "b32617e1a65b",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T07:55",
-    "headline": "Pakistan says it intercepted four drones fired from Afghanistan",
-    "excerpt": "Afghan defence ministry says it carried out &#039;air strikes&#039; in Pakistan&#039;s Balochistan and Khyber Pakhtunkhwa provinces.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-07-01T08:36:22.196726+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/1/pakistan-says-it-intercepted-four-drones-fired-from-afghanistan?traffic_source=rss"
   }
 ]
