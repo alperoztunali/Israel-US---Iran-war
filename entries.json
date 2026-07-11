@@ -1,5 +1,27 @@
 [
   {
+    "id": "45f6f4bef16d",
+    "source": "Al Jazeera",
+    "date": "2026-07-11T00:00",
+    "headline": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
+    "excerpt": "US said to be pushing for public statement that Iran will not fire at commercial ships passing through Strait of Hormuz",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-11T01:10:32.221886+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
+  },
+  {
+    "id": "afd55ccb77b1",
+    "source": "PressTV",
+    "date": "2026-07-11T01:10",
+    "headline": "Iraq's Islamic Resistance hails ‘epic' of Imam Khamenei funeral",
+    "excerpt": "\"You have proven that the authentic Iraqi people will remain committed to their resistance line and continue their jihadist approach in resisting global arrogance,\" the statement read.",
+    "category": "Statement",
+    "location": "Iraq",
+    "addedAt": "2026-07-11T01:10:34.515384+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/11/772001/Iraq-Islamic-Resistance-hails-epic-of-Imam-Khamenei-funeral-vows-weapons-not-up-for-bargaining"
+  },
+  {
     "id": "5ed280fb30d6",
     "source": "PressTV",
     "date": "2026-07-10T23:40",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-06-30T21:06:09.122427+00:00",
     "link": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss"
-  },
-  {
-    "id": "9f9c3c90a2f6",
-    "source": "Al Jazeera",
-    "date": "2026-06-30T20:00",
-    "headline": "Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era",
-    "excerpt": "Has Iran&#039;s regional deterrence been permanently degraded, or is its proxy network mutating into a resilient force?",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-06-30T21:06:09.122471+00:00",
-    "link": "https://www.aljazeera.com/news/2026/6/30/evolution-under-fire-irans-axis-of-resistance-in-a-post-war-era?traffic_source=rss"
-  },
-  {
-    "id": "37894aef235d",
-    "source": "Al Jazeera",
-    "date": "2026-06-30T19:29",
-    "headline": "Russia’s fuel crisis deepens following Ukrainian drone strikes",
-    "excerpt": "Russia&#039;s fuel crisis deepens as Ukrainian drone strikes intensify",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-06-30T21:06:09.122496+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss"
   }
 ]
