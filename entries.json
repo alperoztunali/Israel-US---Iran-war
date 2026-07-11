@@ -1,5 +1,49 @@
 [
   {
+    "id": "7cb2d7c30c24",
+    "source": "Al Jazeera",
+    "date": "2026-07-11T15:54",
+    "headline": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
+    "excerpt": "US decision to delist Syria as a &#039;state sponsor of terrorism&#039; prompts cautious optimism among businesses and citizens.",
+    "category": "Diplomatic",
+    "location": "Syria",
+    "addedAt": "2026-07-11T16:26:19.607537+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss"
+  },
+  {
+    "id": "f14a3fef8395",
+    "source": "Al Jazeera",
+    "date": "2026-07-11T08:53",
+    "headline": "Russian missile and drone barrage kills six and wounds dozens in Ukraine",
+    "excerpt": "In the latest salvo in one of the war&#039;s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-11T16:26:19.607587+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss"
+  },
+  {
+    "id": "485b78b12c87",
+    "source": "PressTV",
+    "date": "2026-07-11T16:26",
+    "headline": "Two Basij volunteer forces martyred in attack during patrol for Leader's funeral in Mashhad",
+    "excerpt": "The Imam Reza Islamic Revolution Guard Corps, the local branch of the IRGC in Iran’s Khorasan Razavi Province, says two Basij volunteer forces have been killed while on a security patrol in the holy city of Mashhad.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-11T16:26:22.445838+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/11/772032/Iran-Basij-volunteer-forces-killed-Mashhad-security-patrol-IRGC-local-branch"
+  },
+  {
+    "id": "483d72339cd1",
+    "source": "PressTV",
+    "date": "2026-07-11T16:26",
+    "headline": "Mutual compliance key to implementing Iran-US memorandum to end war: Iran FM",
+    "excerpt": "Iran’s Foreign Minister Abbas Araghchi says that implementation of the accord with the US can only succeed through \"mutual compliance.\"",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-11T16:26:22.445880+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/11/772010/Araghchi--only-mutual-compliance-with-ceasefire-MoU"
+  },
+  {
     "id": "233517240a53",
     "source": "Al Jazeera",
     "date": "2026-07-11T14:25",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-01T16:33:24.954145+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/1/will-not-leave-is-israel-killing-the-us-iran-mou-by-staying-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "90550ccbef11",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T15:01",
-    "headline": "First Syrian parliament since al-Assad’s ousting begins legislative duties",
-    "excerpt": "The new 210-member parliament takes shape, marking a historic shift after decades of Assad family rule.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-01T16:33:24.954182+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/1/first-syrian-parliament-since-al-assads-ousting-begins-legislative-duties?traffic_source=rss"
-  },
-  {
-    "id": "b1e421fe16be",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T14:45",
-    "headline": "How war on Iran changed the global energy sector forever",
-    "excerpt": "Conflict will accelerate shift to renewables and search for alternatives to Strait of Hormuz, energy analysts say.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-01T16:33:24.954210+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss"
-  },
-  {
-    "id": "ccc37f12e155",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T14:39",
-    "headline": "Israeli forces kill Palestinian goalkeeper in Gaza",
-    "excerpt": "Palestinian goalkeeper Saleem Al-Ashqar was shot dead by Israeli forces in Gaza.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-01T16:33:24.954235+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/israeli-forces-kill-palestinian-goalkeeper-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "27adc565d5a1",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T14:14",
-    "headline": "After Afghanistan fires drones into Pakistan, what’s next?",
-    "excerpt": "Pakistan and Afghanistan have been locked in an on-off cycle of cross-border strikes, leaving their ties in tatters.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-01T16:33:24.954265+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/1/after-afghanistan-fires-drones-into-pakistan-whats-next?traffic_source=rss"
   }
 ]
