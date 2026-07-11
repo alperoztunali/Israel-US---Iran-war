@@ -1,5 +1,27 @@
 [
   {
+    "id": "7f2a2ed96f86",
+    "source": "Al Jazeera",
+    "date": "2026-07-11T08:53",
+    "headline": "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
+    "excerpt": "In the latest salvo in one of the war&#039;s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-11T12:30:37.964099+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss"
+  },
+  {
+    "id": "060d58462c7b",
+    "source": "Al Jazeera",
+    "date": "2026-07-11T08:04",
+    "headline": "Trump trades threats with Iran’s leader as mediators struggle to save talks",
+    "excerpt": "US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-11T12:30:37.964179+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss"
+  },
+  {
     "id": "488b5db5fc72",
     "source": "PressTV",
     "date": "2026-07-11T11:20",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-01T11:44:39.251769+00:00",
     "link": "https://presstv.ir/Detail/2026/07/01/771411/Iran-top-security-Leader-s-blood-pursued"
-  },
-  {
-    "id": "9141e4d09562",
-    "source": "PressTV",
-    "date": "2026-07-01T11:44",
-    "headline": "Iran's Christian minorities call for magnificent funeral for Martyr Leader",
-    "excerpt": "The Christian communities joined other religious minorities across Iran in mourning the loss of Ayatollah Seyyed Ali Khamenei, who was martyred on Feb. 28 in a US-Israeli terrorist strike targeting his residence in Tehran.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-07-01T11:44:39.251804+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/01/771399/Armenian-Christians-northern-Iran-mourn-martyrdom-Leader"
-  },
-  {
-    "id": "fff894e46504",
-    "source": "PressTV",
-    "date": "2026-07-01T11:44",
-    "headline": "Iran slams US over World Cup conduct after official cheers team's elimination",
-    "excerpt": "Iran’s FM has said the US has proved itself unfit to host the FIFA World Cup after its homeland security secretary celebrated Iran's elimination.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-01T11:44:39.251857+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/01/771393/Iran-Araghchi-Team-Melli-football-US-FIFA-World-Markwayne-Mullin-Tijuana-"
   }
 ]
