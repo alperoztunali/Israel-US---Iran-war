@@ -1,5 +1,38 @@
 [
   {
+    "id": "04193dc00149",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T18:24",
+    "headline": "Thousands gather to bid farewell to Qatar’s Father Emir Sheikh Hamad",
+    "excerpt": "Thousands gathered in Doha to bid farewell to Qatar&#039;s Father Emir, Sheikh Hamad bin Khalifa Al Thani.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-12T18:40:43.570487+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/thousands-gather-to-bid-farewell-to-qatars-father-emir-sheikh-hamad?traffic_source=rss"
+  },
+  {
+    "id": "a1e4e74e7140",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T17:50",
+    "headline": "Concern for renewed war in Iran as US attacks military, civilian targets",
+    "excerpt": "US military has significantly increased the scale of attacks on Iran in recent days as the Strait of Hormuz standoff boils over.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-12T18:40:43.570554+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss"
+  },
+  {
+    "id": "763b5608cb30",
+    "source": "PressTV",
+    "date": "2026-07-12T18:40",
+    "headline": "Araghchi: Iran backs Lebanon's sovereignty, seeks end to Israeli occupation",
+    "excerpt": "The Iranian foreign minister says Tehran backs Lebanon's sovereignty and seeks an end to Israeli occupation.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-12T18:40:45.857663+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772118/Iran-UN-Lebanon-Araghchi"
+  },
+  {
     "id": "371eb46b85b3",
     "source": "Al Jazeera",
     "date": "2026-07-12T16:58",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-02T19:56:50.527275+00:00",
     "link": "https://presstv.ir/Detail/2026/07/02/771502/Iran-Baghaei-US-Bahrain-security-meeting-vigilance-war-Strait-of-Hormuz-Kuwait-Qatar-Oman-CENTCOM-"
-  },
-  {
-    "id": "dd4a463a3bb5",
-    "source": "PressTV",
-    "date": "2026-07-02T19:56",
-    "headline": "US failure in war on Iran ignited clash between Trump, MBS: Report",
-    "excerpt": "Washington and Riyadh are reportedly 'at odds' over their approaches to regional security after US failed aggression against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-02T19:56:50.527316+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/02/771501/US-Saudi-Arabia-MBS-Trump"
-  },
-  {
-    "id": "152383ebe159",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T17:36",
-    "headline": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
-    "excerpt": "At least 6 people were killed and 22 injured after an explosive device detonated in a café in Damascus&#039; Al-Hijaz area.",
-    "category": "Casualties",
-    "location": "Damascus",
-    "addedAt": "2026-07-02T18:15:12.334062+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss"
-  },
-  {
-    "id": "98e0e40da999",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T17:35",
-    "headline": "Rally for Luxembourg teacher fired over pro-Gaza posts",
-    "excerpt": "Students and supporters of a Luxembourg teacher fired over social media posts held a demonstration for her this week.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-02T18:15:12.334109+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss"
   }
 ]
