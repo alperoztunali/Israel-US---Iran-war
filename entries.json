@@ -1,5 +1,49 @@
 [
   {
+    "id": "4152f9d6c9fe",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T11:07",
+    "headline": "IRGC releases video of retaliatory missile strikes",
+    "excerpt": "IRGC releases video of retaliatory missile strikes",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-12T11:44:42.197840+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss"
+  },
+  {
+    "id": "f46bd56e1e08",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T11:00",
+    "headline": "Key moments from former Qatar Emir Sheikh Hamad bin Khalifa Al Thani’s life",
+    "excerpt": "Sheikh Hamad&#039;s 18-year rule catapulted Qatar to prosperity and reshaped its domestic, regional and global footprint.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-12T11:44:42.197898+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/key-moments-from-former-qatar-emir-sheikh-hamad-bin-khalifa-al-thanis-life?traffic_source=rss"
+  },
+  {
+    "id": "95c20c935aa8",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T06:01",
+    "headline": "Sheikh Hamad bin Khalifa Al Thani, the architect of modern Qatar",
+    "excerpt": "The Father Emir oversaw the meteoric rise of the small gas-rich nation.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-12T11:44:42.197955+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss"
+  },
+  {
+    "id": "79093b60c3b1",
+    "source": "PressTV",
+    "date": "2026-07-12T11:44",
+    "headline": "Ayatollah Khamenei to host memorial ceremony for martyred Leader",
+    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei is to host a commemoration ceremony for his father, Ayatollah Seyyed Ali Khamenei, who was martyred in illegal US-Israeli strikes on Iran.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-12T11:44:44.654541+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772089/Leader-hold-memorial-martyred-Ayatollah-Khamenei-"
+  },
+  {
     "id": "87a0f2e0e331",
     "source": "Al Jazeera",
     "date": "2026-07-12T10:17",
@@ -5454,49 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-07-02T14:23:51.379186+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/explosion-in-damascus-cafe-causes-casualties?traffic_source=rss"
-  },
-  {
-    "id": "32eb02484c61",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T13:14",
-    "headline": "Gaza war’s 1,000 days: 90% of strip ‘destroyed’, 80% ‘seized’ by Israel",
-    "excerpt": "In 1,000 days since October 7, 2023, Gaza lies in ruins, Board of Peace falters and Israel expands control of enclave.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-02T14:23:51.379228+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/2/gaza-wars-1000-days-90-of-strip-destroyed-80-seized-by-israel?traffic_source=rss"
-  },
-  {
-    "id": "3b1edbc8bbe4",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T12:49",
-    "headline": "Syria explosion live: Bomb blast kills 5 people in Damascus",
-    "excerpt": "⁠An explosion rocks ​Damascus with state media reporting it was caused by a bomb.",
-    "category": "Airstrike",
-    "location": "Syria",
-    "addedAt": "2026-07-02T14:23:51.379253+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/2/syria-explosion-live-blast-rocks-damascus-as-authorities-investigate-cause?traffic_source=rss"
-  },
-  {
-    "id": "4e8f5f55a7f7",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T12:32",
-    "headline": "At least five killed in explosion inside central Damascus cafe",
-    "excerpt": "Blast at a cafe reportedly kills five people and injures many more.",
-    "category": "Casualties",
-    "location": "Damascus",
-    "addedAt": "2026-07-02T14:23:51.379280+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/2/explosion-heard-in-syrias-capital-damascus-state-media?traffic_source=rss"
-  },
-  {
-    "id": "fd8ed9fb22aa",
-    "source": "PressTV",
-    "date": "2026-07-02T14:23",
-    "headline": "European anti-imperialist groups arrive in Iran for Martyr Leader's funeral",
-    "excerpt": "A caravan of anti-imperialist activists, academics, journalists, and representatives of Islamic centers from across Europe are traveling to Tehran to participate in the funeral procession of the martyred Leader.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-07-02T14:23:53.301122+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/02/771487/European-anti-imperialist-groups,-journalists-Tehran-Leader-s-funeral"
   }
 ]
