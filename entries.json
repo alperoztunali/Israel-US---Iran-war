@@ -1,5 +1,49 @@
 [
   {
+    "id": "4632fdd7b1d5",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T19:27",
+    "headline": "Why the Iran-US ceasefire is falling apart",
+    "excerpt": "Iran, US resumed fighting because they don’t see each other as ‘reliable negotiating partners’, says analyst Ali Vaez.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-12T19:53:52.988136+00:00",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss"
+  },
+  {
+    "id": "c5307d78f98c",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T19:21",
+    "headline": "Anti-migrant display set alight in Northern Ireland bonfire",
+    "excerpt": "The flags of Palestine, Syria, Sudan and Somalia were draped over a huge bonfire tower before it was set alight.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-12T19:53:52.988184+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/anti-migrant-display-set-alight-in-northern-ireland-bonfire?traffic_source=rss"
+  },
+  {
+    "id": "b0e534be4c1b",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T19:01",
+    "headline": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
+    "excerpt": "General Jean Elysee Dao says 60 others also wounded as army retakes key town after nearly a week of fighting.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-12T19:53:52.988218+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss"
+  },
+  {
+    "id": "6ab8c6eb597b",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T16:58",
+    "headline": "Qatar’s Father Emir Sheikh Hamad bin ⁠Khalifa Al Thani laid to rest in Doha",
+    "excerpt": "Sheikh Hamad, who ruled the Gulf state from 1995 to 2013, is buried after a simple Islamic ceremony.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-12T19:53:52.988267+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss"
+  },
+  {
     "id": "04193dc00149",
     "source": "Al Jazeera",
     "date": "2026-07-12T18:24",
@@ -5453,50 +5497,6 @@
     "category": "Diplomatic",
     "location": "Iran",
     "addedAt": "2026-07-02T21:18:11.538831+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/02/771502/Iran-Baghaei-US-Bahrain-security-meeting-vigilance-war-Strait-of-Hormuz-Kuwait-Qatar-Oman-CENTCOM-"
-  },
-  {
-    "id": "962bddf8dfb2",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T19:31",
-    "headline": "Nine Buddhist monks killed by child driving truck in Thailand",
-    "excerpt": "Nine Buddhist monks were killed  after a truck driven by an 11-year-old boy struck a pilgrimage procession in Thailand.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-02T19:56:48.911620+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/nine-buddhist-monks-killed-by-child-driving-truck-in-thailand?traffic_source=rss"
-  },
-  {
-    "id": "77386f3241e8",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T19:11",
-    "headline": "The last time Iran held a funeral for the Supreme Leader",
-    "excerpt": "An estimated 10 million mourners attended Iran’s first Supreme Leader’s funeral in 1989.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-02T19:56:48.911674+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss"
-  },
-  {
-    "id": "b563849b2112",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T18:59",
-    "headline": "Fears of new massacre in Sudan’s el-Obeid: What do we know?",
-    "excerpt": "As RSF troops besiege el-Obeid, 500,000 civilians face mass atrocities amid drone strikes and a stalled peace process.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-02T19:56:48.911733+00:00",
-    "link": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss"
-  },
-  {
-    "id": "fb5609f1e20b",
-    "source": "PressTV",
-    "date": "2026-07-02T19:56",
-    "headline": "Iran warns Persian Gulf states after US-hosted security summit in Bahrain",
-    "excerpt": "Iran has urged regional countries to remain vigilant against US-led security initiatives and not forget the consequences of recent US-Israeli military aggression.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-02T19:56:50.527275+00:00",
     "link": "https://presstv.ir/Detail/2026/07/02/771502/Iran-Baghaei-US-Bahrain-security-meeting-vigilance-war-Strait-of-Hormuz-Kuwait-Qatar-Oman-CENTCOM-"
   }
 ]
