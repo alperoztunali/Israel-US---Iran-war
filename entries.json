@@ -1,5 +1,49 @@
 [
   {
+    "id": "a256cd5edaec",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T00:22",
+    "headline": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+    "excerpt": "Regional mediators are stepping up efforts to prevent further escalation between Iran and the US.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-12T03:59:08.499399+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss"
+  },
+  {
+    "id": "cdf1d12afdd6",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T00:00",
+    "headline": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+    "excerpt": "Explosions heard in the port cities of Bandar Abbas, Sirik, Chabahar, Bandar-e Deyr and Asaluyeh as US attacks continue.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-12T03:59:08.499429+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss"
+  },
+  {
+    "id": "47d92eb21aaf",
+    "source": "PressTV",
+    "date": "2026-07-12T03:59",
+    "headline": "IRGC, Iran Army pound US military sites in Jordan, Kuwait, and Bahrain after renewed American assaul",
+    "excerpt": "The IRGC says it has destroyed the command-and-control center and MQ-9 drone hangars at the US Prince Hassan Air Base in Jordan with ballistic missiles.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-12T03:59:10.173129+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772066/IRGC-pounds-US-command-center-MQ-9-drone-hangars-Jordan-Prince-Hassan-base"
+  },
+  {
+    "id": "0fbf14dba206",
+    "source": "PressTV",
+    "date": "2026-07-12T03:59",
+    "headline": "US renews aggression against Iran, despite IRGC warning",
+    "excerpt": "The US has resumed unwarranted acts of aggression against southern Iran, despite an earlier warning by the Islamic Revolution Guards Corps (IRGC) Navy.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-12T03:59:10.173176+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772065/United-States-attacks-Iran-IRGC-warning"
+  },
+  {
     "id": "f90eaee66bb6",
     "source": "Al Jazeera",
     "date": "2026-07-11T23:35",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-02T01:51:59.557619+00:00",
     "link": "https://presstv.ir/Detail/2026/07/02/771455/Qatar-talks-Iran-United-States"
-  },
-  {
-    "id": "6b3deb9f32d2",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T22:41",
-    "headline": "Iran football team welcomed home after World Cup exit",
-    "excerpt": "Iran’s football team has landed back in Tehran after their World Cup",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-01T23:44:38.224828+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-football-team-welcomed-home-after-world-cup-exit?traffic_source=rss"
-  },
-  {
-    "id": "c960f5dcc065",
-    "source": "PressTV",
-    "date": "2026-07-01T23:44",
-    "headline": "Israel ships 1-ton military consignment to Somalia under UN designation: Report",
-    "excerpt": "Senior regional strategic sources say a military shipment originating from the occupied territories was transported to Somalia under UN designation, according to a report.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-07-01T23:44:39.914226+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/01/771451/Israel-ships-one-ton-military-equipment-Somalia-United-Nations-office"
-  },
-  {
-    "id": "e78515215fc8",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T21:09",
-    "headline": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-    "excerpt": "The US and Israel have signed a deal allocating land for a permanent US embassy in West Jerusalem.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-01T22:06:08.579782+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss"
-  },
-  {
-    "id": "66738cebe21f",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T20:55",
-    "headline": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-    "excerpt": "Iran&#039;s Deputy FM Gharibabadi also says part of $6bn in frozen assets would be used to buy goods that Tehran needs.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-07-01T22:06:08.579835+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss"
   }
 ]
