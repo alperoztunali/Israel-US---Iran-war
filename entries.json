@@ -1,5 +1,27 @@
 [
   {
+    "id": "f90eaee66bb6",
+    "source": "Al Jazeera",
+    "date": "2026-07-11T23:35",
+    "headline": "Indian tourists killed after speedboat capsizes in Vietnam",
+    "excerpt": "Fifteen Indian tourists have died after their speedboat capsized off Vietnam’s Phu Quoc Island.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-12T00:03:39.855436+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss"
+  },
+  {
+    "id": "3d75e0623692",
+    "source": "PressTV",
+    "date": "2026-07-12T00:03",
+    "headline": "IRGC Navy: Strait of Hormuz closed until US ends regional intervention",
+    "excerpt": "The IRGC Navy announces the closure of the Strait of Hormuz “until further notice,” saying the waterway will remain closed until the United States ends its intervention in the region.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-07-12T00:03:41.280718+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/11/772063/Iran-closes-Strait-of-Hormuz-IRGC-warning-United-States"
+  },
+  {
     "id": "708c65065b6d",
     "source": "Al Jazeera",
     "date": "2026-07-11T19:25",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-01T22:06:08.579835+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss"
-  },
-  {
-    "id": "61bd448e7929",
-    "source": "PressTV",
-    "date": "2026-07-01T22:06",
-    "headline": "Reports of IAEA access to targeted nuclear sites 'false': Iran Parl. speaker",
-    "excerpt": "Iran's Parliament speaker and top negotiator rejects reports of access by IAEA inspectors to targeted nuclear sites.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-01T22:06:10.166059+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/01/771450/Iran-nuclear-access-IAEA-Qalibaf-Israel-United-States-talks"
-  },
-  {
-    "id": "d703242c2cbb",
-    "source": "Al Jazeera",
-    "date": "2026-07-01T20:14",
-    "headline": "Israeli opposition signal foreign policy change in style, but not substance",
-    "excerpt": "Israeli opposition criticise the means employed by Netanyahu, but cannot risk opposing his ends.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-01T20:29:36.008250+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/1/israeli-opposition-signal-foreign-policy-change-in-style-but-not-substance?traffic_source=rss"
   }
 ]
