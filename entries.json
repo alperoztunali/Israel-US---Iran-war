@@ -1,5 +1,71 @@
 [
   {
+    "id": "c7f24ac09bbf",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T21:33",
+    "headline": "Deadly Israeli strikes pound Gaza",
+    "excerpt": "Israel’s military has attacked several places across Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-12T21:58:19.029205+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss"
+  },
+  {
+    "id": "dd8d7647874f",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T21:26",
+    "headline": "Israel to hold national elections on October 27, parliament says",
+    "excerpt": "Netanyahu, Israel&#039;s longest-serving prime minister, has confirmed that he will run for office again.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-07-12T21:58:19.029259+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss"
+  },
+  {
+    "id": "6354e48a2624",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T21:12",
+    "headline": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+    "excerpt": "US senator Lindsey Graham, a key ally of Israel and one of Washington’s most prominent foreign policy hawks, has died.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-12T21:58:19.029302+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss"
+  },
+  {
+    "id": "0bc0fa07f7b4",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T21:09",
+    "headline": "The man who changed the Arab world",
+    "excerpt": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani has died at age 74.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-12T21:58:19.029335+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/the-man-who-changed-the-arab-world?traffic_source=rss"
+  },
+  {
+    "id": "bb365fa54834",
+    "source": "PressTV",
+    "date": "2026-07-12T21:58",
+    "headline": "Iran condemns US criminal aggression, vows to strike origins of attacks",
+    "excerpt": "Iran’s Ministry of Foreign Affairs has strongly condemned the criminal military aggression carried out by the United States against Iran over the past 24 hours.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-12T21:58:21.377293+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772126/Iran-condemns-US-barbaric-aggression,-vows-to-strike-origins-of-attacks"
+  },
+  {
+    "id": "4d8b41affde8",
+    "source": "PressTV",
+    "date": "2026-07-12T21:58",
+    "headline": "'Iran does not attack, it defends': FM spokesman slams US-Israeli warmongering",
+    "excerpt": "Iran's Ministry of Foreign Affairs has rejected Western narratives framing recent Iranian operations as unprovoked aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-12T21:58:21.377343+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772125/-Iran-does-not-attack,-it-defends---FM-spokesman-slams-US-Israeli-warmongering"
+  },
+  {
     "id": "76cee6f14e97",
     "source": "Al Jazeera",
     "date": "2026-07-12T20:14",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-03T10:14:44.424393+00:00",
     "link": "https://presstv.ir/Detail/2026/07/03/771524/Iran-Qalibaf-avenge-Leader-blood-free-Muslims"
-  },
-  {
-    "id": "2eb9def5cce9",
-    "source": "PressTV",
-    "date": "2026-07-03T10:14",
-    "headline": "Iran calls for Islamic security alliance against Israel in Turkey talks",
-    "excerpt": "Iran's acting defense minister has called for a joint security mechanism among Islamic countries, saying the presence of extra-regional forces has become a source of insecurity.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-07-03T10:14:44.424437+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771519/Islamic-security-mechanism-foreign-forces-fuel-insecurity-Iran-tells-Turkey"
-  },
-  {
-    "id": "434c57ac9938",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T04:25",
-    "headline": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
-    "excerpt": "Former Supreme Leader Ali Khamenei&#039;s coffin has been readied as Iran prepares for seven-day funeral.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-03T07:27:39.391406+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss"
-  },
-  {
-    "id": "ca16c527c396",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T04:18",
-    "headline": "Mapping Iran’s Ali Khamenei funeral: Where mourners will gather each day",
-    "excerpt": "Funeral processions for Iran&#039;s late supreme leader will take place between July 3-9 across Iran and Iraq.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-03T07:27:39.391458+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/mapping-irans-ali-khamenei-funeral-where-mourners-will-gather-each-day?traffic_source=rss"
-  },
-  {
-    "id": "28c7ddce8da3",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T03:48",
-    "headline": "Papua rebels claim to have killed US pilot in Indonesia",
-    "excerpt": "A US pilot has been killed in Indonesia’s Papua region after separatist rebels said they shot him.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-03T07:27:39.391496+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/papua-rebels-claim-to-have-killed-us-pilot-in-indonesia?traffic_source=rss"
-  },
-  {
-    "id": "9a20814a5318",
-    "source": "PressTV",
-    "date": "2026-07-03T07:27",
-    "headline": "Iran begins funeral ceremonies for martyred Leader Ayatollah Khamenei",
-    "excerpt": "Iran has begun the first stage of funeral ceremonies for the martyred Leader of the Islamic Revolution.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-03T07:27:40.998870+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771508/Funeral-martyred-Leader-begins-Tehran"
-  },
-  {
-    "id": "cd81d251fb47",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T03:01",
-    "headline": "Iran warns ships against using unapproved routes in Strait of Hormuz",
-    "excerpt": "Military command issues threat a day after Qatari mediators hailed &#039;positive progress&#039; in indirect US-Iranian talks.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-03T03:47:11.536333+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/3/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz?traffic_source=rss"
   }
 ]
