@@ -1,5 +1,82 @@
 [
   {
+    "id": "0a8488332e64",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T06:01",
+    "headline": "Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar",
+    "excerpt": "The Father Emir oversaw the meteoric rise of the small gas-rich nation.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-12T06:42:57.646004+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss"
+  },
+  {
+    "id": "c3007e8f073f",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T05:15",
+    "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+    "excerpt": "Sheikh Hamad, who ruled Qatar from 1995 to 2013, was a key architect of the energy-rich country&#039;s development.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-12T06:42:57.646049+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss"
+  },
+  {
+    "id": "6e77bc4b0942",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T05:07",
+    "headline": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
+    "excerpt": "US forces have launched a third round of strikes on Iran in a week.",
+    "category": "Movement",
+    "location": "Tehran",
+    "addedAt": "2026-07-12T06:42:57.646073+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "ed95259f6609",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T04:59",
+    "headline": "Iran launches attacks across the Gulf after more US strikes",
+    "excerpt": "Iran says it launched missile attacks on US military sites in Bahrain, Kuwait, Jordan and Qatar.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-12T06:42:57.646090+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss"
+  },
+  {
+    "id": "37ee72967662",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T00:00",
+    "headline": "Iran war live: Tehran attacks Jordan, Gulf states after US bombardment",
+    "excerpt": "Iran targets Jordan and Gulf states after US bombs Iranian cities including Bandar Abbas, Sirik and Chabahar",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-07-12T06:42:57.646111+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss"
+  },
+  {
+    "id": "76a3df1ef065",
+    "source": "PressTV",
+    "date": "2026-07-12T06:42",
+    "headline": "Iran pounds several regional US military sites after renewed American assaults",
+    "excerpt": "The IRGC says it has destroyed the command-and-control center and MQ-9 drone hangars at the US Prince Hassan Air Base in Jordan with ballistic missiles.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-12T06:42:59.503105+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772066/IRGC-pounds-US-command-center-MQ-9-drone-hangars-Jordan-Prince-Hassan-base"
+  },
+  {
+    "id": "657e46897b23",
+    "source": "PressTV",
+    "date": "2026-07-12T06:42",
+    "headline": "‘Keep your word or pay the price’ of reneging on promises: Iran warns US",
+    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf warns the United States that it should honor its promises or pay the price for violating its commitments under a war-ending deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-12T06:42:59.503145+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772073/Iran-Qalibaf-warns-US-pay-price"
+  },
+  {
     "id": "a256cd5edaec",
     "source": "Al Jazeera",
     "date": "2026-07-12T00:22",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-02T09:33:22.108164+00:00",
     "link": "https://presstv.ir/Detail/2026/07/02/771462/Iran-region-security-US-militray-umbrella"
-  },
-  {
-    "id": "b8d890b1efd9",
-    "source": "PressTV",
-    "date": "2026-07-02T09:33",
-    "headline": "‘Eyes of history are on Iran’: Qalibaf urges mass turnout for martyred Leader’s funeral",
-    "excerpt": "Qalibaf calls on the Iranian nation to attend the upcoming funeral ceremonies for Ayatollah Seyyed Ali Khamenei and demand vengeance for his blood.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-02T09:33:22.108197+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/02/771475/Qalibaf-Iranians-funeral-martyred-Leader"
-  },
-  {
-    "id": "f314963c0b81",
-    "source": "PressTV",
-    "date": "2026-07-02T09:33",
-    "headline": "Israel's sinister plot to pit Lebanese army against Hezollah won't materialize: Berri",
-    "excerpt": "The Lebanese parliament speaker says Israel's sinister plot aimed at pitting the army against the Hezbollah resistance movement won't materialize.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-02T09:33:22.108232+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/02/771467/Berri-Israel-sinister-plot-to-pit-Lebanese-army-against-Hezollah-wont-materialize"
-  },
-  {
-    "id": "d3cf827692fd",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T05:17",
-    "headline": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
-    "excerpt": "Brent falls below $71 a barrel amid reports of progress in talks to end the war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-02T06:04:29.085906+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "3516d0fa1541",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T02:15",
-    "headline": "At least 8 killed in Kyiv after Zelenskyy warns of ‘massive Russian strike’",
-    "excerpt": "At least eight dead and dozens injured as Ukraine&#039;s forces defend against ballistic missiles, drones targeting capital.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-02T06:04:29.085952+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss"
-  },
-  {
-    "id": "a5b518d67fdc",
-    "source": "PressTV",
-    "date": "2026-07-02T06:04",
-    "headline": "600 foreign journalists to cover funeral of martyred Ayatollah Khamenei: Minister",
-    "excerpt": "The Iranian culture minister says some 600 foreign journalists and media representatives will cover the upcoming funeral ceremonies for martyr Ayatollah Khamenei.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-02T06:04:30.687935+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/02/771461/Iran-Khamenei-funeral-reporters"
-  },
-  {
-    "id": "c90fce871dca",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T00:00",
-    "headline": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
-    "excerpt": "Tehran says a &#039;communication channel&#039; will be established with Washington to report and discuss breaches of the MoU.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-07-02T01:51:57.771601+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss"
-  },
-  {
-    "id": "746ec236ebd1",
-    "source": "PressTV",
-    "date": "2026-07-02T01:51",
-    "headline": "Qatar announces conclusion of Doha talks with Iranian, US delegations",
-    "excerpt": "Qatar announces conclusion of separate talks between Qatari and Pakistani mediators and Iranian and US delegations in Doha.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-02T01:51:59.557619+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/02/771455/Qatar-talks-Iran-United-States"
   }
 ]
