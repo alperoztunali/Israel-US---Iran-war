@@ -1,5 +1,82 @@
 [
   {
+    "id": "bca6d3a2d719",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T07:58",
+    "headline": "US CENTCOM completes third round of strikes on Iran",
+    "excerpt": "US CENTCOM completes third round of strikes on Iran",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-12T08:55:04.668087+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "8e6fb62b7e56",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T07:53",
+    "headline": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
+    "excerpt": "Three people injured by falling shrapnel in Qatar as attacks also reported in UAE, Kuwait, Bahrain, Oman and Jordan.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-12T08:55:04.668114+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "be6bfc2232f6",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T07:08",
+    "headline": "IRGC vows ‘crushing response’ to any further US attacks",
+    "excerpt": "IRGC vows ‘crushing response’ to any further US attacks",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-12T08:55:04.668146+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-vows-crushing-response-to-any-further-us-attacks?traffic_source=rss"
+  },
+  {
+    "id": "705c42c13e1b",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T06:27",
+    "headline": "Lindsey Graham, one of Israel’s strongest US Senate allies, dies at 71",
+    "excerpt": "The US Republican senator died of a sudden illness, his office said. He was 71.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-07-12T08:55:04.668171+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss"
+  },
+  {
+    "id": "d6b1947705b6",
+    "source": "PressTV",
+    "date": "2026-07-12T08:55",
+    "headline": "Iran stands ‘resolutely’ to establish own arrangement in Hormuz Strait: Army",
+    "excerpt": "Iran’s Army voices the readiness of the entire armed Forces to defend the nation’s rights and establish the arrangement envisioned by the country in the Strait of Hormuz.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-12T08:55:06.447377+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772076/Iran-establish-own-arrangements-Strait-Hormuz-"
+  },
+  {
+    "id": "920a666f339a",
+    "source": "PressTV",
+    "date": "2026-07-12T08:55",
+    "headline": "Iran, Oman agree to continue talks on Hormuz Strait security: FM spox",
+    "excerpt": "Iran and Oman have agreed to continue political and technical negotiations aimed at reaching a common understanding on ensuring maritime security in the Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-12T08:55:06.447405+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772078/Tehran,-Muscat-to-continue-political,-technical-negotiations-on-Hormuz-Strait-shipping-security"
+  },
+  {
+    "id": "ef9b7e621104",
+    "source": "PressTV",
+    "date": "2026-07-12T08:55",
+    "headline": "Four Israeli settlers arrested for attacking CNN crew in West Bank",
+    "excerpt": "Four illegal Israeli settlers are arrested for an attack on CNN crew in the occupied West Bank, Palestine.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-12T08:55:06.447427+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772075/Four-Israeli-settlers-arrested-for-attacking-CNN-crew-in-West-Bank"
+  },
+  {
     "id": "0a8488332e64",
     "source": "Al Jazeera",
     "date": "2026-07-12T06:01",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-02T09:33:20.663540+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next?traffic_source=rss"
-  },
-  {
-    "id": "15bf44c8e98b",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T09:05",
-    "headline": "Billions flow between EU institutions and Israel, despite Gaza genocide",
-    "excerpt": "EU departments and some universities, including in Spain, are still spending on Israeli companies.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-02T09:33:20.663590+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/2/billions-flow-between-eu-institutions-and-israel-despite-gaza-genocide?traffic_source=rss"
-  },
-  {
-    "id": "ed83f809c541",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T08:36",
-    "headline": "Two reported killed, dozens hurt in hospital fire in Germany",
-    "excerpt": "At least 34 injured after fire at the only hospital in the town of Ludwigslust; probe into the blaze is ongoing.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-02T09:33:20.663651+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/2/two-reported-killed-dozens-hurt-in-hospital-fire-in-germany?traffic_source=rss"
-  },
-  {
-    "id": "de553f28d316",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T08:06",
-    "headline": "‘The crisis is deep’: The view from Russia as fuel shortages worsen",
-    "excerpt": "Officials are rationing fuel as Ukrainian strikes on refineries imperil supply.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-02T09:33:20.663698+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss"
-  },
-  {
-    "id": "31336de63461",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T06:52",
-    "headline": "More than 900 arrested during South Africa’s antimigrant protests",
-    "excerpt": "Wave of arrests made across South Africa as xenophobic tensions erupt into nationwide marches.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-02T09:33:20.663743+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/2/more-than-900-arrested-during-south-africas-antimigrant-protests?traffic_source=rss"
-  },
-  {
-    "id": "7cb7f1b78c39",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T05:40",
-    "headline": "Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says",
-    "excerpt": "De ​facto US ambassador Raymond Greene says drones represent a &#039;game-changing opportunity&#039; to enhance Taiwan&#039;s security.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-02T09:33:20.663783+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/2/taiwan-needs-to-become-a-hornets-nest-of-drones-us-diplomat-says?traffic_source=rss"
-  },
-  {
-    "id": "ba17b0a386ac",
-    "source": "PressTV",
-    "date": "2026-07-02T09:33",
-    "headline": "Iran’s top general warns US, Israel against ‘miscalculation’ ahead of Leader’s funeral",
-    "excerpt": "The commander of Iran’s highest operational command unit says the Armed Forces stand ready to give a harsh response to any \"miscalculation\" by the US, Israel and their allies.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-07-02T09:33:22.108115+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/02/771473/Iran-Khatam-Abdollahi-miscalculation"
-  },
-  {
-    "id": "d1a37fb42439",
-    "source": "PressTV",
-    "date": "2026-07-02T09:33",
-    "headline": "West Asia security not possible under US military umbrella: Iran deputy FM",
-    "excerpt": "Iran’s Deputy Foreign Minister Gharibabadi emphasizes security in West Asia will be possible through the United States withdrawal from the region.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-07-02T09:33:22.108164+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/02/771462/Iran-region-security-US-militray-umbrella"
   }
 ]
