@@ -1,5 +1,49 @@
 [
   {
+    "id": "0ffff6589b78",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T15:16",
+    "headline": "Israeli forces kill five Palestinians in latest attacks on Gaza",
+    "excerpt": "Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-12T15:34:44.893886+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "b2cfbbdcf6a4",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T14:42",
+    "headline": "The architect of Qatari autonomy",
+    "excerpt": "Sheikh Hamad bin Khalifa Al Thani made Qatar safe by making it relevant.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-12T15:34:44.893933+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/12/the-architect-of-qatari-autonomy?traffic_source=rss"
+  },
+  {
+    "id": "486941cc88db",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T14:12",
+    "headline": "Driven by desperation: Yemenis resort to dangerous energy alternatives",
+    "excerpt": "Solar energy systems are a good alternative to help Yemenis access electricity but there are hidden dangers.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-07-12T15:34:44.893968+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss"
+  },
+  {
+    "id": "7d571da7c40e",
+    "source": "PressTV",
+    "date": "2026-07-12T15:34",
+    "headline": "Iran president, FM offer condolences over death of former Emir of Qatar, Sheikh Hamad",
+    "excerpt": "Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi have expressed condolences on the passing of Sheikh Hamad bin Khalifa Al Thani, the former Emir of Qatar.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-12T15:34:46.905663+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772102/Qatar-hamad-bin-khalifa-dies"
+  },
+  {
     "id": "23fc8b25bed5",
     "source": "Al Jazeera",
     "date": "2026-07-12T13:08",
@@ -5454,49 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-07-02T18:15:13.940286+00:00",
     "link": "https://presstv.ir/Detail/2026/07/02/771496/Iraq-Faily-Kurds-funeral-procession-Ayatollah-Seyyed-Ali-Khamenei-Najaf-Karbala"
-  },
-  {
-    "id": "87cb6bee4bf3",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T15:30",
-    "headline": "Into the Darkness",
-    "excerpt": "Fault Lines investigates allegations of systematic torture of Palestinian prisoners and detainees in Israeli custody.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-02T16:20:46.794686+00:00",
-    "link": "https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss"
-  },
-  {
-    "id": "330c515343d5",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T14:15",
-    "headline": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
-    "excerpt": "Iranian oil shipping magnate Mohammad Hossein Shamkhani has been sanctioned by the West over his shadow fleet.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-02T16:20:46.794749+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "46112eeb2c3a",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T12:49",
-    "headline": "Syria explosion updates: Bomb blast kills 5 people in Damascus",
-    "excerpt": "⁠An improvised explosive device detonates in a popular ​Damascus cafe as Syrian security forces hunt for attackers.",
-    "category": "Airstrike",
-    "location": "Syria",
-    "addedAt": "2026-07-02T16:20:46.794790+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/2/syria-explosion-live-blast-rocks-damascus-as-authorities-investigate-cause?traffic_source=rss"
-  },
-  {
-    "id": "12e914aee4c2",
-    "source": "Al Jazeera",
-    "date": "2026-07-02T12:32",
-    "headline": "At least six killed in explosion inside central Damascus cafe",
-    "excerpt": "Blast at a cafe reportedly kills five people and injures many more.",
-    "category": "Casualties",
-    "location": "Damascus",
-    "addedAt": "2026-07-02T16:20:46.794816+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/2/explosion-heard-in-syrias-capital-damascus-state-media?traffic_source=rss"
   }
 ]
