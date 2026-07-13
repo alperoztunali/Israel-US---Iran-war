@@ -1,5 +1,49 @@
 [
   {
+    "id": "55a1ba5ed9e1",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T18:57",
+    "headline": "UK designates IRGC as terrorist organisation",
+    "excerpt": "The UK government has designated Iran’s Revolutionary Guard Corps (IRGC) as a terrorist organisation under new powers.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-13T19:50:31.468055+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/uk-designates-irgc-as-terrorist-organisation?traffic_source=rss"
+  },
+  {
+    "id": "cf8a77ff603f",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T18:08",
+    "headline": "UK to list Iran’s IRGC as ‘terror’ threat",
+    "excerpt": "London debuts new powers targeting state proxies after accusing Iranian outfit of engineering anti-Semitic attacks.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-13T19:50:31.468114+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/uk-to-list-irans-irgc-as-terror-threat?traffic_source=rss"
+  },
+  {
+    "id": "df1e62b58674",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T15:25",
+    "headline": "Iraqi PM arrives in US seeking balance between security and economy",
+    "excerpt": "PM Ali al-Zaidi to hold talks with Trump, with energy investment and role of pro-Iran groups likely to dominate agenda.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-13T19:50:31.468165+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/iraqi-pm-heads-to-us-seeking-balance-between-security-and-economy?traffic_source=rss"
+  },
+  {
+    "id": "ed20692d879c",
+    "source": "PressTV",
+    "date": "2026-07-13T19:50",
+    "headline": "Iran condemns Saudi attack on Sana’a airport as breach of law, Yemen’s sovereignty",
+    "excerpt": "Iran condemns Saudi Arabia’s bombing of Sana'a International Airport, saying the assault violates international law and Yemen's national sovereignty.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-13T19:50:33.134519+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/13/772188/Iran-condemns-Saudi-strike-Yemen-Sana-a-airport"
+  },
+  {
     "id": "e6beea11872a",
     "source": "Al Jazeera",
     "date": "2026-07-13T17:33",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-04T11:53:19.447684+00:00",
     "link": "https://presstv.ir/Detail/2026/07/04/771596/Iran%E2%80%99s-Intelligence-Ministry-avenge-martyred-Leader-s-blood"
-  },
-  {
-    "id": "978d9b6b6c3c",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T09:35",
-    "headline": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
-    "excerpt": "Thousands of mourners attended the public grand procession of Iran’s late Supreme Leader Khamenei in Tehran.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-04T10:26:26.382741+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/thousands-gather-as-khamenei-funeral-ceremonies-open-in-tehran?traffic_source=rss"
-  },
-  {
-    "id": "db21db06e7f3",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T09:14",
-    "headline": "Armed fighters attack multiple towns across Mali",
-    "excerpt": "Tuareg-led armed ⁠group says it attacked northern town where Malian troops and Russian fighters are based.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-07-04T10:26:26.382785+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss"
-  },
-  {
-    "id": "31c5add8faa5",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T08:59",
-    "headline": "Saudi-led coalition pledges ‘unprecedented’ force against Houthi threats",
-    "excerpt": "Threats escalate after Houthis block Saudi warplanes, allowing Iranian plane to land in Sanaa for first time in decade.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-04T10:26:26.382811+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss"
-  },
-  {
-    "id": "88c9e30be1e4",
-    "source": "PressTV",
-    "date": "2026-07-04T10:26",
-    "headline": "Iran warns any military adventurism in Strait of Hormuz will have consequences",
-    "excerpt": "Iran warns that any military adventurism in the Strait of Hormuz will have consequences, stressing that security in the waterway is the responsibility of coastal states.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-04T10:26:28.194857+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771588/Iran-warns-military-adventurism-Strait-Hormuz-consequences"
   }
 ]
