@@ -1,5 +1,71 @@
 [
   {
+    "id": "0c5278aa77d1",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T05:39",
+    "headline": "Sheikh Hamad: The Arab leader who broke Israel’s siege on Gaza",
+    "excerpt": "A look at Sheikh Hamad bin Khalifa Al Thani&#039;s enduring legacy of solidarity and support for the Palestinian people.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-13T07:40:13.276386+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/sheikh-hamad-the-arab-leader-who-broke-israels-siege-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "0cabeaa949ac",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T05:18",
+    "headline": "How former Emir Sheikh Hamad bin Khalifa Al Thani built Qatar’s economy",
+    "excerpt": "Sheikh Hamad, who passed away aged 74 on Sunday, reshaped Qatar&#039;s economy by building lasting wealth and growth.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-13T07:40:13.276441+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/how-former-emir-sheikh-hamad-bin-khalifa-al-thani-built-qatar-economy?traffic_source=rss"
+  },
+  {
+    "id": "5d431d5fe810",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T05:15",
+    "headline": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
+    "excerpt": "Iran launches attacks on Gulf states, targeting US military assets in Bahrain, Kuwait, and Jordan.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-13T07:40:13.276477+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss"
+  },
+  {
+    "id": "26bdda597e73",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T05:06",
+    "headline": "Elderly Palestinian describes being beaten up by Israeli settlers",
+    "excerpt": "Israeli settlers assaulted 79-year-old Ibrahim al-Jabour and his family in Masafer Yatta in the Occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-13T07:40:13.276512+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_elderly-palestinian-beaten-up-by-israeli-settlers-130726?traffic_source=rss"
+  },
+  {
+    "id": "b5c01bceda69",
+    "source": "PressTV",
+    "date": "2026-07-13T07:40",
+    "headline": "‘You failed to learn your lessons’: IRGC hits US targets across region in retaliation",
+    "excerpt": "The IRGC announces wreaking destruction on several key US military targets in Kuwait, Bahrain, and Oman in follow-up retaliation.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-07-13T07:40:15.123494+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/13/772139/Iran-United-States-IRGC-strikes-Kuwait-Bahrain-Oman"
+  },
+  {
+    "id": "a940c8f69000",
+    "source": "PressTV",
+    "date": "2026-07-13T07:40",
+    "headline": "Iran Army launches retaliatory drone attack on US positions in Kuwait",
+    "excerpt": "Iran’s Army carries out drone strikes targeting US military positions in Kuwait in response to renewed American attacks against the country.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-13T07:40:15.123528+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/13/772134/Iran-Army-Kuwait-US"
+  },
+  {
     "id": "ba6c1bccf52f",
     "source": "Al Jazeera",
     "date": "2026-07-13T02:58",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-03T14:52:41.925305+00:00",
     "link": "https://presstv.ir/Detail/2026/07/03/771544/Iran-strongly-condemns-US-%E2%80%98unforgivable-crime%E2%80%99-on-anniversary-of-Iran-Air-Flight-655-downing"
-  },
-  {
-    "id": "e307b4a64b87",
-    "source": "PressTV",
-    "date": "2026-07-03T14:52",
-    "headline": "Top commander says martyred Leader’s defense strategy delivered battlefield victory",
-    "excerpt": "The power of the country’s armed forces has been showcased to the entire world, says Iran Police Chief.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-03T14:52:41.925329+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771539/Power-Iran-armed-forces-revealed-"
-  },
-  {
-    "id": "3fb88b1fe715",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T12:00",
-    "headline": "Mourners pay respects as Iran’s slain leader Ali Khamenei laid in state",
-    "excerpt": "Iran begins seven-day state funeral for late ayatollah as some 100 foreign delegations arrive under a tense ceasefire",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-03T12:21:29.370066+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/mourners-pay-respects-as-irans-slain-leader-ali-khamenei-laid-in-state?traffic_source=rss"
-  },
-  {
-    "id": "95541f8ec695",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T10:38",
-    "headline": "Russia’s triumphant tone shifts as Ukraine deploys ‘asymmetrical tactics’",
-    "excerpt": "Putin wobbles as Russia&#039;s top brass stays mum on Kyiv&#039;s long-range strikes, which analysts say look set to continue.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-03T12:21:29.370130+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/russias-triumphant-tone-shifts-as-ukraine-deploys-asymmetrical-tactics?traffic_source=rss"
-  },
-  {
-    "id": "20b94d239057",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T09:59",
-    "headline": "Israel approves plan to establish 13 new settlements in occupied West Bank",
-    "excerpt": "Palestinian officials warn against the implications of the plan, saying it would further isolate East Jerusalem.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-03T12:21:29.370164+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/israel-approves-plan-to-establish-13-new-settlements-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "63b9b68bc921",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T09:26",
-    "headline": "Five killed in Ukraine a day after deadliest Russian attacks this year",
-    "excerpt": "Separately, at least 10 people killed in Ukrainian attacks on Russia and Russian-controlled areas.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-03T12:21:29.370192+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss"
-  },
-  {
-    "id": "af11ed5ea0de",
-    "source": "PressTV",
-    "date": "2026-07-03T12:21",
-    "headline": "Iran begins funeral ceremonies for martyred Leader as foreign dignitaries pay their respects",
-    "excerpt": "Iran has begun the first stage of funeral ceremonies for the martyred Leader of the Islamic Revolution.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-03T12:21:31.010106+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771508/Funeral-martyred-Leader-begins-Tehran"
   }
 ]
