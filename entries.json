@@ -1,5 +1,93 @@
 [
   {
+    "id": "ba6c1bccf52f",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T02:58",
+    "headline": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
+    "excerpt": "Brent crude climbs more than 4 percent as Washington and Tehran clash over control of critical waterway.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-13T04:01:54.926333+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "a4b2e595657d",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T02:10",
+    "headline": "Israel releases video of hidden tunnels below Lebanon’s Beaufort Castle",
+    "excerpt": "The Israeli Army has released footage of what it says are hidden tunnels under Lebanon’s historic Beaufort Castle.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-13T04:01:54.926390+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/israel-releases-video-of-hidden-tunnels-below-lebanons-beaufort-castle?traffic_source=rss"
+  },
+  {
+    "id": "132556fc226a",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T01:27",
+    "headline": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
+    "excerpt": "At least 27 people were killed and 63 injured, many critically, after a fire ripped through a popular pub in Bangkok.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-13T04:01:54.926426+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss"
+  },
+  {
+    "id": "1d7b1c48a014",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T00:54",
+    "headline": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
+    "excerpt": "Military manufacturing may be growing, but defence sovereignty depends on far more than production.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-13T04:01:54.926461+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss"
+  },
+  {
+    "id": "526c2a9e841a",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T00:22",
+    "headline": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+    "excerpt": "The US has launched a new wave of strikes on Iran targeting Tehran&#039;s ability to threaten shipping in the strait.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-07-13T04:01:54.926493+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss"
+  },
+  {
+    "id": "795265db54d2",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T00:00",
+    "headline": "Iran war live: Tehran attacks Bahrain, Kuwait, Jordan after US bombings",
+    "excerpt": "Iranian state media report explosions in port cities of Bandar Abbas, Sirik and Jask, as well as Qeshm Island.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-07-13T04:01:54.926518+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss"
+  },
+  {
+    "id": "059f71060417",
+    "source": "PressTV",
+    "date": "2026-07-13T04:01",
+    "headline": "IRGC: Fuel depots, ammunition storage facilities at US base in Jordan set on fire",
+    "excerpt": "The Islamic Revolution Guard Corps (IRGC) has announced the successful targeting of fuel depots and ammunition storage facilities at Jordan’s Prince Hassan Air Base.",
+    "category": "Statement",
+    "location": "Jordan",
+    "addedAt": "2026-07-13T04:01:57.485675+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/13/772130/IRGC--Fuel-depots,-ammunition-storage-facilities-at-US-base-in-Jordan-set-on-fire"
+  },
+  {
+    "id": "a5e2c2229db5",
+    "source": "PressTV",
+    "date": "2026-07-13T04:01",
+    "headline": "Iran must predefine 'regret-inducing' response to any threat against Leader: Deputy FM",
+    "excerpt": "Kazem Gharibabadi has called on the Supreme National Security Council or the Parliament to enact a practical regulation that would predetermine Iran’s decisive and “regret-inducing” response to any assassination attempt targeting the Leader of the Islamic Revolution.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-13T04:01:57.485744+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/13/772128/Iran-must-predefine--crushing-and-regret-inducing--response-to-any-threat-against-Supreme-Leader--Deputy-FM"
+  },
+  {
     "id": "9b2db208ac7e",
     "source": "Al Jazeera",
     "date": "2026-07-12T23:03",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-03T12:21:31.010106+00:00",
     "link": "https://presstv.ir/Detail/2026/07/03/771508/Funeral-martyred-Leader-begins-Tehran"
-  },
-  {
-    "id": "2a334a9b3dd2",
-    "source": "PressTV",
-    "date": "2026-07-03T12:21",
-    "headline": "Qalibaf: Iran will not let US interfere in Hormuz, US-Israeli war failed",
-    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf said that Tehran would not allow any US intervention in the Strait of Hormuz.",
-    "category": "Statement",
-    "location": "Tehran",
-    "addedAt": "2026-07-03T12:21:31.010142+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771525/Iran-will-not-let-US-interfere-in-Strait-of-Hormuz"
-  },
-  {
-    "id": "7847244ed189",
-    "source": "PressTV",
-    "date": "2026-07-03T12:21",
-    "headline": "Iran vows vengeance for Martyr Leader as dignitaries arrive for funeral",
-    "excerpt": "Iran’s Parliament Speaker Mohammad Baqer Qalibaf says avenging the blood of the martyred Leader of the Islamic Revolution is tantamount to liberating Muslims from the US-Israeli oppression.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-03T12:21:31.010169+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771524/Iran-Qalibaf-avenge-Leader-blood-free-Muslims"
-  },
-  {
-    "id": "13ea1fc58d93",
-    "source": "PressTV",
-    "date": "2026-07-03T12:21",
-    "headline": "Iraq's leaders flock to Tehran for funeral as Iran hails solidarity",
-    "excerpt": "Iran's president and parliament speaker has thanked Iraq for its solidarity during the recent US-Israeli war and called for deeper cooperation between the two neighbors.",
-    "category": "Statement",
-    "location": "Tehran",
-    "addedAt": "2026-07-03T12:21:31.010202+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771530/Iran-Iraq-stand-by-each-other-Qalibaf"
-  },
-  {
-    "id": "634a3f87c052",
-    "source": "PressTV",
-    "date": "2026-07-03T12:21",
-    "headline": "Enemies will 'take to their graves' dream of Iran’s surrender: IRGC deputy commander",
-    "excerpt": "A senior commander of Iran's Islamic Revolution Guards Corps (IRGC) said Saturday that Iran's enemies would “take to their graves” the hope of seeing the Iranian nation surrender.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-03T12:21:31.010239+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771532/Enemies-take-graves-dream-Iran-surrender-IRGC"
-  },
-  {
-    "id": "e05877a56fc5",
-    "source": "PressTV",
-    "date": "2026-07-03T12:21",
-    "headline": "IRGC warns of response ‘more crushing than ever’ to enemy miscalculation",
-    "excerpt": "The Islamic Revolution Guards Corps warns that any enemy miscalculation against Iran will be met with a response “more crushing than ever”.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-03T12:21:31.010270+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771529/Iran-IRGC-crushing-response-enemy-miscalculation"
-  },
-  {
-    "id": "7d35d9a41699",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T09:26",
-    "headline": "Four killed in Ukraine a day after deadliest Russian attacks this year",
-    "excerpt": "At least two people were separately killed in Ukrainian attacks on Russia&#039;s border regions.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-03T10:14:42.742916+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss"
-  },
-  {
-    "id": "f5ce247238b2",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T08:20",
-    "headline": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says",
-    "excerpt": "Greek former parliamentarian Stelios Kouloglou targeted with Pegasus software, Citizen Lab analysis finds.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-03T10:14:42.742964+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/3/eu-lawmaker-investigating-surveillance-hacked-by-israeli-spyware-report-says?traffic_source=rss"
-  },
-  {
-    "id": "4bcd8793470e",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T08:04",
-    "headline": "Iran’s Khamenei funeral: Which world leaders are attending?",
-    "excerpt": "Several heads of state and other government officials will gather in Tehran for Khamenei&#039;s state funeral.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-03T10:14:42.743008+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending?traffic_source=rss"
   }
 ]
