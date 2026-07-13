@@ -1,5 +1,82 @@
 [
   {
+    "id": "e6beea11872a",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T17:33",
+    "headline": "Staff at DR Congo Ebola centre strike as virus continues spreading",
+    "excerpt": "Walkout over late payments comes as public health officials confirm that the virus has reached two more provinces.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-13T18:02:08.252838+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/staff-at-congo-ebola-centre-strike-as-virus-continues-spreading?traffic_source=rss"
+  },
+  {
+    "id": "dca8f1bc7c15",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T16:28",
+    "headline": "EU unveils $1bn fund for Gaza war recovery",
+    "excerpt": "The scheme falls critically short of the $71bn reportedly needed for Gaza&#039;s recovery over the next 10 years.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-13T18:02:08.252872+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss"
+  },
+  {
+    "id": "6fc4a676f665",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T16:11",
+    "headline": "Person killed in shooting involving ICE agents in US state of Maine",
+    "excerpt": "State lawmaker says one person was killed by immigration agents in Biddeford, days after another ICE shooting in Texas.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-13T18:02:08.252894+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/person-killed-in-shooting-involving-ice-agents-in-us-state-of-maine?traffic_source=rss"
+  },
+  {
+    "id": "e06cd1387a73",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T16:10",
+    "headline": "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
+    "excerpt": "The US Treasury Department posted the new directive on its website on Monday.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-07-13T18:02:08.252916+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/13/us-imposes-new-sanctions-on-cuba-tourism-ministry-state-owned-companies?traffic_source=rss"
+  },
+  {
+    "id": "03ce9b4e9cea",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T15:41",
+    "headline": "Trump: US will ‘take over’ Strait of Hormuz",
+    "excerpt": "President Donald Trump has said the US will ‘take over’ the Strait of Hormuz, accusing Iran of breaking the deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-13T18:02:08.252937+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/trump-us-will-take-over-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "70a149224e10",
+    "source": "PressTV",
+    "date": "2026-07-13T18:02",
+    "headline": "Iran will not retreat from defending ‘irreplaceable’ Strait of Hormuz: Leader’s advisor",
+    "excerpt": "Iran’s former vice president says the Islamic Republic will keep controlling the Strait of Hormuz as an irreplaceable treasure.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-13T18:02:09.840109+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/13/772170/Iran-Hormuz-Strait-control-policy-Mokhber"
+  },
+  {
+    "id": "621e31750f37",
+    "source": "PressTV",
+    "date": "2026-07-13T18:02",
+    "headline": "Yemen threatens to close Bab al-Mandeb Strait, warns of $200 a barrel oil",
+    "excerpt": "Yemen threatens to close the Bab al-Mandeb Strait if Saudi Arabia continues to hit the Arab nation’s vital infrastructure, warning that the cost of a barrel of oil could reach $200 in such a case.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-07-13T18:02:09.840148+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/13/772185/Yemen-threatens-to-close-Bab-al-Mandeb-Strait,-warns-of--200-a-barrel-oil-amid-Saudi-aggression"
+  },
+  {
     "id": "f303a184e704",
     "source": "Al Jazeera",
     "date": "2026-07-13T15:25",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-04T10:26:28.194857+00:00",
     "link": "https://presstv.ir/Detail/2026/07/04/771588/Iran-warns-military-adventurism-Strait-Hormuz-consequences"
-  },
-  {
-    "id": "9c6363fd6eb0",
-    "source": "PressTV",
-    "date": "2026-07-04T10:26",
-    "headline": "Divine retribution against US, Israel not far off: IRGC Navy chief",
-    "excerpt": "The IRGC navy commander says Iran’s armed forces have pledged to continue the path of martyred leader of the Islamic Revolution.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-04T10:26:28.194892+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771593/IRGC-navy-commander--Divine-retribution-against--terrorist--US,--illegitimate--Israel,-near-"
-  },
-  {
-    "id": "4b39c665b27b",
-    "source": "PressTV",
-    "date": "2026-07-04T10:26",
-    "headline": "D-8, OPEC heads extend condolences to Iran over martyrdom of Leader",
-    "excerpt": "The heads of the D-8 Organization and OPEC have extended condolences to Iran over the martyrdom of its late Leader, Ayatollah Seyyed Ali Khamenei, expressing solidarity with the Iranian people and reaffirming continued engagement with the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-04T10:26:28.194930+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771591/Iran-D-8-Secretary-General-OPEC-convey-condolences-martyrdom-Late-Leader-reaffirm-solidarity-Iranian-people-funeral-ceremonies"
-  },
-  {
-    "id": "0a6648a614fb",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T05:41",
-    "headline": "Could Israel really build settlements in Gaza?",
-    "excerpt": "After a genocidal war and famine, leading Israeli politicians say they are now ready to settle Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-04T08:10:47.489030+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "c3612cad167a",
-    "source": "PressTV",
-    "date": "2026-07-04T08:10",
-    "headline": "Qalibaf lauds Pakistan for support during US-Israeli aggression",
-    "excerpt": "Qalibaf has expressed gratitude for Pakistan’s support during the US-Israeli aggression in talks with Pakistan’s Senate chairman in Tehran.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-07-04T08:10:49.412039+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771584/Qalibaf-lauds-Pakistan-for-support-during-US-Israeli-aggression"
-  },
-  {
-    "id": "600f9fee5b9b",
-    "source": "PressTV",
-    "date": "2026-07-04T05:23",
-    "headline": "Farewell ceremony for martyred Leader officially begins in Tehran",
-    "excerpt": "The farewell ceremony for the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, begins at Tehran's Grand Imam Khomeini Mosalla.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-07-04T05:23:54.244992+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771576/Farewell-ceremony-martyr-Leader-Tehran"
-  },
-  {
-    "id": "a1ff2d224fe9",
-    "source": "PressTV",
-    "date": "2026-07-04T05:23",
-    "headline": "'He made the Ummah proud': Netizens honor Iran’s martyred Leader ahead of funeral",
-    "excerpt": "Netizens flood social media with emotional commentary on the legacy of Ayatollah Khamenei on the eve of the martyred Leader of the Islamic Revolution's funeral.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-04T05:23:54.245038+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771572/Iran-martyred-Leader-funeral-netizens-social-media"
-  },
-  {
-    "id": "75b255de3aa5",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T00:20",
-    "headline": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates",
-    "excerpt": "Fans in Gaza celebrated Egypt&#039;s win at match screenings held against the backdrop of bombed buildings.",
-    "category": "Airstrike",
-    "location": "Gaza",
-    "addedAt": "2026-07-04T01:18:11.556214+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss"
   }
 ]
