@@ -1,5 +1,27 @@
 [
   {
+    "id": "9b2db208ac7e",
+    "source": "Al Jazeera",
+    "date": "2026-07-12T23:03",
+    "headline": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
+    "excerpt": "Sunday&#039;s attacks follow three previous days of tit-for-tat strikes between Iran and US as a June ceasefire deal frays.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-13T00:04:54.347287+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss"
+  },
+  {
+    "id": "17bc29c7548d",
+    "source": "PressTV",
+    "date": "2026-07-13T00:04",
+    "headline": "Iranian strike on US base in Kuwait exposes generals’ reckless negligence",
+    "excerpt": "Six American soldiers were killed and dozens more wounded when an Iranian drone struck a poorly defended US logistics base at Port Shuaiba in Kuwait on March 1, according to a report.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-13T00:04:56.963405+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/12/772127/Iranian-strike-on-US-base-in-Kuwait-exposes-generals%E2%80%99-reckless-negligence-during-war"
+  },
+  {
     "id": "ec4c15ca578c",
     "source": "Al Jazeera",
     "date": "2026-07-12T21:59",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-03T10:14:42.743008+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending?traffic_source=rss"
-  },
-  {
-    "id": "ac81bf5f00cb",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T08:01",
-    "headline": "Seven pro-Palestine protesters convicted of misdemeanour charges in US",
-    "excerpt": "Activists found guilty of misdemeanour counts after blocking San Francisco&#039;s Golden Gate Bridge in a 2024 Gaza protest.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-03T10:14:42.743043+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/seven-pro-palestine-protesters-convicted-of-misdemeanour-charges-in-us?traffic_source=rss"
-  },
-  {
-    "id": "760740379daa",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T07:48",
-    "headline": "Ukraine strike hits Belgorod, causing fire and power outages",
-    "excerpt": "Ukraine strike hits Belgorod, causing fire and power outages",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-03T10:14:42.743077+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/ukraine-strike-hits-belgorod-causing-fire-and-power-outages?traffic_source=rss"
   }
 ]
