@@ -1,5 +1,115 @@
 [
   {
+    "id": "3fcbb20565b5",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T09:34",
+    "headline": "‘It’s expensive’: Syria’s electricity has improved, but challenges remain",
+    "excerpt": "Damascus residents say state-supplied power has noticeably improved recently but complain about the cost of energy.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-13T10:43:01.515395+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/13/its-expensive-syrias-electricity-has-improved-but-challenges-remain?traffic_source=rss"
+  },
+  {
+    "id": "72cb773d2791",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T09:32",
+    "headline": "Explosions and large fires following Ukrainian attacks on Russia",
+    "excerpt": "Explosions and large fires following Ukrainian attacks on Russia",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-13T10:43:01.515444+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/explosions-and-large-fires-following-ukrainian-attacks-on-russia?traffic_source=rss"
+  },
+  {
+    "id": "ffabcc0b7300",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T09:16",
+    "headline": "New Iran strikes on Gulf as US attacks escalate: What we know",
+    "excerpt": "Iran targets its Gulf neighbours in third round of tit-for-tat attacks with US in a week.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-13T10:43:01.515480+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss"
+  },
+  {
+    "id": "96b1a4b7d994",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T09:05",
+    "headline": "In Wales, an artist sews names of Gaza’s infant victims on christening gown",
+    "excerpt": "Diana Williams embroiders names of 300 babies killed by Israel on gown, an evocative work she hopes will reach New York.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-13T10:43:01.515518+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/i-have-to-do-something-a-welsh-artist-honours-gazas-child-victims?traffic_source=rss"
+  },
+  {
+    "id": "e4468daa5c5c",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T09:01",
+    "headline": "US and Iran trade strikes as ceasefire comes under growing strain",
+    "excerpt": "Iran&#039;s IRGC says it attacked sites linked to the US military in Kuwait, Bahrain and Oman after latest US bombardment.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-13T10:43:01.515542+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss"
+  },
+  {
+    "id": "7c33b121369e",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T07:41",
+    "headline": "Kimmit: Renewed US-Iran fighting could reignite wider regional conflict",
+    "excerpt": "Retired US General Mark Kimmitt warns renewed attacks in the Strait of Hormuz could push the US and Iran",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-13T10:43:01.515578+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss"
+  },
+  {
+    "id": "5362c4be3025",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T07:24",
+    "headline": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
+    "excerpt": "Putting all the blame on the Iranian president covers up tensions between competing factions in Tehran.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-13T10:43:01.515609+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss"
+  },
+  {
+    "id": "e258a893f0f0",
+    "source": "PressTV",
+    "date": "2026-07-13T10:43",
+    "headline": "Satellite images show extensive damage to US bases hit in Iranian strikes",
+    "excerpt": "Military Open Source Intelligence (OSINT) sources release imagery testifying to extensive damage from recent Iranian retaliatory strikes to regional American targets.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-13T10:43:03.801392+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/13/772149/Iran-strikes-United-States-images-military-OSINT"
+  },
+  {
+    "id": "f2ff7fff1c43",
+    "source": "PressTV",
+    "date": "2026-07-13T10:43",
+    "headline": "US forces again target Iranian water infrastructure amid summer heat",
+    "excerpt": "The United States has struck two water pumping stations in Iran's southwestern Khuzestan and southern Bushehr provinces, temporarily disrupting water supply to Kharg Island, Iranian officials say.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-13T10:43:03.801427+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/13/772143/One-killed,-four-injured-US-strike-agricultural-water-pumping-station-Iran%E2%80%99s-Mahshahr"
+  },
+  {
+    "id": "9d1e2e21f947",
+    "source": "PressTV",
+    "date": "2026-07-13T10:43",
+    "headline": "Iran vows justice for martyred Leader, victims of US-Israeli aggression",
+    "excerpt": "Iran’s Foreign Ministry spokesman says pursuing justice and the “blood revenge” for the martyred Leader remains a serious principle and a nationwide demand.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-13T10:43:03.801455+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/13/772150/Iran-vows-pursue-justice-martyred-Leader,-victims-US-Israeli-aggression"
+  },
+  {
     "id": "0c5278aa77d1",
     "source": "Al Jazeera",
     "date": "2026-07-13T05:39",
@@ -5388,115 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-07-03T16:38:42.845880+00:00",
     "link": "https://www.aljazeera.com/sports/2026/7/3/gaza-sports-community-pledges-to-continue-legacy-of-killed-goalkeeper?traffic_source=rss"
-  },
-  {
-    "id": "5b4997bac029",
-    "source": "PressTV",
-    "date": "2026-07-03T16:38",
-    "headline": "Iranian officials, world leaders, and high-ranking delegations pay tribute to martyred Leader",
-    "excerpt": "Top Iranian officials and high-ranking delegations from across the world pay their respects to the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-03T16:38:44.420880+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771538/Iran-Khamenei-respect-leaders"
-  },
-  {
-    "id": "d1b5689c0a7c",
-    "source": "PressTV",
-    "date": "2026-07-03T16:38",
-    "headline": "On 37th anniversary, Iran vows to never forgive deliberate US downing of Flight 655",
-    "excerpt": "Iran's Foreign Ministry has strongly condemned the United States for its \"unforgivable crime\" of shooting down a passenger plane over the Persian Gulf.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-03T16:38:44.420928+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771544/Iran-strongly-condemns-US-%E2%80%98unforgivable-crime%E2%80%99-on-anniversary-of-Iran-Air-Flight-655-downing"
-  },
-  {
-    "id": "8a8d114da6a7",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T14:28",
-    "headline": "Mourners bury victims of Damascus cafe bombing with six lawyers among dead",
-    "excerpt": "Syrian Bar Association mourns six lawyers amid international condemnation of Thursday&#039;s attack in Damascus.",
-    "category": "Airstrike",
-    "location": "Syria",
-    "addedAt": "2026-07-03T14:52:40.439362+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/mourners-bury-victims-of-damascus-cafe-bombing-with-six-lawyers-among-dead?traffic_source=rss"
-  },
-  {
-    "id": "c6663a617e76",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T13:57",
-    "headline": "Russia’s advance collapses in Ukraine, ‘40,000’ troops killed in June",
-    "excerpt": "Ukraine&#039;s long-range strikes hit targets in Russia, where anxiety is rising.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-03T14:52:40.439411+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/russian-advance-collapses-in-ukraine-as-anxiety-rises-in-moscow?traffic_source=rss"
-  },
-  {
-    "id": "9f15f2817549",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T13:25",
-    "headline": "Interpol names Ukrainian woman as suspect in Monaco bombing",
-    "excerpt": "Anastasiia Berezovska is named as the chief suspect responsible for injuring Ukrainian tycoon Vadym Yermolaiev.",
-    "category": "Airstrike",
-    "location": "Oman",
-    "addedAt": "2026-07-03T14:52:40.439441+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/interpol-names-ukrainian-woman-as-suspect-in-monaco-bombing?traffic_source=rss"
-  },
-  {
-    "id": "18dd8dce2f1b",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T12:15",
-    "headline": "Don’t eat your greens? A diet taking Yemen by storm has doctors worried",
-    "excerpt": "Hospitals in Yemen report increase in workload after struck off doctor encourages diabetes patients not to take insulin.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-07-03T14:52:40.439504+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/3/dont-eat-your-greens-a-diet-taking-yemen-by-storm-has-doctors-worried?traffic_source=rss"
-  },
-  {
-    "id": "0ec36a87ca12",
-    "source": "Al Jazeera",
-    "date": "2026-07-03T12:00",
-    "headline": "Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state",
-    "excerpt": "Iran begins seven-day state funeral for late ayatollah as some 100 foreign delegations arrive under a tense ceasefire",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-03T14:52:40.439547+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/3/mourners-pay-respects-as-irans-slain-leader-ali-khamenei-laid-in-state?traffic_source=rss"
-  },
-  {
-    "id": "faff70a19539",
-    "source": "PressTV",
-    "date": "2026-07-03T14:52",
-    "headline": "Iranian officials, world leaders, high-ranking delegations pay tribute to martyred Leader in Tehran",
-    "excerpt": "Top Iranian officials and high-ranking delegations from across the world pay their respects to the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-07-03T14:52:41.925209+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771538/Iran-Khamenei-respect-leaders"
-  },
-  {
-    "id": "6dc78ac725ab",
-    "source": "PressTV",
-    "date": "2026-07-03T14:52",
-    "headline": "'Hard, unexpected blows' will continue after Leader's martyrdom: IRGC commander",
-    "excerpt": "The commander of the IRGC aerospace division vows that the hard and unexpected blows inflicted on the enemy will continue.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-03T14:52:41.925253+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771543/Iran-IRGC-Mousavi-aerospace-"
-  },
-  {
-    "id": "2aa6fd86ae41",
-    "source": "PressTV",
-    "date": "2026-07-03T14:52",
-    "headline": "‘Unforgivable crime’: On 37th anniversary, Iran vows to never forget deliberate US downing of Flight",
-    "excerpt": "Iran's Foreign Ministry has strongly condemned the United States for its \"unforgivable crime\" of shooting down a passenger plane over the Persian Gulf.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-03T14:52:41.925305+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/03/771544/Iran-strongly-condemns-US-%E2%80%98unforgivable-crime%E2%80%99-on-anniversary-of-Iran-Air-Flight-655-downing"
   }
 ]
