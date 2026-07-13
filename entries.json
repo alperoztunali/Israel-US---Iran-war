@@ -1,5 +1,82 @@
 [
   {
+    "id": "aa7c9463c868",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T21:19",
+    "headline": "US, Iran exchange attacks around Strait of Hormuz",
+    "excerpt": "This is a breaking news story.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-13T22:11:19.673085+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "6f4e964ed35e",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T21:04",
+    "headline": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
+    "excerpt": "Late US senator backed invasion of Iraq, war on Iran and approach of &#039;more for Israel&#039; as he became a Trump confidant.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-13T22:11:19.673137+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss"
+  },
+  {
+    "id": "478e2c8284a2",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T20:48",
+    "headline": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
+    "excerpt": "US CENTCOM has published a video it says shows three Corsair unmanned surface vessels striking an Iranian ship facility",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-13T22:11:19.673165+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss"
+  },
+  {
+    "id": "3c2308fa060c",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T20:41",
+    "headline": "Ukraine and allies launch coalition to tackle Russia’s ballistic missiles",
+    "excerpt": "Russia has escalated attacks in recent weeks, taking advantage of Ukraine’s critical shortage of air defences.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-13T22:11:19.673201+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss"
+  },
+  {
+    "id": "4ae1a1dc8357",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T20:40",
+    "headline": "Iran military warns US against Strait of Hormuz ‘interference’",
+    "excerpt": "Iran&#039;s military has warned it will not allow the United States to ‘interfere’ in the management of the Strait of Hormuz.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-13T22:11:19.673239+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "c62609e08ff9",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T20:35",
+    "headline": "Artist sews names of Gaza children killed by Israel into gown",
+    "excerpt": "Welsh artist Diana Williams stitched the names of 300 babies killed by Israel’s genocidal war on Gaza into a gown.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-13T22:11:19.673270+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss"
+  },
+  {
+    "id": "1bb158cfae02",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T20:35",
+    "headline": "What do Israeli settler attacks on Americans reveal?",
+    "excerpt": "Recent attacks on international journalists and a US congressman have once again put a spotlight on settler violence.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-13T22:11:19.673303+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/what-do-israeli-settler-attacks-on-americans-reveal?traffic_source=rss"
+  },
+  {
     "id": "e8a1be0fd560",
     "source": "Al Jazeera",
     "date": "2026-07-13T20:26",
@@ -5421,82 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-04T17:35:08.479426+00:00",
     "link": "https://presstv.ir/Detail/2026/07/04/771576/Farewell-ceremony-martyr-Leader-Tehran"
-  },
-  {
-    "id": "e34e69bb3339",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T15:49",
-    "headline": "Iran promotes message of continuity and revenge at Khamenei commemoration",
-    "excerpt": "Iran will be shut down on Sunday and Monday to encourage more mourners to join funeral procession.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-04T16:16:15.626858+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss"
-  },
-  {
-    "id": "0f68c42771a5",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T15:46",
-    "headline": "Russian attacks leave trail of destruction across Ukraine",
-    "excerpt": "Russian attacks leave trail of destruction across Ukraine",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-04T16:16:15.626911+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "d5d0676fdcbd",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T13:38",
-    "headline": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
-    "excerpt": "Yemen&#039;s health professionals have been leaving the country in search of higher income and a safer working environment.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-07-04T15:10:30.785768+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss"
-  },
-  {
-    "id": "4d54c3d03b11",
-    "source": "PressTV",
-    "date": "2026-07-04T15:10",
-    "headline": "Iran pledges to uphold martyred Leader's legacy in foreign policy",
-    "excerpt": "Iran's Foreign Ministry says it will honor the late Leader's legacy in safeguarding the nation's dignity, independence, and power.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-04T15:10:32.625397+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771611/Iran-vows-honor-Leader-legacy-foreign-policy"
-  },
-  {
-    "id": "ce2f7e914814",
-    "source": "PressTV",
-    "date": "2026-07-04T15:10",
-    "headline": "Pezeshkian vows Iran will keep martyred Leader’s flag aloft",
-    "excerpt": "President Pezeshkian says the Iranian nation will prove that the ideals for which late Ayatollah Khamenei struggled will continue after his martyrdom.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-04T15:10:32.625436+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771605/Pezeshkian-Leader-flag-remain-raised-after-martyrdom"
-  },
-  {
-    "id": "b0fbe5ce64f2",
-    "source": "PressTV",
-    "date": "2026-07-04T15:10",
-    "headline": "Pakistan stands in solidarity with Iran: PM Sharif praises martyred Leader’s wisdom and legacy",
-    "excerpt": "Pakistani Prime Minister Shehbaz Sharif has praised the wisdom, visionary leadership and profound influence of the martyred Leader of the Islamic Revolution.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-04T15:10:32.625465+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771600/Pakistan-stands-in-solidarity-with-Iran--PM-Sharif-praises-martyred-Leader%E2%80%99s-enduring-wisdom-and-legacy-"
-  },
-  {
-    "id": "d9e5178e2ccc",
-    "source": "PressTV",
-    "date": "2026-07-04T15:10",
-    "headline": "Russia’s Medvedev: Strait of Hormuz gives Iran deterrence as powerful as nuclear weapons",
-    "excerpt": "Russian Security Council Deputy Chairman Dmitry Medvedev says the Strait of Hormuz is a strategic asset for Iran comparable in importance to nuclear deterrence.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-04T15:10:32.625502+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771607/Russia%E2%80%99s-Medvedev--Strait-of-Hormuz-is-as-strategically-important-to-Iran-as-nukes"
   }
 ]
