@@ -1,5 +1,71 @@
 [
   {
+    "id": "37123cd5224d",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T05:15",
+    "headline": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira",
+    "excerpt": "US President Donald Trump is threatening to attack a heavily-fortified underground nuclear facility in Iran",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T05:57:51.191110+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss"
+  },
+  {
+    "id": "71b11c9adbd2",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T04:10",
+    "headline": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
+    "excerpt": "Yemen&#039;s Houthis say they struck Saudi Arabia&#039;s Abha airport in retaliation for a strike on Sanaa’s international airport",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-07-14T05:57:51.191166+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss"
+  },
+  {
+    "id": "8d1c2763c992",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T03:52",
+    "headline": "‘Kylian is fine’: France ready, full-strength for Spain World Cup semifinal",
+    "excerpt": "French coach Deschamps says his team will be fully prepared for a midfield battle against the European champions.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-14T05:57:51.191219+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/14/kylian-is-fine-france-ready-full-strength-for-spain-world-cup-semifinal?traffic_source=rss"
+  },
+  {
+    "id": "f5db5e4a7e0f",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T03:38",
+    "headline": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook",
+    "excerpt": "Brent crude nears $85 a barrel amid renewed hostiles between Washington and Tehran.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-14T05:57:51.191254+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss"
+  },
+  {
+    "id": "e6637c3d7ee9",
+    "source": "PressTV",
+    "date": "2026-07-14T05:57",
+    "headline": "IRGC launches missile strikes on US Fifth Fleet in Bahrain, airbase in Jordan",
+    "excerpt": "The IRGC strikes multiple US military facilities in Bahrain, including the headquarters of the US Fifth Fleet, as well as American targets in Jordan with missiles in follow-up retaliation.",
+    "category": "Missile/Drone",
+    "location": "Jordan",
+    "addedAt": "2026-07-14T05:57:52.832856+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772205/Iran-IRGC-United-States-Fifth-Fleet-Bahrain"
+  },
+  {
+    "id": "50ddb24675d1",
+    "source": "PressTV",
+    "date": "2026-07-14T05:57",
+    "headline": "Iran submits detailed complaint to UN over US violations of war-ending memorandum",
+    "excerpt": "Iran submits a detailed complaint to the United Nations Security Council, slamming the United States for systematically violating the Islamabad Memorandum of Understanding signed just last month.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T05:57:52.832905+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772204/Iran-submits-detailed-complaint-UN-US-violations-Islamabad-Memorandum"
+  },
+  {
     "id": "f921f3767ed0",
     "source": "Al Jazeera",
     "date": "2026-07-14T01:37",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-05T01:16:28.583286+00:00",
     "link": "https://presstv.ir/Detail/2026/07/05/771632/Israel-minister-Ben-Gvir-cancels-United-States-New-York-visit-HRF-Center-for-Constitutional-Rights"
-  },
-  {
-    "id": "51bfc453b6d9",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T21:08",
-    "headline": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
-    "excerpt": "Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-04T23:15:43.631113+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss"
-  },
-  {
-    "id": "1cf6c6f8738f",
-    "source": "PressTV",
-    "date": "2026-07-04T23:15",
-    "headline": "Iran hails participation of representatives from over 70 countries in martyred Leader’s funeral",
-    "excerpt": "Iran hails participation of representatives from more than 70 countries in funeral ceremonies held for the martyred Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-04T23:15:45.589751+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771630/Iran-martyred-Leader-funeral-foreign-officials-Araghchi"
-  },
-  {
-    "id": "0d6807b3c383",
-    "source": "PressTV",
-    "date": "2026-07-04T23:15",
-    "headline": "Turkey warns of renewed regional war driven by Israel",
-    "excerpt": "Turkey warns about the risk of renewed regional war driven by the Israeli regime, saying Ankara supports efforts to reduce tensions through dialogue and diplomacy.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-04T23:15:45.589815+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771631/Turkey-warning-Israel-war-region"
-  },
-  {
-    "id": "241fc5eeb800",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T20:06",
-    "headline": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
-    "excerpt": "In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can &#039;open a new page of hope&#039;.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-07-04T21:09:16.780084+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss"
-  },
-  {
-    "id": "3eca0135cbc9",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T19:19",
-    "headline": "Will economic pressure move the Kremlin towards talks with Kyiv?",
-    "excerpt": "Relentless Ukrainian strikes on refineries have caused a fuel crisis in Russia.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-04T19:57:39.565550+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss"
-  },
-  {
-    "id": "8d115cac89a4",
-    "source": "Al Jazeera",
-    "date": "2026-07-04T18:46",
-    "headline": "Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’",
-    "excerpt": "Dmitry Medvedev says Iran’s ability to disrupt traffic in the Strait of Hormuz is equivalent to possession of a nuclear.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-04T19:57:39.565605+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russias-medvedev-says-strait-of-hormuz-is-irans-nuclear?traffic_source=rss"
   }
 ]
