@@ -1,5 +1,82 @@
 [
   {
+    "id": "67effc79c004",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T15:20",
+    "headline": "Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack",
+    "excerpt": "Speaking to Al Jazeera, leading Houthi Mohammed al-Bukhaiti warns of attacks on Saudi Arabia.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-07-14T15:46:57.974819+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack?traffic_source=rss"
+  },
+  {
+    "id": "5666c2b00ad9",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T15:04",
+    "headline": "How the late Father Emir transformed Qatar’s economy",
+    "excerpt": "How the late Father Emir transformed Qatar’s economy",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-14T15:46:57.974870+00:00",
+    "link": "https://www.aljazeera.com/video/money-works/2026/7/14/how-the-late-father-emir-transformed-qatars-economy?traffic_source=rss"
+  },
+  {
+    "id": "41eafa68e95c",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T14:56",
+    "headline": "Even if the Iran war ends, the next fossil fuel shock is already on its way",
+    "excerpt": "To prepare, the world needs to focus on building energy independence through renewables and decentralisation.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T15:46:57.974903+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/14/even-if-the-iran-war-ends-the-next-fossil-fuel-shock-is-already-on-its-way?traffic_source=rss"
+  },
+  {
+    "id": "2c4fa831a645",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T14:32",
+    "headline": "India summons Iranian diplomat over missile killing of seafarer",
+    "excerpt": "India summoned Iran&#039;s deputy ambassador after an Indian crew member was killed in the Strait of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-14T15:46:57.974923+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/india-summons-iranian-diplomat-over-missile-killing-of-seafarer?traffic_source=rss"
+  },
+  {
+    "id": "b6d1ead35ffb",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T14:08",
+    "headline": "‘Piracy’: Will Trump’s 20 percent Hormuz toll find takers?",
+    "excerpt": "Trump says the US will start charging a cargo fee for ships passing through the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-07-14T15:46:57.974952+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/14/piracy-will-trumps-20-percent-hormuz-toll-find-takers?traffic_source=rss"
+  },
+  {
+    "id": "438925e99846",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T14:03",
+    "headline": "Russia-Ukraine war: What is Europe’s new ballistic missile shield plan?",
+    "excerpt": "Nine European countries and Ukraine have launched a coalition to build Europe&#039;s own defence against ballistic missiles.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-14T15:46:57.974987+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/russia-ukraine-war-what-is-europes-new-ballistic-missile-shield-plan?traffic_source=rss"
+  },
+  {
+    "id": "cfe80a2f9c0c",
+    "source": "PressTV",
+    "date": "2026-07-14T15:46",
+    "headline": "Iranian lawmakers demand end to Islamabad MoU, vow revenge for martyred Leader",
+    "excerpt": "Nearly 180 Iranian lawmakers have issued a statement declaring the Islamabad Memorandum of Understanding (MoU) with the United States effectively terminated.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-14T15:46:59.719506+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772236/iran-lawmakers-end-to-Islamabad-MoU-vow-revenge-for-martyred-leader"
+  },
+  {
     "id": "e257dd356a2b",
     "source": "Al Jazeera",
     "date": "2026-07-14T13:44",
@@ -5421,82 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-06T06:02:48.998982+00:00",
     "link": "https://presstv.ir/Detail/2026/07/05/771692/Huge-crowds-gather-in-Tehran-for-historic-funeral-procession-of-martyred-Leader-Ayatollah-Khamenei"
-  },
-  {
-    "id": "440842fe393f",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T01:04",
-    "headline": "Neymar quits international football after Brazil’s World Cup knockout loss",
-    "excerpt": "The injury-plagued striker converted a penalty but failed to take his team into the last 16 of the FIFA World Cup.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-06T01:25:02.823338+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss?traffic_source=rss"
-  },
-  {
-    "id": "7cb96b2b3134",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T00:00",
-    "headline": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
-    "excerpt": "Millions expected at funeral procession for Iran&#039;s slain supreme leader in Tehran today.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-06T01:25:02.823379+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "bbdab0271574",
-    "source": "Al Jazeera",
-    "date": "2026-07-05T22:03",
-    "headline": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
-    "excerpt": "Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-05T23:36:29.639700+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss"
-  },
-  {
-    "id": "03ce0bfe8139",
-    "source": "PressTV",
-    "date": "2026-07-05T23:36",
-    "headline": "US 'defeated' as Iran MoU forces recognition of resistance allies: Qalibaf",
-    "excerpt": "Qalibaf stressed that strong diplomacy depends on full military preparedness.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-07-05T23:36:31.517599+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/05/771691/US-defeated-as-Iran-MoU-forces-recognition-of-resistance-allies-Qalibaf"
-  },
-  {
-    "id": "6ccb2fffcacc",
-    "source": "Al Jazeera",
-    "date": "2026-07-05T20:16",
-    "headline": "8 injured, including 4 children, in New York City Fourth of July shooting",
-    "excerpt": "A shooting at a Fourth of July celebration in the US city of New York wounded eight victims, four of whom are children.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-05T21:14:28.126687+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/8-injured-including-4-children-in-new-york-city-fourth-of-july-shooting?traffic_source=rss"
-  },
-  {
-    "id": "bc82cf9fea6f",
-    "source": "Al Jazeera",
-    "date": "2026-07-05T18:55",
-    "headline": "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent",
-    "excerpt": "Massive crowds gathered in Tehran to mourn Khamenei’s death, with chants calling for revenge against the US and Israel.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-05T19:59:39.261740+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss"
-  },
-  {
-    "id": "22ca5ddb5e38",
-    "source": "Al Jazeera",
-    "date": "2026-07-05T18:40",
-    "headline": "Palestinians rally outside Al-Shifa hospital, demanding medical evacuation",
-    "excerpt": "Protest outside Al-Shifa Medical Complex demanding Israel lift travel restrictions on those leaving the Gaza Strip.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-05T19:59:39.261787+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuation?traffic_source=rss"
   }
 ]
