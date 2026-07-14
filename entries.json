@@ -1,5 +1,60 @@
 [
   {
+    "id": "1363e68c46bb",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T21:05",
+    "headline": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
+    "excerpt": "Israel&#039;s grip on the occupied West Bank tightens through outposts, demolitions, and army-backed settler raids.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-14T22:13:32.299760+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "be221a3f67c9",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T21:05",
+    "headline": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
+    "excerpt": "Iranian state media is reporting that Tehran has targeted a US naval support base in Bahrain’s capital.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-07-14T22:13:32.299799+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss"
+  },
+  {
+    "id": "abe6c13b4bcb",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T20:12",
+    "headline": "US Senate Democrats block defence bill over Iran war, Israel integration",
+    "excerpt": "The Senate votes 50-46 to block debate on the annual defence bill over war funding and defence cooperation with Israel.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T22:13:32.299846+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss"
+  },
+  {
+    "id": "c9ce963a53b4",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T19:47",
+    "headline": "US reimposes blockade on Iranian ports, launches more strikes",
+    "excerpt": "Iran&#039;s deputy FM accuses US of destroying the interim peace deal and says Tehran now has no commitments under MoU.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-07-14T22:13:32.299875+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "de2bad16c875",
+    "source": "PressTV",
+    "date": "2026-07-14T22:13",
+    "headline": "US resumes naval blockade of Iranian ports and vessels, despite Tehran’s warnings",
+    "excerpt": "The US Central Command says American forces have resumed the naval blockade of Iranian ports and vessels, despite the Islamic Republic’s warnings that Washington would not be able to forcibly reopen the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-07-14T22:13:33.757033+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772262/United-States-blockade-Iran-Strait-of-Hormuz-strikes"
+  },
+  {
     "id": "eb5a557e693f",
     "source": "Al Jazeera",
     "date": "2026-07-14T20:27",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-06T17:29:09.545978+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four?traffic_source=rss"
-  },
-  {
-    "id": "2ea66d856201",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T14:13",
-    "headline": "The pitfalls of institutionalising US military aid to Israel",
-    "excerpt": "Shielding US commitments to Israel from congressional scrutiny would be harmful for both countries.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-06T17:29:09.546007+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/6/the-pitfalls-of-institutionalising-us-military-aid-to-israel?traffic_source=rss"
-  },
-  {
-    "id": "72149e54596c",
-    "source": "PressTV",
-    "date": "2026-07-06T17:29",
-    "headline": "Punishment of Ayatollah Khamenei’s assassins is a sovereign duty: Iran’s vice president",
-    "excerpt": "Iran’s First Vice President Mohammad Reza Aref says the punishment of the assassins responsible for the martyrdom of Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei is a sovereign duty of the Islamic Republic.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-06T17:29:11.789693+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/06/771730/Punishment-of-martyred-Leader-s-assassins-sovereign-duty,-guided-by-strategic-rationality--VP"
-  },
-  {
-    "id": "03019e545cad",
-    "source": "PressTV",
-    "date": "2026-07-06T17:29",
-    "headline": "Hashd al-Sha’abi calls on Iraqis to attend Ayatollah Khamenei’s funeral en masse",
-    "excerpt": "The Iraqi Popular Mobilization Units have called upon all walks of the society to participate en masse in the funeral procession for the martyred Leader of the Islamic Revolution, Ayatollah Seyed Ali Khamenei.",
-    "category": "Casualties",
-    "location": "Iraq",
-    "addedAt": "2026-07-06T17:29:11.789737+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/06/771720/Hashd-al-Sha%E2%80%99abi-urges-all-Iraqis-to-participate-in-Ayat--Khamenei%E2%80%99s-funeral-en-masse"
-  },
-  {
-    "id": "366189a35dfc",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T13:36",
-    "headline": "Hamas announces dissolution of Gaza governing body",
-    "excerpt": "A Palestinian technocratic committee will take its place to manage the enclave&#039;s day-to-day governance.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-06T14:37:24.451861+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body?traffic_source=rss"
-  },
-  {
-    "id": "4df3a421477b",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T13:13",
-    "headline": "Baby dies after Israeli troops block emergency journey to hospital",
-    "excerpt": "A baby died after his family’s attempt to reach hospital was blocked by Israel at a checkpoint in the occupied West Bank",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-06T14:37:24.451905+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss"
   }
 ]
