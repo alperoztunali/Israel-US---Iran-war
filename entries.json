@@ -1,5 +1,93 @@
 [
   {
+    "id": "d4ed580327d9",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T09:34",
+    "headline": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
+    "excerpt": "More than 60 people have died in ICE shootings or while in detention since Donald Trump returned to power.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-14T10:18:23.702947+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss"
+  },
+  {
+    "id": "2b6ac893801a",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T09:20",
+    "headline": "Emir of Qatar receives condolences on the death of the Father Emir",
+    "excerpt": "Condolences from several government leaders, who expressed their sincere sympathy to Qatar, its leadership and people.",
+    "category": "Naval",
+    "location": "Qatar",
+    "addedAt": "2026-07-14T10:18:23.702991+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/emir-of-qatar-receives-condolences-on-the-death-of-the-father-emir?traffic_source=rss"
+  },
+  {
+    "id": "517c95fcc987",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T08:52",
+    "headline": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
+    "excerpt": "While Trump has threatened to hit targets in Iran including Pickaxe Mountain, he has said a deal is possible.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-07-14T10:18:23.703021+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "23107a2ddf26",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T08:23",
+    "headline": "US military releases video of its latest strikes on Iran",
+    "excerpt": "US Central Command has released video showing its latest wave of attacks reportedly hitting Iran&#039;s mainland and islands.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T10:18:23.703056+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "7832de307bce",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T05:15",
+    "headline": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Iran",
+    "excerpt": "US President Donald Trump is threatening to attack a heavily-fortified underground nuclear facility in Iran",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T10:18:23.703100+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss"
+  },
+  {
+    "id": "29f345af6d59",
+    "source": "PressTV",
+    "date": "2026-07-14T10:18",
+    "headline": "Strait of Hormuz will never be reopened through war, Iran Army warns US",
+    "excerpt": "Iran’s Army spokesman warns the US that no measure of American aggression would lead to reopening of the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T10:18:26.027118+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772216/Iran-Army-warning-United-States-Hormuz"
+  },
+  {
+    "id": "dbb0cf1302de",
+    "source": "PressTV",
+    "date": "2026-07-14T10:18",
+    "headline": "Iran Parliament introduces bill on Hormuz management amid US interventions: MP",
+    "excerpt": "A senior Iranian lawmaker says Parliament has formally introduced a new legislative proposal to assert control over the management of the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T10:18:26.027163+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772212/MP--Parliament-introduces-bill-manage-Strait-Hormuz-US-interventions"
+  },
+  {
+    "id": "0bbc96b9a96b",
+    "source": "PressTV",
+    "date": "2026-07-14T10:18",
+    "headline": "Iran’s oil exports continue uninterrupted despite US revocation of waivers: Minister",
+    "excerpt": "Iran's petroleum minister says the country's oil exports remain uninterrupted despite the US revocation of a 60-day sanctions waiver.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-14T10:18:26.027206+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772214/Iran-Paknejad-oil-exports-US-waivers-Strait-of-Hormuz-prices-Trump-tankers"
+  },
+  {
     "id": "7445f28fefb6",
     "source": "Al Jazeera",
     "date": "2026-07-14T06:41",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-05T10:52:37.273375+00:00",
     "link": "https://presstv.ir/Detail/2026/07/05/771647/Army-warns-enemy-miscalculation-crushing-response"
-  },
-  {
-    "id": "50e4164eb306",
-    "source": "Al Jazeera",
-    "date": "2026-07-05T08:09",
-    "headline": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
-    "excerpt": "Despite US objections, ambassador insists new fees to be charged to vessels transiting Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-05T08:31:48.348583+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss"
-  },
-  {
-    "id": "aaaff5e6d170",
-    "source": "Al Jazeera",
-    "date": "2026-07-05T00:00",
-    "headline": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
-    "excerpt": "Late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike on February 28.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-05T08:31:48.348628+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss"
-  },
-  {
-    "id": "62679230374b",
-    "source": "PressTV",
-    "date": "2026-07-05T08:31",
-    "headline": "Resistance officials hold talks with Iran FM, offer condolences on Leader’s martyrdom",
-    "excerpt": "Officials from the Resistance Front hold talks with Iran’s Foreign Minister Abbas Araghchi, extending condolences on the martyrdom of the Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-05T08:31:50.237588+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/05/771642/Araghchi-meets-resistance-officials-martred-leader-funeral"
-  },
-  {
-    "id": "8c4e4a5e590a",
-    "source": "PressTV",
-    "date": "2026-07-05T08:31",
-    "headline": "North Korea test-fires strategic cruise missile, other weapons from new naval destroyer",
-    "excerpt": "North Korea test-fires a strategic cruise missile and other weapons from its new 5,000-ton naval destroyer, Kang Kon.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-05T08:31:50.237633+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/05/771640/Korea-Test-Fire-Missile-Kang-Kon"
-  },
-  {
-    "id": "f6252aefa221",
-    "source": "PressTV",
-    "date": "2026-07-05T08:31",
-    "headline": "Dr. Abu Safiya enduring life-threatening condition in Israeli jail: Rights group",
-    "excerpt": "An international human rights organization says the abducted director of Gaza’s Kamal Adwan Hospital is facing a life-threatening condition in Israeli detention.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-05T08:31:50.237677+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/05/771643/Dr-Abu-Safiya-enduring-life-threatening-condition-Israeli-jail-Rights-group"
-  },
-  {
-    "id": "f7c1799723a1",
-    "source": "Al Jazeera",
-    "date": "2026-07-05T00:00",
-    "headline": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
-    "excerpt": "Iran&#039;s late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-05T05:42:00.564739+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss"
-  },
-  {
-    "id": "7b520f403fc2",
-    "source": "PressTV",
-    "date": "2026-07-05T05:42",
-    "headline": "Millions join funeral prayers for martyred Leader in Tehran",
-    "excerpt": "Mourners performed funeral prayers for the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, on Sunday.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-07-05T05:42:02.151323+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/05/771636/Mourners-perform-funeral-prayers-for-martyred-Leader"
-  },
-  {
-    "id": "2445bbd157c4",
-    "source": "Al Jazeera",
-    "date": "2026-07-05T00:49",
-    "headline": "This immigrant served in the US military. Now he faces deportation",
-    "excerpt": "Benito Miranda Hernandez completed three tours during the Iraq war but now faces removal from the US to Mexico.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-05T01:16:27.054222+00:00",
-    "link": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss"
   }
 ]
