@@ -1,5 +1,60 @@
 [
   {
+    "id": "eb5a557e693f",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T20:27",
+    "headline": "What is Iran’s Pickaxe Mountain?",
+    "excerpt": "Donald Trump has threatened to strike Pickaxe Mountain, an underground nuclear-related complex.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T21:07:22.007054+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss"
+  },
+  {
+    "id": "a4263c099cb9",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T20:18",
+    "headline": "Worker killed in furnace explosion fire at Indian recycling plant",
+    "excerpt": "A furnace explosion triggered a fire at Jain Resource Recycling&#039;s plant in the Indian state of Tamil Nadu.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-14T21:07:22.007100+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss"
+  },
+  {
+    "id": "1b9391f8f3d8",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T20:17",
+    "headline": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
+    "excerpt": "Mobilisation of fighters and attacks signal the collapse of Yemen&#039;s fragile peace, with regional implications looming.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-07-14T21:07:22.007128+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss"
+  },
+  {
+    "id": "daa52d252a0d",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T20:12",
+    "headline": "Senate Democrats block defence bill over Iran war, Israel provisions",
+    "excerpt": "The Senate voted 50-46 to block debate on the annual defence bill over war funding and defence cooperation with Israel.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T21:07:22.007158+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss"
+  },
+  {
+    "id": "5dbc50cf02c4",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T19:47",
+    "headline": "US strikes new targets in Iran as Tehran hits Gulf states, Hormuz shipping",
+    "excerpt": "Iran&#039;s deputy foreign minister accuses US of destroying the interim peace deal.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-07-14T21:07:22.007180+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss"
+  },
+  {
     "id": "cbbd716d7498",
     "source": "Al Jazeera",
     "date": "2026-07-14T19:43",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-06T14:37:24.451905+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss"
-  },
-  {
-    "id": "1c7e07ea3066",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T13:07",
-    "headline": "Refugees killed in landslides at Rohingya camps in Bangladesh",
-    "excerpt": "Refugees killed in landslides at Rohingya camps in Bangladesh",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-06T14:37:24.451932+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss"
-  },
-  {
-    "id": "411376b4c1fe",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T12:55",
-    "headline": "Large-scale Russian attack on Ukraine before NATO summit",
-    "excerpt": "Large-scale Russian attack on Ukraine before NATO summit",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-06T14:37:24.451962+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss"
-  },
-  {
-    "id": "f42c194eb8d7",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T12:15",
-    "headline": "Israeli attacks on Gaza kill at least 6 as ‘ceasefire’ violations continue",
-    "excerpt": "Israeli attacks on Gaza City and Khan Younis also wounded more than 20 people, medical sources say.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-06T14:37:24.451988+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/israeli-attacks-on-gaza-kill-at-least-6-as-ceasefire-violations-continue?traffic_source=rss"
-  },
-  {
-    "id": "587d4ca70fe0",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T11:44",
-    "headline": "Scorching heat worsens suffering in Gaza’s displacement camps",
-    "excerpt": "Scorching heat worsens suffering in Gaza&#039;s displacement camps",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-06T14:37:24.452022+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/scorching-heat-worsens-suffering-in-gazas-displacement-camps?traffic_source=rss"
-  },
-  {
-    "id": "495c6b1b77be",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T10:52",
-    "headline": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
-    "excerpt": "Enormous crowds gather in Tehran for third day to mourn amid calls for revenge against the US and Israel.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-06T14:37:24.452056+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei?traffic_source=rss"
   }
 ]
