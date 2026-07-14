@@ -1,5 +1,60 @@
 [
   {
+    "id": "dfe57bb5bf7b",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T18:05",
+    "headline": "US President Trump drops 20% Strait of Hormuz fee plan",
+    "excerpt": "US President Donald Trump says he has abandoned his proposed 20% fee on cargo transiting the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-07-14T18:40:47.197933+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss"
+  },
+  {
+    "id": "9915b0a6b9bf",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T17:31",
+    "headline": "Trump meets with Iraq prime minister at White House, vows ‘a lot of deals’",
+    "excerpt": "Iraqi prime minister says relations with US shifting from militaristic to economic, vows disarmament of factions.",
+    "category": "Diplomatic",
+    "location": "Iraq",
+    "addedAt": "2026-07-14T18:40:47.197992+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/trump-meets-with-iraq-prime-minister-at-white-house-vows-a-lot-of-deals?traffic_source=rss"
+  },
+  {
+    "id": "059ce080d68a",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T17:22",
+    "headline": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
+    "excerpt": "Renewed conflict and tensions in the Strait of Hormuz have slowed fertiliser shipments, worsening hunger in Sudan.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-07-14T18:40:47.198033+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss"
+  },
+  {
+    "id": "d8b41fb5145e",
+    "source": "PressTV",
+    "date": "2026-07-14T18:40",
+    "headline": "Iraq’s Kata'ib Hezbollah: Resistance groups ready to support Iran if war erupts",
+    "excerpt": "A senior security official from Iraq's Kata'ib Hezbollah says resistance groups would respond \"immediately and decisively\" if war were to break out against Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T18:40:49.496022+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772253/Iraq-Kata-ib-Hezbollah-resistance-groups-ready-support-Iran-war"
+  },
+  {
+    "id": "93d616720f2b",
+    "source": "PressTV",
+    "date": "2026-07-14T18:40",
+    "headline": "Iran condemns US pressure campaign against ICC as ‘blackmail’ to suppress justice",
+    "excerpt": "Iran has condemned Washington’s campaign to pressure countries into ending cooperation with the International Criminal Court (ICC)",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T18:40:49.496066+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772251/Iran-condemns-US-pressure-campaign-against-ICC-blackmail-suppress-justice"
+  },
+  {
     "id": "06b7a55b6d98",
     "source": "Al Jazeera",
     "date": "2026-07-14T16:57",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-06T11:04:46.559228+00:00",
     "link": "https://www.aljazeera.com/gallery/2026/7/6/funeral-procession-for-irans-slain-supreme-leader-ali-khamenei-under-way?traffic_source=rss"
-  },
-  {
-    "id": "12bd77d4cba8",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T07:05",
-    "headline": "Khamenei’s funeral procession moves through Tehran",
-    "excerpt": "Crowds filled the streets of Tehran as the funeral procession for Iran’s Supreme Leader, Ayatollah Ali Khamenei, began.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-06T11:04:46.559267+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/khameneis-funeral-procession-moves-through-tehran?traffic_source=rss"
-  },
-  {
-    "id": "07957f23a9a9",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T06:35",
-    "headline": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
-    "excerpt": "Ukrainian President Volodymyr Zelenskyy had warned of a likely attack ahead of meeting with US President Donald Trump.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-06T11:04:46.559302+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss"
-  },
-  {
-    "id": "fb6903880357",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T05:54",
-    "headline": "Is the US really preparing to drop Israel?",
-    "excerpt": "With relations between Israel and the US fraught, some are speculating whether special relationship may be at an end.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-07-06T11:04:46.559336+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/is-the-us-really-preparing-to-drop-israel?traffic_source=rss"
-  },
-  {
-    "id": "6beb195ba0a2",
-    "source": "PressTV",
-    "date": "2026-07-06T11:04",
-    "headline": "Martyred Leader’s coffin carried through Tehran's streets during funeral procession",
-    "excerpt": "Ayatollah Khamenei’s coffin was carried through Tehran's streets as millions of mourners joined the historic funeral procession in the capital.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-07-06T11:04:48.020342+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/06/771705/Martyred-Leader-coffin-carried-through-Tehran-streets-during-funeral-procession"
-  },
-  {
-    "id": "b9b45bfbbe98",
-    "source": "PressTV",
-    "date": "2026-07-06T11:04",
-    "headline": "President Pezeshkian to attend martyred Leader’s funeral in Iraq",
-    "excerpt": "President Masoud Pezeshkian will travel to Iraq on Tuesday to attend the funeral ceremony for the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei.",
-    "category": "Casualties",
-    "location": "Iraq",
-    "addedAt": "2026-07-06T11:04:48.020377+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/06/771716/President-Pezeshkian-attend-martyred-Leader-funeral-Iraq"
   }
 ]
