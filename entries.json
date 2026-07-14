@@ -1,5 +1,82 @@
 [
   {
+    "id": "1a14834ef8c2",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T11:22",
+    "headline": "How new Yemen tensions could complicate the global energy crisis",
+    "excerpt": "If the fighting in Yemen expands, and the Houthis try to block the Bab al-Mandeb, the world economy faces a new shock.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-07-14T11:56:16.978065+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss"
+  },
+  {
+    "id": "b0c16258251e",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T11:00",
+    "headline": "Lebanon, Israel hold talks in Rome on implementing framework deal",
+    "excerpt": "Beirut is hoping for progress towards securing an Israeli withdrawal from southern Lebanon.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-07-14T11:56:16.978111+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss"
+  },
+  {
+    "id": "94b4774bbe79",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T10:59",
+    "headline": "Can Gulf countries defend themselves against renewed Iranian attacks?",
+    "excerpt": "Expensive interceptor missiles are facing mounting pressure from Iran&#039;s cheaply produced drones.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-14T11:56:16.978133+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks?traffic_source=rss"
+  },
+  {
+    "id": "4bd0303a66e8",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T10:53",
+    "headline": "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
+    "excerpt": "Healthcare workers at an Ebola treatment centre in the Democratic Republic of the Congo have gone on strike.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-14T11:56:16.978169+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/dozens-of-healthcare-workers-in-drc-strike-amid-ebola-outbreak?traffic_source=rss"
+  },
+  {
+    "id": "2d464fbae0a5",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T10:34",
+    "headline": "Schumer slams Trump over Iran war",
+    "excerpt": "Schumer slams Trump over Iran war",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T11:56:16.978192+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/schumer-slams-trump-over-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "0b714ccf3329",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T10:11",
+    "headline": "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
+    "excerpt": "Tensions escalate as the US president threatens to destroy Iran&#039;s fortified nuclear site in the south of Tehran.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-14T11:56:16.978233+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss"
+  },
+  {
+    "id": "1ebbe3f33016",
+    "source": "PressTV",
+    "date": "2026-07-14T11:56",
+    "headline": "Iran denounces UK's threat designation of IRGC as ‘unjustified, irresponsible, against intl. law’",
+    "excerpt": "The Iranian Foreign Ministry strongly condemns the British government's decision to designate the Islamic Revolution Guards Corps (IRGC) as a “threat.”",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T11:56:18.692780+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772222/Iran-UK-IRGC-designation"
+  },
+  {
     "id": "d4ed580327d9",
     "source": "Al Jazeera",
     "date": "2026-07-14T09:34",
@@ -5421,82 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-05T14:17:11.325996+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/5/what-to-know-about-the-renewed-coordinated-attacks-across-mali?traffic_source=rss"
-  },
-  {
-    "id": "4db9f78ea066",
-    "source": "PressTV",
-    "date": "2026-07-05T14:17",
-    "headline": "Resistance has transcended borders after Leader’s martyrdom, Iranian commander says",
-    "excerpt": "Rear Admiral Shahram Irani says warns that Israel and the United States now face a united Islamic front following the martyrdom of Ayatollah Seyyed Ali Khamenei.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-05T14:17:13.202460+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/05/771658/leader-martyrdom-resistance-iranian-commander"
-  },
-  {
-    "id": "b73b080c90f7",
-    "source": "PressTV",
-    "date": "2026-07-05T14:17",
-    "headline": "Iranians raise cry of ‘resistance and revenge’ at martyred Leader’s funeral: Top security official",
-    "excerpt": "Iran’s top security official says massive mourners attending the funeral of martyred Ayatollah Khamenei are chanting slogans of resistance against enemies and revenge for the blood of the late Leader.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-05T14:17:13.202503+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/05/771655/-Iranians-raise-cry-of-%E2%80%98resistance-and-revenge%E2%80%99-at-martyred-Leader%E2%80%99s-funeral--Top-security-official-"
-  },
-  {
-    "id": "5f7d0f24f39c",
-    "source": "Al Jazeera",
-    "date": "2026-07-05T11:24",
-    "headline": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
-    "excerpt": "Elyas Abu Safia says his father Hussam can barely breathe or speak after more than 555 days in Israeli prison.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-05T12:20:19.353356+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss"
-  },
-  {
-    "id": "77abdcfc06bc",
-    "source": "Al Jazeera",
-    "date": "2026-07-05T11:06",
-    "headline": "Trump praises US military as it marks 250 years of independence",
-    "excerpt": "Trump praises US military as it marks 250 years of independence",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-05T12:20:19.353405+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss"
-  },
-  {
-    "id": "20950ad03221",
-    "source": "Al Jazeera",
-    "date": "2026-07-05T08:25",
-    "headline": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
-    "excerpt": "Palestinians in Gaza celebrate Morocco&#039;s World Cup victory",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-05T10:52:34.997547+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss"
-  },
-  {
-    "id": "c8a2c10d7ffa",
-    "source": "PressTV",
-    "date": "2026-07-05T10:52",
-    "headline": "West assassinated Leader over unwavering support for Palestinian cause: Ansarullah",
-    "excerpt": "The West assassinated the martyred Leader of the Islamic Revolution because of his unwavering support for the Palestinian cause, according to a member of Yemen’s Ansarullah.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-07-05T10:52:37.273332+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/05/771653/West-assassinated-Leader-over-unwavering-support-Palestinian-cause-Ansarullah"
-  },
-  {
-    "id": "b44bed6525ea",
-    "source": "PressTV",
-    "date": "2026-07-05T10:52",
-    "headline": "Iran’s Army warns of ‘crushing’ response to enemy miscalculation",
-    "excerpt": "Iran’s Army warns that any miscalculation by the enemy against the country will be met with a “crushing” response.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-05T10:52:37.273375+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/05/771647/Army-warns-enemy-miscalculation-crushing-response"
   }
 ]
