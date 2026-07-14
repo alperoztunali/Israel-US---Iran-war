@@ -1,5 +1,93 @@
 [
   {
+    "id": "06b7a55b6d98",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T16:57",
+    "headline": "US consumer prices drop in June as energy costs tumble",
+    "excerpt": "Inflation eased due to cheaper energy, but experts warn price increases may return after renewed US-Iran tensions.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T17:19:28.194481+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble?traffic_source=rss"
+  },
+  {
+    "id": "e8c098294b8e",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T16:45",
+    "headline": "Murder of UK politician Ann Widdecombe was ‘targeted attack’, police say",
+    "excerpt": "Investigators are looking into what motivated the killing and how much preparation was involved.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-14T17:19:28.194541+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/murder-of-uk-politician-ann-widdecombe-was-targeted-attack-police-say?traffic_source=rss"
+  },
+  {
+    "id": "38d3e5fa1af9",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T16:36",
+    "headline": "World leaders travel to Qatar to honour Father Emir",
+    "excerpt": "Leaders from around the world have been in Qatar to offer condolences to Emir Sheikh Tamim.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-14T17:19:28.194578+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/world-leaders-travel-to-qatar-to-honour-father-emir?traffic_source=rss"
+  },
+  {
+    "id": "d35e612d2d2f",
+    "source": "Al Jazeera",
+    "date": "2026-07-14T16:02",
+    "headline": "Israeli attack on north Gaza police station kills eight",
+    "excerpt": "Gaza&#039;s interior ministry denounces &#039;horrific massacre&#039; that killed station chief, other police personnel and a civilian.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-14T17:19:28.194605+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss"
+  },
+  {
+    "id": "518e72b8c67e",
+    "source": "PressTV",
+    "date": "2026-07-14T17:19",
+    "headline": "Ayatollah Khamenei thanks Iranians, Iraqis for massive turnout at martyred Leader’s funeral",
+    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei has thanked the Iranian and Iraqi people for their massive participation in the funeral and memorial ceremonies of the martyred Leader, Ayatollah Seyyed Ali Khamenei.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-14T17:19:30.585355+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772239/Iran-commemoration-ceremony-Mosalla-Mosque-Ayatollah-Khamenei"
+  },
+  {
+    "id": "25cd7328c106",
+    "source": "PressTV",
+    "date": "2026-07-14T17:19",
+    "headline": "Pezeshkian praises southern Iran's resilience amid renewed US aggression",
+    "excerpt": "Iranian President Pezeshkian has praised the resilience of residents in southern Iran, describing the region as a historic symbol of resistance.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-14T17:19:30.585394+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772246/Iran-Pezeshkian-praises-resilience-residents-southern-Iran-US-military-aggression"
+  },
+  {
+    "id": "203628b6d5fe",
+    "source": "PressTV",
+    "date": "2026-07-14T17:19",
+    "headline": "Strait of Hormuz closure plan devised under martyred Leader's command: Top adviser",
+    "excerpt": "Major General Yahya Rahim Safavi says Ayatollah Seyyed Ali Khamenei ordered the preparation of a comprehensive Strait of Hormuz closure plan in 2011, with elements of the strategy now in effect.",
+    "category": "Casualties",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-07-14T17:19:30.585425+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772240/Strait-Hormuz-closure-plan-devised-under-martyred-Leader-direction-Yahya-Rahim-Safavi"
+  },
+  {
+    "id": "e4a2a525ebbe",
+    "source": "PressTV",
+    "date": "2026-07-14T17:19",
+    "headline": "US aggression against Iran closed diplomatic path opened by Islamabad MoU: Russian FM",
+    "excerpt": "Sergey Lavrov rebukes US for renewed aggression against Iran, says the strikes have shut down the diplomatic opening created by Islamabad agreement.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-14T17:19:30.585479+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/14/772244/Russian-FM-rebukes-US-for-renewed-aggression-against-Iran,-says-attacks-closes-door-to-diplomacy"
+  },
+  {
     "id": "67effc79c004",
     "source": "Al Jazeera",
     "date": "2026-07-14T15:20",
@@ -5410,93 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-07-06T11:04:48.020377+00:00",
     "link": "https://presstv.ir/Detail/2026/07/06/771716/President-Pezeshkian-attend-martyred-Leader-funeral-Iraq"
-  },
-  {
-    "id": "8901c642b568",
-    "source": "PressTV",
-    "date": "2026-07-06T11:04",
-    "headline": "Pezeshkian vows to advance martyred Leader's legacy of unity, progress",
-    "excerpt": "The Iranian president says martyred Ayatollah Khamenei taught that nation’s unity is the country’s greatest asset.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-06T11:04:48.020405+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/06/771717/Pezeshkian-vows-advance-martyred-Leader-legacy-unity-progress"
-  },
-  {
-    "id": "1f2a7df73603",
-    "source": "PressTV",
-    "date": "2026-07-06T11:04",
-    "headline": "China test-fires nuclear-capable missile from submarine into Pacific",
-    "excerpt": "China conducts a submarine-launched ballistic missile test on Monday, firing a nuclear-capable missile into the Pacific Ocean.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-06T11:04:48.020427+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/06/771708/China-test-fires-nuclear-capable-missile-from-submarine-into-Pacific"
-  },
-  {
-    "id": "9c1f979f5d6d",
-    "source": "PressTV",
-    "date": "2026-07-06T11:04",
-    "headline": "Israel continues to violate truce with Lebanon amid officials’ inaction: Hezbollah MP",
-    "excerpt": "A Hezbollah-linked lawmaker says Israeli ceasefire violations and house demolitions continue in southern Lebanon in light of the Beirut government’s complete silence and inaction.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-06T11:04:48.020458+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/06/771710/Israeli-ceasefire-violations,-house-demolitions-continue-amid-Lebanon-govt--inaction--Hezbollah-MP"
-  },
-  {
-    "id": "d8f2f1c55a7c",
-    "source": "PressTV",
-    "date": "2026-07-06T11:04",
-    "headline": "Hamas decries Israeli rhetoric over military build-up in Gaza as ‘incitement’",
-    "excerpt": "The Hamas resistance movement has denounced the Israeli claims about the group’s rapid military buildup as “clear incitement” intended to provide a cover for ongoing attacks in the Gaza Strip.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-06T11:04:48.020495+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/06/771700/Hamas-censures-Israeli-rhetoric-over-military-build-up-in-Gaza-as-%E2%80%9Cincitement%E2%80%9D"
-  },
-  {
-    "id": "25dbf0044852",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T03:04",
-    "headline": "OPEC+ countries say they will expand monthly oil production",
-    "excerpt": "Seven OPEC+ members, including Saudi Arabia and Russia, to increase output by 188,000 barrels per day.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-07-06T06:02:47.183523+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production?traffic_source=rss"
-  },
-  {
-    "id": "8a9a6844e8ae",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T02:10",
-    "headline": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-    "excerpt": "The move underscores growing scrutiny of the conflict mineral trade fuelling violence in eastern DR Congo.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-06T06:02:47.183572+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss"
-  },
-  {
-    "id": "bb3fc6d50f46",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T00:00",
-    "headline": "Iran war live: Khamenei’s funeral procession under way in Tehran",
-    "excerpt": "The funeral procession is expected to last 10-12 hours and has drawn crowds of hundreds of thousands of mourners.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-06T06:02:47.183618+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "736be77d2ed7",
-    "source": "PressTV",
-    "date": "2026-07-06T06:02",
-    "headline": "Tehran funeral procession starts as millions gather to honor martyred Leader",
-    "excerpt": "Organizers expect the procession to last 10 to 12 hours, winding along a 10-kilometer route.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-07-06T06:02:48.998982+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/05/771692/Huge-crowds-gather-in-Tehran-for-historic-funeral-procession-of-martyred-Leader-Ayatollah-Khamenei"
   }
 ]
