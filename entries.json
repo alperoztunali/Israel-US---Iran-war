@@ -1,5 +1,27 @@
 [
   {
+    "id": "69d34aa08497",
+    "source": "Al Jazeera",
+    "date": "2026-07-13T23:41",
+    "headline": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
+    "excerpt": "Three Palestinians killed and 15 wounded in Israeli attacks across Gaza as ceasefire violations continue.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-14T00:10:43.994359+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
+  },
+  {
+    "id": "e12b97728474",
+    "source": "PressTV",
+    "date": "2026-07-14T00:10",
+    "headline": "Yemeni missiles and drones hit Abha Airport after Saudi aggression",
+    "excerpt": "The Yemeni Armed Forces have carried out a successful military operation targeting Saudi Arabia's Abha International Airport with ballistic missiles and drones.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-07-14T00:10:46.268747+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/13/772195/Yemeni-missiles-and-drones-hit-Abha-Airport-after-Saudi-assault-on-Sana%E2%80%99a-international-airport"
+  },
+  {
     "id": "0b791a066b3f",
     "source": "Al Jazeera",
     "date": "2026-07-13T20:41",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-04T18:42:15.956374+00:00",
     "link": "https://presstv.ir/Detail/2026/07/04/771622/Qalibaf--Iran-s-resistance-dealt-political,-military-defeat-to-US,-Israel"
-  },
-  {
-    "id": "8bb53fa6eeb1",
-    "source": "PressTV",
-    "date": "2026-07-04T18:42",
-    "headline": "Iran doesn’t trust US, will give 'decisive response' to any MoU violation: Acting defense minister",
-    "excerpt": "Iran's acting defense minister warns any violation of the Iran-US ceasefire agreement will be met with a firm and decisive response.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-04T18:42:15.956417+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771623/1-%09Iran%E2%80%99s-acting-defense-minister-warns-of-%E2%80%98decisive-response%E2%80%99-to-any-MoU-violation"
-  },
-  {
-    "id": "787070362a0f",
-    "source": "PressTV",
-    "date": "2026-07-04T18:42",
-    "headline": "Martyr Ayatollah Khamenei was pillar of support for Palestine: Islamic Jihad",
-    "excerpt": "Palestinian Islamic Jihad has paid tribute to Iran's martyred Leader Ayatollah Seyyed Ali Khamenei, describing him as a steadfast supporter of the Palestinian cause.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-04T18:42:15.956440+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/04/771624/Islamic-Jihad-hails-martyred-Iranian-Leader-as-pillar-of-support-for-Palestine"
   }
 ]
