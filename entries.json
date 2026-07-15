@@ -1,5 +1,60 @@
 [
   {
+    "id": "ab5ea39ff5c4",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T07:58",
+    "headline": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
+    "excerpt": "Oil prices rise as the US renews a blockade on Iranian ports and carries out a wave of air strikes.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-15T08:30:55.437493+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss"
+  },
+  {
+    "id": "d9d083e5a9ad",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T06:55",
+    "headline": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
+    "excerpt": "Hassan Khalil Almukayed is among at least 15 Palestinian doctors from Gaza currently in Israeli detention.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-15T08:30:55.437541+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge?traffic_source=rss"
+  },
+  {
+    "id": "37e87d58b7db",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T06:29",
+    "headline": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
+    "excerpt": "Takeover bid 10 years ago sped up efforts to expand civilian oversight, experts say, reducing chances of another coup.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-15T08:30:55.437591+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/15/how-failed-2016-coup-reshaped-turkiyes-and-civil-military-relations?traffic_source=rss"
+  },
+  {
+    "id": "39800ee4e85e",
+    "source": "PressTV",
+    "date": "2026-07-15T08:30",
+    "headline": "Impact footage captures Iranian strikes on US assets in Persian Gulf",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC) and national army have announced a series of missile and drone strikes against US military positions across Kuwait, Bahrain, and Jordan, describing the attacks as retaliation for American strikes on Iranian territory.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-15T08:30:57.071125+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/15/772286/Impact-footage-captures-Iranian-strikes-on-US-assets-in-Persian-Gulf-"
+  },
+  {
+    "id": "065ca5cee9b7",
+    "source": "PressTV",
+    "date": "2026-07-15T08:30",
+    "headline": "Iran outlines 42 US violations of ceasefire pact in letter to UN",
+    "excerpt": "Iran has formally complained to the UN that the US is systematically violating a landmark ceasefire agreement, documenting 42 breaches and calling on the Security Council to take \"immediate, effective, and decisive measures\" against Washington.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-15T08:30:57.071162+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/15/772279/Iran-Iravani-UN-UNSC-Guterres-US-Yemen-weapons-Ansarullah-Persian-Gulf-strikes-disinformation"
+  },
+  {
     "id": "9078305a5413",
     "source": "Al Jazeera",
     "date": "2026-07-15T05:34",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-06T21:11:28.068913+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/crowds-hold-destroy-israel-banner-at-spains-pamplona-bull-run?traffic_source=rss"
-  },
-  {
-    "id": "6c42a4c43ca8",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T20:11",
-    "headline": "What is the fallout of the increasing violence in Mali?",
-    "excerpt": "Coalition of rebels and armed groups carries out another series of attacks.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-06T21:11:28.068953+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/6/what-is-the-fallout-of-the-increasing-violence-in-mali?traffic_source=rss"
-  },
-  {
-    "id": "e6b600ec4ce8",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T19:56",
-    "headline": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
-    "excerpt": "Ayatollah Ali Khamenei’s body arrives in Qom as millions of mourners honour his leadership over past three days.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-06T21:11:28.068987+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/body-of-irans-slain-supreme-leader-ali-khamenei-arrives-in-qom?traffic_source=rss"
-  },
-  {
-    "id": "40d1e2d82635",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T19:09",
-    "headline": "Nigeria sees no sign that anti-immigrant violence is waning in South Africa",
-    "excerpt": "South Africa&#039;s government has been accused of not doing enough to tackle xenophobic attacks.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-06T19:20:05.091122+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/nigeria-sees-no-sign-that-anti-immigrant-violence-is-waning-in-south-africa?traffic_source=rss"
-  },
-  {
-    "id": "b89e47e1e554",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T18:28",
-    "headline": "Iran reappoints a familiar face to powerful post during Khamenei funeral",
-    "excerpt": "The judiciary chief has emphasised the need to avenge Supreme Leader Ali Khamenei and prosecute foreign &#039;aggressors&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-06T19:20:05.091171+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/iran-reappoints-a-familiar-face-to-powerful-post-during-khamenei-funeral?traffic_source=rss"
-  },
-  {
-    "id": "e32150ed21f7",
-    "source": "PressTV",
-    "date": "2026-07-06T19:20",
-    "headline": "Preparations done for martyred Leader’s funeral in Iraq: Organizing group",
-    "excerpt": "The Higher Committee overseeing the funeral of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, in Iraq says necessary preparations have been made for the procession in Najaf and Karbala.",
-    "category": "Casualties",
-    "location": "Iraq",
-    "addedAt": "2026-07-06T19:20:07.412743+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/06/771742/Preparations-completed-for-martyred-Leader%E2%80%99s-funeral-in-Iraq--Committee"
   }
 ]
