@@ -1,5 +1,60 @@
 [
   {
+    "id": "dcbeb26104c3",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T20:34",
+    "headline": "Pezeshkian vows Iran will defend ‘every inch’ of its territory",
+    "excerpt": "President Masoud Pezeshkian vowed Iran will defend every inch of its territory, saying attempts to tear the country apar",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-15T21:04:53.838371+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/pezeshkian-vows-iran-will-defend-every-inch-of-its-territory?traffic_source=rss"
+  },
+  {
+    "id": "21a5056202fc",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T19:59",
+    "headline": "Russia pounds Ukraine with missile, drone strikes",
+    "excerpt": "Footage shows firefighters extinguishing a massive fire after Russia launched air strikes on Ukraine.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-07-15T21:04:53.838410+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss"
+  },
+  {
+    "id": "cbfd58860677",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T19:58",
+    "headline": "Ukraine strikes 20 Russian vessels",
+    "excerpt": "Ukraine released video of strikes on 20 Russian vessels in the Black Sea, including 17 oil tankers.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-07-15T21:04:53.838444+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/ukraine-strikes-20-russian-vessels?traffic_source=rss"
+  },
+  {
+    "id": "83e77cfd3ce4",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T19:54",
+    "headline": "The history of the US and Iraq’s complicated relationship",
+    "excerpt": "As Iraq’s prime minister visits Washington seeking deeper economic ties.",
+    "category": "Naval",
+    "location": "Iraq",
+    "addedAt": "2026-07-15T21:04:53.838477+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss"
+  },
+  {
+    "id": "b2686830b966",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T19:48",
+    "headline": "Protests in Paris, Gaza for release of Hussam Abu Safia",
+    "excerpt": "Protests were held in Paris and Gaza demanding the release of Palestinian doctor Hussam Abu Safia.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-15T21:04:53.838509+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss"
+  },
+  {
     "id": "2b7e97a30c6a",
     "source": "Al Jazeera",
     "date": "2026-07-15T18:58",
@@ -5443,60 +5498,5 @@
     "location": "Strait Of Hormuz",
     "addedAt": "2026-07-07T18:21:27.769600+00:00",
     "link": "https://presstv.ir/Detail/2026/07/07/771794/Any-US-provocation-in-Strait-of-Hormuz-will-be-met-with-decisive-response-Source-to-Press-TV"
-  },
-  {
-    "id": "b21f94f185ed",
-    "source": "PressTV",
-    "date": "2026-07-07T18:21",
-    "headline": "‘People of Iran have spoken’: Netizens astonished by scale of funeral for Iran’s martyred Leader",
-    "excerpt": "Journalists, analysts and political commentators from around the world took to social media to describe the funeral of the martyred Leader of the Islamic Revolution as an extraordinary display of public participation.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-07T18:21:27.769634+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/07/771789/Iran-martyred-Leader-funeral-ceremonies-Netizens-astonished-turnout-social-media"
-  },
-  {
-    "id": "58ae12597717",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T14:53",
-    "headline": "Netanyahu’s Christian comments ‘aimed at sowing strife’: Lebanese analysts",
-    "excerpt": "After Netanyahu&#039;s statements on Lebanese Christians were denounced in Lebanon, analysts call Israel&#039;s PM a liar.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-07-07T16:04:47.761301+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/7/netanyahus-christian-comments-aimed-at-sowing-strife-lebanese-analysts?traffic_source=rss"
-  },
-  {
-    "id": "375410ac5153",
-    "source": "PressTV",
-    "date": "2026-07-07T16:04",
-    "headline": "Iran vows response to any aggression, hails self-reliant defense as legacy of martyred Leader",
-    "excerpt": "Iran’s Defense Ministry spokesman says the country’s self-sufficient defense capability is the strategic legacy of the martyred Leader of the Islamic Revolution.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-07T16:04:49.452739+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/07/771783/Self-reliant-defense-enduring-legacy-of-martyred-Leader-Defense-Ministry-spox"
-  },
-  {
-    "id": "27069ecc2ea9",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T13:16",
-    "headline": "Two mothers, each certain a viral Gaza prisoner photo shows her son",
-    "excerpt": "Two Palestinian mothers believe a viral image of a bound Gaza detainee shows their missing son.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-07T13:27:52.362615+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/two-mothers-each-certain-a-viral-gaza-prisoner-photo-shows-her-son?traffic_source=rss"
-  },
-  {
-    "id": "7af171d20c94",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T13:08",
-    "headline": "At least nine police officers killed in southwestern Pakistan attack",
-    "excerpt": "Shahid Rind, a spokesman for the Balochistan government, says 15 assailants killed in &#039;clearance operations&#039;.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-07T13:27:52.362662+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss"
   }
 ]
