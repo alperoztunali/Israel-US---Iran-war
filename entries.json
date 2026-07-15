@@ -1,5 +1,38 @@
 [
   {
+    "id": "f437c4dbbc30",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T16:24",
+    "headline": "Father, mother, daughter killed in Israeli attack on Gaza home",
+    "excerpt": "Palestinians held a funeral for a father, a mother and their six-year-old daughter killed in an Israeli air attack.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-15T17:21:58.796158+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss"
+  },
+  {
+    "id": "66e00ad18a80",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T16:02",
+    "headline": "Pro-government militia seizes boat with ‘Houthi weapons materials’ in Yemen",
+    "excerpt": "A pro-government militia said it intercepted a boat carrying ‘weapon-making equipment for the Houthis’ in Yemen.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-07-15T17:21:58.796201+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/pro-government-militia-seizes-boat-with-houthi-weapons-materials-in-yemen?traffic_source=rss"
+  },
+  {
+    "id": "8f2363613a98",
+    "source": "PressTV",
+    "date": "2026-07-15T17:22",
+    "headline": "Iran condemns Israeli war crimes in Gaza and West Bank, says US complicit",
+    "excerpt": "It also condemned the continued inhumane siege of Gaza, which has blocked the entry of basic necessities.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-15T17:22:03.311118+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/15/772322/Iran-condemns-continued-war-crimes-in-Gaza-West-Bank-says-US-complicit"
+  },
+  {
     "id": "7b2028807a1d",
     "source": "Al Jazeera",
     "date": "2026-07-15T15:35",
@@ -5465,38 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-07-07T11:13:19.814255+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/syrias-capital-rocked-by-blasts-during-macron-visit?traffic_source=rss"
-  },
-  {
-    "id": "0ea4c18160b3",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T08:31",
-    "headline": "After Iran war upheaval, global shipping eyes return to status quo",
-    "excerpt": "Industry known for its resilience is likely to emerge from war relatively unchanged, analysts say.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-07T11:13:19.814282+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/7/after-iran-war-upheaval-global-shipping-eyes-return-to-status-quo?traffic_source=rss"
-  },
-  {
-    "id": "7c646e8cfc91",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T08:28",
-    "headline": "Explosions in Damascus as French president visits",
-    "excerpt": "Explosions in Damascus as French president visits",
-    "category": "Other",
-    "location": "Damascus",
-    "addedAt": "2026-07-07T11:13:19.814317+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss"
-  },
-  {
-    "id": "4cbcec5f1025",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T07:32",
-    "headline": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
-    "excerpt": "At least 18 people, including four police officers, were wounded in the blasts, Syria&#039;s Interior Ministry says.",
-    "category": "Casualties",
-    "location": "Syria",
-    "addedAt": "2026-07-07T11:13:19.814347+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss"
   }
 ]
