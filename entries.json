@@ -1,5 +1,38 @@
 [
   {
+    "id": "7ee019518e5b",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T17:56",
+    "headline": "Gas tanker explodes in fire near army barracks in Lebanon",
+    "excerpt": "A gas tanker exploded after soaring temperatures sparked a fire near the Lebanese Army barracks in Hermel.",
+    "category": "Naval",
+    "location": "Lebanon",
+    "addedAt": "2026-07-15T18:38:59.634185+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/gas-tanker-explodes-in-fire-near-army-barracks-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "a589ea4f7812",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T17:38",
+    "headline": "Mapping the latest US strikes across Iran",
+    "excerpt": "US attacks kill dozens in Iran as Iranian forces target regional bases, pushing a fragile ceasefire closer to collapse.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-15T18:38:59.634226+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran?traffic_source=rss"
+  },
+  {
+    "id": "4ad868181341",
+    "source": "PressTV",
+    "date": "2026-07-15T18:39",
+    "headline": "Iran has no plans for negotiations, focused on defense: FM spokesman",
+    "excerpt": "Baghaei says the country will not negotiate as long as the US violates its commitments under the MoU.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-15T18:39:03.191431+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/15/772329/Iran-Baghaei-rejection-talks-US-attacks-MoU"
+  },
+  {
     "id": "f437c4dbbc30",
     "source": "Al Jazeera",
     "date": "2026-07-15T16:24",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-07T11:13:19.814128+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss"
-  },
-  {
-    "id": "32cad7422233",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T10:38",
-    "headline": "What is the new Gaza administration as Hamas dissolves government?",
-    "excerpt": "The NCAG will oversee civilian affairs such as health and education, as well as security.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-07T11:13:19.814178+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss"
-  },
-  {
-    "id": "2b86c58e2bdc",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T10:32",
-    "headline": "Explosions in Damascus during Macron visit: What we know",
-    "excerpt": "Blasts occurred near hotel French president was reportedly staying in shortly after he departs for presidential palace.",
-    "category": "Other",
-    "location": "Damascus",
-    "addedAt": "2026-07-07T11:13:19.814219+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/7/explosions-in-damascus-during-macron-visit-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "658eda50ca12",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T10:15",
-    "headline": "Syria’s capital rocked by blasts during Macron visit",
-    "excerpt": "Syria’s capital rocked by blasts during Macron visit",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-07T11:13:19.814255+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/syrias-capital-rocked-by-blasts-during-macron-visit?traffic_source=rss"
   }
 ]
