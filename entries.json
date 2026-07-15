@@ -1,5 +1,49 @@
 [
   {
+    "id": "5134d1baeac2",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T02:46",
+    "headline": "Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’",
+    "excerpt": "US President Donald Trump and Iraqi PM Ali al-Zaidi have met at the White House pledging to deepen economic ties.",
+    "category": "Diplomatic",
+    "location": "Iraq",
+    "addedAt": "2026-07-15T03:37:06.759390+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss"
+  },
+  {
+    "id": "e953d32551fd",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T02:01",
+    "headline": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
+    "excerpt": "France striker admits Spain controlled the game and made them pay for errors in the semifinal in Dallas.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-15T03:37:06.759443+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/15/mbappe-blames-technical-tactical-blunders-for-world-cup-semifinal-loss?traffic_source=rss"
+  },
+  {
+    "id": "56100d063366",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T01:23",
+    "headline": "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
+    "excerpt": "Striker says FIFA&#039;s decision to suspend his one-match ban led to &#039;a lot of outside noise&#039; before USA&#039;s knockout match.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-15T03:37:06.759490+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/15/us-star-balogun-knew-red-card-reversal-would-cause-a-lot-of-controversy?traffic_source=rss"
+  },
+  {
+    "id": "f89cb8185d3f",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T00:00",
+    "headline": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
+    "excerpt": "Iran&#039;s bridges, power plants possible targets, Trump says, adding that strikes on Iran will continue until he says.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-15T03:37:06.759547+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss"
+  },
+  {
     "id": "74fa814a0bed",
     "source": "PressTV",
     "date": "2026-07-14T23:13",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-06T17:29:09.545762+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/lebanon-latest-teacher-killed-by-israeli-airstrike-2?traffic_source=rss"
-  },
-  {
-    "id": "39f1662afc3d",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T15:54",
-    "headline": "Netanyahu says his ties with Trump are ‘fine’, takes aim at Turkiye",
-    "excerpt": "In Fox News interview, Israeli prime minister lauds US alliance and argues that Ankara should not receive F-35 jets.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-07-06T17:29:09.545809+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/netanyahu-says-his-ties-with-trump-are-fine-takes-aim-at-turkiye?traffic_source=rss"
-  },
-  {
-    "id": "d230528af8cb",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T15:38",
-    "headline": "UN discusses prevention of genocide: Six times it failed to do just that",
-    "excerpt": "The UN General Assembly meets amid Israel&#039;s genocide on Gaza, Myanmar&#039;s genocide against the Rohingya, and other crises.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-06T17:29:09.545855+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/un-discusses-prevention-of-genocide-six-times-it-failed-to-do-just-that?traffic_source=rss"
-  },
-  {
-    "id": "479ac0e264b1",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T15:18",
-    "headline": "Is NATO at breaking point as it meets in Turkiye?",
-    "excerpt": "NATO leaders gather in Ankara to tackle US-Europe tensions, defence gaps and support for Ukraine’s military resilience.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-06T17:29:09.545900+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/is-nato-at-breaking-point-as-it-meets-in-turkiye?traffic_source=rss"
-  },
-  {
-    "id": "684e4ce75899",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T15:02",
-    "headline": "Israel’s Smotrich declares ‘revolution’ in West Bank settlement expansion",
-    "excerpt": "Smotrich declares a settlement &#039;revolution&#039; as Israel approves 13 new outposts during big increase in settler violence.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-06T17:29:09.545948+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/israels-smotrich-declares-revolution-in-west-bank-settlement-expansion?traffic_source=rss"
   }
 ]
