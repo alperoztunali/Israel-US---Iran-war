@@ -1,5 +1,71 @@
 [
   {
+    "id": "8caf6ef8c83e",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T09:15",
+    "headline": "Iran launches attacks across region as US strikes continue",
+    "excerpt": "Iran attacked Kuwait, Bahrain, and Jordan on Tuesday night, claiming to destroy the US Fifth Fleet’s command centre.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-15T10:29:13.774650+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-launches-attacks-across-region-as-us-strikes-continue?traffic_source=rss"
+  },
+  {
+    "id": "9582c5b44cca",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T08:55",
+    "headline": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
+    "excerpt": "At least three people killed and three others wounded in Russian strikes on Odesa, city&#039;s military administrator says.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-15T10:29:13.774690+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss"
+  },
+  {
+    "id": "932836be7cd9",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T08:44",
+    "headline": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
+    "excerpt": "Less than a month after signing an MoU as a step towards peace, the US reinstates a naval blockade on Iranian ports.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-15T10:29:13.774722+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "731e06550a43",
+    "source": "PressTV",
+    "date": "2026-07-15T10:29",
+    "headline": "Iran details satellite constellation, radar satellite plans through 2026",
+    "excerpt": "Iran plans to advance its space program through 2026 with deployment of the Shahid Soleimani constellation and the launch of Pars-2 and its first homegrown radar satellite.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-15T10:29:15.387112+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/15/772291/Iran-Salarieh-ISA-Nahid-3-satellite-Shahid-Soleimani-constellation-Pars-2-Rad-1"
+  },
+  {
+    "id": "932f3eb9afa4",
+    "source": "PressTV",
+    "date": "2026-07-15T10:29",
+    "headline": "US targets Iran's civilian infrastructure after Trump threatens to hit bridges, power plants",
+    "excerpt": "The terrorist US army targets civilian infrastructure in southwestern Iran, as Trump threatens to expand attacks to bridges and power plants.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-15T10:29:15.387162+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/15/772278/US-terrorist-army-targets-Iran-s-civilian-infrastructure-as-Trump-threatens-wider-attacks-on-bridges,-power-grid"
+  },
+  {
+    "id": "5272c5c48a80",
+    "source": "PressTV",
+    "date": "2026-07-15T10:29",
+    "headline": "Iran strongly rejects Trump’s claim of 11-hour talks in Oman",
+    "excerpt": "Iran’s Deputy Foreign Minister rejects US President Donald Trump’s claim that Tehran and Washington held 11 hours of negotiations.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-07-15T10:29:15.387192+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/15/772283/Iran-rejects-Trump-claim-11-hour-talks-Oman"
+  },
+  {
     "id": "ab5ea39ff5c4",
     "source": "Al Jazeera",
     "date": "2026-07-15T07:58",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-06T23:46:56.068227+00:00",
     "link": "https://presstv.ir/Detail/2026/07/06/771745/Senior-official--%E2%80%98Blood-of-martyred-Leader-ignites-popular-awakening%E2%80%99--%C2%A0"
-  },
-  {
-    "id": "c4c3637bb17f",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T22:11",
-    "headline": "USA fans, Mamdani, experts react to FIFA-Trump-Balogun red card controversy",
-    "excerpt": "USA supporters divided on Trump&#039;s intervention and FIFA&#039;s decision to suspend striker&#039;s ban in Belgium World Cup match.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-06T22:39:53.775116+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/6/usa-fans-mamdani-experts-react-to-fifa-trump-balogun-red-card-controversy?traffic_source=rss"
-  },
-  {
-    "id": "3a106f62a420",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T21:51",
-    "headline": "Morocco says it has dismantled ISIL-linked cell planning attack",
-    "excerpt": "Police arrest 10 suspects, seizing bladed weapons, military-style clothes and bomb‑making instructions.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-07-06T22:39:53.775158+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/morocco-says-it-has-dismantled-isil-linked-cell-planning-attack?traffic_source=rss"
-  },
-  {
-    "id": "1dee3dbd35dc",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T21:29",
-    "headline": "Influencers say they’re ‘honoured’ to attend Khamenei funeral",
-    "excerpt": "Several social media influencers travelled to Iran for the state funeral of Supreme Leader Ali Khamenei.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-06T22:39:53.775199+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss"
-  },
-  {
-    "id": "8c6248b01faf",
-    "source": "PressTV",
-    "date": "2026-07-06T22:39",
-    "headline": "‘Speak with respect, Mr. Trump; or Iranians will reply in differnt language’: SNSC chief",
-    "excerpt": "Iran’s Secretary of the Supreme National Security Council (SNSC), Mohammad Bagher Zolghadr, has delivered a firm response to US President Donald Trump’s latest threats against the Iranian nation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-06T22:39:55.648761+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/06/771744/%E2%80%98Speak-with-respect,-Mr--Trump--or-Iranians-will-reply-in-differnt-language%E2%80%99--SNSC-chief"
-  },
-  {
-    "id": "38fefee29ffc",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T20:50",
-    "headline": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
-    "excerpt": "The French president is the first leader from western Europe to visit Syria since the overthrow of Bashar al-Assad.",
-    "category": "Diplomatic",
-    "location": "Syria",
-    "addedAt": "2026-07-06T21:11:28.068857+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss"
-  },
-  {
-    "id": "29e8315517b0",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T20:33",
-    "headline": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
-    "excerpt": "A giant banner reading ‘Destroy Israel’ was unfurled as thousands gathered for the San Fermin bull run festival.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-06T21:11:28.068913+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/crowds-hold-destroy-israel-banner-at-spains-pamplona-bull-run?traffic_source=rss"
   }
 ]
