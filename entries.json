@@ -1,5 +1,49 @@
 [
   {
+    "id": "9078305a5413",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T05:34",
+    "headline": "How Iran’s southern coast is bearing the brunt of US attacks",
+    "excerpt": "Donald Trump says the US is going to bomb Iran’s civilian infrastructure if there is no deal by next week.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-15T05:59:45.237255+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks?traffic_source=rss"
+  },
+  {
+    "id": "974c150af332",
+    "source": "Al Jazeera",
+    "date": "2026-07-15T03:47",
+    "headline": "Saving shea: How a Ugandan woman is turning waste into clean energy",
+    "excerpt": "As demand for charcoal threatens indigenous trees, communities are finding new value in what was once treated as waste.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-07-15T05:59:45.237311+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/15/saving-shea-how-a-ugandan-woman-is-turning-waste-into-clean-energy?traffic_source=rss"
+  },
+  {
+    "id": "026330c5387e",
+    "source": "PressTV",
+    "date": "2026-07-15T05:59",
+    "headline": "IRGC unleashes new wave of retaliatory strikes on US military facilities in Kuwait, Bahrain, Jordan",
+    "excerpt": "The IRGC announces a new series of retaliatory strikes against US military facilities in Kuwait, Bahrain, and Jordan.",
+    "category": "Other",
+    "location": "Jordan",
+    "addedAt": "2026-07-15T05:59:46.764486+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/15/772269/Iran-IRGC-new-strikes-United-States-Kuwait-Bahrain-Jordan"
+  },
+  {
+    "id": "5b10afbbf62f",
+    "source": "PressTV",
+    "date": "2026-07-15T05:59",
+    "headline": "Iran Army hits US airbase in Jordan in eighth round of retaliatory strikes",
+    "excerpt": "Iran’s Army conducts an eighth round of drone strikes against American targets in the region in response to the United States’ violations against Iranian territory, targeting an airbase in Jordan.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-15T05:59:46.764519+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/15/772275/Iranian-Army-retaliatory-drone-US-base-Jordan"
+  },
+  {
     "id": "5134d1baeac2",
     "source": "Al Jazeera",
     "date": "2026-07-15T02:46",
@@ -5454,49 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-07-06T19:20:07.412743+00:00",
     "link": "https://presstv.ir/Detail/2026/07/06/771742/Preparations-completed-for-martyred-Leader%E2%80%99s-funeral-in-Iraq--Committee"
-  },
-  {
-    "id": "2f8d68019394",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T17:20",
-    "headline": "Khamenei family mourns, but Mojtaba’s absence fuels public insecurity",
-    "excerpt": "Many Tehran residents say the absence of Iran&#039;s new supreme leader makes them question their own security.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-06T17:29:09.545654+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/khamenei-family-mourns-but-mojtabas-absence-fuels-public-insecurity?traffic_source=rss"
-  },
-  {
-    "id": "e89248df320c",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T17:09",
-    "headline": "UN rights body demands release of Palestinian doctor detained by Israel",
-    "excerpt": "Hussam Abu Safia&#039;s family and lawyer say his life is in imminent danger and shows signs of having been tortured.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-06T17:29:09.545700+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/un-rights-body-demands-release-of-palestinian-doctor-detained-by-israel?traffic_source=rss"
-  },
-  {
-    "id": "4f709a097d88",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T16:54",
-    "headline": "Ex-Syrian intelligence chief in Raqqa convicted of torture in Austria",
-    "excerpt": "Khaled al-Halabi denied involvement, but the court deemed him responsible for abuse of detainees in Raqqa.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-06T17:29:09.545737+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/6/ex-syrian-intelligence-chief-in-raqqa-convicted-of-torture-in-austria?traffic_source=rss"
-  },
-  {
-    "id": "38fd7322bab3",
-    "source": "Al Jazeera",
-    "date": "2026-07-06T16:10",
-    "headline": "Lebanon latest: Teacher killed by Israeli airstrike",
-    "excerpt": "Al Jazeera’s Heidi Pett brings you the latest from Lebanon, where Israeli strikes continue despite a ‘ceasefire’.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-07-06T17:29:09.545762+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/lebanon-latest-teacher-killed-by-israeli-airstrike-2?traffic_source=rss"
   }
 ]
