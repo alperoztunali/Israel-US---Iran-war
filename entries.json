@@ -1,5 +1,49 @@
 [
   {
+    "id": "ea647a4cc2cf",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T16:13",
+    "headline": "Vance says Israeli campaign tried to sway US opinion against Iran diplomacy",
+    "excerpt": "The US vice-president also said he faced &#039;vicious&#039; personal attacks over his diplomatic outreach to end war.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-16T16:42:37.251397+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/vance-says-israeli-campaign-tried-to-sway-us-opinion-against-iran-diplomacy?traffic_source=rss"
+  },
+  {
+    "id": "f6e8264e93a0",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T15:53",
+    "headline": "Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’",
+    "excerpt": "Attacks continue in violation of the October agreement with more than 1,100 Palestinians killed since then.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-16T16:42:37.251445+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/israeli-attacks-kill-at-least-five-palestinians-in-gaza-despite-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "8bdbf03d0f95",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T15:44",
+    "headline": "Hamas leadership run-off expected between Meshaal and al-Hayya",
+    "excerpt": "Israeli assassinations of several key leaders force Hamas to find new head, a process expected to be completed next week",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-07-16T16:42:37.251479+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/hamas-leadership-run-off-expected-between-meshaal-and-al-hayya?traffic_source=rss"
+  },
+  {
+    "id": "47252f069cfe",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T15:38",
+    "headline": "Air defences intercept drones over Erbil, Iraq",
+    "excerpt": "Verified eyewitness video captures multiple aerial interceptions over Erbil, Iraq",
+    "category": "Missile/Drone",
+    "location": "Iraq",
+    "addedAt": "2026-07-16T16:42:37.251504+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/air-defences-intercept-drones-over-erbil-iraq?traffic_source=rss"
+  },
+  {
     "id": "4e5f6f2738b2",
     "source": "Al Jazeera",
     "date": "2026-07-16T14:46",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-08T11:19:28.196171+00:00",
     "link": "https://presstv.ir/Detail/2026/07/08/771834/Iran-Sayyari-coasts-US-hell-Trump-Armed-Forces-IRGC-Kharg-Strait-of-Hormuz"
-  },
-  {
-    "id": "def5b6e76e25",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T08:54",
-    "headline": "The Iranian Striker: The journey of Mehdi Taremi | Al Jazeera Originals",
-    "excerpt": "From Bushehr to the world stage, Mehdi Taremi reflects on football, sacrifice and representing Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-08T09:14:50.637363+00:00",
-    "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/7/8/aje-onl-aj_or_irn_football-080726?traffic_source=rss"
-  },
-  {
-    "id": "c7c43223e46c",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T08:27",
-    "headline": "Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq",
-    "excerpt": "Khamenei&#039;s coffin made its way through the streets of Najaf to the shrine of Imam Ali, Prophet Muhammad&#039;s son-in-law.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-08T09:14:50.637416+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/funeral-events-for-irans-slain-supreme-leader-khamenei-under-way-in-iraq?traffic_source=rss"
-  },
-  {
-    "id": "f15c9ef9006b",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T04:02",
-    "headline": "Oil surges as US strikes Iran, reversing return to pre-war prices",
-    "excerpt": "Brent crude rises above $76 a barrel for the first time in two weeks amid renewed violence in Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-08T09:14:50.637470+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels?traffic_source=rss"
-  },
-  {
-    "id": "20640a20da04",
-    "source": "PressTV",
-    "date": "2026-07-08T09:14",
-    "headline": "Iran Army expands retaliation with drone strikes on US forces in Bahrain",
-    "excerpt": "The Iranian Army says it has carried out drone strikes against US military assembly points at Sheikh Isa Air Base in Bahrain, widening the Islamic Republic's military response to American airstrikes on Iranian territory.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-08T09:14:52.324437+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/08/771816/Iranian-army-launches-drone-US-bases-Bahrain-US-aggression"
   }
 ]
