@@ -1,5 +1,38 @@
 [
   {
+    "id": "f79ea85e373a",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T23:07",
+    "headline": "Qatar rejects Israeli reports of military action against Iran",
+    "excerpt": "Qatar has rejected Israeli media reports claiming the Qataris agreed to participate in military action against Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-16T23:39:38.673591+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss"
+  },
+  {
+    "id": "a7f168e72c29",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T23:05",
+    "headline": "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
+    "excerpt": "PM Keir Starmer&#039;s final honours list also includes campaigners, military leaders and senior civil servants.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-16T23:39:38.673644+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss"
+  },
+  {
+    "id": "890d1655ca88",
+    "source": "PressTV",
+    "date": "2026-07-16T23:39",
+    "headline": "US launches fresh wave of deadly strikes on Iran, targets bridges, railway, airports",
+    "excerpt": "The attacks occurred while vehicles were crossing the bridges, causing them to be thrown off the structures.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-16T23:39:40.172983+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/16/772406/US-launches-fresh-wave-of-strikes-on-Iran-targets-bridges-railway-airports"
+  },
+  {
     "id": "520bfaddcca8",
     "source": "Al Jazeera",
     "date": "2026-07-16T21:02",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-08T15:35:48.775436+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss"
-  },
-  {
-    "id": "d0023ff22a7f",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T13:29",
-    "headline": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-    "excerpt": "A chronological look at key milestones from Hamas&#039;s 2006 election victory to its 2026 exit from governing Gaza.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-08T15:35:48.775470+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss"
-  },
-  {
-    "id": "9a1b91ec6efa",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T13:17",
-    "headline": "UN inquiry urges release of Palestinian doctor jailed by Israel",
-    "excerpt": "The inquiry commission urges Israel to release Hussam Abu Safia, citing credible reports he has suffered &#039;severe abuse&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-08T15:35:48.775495+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/un-inquiry-urges-release-of-palestinian-doctor-jailed-by-israel?traffic_source=rss"
-  },
-  {
-    "id": "7a6553c37025",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T13:11",
-    "headline": "Iran’s supreme leader’s coffin arrives in Najaf",
-    "excerpt": "Thousands of mourners thronged Najaf as the coffin of the late supreme leader moved through the city.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-08T15:35:48.775517+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/irans-supreme-leaders-coffin-arrives-in-najaf?traffic_source=rss"
   }
 ]
