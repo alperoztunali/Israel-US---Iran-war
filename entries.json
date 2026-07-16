@@ -1,5 +1,71 @@
 [
   {
+    "id": "520bfaddcca8",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T21:02",
+    "headline": "US mounts sixth straight night of attacks as Iran warns of wider war",
+    "excerpt": "Iranian media reports airport, bridge and communications tower targeted.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-16T21:36:23.253682+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss"
+  },
+  {
+    "id": "5a0fdd5452d0",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T20:40",
+    "headline": "The hardest party to manage in the Iran talks isn’t Iran",
+    "excerpt": "Washington&#039;s spoiler problem sits inside its own alliance, and the spoiler playbook was never written for friends.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-16T21:36:23.253731+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss"
+  },
+  {
+    "id": "311b5e4a3a55",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T20:37",
+    "headline": "Palestinians injured in Israeli settler attacks across West Bank",
+    "excerpt": "More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-16T21:36:23.253762+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "2d60d8d1e7d4",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T20:30",
+    "headline": "Syria says it foiled Hezbollah weapons shipment",
+    "excerpt": "Syrian authorities say they intercepted a shipment of missiles and drones allegedly destined for Hezbollah in Lebanon.",
+    "category": "Missile/Drone",
+    "location": "Lebanon",
+    "addedAt": "2026-07-16T21:36:23.253785+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss"
+  },
+  {
+    "id": "358c700205e0",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T20:21",
+    "headline": "How Syria is redefining ties with Russia",
+    "excerpt": "After Bashar al-Assad&#039;s fall in 2024, Syria cut ties with some former allies but redefined its relationship with Russia.",
+    "category": "Naval",
+    "location": "Syria",
+    "addedAt": "2026-07-16T21:36:23.253812+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/how-syria-is-redefining-ties-with-russia?traffic_source=rss"
+  },
+  {
+    "id": "1e3518e564df",
+    "source": "PressTV",
+    "date": "2026-07-16T21:36",
+    "headline": "Iran urges Persian Gulf states to join hands for Hormuz security, blames US for instability",
+    "excerpt": "General Shekarchi said if America targets Iran's infrastructure, all regional infrastructure will become legitimate targets for the Islamic Republic.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-16T21:36:24.846596+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/16/772405/Iran-armed-forces-spokesman-urges-regional-coop-on-Hormuz,-says-US-presence-root-of-insecurity"
+  },
+  {
     "id": "70002a3f7dcb",
     "source": "Al Jazeera",
     "date": "2026-07-16T20:03",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-08T15:35:48.775517+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/irans-supreme-leaders-coffin-arrives-in-najaf?traffic_source=rss"
-  },
-  {
-    "id": "2253c1c8180c",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T13:11",
-    "headline": "Syria in tough balancing act as it tightens security after Damascus blasts",
-    "excerpt": "Authorities increase security measures after back-to-back deadly explosions rattle  residents.",
-    "category": "Casualties",
-    "location": "Syria",
-    "addedAt": "2026-07-08T15:35:48.775531+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/syria-in-tough-balancing-act-as-it-tightens-security-after-damascus-blasts?traffic_source=rss"
-  },
-  {
-    "id": "15aea1585495",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T13:09",
-    "headline": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
-    "excerpt": "Iranian officials insist that Tehran will not give up control over the waterway as US attacks threaten fragile truce.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-08T15:35:48.775554+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes?traffic_source=rss"
-  },
-  {
-    "id": "0a16db58cf2e",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T12:52",
-    "headline": "Trump threatens Spain trade, demands US take over Greenland at NATO summit",
-    "excerpt": "The US president described Spain as a &#039;terrible partner&#039; over its actions during the US-Israel war on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-08T15:35:48.775574+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/trump-threatens-spain-trade-demands-us-take-over-greenland-at-nato-summit?traffic_source=rss"
-  },
-  {
-    "id": "3ccf20fd852b",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T12:48",
-    "headline": "Trump says MoU ‘over’ after latest US and Iranian attacks",
-    "excerpt": "President Donald Trump has said the Memorandum of Understanding with Iran is ‘over’, after the latest strikes.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-08T15:35:48.775605+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-mou-over-after-latest-us-and-iranian-attacks?traffic_source=rss"
-  },
-  {
-    "id": "02391f3e1a5f",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T10:06",
-    "headline": "Trump says ceasefire ‘over’, reups threats after US and Iran trade attacks",
-    "excerpt": "Speaking at NATO summit, Trump says US may resume naval blockade, launch more strikes, and &#039;take over&#039; Kharg island.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-08T15:35:48.775628+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss"
-  },
-  {
-    "id": "0f7c2553aa4c",
-    "source": "PressTV",
-    "date": "2026-07-08T15:35",
-    "headline": "After Tehran and Qom, millions attend funeral for Martyr Khamenei in Iraq's Najaf, Karbala",
-    "excerpt": "Millions have gathered in Iraq’s Najaf and Karbala for funeral ceremonies honoring martyred Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei, with Iraqi groups and media reporting turnout in the millions.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-07-08T15:35:50.422532+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/08/771809/Millions-join-funeral-procession-martyred-Leader-Iraq%E2%80%99s-Najaf"
   }
 ]
