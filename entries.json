@@ -1,5 +1,27 @@
 [
   {
+    "id": "67dab6dd6a8a",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T00:15",
+    "headline": "‘Epic squared’: Scaloni lauds Argentina’s back-to-back World Cup comebacks",
+    "excerpt": "&#039;There was blood in the water, and we went for it,&#039; Argentina coach said of the relentless late attacks against England.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-07-16T00:56:44.799400+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/16/epic-squared-scaloni-lauds-argentinas-back-to-back-world-cup-comebacks?traffic_source=rss"
+  },
+  {
+    "id": "ac19c0860a3f",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T00:00",
+    "headline": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker",
+    "excerpt": "Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-16T00:56:44.799445+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss"
+  },
+  {
     "id": "53412be50300",
     "source": "PressTV",
     "date": "2026-07-15T23:15",
@@ -5476,27 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-07-07T20:26:04.677289+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/several-hurt-in-damascus-blasts-as-macron-meets-syrias-sharaa?traffic_source=rss"
-  },
-  {
-    "id": "5d2e3ef17db1",
-    "source": "PressTV",
-    "date": "2026-07-07T20:26",
-    "headline": "Pezeshkian, Iraqi PM attend official reception for martyred Leader in Najaf",
-    "excerpt": "The plane carrying the coffins of Ayatollah Khamenei and his martyred family members arrives in Iraq for a funeral procession.",
-    "category": "Casualties",
-    "location": "Iraq",
-    "addedAt": "2026-07-07T20:26:06.222333+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/07/771798/Iran-Leader-coffins-plane-arrival-Iraq-funeral"
-  },
-  {
-    "id": "e1761ddf45d3",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T17:23",
-    "headline": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-    "excerpt": "The US has imposed sanctions on Rwandan companies it says helped finance armed groups through the illicit minerals trade",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-07T18:21:25.960897+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss"
   }
 ]
