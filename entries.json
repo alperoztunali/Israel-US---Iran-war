@@ -1,5 +1,38 @@
 [
   {
+    "id": "df5efd7b7a56",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T04:18",
+    "headline": "Former US Ambassador says Iran miscalculated Trump’s resolve",
+    "excerpt": "Nightly strikes between the US and Iran have been the heaviest since the Memorandum of Understanding (MOU) agreement.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-16T06:35:32.971485+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss"
+  },
+  {
+    "id": "10f7979efd0c",
+    "source": "PressTV",
+    "date": "2026-07-16T06:35",
+    "headline": "Iran targets US radar, air defense systems in Kuwait, Bahrain",
+    "excerpt": "Iran’s Army launches drone strikes against US military facilities in Kuwait and Bahrain.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-16T06:35:34.836328+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/16/772352/Iran-Army-Kuwait-Bahrain"
+  },
+  {
+    "id": "9d38234ac5a2",
+    "source": "PressTV",
+    "date": "2026-07-16T06:35",
+    "headline": "Iran warns to target all infrastructure in region if its infrastructure attacked",
+    "excerpt": "Iran’s top military command unit warns that it will strike every remaining infrastructure in the region if its infrastructure attacked.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-16T06:35:34.836379+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/16/772357/Iran-warns-target-infrastructure-region"
+  },
+  {
     "id": "c71bd43038a5",
     "source": "Al Jazeera",
     "date": "2026-07-16T02:10",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-08T00:12:35.156047+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss"
-  },
-  {
-    "id": "9261cb9667fa",
-    "source": "PressTV",
-    "date": "2026-07-08T00:12",
-    "headline": "Iran will take ‘firm measures’ to safeguard ntl. interests in face of US violations: Senior diplomat",
-    "excerpt": "A senior diplomat warns that Iran will take “firm measures” to safeguard its national interests and national security in the face of the United States’ successive violations of a Pakistan-mediated MoU.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-08T00:12:37.626974+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/07/771803/Iran-United-States-warning-firm-measures-attacks-violations-memorandum"
-  },
-  {
-    "id": "1538277f7775",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T22:46",
-    "headline": "Egypt buoyed by praise for World Cup heroics despite controversial exit",
-    "excerpt": "From fans in Gaza to world leaders and supporters on social media, Egypt won hearts, even if they lost to Argentina.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-07T23:06:20.744338+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/7/egypt-buoyed-by-praise-for-world-cup-heroics-despite-controversial-exit?traffic_source=rss"
-  },
-  {
-    "id": "5f39aa5171a2",
-    "source": "PressTV",
-    "date": "2026-07-07T23:06",
-    "headline": "Ex-IRGC chief commander stresses dual revenge for martyred Leader",
-    "excerpt": "Former IRGC chief commander distinguishes between strategic revenge and revenge to be exacted upon the main perpetrators over the martyrdom of Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-07T23:06:22.242722+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/07/771802/Iran-Leader-revenge-IRGC-Israel-United-States-Trump-Netanyahu"
   }
 ]
