@@ -1,5 +1,60 @@
 [
   {
+    "id": "c71bd43038a5",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T02:10",
+    "headline": "Iran launches strikes on Gulf, even as FM visits Qatar",
+    "excerpt": "Iranian FM Araghchi visits Qatar to pay respects following the death of the Father Emir, Sheikh Hamad bin al Thani",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-16T04:14:56.350593+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss"
+  },
+  {
+    "id": "94c237e27155",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T01:58",
+    "headline": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
+    "excerpt": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-16T04:14:56.350635+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss"
+  },
+  {
+    "id": "bff63f117873",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T01:36",
+    "headline": "Iranian doctor says US strike damaged children’s cancer hospital",
+    "excerpt": "Iranians are inspecting the damage from days of US strikes on key cities in the country’s south and west.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-16T04:14:56.350699+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss"
+  },
+  {
+    "id": "f7e616b6e586",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T00:00",
+    "headline": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
+    "excerpt": "Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-07-16T04:14:56.350745+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss"
+  },
+  {
+    "id": "b20fde3af6a1",
+    "source": "PressTV",
+    "date": "2026-07-16T04:14",
+    "headline": "Iran’s Armed Forces strike US targets with missiles, drones amid warning of expanding retaliation",
+    "excerpt": "Iran's Armed Forces announce new rounds of retaliatory operations against US military targets in the region featuring missile and drone strikes.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-16T04:14:58.528125+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/16/772345/Iran-Armed-Forces-Army-IRGC-new-strikes-United-States-Kuwait-Jordan"
+  },
+  {
     "id": "67dab6dd6a8a",
     "source": "Al Jazeera",
     "date": "2026-07-16T00:15",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-07T23:06:22.242722+00:00",
     "link": "https://presstv.ir/Detail/2026/07/07/771802/Iran-Leader-revenge-IRGC-Israel-United-States-Trump-Netanyahu"
-  },
-  {
-    "id": "9a1545fe2eca",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T21:21",
-    "headline": "US says strikes launched as explosions heard in southern Iran",
-    "excerpt": "US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-07T21:55:05.110800+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss"
-  },
-  {
-    "id": "eae5df9d0411",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T19:55",
-    "headline": "Deadly  landslide buries tunnel construction site in India",
-    "excerpt": "At least five people were killed after a massive landslide buried a tunnel construction site in Kerala",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-07T20:26:04.677155+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/deadly-landslide-buries-tunnel-construction-site-in-india?traffic_source=rss"
-  },
-  {
-    "id": "62fa87f555a5",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T19:16",
-    "headline": "Trump criticises NATO allies over Iran conflict support",
-    "excerpt": "US President Donald Trump criticised NATO allies for refusing to back the United States during its conflict with Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-07T20:26:04.677208+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trump-criticises-nato-allies-over-iran-conflict-support?traffic_source=rss"
-  },
-  {
-    "id": "6e42b4637e77",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T18:44",
-    "headline": "‘They brought me here to kill me’ says Gaza doctor in Israeli prison",
-    "excerpt": "‘They brought me here to kill me’ says Gaza doctor in Israeli prison",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-07T20:26:04.677251+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/they-brought-me-here-to-kill-me-says-gaza-doctor-in-israeli-prison?traffic_source=rss"
-  },
-  {
-    "id": "0d692ee3b28b",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T18:09",
-    "headline": "Several hurt in Damascus blasts as Macron meets Syria’s Sharaa",
-    "excerpt": "Several hurt in Damascus blasts as Macron meets Syria&#039;s Sharaa",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-07T20:26:04.677289+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/several-hurt-in-damascus-blasts-as-macron-meets-syrias-sharaa?traffic_source=rss"
   }
 ]
