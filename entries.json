@@ -1,5 +1,49 @@
 [
   {
+    "id": "b50329a643c3",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T18:45",
+    "headline": "What could a US ground invasion of Iran look like?",
+    "excerpt": "Donald Trump has refused to rule out sending US troops into Iran as fighting resumes and US strikes continue.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-16T19:20:09.431290+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss"
+  },
+  {
+    "id": "1a5f624fadfd",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T18:37",
+    "headline": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital",
+    "excerpt": "Iran accuses US of &#039;cowardly war crime&#039; as doctor says blast was &#039;so close&#039; they thought the hospital was struck.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-16T19:20:09.431344+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss"
+  },
+  {
+    "id": "ac2d94efcc5f",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T17:54",
+    "headline": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
+    "excerpt": "Jobar was held by rebels for much of Syria&#039;s 13-year war but was destroyed by repeated government assaults.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-16T19:20:09.431383+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss"
+  },
+  {
+    "id": "cea3ba376e5e",
+    "source": "PressTV",
+    "date": "2026-07-16T19:20",
+    "headline": "Exclusive: No Iran-US prisoner exchange, spy release has taken place",
+    "excerpt": "Press TV's investigations have found no evidence to support claims of a prisoner exchange between Iran and the United States.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-16T19:20:10.862602+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/16/772402/Exclusive--No-evidence-of-Iran-US-prisoner-swap,-denies-release-of-spies"
+  },
+  {
     "id": "7b30af782ff5",
     "source": "Al Jazeera",
     "date": "2026-07-16T17:22",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-08T15:35:50.422635+00:00",
     "link": "https://presstv.ir/Detail/2026/07/08/771841/US-must-recognize-Iran-new-regime-Strait-of-Hormuz-Ebrahim-Azizi-tweet"
-  },
-  {
-    "id": "2a40f0f14ef2",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T12:36",
-    "headline": "Gaza aid worker killed minutes before World Cup screening he organised",
-    "excerpt": "Mohammed al-Wahidi was killed in an Israeli strike just before people gathered for a World Cup screening he organised.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-08T13:08:19.449300+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss"
-  },
-  {
-    "id": "fc706c5a17ae",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T12:06",
-    "headline": "‘There are risks’: Ex-India judge behind damning UN report on Gaza children",
-    "excerpt": "Before he exposed Israel&#039;s deliberate targeting of Gaza children, Srinivasan Muralidhar took on Indian authorities.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-08T13:08:19.449356+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/there-are-risks-ex-india-judge-behind-damning-un-report-on-gaza-children?traffic_source=rss"
-  },
-  {
-    "id": "6443072094b4",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T11:22",
-    "headline": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
-    "excerpt": "Macron, who continued his visit after the blasts, said Syria must not be &#039;destabilised&#039; by the attacks.",
-    "category": "Casualties",
-    "location": "Syria",
-    "addedAt": "2026-07-08T13:08:19.449415+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss"
-  },
-  {
-    "id": "0c6b1211bbf0",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T10:06",
-    "headline": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
-    "excerpt": "Trump made the announcement at a NATO summit after Iran attacked bases hosting US forces in Kuwait and Bahrain.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-07-08T11:19:26.607564+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss"
   }
 ]
