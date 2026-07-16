@@ -1,5 +1,82 @@
 [
   {
+    "id": "c93bca58bece",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T08:37",
+    "headline": "Vance says Epstein had connections to US, Israeli intelligence",
+    "excerpt": "The US vice president says Epstein &#039;seemed&#039; to be connected to elements of the &#039;Israeli deep state&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-16T09:03:41.457190+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/vance-says-epstein-had-connections-to-us-israeli-intelligence?traffic_source=rss"
+  },
+  {
+    "id": "d65a12f2590b",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T08:26",
+    "headline": "US releases video of strikes on Iran",
+    "excerpt": "US releases video of strikes on Iran",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-16T09:03:41.457230+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/us-releases-video-of-strikes-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "e79abf0d6059",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T08:23",
+    "headline": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
+    "excerpt": "Strikes have hit closer to Tehran for the first time since the latest wave of attacks started.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-07-16T09:03:41.457288+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "ea18a45e0736",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T08:18",
+    "headline": "US launches new attacks on Iran as Tehran targets Gulf sites",
+    "excerpt": "Iran&#039;s Health Ministry has said at least 35 people have been killed and more than 300 injured since fighting resumed.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-16T09:03:41.457318+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss"
+  },
+  {
+    "id": "80cb2827efe2",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T07:57",
+    "headline": "Pete Hegseth says US military to start testosterone screening for over 30s",
+    "excerpt": "US Defense Secretary says plan is &#039;about restoring and optimising ... natural capabilities&#039; of troops.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-07-16T09:03:41.457353+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/pete-hegseth-says-us-military-to-start-testosterone-screening-for-over-30s?traffic_source=rss"
+  },
+  {
+    "id": "86025bee56e1",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T01:58",
+    "headline": "Two killed in Russian missile attacks on Kyiv after Ukraine-EU drone deal",
+    "excerpt": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-16T09:03:41.457389+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss"
+  },
+  {
+    "id": "00d5f5b119ac",
+    "source": "PressTV",
+    "date": "2026-07-16T09:03",
+    "headline": "Iran to neutralize US regional interference, maintain Hormuz control: Army",
+    "excerpt": "Iran’s Army says the country will continue to counter US interference in the region and maintain control over the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-16T09:03:42.974428+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/16/772364/Iran-US-Army-Akrami-Nia"
+  },
+  {
     "id": "df5efd7b7a56",
     "source": "Al Jazeera",
     "date": "2026-07-16T04:18",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-08T06:32:50.371088+00:00",
     "link": "https://presstv.ir/Detail/2026/07/08/771810/IRGC-strikes-85-US-military-sites-after-Washington-violated-Islamabad-agreement"
-  },
-  {
-    "id": "c6c2a5e90117",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T01:26",
-    "headline": "US immigration officer shoots and kills man in Texas",
-    "excerpt": "Man, identified as Lorenzo Salgado Araujo, is latest to be killed by ICE officers since President Trump took power.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-08T03:48:20.497233+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss"
-  },
-  {
-    "id": "e46f508d174a",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T01:13",
-    "headline": "US strikes Iran despite promised pause for Khamenei funeral",
-    "excerpt": "The US launches new strikes on Iran despite a promise by US President Donald Trump to pause attacks.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-08T03:48:20.497279+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/us-strikes-iran-despite-promised-pause-for-khamenei-funeral?traffic_source=rss"
-  },
-  {
-    "id": "b0d3039b20f2",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T01:04",
-    "headline": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
-    "excerpt": "The US-Israel war on Iran is forcing African governments to rethink their security and economic priorities.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-08T03:48:20.497344+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss"
-  },
-  {
-    "id": "45173ff5781b",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T21:21",
-    "headline": "US launches strikes on southern Iran, Tehran vows ‘crushing response’",
-    "excerpt": "US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-07-08T03:48:20.497394+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss"
-  },
-  {
-    "id": "4c5930b71943",
-    "source": "PressTV",
-    "date": "2026-07-08T03:48",
-    "headline": "Iran’s military vows ‘crushing response’ to US aggression",
-    "excerpt": "Iran’s top military command vows that the Islamic Republic’s Armed Forces will deliver a “crushing response” to the US’s most recent acts of aggression.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-07-08T03:48:22.020455+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/08/771808/Iran-United-States-warning-crushing-response-attacks"
-  },
-  {
-    "id": "d158578e941c",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T00:00",
-    "headline": "Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks",
-    "excerpt": "Explosions in Iran&#039;s Sirik, Bandar Abbas and Qeshm as US launches attacks after revoking waivers on Iranian oil exports.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-08T00:12:35.155998+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/8/iran-war-live-us-bombs-sirik-qeshm-bandar-abbas-over-hormuz-attacks?traffic_source=rss"
-  },
-  {
-    "id": "ec4fb86888ea",
-    "source": "Al Jazeera",
-    "date": "2026-07-07T22:53",
-    "headline": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
-    "excerpt": "The attacks have triggered fires in two districts of Kyiv, according to the city&#039;s mayor.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-08T00:12:35.156047+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss"
   }
 ]
