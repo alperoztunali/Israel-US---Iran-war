@@ -1,5 +1,60 @@
 [
   {
+    "id": "70002a3f7dcb",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T20:03",
+    "headline": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
+    "excerpt": "Hezbollah denies activity in Syria after interception of arms shipment including missiles, rockets and drones via Iraq.",
+    "category": "Missile/Drone",
+    "location": "Lebanon",
+    "addedAt": "2026-07-16T20:27:18.988590+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/16/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss"
+  },
+  {
+    "id": "59e84ccfd430",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T19:44",
+    "headline": "How serious is Iran’s threat to disrupt shipping in the Red Sea?",
+    "excerpt": "After the Strait of Hormuz, Iran&#039;s IRGC warns it could next target Bab al-Mandeb.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-16T20:27:18.988623+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/16/how-serious-is-irans-threat-to-disrupt-shipping-in-the-red-sea?traffic_source=rss"
+  },
+  {
+    "id": "f71db2ecddc7",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T19:19",
+    "headline": "Iraq says $19M found in hideouts linked to ex-oil minister",
+    "excerpt": "Iraqi authorities say they seized the equivalent of $19 million in cash and several kilograms of gold jewelry",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-07-16T20:27:18.988648+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss"
+  },
+  {
+    "id": "0be78c7fa852",
+    "source": "PressTV",
+    "date": "2026-07-16T20:27",
+    "headline": "'Third betrayal of diplomacy\": Iran blasts US violation of every element of MoU",
+    "excerpt": "Iran's Foreign Ministry says that recent US attacks against Iran violated every element of the June 18 war-termination understanding, slamming Washington for once again betraying diplomacy.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-16T20:27:20.821692+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/16/772396/Iran--US-nullified-entire-war-ending-MoU"
+  },
+  {
+    "id": "c2e9d8f02265",
+    "source": "PressTV",
+    "date": "2026-07-16T20:27",
+    "headline": "Shipping firms shun US-controlled Hormuz route amid security concerns",
+    "excerpt": "International shippers are shunning the so-called US-controlled Hormuz corridor over security fears amid renewed US aggression against Iran.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-16T20:27:20.821719+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/16/772393/Iran-Strait-of-Hormuz-US-Oman-corridor-security-PGSA-China-MoU-Trump"
+  },
+  {
     "id": "b50329a643c3",
     "source": "Al Jazeera",
     "date": "2026-07-16T18:45",
@@ -5443,60 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-08T15:35:50.422532+00:00",
     "link": "https://presstv.ir/Detail/2026/07/08/771809/Millions-join-funeral-procession-martyred-Leader-Iraq%E2%80%99s-Najaf"
-  },
-  {
-    "id": "c6e83bfdaad1",
-    "source": "PressTV",
-    "date": "2026-07-08T15:35",
-    "headline": "Iran's vice president: Leader’s funeral in Iraq shows deep ties between two nations",
-    "excerpt": "Iran's First Vice President Mohammad Reza Aref has praised Iraq for the massive funeral ceremonies held in the country for the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, saying they reflect the strong ties between the two brotherly countries.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-08T15:35:50.422555+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/08/771844/Iran-s-vice-president-Leader-funeral-Iraq-"
-  },
-  {
-    "id": "362097eafc9e",
-    "source": "PressTV",
-    "date": "2026-07-08T15:35",
-    "headline": "Iran to close Strait of Hormuz, strike twice as many targets in response to any US attack: Source",
-    "excerpt": "Iran has warned that it will close the Strait of Hormuz and strike twice as many targets in response to any fresh attack, following recent US strikes on Iranian coastal areas, a source told Press TV on Wednesday.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-08T15:35:50.422580+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/08/771848/iran-close-strait-hormuz-strike-twice-many-targets-response-new-us-attack-source"
-  },
-  {
-    "id": "e8967078de4b",
-    "source": "PressTV",
-    "date": "2026-07-08T15:35",
-    "headline": "Any source of support for US army ‘legitimate target’: Iran’s central military command",
-    "excerpt": "Iran’s Khatam al-Anbiya Central Headquarters says any source of support for the “aggressor US army” will be considered a legitimate target for Iranian Armed Forces.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-07-08T15:35:50.422597+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/08/771840/Iran-central-command-warns-any-source-of-support-for-US-military-is-legitimate-target"
-  },
-  {
-    "id": "4cc62f1a1dba",
-    "source": "PressTV",
-    "date": "2026-07-08T15:35",
-    "headline": "Leader’s funeral symbol of national unity in Iran: Pezeshkian",
-    "excerpt": "The Iranian president says the massive presence of people in late leader’s funeral was emblematic of national unity in the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-08T15:35:50.422615+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/08/771846/Iran-Pezeshkian-Leader-funeral-national-unity"
-  },
-  {
-    "id": "6f76df6b3a5b",
-    "source": "PressTV",
-    "date": "2026-07-08T15:35",
-    "headline": "US has no choice but to recognize Iran’s 'new order' in Strait of Hormuz: Senior MP",
-    "excerpt": "A top Iranian lawmaker has declared that Washington has no choice but to recognize Iran's \"new order\" in the Strait of Hormuz.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-08T15:35:50.422635+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/08/771841/US-must-recognize-Iran-new-regime-Strait-of-Hormuz-Ebrahim-Azizi-tweet"
   }
 ]
