@@ -1,5 +1,49 @@
 [
   {
+    "id": "e963fe5773ca",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T12:31",
+    "headline": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
+    "excerpt": "Palestinians are inspecting the damage in Nuseirat after Israeli strikes reduced their homes to rubble.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-16T12:53:13.613614+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss"
+  },
+  {
+    "id": "8ebb96857aa4",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T12:00",
+    "headline": "Iran claims strikes on US bases, warns of wider attacks on region",
+    "excerpt": "Iran claims strikes on US bases, warns of wider attacks on region",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-16T12:53:13.613657+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss"
+  },
+  {
+    "id": "b2f4e1a289ba",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T11:40",
+    "headline": "‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks",
+    "excerpt": "Hussein Saleh describes an Israeli air attack in Tyre that killed his family, including his wife and his only child.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-16T12:53:13.613688+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/16/destroyed-my-whole-life-lebanese-families-wiped-out-in-israeli?traffic_source=rss"
+  },
+  {
+    "id": "5f7de1342244",
+    "source": "Al Jazeera",
+    "date": "2026-07-16T11:36",
+    "headline": "Palestinians fight fires after settler attacks in the occupied West Bank",
+    "excerpt": "Overnight Israeli settler attacks set farmlands ablaze in Masafer Yatta and burned vehicles near Tulkarem.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-16T12:53:13.613720+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-fight-fires-after-settler-attacks-in-the-occupied-west-bank?traffic_source=rss"
+  },
+  {
     "id": "4d9a894e51f3",
     "source": "Al Jazeera",
     "date": "2026-07-16T10:27",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-08T06:32:47.641990+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss"
-  },
-  {
-    "id": "bdd87590ee48",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T05:13",
-    "headline": "Childhood on hold: How Gaza’s children spend a summer without play",
-    "excerpt": "Gaza mothers describe a third wartime summer where children carry adult burdens, deprived of play and art.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-08T06:32:47.642032+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/8/childhood-on-hold-how-gazas-children-spend-a-summer-without-play?traffic_source=rss"
-  },
-  {
-    "id": "ceaecda6b3aa",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T05:10",
-    "headline": "Syria grapples with unrest as government faces old and new threats",
-    "excerpt": "Damascus shaken by twin blasts during Macron&#039;s visit, marking heightened threats to Syria&#039;s fragile stability",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-08T06:32:47.642063+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/syria-grapples-with-unrest-as-government-faces-old-and-new-threats?traffic_source=rss"
-  },
-  {
-    "id": "31830dd944e6",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T05:01",
-    "headline": "Argentina fan waves Israeli flag at World Cup match with Egypt",
-    "excerpt": "An Argentina fan waves the Israeli flag during his team’s Round of 16 match against Egypt.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-08T06:32:47.642096+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/argentina-fan-waves-israeli-flag-at-world-cup-match-with-egypt?traffic_source=rss"
-  },
-  {
-    "id": "3620f288c83f",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T04:53",
-    "headline": "Khamenei’s coffin arrives in Iraq as US strikes hit Iran",
-    "excerpt": "The coffin carrying Iran’s late Supreme Leader Ali Khamenei has arrived in one of Shia Islam’s holiest cities, Najaf.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-08T06:32:47.642133+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/khameneis-coffin-arrives-in-iraq-as-us-strikes-hit-iran?traffic_source=rss"
   }
 ]
