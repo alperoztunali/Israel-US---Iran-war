@@ -1,5 +1,49 @@
 [
   {
+    "id": "19355f1dadaa",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T10:10",
+    "headline": "Knesset dissolves: How will Israel vote in October’s general election?",
+    "excerpt": "Knesset dissolves after first full term since 1988, with Israel heading towards crucial elections on October 27, 2026.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-17T11:06:26.886224+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss"
+  },
+  {
+    "id": "8d9c2ed95e71",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T09:42",
+    "headline": "Israel headed for October election as parliament dissolved",
+    "excerpt": "PM Netanyahu’s political survival at stake as Knesset dissolves before the vote.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-17T11:06:26.886273+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss"
+  },
+  {
+    "id": "fd27ce6667d5",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T09:24",
+    "headline": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+    "excerpt": "Berlin warns against a &#039;security vacuum&#039; in Lebanon&#039;s south once UNIFIL mandate expires at year&#039;s end.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-07-17T11:06:26.886311+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "4c3777f270ac",
+    "source": "PressTV",
+    "date": "2026-07-17T11:06",
+    "headline": "Operation Nasr: IRGC says reprisal strikes hit US aircraft in Jordan",
+    "excerpt": "The Islamic Revolution Guards Corps said it targeted US fighter jets and aerial refueling aircraft stationed in Jordan in a new wave of retaliatory attacks.",
+    "category": "Airstrike",
+    "location": "Jordan",
+    "addedAt": "2026-07-17T11:06:28.389535+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/17/772430/IRGC-Operation-Nasr-waves-14-15"
+  },
+  {
     "id": "22e918b098fe",
     "source": "Al Jazeera",
     "date": "2026-07-17T08:57",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-08T22:46:30.180872+00:00",
     "link": "https://presstv.ir/Detail/2026/07/08/771872/United-States-attacks-Iran-south"
-  },
-  {
-    "id": "2cf41e5731c4",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T21:12",
-    "headline": "Deadly strikes in Gaza leave 5 dead, children wounded",
-    "excerpt": "Israeli strikes in Khan Yunis and Gaza City killed five people and wounded others, including children.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-08T21:43:08.269116+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss"
-  },
-  {
-    "id": "8297a2c0d884",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T20:46",
-    "headline": "Trump departs NATO summit on older Air Force One",
-    "excerpt": "Trump departed the NATO summit on an older Air Force One after arriving aboard the new Qatar-gifted aircraft.",
-    "category": "Diplomatic",
-    "location": "Qatar",
-    "addedAt": "2026-07-08T21:43:08.269161+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-departs-nato-summit-on-older-air-force-one?traffic_source=rss"
-  },
-  {
-    "id": "b4438be03ff9",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T20:40",
-    "headline": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
-    "excerpt": "Former Obama official is expected to run for president in 2028, with speech reflecting shifting Democratic sentiments.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-08T21:43:08.269198+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid?traffic_source=rss"
-  },
-  {
-    "id": "72b15dff463c",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T20:40",
-    "headline": "US says conducting new wave of strikes on Iran as ceasefire falters",
-    "excerpt": "Second night of strikes comes after Trump says ceasefire &#039;over&#039;, suggests talks for lasting peace will continue.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-08T21:43:08.269229+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss"
   }
 ]
