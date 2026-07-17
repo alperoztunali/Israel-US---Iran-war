@@ -1,5 +1,27 @@
 [
   {
+    "id": "f11cfbb90457",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T15:40",
+    "headline": "‘They took our toilet’: How a settlement has squeezed a Palestinian village",
+    "excerpt": "An illegal Israeli outpost set up next to Umm al-Khair in West Bank, immediately separating villagers from their land.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-17T15:57:02.283200+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/17/they-took-toilet-settlement-squeezed-palestinian-village?traffic_source=rss"
+  },
+  {
+    "id": "70794d53298b",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T15:19",
+    "headline": "Ukraine suffers port attacks as protests persist over defence shake-up",
+    "excerpt": "Russian attacks reportedly kill two Ukrainians aboard foreign vessel in Mykolaiv; two more killed in Kherson and Odesa.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-17T15:57:02.283245+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss"
+  },
+  {
     "id": "4be226aeabe2",
     "source": "Al Jazeera",
     "date": "2026-07-17T13:16",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-09T08:25:03.000342+00:00",
     "link": "https://presstv.ir/Detail/2026/07/09/771883/Iran-Qalibaf-warns-US-following-aggression"
-  },
-  {
-    "id": "af13fcc04d1b",
-    "source": "PressTV",
-    "date": "2026-07-09T08:25",
-    "headline": "Europe 'cannot evade responsibility' in US-Israeli aggression on Iran: FM spox",
-    "excerpt": "Iran Foreign Ministry spokesman says Europe cannot evade 'responsibility' in unprovoked US-Israeli war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-09T08:25:03.000370+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/09/771882/Europe-shares-responsibility-in-unprovoked-US-Israeli-war-on-Iran-Foreign-Ministry-spokesman"
-  },
-  {
-    "id": "00440bbd7ba6",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T02:58",
-    "headline": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
-    "excerpt": "Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-09T04:32:15.674779+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout?traffic_source=rss"
   }
 ]
