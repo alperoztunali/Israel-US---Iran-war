@@ -1,5 +1,49 @@
 [
   {
+    "id": "8a3e56324bad",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T18:59",
+    "headline": "At least three killed and hundreds displaced by heavy rain in Chile",
+    "excerpt": "Chilean President Jose Antonio Kast says that he is travelling to the Biobio region to survey flood damage.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-17T19:48:49.809554+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/17/at-least-three-killed-and-hundreds-displaced-by-heavy-rain-in-chile?traffic_source=rss"
+  },
+  {
+    "id": "8444a18c06b8",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T18:31",
+    "headline": "Germany’s Merz hails nuclear deterrence cooperation with France",
+    "excerpt": "The Franco-German cooperation is not a move to replace NATO’s nuclear umbrella, stresses German Chancellor.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-17T19:48:49.809613+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/17/germanys-merz-hails-nuclear-deterrence-cooperation-with-france?traffic_source=rss"
+  },
+  {
+    "id": "b0c2fc2c86f7",
+    "source": "PressTV",
+    "date": "2026-07-17T19:48",
+    "headline": "Yemen vows to deal severe blow to Saudis if meddling continues",
+    "excerpt": "Yemen's Defense Minister Major General Mohammed Nasser al-Atifi vows to deal a heavy blow to Saudis if they continue to interfere militarily in the country .",
+    "category": "Diplomatic",
+    "location": "Yemen",
+    "addedAt": "2026-07-17T19:48:51.281807+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/17/772465/Saudis-will-be-hit-hard-if-meddling-continues-Yemen"
+  },
+  {
+    "id": "1e7c75a8cd5a",
+    "source": "PressTV",
+    "date": "2026-07-17T19:48",
+    "headline": "Exclusive: No enemy strike hit Bushehr nuclear plant; media claims unfounded",
+    "excerpt": "A thorough Press TV investigation has firmly rejected an Al Jazeera report claiming that recent US strikes damaged Iran’s Bushehr nuclear power plant.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-17T19:48:51.281852+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/17/772469/Exclusive-No-enemy-strike-hit-Bushehr-nuclear-plant-media-claims-unfounded"
+  },
+  {
     "id": "d91b373a5bca",
     "source": "Al Jazeera",
     "date": "2026-07-17T18:28",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-09T11:21:33.207468+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/9/un-probe-finds-mass-killings-gang-rapes-by-sudans-rsf-amount-to-genocide?traffic_source=rss"
-  },
-  {
-    "id": "e1da0e79387c",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T10:06",
-    "headline": "Air raid sirens in Bahrain after uneasy night of US-Iran strikes",
-    "excerpt": "After a tense night of overnight US-led strikes on Iran, air raid alerts sounded across Gulf states.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-09T11:21:33.207503+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/air-raid-sirens-in-bahrain-after-uneasy-night-of-us-iran-strikes?traffic_source=rss"
-  },
-  {
-    "id": "f56b32f20209",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T09:36",
-    "headline": "Australia, India strike deal on uranium exports during PM Modi’s visit",
-    "excerpt": "India has long eyed Australia&#039;s uranium to help meet a target of 100 gigawatts of nuclear energy capacity by 2047.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-09T11:21:33.207546+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/9/australia-india-strike-deal-on-uranium-exports-during-pm-modis-visit?traffic_source=rss"
-  },
-  {
-    "id": "2304d63e6600",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T09:04",
-    "headline": "US, Iran launch more attacks as mediators urge both sides to uphold MoU",
-    "excerpt": "Iran says it attacked sites linked to the US military in Kuwait, Bahrain and Qatar after US bombarded targets in Iran.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-09T11:21:33.207594+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/9/us-iran-launch-more-attacks-as-mediators-urge-warring-sides-to-uphold-mou?traffic_source=rss"
-  },
-  {
-    "id": "08f7e117b90a",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T08:51",
-    "headline": "‘Shoot me, Just let my son pass’: Final moments of Palestinian Ahmad Zaid",
-    "excerpt": "Three-month-old boy in critical condition dies after Israeli forces block his access to an ambulance.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-09T11:21:33.207637+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/9/shoot-me-just-let-my-son-pass-the-last-moments-of-ahmad-zaid?traffic_source=rss"
   }
 ]
