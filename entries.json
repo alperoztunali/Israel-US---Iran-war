@@ -1,5 +1,38 @@
 [
   {
+    "id": "de7ff52eebba",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T22:54",
+    "headline": "EU urges Israel to halt settlement expansion as settlers attack children",
+    "excerpt": "Pressure is growing within the EU to sanction Israel for its illegal settlements and violence against Palestinians.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-17T23:09:31.929516+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss"
+  },
+  {
+    "id": "ef95204eb251",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T22:19",
+    "headline": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
+    "excerpt": "Deal with Chevron aims to rebuild a crude oil pipeline that runs from Iraq&#039;s oil-rich Kirkuk to Syria&#039;s Baniyas.",
+    "category": "Diplomatic",
+    "location": "Syria",
+    "addedAt": "2026-07-17T23:09:31.929562+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss"
+  },
+  {
+    "id": "b54ea575c5f6",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T22:11",
+    "headline": "US launches seventh straight night of strikes on Iran",
+    "excerpt": "The US military says it&#039;s degrading Iran&#039;s military but has been accused by Tehran of targeting civilian infrastructure.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-17T23:09:31.929597+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss"
+  },
+  {
     "id": "8a6f791a3288",
     "source": "Al Jazeera",
     "date": "2026-07-17T21:39",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-09T16:42:45.196742+00:00",
     "link": "https://presstv.ir/Detail/2026/07/09/771916/IRGC-strikes-USCommand-Center--West-Asia"
-  },
-  {
-    "id": "fc01f65f83b4",
-    "source": "PressTV",
-    "date": "2026-07-09T16:42",
-    "headline": "IRGC Navy: Foreign powers have no role in Strait of Hormuz",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) Navy says foreign powers have no role in the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-07-09T16:42:45.196779+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/09/771911/IRGC-Foreign-powers-no-role-Strait-Hormuz"
-  },
-  {
-    "id": "d2dd3eb02698",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T13:07",
-    "headline": "Indonesian farmer goes viral using a drone as transportation",
-    "excerpt": "Indonesian farmer goes viral using a drone as transportation",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-09T14:06:10.513372+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/indonesian-farmer-goes-viral-using-a-drone-as-transportation?traffic_source=rss"
-  },
-  {
-    "id": "2165c17b6b0c",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T13:02",
-    "headline": "Trump targets Spain, NATO backs Ukraine: Is the alliance still united?",
-    "excerpt": "While NATO members have agreed to boost defence spending, Trump&#039;s attacks on Spain and Greenland have threatened unity.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-09T14:06:10.513425+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/9/trump-targets-spain-nato-backs-ukraine-is-the-alliance-still-united?traffic_source=rss"
   }
 ]
