@@ -1,5 +1,49 @@
 [
   {
+    "id": "66f612fd1c7d",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T04:57",
+    "headline": "US bombards Iran in sixth-straight night of attacks",
+    "excerpt": "The US has made good on threats to bomb civilian infrastructure in Iran in its sixth-straight night of attacks.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-17T06:58:56.936598+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss"
+  },
+  {
+    "id": "1851924b7afa",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T04:39",
+    "headline": "Israeli settlers attack Sinjil town in occupied West Bank",
+    "excerpt": "Clashes erupted after Israeli settlers attacked the outskirts of the occupied West Bank town of Sinjil.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-17T06:58:56.936646+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "11dea943a608",
+    "source": "PressTV",
+    "date": "2026-07-17T06:58",
+    "headline": "IRGC strikes US command center in Syria, radars in Oman, depots in Kuwait",
+    "excerpt": "Iran’s Islamic Revolution Guards Corps (IRGC) launches a surprise attack on the United States’ Special Operations Command Center in Syria’s al-Tanf region in retaliation for a terrorist American strike on a military garrison dormitory.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-17T06:58:59.388258+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/17/772416/Iran-US-command-center-Syria"
+  },
+  {
+    "id": "dc0309af4241",
+    "source": "PressTV",
+    "date": "2026-07-17T06:58",
+    "headline": "Operation Saeqeh: Iranian Army strikes US military positions in Kuwait",
+    "excerpt": "The twelfth phase of Iran’s Army Operation Saeqeh has been successfully completed in retaliation for recent US attacks on southern Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-17T06:58:59.388301+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/17/772415/Operation-Saeqeh--Iranian-Army-strikes-US-military-positions-in-Kuwait--"
+  },
+  {
     "id": "04bee8678ef9",
     "source": "Al Jazeera",
     "date": "2026-07-17T02:35",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-08T20:23:56.547598+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/war-on-gaza-draws-large-crowds-to-khameneis-funeral-in-iraq?traffic_source=rss"
-  },
-  {
-    "id": "6696aeddc14b",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T18:35",
-    "headline": "Israeli air strikes in Gaza kill eight, including two children",
-    "excerpt": "Medics report 12 injuries alongside eight deaths in Gaza as Israeli air strikes target civilians and displaced families.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-07-08T18:48:37.782109+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children?traffic_source=rss"
-  },
-  {
-    "id": "8f8df9a2f49f",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T18:33",
-    "headline": "Trump says he ‘may be gone’ as he declares himself Iran’s No. 1 target",
-    "excerpt": "US President Donald Trump declared himself Iran’s ‘No. 1 target’ after claiming their leaders have been eliminated",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-08T18:48:37.782162+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-he-may-be-gone-as-he-declares-himself-irans-no-1-target?traffic_source=rss"
-  },
-  {
-    "id": "81fb8c88273d",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T17:55",
-    "headline": "France returns Syrian artefacts it’s held since civil war",
-    "excerpt": "France has returned 23 Syrian antique artefacts it’s held since the outbreak of the 2011 civil war.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-08T18:48:37.782204+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/france-returns-syrian-artefacts-its-held-since-civil-war?traffic_source=rss"
-  },
-  {
-    "id": "f59712954645",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T17:24",
-    "headline": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-    "excerpt": "Trump says US will &#039;show&#039; Ukraine how to produce Patriot missile systems during a friendly appearance with Zelenskyy.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-08T18:48:37.782239+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss"
   }
 ]
