@@ -1,5 +1,27 @@
 [
   {
+    "id": "76a7ad43e7d5",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T20:38",
+    "headline": "Israel, Gaza and the future of US power",
+    "excerpt": "Congressman Ro Khanna joins Sreenivasan Jain.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-17T21:00:59.609108+00:00",
+    "link": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss"
+  },
+  {
+    "id": "592a613a1700",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T20:09",
+    "headline": "At least two dead as heavy rains, floods strike central Texas",
+    "excerpt": "Officials in the southern state have seen new warning systems tested by the floods, after last year&#039;s deadly rainfall.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-17T21:00:59.609152+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/7/17/at-least-two-dead-as-heavy-rains-floods-strike-central-texas?traffic_source=rss"
+  },
+  {
     "id": "8a3e56324bad",
     "source": "Al Jazeera",
     "date": "2026-07-17T18:59",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-09T11:21:33.207365+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/9/iran-prepares-to-bury-slain-leader-khamenei-after-mass-funeral-ceremonies?traffic_source=rss"
-  },
-  {
-    "id": "a982ad237c06",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T10:49",
-    "headline": "US strikes Iran for second night – is the peace process all over now?",
-    "excerpt": "Neither side has officially called off the interim peace agreement, despite the escalation.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-09T11:21:33.207418+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/9/us-strikes-iran-for-second-night-is-the-peace-process-all-over-now?traffic_source=rss"
-  },
-  {
-    "id": "5544bd228093",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T10:19",
-    "headline": "UN probe finds mass killings, gang rapes by Sudan’s RSF amount to genocide",
-    "excerpt": "UN Fact-Finding Mission found that the paramilitary&#039;s systematic campaign of violence in Darfur amounted to genocide.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-09T11:21:33.207468+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/9/un-probe-finds-mass-killings-gang-rapes-by-sudans-rsf-amount-to-genocide?traffic_source=rss"
   }
 ]
