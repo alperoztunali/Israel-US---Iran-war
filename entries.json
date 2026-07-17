@@ -1,5 +1,49 @@
 [
   {
+    "id": "04bee8678ef9",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T02:35",
+    "headline": "Iranian sources say US strikes hit civilian infrastructure",
+    "excerpt": "Iranian social media accounts, and local sources allege that US strikes caused casualties and hit infrastructure.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-17T04:28:31.223925+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss"
+  },
+  {
+    "id": "2b6d4d801fb8",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T02:25",
+    "headline": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
+    "excerpt": "Fatih Birol says &#039;oil security is still a critical issue&#039; and world should be &#039;worried&#039; if situation does not improve.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-07-17T04:28:31.223978+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss"
+  },
+  {
+    "id": "3130d9d5ffec",
+    "source": "Al Jazeera",
+    "date": "2026-07-17T01:49",
+    "headline": "North Korean leader Kim Jong Un meets with top Chinese official",
+    "excerpt": "The meeting comes after Xi visited Kim, promising closer diplomatic, law enforcement and military cooperation.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-07-17T04:28:31.224018+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/17/north-korean-leader-kim-jong-un-meets-with-top-chinese-official?traffic_source=rss"
+  },
+  {
+    "id": "24bd836ce681",
+    "source": "PressTV",
+    "date": "2026-07-17T04:28",
+    "headline": "US aggressive acts against Iran constitute war crimes: Iran envoy to UN",
+    "excerpt": "The systematic destruction has disrupted commercial activities, maritime transportation, emergency response services, and daily livelihoods.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-17T04:28:33.574899+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/17/772410/US-aggressive-acts-against-Iran-constitute-war-crimes-Iran-envoy-to-UN"
+  },
+  {
     "id": "a8ca31bc49e8",
     "source": "Al Jazeera",
     "date": "2026-07-17T00:50",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-08T18:48:37.782239+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss"
-  },
-  {
-    "id": "51d5db795d05",
-    "source": "PressTV",
-    "date": "2026-07-08T18:48",
-    "headline": "Iran will answer Trump's 'vulgarity' with action, not vulgarity: Araghchi",
-    "excerpt": "\"Iranians are known for their civility, culture, and strong moral values. We do not answer vulgarity with vulgarity, but with action: fearlessly and with great valor.\"",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-08T18:48:39.279391+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/08/771864/Iran-FM-We-answer-Trump-vulgarity-with-action-not-vulgarity"
-  },
-  {
-    "id": "ff66ea9e790b",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T16:48",
-    "headline": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
-    "excerpt": "The fate of the strait is directly linked to what happens next to the world economy.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-08T17:11:10.150747+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss"
-  },
-  {
-    "id": "ee894a24e108",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T16:07",
-    "headline": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-    "excerpt": "Military spokesman warns fighters &#039;we will chase you, we will hurt you&#039; amid the spate of deadly ambushes.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-07-08T17:11:10.150773+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss"
-  },
-  {
-    "id": "e7cbe5722eaf",
-    "source": "Al Jazeera",
-    "date": "2026-07-08T15:57",
-    "headline": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
-    "excerpt": "German Foreign Minister Johann Wadephul urged the US and Iran to resume negotiations.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-08T17:11:10.150794+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss"
   }
 ]
