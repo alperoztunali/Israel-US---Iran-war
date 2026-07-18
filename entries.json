@@ -1,5 +1,16 @@
 [
   {
+    "id": "69b3c69052ed",
+    "source": "Al Jazeera",
+    "date": "2026-07-18T11:10",
+    "headline": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
+    "excerpt": "Russian officials say strikes on retailer&#039;s warehouses caused civilian casualties; Kyiv says sites used to make drones.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-18T12:05:23.957468+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss"
+  },
+  {
     "id": "b02455b8266e",
     "source": "Al Jazeera",
     "date": "2026-07-18T10:48",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-09T22:01:52.008806+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting?traffic_source=rss"
-  },
-  {
-    "id": "cbb3e15cf38a",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T21:17",
-    "headline": "NYT-led group asks court to sanction OpenAI in US copyright dispute",
-    "excerpt": "The news firms allege ChatGPT maker is hiding evidence important to what could be landmark copyright infringement trial.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-09T22:01:52.008846+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute?traffic_source=rss"
   }
 ]
