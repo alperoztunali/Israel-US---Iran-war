@@ -1,5 +1,27 @@
 [
   {
+    "id": "98a8b25d12a4",
+    "source": "Al Jazeera",
+    "date": "2026-07-18T20:24",
+    "headline": "Palestinian teenage footballer dies a week after Israeli settler attack",
+    "excerpt": "A week after he was shot in his West Bank village, Fadi al-Nassan&#039;s death comes amid a surge in settler violence.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-18T21:29:12.618142+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss"
+  },
+  {
+    "id": "5396ff065bf3",
+    "source": "Al Jazeera",
+    "date": "2026-07-18T20:18",
+    "headline": "Drone video shows scale of major wildfire in northern Spain",
+    "excerpt": "Drone video shows the scale of a major wildfire in northern Spain where more than 150 square kilometres have burned",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-18T21:29:12.618194+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss"
+  },
+  {
     "id": "a6b6731f370b",
     "source": "Al Jazeera",
     "date": "2026-07-18T19:55",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-10T11:56:46.387865+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/7/10/eu-states-do-not-need-consensus-to-hold-israel-accountable?traffic_source=rss"
-  },
-  {
-    "id": "3e2373423153",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T09:25",
-    "headline": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war?",
-    "excerpt": "Kyiv will rush to produce the systems domestically as Russia struggles to defend itself against some Ukrainian attacks.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-10T11:56:46.387935+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/trump-grants-kyiv-patriots-licences-whats-next-in-the-russia-ukraine-war?traffic_source=rss"
-  },
-  {
-    "id": "d4abd17553eb",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T09:21",
-    "headline": "Bomb attacks rattle Damascus but for most Syrians, life goes on",
-    "excerpt": "The Damascus attacks appeared to be attempts to cause instability, but don&#039;t signal total security breakdown in Syria.",
-    "category": "Airstrike",
-    "location": "Syria",
-    "addedAt": "2026-07-10T11:56:46.387967+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on?traffic_source=rss"
   }
 ]
