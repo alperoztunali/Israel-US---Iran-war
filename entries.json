@@ -1,5 +1,27 @@
 [
   {
+    "id": "aaf3a84c74b1",
+    "source": "Al Jazeera",
+    "date": "2026-07-18T15:35",
+    "headline": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
+    "excerpt": "Towering plumes of smoke rose over Kuwait after Iranian strikes hit multiple locations in Mangaf.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-18T16:04:04.625320+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss"
+  },
+  {
+    "id": "1094c16b3167",
+    "source": "Al Jazeera",
+    "date": "2026-07-18T12:59",
+    "headline": "Iran suggests MoU ‘suspended’ amid reports 50 killed in US strikes in July",
+    "excerpt": "Conflict has been escalating since US President Donald Trump declared 10 days ago that peace deal with Iran was over.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-18T16:04:04.625368+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss"
+  },
+  {
     "id": "9b9f95bf394b",
     "source": "Al Jazeera",
     "date": "2026-07-18T14:23",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-10T05:40:38.138109+00:00",
     "link": "https://www.aljazeera.com/sports/2026/7/10/muchova-beats-gauff-in-tie-break-thriller-to-reach-first-wimbledon-final?traffic_source=rss"
-  },
-  {
-    "id": "51cb36abbfa1",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T01:42",
-    "headline": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
-    "excerpt": "Israeli strike killed Mohammed al-Wahidi and three others on the eve of the Egypt vs Argentina match on Tuesday.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-10T05:40:38.138134+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/10/gaza-mourns-aid-worker-killed-by-israel-who-helped-them-see-the-world-cup?traffic_source=rss"
-  },
-  {
-    "id": "5b1f79fd59a0",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T00:00",
-    "headline": "Iran war live: Uneasy calm in the Middle East after deadly attacks",
-    "excerpt": "American official says technical talks with Tehran continue and the United States wants to pursue diplomacy.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-07-10T05:40:38.138161+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss"
   }
 ]
