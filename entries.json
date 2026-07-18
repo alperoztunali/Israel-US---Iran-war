@@ -1,5 +1,27 @@
 [
   {
+    "id": "ad96005e6eae",
+    "source": "Al Jazeera",
+    "date": "2026-07-18T17:35",
+    "headline": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
+    "excerpt": "The Lebanese and US presidents are expected to discuss the ceasefire, southern Lebanon, and Israel’s withdrawal.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-07-18T18:11:36.244062+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss"
+  },
+  {
+    "id": "51f9640c3032",
+    "source": "Al Jazeera",
+    "date": "2026-07-18T16:47",
+    "headline": "What to expect after the US reimposes naval blockade on Iran’s ports?",
+    "excerpt": "Pressure is expected to build on the Iranian public, as well as global energy markets due to the US blockade.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-18T18:11:36.244106+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss"
+  },
+  {
     "id": "a6690d405243",
     "source": "Al Jazeera",
     "date": "2026-07-18T16:24",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-10T05:40:38.137969+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/7/10/venezuelas-turn-to-israel-is-about-survival-not-conviction?traffic_source=rss"
-  },
-  {
-    "id": "6d3a0538d68b",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T04:03",
-    "headline": "Zelenskyy urges urgent efforts in Ukraine to start Patriot production",
-    "excerpt": "US President Donald Trump gave his blessing earlier this week to domestic Ukrainian production of the missiles.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-10T05:40:38.138011+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/zelenskyy-urges-urgent-efforts-in-ukraine-to-start-patriot-production?traffic_source=rss"
-  },
-  {
-    "id": "01394325100e",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T03:05",
-    "headline": "Iran says strikes hit southern areas, but US denies it carried attacks",
-    "excerpt": "Iranian state media reported that military headquarters were hit by strikes in Bushehr province and the city of Konarak.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-10T05:40:38.138046+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/iran-says-strikes-hit-southern-areas-but-us-denies-it-carried-attacks?traffic_source=rss"
   }
 ]
