@@ -1,5 +1,60 @@
 [
   {
+    "id": "9b9f95bf394b",
+    "source": "Al Jazeera",
+    "date": "2026-07-18T14:23",
+    "headline": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
+    "excerpt": "The deals include rebuilding the long-defunct Iraq-Syria crude oil pipeline, which could bypass the Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Syria",
+    "addedAt": "2026-07-18T14:58:51.088748+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss"
+  },
+  {
+    "id": "59f67a034b72",
+    "source": "Al Jazeera",
+    "date": "2026-07-18T13:54",
+    "headline": "Top German conservative quits after surrogacy sparks backlash within party",
+    "excerpt": "Jens Spahn steps down after party criticism over surrogacy, highlighting tensions in Germany&#039;s conservative coalition.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-18T14:58:51.088792+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/18/top-german-conservative-quits-after-surrogacy-sparks-backlash-within-party?traffic_source=rss"
+  },
+  {
+    "id": "5dff0c2ad230",
+    "source": "PressTV",
+    "date": "2026-07-18T14:58",
+    "headline": "Iran suspends MoU commitments after repeated US violations: Deputy FM",
+    "excerpt": "Kazem Gharibabadi says Tehran has suspended its commitments under the Islamabad MoU after the United States violated the agreement by resuming its aggression against Iranian territory.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-07-18T14:58:52.703437+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/18/772510/Iran-priority-firm-defense-US-continues-aggression-MoU-Deputy-FM-Gharibabadi"
+  },
+  {
+    "id": "0bdd8c8f4076",
+    "source": "PressTV",
+    "date": "2026-07-18T14:58",
+    "headline": "US 'sinister plot' thwarted with collapse of 'southern corridor': Iran’s judiciary chief",
+    "excerpt": "The Iranian Judiciary chief says the collapse of the US southern corridor scheme thwarted its sinister plot.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-18T14:58:52.703478+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/18/772516/Iran-US-corridor-Judiciary"
+  },
+  {
+    "id": "6a703188d508",
+    "source": "PressTV",
+    "date": "2026-07-18T14:58",
+    "headline": "Iran condemns US attack on desalination plant as war crime",
+    "excerpt": "Iran’s energy minister says the US attack targeting a desalination plant in the Jask region was a clear example of a war crime.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-18T14:58:52.703503+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/18/772520/Iran-Jask-desalination-plant-attack-US-war-crime-Aliabadi"
+  },
+  {
     "id": "ef68080719af",
     "source": "Al Jazeera",
     "date": "2026-07-18T12:59",
@@ -5443,60 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-10T05:40:38.138161+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss"
-  },
-  {
-    "id": "1e2888bca589",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T00:32",
-    "headline": "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza",
-    "excerpt": "Andy Burnham took to social media to apologise for the Labour Party’s initial stance on Israeli attacks in Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-10T01:16:56.304475+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/britains-likely-pm-says-will-work-to-stop-the-suffering-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "0dadf9d42542",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T00:04",
-    "headline": "China expands anti-sanctions toolkit, raising risks for foreign firms",
-    "excerpt": "Beijing is rolling out measures to expand its ability to hit back at US and EU sanctions and export controls.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-10T01:16:56.304525+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/china-expands-anti-sanctions-toolkit-raising-risks-for-foreign-firms?traffic_source=rss"
-  },
-  {
-    "id": "181ccb28bd70",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T00:00",
-    "headline": "Iran war live: New attacks on Iran as US says talks still on",
-    "excerpt": "Washington official says US not behind the latest strikes and that technical talks with Iran continue.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-10T01:16:56.304558+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss"
-  },
-  {
-    "id": "6e3c8a1abafc",
-    "source": "PressTV",
-    "date": "2026-07-10T01:16",
-    "headline": "Pezeshkian: Historic outpouring renews Iran’s sacred covenant with martyred Leader",
-    "excerpt": "Pezeshkian on Thursday described the millions-strong gatherings in Tehran, Qom, the holy city of Mashhad, Najaf, and Karbala as a magnificent and enduring manifestation of loyalty, national solidarity, and Islamic unity.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-07-10T01:16:58.243582+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/10/771938/Pezeshkian--Historic-outpouring-renews-Iran%E2%80%99s-sacred-covenant-with-martyred-Leader"
-  },
-  {
-    "id": "51164d409e67",
-    "source": "PressTV",
-    "date": "2026-07-10T01:16",
-    "headline": "'Largest in human history': Over 43 million join funeral ceremonies for Martyr Leader in Iran, Iraq",
-    "excerpt": "Tens of millions of Iranians and devotees from across the region turned the funeral ceremonies for the Martyr Leader of the Islamic Revolution into the largest procession the world has ever witnessed.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-10T01:16:58.243626+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/09/771935/Over-43-million-join-epic-mourning-for-Martyr-Leader"
   }
 ]
