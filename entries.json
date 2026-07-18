@@ -1,5 +1,38 @@
 [
   {
+    "id": "b02455b8266e",
+    "source": "Al Jazeera",
+    "date": "2026-07-18T10:48",
+    "headline": "Indian police forcibly hospitalise activist after 20-day hunger strike",
+    "excerpt": "Police said protesters tried to stop them from seizing Sonam Wangchuk, causing a &#039;slight commotion&#039;.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-07-18T11:07:53.473108+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss"
+  },
+  {
+    "id": "8b1856370161",
+    "source": "PressTV",
+    "date": "2026-07-18T11:07",
+    "headline": "IRGC: Missile strike on US airbase in Jordan destroyed aircraft",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC) says it has carried out missile and drone strikes on a US military base in Jordan, destroying several American aircraft.",
+    "category": "Missile/Drone",
+    "location": "Jordan",
+    "addedAt": "2026-07-18T11:07:55.854574+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/18/772500/Iran-IRGC-missile-strike-US-airbase-Jordan-destroys-aircraft"
+  },
+  {
+    "id": "6df7ccbdb0a6",
+    "source": "PressTV",
+    "date": "2026-07-18T11:07",
+    "headline": "Iran issues indictments against Reza Pahlavi, 300 Iran International, Manoto affiliates",
+    "excerpt": "Iran’s Judiciary says indictments have been issued against Reza Pahlavi and nearly 300 individuals linked to the so-called Iran International and Manoto television networks.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-18T11:07:55.854627+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/18/772497/Iran-issues-indictments-against-Reza-Pahlavi,-nearly-300-Iran-International,-Manoto-affiliates"
+  },
+  {
     "id": "491e2d310b6d",
     "source": "PressTV",
     "date": "2026-07-18T09:46",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-09T22:01:52.008846+00:00",
     "link": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute?traffic_source=rss"
-  },
-  {
-    "id": "0b923d589e65",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T21:14",
-    "headline": "US military denies involvement after explosions heard in Iran",
-    "excerpt": "Iranian media report loud explosions in several locations as Israeli officials say war is &#039;not over&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-09T22:01:52.008876+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss"
-  },
-  {
-    "id": "0604a10fc1db",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T20:20",
-    "headline": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
-    "excerpt": "UK&#039;s likely next PM Burnham pushes for ceasefire, tougher sanctions over Gaza violence and settlement trade bans.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-09T22:01:52.008909+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence?traffic_source=rss"
-  },
-  {
-    "id": "a4d067dc97b8",
-    "source": "Al Jazeera",
-    "date": "2026-07-09T18:04",
-    "headline": "Israeli attacks on Gaza kill six people despite ‘ceasefire’",
-    "excerpt": "World Central Kitchen condemns air strike on aid driver, calls for accountability amid escalating Israeli violence.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-07-09T22:01:52.008941+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss"
   }
 ]
