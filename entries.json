@@ -1,5 +1,27 @@
 [
   {
+    "id": "65341a527a11",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T16:43",
+    "headline": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
+    "excerpt": "Government says the shake-up will strengthen security and clear the way for reconstruction.",
+    "category": "Naval",
+    "location": "Syria",
+    "addedAt": "2026-07-19T17:17:46.032420+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss"
+  },
+  {
+    "id": "ec498ae2cf99",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T16:06",
+    "headline": "Israeli settlers torch homes and mosque in Masafer Yatta",
+    "excerpt": "Videos show Israeli settlers attacking the Palestinian village of al Tuwani in Masafer Yatta, south of Hebron.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-19T17:17:46.032470+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss"
+  },
+  {
     "id": "9d273bce43cf",
     "source": "Al Jazeera",
     "date": "2026-07-19T15:46",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-11T08:29:39.283139+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss"
-  },
-  {
-    "id": "132e5350e9e8",
-    "source": "Al Jazeera",
-    "date": "2026-07-11T03:54",
-    "headline": "World Cup: Kane vs Haaland in England-Norway quarterfinal striker battle",
-    "excerpt": "Haaland termed a &#039;beast&#039; by England&#039;s Kane as the lethal forwards aim to carry their teams into the semifinals.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-11T08:29:39.283193+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/11/kane-vs-haaland-in-england-vs-norway-world-cup-quarterfinal-of-strikers?traffic_source=rss"
-  },
-  {
-    "id": "ddb2f393fdd7",
-    "source": "PressTV",
-    "date": "2026-07-11T08:29",
-    "headline": "Araghchi arrives in Muscat for talks on Strait of Hormuz, regional developments",
-    "excerpt": "Iran’s Foreign Minister Abbas Araghchi arrives in Muscat for talks with Omani officials on arrangements for the administration of the Strait of Hormuz.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-11T08:29:42.222897+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/11/772014/Araghchi-arrives-Muscat-Strait-Hormuz,-regional-developments"
   }
 ]
