@@ -1,5 +1,93 @@
 [
   {
+    "id": "3387ad9f063c",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T08:49",
+    "headline": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+    "excerpt": "US strikes target Iran&#039;s IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-19T09:27:59.214673+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "eef4b1fd3bb7",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T08:46",
+    "headline": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+    "excerpt": "Setting up illegal settlements, erasing cities and obstructing aid serve goal of forcing Palestinians out, analysts say.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-19T09:27:59.214721+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "541f837de04d",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T08:12",
+    "headline": "Spain vs Argentina: How each team can win World Cup final 2026",
+    "excerpt": "Matchups, a style clash, Messi magic, a midfield battle and a passing of the torch could be key narratives in the final.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-19T09:27:59.214762+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss"
+  },
+  {
+    "id": "d1a1240177c9",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T07:30",
+    "headline": "Israel demolishes Palestinian home in Masafer Yatta",
+    "excerpt": "Israel demolishes Palestinian home in Masafer Yatta",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-19T09:27:59.214793+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss"
+  },
+  {
+    "id": "ed3fc6921d31",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T07:28",
+    "headline": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+    "excerpt": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-19T09:27:59.214823+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss"
+  },
+  {
+    "id": "09af4d1ca092",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T07:15",
+    "headline": "The number one health issue in Palestine is the Israeli occupation",
+    "excerpt": "In both Gaza and the West Bank, Israeli policies are devastating Palestinian health with deadly consequences.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-19T09:27:59.214851+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss"
+  },
+  {
+    "id": "cb3082002ad7",
+    "source": "PressTV",
+    "date": "2026-07-19T09:28",
+    "headline": "US soldiers should flee region as soon as they can, senior Iranian MP warns",
+    "excerpt": "A senior Iranian lawmaker warns American soldiers not to waste a moment to escape from West Asia as Iran intensifies its retaliatory strikes against enemy targets across the region.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-19T09:28:00.902723+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772560/Iran-US-soldiers-flee-region"
+  },
+  {
+    "id": "d241e472b17b",
+    "source": "PressTV",
+    "date": "2026-07-19T09:28",
+    "headline": "Palestinian youth footballer dies from wounds sustained during Israeli settler raid",
+    "excerpt": "A 17-year-old Palestinian national youth football player has died from wounds sustained after Israeli forces shot him during a settler raid on his village in the occupied West Bank.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-07-19T09:28:00.902763+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772559/Palestinian-youth-footballer-dies-from-wounds-sustained-after-Israeli-forces-shoot-him-during-settler-raid"
+  },
+  {
     "id": "f6a589b651cc",
     "source": "Al Jazeera",
     "date": "2026-07-19T05:08",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-10T18:45:56.731765+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss"
-  },
-  {
-    "id": "c6fe02ac420e",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T17:21",
-    "headline": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
-    "excerpt": "Ukrainian official says Russia&#039;s attack on Kramatorsk kills four, including a teenager, and injures nine.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-10T18:45:56.731819+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss"
-  },
-  {
-    "id": "dfd1c24c84f6",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T17:08",
-    "headline": "Hundreds give hero’s welcome to Egypt after best World Cup run",
-    "excerpt": "Supporters waved Egyptian and Palestinian flags in support of Gaza as the Pharaohs boarded an open-top bus for a parade.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-10T18:45:56.731861+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/10/hundreds-give-heros-welcome-to-egypt-after-best-world-cup-run?traffic_source=rss"
-  },
-  {
-    "id": "1714ab4e323e",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T16:30",
-    "headline": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
-    "excerpt": "Iran has not responded to Trump&#039;s latest claim, which comes as new attacks threaten the full resumption of war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-10T18:45:56.731894+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss"
-  },
-  {
-    "id": "f27401b20c93",
-    "source": "PressTV",
-    "date": "2026-07-10T18:45",
-    "headline": "Qalibaf: Only those ready for war can negotiate with US",
-    "excerpt": "The Iranian Parliament speaker says only those who are prepared for war can engage in negotiation with the US.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-10T18:45:59.491750+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/10/771992/Iran-Indonesia-US-Qalibaf"
-  },
-  {
-    "id": "ed0e8e8a051e",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T16:30",
-    "headline": "Trump says US has ‘agreed’ to continue Iran talks but ceasefire ‘over’",
-    "excerpt": "Iran has not responded to Trump&#039;s latest claim, which comes as new attacks threaten the full resumption of war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-10T17:00:42.649652+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss"
-  },
-  {
-    "id": "7e5eca718284",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T16:27",
-    "headline": "Who is Fadel Shaker? Lebanese pop star released on bail",
-    "excerpt": "In 2012, singing star Shaker quit his music career, before being accused of joining an armed group in Lebanon.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-07-10T17:00:42.649725+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/who-is-fadel-shaker-lebanese-pop-star-released-on-bail?traffic_source=rss"
-  },
-  {
-    "id": "c3dcfaf3e10e",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T15:53",
-    "headline": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
-    "excerpt": "The incident is the latest in a pattern of Israeli measures in the occupied territory since the Gaza genocide began.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-10T17:00:42.649822+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss"
-  },
-  {
-    "id": "da88bd97adfc",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T15:05",
-    "headline": "Family mourns baby after Israeli forces blocked journey to hospital",
-    "excerpt": "Three-month-old Ahmad Zaid’s family received his birth certificate and death certificate on the same day.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-10T17:00:42.649880+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss"
   }
 ]
