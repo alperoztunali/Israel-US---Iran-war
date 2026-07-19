@@ -1,5 +1,71 @@
 [
   {
+    "id": "f6a589b651cc",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T05:08",
+    "headline": "US bombs Iran for eighth-straight night",
+    "excerpt": "The US has launched a new wave of strikes on Iran after two American soldiers were killed by Iranian strikes in Jordan.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-19T07:16:36.937910+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss"
+  },
+  {
+    "id": "e3285d6cd9e9",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T04:36",
+    "headline": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+    "excerpt": "A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-19T07:16:36.937949+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss"
+  },
+  {
+    "id": "b4c792678d6f",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T04:32",
+    "headline": "At least one killed as Russian ballistic missiles hit Kyiv",
+    "excerpt": "Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-19T07:16:36.937983+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss"
+  },
+  {
+    "id": "69f9c8f2080d",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T04:16",
+    "headline": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
+    "excerpt": "Sirik and Hajiabad areas in Iran&#039;s Hormozgan province targeted as US says revenge for killing of two soldiers.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-19T07:16:36.938020+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "a4c4b62d8488",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T00:00",
+    "headline": "Iran war live: US bombs Iran; Trump says soldiers killed ‘a sad thing’",
+    "excerpt": "US forces attack Iran for the eighth consecutive night as Iran says MoU &#039;suspended&#039;.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-19T07:16:36.938053+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss"
+  },
+  {
+    "id": "8e14e8ccd27f",
+    "source": "PressTV",
+    "date": "2026-07-19T07:16",
+    "headline": "Iran Army targets US bases in Kuwait after deadly American strikes on civilian sites",
+    "excerpt": "The Islamic Republic of Iran Army targets two key US bases in Kuwait in response to deadly American aerial assaults on civilian infrastructure, including bridges.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-19T07:16:38.318747+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772548/Iran-US-bases-Kuwait"
+  },
+  {
     "id": "364e69a713fe",
     "source": "Al Jazeera",
     "date": "2026-07-19T02:57",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-10T17:00:42.649880+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss"
-  },
-  {
-    "id": "38af1b45dafa",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T15:00",
-    "headline": "The search for Gaza’s missing brings heartbreak and closure for loved ones",
-    "excerpt": "Thousands of bodies remain trapped under the rubble of their homes in Gaza, with retrieval a long and difficult task.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-10T17:00:42.649925+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/10/the-search-for-gazas-missing-brings-heartbreak-and-closure-for-loved-ones?traffic_source=rss"
-  },
-  {
-    "id": "c52563439091",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T14:38",
-    "headline": "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
-    "excerpt": "Ukraine’s unmanned systems have cut overland routes and begun to target Russian shadow tankers.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-07-10T17:00:42.649966+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/ukraine-chokes-fuel-to-crimea-russian-consumers-targeting-military-supply?traffic_source=rss"
-  },
-  {
-    "id": "5d30008b6a77",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T14:35",
-    "headline": "Israeli drones strike Lebanon despite US-brokered framework deal",
-    "excerpt": "The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-07-10T17:00:42.649989+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss"
-  },
-  {
-    "id": "d03337998ff6",
-    "source": "PressTV",
-    "date": "2026-07-10T17:00",
-    "headline": "Russia, China reject Western push to use UNSC against Iran after Resolution 2231 expiry",
-    "excerpt": "Russia rejects unjustified attempts to escalate tensions around Iran or to use the Security Council as a venue for political score-settling with Tehran.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-10T17:00:44.230714+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/10/771987/Russia-China-UNSC-Res-2231-Western-push-snapback"
-  },
-  {
-    "id": "a49da0e16928",
-    "source": "PressTV",
-    "date": "2026-07-10T17:00",
-    "headline": "Leader's funeral epic 'strategic asset' for Iran's deterrence: Acting defense minister",
-    "excerpt": "The Iranian acting defense minister says the massive turnout at the funeral of Martyr Ayatollah Khamenei is a strategic asset for the country’s defense and deterrence capabilities.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-10T17:00:44.230780+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/10/771982/Iran-Leader-deterrence-asset-"
-  },
-  {
-    "id": "333a432da514",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T14:01",
-    "headline": "Ukrainian court detains alleged killers of Monaco bomb attack suspect",
-    "excerpt": "Motives for the killing of Anastasiia Berezovska remain unclear as the unfolding saga grips both countries.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-07-10T14:46:07.355362+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/ukrainian-court-detains-alleged-killers-of-monaco-bomb-attack-suspect?traffic_source=rss"
   }
 ]
