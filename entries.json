@@ -1,5 +1,71 @@
 [
   {
+    "id": "1fb6a2e60678",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T10:09",
+    "headline": "Gaza cheers for Spain as World Cup final anticipation mounts",
+    "excerpt": "Football fans in Gaza express support for Spain in showdown with Argentina, citing Spanish solidarity with Palestinians.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-19T10:55:49.130752+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss"
+  },
+  {
+    "id": "8b5d9547b820",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T04:16",
+    "headline": "US hits Iran for 8th consecutive night; Tehran returns fire on Gulf bases",
+    "excerpt": "Sirik and Hajiabad areas in Iran&#039;s Hormozgan province targeted as US says revenge for killing of two soldiers.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-19T10:55:49.130818+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "266c25dfd579",
+    "source": "PressTV",
+    "date": "2026-07-19T10:55",
+    "headline": "IRGC Navy: Two vessels suffer ‘accidents’ after trying unsafe Hormuz route",
+    "excerpt": "The IRGC says four “violating vessels” switched off their navigation systems and ignored warnings issued by the IRGC Navy’s Hormuz Strait control base.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-07-19T10:55:50.635370+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772573/IRGC-Navy-Two-vessels-suffer-accidents-after-trying-unsafe-Hormuz-route"
+  },
+  {
+    "id": "baffb9542816",
+    "source": "PressTV",
+    "date": "2026-07-19T10:55",
+    "headline": "IRGC downs US MQ-9 drone over Ahvaz amid US escalations",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC) shoots down an American MQ-9 Reaper drone as part of defensive operations against the aggression waged by the US against Iran.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-19T10:55:50.635396+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772569/Iran-IRGC-downs-US-drone"
+  },
+  {
+    "id": "86cf3dc9acdc",
+    "source": "PressTV",
+    "date": "2026-07-19T10:55",
+    "headline": "Ex-US counterterror chief: Washington must accept Iran as major regional power",
+    "excerpt": "The former director of the US National Counterterrorism Center says Washington must recognize that Iran has emerged as a major regional power following the US-Israeli aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-19T10:55:50.635431+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772566/Iran-has-emerged-as-regional-power-after-US-Israeli-aggression--Former-US-counterterrorism-chief"
+  },
+  {
+    "id": "c4a7b1e1cc58",
+    "source": "PressTV",
+    "date": "2026-07-19T10:55",
+    "headline": "Islamic Resistance determined to expel US forces, firms from Iraq: Nujaba chief",
+    "excerpt": "The secretary general of the Harakat Hezbollah al-Nujaba resistance group says Iraqi resistance factions are fairly determined to expel US forces and companies from the country’s soil.",
+    "category": "Movement",
+    "location": "Iraq",
+    "addedAt": "2026-07-19T10:55:50.635467+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772564/Islamic-Resistance-determined-to-expel-US-forces,-companies-from-Iraqi-soil--Nujaba-chief"
+  },
+  {
     "id": "3387ad9f063c",
     "source": "Al Jazeera",
     "date": "2026-07-19T08:49",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-10T21:36:27.652930+00:00",
     "link": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
-  },
-  {
-    "id": "f5ba236c1fea",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T20:23",
-    "headline": "Ukrainian attacks cause chaos at fuel stations across Russia",
-    "excerpt": "Ukraine’s targeting of Russia’s major oil refineries has sparked a nationwide fuel shortage.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-10T21:36:27.652987+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss"
-  },
-  {
-    "id": "90a2e6c142f7",
-    "source": "PressTV",
-    "date": "2026-07-10T21:36",
-    "headline": "Iran president warns US violations threaten peace as Pakistan mediation continues",
-    "excerpt": "The president praised Pakistan’s responsible stance and its efforts to reduce tensions and advance diplomatic initiatives in the region.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-10T21:36:29.177890+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/10/771994/Iran-president-warns-US-violations-threaten-peace-as-Pakistan-mediation-continues"
-  },
-  {
-    "id": "185dc5010e49",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T19:30",
-    "headline": "Why are politicians and sanctioned states embracing crypto?",
-    "excerpt": "Bitcoin is falling, yet cryptocurrency is spreading beyond investing into politics, sanctions and global finance.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-10T20:27:01.698417+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss"
-  },
-  {
-    "id": "b2312e93951e",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T19:02",
-    "headline": "Can the agreement between Iran and the US be rescued?",
-    "excerpt": "Latest attacks jeopardise ceasefire and memorandum of understanding.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-10T20:27:01.698459+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss"
-  },
-  {
-    "id": "d2991e36df7e",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T17:21",
-    "headline": "Russian attacks kill five as Ukraine continues to target oil infrastructure",
-    "excerpt": "Ukrainian officials say Russia&#039;s attack on Kramatorsk kills four, while a strike on Zaporizhzhia kills one.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-10T20:27:01.698506+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss"
-  },
-  {
-    "id": "e9afef154648",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T18:01",
-    "headline": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
-    "excerpt": "Palestinian Health Ministry denounces attack as part of Israel&#039;s &#039;systematic targeting of health facilities&#039;.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-07-10T18:45:56.731765+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss"
   }
 ]
