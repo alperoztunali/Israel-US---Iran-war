@@ -1,5 +1,49 @@
 [
   {
+    "id": "ead2304bf8e1",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T11:16",
+    "headline": "Iranians suffer from power blackouts during war and heatwave",
+    "excerpt": "Collapsing grid, battered by military strikes and chronic underinvestment, leaves Iranians sweltering in the dark.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-19T12:02:12.579417+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss"
+  },
+  {
+    "id": "ffa1486913d8",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T08:12",
+    "headline": "Spain vs Argentina: How each team can win the 2026 World Cup final",
+    "excerpt": "Matchups, a style clash, Messi magic, a midfield battle and a passing of the torch could be key narratives in the final.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-19T12:02:12.579599+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss"
+  },
+  {
+    "id": "711b35b22fcf",
+    "source": "PressTV",
+    "date": "2026-07-19T12:02",
+    "headline": "Iran condemns US attack on Darkhoveyn nuclear power plant construction site",
+    "excerpt": "The AEOI condemns a “terrorist” US attack on the construction site of the Darkhoveyn nuclear power plant, saying the strike violated international law and targeted a peaceful nuclear facility under international safeguards.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-19T12:02:14.131858+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772576/Iran-condemns-US-attack-Darkhoveyn-nuclear-power-plant-construction-site"
+  },
+  {
+    "id": "ac7344393b91",
+    "source": "PressTV",
+    "date": "2026-07-19T12:02",
+    "headline": "Israel carries out new airstrikes on areas in southern Lebanon",
+    "excerpt": "Israeli forces have carried out fresh strikes on areas in southern Lebanon, which injured several people, state media reported.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-07-19T12:02:14.131885+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772572/Israel-continues-to-breach-ceasefire-in-southern-Lebanon,-launches-fresh-attacks"
+  },
+  {
     "id": "1fb6a2e60678",
     "source": "Al Jazeera",
     "date": "2026-07-19T10:09",
@@ -5454,49 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-07-11T01:10:34.515384+00:00",
     "link": "https://presstv.ir/Detail/2026/07/11/772001/Iraq-Islamic-Resistance-hails-epic-of-Imam-Khamenei-funeral-vows-weapons-not-up-for-bargaining"
-  },
-  {
-    "id": "5ed280fb30d6",
-    "source": "PressTV",
-    "date": "2026-07-10T23:40",
-    "headline": "Iran UN envoy warns country won’t be bound by MoU if US violations continue",
-    "excerpt": "Iravani rejected “politically motivated allegations” by the E3 and the US regarding Iran’s peaceful nuclear program.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-10T23:40:52.535800+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/10/771998/Iran-UN-envoy-warns-country-won%E2%80%99t-be-bound-by-MoU-if-US-violations-continue"
-  },
-  {
-    "id": "e31c2f29f580",
-    "source": "PressTV",
-    "date": "2026-07-10T23:40",
-    "headline": "Iran files complaint with global rail body over US strikes on railway infrastructure",
-    "excerpt": "Bahreini warned that attacks on rail infrastructure threaten the broader safety, security, and reliability of international rail transport.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-10T23:40:52.535844+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/10/772000/Iran-files-complaint-with-global-rail-body-over-US-strikes-on-railway-infrastructure"
-  },
-  {
-    "id": "5a40620e6339",
-    "source": "PressTV",
-    "date": "2026-07-10T22:41",
-    "headline": "US violations of MOU will be met with reciprocal action: Iran FM spox",
-    "excerpt": "Iran Foreign Ministry says the Islamic Republic's policy remains firmly grounded in the principle of \"commitment for commitment\".",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-10T22:41:48.050035+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/10/771996/US-violations-of-MOU-will-be-met-with-reciprocal-action-FM-spox"
-  },
-  {
-    "id": "47f2b1ecaf69",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T20:33",
-    "headline": "Lebanon historic sites destroyed by Israeli strikes",
-    "excerpt": "Israeli air strikes on southern Lebanon have caused catastrophic destruction and damaged historic landmarks.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-07-10T21:36:27.652930+00:00",
-    "link": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
   }
 ]
