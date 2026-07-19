@@ -1,5 +1,27 @@
 [
   {
+    "id": "b67425f7acb1",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T17:24",
+    "headline": "Iraqi-born singer Emmanuel Kelly among World Cup half-time show headliners",
+    "excerpt": "Abandoned as a baby and brought up by nuns in Baghdad, Kelly will be preforming alongside global megastars.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-07-19T18:28:56.506649+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/19/iraqi-born-singer-emmanuel-kelly-among-world-cup-half-time-show-headliners?traffic_source=rss"
+  },
+  {
+    "id": "555a6d3b361d",
+    "source": "PressTV",
+    "date": "2026-07-19T18:28",
+    "headline": "Iran air defense downs multiple enemy drones, cruise missile",
+    "excerpt": "The Army's Air Defense Force, operating under the unified national air defense network, shot down an MQ-9 Reaper drone in the western region of the country on Sunday.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-19T18:28:57.921135+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772602/Iran-air-defense-downs-multiple-enemy-drones-cruise-missile"
+  },
+  {
     "id": "65341a527a11",
     "source": "Al Jazeera",
     "date": "2026-07-19T16:43",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-11T10:03:47.712451+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss"
-  },
-  {
-    "id": "0e836bccb655",
-    "source": "Al Jazeera",
-    "date": "2026-07-11T08:25",
-    "headline": "Russian overnight strikes on Kyiv injure ten",
-    "excerpt": "Russian overnight strikes on Kyiv injure ten",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-11T10:03:47.712497+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss"
-  },
-  {
-    "id": "5a2c416fc423",
-    "source": "Al Jazeera",
-    "date": "2026-07-11T08:04",
-    "headline": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
-    "excerpt": "US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-11T08:29:39.283139+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss"
   }
 ]
