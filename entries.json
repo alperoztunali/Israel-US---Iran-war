@@ -1,5 +1,38 @@
 [
   {
+    "id": "364e69a713fe",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T02:57",
+    "headline": "Palestinian teenage footballer dies after Israeli settler attack",
+    "excerpt": "Palestinian teenage footballer, Fadi al-Naasan, has died a week after being shot by Israeli forces.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-07-19T04:37:03.763676+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/palestinian-teenage-footballer-dies-after-israeli-settler-attack?traffic_source=rss"
+  },
+  {
+    "id": "e0f1f10c3506",
+    "source": "PressTV",
+    "date": "2026-07-19T04:37",
+    "headline": "Top general: Iran’s Armed Forces to deliver ‘devastating response’ to any aggression",
+    "excerpt": "Iran’s top general warns that the Islamic Republic's Armed Forces will deliver a “decisive and devastating response” to any act of aggression.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-19T04:37:06.193010+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772543/Iran-top-general-warning-United-States-Leader-Ayatollah-Khamenei"
+  },
+  {
+    "id": "256ccedbd741",
+    "source": "PressTV",
+    "date": "2026-07-19T04:37",
+    "headline": "Iran, Iraq reaffirm commitment to consultations to maintain regional peace and security",
+    "excerpt": "Foreign Minister Abbas Araghchi and his Iraqi counterpart emphasize the need for continued bilateral consultations and coordination to help preserve regional peace and security.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-19T04:37:06.193059+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772541/Iran-Iraq-Foreign-Minister-Abbas-Araghchi-United-States-aggression"
+  },
+  {
     "id": "111438923b67",
     "source": "Al Jazeera",
     "date": "2026-07-19T00:33",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-10T14:46:07.355362+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/10/ukrainian-court-detains-alleged-killers-of-monaco-bomb-attack-suspect?traffic_source=rss"
-  },
-  {
-    "id": "5e3181d3b68b",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T13:38",
-    "headline": "Andy Burnham apology for Labour stance on Gaza: Is UK’s position shifting?",
-    "excerpt": "Likely incoming UK PM hints at policy shifts towards Israel&#039;s genocidal war on Gaza. But analysts are wary.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-10T14:46:07.355415+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/10/andy-burnham-apology-for-labour-stance-on-gaza-is-uks-position-shifting?traffic_source=rss"
-  },
-  {
-    "id": "2a32124e0e48",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T13:09",
-    "headline": "Sudan’s El Obeid faces intensifying RSF drone attacks",
-    "excerpt": "Sudan’s El Obeid faces intensifying RSF drone attacks",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-10T14:46:07.355449+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/sudans-el-obeid-faces-intensifying-rsf-drone-attacks?traffic_source=rss"
-  },
-  {
-    "id": "b2b42632d3e6",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T11:51",
-    "headline": "US-Iran escalation threatens oil supply recovery, warns IEA",
-    "excerpt": "Sources suggest that the ceasefire can be revived amid a lull in fighting and backroom diplomacy.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-10T14:46:07.355479+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss"
   }
 ]
