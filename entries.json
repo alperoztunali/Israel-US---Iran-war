@@ -1,5 +1,71 @@
 [
   {
+    "id": "091624e7b4d0",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T18:54",
+    "headline": "The story behind Gaza’s #TheyLiedToYou campaign",
+    "excerpt": "The story behind Gaza’s #TheyLiedToYou campaign",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-19T19:46:00.560332+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss"
+  },
+  {
+    "id": "8def335a451c",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T18:40",
+    "headline": "Lebanese food influencer sentenced to life for drug smuggling",
+    "excerpt": "Georges Hanna Dib, known as Dr Food, sentenced for smuggling hashish out of Lebanon in cake packaging.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-07-19T19:46:00.560399+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/lebanese-food-influencer-sentenced-to-life-for-drug-smuggling?traffic_source=rss"
+  },
+  {
+    "id": "95ef731b6698",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T18:29",
+    "headline": "‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides",
+    "excerpt": "Decree comes after hardline backers of the Iranian government accused officials of treason for signing an MoU with US.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-19T19:46:00.560448+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/sacred-unity-irans-supreme-leader-calls-for-calm-amid-political-divides?traffic_source=rss"
+  },
+  {
+    "id": "8cb607c81c53",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T18:27",
+    "headline": "At least 50 Malian soldiers killed in attack on military convoy",
+    "excerpt": "At least 50 Malian soldiers were killed after a joint Malian army and Russia&#039;s Africa Corps convoy was ambushed.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-19T19:46:00.560482+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss"
+  },
+  {
+    "id": "f371efc78523",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T18:24",
+    "headline": "Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks",
+    "excerpt": "Aoun is expected to meet Donald Trump on Tuesday, as Beirut seeks US backing to end Israel-Hezbollah fighting.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-19T19:46:00.560518+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/lebanons-president-joseph-aoun-meets-rubio-ahead-of-trump-talks?traffic_source=rss"
+  },
+  {
+    "id": "7bd9459b92ff",
+    "source": "PressTV",
+    "date": "2026-07-19T19:46",
+    "headline": "Yemen’s Ansarullah warns region heading toward explosion",
+    "excerpt": "Ansarullah official says aggression against Iran and the blockade on Yemen is pushing the region toward a major blast.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-19T19:46:01.968975+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772598/Yemen-warning-US-attacks-Iran-Saudi-Arabia"
+  },
+  {
     "id": "b67425f7acb1",
     "source": "Al Jazeera",
     "date": "2026-07-19T17:24",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-11T14:11:46.025955+00:00",
     "link": "https://presstv.ir/Detail/2026/07/11/772022/Tehran--Armed-Forces-monitoring-enemy-coasts,-borders"
-  },
-  {
-    "id": "7f2a2ed96f86",
-    "source": "Al Jazeera",
-    "date": "2026-07-11T08:53",
-    "headline": "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
-    "excerpt": "In the latest salvo in one of the war&#039;s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-11T12:30:37.964099+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss"
-  },
-  {
-    "id": "060d58462c7b",
-    "source": "Al Jazeera",
-    "date": "2026-07-11T08:04",
-    "headline": "Trump trades threats with Iran’s leader as mediators struggle to save talks",
-    "excerpt": "US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-11T12:30:37.964179+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss"
-  },
-  {
-    "id": "488b5db5fc72",
-    "source": "PressTV",
-    "date": "2026-07-11T11:20",
-    "headline": "Armed Forces closely monitoring enemy movements in region: Tehran",
-    "excerpt": "Iran’s Foreign Ministry spokesman says the country's armed forces are maintaining constant vigilance across Iran's coasts, islands and borders.",
-    "category": "Movement",
-    "location": "Tehran",
-    "addedAt": "2026-07-11T11:20:48.479860+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/11/772022/Tehran--Armed-Forces-monitoring-enemy-coasts,-borders"
-  },
-  {
-    "id": "08c82de6458b",
-    "source": "PressTV",
-    "date": "2026-07-11T11:20",
-    "headline": "Iraqi Kata’ib Hezbollah chief vows to carry on resistance path, rejects threats",
-    "excerpt": "The secretary general of the Iraqi Kata’ib Hezbollah movement says his group will continue the path of resistance, dismissing the enemies’ threats.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-07-11T11:20:48.479907+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/11/772028/Iraqi-Kata%E2%80%99ib-Hezbollah-chief-vows-to-carry-on-resistance-path,-rejects-threats"
-  },
-  {
-    "id": "de6ed6606935",
-    "source": "PressTV",
-    "date": "2026-07-11T11:20",
-    "headline": "Iran’s Intelligence Ministry hails Islamic world for martyred Leader’s epic funeral",
-    "excerpt": "Iran’s Intelligence Ministry has thanked millions of mourners and Islamic countries for participating in the funeral ceremonies of the martyred leader of the Islamic Revolution.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-11T11:20:48.479941+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/11/772023/Iran-s-intelligence-ministry-hails-Islamic-world-for-attending-martyred-Leader-s-funeral"
-  },
-  {
-    "id": "be582c8a1f80",
-    "source": "Al Jazeera",
-    "date": "2026-07-11T08:53",
-    "headline": "Russian missile attacks wound 11 in Kyiv",
-    "excerpt": "In the latest salvo in one of the war&#039;s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-11T10:03:47.712451+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss"
   }
 ]
