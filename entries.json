@@ -1,5 +1,27 @@
 [
   {
+    "id": "111438923b67",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T00:33",
+    "headline": "Netanyahu declares support for Argentina ahead of World Cup final",
+    "excerpt": "Argentina’s ambassador to Israel has presented Benjamin Netanyahu with a football jersey ahead of the World Cup final.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-19T01:06:07.155001+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss"
+  },
+  {
+    "id": "382431382288",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T00:00",
+    "headline": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
+    "excerpt": "US president says death of soldiers in Jordan a &#039;sad thing&#039; as US forces attack Iran for the eighth consecutive night.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-19T01:06:07.155039+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss"
+  },
+  {
     "id": "03a010e7cd17",
     "source": "PressTV",
     "date": "2026-07-18T23:30",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-10T14:46:07.355479+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss"
-  },
-  {
-    "id": "e91b964e754f",
-    "source": "Al Jazeera",
-    "date": "2026-07-10T11:43",
-    "headline": "US-Iran war: Will peace talks resume, and when?",
-    "excerpt": "While Trump said the MoU with Iran is &#039;over&#039;, US officials have reaffirmed Washington&#039;s commitment to continue talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-10T14:46:07.355508+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss"
-  },
-  {
-    "id": "f33c4734f4e5",
-    "source": "PressTV",
-    "date": "2026-07-10T14:46",
-    "headline": "Iran will respond in kind to attack on its infrastructure: Security official",
-    "excerpt": "Iran’s top security official warns of reciprocal response to any attack on the country's infrastructure.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-10T14:46:09.244939+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/10/771971/Iran-US-Zoqadr-Trump"
   }
 ]
