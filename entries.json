@@ -1,5 +1,38 @@
 [
   {
+    "id": "364f26a2150c",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T12:45",
+    "headline": "Why have India’s Gen Z protesters called for a march to parliament?",
+    "excerpt": "After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-07-19T13:54:48.493221+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss"
+  },
+  {
+    "id": "449eaaebd8f2",
+    "source": "PressTV",
+    "date": "2026-07-19T13:54",
+    "headline": "Iran’s Parliament speaker says ‘sacred unity’ key to victory against enemies",
+    "excerpt": "Iranian Parliament Speaker has called for national unity, saying adherence to the Leader’s call for \"sacred unity\" is essential for the country's success in confronting external threats.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-19T13:54:50.300952+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772581/Iran-Parliament-Speaker-Qalibaf-calls-national-unity-key-victory-enemies"
+  },
+  {
+    "id": "8575b1438b25",
+    "source": "PressTV",
+    "date": "2026-07-19T13:54",
+    "headline": "‘Great Satan again showed its true face’: Snippets from Leader’s message on US attacks, epic funeral",
+    "excerpt": "Ayatollah Mojtaba Khamenei in his latest message hailed the unprecedented funeral turnout in Iran and Iraq, condemned repeated US violations of the MoU, warned against further aggression, and urged national unity",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-19T13:54:50.301009+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772554/great-satan-again-showed-true-colors-snippets-leader-message-us-aggression-epic-funeral"
+  },
+  {
     "id": "ead2304bf8e1",
     "source": "Al Jazeera",
     "date": "2026-07-19T11:16",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-11T04:29:57.242617+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss"
-  },
-  {
-    "id": "b3728bae3258",
-    "source": "Al Jazeera",
-    "date": "2026-07-11T00:00",
-    "headline": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
-    "excerpt": "US president says orders given to &#039;decimate and destroy all areas of Iran&#039; if he is assassinated",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-11T04:29:57.242648+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
-  },
-  {
-    "id": "45f6f4bef16d",
-    "source": "Al Jazeera",
-    "date": "2026-07-11T00:00",
-    "headline": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
-    "excerpt": "US said to be pushing for public statement that Iran will not fire at commercial ships passing through Strait of Hormuz",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-11T01:10:32.221886+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
-  },
-  {
-    "id": "afd55ccb77b1",
-    "source": "PressTV",
-    "date": "2026-07-11T01:10",
-    "headline": "Iraq's Islamic Resistance hails ‘epic' of Imam Khamenei funeral",
-    "excerpt": "\"You have proven that the authentic Iraqi people will remain committed to their resistance line and continue their jihadist approach in resisting global arrogance,\" the statement read.",
-    "category": "Statement",
-    "location": "Iraq",
-    "addedAt": "2026-07-11T01:10:34.515384+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/11/772001/Iraq-Islamic-Resistance-hails-epic-of-Imam-Khamenei-funeral-vows-weapons-not-up-for-bargaining"
   }
 ]
