@@ -1,5 +1,49 @@
 [
   {
+    "id": "f69eedc21c7b",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T21:06",
+    "headline": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
+    "excerpt": "US president insists Netanyahu will not be arrested, despite ICC warrant.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-20T21:45:07.326049+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss"
+  },
+  {
+    "id": "c162d808ae3f",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T20:53",
+    "headline": "Gaza residents weigh in on election of new Hamas leader",
+    "excerpt": "Gaza residents weigh in on election of new Hamas leader",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-20T21:45:07.326123+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss"
+  },
+  {
+    "id": "96beb7455cb1",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T20:50",
+    "headline": "How will Zelenskyy handle the growing political crisis at home?",
+    "excerpt": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-20T21:45:07.326178+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss"
+  },
+  {
+    "id": "2355171f7213",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T20:21",
+    "headline": "Indian police attack Cockroach Janta Party’s parliament march",
+    "excerpt": "Police used batons to disperse protesters as thousands of people joined the Cockroach Janta Party&#039;s march in New Delhi.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-20T21:45:07.326256+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss"
+  },
+  {
     "id": "f79ea26652b7",
     "source": "Al Jazeera",
     "date": "2026-07-20T20:02",
@@ -5454,49 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-07-12T17:44:08.152887+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "1f2f127a8c5f",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T16:43",
-    "headline": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad",
-    "excerpt": "Funeral prayers have been held for the Father Emir, Sheikh Hamad bin Khalifa Al Thani, at Qatar’s national mosque.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-12T17:44:08.152929+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad?traffic_source=rss"
-  },
-  {
-    "id": "701e1cec645a",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T16:34",
-    "headline": "Iran war: US strategic success or diplomatic failure?",
-    "excerpt": "Marc Lamont Hill challenges former United States diplomat Heino Klinck on the US-Israeli war in Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-12T16:36:43.535288+00:00",
-    "link": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss"
-  },
-  {
-    "id": "18eee6744971",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T16:05",
-    "headline": "UK ambassador remembers former emir of Qatar as humble and humorous",
-    "excerpt": "Former UK Ambassador to Qatar Sir Graham Boyce remembers the late Emir Sheikh Hamad Bin Khalifa Al Thani.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-12T16:36:43.535336+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-ambassador-remembers-former-emir-of-qatar-as-humble-and-humorous?traffic_source=rss"
-  },
-  {
-    "id": "5b9c8cc04325",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T15:38",
-    "headline": "Syrian parliament convenes for first time following al-Assad’s overthrow",
-    "excerpt": "President Ahmed Al-Sharaa stresses that improving the economy and strengthening public services are key priorities.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-12T16:36:43.535378+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow?traffic_source=rss"
   }
 ]
