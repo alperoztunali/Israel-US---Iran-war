@@ -1,5 +1,38 @@
 [
   {
+    "id": "59c36bb481bc",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T00:00",
+    "headline": "Iran war live: US military carries out another wave of strikes on Iran",
+    "excerpt": "The US military launches 9th consecutive night of strikes on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-20T00:13:20.385244+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "86ceb4553a4b",
+    "source": "Al Jazeera",
+    "date": "2026-07-19T23:49",
+    "headline": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+    "excerpt": "The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-20T00:13:20.385289+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss"
+  },
+  {
+    "id": "6f971605d73a",
+    "source": "PressTV",
+    "date": "2026-07-20T00:13",
+    "headline": "IRGC delivers decisive blow to US special operations hub in Syria",
+    "excerpt": "The IRGC has announced a surprise retaliatory strike on the US special operations command center in the Al-Tanf region of Syria.",
+    "category": "Statement",
+    "location": "Syria",
+    "addedAt": "2026-07-20T00:13:22.352019+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/19/772609/IRGC-delivers-decisive-blow-to-US-special-operations-hub-in-Syria-in-retaliation-for-blood-of-Iranshahr-martyrs"
+  },
+  {
     "id": "3e2f4c9540b0",
     "source": "Al Jazeera",
     "date": "2026-07-19T20:55",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-11T15:18:07.263859+00:00",
     "link": "https://presstv.ir/Detail/2026/07/11/772035/Iran-issues-300-indictments-against-individuals-linked-hostile-media-networks-Manoto-Reza-Pahlavi"
-  },
-  {
-    "id": "643cc5dfc817",
-    "source": "Al Jazeera",
-    "date": "2026-07-11T13:18",
-    "headline": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
-    "excerpt": "Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-07-11T14:11:44.328467+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss"
-  },
-  {
-    "id": "f3af3e548119",
-    "source": "Al Jazeera",
-    "date": "2026-07-11T12:53",
-    "headline": "What is going on in Yemen?",
-    "excerpt": "Tensions are rising in the battlefield and political sphere. Will the conflict reignite?",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-07-11T14:11:44.328511+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss"
-  },
-  {
-    "id": "be0b05124b9d",
-    "source": "PressTV",
-    "date": "2026-07-11T14:11",
-    "headline": "Israel expands Syrian invasion by entering new areas in Quneitra",
-    "excerpt": "The Israeli regime enters villages in Syria’s Quneitra region, erecting a checkpoint in the area.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-11T14:11:46.025841+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/11/772037/Israel-invasion-Syria-occupation-Quneitra"
   }
 ]
