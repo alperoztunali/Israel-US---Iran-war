@@ -1,5 +1,82 @@
 [
   {
+    "id": "d973a27b2d67",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T16:17",
+    "headline": "At least 25 killed as floods and landslides hit northern India",
+    "excerpt": "Monsoon rains devastate communities, with rescue and relief operations intensifying and the death toll rising.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-20T16:46:47.775260+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/20/at-least-25-killed-as-floods-and-landslides-hit-northern-india?traffic_source=rss"
+  },
+  {
+    "id": "1b0f06856520",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T16:13",
+    "headline": "Lebanon’s military starts ‘pilot zone’ takeover in south",
+    "excerpt": "Implementation of the trilateral framework agreement between Israel, Lebanon and the US is to start in three villages.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-20T16:46:47.775312+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/20/lebanons-military-starts-pilot-zone-takeover-in-south?traffic_source=rss"
+  },
+  {
+    "id": "9f86fe500ea9",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T16:12",
+    "headline": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
+    "excerpt": "An Iranian army spokesman asserts the war will continue until deterrence against further attacks has been achieved.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-20T16:46:47.775371+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss"
+  },
+  {
+    "id": "cd22a540259f",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T16:09",
+    "headline": "Former England manager and two-time Ballon d’Or winner Keegan dies aged 75",
+    "excerpt": "Kevin Keegan, the iconic striker for Liverpool, Newcastle and England, was diagnosed with stage four cancer last year.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-20T16:46:47.775424+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/20/former-england-manager-and-two-time-ballon-dor-winner-keegan-dies-aged-75?traffic_source=rss"
+  },
+  {
+    "id": "13fb87e7fd96",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T15:39",
+    "headline": "Yemen’s Houthis declare naval blockade of Saudi Arabia: What to know",
+    "excerpt": "Yemeni group says the announcement is based on the principle of &#039;an eye for an eye&#039;.",
+    "category": "Naval",
+    "location": "Yemen",
+    "addedAt": "2026-07-20T16:46:47.775456+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/20/yemens-houthis-declare-naval-blockade-of-saudi-arabia-what-to-know?traffic_source=rss"
+  },
+  {
+    "id": "ca9d2b745d7d",
+    "source": "PressTV",
+    "date": "2026-07-20T16:46",
+    "headline": "IRGC conducts three-pronged attack on US positions in Bahrain, Kuwait",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC) Navy conducts simultaneous strikes on three fronts against US positions in Bahrain and Kuwait in response to the criminal American aggression against Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-20T16:46:49.387143+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/20/772662/Iran-IRGC-US-positions-Bahrain-Kuwait"
+  },
+  {
+    "id": "59e58ee1c8d5",
+    "source": "PressTV",
+    "date": "2026-07-20T16:46",
+    "headline": "Iran in ‘full-scale war’ with US, economy at forefront: Pezeshkian",
+    "excerpt": "The Iranian president says the country is engaged in a full-scale war with the United States.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-20T16:46:49.387186+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/20/772666/Iran-Pezeshkian-war-economy"
+  },
+  {
     "id": "facc058351e2",
     "source": "Al Jazeera",
     "date": "2026-07-20T14:37",
@@ -5421,82 +5498,5 @@
     "location": "Qatar",
     "addedAt": "2026-07-12T14:17:17.438807+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/12/how-sheikh-hamad-bin-khalifa-al-thani-built-qatars-soft-power?traffic_source=rss"
-  },
-  {
-    "id": "8b885f16cdf0",
-    "source": "PressTV",
-    "date": "2026-07-12T14:17",
-    "headline": "Iran says Strait of Hormuz closed to all transit over ‘illegal’ US military movements",
-    "excerpt": "The Iranian authority controlling the Strait of Hormuz in the Persian Gulf announces the closure of the strategic waterway following recent illegal US military aggression.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-12T14:17:19.201345+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/12/772101/Iran-Hormuz-closure-US"
-  },
-  {
-    "id": "a624944fb77f",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T12:10",
-    "headline": "Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani",
-    "excerpt": "Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-12T12:41:51.040118+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/qatar-mourns-father-emir-sheikh-hamad-bin-khalifa-al-thani?traffic_source=rss"
-  },
-  {
-    "id": "4152f9d6c9fe",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T11:07",
-    "headline": "IRGC releases video of retaliatory missile strikes",
-    "excerpt": "IRGC releases video of retaliatory missile strikes",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-12T11:44:42.197840+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss"
-  },
-  {
-    "id": "f46bd56e1e08",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T11:00",
-    "headline": "Key moments from former Qatar Emir Sheikh Hamad bin Khalifa Al Thani’s life",
-    "excerpt": "Sheikh Hamad&#039;s 18-year rule catapulted Qatar to prosperity and reshaped its domestic, regional and global footprint.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-12T11:44:42.197898+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/12/key-moments-from-former-qatar-emir-sheikh-hamad-bin-khalifa-al-thanis-life?traffic_source=rss"
-  },
-  {
-    "id": "95c20c935aa8",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T06:01",
-    "headline": "Sheikh Hamad bin Khalifa Al Thani, the architect of modern Qatar",
-    "excerpt": "The Father Emir oversaw the meteoric rise of the small gas-rich nation.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-12T11:44:42.197955+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss"
-  },
-  {
-    "id": "79093b60c3b1",
-    "source": "PressTV",
-    "date": "2026-07-12T11:44",
-    "headline": "Ayatollah Khamenei to host memorial ceremony for martyred Leader",
-    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei is to host a commemoration ceremony for his father, Ayatollah Seyyed Ali Khamenei, who was martyred in illegal US-Israeli strikes on Iran.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-12T11:44:44.654541+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/12/772089/Leader-hold-memorial-martyred-Ayatollah-Khamenei-"
-  },
-  {
-    "id": "87a0f2e0e331",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T10:17",
-    "headline": "Photos: Qatari Father Emir Sheikh Hamad bin Khalifa Al Thani",
-    "excerpt": "Sheikh Hamad, who ruled Qatar from 1995 to 2013 and stepped aside to make his son Sheikh Tamim emir, dies aged 74.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-12T10:37:52.001344+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/7/12/photos-qatari-father-emir-sheikh-hamad-bin-khalifa-al-thani?traffic_source=rss"
   }
 ]
