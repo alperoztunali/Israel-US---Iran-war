@@ -1,5 +1,49 @@
 [
   {
+    "id": "d0ae7a8c3137",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T18:32",
+    "headline": "Houthis announce maritime blockade on Saudi Arabia",
+    "excerpt": "Yemen’s Iran-backed Houthi rebels have announced a maritime blockade on Saudi Arabia after the two sides traded fire",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-20T18:56:23.517106+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/houthis-announce-maritime-blockade-on-saudi-arabia?traffic_source=rss"
+  },
+  {
+    "id": "05e58862d386",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T18:21",
+    "headline": "Trump vows Iran will ‘pay’ for killing US soldiers",
+    "excerpt": "The US intensifies air strikes on Iran, targeting critical sites after the deaths of American soldiers in the region.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-20T18:56:23.517142+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss"
+  },
+  {
+    "id": "cec066e88f81",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T17:40",
+    "headline": "Petrol prices climb as US–Iran tensions disrupt markets",
+    "excerpt": "US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-20T18:56:23.517178+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss"
+  },
+  {
+    "id": "947f37d33939",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T16:45",
+    "headline": "Israeli air strike injures 14 in Gaza City",
+    "excerpt": "An Israeli air strike on Gaza City injured at least 14 people, according to Gaza health officials.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-07-20T18:56:23.517198+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss"
+  },
+  {
     "id": "d973a27b2d67",
     "source": "Al Jazeera",
     "date": "2026-07-20T16:17",
@@ -5454,49 +5498,5 @@
     "location": "Qatar",
     "addedAt": "2026-07-12T15:34:44.893933+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/7/12/the-architect-of-qatari-autonomy?traffic_source=rss"
-  },
-  {
-    "id": "486941cc88db",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T14:12",
-    "headline": "Driven by desperation: Yemenis resort to dangerous energy alternatives",
-    "excerpt": "Solar energy systems are a good alternative to help Yemenis access electricity but there are hidden dangers.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-07-12T15:34:44.893968+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss"
-  },
-  {
-    "id": "7d571da7c40e",
-    "source": "PressTV",
-    "date": "2026-07-12T15:34",
-    "headline": "Iran president, FM offer condolences over death of former Emir of Qatar, Sheikh Hamad",
-    "excerpt": "Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi have expressed condolences on the passing of Sheikh Hamad bin Khalifa Al Thani, the former Emir of Qatar.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-12T15:34:46.905663+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/12/772102/Qatar-hamad-bin-khalifa-dies"
-  },
-  {
-    "id": "23fc8b25bed5",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T13:08",
-    "headline": "Republican Lindsey Graham dies at 71: World leaders, US politicians react",
-    "excerpt": "The longtime US senator, an ally of President Trump, was an advocate for using US military force overseas.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-12T14:17:17.438754+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/12/republican-lindsey-graham-dies-at-71-world-leaders-us-politicians-react?traffic_source=rss"
-  },
-  {
-    "id": "e927a7665a65",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T13:08",
-    "headline": "How Sheikh Hamad bin Khalifa Al Thani built Qatar’s soft power",
-    "excerpt": "Leader known as Qatar&#039;s father emir was able to redefine his nation&#039;s position on the political map of the Middle East.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-12T14:17:17.438807+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/12/how-sheikh-hamad-bin-khalifa-al-thani-built-qatars-soft-power?traffic_source=rss"
   }
 ]
