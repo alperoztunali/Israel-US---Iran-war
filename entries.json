@@ -1,5 +1,49 @@
 [
   {
+    "id": "c0591dbf2920",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T03:29",
+    "headline": "Lebanese return to ‘pilot zone’ villages they say Israel never occupied",
+    "excerpt": "Under a US-brokered plan, Israel is to hand over control of some areas it occupies in Lebanon to Lebanese government.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-21T04:33:46.312091+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss"
+  },
+  {
+    "id": "fba25ff8c641",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T03:15",
+    "headline": "US military releases footage of tenth consecutive night of strikes on Iran",
+    "excerpt": "US Central Command (CENTCOM) released footage of its forces launching the latest round of strikes against Iran.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-21T04:33:46.312137+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss"
+  },
+  {
+    "id": "8f797a881123",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T02:52",
+    "headline": "Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?",
+    "excerpt": "A series of diplomatic consultations in Cairo underscores the Horn of Africa&#039;s growing strategic importance.",
+    "category": "Diplomatic",
+    "location": "Red Sea",
+    "addedAt": "2026-07-21T04:33:46.312175+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss"
+  },
+  {
+    "id": "4086c4b8df7e",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T00:00",
+    "headline": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
+    "excerpt": "Explosions reported in Iran&#039;s Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-07-21T04:33:46.312212+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss"
+  },
+  {
     "id": "c2c222efda30",
     "source": "Al Jazeera",
     "date": "2026-07-21T00:08",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-12T20:56:37.741212+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss"
-  },
-  {
-    "id": "64201eb9d11b",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T19:48",
-    "headline": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
-    "excerpt": "Oil and gas deals are expected ⁠to be signed as part of a broader push ​for economic, trade and investment cooperation.",
-    "category": "Diplomatic",
-    "location": "Iraq",
-    "addedAt": "2026-07-12T20:56:37.741241+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss"
-  },
-  {
-    "id": "4632fdd7b1d5",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T19:27",
-    "headline": "Why the Iran-US ceasefire is falling apart",
-    "excerpt": "Iran, US resumed fighting because they don’t see each other as ‘reliable negotiating partners’, says analyst Ali Vaez.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-12T19:53:52.988136+00:00",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss"
-  },
-  {
-    "id": "c5307d78f98c",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T19:21",
-    "headline": "Anti-migrant display set alight in Northern Ireland bonfire",
-    "excerpt": "The flags of Palestine, Syria, Sudan and Somalia were draped over a huge bonfire tower before it was set alight.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-12T19:53:52.988184+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/anti-migrant-display-set-alight-in-northern-ireland-bonfire?traffic_source=rss"
-  },
-  {
-    "id": "b0e534be4c1b",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T19:01",
-    "headline": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
-    "excerpt": "General Jean Elysee Dao says 60 others also wounded as army retakes key town after nearly a week of fighting.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-12T19:53:52.988218+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss"
   }
 ]
