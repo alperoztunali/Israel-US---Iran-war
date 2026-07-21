@@ -1,5 +1,60 @@
 [
   {
+    "id": "e4c789cbbb27",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T19:16",
+    "headline": "Trump says he’s open to talks with Hezbollah, vows to help Lebanon",
+    "excerpt": "US President Trump said he is open to direct talks with Hezbollah.",
+    "category": "Diplomatic",
+    "location": "Lebanon",
+    "addedAt": "2026-07-21T19:38:24.065434+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/trump-says-hes-open-to-talks-with-hezbollah-vows-to-help-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "31cebf1908e7",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T18:41",
+    "headline": "Netherlands to sanction trade with illegal Israeli settlements",
+    "excerpt": "Dutch ban on Israeli goods from occupied territory comes as efforts to implement EU-wide sanctions remain stalled.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-21T19:38:24.065483+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/21/netherlands-to-sanction-trade-with-illegal-israeli-settlements?traffic_source=rss"
+  },
+  {
+    "id": "c51ba576a54f",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T17:57",
+    "headline": "The Houthis may soon discover the limits of Saudi strategic patience",
+    "excerpt": "Saudi Arabia has so far ignored provocations to preserve regional stability. But it may soon be pushed into action.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-07-21T19:38:24.065522+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/21/the-houthis-may-soon-discover-the-limits-of-saudi-strategic-patience?traffic_source=rss"
+  },
+  {
+    "id": "89ab8ceb4361",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T17:49",
+    "headline": "Iranians struggle to get by amid US war and domestic woes",
+    "excerpt": "People are facing mounting pressures, including rising living costs, electricity cuts and bombarded infrastructure.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-21T19:38:24.065544+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/21/iranians-struggle-to-get-by-amid-us-war-and-domestic-woes?traffic_source=rss"
+  },
+  {
+    "id": "234f946186ce",
+    "source": "PressTV",
+    "date": "2026-07-21T19:38",
+    "headline": "Iran Army has 'already defined precise defense scenarios' to counter any enemy incursion",
+    "excerpt": "Army spokesman says Iran has already defined precise defense scenarios and operational plans to thwart any enemy incursion into the country's territory.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-21T19:38:26.315518+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/21/772740/Iranian-Army-defined-precise-defense-scenarios-counter-any-enemy-incursion-army-spokesman-Akraminia"
+  },
+  {
     "id": "f9a688e2f987",
     "source": "Al Jazeera",
     "date": "2026-07-21T17:30",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-13T10:43:01.515444+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/explosions-and-large-fires-following-ukrainian-attacks-on-russia?traffic_source=rss"
-  },
-  {
-    "id": "ffabcc0b7300",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T09:16",
-    "headline": "New Iran strikes on Gulf as US attacks escalate: What we know",
-    "excerpt": "Iran targets its Gulf neighbours in third round of tit-for-tat attacks with US in a week.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-13T10:43:01.515480+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "96b1a4b7d994",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T09:05",
-    "headline": "In Wales, an artist sews names of Gaza’s infant victims on christening gown",
-    "excerpt": "Diana Williams embroiders names of 300 babies killed by Israel on gown, an evocative work she hopes will reach New York.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-13T10:43:01.515518+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/13/i-have-to-do-something-a-welsh-artist-honours-gazas-child-victims?traffic_source=rss"
-  },
-  {
-    "id": "e4468daa5c5c",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T09:01",
-    "headline": "US and Iran trade strikes as ceasefire comes under growing strain",
-    "excerpt": "Iran&#039;s IRGC says it attacked sites linked to the US military in Kuwait, Bahrain and Oman after latest US bombardment.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-13T10:43:01.515542+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss"
-  },
-  {
-    "id": "7c33b121369e",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T07:41",
-    "headline": "Kimmit: Renewed US-Iran fighting could reignite wider regional conflict",
-    "excerpt": "Retired US General Mark Kimmitt warns renewed attacks in the Strait of Hormuz could push the US and Iran",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-13T10:43:01.515578+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss"
-  },
-  {
-    "id": "5362c4be3025",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T07:24",
-    "headline": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
-    "excerpt": "Putting all the blame on the Iranian president covers up tensions between competing factions in Tehran.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-13T10:43:01.515609+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss"
   }
 ]
