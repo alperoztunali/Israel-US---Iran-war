@@ -1,5 +1,49 @@
 [
   {
+    "id": "c2c222efda30",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T00:08",
+    "headline": "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
+    "excerpt": "Tariffs apply to Canadian wine, hockey sticks, cement, and other products, sparking fears of escalating trade tensions.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-21T01:11:27.555401+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss"
+  },
+  {
+    "id": "67b7401f3253",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T00:06",
+    "headline": "US attacks Iran for 10th consecutive night",
+    "excerpt": "Washington vows revenge for US military casualties, while Iran claims attacks on US sites across the region.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-21T01:11:27.555439+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "57deb908a03c",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T00:00",
+    "headline": "Iran war live: US launches 10th night of strikes; Tehran attacks Kuwait",
+    "excerpt": "Explosions reported in Iran&#039;s Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-21T01:11:27.555475+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss"
+  },
+  {
+    "id": "158b4efd09cb",
+    "source": "Al Jazeera",
+    "date": "2026-07-20T23:41",
+    "headline": "MSF demands Israel release detained Palestinian healthcare workers",
+    "excerpt": "The NGO is &#039;outraged&#039; by Israel&#039;s treatment of the health professionals and warns that &#039;silence has become complicity&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-21T01:11:27.555510+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/20/msf-demands-israel-release-detained-palestinian-healthcare-workers?traffic_source=rss"
+  },
+  {
     "id": "7a3166249a99",
     "source": "Al Jazeera",
     "date": "2026-07-20T23:21",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-12T19:53:52.988218+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss"
-  },
-  {
-    "id": "6ab8c6eb597b",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T16:58",
-    "headline": "Qatar’s Father Emir Sheikh Hamad bin ⁠Khalifa Al Thani laid to rest in Doha",
-    "excerpt": "Sheikh Hamad, who ruled the Gulf state from 1995 to 2013, is buried after a simple Islamic ceremony.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-12T19:53:52.988267+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss"
-  },
-  {
-    "id": "04193dc00149",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T18:24",
-    "headline": "Thousands gather to bid farewell to Qatar’s Father Emir Sheikh Hamad",
-    "excerpt": "Thousands gathered in Doha to bid farewell to Qatar&#039;s Father Emir, Sheikh Hamad bin Khalifa Al Thani.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-12T18:40:43.570487+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/thousands-gather-to-bid-farewell-to-qatars-father-emir-sheikh-hamad?traffic_source=rss"
-  },
-  {
-    "id": "a1e4e74e7140",
-    "source": "Al Jazeera",
-    "date": "2026-07-12T17:50",
-    "headline": "Concern for renewed war in Iran as US attacks military, civilian targets",
-    "excerpt": "US military has significantly increased the scale of attacks on Iran in recent days as the Strait of Hormuz standoff boils over.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-12T18:40:43.570554+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss"
-  },
-  {
-    "id": "763b5608cb30",
-    "source": "PressTV",
-    "date": "2026-07-12T18:40",
-    "headline": "Araghchi: Iran backs Lebanon's sovereignty, seeks end to Israeli occupation",
-    "excerpt": "The Iranian foreign minister says Tehran backs Lebanon's sovereignty and seeks an end to Israeli occupation.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-12T18:40:45.857663+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/12/772118/Iran-UN-Lebanon-Araghchi"
   }
 ]
