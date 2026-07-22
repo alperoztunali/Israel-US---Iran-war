@@ -1,5 +1,60 @@
 [
   {
+    "id": "284fb986f218",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T13:41",
+    "headline": "UK’s Miliband, Streeting: What are their foreign policy, defence records?",
+    "excerpt": "Miliband, Trump critic who once opposed strikes on Syria, joins Streeting, defence novice with shifting Israel views.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-22T15:17:19.742941+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/22/uks-miliband-streeting-what-are-their-foreign-policy-defence-records?traffic_source=rss"
+  },
+  {
+    "id": "2ac6ee8ce272",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T13:23",
+    "headline": "Israeli strike leaves two Palestinians burnt beyond recognition",
+    "excerpt": "An Israeli strike hit a civilian vehicle in central Gaza, killing two Palestinians.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-22T15:17:19.742983+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/israeli-strike-leaves-two-palestinians-burnt-beyond-recognition?traffic_source=rss"
+  },
+  {
+    "id": "b7f18a95f530",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T13:07",
+    "headline": "‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’",
+    "excerpt": "‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-07-22T15:17:19.743018+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/this-land-will-remain-ours-says-a-resident-in-lebanons-pilot?traffic_source=rss"
+  },
+  {
+    "id": "18ea3485c9b1",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T12:59",
+    "headline": "‘Just want to go back’: Lebanese await return as army enters ‘pilot zone’",
+    "excerpt": "Lebanese army deploys into southern Lebanon&#039;s Zawtar al-Gharbiya as implementation of US-brokered framework deal begins.",
+    "category": "Diplomatic",
+    "location": "Lebanon",
+    "addedAt": "2026-07-22T15:17:19.743067+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/22/just-want-to-go-back-lebanese-await-return-as-army-enters-pilot-zone?traffic_source=rss"
+  },
+  {
+    "id": "69e3bf5ad1ab",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T12:51",
+    "headline": "Settlers attack Palestinian towns in occupied West Bank",
+    "excerpt": "Settlers attack Palestinian towns in Occupied West Bank",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-22T15:17:19.743098+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/settlers-attack-palestinian-towns-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
     "id": "cba62615712f",
     "source": "Al Jazeera",
     "date": "2026-07-22T12:36",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-14T03:36:38.588516+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss"
-  },
-  {
-    "id": "f8d69de9fc3f",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T00:00",
-    "headline": "Iran war live: US launches more attacks; UAE says 1 killed in tanker strike",
-    "excerpt": "US has carried out more attacks on Iran, with Iranian media reporting explosions in Kish, Qeshm and Bandar Abbas.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-14T03:36:38.588559+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "b915a72c433f",
-    "source": "PressTV",
-    "date": "2026-07-14T03:36",
-    "headline": "IRGC Navy strikes two rogue super tankers misled by US into crossing Strait of Hormuz",
-    "excerpt": "IRGC Navy has confirmed that two super oil tankers, misled by American provocations, were struck and disabled after deliberately ignoring repeated warnings.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-07-14T03:36:40.106166+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772201/IRGC-Navy-strikes-two-rogue-super-tankers-misled-by-US-into-crossing-mined-waters-of-Strait-of-Hormuz"
-  },
-  {
-    "id": "69d34aa08497",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T23:41",
-    "headline": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
-    "excerpt": "Three Palestinians killed and 15 wounded in Israeli attacks across Gaza as ceasefire violations continue.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-14T00:10:43.994359+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
-  },
-  {
-    "id": "e12b97728474",
-    "source": "PressTV",
-    "date": "2026-07-14T00:10",
-    "headline": "Yemeni missiles and drones hit Abha Airport after Saudi aggression",
-    "excerpt": "The Yemeni Armed Forces have carried out a successful military operation targeting Saudi Arabia's Abha International Airport with ballistic missiles and drones.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-07-14T00:10:46.268747+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/13/772195/Yemeni-missiles-and-drones-hit-Abha-Airport-after-Saudi-assault-on-Sana%E2%80%99a-international-airport"
-  },
-  {
-    "id": "0b791a066b3f",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T20:41",
-    "headline": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
-    "excerpt": "Russia has escalated attacks in recent weeks, taking advantage of Ukraine’s critical shortage of air defences.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-13T23:14:51.861696+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss"
   }
 ]
