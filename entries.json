@@ -1,5 +1,115 @@
 [
   {
+    "id": "ca94bb3e4976",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T11:05",
+    "headline": "US Secretary of State say Iran is in ‘a lot of trouble’",
+    "excerpt": "US Secretary of State say Iran is in ‘a lot of trouble’",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-22T11:26:00.596401+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-secretary-of-state-say-iran-is-in-a-lot-of?traffic_source=rss"
+  },
+  {
+    "id": "77b0f462994e",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T11:04",
+    "headline": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+    "excerpt": "Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-07-22T11:26:00.596457+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss"
+  },
+  {
+    "id": "2ea5f8948075",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T10:22",
+    "headline": "Ukraine hits more warehouses of top Russian online retailer",
+    "excerpt": "Ukrainian drones have hit two more warehouses belonging to Russia’s biggest online retailer Wildberries.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-22T11:26:00.596493+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ukraine-hits-more-warehouses-of-top-russian-online-retailer?traffic_source=rss"
+  },
+  {
+    "id": "c7f9837a4d17",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T09:45",
+    "headline": "America’s decades-old bipartisan consensus on Israel has been shattered",
+    "excerpt": "The Democratic establishment has faced growing pressure to change its stance on Israel. It has finally begun to do so.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-22T11:26:00.596536+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/22/americas-decades-old-bipartisan-consensus-on-israel-has-been-shattered?traffic_source=rss"
+  },
+  {
+    "id": "474b021fe0e9",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T09:30",
+    "headline": "Russia reports injuries after top online retailer Wildberries hit again",
+    "excerpt": "Company CEO says logistics centres in Krasnodar and Nevinnomyssk evacuated days after workers killed in earlier attack.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-22T11:26:00.596569+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/22/russia-reports-injuries-after-top-online-retailer-wildberries-hit-again?traffic_source=rss"
+  },
+  {
+    "id": "4ec765b6300e",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T09:30",
+    "headline": "Ossoff challenges Hegseth on cost and duration of Iran war",
+    "excerpt": "Ossoff challenges Hegseth on cost and duration of Iran war",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-22T11:26:00.596604+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ossoff-challenges-hegseth-on-cost-and-duration-of-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "9dbf6cf09723",
+    "source": "PressTV",
+    "date": "2026-07-22T11:26",
+    "headline": "Minab buries 62 pieces of 32 children massacred in Feb. 28 US strike on school",
+    "excerpt": "The newly recovered remains of 32 student martyrs killed in the US-Israeli missile attack on the Shajareh Tayyebeh Primary School in Minab are laid to rest.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-07-22T11:26:02.181721+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/22/772765/Newly-recovered-remains-of-32-Minab-school-students-laid-rest"
+  },
+  {
+    "id": "2afb560bbcb0",
+    "source": "PressTV",
+    "date": "2026-07-22T11:26",
+    "headline": "Iran Army chief warns US against ground invasion, pledges all-out resistance",
+    "excerpt": "Iran’s Army chief has warned that any US military ground incursion would be met with a crushing all-out military response.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-22T11:26:02.181777+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/22/772771/Iran-Army-Hatami-US-Israel-war-incursion-F-5-military-capability"
+  },
+  {
+    "id": "69d4f8d408fa",
+    "source": "PressTV",
+    "date": "2026-07-22T11:26",
+    "headline": "Report: Iranian missiles increasingly penetrate US air defenses in West Asia",
+    "excerpt": "Iranian missiles are penetrating US and allied air defenses in West Asia with increasing frequency, causing mounting casualties among American service members and raising questions about the effectiveness of defensive systems, US officials and regional analysts say.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-22T11:26:02.181806+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/22/772755/Iran-ballistic-missiles-Washington-Post-US-Israel-technology-precision-Panda-Russia-China"
+  },
+  {
+    "id": "6e261de7c2c9",
+    "source": "PressTV",
+    "date": "2026-07-22T11:26",
+    "headline": "CIA assessment admits US aggression against Iran has failed: Report",
+    "excerpt": "Recent US intelligence assessments concludes that military strikes against Iran are unlikely to compel the country to abandon its peaceful nuclear program or missile capabilities.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-22T11:26:02.181823+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/22/772751/US-strikes-unlikely-force-Iran-abandon-peaceful-nuclear,-missile-programs--Report"
+  },
+  {
     "id": "b862b07b1e1a",
     "source": "Al Jazeera",
     "date": "2026-07-22T08:43",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-13T22:11:19.673165+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss"
-  },
-  {
-    "id": "3c2308fa060c",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T20:41",
-    "headline": "Ukraine and allies launch coalition to tackle Russia’s ballistic missiles",
-    "excerpt": "Russia has escalated attacks in recent weeks, taking advantage of Ukraine’s critical shortage of air defences.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-13T22:11:19.673201+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss"
-  },
-  {
-    "id": "4ae1a1dc8357",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T20:40",
-    "headline": "Iran military warns US against Strait of Hormuz ‘interference’",
-    "excerpt": "Iran&#039;s military has warned it will not allow the United States to ‘interfere’ in the management of the Strait of Hormuz.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-13T22:11:19.673239+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "c62609e08ff9",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T20:35",
-    "headline": "Artist sews names of Gaza children killed by Israel into gown",
-    "excerpt": "Welsh artist Diana Williams stitched the names of 300 babies killed by Israel’s genocidal war on Gaza into a gown.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-13T22:11:19.673270+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss"
-  },
-  {
-    "id": "1bb158cfae02",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T20:35",
-    "headline": "What do Israeli settler attacks on Americans reveal?",
-    "excerpt": "Recent attacks on international journalists and a US congressman have once again put a spotlight on settler violence.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-13T22:11:19.673303+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/what-do-israeli-settler-attacks-on-americans-reveal?traffic_source=rss"
-  },
-  {
-    "id": "e8a1be0fd560",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T20:26",
-    "headline": "Gaza man builds roadside library from books buried in rubble",
-    "excerpt": "Bookseller Mohammad Saad lost his son, his home, and his bookstore in the aftermath of Israel’s war on Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-13T21:01:32.003665+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/gaza-man-builds-roadside-library-from-books-buried-in-rubble?traffic_source=rss"
-  },
-  {
-    "id": "0e6e3adb67d1",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T20:23",
-    "headline": "US keeping the Strait of Hormuz open is ‘a massive force problem’",
-    "excerpt": "Former NATO analyst says Trump&#039;s push for a naval blockade in the Strait of Hormuz would mean a huge military operation.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-07-13T21:01:32.003712+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-keeping-the-strait-of-hormuz-open-is-a-massive-force?traffic_source=rss"
-  },
-  {
-    "id": "889ecc5df0f0",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T20:17",
-    "headline": "World pays tribute to Qatar’s Father Emir",
-    "excerpt": "From Gaza to India, this is how the world paid tribute to Qatar&#039;s Father Emir Sheikh Hamad bin Khalifa Al Thani.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-13T21:01:32.003748+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/world-pays-tribute-to-qatars-father-emir?traffic_source=rss"
-  },
-  {
-    "id": "eb0f1f7bc01e",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T19:53",
-    "headline": "UK arrests 12 over extreme right-wing ‘terror’ threat to Muslim event",
-    "excerpt": "Arrests come against a backdrop of rising racial tensions and hate crimes across Britain.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-13T21:01:32.003789+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/13/uk-arrests-12-over-extreme-right-wing-terror-threat-to-muslim-event?traffic_source=rss"
-  },
-  {
-    "id": "3cdd505c8a8a",
-    "source": "PressTV",
-    "date": "2026-07-13T21:01",
-    "headline": "Araghchi: 'Iran eternal guardian of Hormuz; Trump's 20% toll too much, we will be fair'",
-    "excerpt": "Araghchi addressed Trump’s announcement that the United States would unilaterally declare itself the “Guardian of the Hormuz Strait” and demand a steep 20% reimbursement on all cargo passing through it.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-13T21:01:33.749969+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/13/772193/Araghchi---Iran-eternal-guardian-of-Hormuz--Trump-s-20--toll-too-much,-we-will-be-fair-"
-  },
-  {
-    "id": "55a1ba5ed9e1",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T18:57",
-    "headline": "UK designates IRGC as terrorist organisation",
-    "excerpt": "The UK government has designated Iran’s Revolutionary Guard Corps (IRGC) as a terrorist organisation under new powers.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-13T19:50:31.468055+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/uk-designates-irgc-as-terrorist-organisation?traffic_source=rss"
   }
 ]
