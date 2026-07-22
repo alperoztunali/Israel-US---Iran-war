@@ -1,5 +1,60 @@
 [
   {
+    "id": "95af4eaea1af",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T05:05",
+    "headline": "US expands strikes on 11th straight night of attacks",
+    "excerpt": "The US military’s 11th consecutive night of strikes extended to Iranian provinces not previously hit.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-22T06:34:01.705399+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss"
+  },
+  {
+    "id": "2e6a8f29dcc3",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T05:02",
+    "headline": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
+    "excerpt": "US Defense Secretary Pete Hegseth gets into a heated exchange after being called a failed leader by Michigan Senator.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-22T06:34:01.705453+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss"
+  },
+  {
+    "id": "e8eac26f5bd5",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T04:07",
+    "headline": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
+    "excerpt": "NYC Mayor Zohran Mamdani releases a video statement calling for Israeli PM Netanyahu to face trial for war crimes.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-07-22T06:34:01.705489+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss"
+  },
+  {
+    "id": "676933d53e97",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T03:46",
+    "headline": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
+    "excerpt": "Gaza mourns as families are buried after Israeli attacks leave dozens dead, including children and displaced families.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-22T06:34:01.705517+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss"
+  },
+  {
+    "id": "cab63ae89e74",
+    "source": "PressTV",
+    "date": "2026-07-22T06:34",
+    "headline": "IRGC disables multiple US radar systems in Kuwait in ongoing retaliatory strikes",
+    "excerpt": "The IRGC announces targeting and disabling multiple American radar systems in Kuwait as part of the latest phase of its ongoing retaliatory strikes in the face of American violations.",
+    "category": "Other",
+    "location": "Kuwait",
+    "addedAt": "2026-07-22T06:34:04.102793+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/21/772743/Iran-IRGC-disables-Kuwait-radar-systems-United-States"
+  },
+  {
     "id": "95a6a5f4f7b5",
     "source": "Al Jazeera",
     "date": "2026-07-22T02:39",
@@ -5443,60 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-07-13T18:02:08.252872+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss"
-  },
-  {
-    "id": "6fc4a676f665",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T16:11",
-    "headline": "Person killed in shooting involving ICE agents in US state of Maine",
-    "excerpt": "State lawmaker says one person was killed by immigration agents in Biddeford, days after another ICE shooting in Texas.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-13T18:02:08.252894+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/13/person-killed-in-shooting-involving-ice-agents-in-us-state-of-maine?traffic_source=rss"
-  },
-  {
-    "id": "e06cd1387a73",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T16:10",
-    "headline": "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
-    "excerpt": "The US Treasury Department posted the new directive on its website on Monday.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-13T18:02:08.252916+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/13/us-imposes-new-sanctions-on-cuba-tourism-ministry-state-owned-companies?traffic_source=rss"
-  },
-  {
-    "id": "03ce9b4e9cea",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T15:41",
-    "headline": "Trump: US will ‘take over’ Strait of Hormuz",
-    "excerpt": "President Donald Trump has said the US will ‘take over’ the Strait of Hormuz, accusing Iran of breaking the deal.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-13T18:02:08.252937+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/trump-us-will-take-over-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "70a149224e10",
-    "source": "PressTV",
-    "date": "2026-07-13T18:02",
-    "headline": "Iran will not retreat from defending ‘irreplaceable’ Strait of Hormuz: Leader’s advisor",
-    "excerpt": "Iran’s former vice president says the Islamic Republic will keep controlling the Strait of Hormuz as an irreplaceable treasure.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-13T18:02:09.840109+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/13/772170/Iran-Hormuz-Strait-control-policy-Mokhber"
-  },
-  {
-    "id": "621e31750f37",
-    "source": "PressTV",
-    "date": "2026-07-13T18:02",
-    "headline": "Yemen threatens to close Bab al-Mandeb Strait, warns of $200 a barrel oil",
-    "excerpt": "Yemen threatens to close the Bab al-Mandeb Strait if Saudi Arabia continues to hit the Arab nation’s vital infrastructure, warning that the cost of a barrel of oil could reach $200 in such a case.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-07-13T18:02:09.840148+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/13/772185/Yemen-threatens-to-close-Bab-al-Mandeb-Strait,-warns-of--200-a-barrel-oil-amid-Saudi-aggression"
   }
 ]
