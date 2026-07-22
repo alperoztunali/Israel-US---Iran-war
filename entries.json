@@ -1,5 +1,49 @@
 [
   {
+    "id": "c196232ef57c",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T23:46",
+    "headline": "Explosions in Iran as US launches new strikes",
+    "excerpt": "This is a breaking news story.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-22T00:10:13.628690+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss"
+  },
+  {
+    "id": "2e31a39536aa",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T22:56",
+    "headline": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
+    "excerpt": "The Lebanese army has begun deploying in three southern towns as part of a US-backed framework agreement with Israel.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-22T00:10:13.628751+00:00",
+    "link": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss"
+  },
+  {
+    "id": "e0e8816fbcfe",
+    "source": "Al Jazeera",
+    "date": "2026-07-21T22:55",
+    "headline": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
+    "excerpt": "US report says the beleaguered government in Havana is the &#039;connective tissue&#039; of a global &#039;anti-American coalition&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-22T00:10:13.628797+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss"
+  },
+  {
+    "id": "1a5250f8a30f",
+    "source": "PressTV",
+    "date": "2026-07-22T00:10",
+    "headline": "Iran military: Any US attack on nuclear sites equals ‘expansion of war,’ entails extensive reprisal",
+    "excerpt": "Iran’s highest military command, the Khatam al-Anbiya Central Headquarters, sternly warns the United States against acting on its threat of attacking the Islamic Republic's nuclear facilities.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-22T00:10:15.161622+00:00",
+    "link": "https://presstv.ir/Detail/2026/07/21/772746/Iran-United-States-attack-nuclear-sites-Pickaxe"
+  },
+  {
     "id": "da6a56cbbfdc",
     "source": "Al Jazeera",
     "date": "2026-07-21T21:58",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-13T15:58:09.778710+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/13/eu-sanctions-nine-people-over-alleged-russian-cyber-spying-campaign?traffic_source=rss"
-  },
-  {
-    "id": "e4528b51f37a",
-    "source": "Al Jazeera",
-    "date": "2026-07-13T13:59",
-    "headline": "Hamas denies UN accusations over Gaza aid distribution interference",
-    "excerpt": "UN accuses Hamas of obstructing aid and risking workers&#039; safety, but the group denies it and defends its actions.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-13T15:58:09.778740+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/13/hamas-denies-un-accusations-over-gaza-aid-distribution-interference?traffic_source=rss"
-  },
-  {
-    "id": "1b8af4980631",
-    "source": "PressTV",
-    "date": "2026-07-13T15:58",
-    "headline": "Iran’s military warns it will never allow US to interfere in Hormuz",
-    "excerpt": "Iran's highest operational command unit says the country will never allow the US to interfere in the management of the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-13T15:58:11.448935+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/13/772171/Iran-Hormuz-Khatam-Zolfaqari-"
-  },
-  {
-    "id": "3c53a3e097ec",
-    "source": "PressTV",
-    "date": "2026-07-13T15:58",
-    "headline": "IRGC vows ‘greater humiliation’ for US over Strait of Hormuz mischief",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) warns it will drive the United States into “greater humiliation and desperation” than in the past in response to the aggressor regime’s acts of mischief against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-13T15:58:11.448983+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/13/772173/Iran-IRGC-US-greater-humiliation"
-  },
-  {
-    "id": "5a108cb1157b",
-    "source": "PressTV",
-    "date": "2026-07-13T15:58",
-    "headline": "Yemen warns Saudi strike on Sana’a airport marks end of truce",
-    "excerpt": "Yemen’s Foreign Ministry wanrs that Saudi Arabia will find itself in a major strategic deadlock and will bear heavy costs for its aggression.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-07-13T15:58:11.449014+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/13/772162/Yemen-says-Saudi-strike-on-Sana%E2%80%99a-airport-marks-end-of-truce--"
   }
 ]
