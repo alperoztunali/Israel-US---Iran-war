@@ -1,5 +1,49 @@
 [
   {
+    "id": "77431d823ce3",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T20:34",
+    "headline": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
+    "excerpt": "Russian Foreign Minister Sergei Lavrov is due to meet US counterpart Marco Rubio, but progress towards peace unlikely.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-22T21:24:12.116224+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss"
+  },
+  {
+    "id": "73546177f273",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T20:20",
+    "headline": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
+    "excerpt": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-22T21:24:12.116274+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss"
+  },
+  {
+    "id": "54fae0deeff3",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T20:06",
+    "headline": "Trump: Iran will ‘pay a big price’ for US troop deaths",
+    "excerpt": "US President Trump warned that Iran will ‘pay a big price’ right before he attended a dignified transfer ceremony.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-22T21:24:12.116308+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss"
+  },
+  {
+    "id": "b19117a2af0e",
+    "source": "Al Jazeera",
+    "date": "2026-07-22T19:59",
+    "headline": "Gaza man returns home after family believed he was dead",
+    "excerpt": "Hamada Al Banna reunited with his family more than a year after an explosion that left him in a coma.",
+    "category": "Casualties",
+    "location": "Gaza",
+    "addedAt": "2026-07-22T21:24:12.116335+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss"
+  },
+  {
     "id": "593330f2d929",
     "source": "Al Jazeera",
     "date": "2026-07-22T18:43",
@@ -5454,49 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-14T10:18:23.703021+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss"
-  },
-  {
-    "id": "23107a2ddf26",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T08:23",
-    "headline": "US military releases video of its latest strikes on Iran",
-    "excerpt": "US Central Command has released video showing its latest wave of attacks reportedly hitting Iran&#039;s mainland and islands.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T10:18:23.703056+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "7832de307bce",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T05:15",
-    "headline": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Iran",
-    "excerpt": "US President Donald Trump is threatening to attack a heavily-fortified underground nuclear facility in Iran",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T10:18:23.703100+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss"
-  },
-  {
-    "id": "29f345af6d59",
-    "source": "PressTV",
-    "date": "2026-07-14T10:18",
-    "headline": "Strait of Hormuz will never be reopened through war, Iran Army warns US",
-    "excerpt": "Iran’s Army spokesman warns the US that no measure of American aggression would lead to reopening of the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T10:18:26.027118+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772216/Iran-Army-warning-United-States-Hormuz"
-  },
-  {
-    "id": "dbb0cf1302de",
-    "source": "PressTV",
-    "date": "2026-07-14T10:18",
-    "headline": "Iran Parliament introduces bill on Hormuz management amid US interventions: MP",
-    "excerpt": "A senior Iranian lawmaker says Parliament has formally introduced a new legislative proposal to assert control over the management of the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T10:18:26.027163+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772212/MP--Parliament-introduces-bill-manage-Strait-Hormuz-US-interventions"
   }
 ]
