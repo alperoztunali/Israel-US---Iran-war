@@ -1,5 +1,38 @@
 [
   {
+    "id": "67a8d7f43a78",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T22:04",
+    "headline": "US war on Iran: The $110 billion price tag",
+    "excerpt": "America&#039;s war on Iran has cost the US nearly $110 billion. Now, the Trump administration wants another $67 billion.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-23T22:41:12.553484+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss"
+  },
+  {
+    "id": "ff24a114fc7c",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T21:43",
+    "headline": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+    "excerpt": "The US president&#039;s threat comes after another day of Iranian attacks on Bahrain, Kuwait and Jordan.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-07-23T22:41:12.553528+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss"
+  },
+  {
+    "id": "04cd4422d7ba",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T21:41",
+    "headline": "US-Saudi nuclear deal hinges on normalisation with Israel",
+    "excerpt": "President Trump said a proposed US-Saudi civilian nuclear deal is subject to Saudi Arabia joining the Abraham Accords",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-23T22:41:12.553562+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss"
+  },
+  {
     "id": "8a3c6d49dc28",
     "source": "Al Jazeera",
     "date": "2026-07-23T19:58",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-15T03:37:06.759490+00:00",
     "link": "https://www.aljazeera.com/sports/2026/7/15/us-star-balogun-knew-red-card-reversal-would-cause-a-lot-of-controversy?traffic_source=rss"
-  },
-  {
-    "id": "f89cb8185d3f",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T00:00",
-    "headline": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
-    "excerpt": "Iran&#039;s bridges, power plants possible targets, Trump says, adding that strikes on Iran will continue until he says.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-15T03:37:06.759547+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss"
-  },
-  {
-    "id": "74fa814a0bed",
-    "source": "PressTV",
-    "date": "2026-07-14T23:13",
-    "headline": "‘Until final victory’: Iran Army conducts 7th round of retaliatory drone strikes against US targets",
-    "excerpt": "Iran’s Army conducts a seventh round of heavy drone strikes against American targets in the region in response to the United States’ violations against Iranian territory.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-14T23:13:42.993432+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772264/Iran-Army-drone-strikes-United-States-Jordan"
-  },
-  {
-    "id": "1363e68c46bb",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T21:05",
-    "headline": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
-    "excerpt": "Israel&#039;s grip on the occupied West Bank tightens through outposts, demolitions, and army-backed settler raids.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-14T22:13:32.299760+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss"
   }
 ]
