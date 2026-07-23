@@ -1,5 +1,27 @@
 [
   {
+    "id": "630a4f607153",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T18:55",
+    "headline": "Children wounded in Israeli strike on Khan Younis",
+    "excerpt": "Children were rushed to hospital after an Israeli strike hit a tent sheltering displaced people in Khan Younis.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-23T19:25:38.389193+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss"
+  },
+  {
+    "id": "7663a218e096",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T18:34",
+    "headline": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
+    "excerpt": "Ali al-Zaidi will hold talks with senior Iranian officials on cooperation, shared interests and security.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-23T19:25:38.389228+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss"
+  },
+  {
     "id": "22e208af5e9c",
     "source": "Al Jazeera",
     "date": "2026-07-23T17:27",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-14T22:13:33.757033+00:00",
     "link": "https://presstv.ir/Detail/2026/07/14/772262/United-States-blockade-Iran-Strait-of-Hormuz-strikes"
-  },
-  {
-    "id": "eb5a557e693f",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T20:27",
-    "headline": "What is Iran’s Pickaxe Mountain?",
-    "excerpt": "Donald Trump has threatened to strike Pickaxe Mountain, an underground nuclear-related complex.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T21:07:22.007054+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss"
-  },
-  {
-    "id": "a4263c099cb9",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T20:18",
-    "headline": "Worker killed in furnace explosion fire at Indian recycling plant",
-    "excerpt": "A furnace explosion triggered a fire at Jain Resource Recycling&#039;s plant in the Indian state of Tamil Nadu.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-14T21:07:22.007100+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss"
   }
 ]
