@@ -1,5 +1,27 @@
 [
   {
+    "id": "f29f40040cee",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T00:29",
+    "headline": "US House passes $1.15 trillion military bill expanding Israel cooperation",
+    "excerpt": "Bill to fund war on Iran and a handful of Trump priorities passes largely along party lines, faces Senate uncertainty.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-23T01:14:42.931270+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss"
+  },
+  {
+    "id": "54d3d69fa00a",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T00:00",
+    "headline": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
+    "excerpt": "US and Iran trade new threats as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-23T01:14:42.931311+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss"
+  },
+  {
     "id": "07ed4bef4e50",
     "source": "Al Jazeera",
     "date": "2026-07-22T22:26",
@@ -5476,27 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-07-14T11:56:16.978065+00:00",
     "link": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss"
-  },
-  {
-    "id": "b0c16258251e",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T11:00",
-    "headline": "Lebanon, Israel hold talks in Rome on implementing framework deal",
-    "excerpt": "Beirut is hoping for progress towards securing an Israeli withdrawal from southern Lebanon.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-14T11:56:16.978111+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss"
-  },
-  {
-    "id": "94b4774bbe79",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T10:59",
-    "headline": "Can Gulf countries defend themselves against renewed Iranian attacks?",
-    "excerpt": "Expensive interceptor missiles are facing mounting pressure from Iran&#039;s cheaply produced drones.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-14T11:56:16.978133+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks?traffic_source=rss"
   }
 ]
