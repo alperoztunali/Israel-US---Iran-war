@@ -1,5 +1,49 @@
 [
   {
+    "id": "3df75d648ade",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T15:52",
+    "headline": "Two Palestinians shot dead by Israeli forces as West Bank fields set ablaze",
+    "excerpt": "Two men were killed in the town of Beit Furik, east of Nablus. An Israeli settler was also reportedly stabbed.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-23T16:14:25.509924+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/two-palestinians-shot-dead-by-israeli-forces-as-west-bank-fields-set-ablaze?traffic_source=rss"
+  },
+  {
+    "id": "1fe87544b6bb",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T15:28",
+    "headline": "More than 100 UK millionaires ask new PM Andy Burnham to tax them more",
+    "excerpt": "The &#039;Patriotic Millionaires&#039; say &#039;wealth and power have been concentrated in a small group for too long&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-23T16:14:25.509978+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/more-than-100-uk-millionaires-ask-new-pm-andy-burnham-to-tax-them-more?traffic_source=rss"
+  },
+  {
+    "id": "811e302dd2e9",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T14:57",
+    "headline": "Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords",
+    "excerpt": "Claim casts further confusion over deal to launch US-supported civilian nuclear programme in Saudi Arabia.",
+    "category": "Diplomatic",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-07-23T16:14:25.510010+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords?traffic_source=rss"
+  },
+  {
+    "id": "a8c1d198b85e",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T14:53",
+    "headline": "Kuwait-Iraq border crossing hit in drone attack",
+    "excerpt": "Kuwait&#039;s Defence Ministry said a drone attack hit the Abdali border crossing with Iraq, causing damage but no casualties",
+    "category": "Missile/Drone",
+    "location": "Iraq",
+    "addedAt": "2026-07-23T16:14:25.510031+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/kuwait-iraq-border-crossing-hit-in-drone-attack?traffic_source=rss"
+  },
+  {
     "id": "ef780b4be07a",
     "source": "Al Jazeera",
     "date": "2026-07-23T14:18",
@@ -5454,49 +5498,5 @@
     "location": "Strait Of Hormuz",
     "addedAt": "2026-07-14T18:40:47.197933+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss"
-  },
-  {
-    "id": "9915b0a6b9bf",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T17:31",
-    "headline": "Trump meets with Iraq prime minister at White House, vows ‘a lot of deals’",
-    "excerpt": "Iraqi prime minister says relations with US shifting from militaristic to economic, vows disarmament of factions.",
-    "category": "Diplomatic",
-    "location": "Iraq",
-    "addedAt": "2026-07-14T18:40:47.197992+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/14/trump-meets-with-iraq-prime-minister-at-white-house-vows-a-lot-of-deals?traffic_source=rss"
-  },
-  {
-    "id": "059ce080d68a",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T17:22",
-    "headline": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
-    "excerpt": "Renewed conflict and tensions in the Strait of Hormuz have slowed fertiliser shipments, worsening hunger in Sudan.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-07-14T18:40:47.198033+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss"
-  },
-  {
-    "id": "d8b41fb5145e",
-    "source": "PressTV",
-    "date": "2026-07-14T18:40",
-    "headline": "Iraq’s Kata'ib Hezbollah: Resistance groups ready to support Iran if war erupts",
-    "excerpt": "A senior security official from Iraq's Kata'ib Hezbollah says resistance groups would respond \"immediately and decisively\" if war were to break out against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T18:40:49.496022+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772253/Iraq-Kata-ib-Hezbollah-resistance-groups-ready-support-Iran-war"
-  },
-  {
-    "id": "93d616720f2b",
-    "source": "PressTV",
-    "date": "2026-07-14T18:40",
-    "headline": "Iran condemns US pressure campaign against ICC as ‘blackmail’ to suppress justice",
-    "excerpt": "Iran has condemned Washington’s campaign to pressure countries into ending cooperation with the International Criminal Court (ICC)",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T18:40:49.496066+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772251/Iran-condemns-US-pressure-campaign-against-ICC-blackmail-suppress-justice"
   }
 ]
