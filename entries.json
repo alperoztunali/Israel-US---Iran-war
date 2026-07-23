@@ -1,5 +1,27 @@
 [
   {
+    "id": "ef0ee88f2c75",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T23:10",
+    "headline": "How the Houthi Red Sea blockade will impact the world",
+    "excerpt": "The Houthis&#039; blockade of Bab al-Mandeb threatens a vital global trade route.",
+    "category": "Other",
+    "location": "Red Sea",
+    "addedAt": "2026-07-23T23:41:59.673426+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss"
+  },
+  {
+    "id": "f43eb2b5bdfe",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T22:51",
+    "headline": "Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque",
+    "excerpt": "Israeli settlers&#039; storming of Islam&#039;s holy site fuels &#039;hatred&#039; and obstructs lasting peace, joint statement says.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-07-23T23:41:59.673470+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/arab-and-muslim-countries-condemn-israeli-escalation-at-al-aqsa-mosque?traffic_source=rss"
+  },
+  {
     "id": "67a8d7f43a78",
     "source": "Al Jazeera",
     "date": "2026-07-23T22:04",
@@ -5476,27 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-07-15T03:37:06.759390+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss"
-  },
-  {
-    "id": "e953d32551fd",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T02:01",
-    "headline": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
-    "excerpt": "France striker admits Spain controlled the game and made them pay for errors in the semifinal in Dallas.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-15T03:37:06.759443+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/15/mbappe-blames-technical-tactical-blunders-for-world-cup-semifinal-loss?traffic_source=rss"
-  },
-  {
-    "id": "56100d063366",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T01:23",
-    "headline": "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
-    "excerpt": "Striker says FIFA&#039;s decision to suspend his one-match ban led to &#039;a lot of outside noise&#039; before USA&#039;s knockout match.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-15T03:37:06.759490+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/15/us-star-balogun-knew-red-card-reversal-would-cause-a-lot-of-controversy?traffic_source=rss"
   }
 ]
