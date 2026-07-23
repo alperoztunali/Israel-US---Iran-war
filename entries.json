@@ -1,5 +1,71 @@
 [
   {
+    "id": "56c184e2cfdb",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T09:20",
+    "headline": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
+    "excerpt": "With the Houthi naval blockade, shipping disruptions now impact the Bab al-Mandeb strait in addition to Hormuz.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-23T10:00:26.826642+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "4d9eccc18fef",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T09:18",
+    "headline": "More than 2,300 Israelis storm Al-Aqsa Mosque in Jerusalem",
+    "excerpt": "National Security Minister Ben-Gvir joins settlers and far-right groups at holy site under heavy police protection.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-23T10:00:26.826690+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss"
+  },
+  {
+    "id": "beaa32bc53cf",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T08:57",
+    "headline": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
+    "excerpt": "Palestinian&#039;s sudden return alive after family held his funeral highlights suffering of those still waiting for answers.",
+    "category": "Casualties",
+    "location": "Gaza",
+    "addedAt": "2026-07-23T10:00:26.826725+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss"
+  },
+  {
+    "id": "812ba5da14b1",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T08:19",
+    "headline": "Indian activist Wangchuk sets conditions to end hunger strike",
+    "excerpt": "Indian activist Wangchuk sets conditions to end hunger strike",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-23T10:00:26.826760+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-activist-wangchuk-sets-conditions-to-end-hunger-strike?traffic_source=rss"
+  },
+  {
+    "id": "f77e6782eeb8",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T08:12",
+    "headline": "Photos: Gaza’s shelter crisis",
+    "excerpt": "Gaza faces a deepening housing crisis as more than 92 percent of homes have been damaged or destroyed by Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-23T10:00:26.826796+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss"
+  },
+  {
+    "id": "382f3477f64f",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T07:56",
+    "headline": "Travellers panic as US attacks Iran-Iraq border crossing",
+    "excerpt": "Travellers panic as US attacks Iran-Iraq border crossing",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-23T10:00:26.826828+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss"
+  },
+  {
     "id": "f02213558fa6",
     "source": "Al Jazeera",
     "date": "2026-07-23T06:08",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-14T15:46:57.974923+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/india-summons-iranian-diplomat-over-missile-killing-of-seafarer?traffic_source=rss"
-  },
-  {
-    "id": "b6d1ead35ffb",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T14:08",
-    "headline": "‘Piracy’: Will Trump’s 20 percent Hormuz toll find takers?",
-    "excerpt": "Trump says the US will start charging a cargo fee for ships passing through the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-07-14T15:46:57.974952+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/14/piracy-will-trumps-20-percent-hormuz-toll-find-takers?traffic_source=rss"
-  },
-  {
-    "id": "438925e99846",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T14:03",
-    "headline": "Russia-Ukraine war: What is Europe’s new ballistic missile shield plan?",
-    "excerpt": "Nine European countries and Ukraine have launched a coalition to build Europe&#039;s own defence against ballistic missiles.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-14T15:46:57.974987+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/14/russia-ukraine-war-what-is-europes-new-ballistic-missile-shield-plan?traffic_source=rss"
-  },
-  {
-    "id": "cfe80a2f9c0c",
-    "source": "PressTV",
-    "date": "2026-07-14T15:46",
-    "headline": "Iranian lawmakers demand end to Islamabad MoU, vow revenge for martyred Leader",
-    "excerpt": "Nearly 180 Iranian lawmakers have issued a statement declaring the Islamabad Memorandum of Understanding (MoU) with the United States effectively terminated.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-14T15:46:59.719506+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772236/iran-lawmakers-end-to-Islamabad-MoU-vow-revenge-for-martyred-leader"
-  },
-  {
-    "id": "e257dd356a2b",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T13:44",
-    "headline": "Indian activist Wangchuk urged to end hunger strike over exam paper leaks",
-    "excerpt": "Sonam Wangchuk has been​ fasting in New Delhi since June 28 in solidarity with Gen Z-led Cockroach Janta Party.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-07-14T14:03:49.494770+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/14/indian-activist-wangchuk-urged-to-end-hunger-strike-over-exam-paper-leaks?traffic_source=rss"
-  },
-  {
-    "id": "d53c78642aaa",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T13:32",
-    "headline": "Which world leaders are visiting Qatar to pay their condolences?",
-    "excerpt": "Sheikh Hamad, who ruled the country from 1995 to 2013 and revolutionised modern-day Qatar, died on Thursday aged 74.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-14T14:03:49.494820+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/14/which-world-leaders-are-visiting-qatar-to-pay-their-condolences?traffic_source=rss"
-  },
-  {
-    "id": "e49d93785ada",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T13:30",
-    "headline": "Iran lawmakers present Hormuz management bill as US war heats up",
-    "excerpt": "Hardline MPs table plan that aims to formalise control over the strait and undermine any negotiations.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T14:03:49.494854+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/14/iran-lawmakers-present-hormuz-management-bill-as-us-war-heats-up?traffic_source=rss"
   }
 ]
