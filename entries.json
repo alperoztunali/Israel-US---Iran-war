@@ -1,5 +1,115 @@
 [
   {
+    "id": "22e208af5e9c",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T17:27",
+    "headline": "What are the security implications of the US-Saudi nuclear deal?",
+    "excerpt": "Concerns are growing over a nuclear arms race in the Middle East.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-07-23T17:49:49.074108+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal?traffic_source=rss"
+  },
+  {
+    "id": "de5b22db1078",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T17:25",
+    "headline": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
+    "excerpt": "Israeli far-right Minister Ben-Gvir joins provocative incursion at Al-Aqsa, escalating tensions ahead of elections.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-23T17:49:49.074159+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss"
+  },
+  {
+    "id": "17b99c7faecc",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T17:05",
+    "headline": "Oil surges past $100 in a first since May as Middle East conflicts rage",
+    "excerpt": "Oil prices rise for a fifth day after Yemen&#039;s Houthis say they struck Saudi Arabian oil tankers in the Red Sea.",
+    "category": "Naval",
+    "location": "Yemen",
+    "addedAt": "2026-07-23T17:49:49.074192+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss"
+  },
+  {
+    "id": "101fcbcd302e",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T17:02",
+    "headline": "A Game of Double Standards",
+    "excerpt": "Qatar 2022: a World Cup that exposed football’s politics, power struggles, and double standards.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-07-23T17:49:49.074228+00:00",
+    "link": "https://www.aljazeera.com/video/featured-documentaries/2026/7/23/a-game-of-double-standards?traffic_source=rss"
+  },
+  {
+    "id": "d4ff2e94a339",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T16:58",
+    "headline": "Trump: US-Saudi nuclear deal hinges on Saudi joining Abraham Accords",
+    "excerpt": "The US and Saudi Arabia have reached a civilian nuclear cooperation deal.",
+    "category": "Diplomatic",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-07-23T17:49:49.074259+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/trump-us-saudi-nuclear-deal-hinges-on-saudi-joining-abraham-accords?traffic_source=rss"
+  },
+  {
+    "id": "31664abd1c5c",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T16:53",
+    "headline": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
+    "excerpt": "Al Jazeera’s Zeina Khodr brings you the latest from Beirut.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-07-23T17:49:49.074297+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah?traffic_source=rss"
+  },
+  {
+    "id": "9cb0062f47d1",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T16:48",
+    "headline": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
+    "excerpt": "Al Jazeera’s Zeina Khodr brings you the latest from Beirut after Lebanon’s President meets with Donald Trump.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-07-23T17:49:49.074332+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah-2?traffic_source=rss"
+  },
+  {
+    "id": "c2de3f03958d",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T16:17",
+    "headline": "Yemen faces a new challenge amid prospects of confrontation",
+    "excerpt": "What is the military balance of power in Yemen and the likelihood of confrontation between the government and Houthis?",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-07-23T17:49:49.074372+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss"
+  },
+  {
+    "id": "27d38eb75c4e",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T16:12",
+    "headline": "US House votes to limit Iran war for first time since ceasefire breakdown",
+    "excerpt": "Senate fails to pass latest War Powers resolution, in largely symbolic move attempting to reign in Trump.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-23T17:49:49.074400+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss"
+  },
+  {
+    "id": "71bc9540217d",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T16:08",
+    "headline": "The missing half of mediation",
+    "excerpt": "The future of diplomacy between the US and Iran depends on giving mediators the backing needed to make agreements stick.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-23T17:49:49.074428+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/23/the-missing-half-of-mediation?traffic_source=rss"
+  },
+  {
     "id": "3df75d648ade",
     "source": "Al Jazeera",
     "date": "2026-07-23T15:52",
@@ -5388,115 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-14T21:07:22.007100+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss"
-  },
-  {
-    "id": "1b9391f8f3d8",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T20:17",
-    "headline": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
-    "excerpt": "Mobilisation of fighters and attacks signal the collapse of Yemen&#039;s fragile peace, with regional implications looming.",
-    "category": "Airstrike",
-    "location": "Yemen",
-    "addedAt": "2026-07-14T21:07:22.007128+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss"
-  },
-  {
-    "id": "daa52d252a0d",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T20:12",
-    "headline": "Senate Democrats block defence bill over Iran war, Israel provisions",
-    "excerpt": "The Senate voted 50-46 to block debate on the annual defence bill over war funding and defence cooperation with Israel.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T21:07:22.007158+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss"
-  },
-  {
-    "id": "5dbc50cf02c4",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T19:47",
-    "headline": "US strikes new targets in Iran as Tehran hits Gulf states, Hormuz shipping",
-    "excerpt": "Iran&#039;s deputy foreign minister accuses US of destroying the interim peace deal.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-07-14T21:07:22.007180+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "cbbd716d7498",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T19:43",
-    "headline": "US President Trump meets with ‘fan of America’ Iraqi PM Ali al-Zaidi",
-    "excerpt": "US President Donald Trump welcomed Iraqi Prime Minister Ali al-Zaidi to the White House.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-07-14T19:56:35.804085+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-meets-with-fan-of-america-iraqi-pm-ali-al-zaidi?traffic_source=rss"
-  },
-  {
-    "id": "5e3639b06b4f",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T18:32",
-    "headline": "US risks falling into ‘escalation trap’ if it deploys troops in Iran",
-    "excerpt": "Analyst Alex Alfirraz Scheers says the US risks falling into an escalation trap if it launches a ground assault in Iran.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-07-14T19:56:35.804132+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-risks-falling-into-escalation-trap-if-it-deploys-troops-in-iran?traffic_source=rss"
-  },
-  {
-    "id": "8b4c9729694e",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T18:26",
-    "headline": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
-    "excerpt": "Donald Trump backs away from fee, says regional countries will instead invest in US in return for transit protection.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T19:56:35.804168+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss"
-  },
-  {
-    "id": "c3ac6d268c1f",
-    "source": "PressTV",
-    "date": "2026-07-14T19:56",
-    "headline": "IRGC pounds US military facilities in Bahrain and Kuwait, warns oil exports at risk",
-    "excerpt": "The IRGC says it has launched the third wave of Operation Nasr-2 against US military facilities in Bahrain and Kuwait in retaliation for renewed US aggression against Iranian coastal military positions.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T19:56:37.933340+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772257/IRGC-pounds-US-military-facilities-Bahrain-Kuwait-warns-oil-exports-at-risk"
-  },
-  {
-    "id": "040b4c37d8f5",
-    "source": "PressTV",
-    "date": "2026-07-14T19:56",
-    "headline": "Pezeshkian slams Trump’s rhetoric, says insults demean their authors, not Iran",
-    "excerpt": "Pezeshkian dismisses inflammatory rhetoric by US President Donald Trump, saying such “disrespectful remarks” reflected those who made them, not the Iranian nation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T19:56:37.933386+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772256/Pezeshkian-slams-Trump-rhetoric-says-insults-demean-their-authors-not-Iran"
-  },
-  {
-    "id": "2817028e17a5",
-    "source": "PressTV",
-    "date": "2026-07-14T19:56",
-    "headline": "Yemen warns airlines to avoid Saudi airspace until Sana'a blockade is lifted",
-    "excerpt": "The Yemeni armed forces have renewed their warning to all airlines against transiting Saudi airspace until the blockade on Sana'a International Airport is lifted.",
-    "category": "Movement",
-    "location": "Yemen",
-    "addedAt": "2026-07-14T19:56:37.933414+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772252/Yemeni-armed-forces-renew-warning-against-flights-transiting-through-Saudi-airspace-amid-Riyadh-s-attempt-to-break-ceasefire"
-  },
-  {
-    "id": "dfe57bb5bf7b",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T18:05",
-    "headline": "US President Trump drops 20% Strait of Hormuz fee plan",
-    "excerpt": "US President Donald Trump says he has abandoned his proposed 20% fee on cargo transiting the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-07-14T18:40:47.197933+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss"
   }
 ]
