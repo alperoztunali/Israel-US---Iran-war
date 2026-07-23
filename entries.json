@@ -1,5 +1,49 @@
 [
   {
+    "id": "9ea4cdea5113",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T03:53",
+    "headline": "Five soldiers killed in southern Thailand checkpoint attack",
+    "excerpt": "The assault in Narathiwat comes a day after a car bombing elsewhere in the province wounded a police officer.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-07-23T04:40:28.623602+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss"
+  },
+  {
+    "id": "73abd7dc6b76",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T03:21",
+    "headline": "Armed attackers kill more than 20 in northwest Nigeria",
+    "excerpt": "The attacks reflect a surge in violence as armed gangs continue raiding villages in northwest and central Nigeria.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-23T04:40:28.623653+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/23/armed-attackers-kill-more-than-20-in-northwest-nigeria?traffic_source=rss"
+  },
+  {
+    "id": "6204d0b676ff",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T03:07",
+    "headline": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
+    "excerpt": "Psychological wounds compound Najwa&#039;s physical injuries after losing her daughter in an Israeli air strike.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-07-23T04:40:28.623678+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss"
+  },
+  {
+    "id": "6d1c5dec7452",
+    "source": "Al Jazeera",
+    "date": "2026-07-23T00:00",
+    "headline": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
+    "excerpt": "US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-23T04:40:28.623708+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss"
+  },
+  {
     "id": "f29f40040cee",
     "source": "Al Jazeera",
     "date": "2026-07-23T00:29",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-14T14:03:49.495039+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/14/sudan-sentences-rsf-chief-hemedti-to-death-whos-he-whats-he-accused-of?traffic_source=rss"
-  },
-  {
-    "id": "411f02d70f3c",
-    "source": "PressTV",
-    "date": "2026-07-14T14:03",
-    "headline": "US authorities detain American journalist Max Blumenthal upon return from Iran",
-    "excerpt": "American journalist Max Blumenthal says US Customs and Border Protection officers have detained and questioned him at Dulles International Airport after his return from Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T14:03:50.884933+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772228/US-CBP-officers-arrest-question--journalist-Max-Blumenthal--confiscate-devices-return-Iran"
-  },
-  {
-    "id": "5d26a3227c8d",
-    "source": "PressTV",
-    "date": "2026-07-14T14:03",
-    "headline": "Army, IRGC spokesmen hold meeting, affirm unwavering unity against enemy threats",
-    "excerpt": "The spokesmen of Iran's Army and the Islamic Revolution Guards Corps (IRGC) have held a joint meeting to enhance media synergy and reaffirm the armed forces' unwavering unity.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-07-14T14:03:50.884967+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772225/Army-IRGC-spokespersons-hold-meeting-affirm-unwavering-unity-against-enemy-threats"
-  },
-  {
-    "id": "bba4352aa476",
-    "source": "PressTV",
-    "date": "2026-07-14T14:03",
-    "headline": "Iran begins repatriating 55 fishermen detained by UAE after GPS disruptions",
-    "excerpt": "Iran has secured the release of 55 fishermen detained by the UAE after GPS disruptions during the US-Israeli aggression caused their boats to stray into Emirati waters.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-14T14:03:50.884996+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/14/772226/Iran-secures-release-of-55-fishermen-detained-by-UAE-after-GPS-disruptions"
-  },
-  {
-    "id": "1a14834ef8c2",
-    "source": "Al Jazeera",
-    "date": "2026-07-14T11:22",
-    "headline": "How new Yemen tensions could complicate the global energy crisis",
-    "excerpt": "If the fighting in Yemen expands, and the Houthis try to block the Bab al-Mandeb, the world economy faces a new shock.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-07-14T11:56:16.978065+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss"
   }
 ]
