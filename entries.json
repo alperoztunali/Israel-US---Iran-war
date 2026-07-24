@@ -1,5 +1,71 @@
 [
   {
+    "id": "1166279c6ec3",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T16:53",
+    "headline": "Romanian jet fighter shoots down suspected Russian drone",
+    "excerpt": "The incident adds to concern that Moscow’s war on Ukraine risks spilling over to entangle neighbouring NATO states.",
+    "category": "Airstrike",
+    "location": "Oman",
+    "addedAt": "2026-07-24T17:12:04.026586+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss"
+  },
+  {
+    "id": "215c679ec7a2",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T16:32",
+    "headline": "Life without refrigerators: Gaza residents fight heat and food spoilage",
+    "excerpt": "Gaza families endure scorching summers without refrigerators, struggling to preserve food, medicine and basics.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-24T17:12:04.026634+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss"
+  },
+  {
+    "id": "b52fdc8176b7",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T16:10",
+    "headline": "Yemen’s valleys and farms are full of dangerous plastic waste",
+    "excerpt": "Yemen&#039;s eastern Wadi Dawan valley is picturesque, but on closer inspection the scourge of plastic waste is clear to see.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-07-24T17:12:04.026679+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/24/yemens-valleys-and-farms-are-full-of-dangerous-plastic-waste?traffic_source=rss"
+  },
+  {
+    "id": "cceeab5ea9fc",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T16:04",
+    "headline": "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
+    "excerpt": "Four Palestinians and two Israelis killed after about 20 settlers raid the village of Tal in occupied West Bank.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-24T17:12:04.026709+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss"
+  },
+  {
+    "id": "4ab9f9c18427",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T16:01",
+    "headline": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
+    "excerpt": "Visit will be Netanyahu&#039;s seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-24T17:12:04.026740+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss"
+  },
+  {
+    "id": "2b0abbb73483",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T15:27",
+    "headline": "Israel builds Gaza barrier as politicians push for settlements",
+    "excerpt": "Recent satellite images reveal the construction of a huge earthen barrier dividing Gaza as Israelis discuss settlements.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-24T17:12:04.026775+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss"
+  },
+  {
     "id": "09a1eea9efde",
     "source": "Al Jazeera",
     "date": "2026-07-24T15:16",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-15T18:39:03.191431+00:00",
     "link": "https://presstv.ir/Detail/2026/07/15/772329/Iran-Baghaei-rejection-talks-US-attacks-MoU"
-  },
-  {
-    "id": "f437c4dbbc30",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T16:24",
-    "headline": "Father, mother, daughter killed in Israeli attack on Gaza home",
-    "excerpt": "Palestinians held a funeral for a father, a mother and their six-year-old daughter killed in an Israeli air attack.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-15T17:21:58.796158+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss"
-  },
-  {
-    "id": "66e00ad18a80",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T16:02",
-    "headline": "Pro-government militia seizes boat with ‘Houthi weapons materials’ in Yemen",
-    "excerpt": "A pro-government militia said it intercepted a boat carrying ‘weapon-making equipment for the Houthis’ in Yemen.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-07-15T17:21:58.796201+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/pro-government-militia-seizes-boat-with-houthi-weapons-materials-in-yemen?traffic_source=rss"
-  },
-  {
-    "id": "8f2363613a98",
-    "source": "PressTV",
-    "date": "2026-07-15T17:22",
-    "headline": "Iran condemns Israeli war crimes in Gaza and West Bank, says US complicit",
-    "excerpt": "It also condemned the continued inhumane siege of Gaza, which has blocked the entry of basic necessities.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-15T17:22:03.311118+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/15/772322/Iran-condemns-continued-war-crimes-in-Gaza-West-Bank-says-US-complicit"
-  },
-  {
-    "id": "7b2028807a1d",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T15:35",
-    "headline": "Who is calling the shots in Iran amid the deadly war with the US?",
-    "excerpt": "The IRGC has taken the lead in Iran, particularly over Hormuz - and the government says it&#039;s on the same page.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-15T15:52:37.419744+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/15/who-is-calling-the-shots-in-iran-amid-the-deadly-war-with-the-us?traffic_source=rss"
-  },
-  {
-    "id": "e9d2c55b2423",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T15:12",
-    "headline": "July 15, 10 years on: Turkiye’s will, Turkiye’s victory",
-    "excerpt": "The defeat of the 2016 coup attempt helped usher in a decade of greater diplomatic, economic and military power.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-15T15:52:37.419795+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/15/july-15-10-years-on-turkiyes-will-turkiyes-victory?traffic_source=rss"
-  },
-  {
-    "id": "6bd7d3baadcb",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T15:03",
-    "headline": "How US-Iran escalation will test Iraq’s balancing act",
-    "excerpt": "The Iraqi PM visited the White House to deepen economic ties, as Iraq-based allies of Iran threatened to fight the US.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-15T15:52:37.419832+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/15/how-us-iran-escalation-will-test-iraqs-balancing-act?traffic_source=rss"
   }
 ]
