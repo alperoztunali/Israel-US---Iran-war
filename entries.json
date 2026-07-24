@@ -1,5 +1,27 @@
 [
   {
+    "id": "12a61d0ef28b",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T19:16",
+    "headline": "Car bomb attack kills 27 in northwest Pakistan",
+    "excerpt": "The Pakistani Taliban said four suicide bombers carried out the assault in the country&#039;s northwest.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-07-24T20:23:46.106255+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/24/car-bomb-attack-kills-27-in-northwest-pakistan?traffic_source=rss"
+  },
+  {
+    "id": "289feb5f2a4b",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T18:38",
+    "headline": "ICC prosecutor Khan removed over ‘politicised’ sex abuse claims: Sources",
+    "excerpt": "Khan&#039;s team claim  the case is a reaction to his pursuit of an arrest warrant against Israel’s Benjamin Netanyahu.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-24T20:23:46.106311+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss"
+  },
+  {
     "id": "9027b55c0f4e",
     "source": "Al Jazeera",
     "date": "2026-07-24T18:31",
@@ -5476,27 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-07-15T19:52:46.611840+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss"
-  },
-  {
-    "id": "15b9a574a76d",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T18:49",
-    "headline": "Palestinian homes sealed off by Israeli military restrictions",
-    "excerpt": "An Israeli military order imposed after a series of settler attacks has left families cut off from parts of their home.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-15T19:52:46.611891+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss"
-  },
-  {
-    "id": "4ee9efa8402d",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T18:34",
-    "headline": "Lebanon and Israel end sixth round of US-brokered talks",
-    "excerpt": "A US official said the two sides made progress on a plan for Israel to withdraw from &#039;pilot zones&#039; in southern Lebanon.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-15T19:52:46.611922+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/15/lebanon-and-israel-end-sixth-round-of-us-brokered?traffic_source=rss"
   }
 ]
