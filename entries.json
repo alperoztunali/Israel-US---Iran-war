@@ -1,5 +1,49 @@
 [
   {
+    "id": "773959e39fca",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T13:19",
+    "headline": "Five killed in occupied West Bank after Israeli settlers attack",
+    "excerpt": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Till",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-24T13:55:23.940369+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss"
+  },
+  {
+    "id": "2f3c1dfe98dc",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T12:49",
+    "headline": "US summons Malaysia envoy over Israel policy",
+    "excerpt": "Malaysia does not have any diplomatic ties with Israel and has long maintained its support for the Palestinian cause.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-24T13:55:23.940412+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss"
+  },
+  {
+    "id": "f9cc219b9fa0",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T11:45",
+    "headline": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+    "excerpt": "Six people also killed in Ukrainian attack on Russia’s Kirov, and Wildberries warehouses hit again.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-24T13:55:23.940448+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss"
+  },
+  {
+    "id": "df5cc4c34407",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T10:48",
+    "headline": "Is the US-Saudi nuclear deal on, or in limbo?",
+    "excerpt": "Trump&#039;s last-minute demand for Saudi normalisation with Israel has complicated the already sensitive deal.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-24T13:55:23.940477+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/24/is-the-us-saudi-nuclear-deal-on-or-in-limbo?traffic_source=rss"
+  },
+  {
     "id": "c879eca0e4c8",
     "source": "Al Jazeera",
     "date": "2026-07-24T09:59",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-15T15:52:39.202765+00:00",
     "link": "https://presstv.ir/Detail/2026/07/15/772320/Ayatollah-Khamenei-resistance-discourse-Iran-supremacy-Rezaei"
-  },
-  {
-    "id": "4ff1b08755f4",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T13:34",
-    "headline": "Far-right Israeli lawmaker raids Palestinian school and threatens shutdown",
-    "excerpt": "Israel’s education committee head stormed a school in Jerusalem, vowing to shut it down over Palestinian symbols.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-15T14:11:38.881215+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/far-right-israeli-lawmaker-raids-palestinian-school-and-threatens-shutdown?traffic_source=rss"
-  },
-  {
-    "id": "3b5a994faece",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T13:06",
-    "headline": "Protest in Pakistan’s Kashmir stalls after nine killed in clashes",
-    "excerpt": "At least 28 people have been killed since protests began in June, as the region braces for a major protest march.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-15T14:11:38.881274+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/15/protest-in-pakistans-kashmir-stalls-after-nine-killed-in-clashes?traffic_source=rss"
-  },
-  {
-    "id": "86ca8473de01",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T12:59",
-    "headline": "US strikes marine control tower in Iran",
-    "excerpt": "US strikes marine control tower in Iran",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-15T14:11:38.881307+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/us-strikes-marine-control-tower-in-iran?traffic_source=rss"
-  },
-  {
-    "id": "24704b5af1f0",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T12:55",
-    "headline": "As the US restarts war on Iran, is its weapons stockpile running low?",
-    "excerpt": "The US has expended a significant number of munitions since the war began in February.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-15T14:11:38.881338+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/15/as-the-us-restarts-war-on-iran-is-its-weapons-stockpile-running-low?traffic_source=rss"
   }
 ]
