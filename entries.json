@@ -1,5 +1,60 @@
 [
   {
+    "id": "52c02f75ec8b",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T01:30",
+    "headline": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
+    "excerpt": "Lorenzo Salgado Araujo&#039;s sons tell lawmakers their father worked hard &#039;to protect and provide&#039; for his family.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-25T03:16:11.688553+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss"
+  },
+  {
+    "id": "f42a5fa33c63",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T00:31",
+    "headline": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
+    "excerpt": "The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-25T03:16:11.688607+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss"
+  },
+  {
+    "id": "b744553e2d43",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T00:16",
+    "headline": "UN rights chief Turk wins second term despite US and Israeli opposition",
+    "excerpt": "Austrian lawyer Volker Turk set to become first UN rights chief to complete two four-year terms since post was created.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-25T03:16:11.688646+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss"
+  },
+  {
+    "id": "560a57458a7a",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T00:00",
+    "headline": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+    "excerpt": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Tehran.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-07-25T03:16:11.688684+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss"
+  },
+  {
+    "id": "700d59fe9e18",
+    "source": "Al Jazeera",
+    "date": "2026-07-24T23:53",
+    "headline": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+    "excerpt": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the &#039;Abraham Accords&#039;.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-25T03:16:11.688723+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss"
+  },
+  {
     "id": "c0f2ea5eab97",
     "source": "Al Jazeera",
     "date": "2026-07-24T18:38",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-16T00:56:44.799400+00:00",
     "link": "https://www.aljazeera.com/sports/2026/7/16/epic-squared-scaloni-lauds-argentinas-back-to-back-world-cup-comebacks?traffic_source=rss"
-  },
-  {
-    "id": "ac19c0860a3f",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T00:00",
-    "headline": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker",
-    "excerpt": "Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-16T00:56:44.799445+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss"
-  },
-  {
-    "id": "53412be50300",
-    "source": "PressTV",
-    "date": "2026-07-15T23:15",
-    "headline": "US attacks vicinity of children's cancer hospital as fresh aggression reported across southern Iran",
-    "excerpt": "Residents of Ahvaz report hearing multiple explosions after US strikes on several parts of the southwestern Iranian city, including the vicinity of a hospital treating cancer patients.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-15T23:15:35.960108+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/15/772339/United-States-attacks-Iran-hospital-cancer-patients-children"
-  },
-  {
-    "id": "bd36cb09f173",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T21:46",
-    "headline": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
-    "excerpt": "The US announced a new wave of attacks Wednesday night, amid reported explosions in Bandar Abbas, Chabahar and Ahvaz.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-15T22:14:16.787205+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss"
-  },
-  {
-    "id": "a25df9ce4fb3",
-    "source": "Al Jazeera",
-    "date": "2026-07-15T20:46",
-    "headline": "What are the obstacles to peace between Israel and Lebanon?",
-    "excerpt": "Another round of talks is under way between Israel and Lebanon to try to advance the ceasefire agreement.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-15T22:14:16.787250+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "84fc87375af9",
-    "source": "PressTV",
-    "date": "2026-07-15T22:14",
-    "headline": "‘Firm response awaits UK’: Iran summons British ambassador over London's IRGC designation",
-    "excerpt": "Iran summons Britain’s ambassador to formally protest the British government's hostile decision to designate the IRGC under the UK's so-called “State Threats legislation.”",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-15T22:14:18.456202+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/15/772338/Iran-summons-Britain-ambassador-IRGC-designation"
   }
 ]
