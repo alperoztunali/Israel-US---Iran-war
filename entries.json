@@ -1,5 +1,38 @@
 [
   {
+    "id": "2f336de659ed",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T23:30",
+    "headline": "What’s behind the Israeli crackdown in the occupied West Bank?",
+    "excerpt": "Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-07-25T23:44:15.840455+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "b5ec256bf3e3",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T23:16",
+    "headline": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
+    "excerpt": "Iran accuses Ukraine of attacking a Caspian vessel, killing one sailor and injuring another, calling it a criminal act.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-25T23:44:15.840504+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss"
+  },
+  {
+    "id": "0fb79395047e",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T22:31",
+    "headline": "One dead, 17 injured as car reportedly strikes crowd at Berlin LGBTQ event",
+    "excerpt": "German police say they believe car drove into Tiergarten park, near the route of a Pride march, hitting several people.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-25T23:44:15.840538+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss"
+  },
+  {
     "id": "4179260e5e43",
     "source": "Al Jazeera",
     "date": "2026-07-25T22:07",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-16T15:06:48.233860+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/16/epstein-linked-to-israeli-deep-state-us-intel-says-vance-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "0e4493fd9cdf",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T14:13",
-    "headline": "US or Iran — Who needs a new truce deal more?",
-    "excerpt": "Both sides face pressure points that could make a protracted war painful.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-16T15:06:48.233888+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/us-or-iran-who-needs-a-new-truce-deal?traffic_source=rss"
-  },
-  {
-    "id": "e963fe5773ca",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T12:31",
-    "headline": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
-    "excerpt": "Palestinians are inspecting the damage in Nuseirat after Israeli strikes reduced their homes to rubble.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-16T12:53:13.613614+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss"
-  },
-  {
-    "id": "8ebb96857aa4",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T12:00",
-    "headline": "Iran claims strikes on US bases, warns of wider attacks on region",
-    "excerpt": "Iran claims strikes on US bases, warns of wider attacks on region",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-16T12:53:13.613657+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss"
   }
 ]
