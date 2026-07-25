@@ -1,5 +1,38 @@
 [
   {
+    "id": "558234411b02",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T09:54",
+    "headline": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+    "excerpt": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-25T10:09:30.729594+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss"
+  },
+  {
+    "id": "1b3317f8bd07",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T09:10",
+    "headline": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+    "excerpt": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-25T10:09:30.729631+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss"
+  },
+  {
+    "id": "194ec3b43de4",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T08:09",
+    "headline": "Dodging snipers, housing crisis forces Yemenis to live on front line",
+    "excerpt": "Living near Taiz&#039;s front line forces families to make difficult choices amid sniper threats and economic hardships.",
+    "category": "Naval",
+    "location": "Yemen",
+    "addedAt": "2026-07-25T10:09:30.729663+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss"
+  },
+  {
     "id": "5c31330b6a99",
     "source": "Al Jazeera",
     "date": "2026-07-25T07:25",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-16T06:35:34.836379+00:00",
     "link": "https://presstv.ir/Detail/2026/07/16/772357/Iran-warns-target-infrastructure-region"
-  },
-  {
-    "id": "c71bd43038a5",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T02:10",
-    "headline": "Iran launches strikes on Gulf, even as FM visits Qatar",
-    "excerpt": "Iranian FM Araghchi visits Qatar to pay respects following the death of the Father Emir, Sheikh Hamad bin al Thani",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-16T04:14:56.350593+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss"
-  },
-  {
-    "id": "94c237e27155",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T01:58",
-    "headline": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
-    "excerpt": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-16T04:14:56.350635+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss"
-  },
-  {
-    "id": "bff63f117873",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T01:36",
-    "headline": "Iranian doctor says US strike damaged children’s cancer hospital",
-    "excerpt": "Iranians are inspecting the damage from days of US strikes on key cities in the country’s south and west.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-16T04:14:56.350699+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss"
   }
 ]
