@@ -1,5 +1,27 @@
 [
   {
+    "id": "5acdf4279c00",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T11:30",
+    "headline": "Tuberculosis: How drones are transforming care in the Philippines",
+    "excerpt": "101 East meets the doctors using drones to fight tuberculosis and save lives in remote communities in the Philippines.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-25T12:46:01.527382+00:00",
+    "link": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss"
+  },
+  {
+    "id": "31ec7ceeab20",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T09:54",
+    "headline": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
+    "excerpt": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-25T12:46:01.527437+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss"
+  },
+  {
     "id": "62547bbb2d18",
     "source": "Al Jazeera",
     "date": "2026-07-25T11:14",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-16T09:03:42.974428+00:00",
     "link": "https://presstv.ir/Detail/2026/07/16/772364/Iran-US-Army-Akrami-Nia"
-  },
-  {
-    "id": "df5efd7b7a56",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T04:18",
-    "headline": "Former US Ambassador says Iran miscalculated Trump’s resolve",
-    "excerpt": "Nightly strikes between the US and Iran have been the heaviest since the Memorandum of Understanding (MOU) agreement.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-16T06:35:32.971485+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss"
-  },
-  {
-    "id": "10f7979efd0c",
-    "source": "PressTV",
-    "date": "2026-07-16T06:35",
-    "headline": "Iran targets US radar, air defense systems in Kuwait, Bahrain",
-    "excerpt": "Iran’s Army launches drone strikes against US military facilities in Kuwait and Bahrain.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-16T06:35:34.836328+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/16/772352/Iran-Army-Kuwait-Bahrain"
   }
 ]
