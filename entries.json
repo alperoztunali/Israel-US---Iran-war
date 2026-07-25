@@ -1,5 +1,38 @@
 [
   {
+    "id": "071dbaadcdac",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T19:22",
+    "headline": "At least 35 killed after two buses collide in eastern Syria",
+    "excerpt": "At least 35 killed after two buses collide in eastern Syria",
+    "category": "Casualties",
+    "location": "Syria",
+    "addedAt": "2026-07-25T19:35:39.937341+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss"
+  },
+  {
+    "id": "c23da28dc8ed",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T18:14",
+    "headline": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
+    "excerpt": "Critics decry Israel&#039;s sweeping media reforms, warning of further risks to press freedom and election integrity.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-25T19:35:39.937396+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss"
+  },
+  {
+    "id": "2e7cda38dfa4",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T12:41",
+    "headline": "At least 15 killed in Ukrainian and Russian strikes as holiday camp hit",
+    "excerpt": "Five children among 12 killed in Russian-held resort, while Russian drone kills three Ukrainian drivers at courier firm.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-25T19:35:39.937442+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss"
+  },
+  {
     "id": "24a9c29ceac8",
     "source": "Al Jazeera",
     "date": "2026-07-25T16:39",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-16T11:12:50.669841+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/7/16/safe-passage-the-fatal-ambiguity-at-the-heart-of-the-hormuz-mou?traffic_source=rss"
-  },
-  {
-    "id": "63abd64f9a6a",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T09:36",
-    "headline": "Yemen is edging closer to renewed confrontation",
-    "excerpt": "The Iranian aircraft incident has exposed a fragile calm that may not survive a wider regional escalation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-16T11:12:50.669880+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/16/yemen-is-edging-closer-to-renewed-confrontation?traffic_source=rss"
-  },
-  {
-    "id": "720dd5365422",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T08:57",
-    "headline": "Why Italy’s Genoa bridge collapse led to one of its biggest criminal trials",
-    "excerpt": "Eight years after 43 people were killed, judges rule in the first trial over the Genoa bridge collapse.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-16T11:12:50.669909+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/why-italys-genoa-bridge-collapse-led-to-one-of-its-biggest-criminal-trials?traffic_source=rss"
-  },
-  {
-    "id": "c4d350041fbd",
-    "source": "PressTV",
-    "date": "2026-07-16T11:12",
-    "headline": "'Cowardly war crime': Iran condemns US strike near children's hospital in Ahvaz",
-    "excerpt": "Iran has condemned a US strike near a children's cancer hospital in the southwestern city of Ahvaz as a \"cowardly war crime.\"",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-16T11:12:52.325718+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/16/772374/Baqaei-hospital-US-attack-war-crime"
   }
 ]
