@@ -1,5 +1,27 @@
 [
   {
+    "id": "5c31330b6a99",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T07:25",
+    "headline": "Born too soon: Premature babies fight for survival in Gaza",
+    "excerpt": "Israel&#039;s genocidal war on Gaza is causing a surge in premature births and endangering mothers&#039; health.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-25T08:24:37.352580+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "80e5634640db",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T07:22",
+    "headline": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+    "excerpt": "The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.",
+    "category": "Diplomatic",
+    "location": "Syria",
+    "addedAt": "2026-07-25T08:24:37.352625+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss"
+  },
+  {
     "id": "fdbfab42bd89",
     "source": "Al Jazeera",
     "date": "2026-07-25T04:29",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-16T04:14:56.350699+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss"
-  },
-  {
-    "id": "f7e616b6e586",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T00:00",
-    "headline": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
-    "excerpt": "Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-07-16T04:14:56.350745+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss"
-  },
-  {
-    "id": "b20fde3af6a1",
-    "source": "PressTV",
-    "date": "2026-07-16T04:14",
-    "headline": "Iran’s Armed Forces strike US targets with missiles, drones amid warning of expanding retaliation",
-    "excerpt": "Iran's Armed Forces announce new rounds of retaliatory operations against US military targets in the region featuring missile and drone strikes.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-16T04:14:58.528125+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/16/772345/Iran-Armed-Forces-Army-IRGC-new-strikes-United-States-Kuwait-Jordan"
   }
 ]
