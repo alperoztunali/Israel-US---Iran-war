@@ -1,5 +1,38 @@
 [
   {
+    "id": "437f68050f06",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T08:55",
+    "headline": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+    "excerpt": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
+    "category": "Casualties",
+    "location": "Gaza",
+    "addedAt": "2026-07-26T10:05:10.719061+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss"
+  },
+  {
+    "id": "693e93188b34",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T08:53",
+    "headline": "Israel debate boils over in the United States",
+    "excerpt": "How far have US politics - and media - really shifted on the topic of Israel?",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-26T10:05:10.719107+00:00",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss"
+  },
+  {
+    "id": "9bdc6844ceed",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T07:55",
+    "headline": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
+    "excerpt": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-26T10:05:10.719145+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss"
+  },
+  {
     "id": "238db81e033c",
     "source": "Al Jazeera",
     "date": "2026-07-26T07:12",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-16T19:20:09.431290+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss"
-  },
-  {
-    "id": "1a5f624fadfd",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T18:37",
-    "headline": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital",
-    "excerpt": "Iran accuses US of &#039;cowardly war crime&#039; as doctor says blast was &#039;so close&#039; they thought the hospital was struck.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-16T19:20:09.431344+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss"
-  },
-  {
-    "id": "ac2d94efcc5f",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T17:54",
-    "headline": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
-    "excerpt": "Jobar was held by rebels for much of Syria&#039;s 13-year war but was destroyed by repeated government assaults.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-16T19:20:09.431383+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss"
-  },
-  {
-    "id": "cea3ba376e5e",
-    "source": "PressTV",
-    "date": "2026-07-16T19:20",
-    "headline": "Exclusive: No Iran-US prisoner exchange, spy release has taken place",
-    "excerpt": "Press TV's investigations have found no evidence to support claims of a prisoner exchange between Iran and the United States.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-16T19:20:10.862602+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/16/772402/Exclusive--No-evidence-of-Iran-US-prisoner-swap,-denies-release-of-spies"
   }
 ]
