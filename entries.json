@@ -1,5 +1,60 @@
 [
   {
+    "id": "926f81572450",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T04:40",
+    "headline": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+    "excerpt": "Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-26T05:00:30.288353+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss"
+  },
+  {
+    "id": "9caf8b707102",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T04:33",
+    "headline": "US military disables tanker accused of breaking the Iran blockade",
+    "excerpt": "The US military has released footage it says shows forces boarding one tanker.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-26T05:00:30.288394+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss"
+  },
+  {
+    "id": "27c4cab10f1e",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T03:49",
+    "headline": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
+    "excerpt": "Iran has condemned a Ukrainian attack on one of its commercial vessels.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-07-26T05:00:30.288419+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss"
+  },
+  {
+    "id": "46a8ecac28b8",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T01:52",
+    "headline": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
+    "excerpt": "Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-26T05:00:30.288455+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss"
+  },
+  {
+    "id": "d9d2068ef7dd",
+    "source": "Al Jazeera",
+    "date": "2026-07-25T22:31",
+    "headline": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event",
+    "excerpt": "German police say a white car drove into Tiergarten Park, near the route of a Pride march, hitting several people.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-26T05:00:30.288500+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss"
+  },
+  {
     "id": "ed68473e2880",
     "source": "Al Jazeera",
     "date": "2026-07-26T00:49",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-16T17:54:34.642674+00:00",
     "link": "https://www.aljazeera.com/economy/2026/7/16/us-to-impose-new-25-percent-tariffs-on-some-brazilian-imports?traffic_source=rss"
-  },
-  {
-    "id": "3cf782d3fb09",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T16:25",
-    "headline": "Trump limits length of visas for students, exchange visitors, journalists",
-    "excerpt": "New rule ends open-ended stays and requires extensions after fixed visa periods for students and foreign media.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-16T17:54:34.642703+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/trump-limits-length-of-visas-for-students-exchange-visitors-journalists?traffic_source=rss"
-  },
-  {
-    "id": "852a9c196c83",
-    "source": "PressTV",
-    "date": "2026-07-16T17:54",
-    "headline": "Al-Houthi: Iran's victory over US, Israel is Islamic Ummah's victory",
-    "excerpt": "Yemen's Ansarullah leader Abdul-Malik al-Houthi says Iran's victory in confronting the US-Israeli terrorist war represents a victory for the entire Islamic nation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-16T17:54:36.200274+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/16/772387/Ansarallah-Leader---Greater-Israel--project-behind-regional-wars"
-  },
-  {
-    "id": "ea647a4cc2cf",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T16:13",
-    "headline": "Vance says Israeli campaign tried to sway US opinion against Iran diplomacy",
-    "excerpt": "The US vice-president also said he faced &#039;vicious&#039; personal attacks over his diplomatic outreach to end war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-16T16:42:37.251397+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/vance-says-israeli-campaign-tried-to-sway-us-opinion-against-iran-diplomacy?traffic_source=rss"
-  },
-  {
-    "id": "f6e8264e93a0",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T15:53",
-    "headline": "Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’",
-    "excerpt": "Attacks continue in violation of the October agreement with more than 1,100 Palestinians killed since then.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-16T16:42:37.251445+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/israeli-attacks-kill-at-least-five-palestinians-in-gaza-despite-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "8bdbf03d0f95",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T15:44",
-    "headline": "Hamas leadership run-off expected between Meshaal and al-Hayya",
-    "excerpt": "Israeli assassinations of several key leaders force Hamas to find new head, a process expected to be completed next week",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-07-16T16:42:37.251479+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/hamas-leadership-run-off-expected-between-meshaal-and-al-hayya?traffic_source=rss"
   }
 ]
