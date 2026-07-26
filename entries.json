@@ -1,5 +1,71 @@
 [
   {
+    "id": "79a73cfdf634",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T13:51",
+    "headline": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+    "excerpt": "The head of internal security for Hamas in central Gaza was among the dead.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-07-26T14:18:54.574696+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss"
+  },
+  {
+    "id": "38025d50d7a9",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T13:39",
+    "headline": "Yemen’s health workers race to halt latest outbreak of deadly dengue fever",
+    "excerpt": "Health workers are battling to contain the mosquito-borne disease amid growing concern over rising infections.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-07-26T14:18:54.574741+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss"
+  },
+  {
+    "id": "800b8f1e622a",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T13:34",
+    "headline": "From paradise to ‘pilot zone’ disaster: Returning to destroyed Lebanon home",
+    "excerpt": "Sumaya Yaghi returns to what&#039;s left of her destroyed home in southern Lebanon.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-07-26T14:18:54.574809+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/from-paradise-to-pilot-zone-disaster-returning-to-destroyed-lebanon-home?traffic_source=rss"
+  },
+  {
+    "id": "84eb534f7bb4",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T13:31",
+    "headline": "Why are Israeli settlers on a rampage in the occupied West Bank?",
+    "excerpt": "Settlers torch two mosques in the Palestinian territory as Israeli PM Benjamin Netanyahu threatens &#039;more broad action&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-26T14:18:54.574847+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "e80a916c7af0",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T12:52",
+    "headline": "Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem",
+    "excerpt": "The surge in violence comes after four Palestinians and two soldiers were killed in a gunfight on Friday.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-26T14:18:54.574872+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/26/israeli-crackdown-in-occupied-west-bank-intensifies-settlers-cause-mayhem?traffic_source=rss"
+  },
+  {
+    "id": "e83b7986d855",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T12:34",
+    "headline": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
+    "excerpt": "Syrian President al-Sharaa tells Al Jazeera Damascus seeks a security deal with Israel, and warns of chaos in Lebanon.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-26T14:18:54.574906+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel?traffic_source=rss"
+  },
+  {
     "id": "5f324305c6b9",
     "source": "Al Jazeera",
     "date": "2026-07-26T11:56",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-16T23:39:38.673644+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss"
-  },
-  {
-    "id": "890d1655ca88",
-    "source": "PressTV",
-    "date": "2026-07-16T23:39",
-    "headline": "US launches fresh wave of deadly strikes on Iran, targets bridges, railway, airports",
-    "excerpt": "The attacks occurred while vehicles were crossing the bridges, causing them to be thrown off the structures.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-16T23:39:40.172983+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/16/772406/US-launches-fresh-wave-of-strikes-on-Iran-targets-bridges-railway-airports"
-  },
-  {
-    "id": "520bfaddcca8",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T21:02",
-    "headline": "US mounts sixth straight night of attacks as Iran warns of wider war",
-    "excerpt": "Iranian media reports airport, bridge and communications tower targeted.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-16T21:36:23.253682+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss"
-  },
-  {
-    "id": "5a0fdd5452d0",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T20:40",
-    "headline": "The hardest party to manage in the Iran talks isn’t Iran",
-    "excerpt": "Washington&#039;s spoiler problem sits inside its own alliance, and the spoiler playbook was never written for friends.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-16T21:36:23.253731+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss"
-  },
-  {
-    "id": "311b5e4a3a55",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T20:37",
-    "headline": "Palestinians injured in Israeli settler attacks across West Bank",
-    "excerpt": "More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-16T21:36:23.253762+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "2d60d8d1e7d4",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T20:30",
-    "headline": "Syria says it foiled Hezbollah weapons shipment",
-    "excerpt": "Syrian authorities say they intercepted a shipment of missiles and drones allegedly destined for Hezbollah in Lebanon.",
-    "category": "Missile/Drone",
-    "location": "Lebanon",
-    "addedAt": "2026-07-16T21:36:23.253785+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss"
-  },
-  {
-    "id": "358c700205e0",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T20:21",
-    "headline": "How Syria is redefining ties with Russia",
-    "excerpt": "After Bashar al-Assad&#039;s fall in 2024, Syria cut ties with some former allies but redefined its relationship with Russia.",
-    "category": "Naval",
-    "location": "Syria",
-    "addedAt": "2026-07-16T21:36:23.253812+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/how-syria-is-redefining-ties-with-russia?traffic_source=rss"
   }
 ]
