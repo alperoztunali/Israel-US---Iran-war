@@ -1,5 +1,38 @@
 [
   {
+    "id": "238db81e033c",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T07:12",
+    "headline": "Israeli settlers set fire to mosque in occupied West Bank",
+    "excerpt": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-07-26T07:45:59.011830+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "3b6bf83bac43",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T05:29",
+    "headline": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
+    "excerpt": "Documentary follows children under occupation and the couple who run a holistic primary school as Israel&#039;s war persists.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-26T07:45:59.011877+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "f27053661aeb",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T00:00",
+    "headline": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
+    "excerpt": "Tehran says the Ukranian attack killed at least one sailor and wounded another.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-07-26T07:45:59.011921+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss"
+  },
+  {
     "id": "926f81572450",
     "source": "Al Jazeera",
     "date": "2026-07-26T04:40",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-16T19:20:10.862602+00:00",
     "link": "https://presstv.ir/Detail/2026/07/16/772402/Exclusive--No-evidence-of-Iran-US-prisoner-swap,-denies-release-of-spies"
-  },
-  {
-    "id": "7b30af782ff5",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T17:22",
-    "headline": "US approves nearly $2bn in weapons sale to Saudi Arabia",
-    "excerpt": "The sale intends to bolster Saudi air defence systems as the kingdom risks escalation with the Iran-backed Houthis.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-16T17:54:34.642607+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/us-approves-nearly-2bn-in-weapons-sale-to-saudi-arabia?traffic_source=rss"
-  },
-  {
-    "id": "625f83b86a62",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T16:56",
-    "headline": "Eleven killed in Algeria orphanage fire",
-    "excerpt": "Eleven people were killed and 19 injured after a fire tore through an orphanage in Algiers.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-16T17:54:34.642642+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/eleven-killed-in-algeria-orphanage-fire?traffic_source=rss"
-  },
-  {
-    "id": "7a3fbcae7e87",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T16:27",
-    "headline": "US to impose new 25 percent tariffs on some Brazilian imports",
-    "excerpt": "Beef, coffee, and rare-earth materials escaped US tariffs amid trade tensions with Brazil over alleged unfair practices.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-16T17:54:34.642674+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/16/us-to-impose-new-25-percent-tariffs-on-some-brazilian-imports?traffic_source=rss"
   }
 ]
