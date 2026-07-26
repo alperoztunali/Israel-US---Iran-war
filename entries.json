@@ -1,5 +1,38 @@
 [
   {
+    "id": "a660596449f4",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T14:47",
+    "headline": "Israel carries out double tap strike in central Gaza",
+    "excerpt": "Israel carries out double tap strike in central Gaza",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-26T15:40:54.276178+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss"
+  },
+  {
+    "id": "0be213e75eee",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T14:22",
+    "headline": "Senegal’s Faye launches a new party, formalising his split with Sonko",
+    "excerpt": "Months of tensions between president and ex-ally culminate in split that will reshape Senegal&#039;s political landscape.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-26T15:40:54.276238+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss"
+  },
+  {
+    "id": "b1345e72b318",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T14:04",
+    "headline": "Israel and the cost paradox of the Iran war",
+    "excerpt": "Israel instigated the war on Iran and yet it has borne few of its costs.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-26T15:40:54.276272+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss"
+  },
+  {
     "id": "79a73cfdf634",
     "source": "Al Jazeera",
     "date": "2026-07-26T13:51",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-17T01:12:52.863742+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss"
-  },
-  {
-    "id": "c414fb24aba2",
-    "source": "PressTV",
-    "date": "2026-07-17T01:12",
-    "headline": "Iran Army hits US helicopter, reconnaissance aircraft base in Bahrain",
-    "excerpt": "The Army announced on Friday that the strike was carried out using Arash explosive drones, targeting the Al-Sakhir base in Bahrain.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-17T01:12:54.430986+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/16/772407/Iran-Army-hits-US-helicopter-reconnaissance-aircraft-base-in-Bahrain-"
-  },
-  {
-    "id": "f79ea85e373a",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T23:07",
-    "headline": "Qatar rejects Israeli reports of military action against Iran",
-    "excerpt": "Qatar has rejected Israeli media reports claiming the Qataris agreed to participate in military action against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-16T23:39:38.673591+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss"
-  },
-  {
-    "id": "a7f168e72c29",
-    "source": "Al Jazeera",
-    "date": "2026-07-16T23:05",
-    "headline": "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
-    "excerpt": "PM Keir Starmer&#039;s final honours list also includes campaigners, military leaders and senior civil servants.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-16T23:39:38.673644+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss"
   }
 ]
