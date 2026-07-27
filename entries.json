@@ -1,5 +1,16 @@
 [
   {
+    "id": "68acb00258bf",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T22:34",
+    "headline": "Shot fired outside US consulate in Canada for second time this year",
+    "excerpt": "Police have previously suggested a link between anti-Jewish attacks in the city and shootings at the US consulate.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-27T23:08:02.536022+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss"
+  },
+  {
     "id": "369f51de3d33",
     "source": "Al Jazeera",
     "date": "2026-07-27T21:27",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-17T23:09:31.929516+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss"
-  },
-  {
-    "id": "ef95204eb251",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T22:19",
-    "headline": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
-    "excerpt": "Deal with Chevron aims to rebuild a crude oil pipeline that runs from Iraq&#039;s oil-rich Kirkuk to Syria&#039;s Baniyas.",
-    "category": "Diplomatic",
-    "location": "Syria",
-    "addedAt": "2026-07-17T23:09:31.929562+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss"
   }
 ]
