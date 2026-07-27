@@ -1,5 +1,60 @@
 [
   {
+    "id": "3a0e3c40501d",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T10:59",
+    "headline": "Moment Ukrainian drones strike Russia’s Belgorod",
+    "excerpt": "Dramatic videos captured the moment Ukrainian drones hit Belgorod, a Russian city near the Ukrainian border.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-27T12:29:57.785640+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss"
+  },
+  {
+    "id": "af842be92192",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T10:55",
+    "headline": "Why has the US halted its bombing of Iran?",
+    "excerpt": "Tit-for-tat strikes have halted in the Middle East amid reports of depleted US weapons stocks.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-27T12:29:57.785676+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss"
+  },
+  {
+    "id": "56be70b37167",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T10:41",
+    "headline": "Israeli forces storm multiple West Bank towns, settler violence worsens",
+    "excerpt": "At least 20 West Bank towns and villages have been raided, with homes demolished and dozens of Palestinians arrested.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-07-27T12:29:57.785709+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss"
+  },
+  {
+    "id": "533997122b33",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T09:00",
+    "headline": "Diomande, Real Madrid ‘agree terms’ for transfer of Leipzig winger",
+    "excerpt": "After an impressive campaign at the FIFA World Cup, Yan Diomande will reportedly join world&#039;s richest football club.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-07-27T12:29:57.785753+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss"
+  },
+  {
+    "id": "bacddfa78155",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T08:43",
+    "headline": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
+    "excerpt": "Spanish Prime Minister Pedro Sanchez has thanked Layan Al Quqa, a young artist in Gaza for painting a mural of him",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-27T12:29:57.785784+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss"
+  },
+  {
     "id": "7fae9c1aabeb",
     "source": "Al Jazeera",
     "date": "2026-07-27T08:11",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-17T14:16:53.244999+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss"
-  },
-  {
-    "id": "06c73ffec8c1",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T13:10",
-    "headline": "Ukraine ‘cuts off’ Crimea from Russia, plunging it into an energy crisis",
-    "excerpt": "Ukraine is ramping up short-, medium- and long-range drone production to bring Russia’s war to a standstill.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-17T14:16:53.245024+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis?traffic_source=rss"
-  },
-  {
-    "id": "65d94d4e4c1b",
-    "source": "PressTV",
-    "date": "2026-07-17T14:16",
-    "headline": "IRGC commander vows more ‘effective’, ‘targeted’ attacks until calm restored in Iran",
-    "excerpt": "The chief of Aerospace Force of Iran's Islamic Revolution Guards Corps (IRGC) has vowed that the Islamic Republic will proceed with its “effective” and “targeted” retaliatory attacks until calm is restored across the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-17T14:16:55.642669+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/17/772449/IRGC-commander-vows-effective-attacks-until-calm-restored"
-  },
-  {
-    "id": "8aa65cb90bed",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T12:17",
-    "headline": "US marines board commercial tanker in Gulf of Oman",
-    "excerpt": "US marines board commercial tanker in Gulf of Oman",
-    "category": "Naval",
-    "location": "Oman",
-    "addedAt": "2026-07-17T12:36:51.988857+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-marines-board-commercial-tanker-in-gulf-of-oman?traffic_source=rss"
-  },
-  {
-    "id": "a9cc9285165a",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T11:49",
-    "headline": "‘Yuba’ – My dear father",
-    "excerpt": "My father, Sheikh Hamad bin Khalifa Al Thani, believed leadership meant putting Qatar and its people first.",
-    "category": "Naval",
-    "location": "Qatar",
-    "addedAt": "2026-07-17T12:36:51.988903+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/17/yuba-my-dear-father?traffic_source=rss"
-  },
-  {
-    "id": "2ea0dac00622",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T11:26",
-    "headline": "Why is the US attacking southern Iran’s civilian infrastructure?",
-    "excerpt": "Analysts say the goals range from targeting Iran&#039;s supply lines to curbing its influence in the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-17T12:36:51.988945+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss"
   }
 ]
