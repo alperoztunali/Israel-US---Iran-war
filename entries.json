@@ -1,5 +1,38 @@
 [
   {
+    "id": "4913a4f72410",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T00:48",
+    "headline": "Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya",
+    "excerpt": "UN Secretary-General Antonio Guterres toured the notorious former ‘Assad prison’ in Sednaya.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-27T01:21:49.955823+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss"
+  },
+  {
+    "id": "b203201be267",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T00:00",
+    "headline": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+    "excerpt": "The US has paused its two-week bombing campaign against Iran, prompting Tehran to suspend its retaliatory attacks.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-07-27T01:21:49.955859+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss"
+  },
+  {
+    "id": "51c73c54a2a8",
+    "source": "Al Jazeera",
+    "date": "2026-07-26T23:44",
+    "headline": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
+    "excerpt": "Iran&#039;s supreme leader calls for &#039;absolute, unconditional termination&#039; of Israel&#039;s attacks on Lebanon.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-27T01:21:49.955895+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss"
+  },
+  {
     "id": "56cd0b6c4290",
     "source": "Al Jazeera",
     "date": "2026-07-26T21:10",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-17T11:06:26.886273+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss"
-  },
-  {
-    "id": "fd27ce6667d5",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T09:24",
-    "headline": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
-    "excerpt": "Berlin warns against a &#039;security vacuum&#039; in Lebanon&#039;s south once UNIFIL mandate expires at year&#039;s end.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-07-17T11:06:26.886311+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "4c3777f270ac",
-    "source": "PressTV",
-    "date": "2026-07-17T11:06",
-    "headline": "Operation Nasr: IRGC says reprisal strikes hit US aircraft in Jordan",
-    "excerpt": "The Islamic Revolution Guards Corps said it targeted US fighter jets and aerial refueling aircraft stationed in Jordan in a new wave of retaliatory attacks.",
-    "category": "Airstrike",
-    "location": "Jordan",
-    "addedAt": "2026-07-17T11:06:28.389535+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/17/772430/IRGC-Operation-Nasr-waves-14-15"
-  },
-  {
-    "id": "22e918b098fe",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T08:57",
-    "headline": "US strikes destroy key bridges, tower in southern Iran",
-    "excerpt": "US strikes destroy key bridges, tower in southern Iran",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-17T09:17:00.517823+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss"
   }
 ]
