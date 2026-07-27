@@ -1,5 +1,49 @@
 [
   {
+    "id": "7fae9c1aabeb",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T08:11",
+    "headline": "Netanyahu accuses Mamdani of ‘fomenting hate’ ahead of US visit",
+    "excerpt": "Israeli Prime Minister Benjamin Netanyahu accused mayor Zohran Mamdani of &#039;fomenting hate&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-27T08:55:30.528872+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/netanyahu-accuses-mamdani-of-fomenting-hate-ahead-of-us-visit?traffic_source=rss"
+  },
+  {
+    "id": "a5a19e147cdd",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T08:09",
+    "headline": "The AI military complex: Which are the main companies in it?",
+    "excerpt": "Billions of dollars are flowing into a handful of companies now leading the AI transformation of militaries.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-27T08:55:30.528923+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it?traffic_source=rss"
+  },
+  {
+    "id": "d372ff0e82ec",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T07:20",
+    "headline": "German arms export licences for Israel surge with focus on sub project",
+    "excerpt": "A dramatic rise in export permissions marks the latest twist in Germany&#039;s approach to ally Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-27T08:55:30.528960+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/german-arms-export-licences-for-israel-surge-with-focus-on-sub-project?traffic_source=rss"
+  },
+  {
+    "id": "caecaa59b353",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T06:15",
+    "headline": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
+    "excerpt": "Abbas Araghchi says the Ukrainian attack on the Iranian vessel in the Caspian Sea &#039;cannot go unanswered&#039;.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-27T08:55:30.528986+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss"
+  },
+  {
     "id": "ececaea697de",
     "source": "Al Jazeera",
     "date": "2026-07-27T03:34",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-17T12:36:51.988945+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss"
-  },
-  {
-    "id": "f3b2e3db9b3e",
-    "source": "PressTV",
-    "date": "2026-07-17T12:36",
-    "headline": "Operation Nasr: IRGC says reprisal strikes hit US aircraft in Jordan, Qatar",
-    "excerpt": "The Islamic Revolution Guards Corps said it targeted US fighter jets and aerial refueling aircraft stationed in Jordan and Qatar in new waves of retaliatory attacks.",
-    "category": "Airstrike",
-    "location": "Jordan",
-    "addedAt": "2026-07-17T12:36:53.466971+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/17/772430/IRGC-Operation-Nasr-waves-14-15"
-  },
-  {
-    "id": "2cdacfa774d3",
-    "source": "PressTV",
-    "date": "2026-07-17T12:36",
-    "headline": "Iran restores traffic on major roads within hours after terrorist US strikes",
-    "excerpt": "Iran's Road Maintenance and Transportation Organization said all major road routes across the country remain open and traffic has resumed on damaged sections despite overnight \"savage\" US attacks targeting key transport infrastructure in southern Iran.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-17T12:36:53.467019+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/17/772442/Iran-roads-open-despite-US-attacks"
-  },
-  {
-    "id": "ffb260cef451",
-    "source": "PressTV",
-    "date": "2026-07-17T12:36",
-    "headline": "Report: Iran not to change course, more likely to harden position",
-    "excerpt": "There is \"little sign\" that Washington's strategy of airstrikes and military threats will succeed in forcing Tehran to make concessions, Reuters says, dismissing US President Donald Trump's renewed military escalation against Iran.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-07-17T12:36:53.467036+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/17/772440/Iran-not-to-change-course,-more-likely-to-harden-position--Report--"
-  },
-  {
-    "id": "c5d39d8ec90c",
-    "source": "PressTV",
-    "date": "2026-07-17T12:36",
-    "headline": "Lawmakers warn US will face ‘dark days’ for killing innocent Iranians",
-    "excerpt": "Iran's armed forces will retaliate for the killing of innocent civilians in recent US attacks and those responsible would face severe consequences, warns a senior Iranian lawmaker.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-07-17T12:36:53.467068+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/17/772443/Lawmakers-warn-US-will-face-%E2%80%98dark-days%E2%80%99-for-killing-innocent-Iranians-"
   }
 ]
