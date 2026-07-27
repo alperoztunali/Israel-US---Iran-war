@@ -1,5 +1,104 @@
 [
   {
+    "id": "22b84ffc47df",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T18:40",
+    "headline": "Are the US and Iran heading towards a forever war?",
+    "excerpt": "Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-27T18:57:04.806797+00:00",
+    "link": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss"
+  },
+  {
+    "id": "6e6e6025b033",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T18:28",
+    "headline": "Lebanon’s displaced endure ‘exhaustion and despair’",
+    "excerpt": "UN High Commissioner for Human Rights Volker said that Lebanon&#039;s displaced endure ‘exhaustion and despair’.",
+    "category": "Statement",
+    "location": "Lebanon",
+    "addedAt": "2026-07-27T18:57:04.806849+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss"
+  },
+  {
+    "id": "862cf2c9a560",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T17:58",
+    "headline": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
+    "excerpt": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-27T18:57:04.806886+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss"
+  },
+  {
+    "id": "36c9e7b44d51",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T17:57",
+    "headline": "War on Iran: Phase II: Day 16",
+    "excerpt": "The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-27T18:57:04.806920+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss"
+  },
+  {
+    "id": "c7dbc013b140",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T17:36",
+    "headline": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
+    "excerpt": "Sebastia, a 3,000-year-old site, faces threats as Israel intensifies plans for land seizures and settlement expansions.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-27T18:57:04.806961+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/will-unescos-heritage-listing-halt-israeli-plans-for-west-banks-sebastia?traffic_source=rss"
+  },
+  {
+    "id": "beda8b3902a8",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T16:08",
+    "headline": "Iran: Currently no negotiations with the US",
+    "excerpt": "Iranian Foreign Ministry Spokesperson, Esmaeil Baghaei, said on Monday that Iran is not seeking negotiations with US.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-07-27T18:57:04.806997+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss"
+  },
+  {
+    "id": "0519c02fa66a",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T15:39",
+    "headline": "Israeli raid sparks fire at UN Palestinian refugee centre",
+    "excerpt": "Israeli forces raided a United Nations Relief and Works Agency for Palestine Refugees training centre.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-07-27T18:57:04.807026+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss"
+  },
+  {
+    "id": "7328ff561ef8",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T15:27",
+    "headline": "Mapping Israeli settler violence in the West Bank",
+    "excerpt": "Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-27T18:57:04.807066+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "a29748057aea",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T15:27",
+    "headline": "How Israel uses settler-soldier terror to colonise the West Bank",
+    "excerpt": "Settler attacks are not isolated incidents. They are all part of a strategy to grab land and colonise.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-27T18:57:04.807099+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/27/how-israel-uses-settler-soldier-terror-to-colonise-the-west-bank?traffic_source=rss"
+  },
+  {
     "id": "726a95112444",
     "source": "Al Jazeera",
     "date": "2026-07-27T15:20",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-17T19:48:49.809554+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/17/at-least-three-killed-and-hundreds-displaced-by-heavy-rain-in-chile?traffic_source=rss"
-  },
-  {
-    "id": "8444a18c06b8",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T18:31",
-    "headline": "Germany’s Merz hails nuclear deterrence cooperation with France",
-    "excerpt": "The Franco-German cooperation is not a move to replace NATO’s nuclear umbrella, stresses German Chancellor.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-17T19:48:49.809613+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/17/germanys-merz-hails-nuclear-deterrence-cooperation-with-france?traffic_source=rss"
-  },
-  {
-    "id": "b0c2fc2c86f7",
-    "source": "PressTV",
-    "date": "2026-07-17T19:48",
-    "headline": "Yemen vows to deal severe blow to Saudis if meddling continues",
-    "excerpt": "Yemen's Defense Minister Major General Mohammed Nasser al-Atifi vows to deal a heavy blow to Saudis if they continue to interfere militarily in the country .",
-    "category": "Diplomatic",
-    "location": "Yemen",
-    "addedAt": "2026-07-17T19:48:51.281807+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/17/772465/Saudis-will-be-hit-hard-if-meddling-continues-Yemen"
-  },
-  {
-    "id": "1e7c75a8cd5a",
-    "source": "PressTV",
-    "date": "2026-07-17T19:48",
-    "headline": "Exclusive: No enemy strike hit Bushehr nuclear plant; media claims unfounded",
-    "excerpt": "A thorough Press TV investigation has firmly rejected an Al Jazeera report claiming that recent US strikes damaged Iran’s Bushehr nuclear power plant.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-17T19:48:51.281852+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/17/772469/Exclusive-No-enemy-strike-hit-Bushehr-nuclear-plant-media-claims-unfounded"
-  },
-  {
-    "id": "d91b373a5bca",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T18:28",
-    "headline": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
-    "excerpt": "Germany, stripped of Russian pipeline gas, received Algeria&#039;s president with military honours and talked about LNG.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-17T18:35:11.228365+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss"
-  },
-  {
-    "id": "4dbea21fdedc",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T18:12",
-    "headline": "Can the US and Iran reach a lasting deal to end the conflict?",
-    "excerpt": "Air strikes intensify raising fear of an all-out war.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-17T18:35:11.228398+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss"
-  },
-  {
-    "id": "bd12d44fae48",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T18:02",
-    "headline": "Life after amputation: Gaza women find recovery through football",
-    "excerpt": "Palestinian women in Gaza who have lost limbs during Israel&#039;s genocidal war are using football as a way of recovering.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-17T18:35:11.228435+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss"
-  },
-  {
-    "id": "2dad278236b2",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T16:54",
-    "headline": "Iranian forces: missiles and drones fired at US targets in Gulf States",
-    "excerpt": "Iranian forces: missiles and drones fired at US targets in Gulf States.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-17T17:18:51.098287+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss"
-  },
-  {
-    "id": "2a7fc760a3ef",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T16:37",
-    "headline": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
-    "excerpt": "Landslide has buried homes and forced more than 1,100 people to evacuate.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-17T17:18:51.098334+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/17/eight-killed-at-least-34-missing-after-landslide-in-chinas-chongqing?traffic_source=rss"
-  },
-  {
-    "id": "7a17d7523edd",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T16:26",
-    "headline": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
-    "excerpt": "Nawaz admitted the violation and that the substance had been used in a manner unrelated to sporting performance.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-17T17:18:51.098378+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss"
   }
 ]
