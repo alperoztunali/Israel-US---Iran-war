@@ -1,5 +1,27 @@
 [
   {
+    "id": "ececaea697de",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T03:34",
+    "headline": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
+    "excerpt": "Kyiv says Russian strikes killed six, including a child at a supermarket, as Moscow says Ukrainian strikes killed four.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-27T05:25:36.705929+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss"
+  },
+  {
+    "id": "73302876845d",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T01:40",
+    "headline": "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
+    "excerpt": "Lebanon&#039;s army has accused Israel of bulldozing homes and hindering its efforts to escort residents to &#039;pilot zones&#039;.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-07-27T05:25:36.705977+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanese-return-to-homes-of-rubble-left-by-israel-in-so-called-pilot-zones?traffic_source=rss"
+  },
+  {
     "id": "4913a4f72410",
     "source": "Al Jazeera",
     "date": "2026-07-27T00:48",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-17T12:36:53.467068+00:00",
     "link": "https://presstv.ir/Detail/2026/07/17/772443/Lawmakers-warn-US-will-face-%E2%80%98dark-days%E2%80%99-for-killing-innocent-Iranians-"
-  },
-  {
-    "id": "19355f1dadaa",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T10:10",
-    "headline": "Knesset dissolves: How will Israel vote in October’s general election?",
-    "excerpt": "Knesset dissolves after first full term since 1988, with Israel heading towards crucial elections on October 27, 2026.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-17T11:06:26.886224+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss"
-  },
-  {
-    "id": "8d9c2ed95e71",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T09:42",
-    "headline": "Israel headed for October election as parliament dissolved",
-    "excerpt": "PM Netanyahu’s political survival at stake as Knesset dissolves before the vote.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-17T11:06:26.886273+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss"
   }
 ]
