@@ -1,5 +1,49 @@
 [
   {
+    "id": "369f51de3d33",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T21:27",
+    "headline": "Video shows man subdued after stabbing three women in Paris",
+    "excerpt": "Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-27T21:48:29.062739+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss"
+  },
+  {
+    "id": "885c0dd55f45",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T21:17",
+    "headline": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
+    "excerpt": "UN chief Guterres labels settlements &#039;flagrant violation&#039; of international law amid escalating violence.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-27T21:48:29.062780+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "dce80afd3944",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T21:04",
+    "headline": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+    "excerpt": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-27T21:48:29.062802+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss"
+  },
+  {
+    "id": "e3cd6842e5ef",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T20:32",
+    "headline": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit",
+    "excerpt": "Ruling establishes that countries using spyware on people in the UK can be sued.",
+    "category": "Other",
+    "location": "Bahrain",
+    "addedAt": "2026-07-27T21:48:29.062831+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss"
+  },
+  {
     "id": "90debeec5f3b",
     "source": "Al Jazeera",
     "date": "2026-07-27T20:12",
@@ -5454,49 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-07-17T23:09:31.929562+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss"
-  },
-  {
-    "id": "b54ea575c5f6",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T22:11",
-    "headline": "US launches seventh straight night of strikes on Iran",
-    "excerpt": "The US military says it&#039;s degrading Iran&#039;s military but has been accused by Tehran of targeting civilian infrastructure.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-17T23:09:31.929597+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "8a6f791a3288",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T21:39",
-    "headline": "Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino",
-    "excerpt": "Spanish midfielder says he has &#039;huge confidence&#039; in his abilities after his impressive performances as a substitute.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-17T22:07:10.974917+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss"
-  },
-  {
-    "id": "df522a8d3832",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T21:12",
-    "headline": "ICE agent behind fatal shooting in Maine reportedly had troubled history",
-    "excerpt": "Relatives of David Brouillette, the agent who shot and killed a man in Maine, said he had record of violent behaviour.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-17T22:07:10.974961+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/17/ice-agent-behind-fatal-shooting-in-maine-reportedly-had-troubled-history?traffic_source=rss"
-  },
-  {
-    "id": "bacc88dca1c0",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T20:59",
-    "headline": "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
-    "excerpt": "Thousands of Houthi supporters rallied in Sanaa against what they described as the Saudi-led blockade against Yemen.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-07-17T22:07:10.975003+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/houthi-supporters-rally-in-sanaa-against-saudi-led?traffic_source=rss"
   }
 ]
