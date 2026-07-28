@@ -1,5 +1,38 @@
 [
   {
+    "id": "02103ec25478",
+    "source": "Al Jazeera",
+    "date": "2026-07-28T05:58",
+    "headline": "Palestine weekly: West Bank in flames after Tal killings",
+    "excerpt": "Deadly settler attack outside Nablus sets off days of raids, arson, closures and mass arrests.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-28T06:14:03.516939+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss"
+  },
+  {
+    "id": "fbbdcfe5e4ab",
+    "source": "Al Jazeera",
+    "date": "2026-07-28T04:43",
+    "headline": "Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’",
+    "excerpt": "Settler violence in the occupied West Bank endangers Israel’s future, 550 former officials tell Trump.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-28T06:14:03.516994+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/28/israeli-ex-generals-urge-trump-to-push-netanyahu-on-settler-terror?traffic_source=rss"
+  },
+  {
+    "id": "f85bb8913555",
+    "source": "Al Jazeera",
+    "date": "2026-07-28T00:00",
+    "headline": "Iran war live: Trump says US talking to Tehran, set to meet Netanyahu",
+    "excerpt": "Iran says US &#039;struggling&#039; to end five-month-old war, as Netanyahu arrives in Washington, DC, for talks with Trump.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-07-28T06:14:03.517047+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss"
+  },
+  {
     "id": "9f8b3fe312d6",
     "source": "Al Jazeera",
     "date": "2026-07-28T03:16",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-18T05:52:20.080839+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
-  },
-  {
-    "id": "220a127d5062",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T03:54",
-    "headline": "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos",
-    "excerpt": "The Philippines protests China Daily videos depicting Filipinos as monkeys amid South China Sea tensions.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-18T05:52:20.080889+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/18/manila-protests-racist-portrayal-of-filipinos-in-china-daily-videos?traffic_source=rss"
-  },
-  {
-    "id": "275f4d4707f7",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T03:49",
-    "headline": "At least 14 dead after minibus rolls off mountain road in Peru",
-    "excerpt": "At least 14 people have been killed and five injured after a minibus in the Peruvian Andes lost control on a curve.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-18T05:52:20.080921+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/at-least-14-dead-after-minibus-rolls-off-mountain-road-in-peru?traffic_source=rss"
-  },
-  {
-    "id": "5036ca145f06",
-    "source": "PressTV",
-    "date": "2026-07-18T05:52",
-    "headline": "Iran will defend every inch of its territory against US aggression: Iran FM",
-    "excerpt": "Iran’s foreign minister says the country will defend every inch of its territory and never allow the blood of civilians martyred during US-Israeli aggression to be forgotten.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-18T05:52:22.356877+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/18/772480/FM-Araghchi--Iran-will-defend-every-inch-of-its-territory-against-US-aggressor"
   }
 ]
