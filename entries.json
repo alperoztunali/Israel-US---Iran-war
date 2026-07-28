@@ -1,5 +1,38 @@
 [
   {
+    "id": "875b8fe4d12e",
+    "source": "Al Jazeera",
+    "date": "2026-07-28T13:55",
+    "headline": "Iraqi PM visits Turkiye to boost ties despite complex challenges",
+    "excerpt": "Discussions to focus on &#039;strategic cooperation&#039;, as well as issues related to security, water and the economy.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-07-28T15:36:51.820980+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/7/28/iraqi-pm-visits-turkiye-to-boost-ties-despite-complex-challenges?traffic_source=rss"
+  },
+  {
+    "id": "2d8e09683108",
+    "source": "Al Jazeera",
+    "date": "2026-07-28T13:18",
+    "headline": "Israeli soldier runs marathon around Gaza outpost",
+    "excerpt": "An Israeli soldier filmed himself running a marathon around a military outpost in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-28T15:36:51.821025+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss"
+  },
+  {
+    "id": "2d90e8f4a90e",
+    "source": "Al Jazeera",
+    "date": "2026-07-28T13:06",
+    "headline": "Trump says ‘good chance’ of progress in Iran talks. What we know",
+    "excerpt": "Negotiators are trying to break the deadlock over transit fees and management of the Strait of Hormuz.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-28T15:36:51.821058+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss"
+  },
+  {
     "id": "37b7a4ee5969",
     "source": "Al Jazeera",
     "date": "2026-07-28T13:02",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-18T13:51:12.771060+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/ukrainian-strikes-hit-russian-logistics-center?traffic_source=rss"
-  },
-  {
-    "id": "39f52ed6593f",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T11:50",
-    "headline": "India achieves milestone with launch of first private-sector orbital rocket",
-    "excerpt": "PM Narendra Modi says successful launch will &#039;encourage countless youngsters to dream bigger and innovate fearlessly&#039;.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-18T13:51:12.771081+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/18/india-achieves-milestone-with-launch-of-first-private-sector-orbital-rocket?traffic_source=rss"
-  },
-  {
-    "id": "8161397e0ccc",
-    "source": "PressTV",
-    "date": "2026-07-18T13:51",
-    "headline": "Iran says 50 killed, more than 500 injured in recent US attacks",
-    "excerpt": "Iran's Health Ministry says 50 people were martyred and more than 500 others injured in US attacks across the country between July 6 and July 18.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-18T13:51:14.563073+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/18/772515/Iran--50-killed,-more-than-500-injured-in-recent-US-attacks"
-  },
-  {
-    "id": "69b3c69052ed",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T11:10",
-    "headline": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
-    "excerpt": "Russian officials say strikes on retailer&#039;s warehouses caused civilian casualties; Kyiv says sites used to make drones.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-18T12:05:23.957468+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss"
   }
 ]
