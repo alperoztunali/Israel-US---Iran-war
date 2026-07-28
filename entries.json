@@ -1,5 +1,38 @@
 [
   {
+    "id": "33912d8a5ac6",
+    "source": "Al Jazeera",
+    "date": "2026-07-28T00:00",
+    "headline": "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
+    "excerpt": "US President Donald Trump called Turkiye &#039;a great ally&#039; when asked about selling F-35 fighter jets to Ankara.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-07-28T00:11:41.304077+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss"
+  },
+  {
+    "id": "03226b33dda7",
+    "source": "Al Jazeera",
+    "date": "2026-07-28T00:00",
+    "headline": "Iran war live: Trump touts ‘friendly talks’; Netanyahu arrives in US",
+    "excerpt": "Iran says US is &#039;struggling&#039; to end the five-month old war as Netanyahu arrives in Washington, DC, for talks with Trump.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-28T00:11:41.304128+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss"
+  },
+  {
+    "id": "a7322a19d95a",
+    "source": "Al Jazeera",
+    "date": "2026-07-27T23:07",
+    "headline": "US diplomats walk out as France addresses UN Security Council",
+    "excerpt": "US diplomats walk out of UN meeting during France&#039;s speech amid tensions over human rights chief&#039;s reappointment.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-07-28T00:11:41.304169+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss"
+  },
+  {
     "id": "68acb00258bf",
     "source": "Al Jazeera",
     "date": "2026-07-27T22:34",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-18T03:34:18.670280+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/landslide-in-southwest-china-kills-eight-and-leaves-34-missing?traffic_source=rss"
-  },
-  {
-    "id": "8c295b1dab08",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T00:00",
-    "headline": "Iran war live: US and Iran exchange deadly attacks for 7th night",
-    "excerpt": "Intense fighting between the two sides as US attacks shift further into Iran’s interior.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-18T03:34:18.670307+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss"
-  },
-  {
-    "id": "2fb45b557dec",
-    "source": "PressTV",
-    "date": "2026-07-18T00:10",
-    "headline": "IRGC blocks US-backed illegal transit through Strait of Hormuz",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) Navy blocks four vessels from illegally crossing the Strait of Hormuz with unlawful American support.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-07-18T00:10:47.337489+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/17/772471/Iran-IRGC-blocks-Strait-of-Hormuz-ships-United-States"
-  },
-  {
-    "id": "de7ff52eebba",
-    "source": "Al Jazeera",
-    "date": "2026-07-17T22:54",
-    "headline": "EU urges Israel to halt settlement expansion as settlers attack children",
-    "excerpt": "Pressure is growing within the EU to sanction Israel for its illegal settlements and violence against Palestinians.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-17T23:09:31.929516+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss"
   }
 ]
