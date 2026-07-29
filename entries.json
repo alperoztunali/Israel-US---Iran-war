@@ -1,5 +1,71 @@
 [
   {
+    "id": "f0189cebf2e8",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T02:54",
+    "headline": "Iran missiles target US forces in Jordan after a five-day pause in war",
+    "excerpt": "The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-29T04:32:53.785856+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
+  },
+  {
+    "id": "1c47d07a551a",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T02:45",
+    "headline": "Israel kills Palestinian, destroys mosque in Gaza",
+    "excerpt": "Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-29T04:32:53.785901+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "05235abd8eca",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T01:37",
+    "headline": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+    "excerpt": "Riyadh says its targeted attacks were done in coordination with the US military.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-29T04:32:53.785933+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss"
+  },
+  {
+    "id": "ad00f5210572",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T01:19",
+    "headline": "Media not invited as Trump, Netanyahu hold talks at the White House",
+    "excerpt": "US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-29T04:32:53.785961+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss"
+  },
+  {
+    "id": "ad333c6e1a8a",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T01:07",
+    "headline": "Turkiye takes ‘historic step’ on energy alliance with Iraq",
+    "excerpt": "Ankara could receive 1 million barrels per day of Iraqi oil after Turkish Petroleum stake in BP-run Kirkuk oilfield.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-07-29T04:32:53.785997+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/turkiye-takes-historic-step-on-energy-alliance-with-iraq?traffic_source=rss"
+  },
+  {
+    "id": "2a8667c1527c",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T00:00",
+    "headline": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+    "excerpt": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-07-29T04:32:53.786021+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss"
+  },
+  {
     "id": "b2ada58dff9b",
     "source": "Al Jazeera",
     "date": "2026-07-29T00:00",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-18T21:29:12.618194+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss"
-  },
-  {
-    "id": "a6b6731f370b",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T19:55",
-    "headline": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-    "excerpt": "Palestinians who have endured Israel&#039;s genocidal war are still being targeted.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-18T20:29:54.116464+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss"
-  },
-  {
-    "id": "98c113e930ab",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T19:30",
-    "headline": "Thousands rally in London in support of Gaza, demand new PM take action",
-    "excerpt": "Demonstrators call on Andy Burnham to impose arms embargo on Israel and pressure its government to end genocide.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-18T20:29:54.116503+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/18/thousands-rally-in-london-in-support-of-gaza-demand-new-pm-take-action?traffic_source=rss"
-  },
-  {
-    "id": "036699a10820",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T18:55",
-    "headline": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
-    "excerpt": "Mojtaba Khamenei says Trump&#039;s signature is &#039;worthless&#039; and that &#039;bullying&#039; is a core element of US foreign policy.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-18T19:34:24.933393+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss"
-  },
-  {
-    "id": "63e154894034",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T18:45",
-    "headline": "Israeli attacks on residential areas in Gaza kill eight",
-    "excerpt": "Attacks hit neighbourhoods in Gaza City far beyond the line Israeli forces are meant to hold under the ceasefire.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-18T19:34:24.933435+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss"
-  },
-  {
-    "id": "001b1154bedb",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T18:09",
-    "headline": "Damage visible at Iran bridges and water plant after US attacks",
-    "excerpt": "US strikes damaged bridges and a water desalination plant in Iran after a seventh straight night of attacks.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-18T19:34:24.933471+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss"
-  },
-  {
-    "id": "16a85f7b3100",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T18:04",
-    "headline": "US military says two service members killed in Iranian strike in Jordan",
-    "excerpt": "US and Iran have stepped up attacks in the last week, prompting alarm about return to full-scale war across the region.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-18T19:34:24.933497+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss"
   }
 ]
