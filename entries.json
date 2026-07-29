@@ -1,5 +1,49 @@
 [
   {
+    "id": "1024ff59bfad",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T14:27",
+    "headline": "US and Israeli leaders expected ‘swift outcome’ in Iran",
+    "excerpt": "New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-29T14:57:47.343385+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "fde88b84ca9f",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T14:09",
+    "headline": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
+    "excerpt": "&#039;There is no ceasefire&#039; say Palestinians in Gaza after new Israeli strikes",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-29T14:57:47.343430+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss"
+  },
+  {
+    "id": "c44bd69be54d",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T13:58",
+    "headline": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
+    "excerpt": "Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-29T14:57:47.343489+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss"
+  },
+  {
+    "id": "2f2e9677be22",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T12:27",
+    "headline": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
+    "excerpt": "F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-29T14:57:47.343512+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss"
+  },
+  {
     "id": "0420126d764e",
     "source": "Al Jazeera",
     "date": "2026-07-29T11:34",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-19T09:27:59.214793+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss"
-  },
-  {
-    "id": "ed3fc6921d31",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T07:28",
-    "headline": "Russia launches largest ballistic missile attack on Kyiv since start of war",
-    "excerpt": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-19T09:27:59.214823+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss"
-  },
-  {
-    "id": "09af4d1ca092",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T07:15",
-    "headline": "The number one health issue in Palestine is the Israeli occupation",
-    "excerpt": "In both Gaza and the West Bank, Israeli policies are devastating Palestinian health with deadly consequences.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-19T09:27:59.214851+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss"
-  },
-  {
-    "id": "cb3082002ad7",
-    "source": "PressTV",
-    "date": "2026-07-19T09:28",
-    "headline": "US soldiers should flee region as soon as they can, senior Iranian MP warns",
-    "excerpt": "A senior Iranian lawmaker warns American soldiers not to waste a moment to escape from West Asia as Iran intensifies its retaliatory strikes against enemy targets across the region.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-19T09:28:00.902723+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/19/772560/Iran-US-soldiers-flee-region"
-  },
-  {
-    "id": "d241e472b17b",
-    "source": "PressTV",
-    "date": "2026-07-19T09:28",
-    "headline": "Palestinian youth footballer dies from wounds sustained during Israeli settler raid",
-    "excerpt": "A 17-year-old Palestinian national youth football player has died from wounds sustained after Israeli forces shot him during a settler raid on his village in the occupied West Bank.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-19T09:28:00.902763+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/19/772559/Palestinian-youth-footballer-dies-from-wounds-sustained-after-Israeli-forces-shoot-him-during-settler-raid"
   }
 ]
