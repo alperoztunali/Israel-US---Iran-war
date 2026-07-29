@@ -1,5 +1,60 @@
 [
   {
+    "id": "da5a927b783b",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T05:43",
+    "headline": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+    "excerpt": "Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-29T07:32:01.050000+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
+  },
+  {
+    "id": "a723c78e2d1c",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T05:07",
+    "headline": "Protesters storm hotel, heckle Netanyahu in Washington DC",
+    "excerpt": "Activists protested at a hotel where Israeli Prime Minister Benjamin Netanyahu was having dinner in Washington, DC.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-29T07:32:01.050047+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss"
+  },
+  {
+    "id": "20558a63b919",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T04:47",
+    "headline": "Trump meets Netanyahu for a record seventh White House visit",
+    "excerpt": "Donald Trump and Benjamin Netanyahu met at the White House for the first time since launching the war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-29T07:32:01.050083+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss"
+  },
+  {
+    "id": "7f293a9d6170",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T01:37",
+    "headline": "Iraqi armed groups condemn ‘dangerous escalation’ after US-Saudi strikes",
+    "excerpt": "Riyadh says its targeted attacks were done in coordination with the US military.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-07-29T07:32:01.050131+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss"
+  },
+  {
+    "id": "1e769de42a0f",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T00:00",
+    "headline": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan",
+    "excerpt": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-29T07:32:01.050160+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss"
+  },
+  {
     "id": "f0189cebf2e8",
     "source": "Al Jazeera",
     "date": "2026-07-29T02:54",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-19T01:06:07.155001+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss"
-  },
-  {
-    "id": "382431382288",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T00:00",
-    "headline": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
-    "excerpt": "US president says death of soldiers in Jordan a &#039;sad thing&#039; as US forces attack Iran for the eighth consecutive night.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-19T01:06:07.155039+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss"
-  },
-  {
-    "id": "03a010e7cd17",
-    "source": "PressTV",
-    "date": "2026-07-18T23:30",
-    "headline": "President Pezeshkian: Leader’s message of unity key to safeguarding Iran’s national interests",
-    "excerpt": "Iran’s president describes the recent statement issued by Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei as the country's foremost source of support for protecting national interests.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-18T23:30:15.191135+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/18/772538/Iran-President-Pezeshkian-Leader-message-unity"
-  },
-  {
-    "id": "0b3cc5c2502b",
-    "source": "PressTV",
-    "date": "2026-07-18T22:27",
-    "headline": "Ayatollah Khamenei hails Iraqis for ‘epic’ funeral processions held for martyred Leader",
-    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei expresses appreciation to the people of Iraq for their “epic” reception and funeral processions for the martyred Leader.",
-    "category": "Casualties",
-    "location": "Iraq",
-    "addedAt": "2026-07-18T22:27:08.303141+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/18/772537/Iran-Iraq-Ayatollah-Khamenei-message-martyred-Leader"
-  },
-  {
-    "id": "98a8b25d12a4",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T20:24",
-    "headline": "Palestinian teenage footballer dies a week after Israeli settler attack",
-    "excerpt": "A week after he was shot in his West Bank village, Fadi al-Nassan&#039;s death comes amid a surge in settler violence.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-18T21:29:12.618142+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss"
-  },
-  {
-    "id": "5396ff065bf3",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T20:18",
-    "headline": "Drone video shows scale of major wildfire in northern Spain",
-    "excerpt": "Drone video shows the scale of a major wildfire in northern Spain where more than 150 square kilometres have burned",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-18T21:29:12.618194+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss"
   }
 ]
