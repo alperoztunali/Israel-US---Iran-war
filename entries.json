@@ -1,5 +1,49 @@
 [
   {
+    "id": "0420126d764e",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T11:34",
+    "headline": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+    "excerpt": "The US says it intercepted an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-29T12:30:38.720745+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss"
+  },
+  {
+    "id": "b8b9389ef5ce",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T11:19",
+    "headline": "‘Iran attacks now to send message as US assets build up in Israel’",
+    "excerpt": "‘Iran attacks now to send message as US assets build up in Israel’",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-29T12:30:38.720797+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss"
+  },
+  {
+    "id": "360f783817da",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T10:55",
+    "headline": "Married couple deported by ICE killed in Guatemala",
+    "excerpt": "Nixon Giovanni Paz, deported by ICE last year was bound and shot dead alongside his wife in Guatemala.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-29T12:30:38.720832+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss"
+  },
+  {
+    "id": "7c37b9e78567",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T10:18",
+    "headline": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
+    "excerpt": "Russia&#039;s FSB says Telegram has not pulled content used by Ukrainian intelligence and &#039;terrorist&#039; groups to plan attacks.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-29T12:30:38.720879+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss"
+  },
+  {
     "id": "6ee119fbbadf",
     "source": "Al Jazeera",
     "date": "2026-07-29T09:51",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-19T09:28:00.902763+00:00",
     "link": "https://presstv.ir/Detail/2026/07/19/772559/Palestinian-youth-footballer-dies-from-wounds-sustained-after-Israeli-forces-shoot-him-during-settler-raid"
-  },
-  {
-    "id": "f6a589b651cc",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T05:08",
-    "headline": "US bombs Iran for eighth-straight night",
-    "excerpt": "The US has launched a new wave of strikes on Iran after two American soldiers were killed by Iranian strikes in Jordan.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-19T07:16:36.937910+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss"
-  },
-  {
-    "id": "e3285d6cd9e9",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T04:36",
-    "headline": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
-    "excerpt": "A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-19T07:16:36.937949+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss"
-  },
-  {
-    "id": "b4c792678d6f",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T04:32",
-    "headline": "At least one killed as Russian ballistic missiles hit Kyiv",
-    "excerpt": "Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-19T07:16:36.937983+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss"
-  },
-  {
-    "id": "69f9c8f2080d",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T04:16",
-    "headline": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
-    "excerpt": "Sirik and Hajiabad areas in Iran&#039;s Hormozgan province targeted as US says revenge for killing of two soldiers.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-19T07:16:36.938020+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss"
   }
 ]
