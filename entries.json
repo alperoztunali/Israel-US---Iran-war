@@ -1,5 +1,16 @@
 [
   {
+    "id": "b2ada58dff9b",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T00:00",
+    "headline": "Iran war live: US accuses IRGC of ‘surprise’ ballistic missile attacks",
+    "excerpt": "US claim comes as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-29T01:11:54.662680+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss"
+  },
+  {
     "id": "015d6384b338",
     "source": "Al Jazeera",
     "date": "2026-07-28T23:16",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-18T19:34:24.933497+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss"
-  },
-  {
-    "id": "0ab4922e2445",
-    "source": "Al Jazeera",
-    "date": "2026-07-18T12:59",
-    "headline": "Iran suggests MoU ‘suspended’ as 50 killed in US strikes in July",
-    "excerpt": "Conflict has been escalating since US President Donald Trump declared 10 days ago that peace deal with Iran was over.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-18T19:34:24.933545+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss"
   }
 ]
