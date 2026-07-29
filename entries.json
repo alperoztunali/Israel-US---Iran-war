@@ -1,5 +1,27 @@
 [
   {
+    "id": "b5f39cf2d25c",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T17:16",
+    "headline": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
+    "excerpt": "Construction projects in Yemen are paused as rising fuel prices trigger a domino effect on building material costs.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-29T17:56:56.801062+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss"
+  },
+  {
+    "id": "3a6fe52a708c",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T16:43",
+    "headline": "Is the world at risk of another energy shock?",
+    "excerpt": "Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-07-29T17:56:56.801120+00:00",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss"
+  },
+  {
     "id": "fd9d26a0d9e6",
     "source": "Al Jazeera",
     "date": "2026-07-29T15:43",
@@ -5476,27 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-07-19T10:55:50.635467+00:00",
     "link": "https://presstv.ir/Detail/2026/07/19/772564/Islamic-Resistance-determined-to-expel-US-forces,-companies-from-Iraqi-soil--Nujaba-chief"
-  },
-  {
-    "id": "3387ad9f063c",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T08:49",
-    "headline": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
-    "excerpt": "US strikes target Iran&#039;s IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-07-19T09:27:59.214673+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss"
-  },
-  {
-    "id": "eef4b1fd3bb7",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T08:46",
-    "headline": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
-    "excerpt": "Setting up illegal settlements, erasing cities and obstructing aid serve goal of forcing Palestinians out, analysts say.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-19T09:27:59.214721+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss"
   }
 ]
