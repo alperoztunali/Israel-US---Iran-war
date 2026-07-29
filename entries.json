@@ -1,5 +1,27 @@
 [
   {
+    "id": "a02a1b2c2424",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T21:29",
+    "headline": "Myanmar court sentences activists to 37 years over election protest",
+    "excerpt": "Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-29T22:40:47.220355+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss"
+  },
+  {
+    "id": "9ea7087f9deb",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T21:18",
+    "headline": "Trump threatens Iran strikes after attack on US base in Jordan",
+    "excerpt": "”It’s our turn.” President Donald Trump says the US will hit Iran “very hard” following an attack on US forces in Jordan",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-07-29T22:40:47.220402+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss"
+  },
+  {
     "id": "76f91393f186",
     "source": "Al Jazeera",
     "date": "2026-07-29T20:31",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-19T12:02:12.579599+00:00",
     "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss"
-  },
-  {
-    "id": "711b35b22fcf",
-    "source": "PressTV",
-    "date": "2026-07-19T12:02",
-    "headline": "Iran condemns US attack on Darkhoveyn nuclear power plant construction site",
-    "excerpt": "The AEOI condemns a “terrorist” US attack on the construction site of the Darkhoveyn nuclear power plant, saying the strike violated international law and targeted a peaceful nuclear facility under international safeguards.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-19T12:02:14.131858+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/19/772576/Iran-condemns-US-attack-Darkhoveyn-nuclear-power-plant-construction-site"
-  },
-  {
-    "id": "ac7344393b91",
-    "source": "PressTV",
-    "date": "2026-07-19T12:02",
-    "headline": "Israel carries out new airstrikes on areas in southern Lebanon",
-    "excerpt": "Israeli forces have carried out fresh strikes on areas in southern Lebanon, which injured several people, state media reported.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-07-19T12:02:14.131885+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/19/772572/Israel-continues-to-breach-ceasefire-in-southern-Lebanon,-launches-fresh-attacks"
   }
 ]
