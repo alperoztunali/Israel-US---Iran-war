@@ -1,5 +1,60 @@
 [
   {
+    "id": "75dd4417eb1d",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T00:23",
+    "headline": "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
+    "excerpt": "Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-30T01:04:58.524475+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss"
+  },
+  {
+    "id": "4f6cd6a263a9",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T00:00",
+    "headline": "Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan",
+    "excerpt": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-30T01:04:58.524517+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss"
+  },
+  {
+    "id": "b994c73fddc0",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T23:34",
+    "headline": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+    "excerpt": "Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.",
+    "category": "Naval",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-07-30T01:04:58.524578+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss"
+  },
+  {
+    "id": "cb078c2a0e31",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T23:29",
+    "headline": "Israel slams Canada for statement opposing West Bank settlement expansion",
+    "excerpt": "Canada says that illegal settlements in occupied Palestinian territory undermine &#039;peace, security and stability&#039;.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-07-30T01:04:58.524621+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss"
+  },
+  {
+    "id": "92c4965a3e76",
+    "source": "Al Jazeera",
+    "date": "2026-07-29T23:10",
+    "headline": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
+    "excerpt": "Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-07-30T01:04:58.524659+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss"
+  },
+  {
     "id": "fa75d1ce5c55",
     "source": "Al Jazeera",
     "date": "2026-07-29T23:10",
@@ -5443,60 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-19T15:01:46.563538+00:00",
     "link": "https://presstv.ir/Detail/2026/07/19/772585/US-trying-in-vain-to-reverse-Iran-Strait-of-Hormuz-victory-IRGC-political-deputy"
-  },
-  {
-    "id": "c7d1aaf9b62b",
-    "source": "PressTV",
-    "date": "2026-07-19T15:01",
-    "headline": "Araghchi: Iran’s strikes on US bases 'transformed' regional security structure",
-    "excerpt": "The Iranian foreign minister says Tehran’s retaliatory strikes against US bases in the region fundamentally altered the security structure in the region.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-19T15:01:46.563583+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/19/772586/Iran-US-Araghchi-war"
-  },
-  {
-    "id": "364f26a2150c",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T12:45",
-    "headline": "Why have India’s Gen Z protesters called for a march to parliament?",
-    "excerpt": "After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-07-19T13:54:48.493221+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss"
-  },
-  {
-    "id": "449eaaebd8f2",
-    "source": "PressTV",
-    "date": "2026-07-19T13:54",
-    "headline": "Iran’s Parliament speaker says ‘sacred unity’ key to victory against enemies",
-    "excerpt": "Iranian Parliament Speaker has called for national unity, saying adherence to the Leader’s call for \"sacred unity\" is essential for the country's success in confronting external threats.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-19T13:54:50.300952+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/19/772581/Iran-Parliament-Speaker-Qalibaf-calls-national-unity-key-victory-enemies"
-  },
-  {
-    "id": "8575b1438b25",
-    "source": "PressTV",
-    "date": "2026-07-19T13:54",
-    "headline": "‘Great Satan again showed its true face’: Snippets from Leader’s message on US attacks, epic funeral",
-    "excerpt": "Ayatollah Mojtaba Khamenei in his latest message hailed the unprecedented funeral turnout in Iran and Iraq, condemned repeated US violations of the MoU, warned against further aggression, and urged national unity",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-19T13:54:50.301009+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/19/772554/great-satan-again-showed-true-colors-snippets-leader-message-us-aggression-epic-funeral"
-  },
-  {
-    "id": "ead2304bf8e1",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T11:16",
-    "headline": "Iranians suffer from power blackouts during war and heatwave",
-    "excerpt": "Collapsing grid, battered by military strikes and chronic underinvestment, leaves Iranians sweltering in the dark.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-19T12:02:12.579417+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss"
   }
 ]
