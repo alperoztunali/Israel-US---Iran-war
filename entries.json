@@ -1,5 +1,115 @@
 [
   {
+    "id": "c9ad991a8f4e",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T09:17",
+    "headline": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
+    "excerpt": "US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-30T09:46:00.619235+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss"
+  },
+  {
+    "id": "ff37c9a7c4b1",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T09:10",
+    "headline": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
+    "excerpt": "Russia launches more than 70 missiles and 280 drones in a major attack on Ukraine that kills at least 14 people.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-30T09:46:00.619289+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss"
+  },
+  {
+    "id": "dfbd22cf227a",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T08:24",
+    "headline": "Saudi Arabia confirmed to host Asian Champions League Elite finals",
+    "excerpt": "Saudi Arabia has hosted the last two Asian Champions League Elite finals and has now been confirmed for the next three.",
+    "category": "Statement",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-07-30T09:46:00.619318+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/7/30/saudi-arabia-confirmed-to-host-asian-champions-league-elite-finals?traffic_source=rss"
+  },
+  {
+    "id": "e89d054285b6",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T07:24",
+    "headline": "US strikes cause extensive damage on Iran’s Qeshm Island",
+    "excerpt": "Video from Iran&#039;s Qeshm Island shows widespread damage following US attacks.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-30T09:46:00.619343+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss"
+  },
+  {
+    "id": "3299033b6eea",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T07:13",
+    "headline": "Is Israel repeating the Crusaders’ fatal mistake?",
+    "excerpt": "Deja Vu explores why the Crusader kingdom fell and asks: could Israel be next?",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-30T09:46:00.619367+00:00",
+    "link": "https://www.aljazeera.com/video/deja-vu-2/2026/7/30/is-israel-repeating-the-crusaders-fatal-mistake?traffic_source=rss"
+  },
+  {
+    "id": "b0732630c662",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T07:13",
+    "headline": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
+    "excerpt": "Rights group says India continues to support the Israeli military despite genocide &#039;broadcast worldwide on daily basis&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-30T09:46:00.619399+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss"
+  },
+  {
+    "id": "65f760dfc230",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T07:02",
+    "headline": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
+    "excerpt": "A large anchorage area off the coast of Malaysia is a major marketplace for sanctioned oil.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-07-30T09:46:00.619421+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss"
+  },
+  {
+    "id": "84f533339ab6",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T05:21",
+    "headline": "War and shortages push Gaza hospitals to breaking point",
+    "excerpt": "Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-30T09:46:00.619454+00:00",
+    "link": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss"
+  },
+  {
+    "id": "6c58fa2bd5e4",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T04:55",
+    "headline": "US launches ‘powerful’ strikes on Iran after Jordan attack",
+    "excerpt": "The US has bombed multiple cities across southern Iran in what Central Command described as a ‘heavy wave of strikes’.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-07-30T09:46:00.619471+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss"
+  },
+  {
+    "id": "46828eb068b2",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T03:56",
+    "headline": "US launches ‘heavy wave’ of new strikes on Iran",
+    "excerpt": "Iranian media report that a couple and their two-year-old child were killed in the latest US attacks on Qeshm island.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-07-30T09:46:00.619489+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss"
+  },
+  {
     "id": "b35aa2a3c1c1",
     "source": "Al Jazeera",
     "date": "2026-07-30T03:56",
@@ -5388,115 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-19T20:56:49.017354+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss"
-  },
-  {
-    "id": "b539030848f8",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T20:05",
-    "headline": "The UK gets its seventh prime minister in 10 years",
-    "excerpt": "Incoming PM Andy Burnham will immediately face foreign policy challenges, including the conflicts in Ukraine and Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-19T20:56:49.017398+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss"
-  },
-  {
-    "id": "091624e7b4d0",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T18:54",
-    "headline": "The story behind Gaza’s #TheyLiedToYou campaign",
-    "excerpt": "The story behind Gaza’s #TheyLiedToYou campaign",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-19T19:46:00.560332+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss"
-  },
-  {
-    "id": "8def335a451c",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T18:40",
-    "headline": "Lebanese food influencer sentenced to life for drug smuggling",
-    "excerpt": "Georges Hanna Dib, known as Dr Food, sentenced for smuggling hashish out of Lebanon in cake packaging.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-07-19T19:46:00.560399+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/lebanese-food-influencer-sentenced-to-life-for-drug-smuggling?traffic_source=rss"
-  },
-  {
-    "id": "95ef731b6698",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T18:29",
-    "headline": "‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides",
-    "excerpt": "Decree comes after hardline backers of the Iranian government accused officials of treason for signing an MoU with US.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-19T19:46:00.560448+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/sacred-unity-irans-supreme-leader-calls-for-calm-amid-political-divides?traffic_source=rss"
-  },
-  {
-    "id": "8cb607c81c53",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T18:27",
-    "headline": "At least 50 Malian soldiers killed in attack on military convoy",
-    "excerpt": "At least 50 Malian soldiers were killed after a joint Malian army and Russia&#039;s Africa Corps convoy was ambushed.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-19T19:46:00.560482+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss"
-  },
-  {
-    "id": "f371efc78523",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T18:24",
-    "headline": "Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks",
-    "excerpt": "Aoun is expected to meet Donald Trump on Tuesday, as Beirut seeks US backing to end Israel-Hezbollah fighting.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-19T19:46:00.560518+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/lebanons-president-joseph-aoun-meets-rubio-ahead-of-trump-talks?traffic_source=rss"
-  },
-  {
-    "id": "7bd9459b92ff",
-    "source": "PressTV",
-    "date": "2026-07-19T19:46",
-    "headline": "Yemen’s Ansarullah warns region heading toward explosion",
-    "excerpt": "Ansarullah official says aggression against Iran and the blockade on Yemen is pushing the region toward a major blast.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-19T19:46:01.968975+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/19/772598/Yemen-warning-US-attacks-Iran-Saudi-Arabia"
-  },
-  {
-    "id": "b67425f7acb1",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T17:24",
-    "headline": "Iraqi-born singer Emmanuel Kelly among World Cup half-time show headliners",
-    "excerpt": "Abandoned as a baby and brought up by nuns in Baghdad, Kelly will be preforming alongside global megastars.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-07-19T18:28:56.506649+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/19/iraqi-born-singer-emmanuel-kelly-among-world-cup-half-time-show-headliners?traffic_source=rss"
-  },
-  {
-    "id": "555a6d3b361d",
-    "source": "PressTV",
-    "date": "2026-07-19T18:28",
-    "headline": "Iran air defense downs multiple enemy drones, cruise missile",
-    "excerpt": "The Army's Air Defense Force, operating under the unified national air defense network, shot down an MQ-9 Reaper drone in the western region of the country on Sunday.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-19T18:28:57.921135+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/19/772602/Iran-air-defense-downs-multiple-enemy-drones-cruise-missile"
-  },
-  {
-    "id": "65341a527a11",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T16:43",
-    "headline": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
-    "excerpt": "Government says the shake-up will strengthen security and clear the way for reconstruction.",
-    "category": "Naval",
-    "location": "Syria",
-    "addedAt": "2026-07-19T17:17:46.032420+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss"
   }
 ]
