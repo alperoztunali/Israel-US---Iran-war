@@ -1,5 +1,93 @@
 [
   {
+    "id": "69f531f636d2",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T10:21",
+    "headline": "Israeli raids and settler attacks intensify across the occupied West Bank",
+    "excerpt": "Israeli raids and settler attacks intensify across the occupied West Bank",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-30T11:55:09.145056+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "3ee256d4b0d3",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T10:21",
+    "headline": "Attack on northwest Pakistan police post kills 11 officers",
+    "excerpt": "Fifteen attackers were also killed during the hours-long raid in Pakistan&#039;s northwestern Hangu district.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-07-30T11:55:09.145110+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss"
+  },
+  {
+    "id": "5c16966d00cb",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T10:20",
+    "headline": "Several children killed and wounded in Israeli attacks across Gaza",
+    "excerpt": "Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-30T11:55:09.145140+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
+  },
+  {
+    "id": "8b004472fae6",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T10:18",
+    "headline": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
+    "excerpt": "The alliance aims to defend shipping from attacks by Iran-backed Houthis in Yemen.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-07-30T11:55:09.145167+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss"
+  },
+  {
+    "id": "39b23561aa44",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T10:13",
+    "headline": "Poland says Russian missile breaches NATO airspace",
+    "excerpt": "Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-07-30T11:55:09.145196+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss"
+  },
+  {
+    "id": "cc94170203b5",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T09:49",
+    "headline": "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
+    "excerpt": "Jordan said it intercepted missiles shortly after the US struck Iranian sites including Qeshm and Bushehr.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-07-30T11:55:09.145286+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss"
+  },
+  {
+    "id": "52b72b0bcb33",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T09:43",
+    "headline": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
+    "excerpt": "Families like the Tasabehjis aim to rebuild Syria, fostering community and hope despite economic and social challenges.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-30T11:55:09.145342+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss"
+  },
+  {
+    "id": "22495c266700",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T09:24",
+    "headline": "Apartheid wealth cannot buy silence on Gaza",
+    "excerpt": "South African universities must resist donors who use financial power to impose political obedience.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-30T11:55:09.145406+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss"
+  },
+  {
     "id": "c9ad991a8f4e",
     "source": "Al Jazeera",
     "date": "2026-07-30T09:17",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-20T04:08:42.257143+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss"
-  },
-  {
-    "id": "8ea93e5f5796",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T00:00",
-    "headline": "Iran war live: US military completes ninth night of strikes on Iran",
-    "excerpt": "US forces attack Iran for ninth consecutive night as one US soldier killed in northern Iraq.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-20T04:08:42.257169+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "db556881b830",
-    "source": "PressTV",
-    "date": "2026-07-20T04:08",
-    "headline": "IRGC: Two US-coerced deviant tankers explode in unsafe Strait of Hormuz route",
-    "excerpt": "The IRGC has announced in a statement that two deviant oil tankers exploded late last night after attempting to enter and exit via the unsafe and accident-prone southern route of the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-07-20T04:08:43.714202+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/20/772613/IRGC--Two-US-coerced-deviant-tankers-explode-in-unsafe-Strait-of-Hormuz-route"
-  },
-  {
-    "id": "8555edf63e25",
-    "source": "PressTV",
-    "date": "2026-07-20T04:08",
-    "headline": "Hamas hails Spain’s World Cup triumph as moral victory against Israel",
-    "excerpt": "A senior Hamas official has warmly congratulated Spain on its hard-fought victory in the 2026 FIFA World Cup final.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-20T04:08:43.714253+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/20/772611/Hamas-official-hails-Spain%E2%80%99s-World-Cup-triumph-as-moral-victory-against-Zionist-entity"
-  },
-  {
-    "id": "59c36bb481bc",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T00:00",
-    "headline": "Iran war live: US military carries out another wave of strikes on Iran",
-    "excerpt": "The US military launches 9th consecutive night of strikes on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-20T00:13:20.385244+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "86ceb4553a4b",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T23:49",
-    "headline": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
-    "excerpt": "The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-20T00:13:20.385289+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss"
-  },
-  {
-    "id": "6f971605d73a",
-    "source": "PressTV",
-    "date": "2026-07-20T00:13",
-    "headline": "IRGC delivers decisive blow to US special operations hub in Syria",
-    "excerpt": "The IRGC has announced a surprise retaliatory strike on the US special operations command center in the Al-Tanf region of Syria.",
-    "category": "Statement",
-    "location": "Syria",
-    "addedAt": "2026-07-20T00:13:22.352019+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/19/772609/IRGC-delivers-decisive-blow-to-US-special-operations-hub-in-Syria-in-retaliation-for-blood-of-Iranshahr-martyrs"
-  },
-  {
-    "id": "3e2f4c9540b0",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T20:55",
-    "headline": "Israeli ministers join march to Gaza to demand return of settlements",
-    "excerpt": "Hundreds gather near the border as coalition figures push to rebuild communities evacuated in 2005.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-19T21:59:51.746279+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss"
-  },
-  {
-    "id": "3a6006522c35",
-    "source": "Al Jazeera",
-    "date": "2026-07-19T20:11",
-    "headline": "Twin earthquakes strike Peru killing at least five",
-    "excerpt": "Peruvian authorities say the magnitude 5.1 and 3.7 quakes were in the mountainous Junin region east of Lima.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-19T20:56:49.017354+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss"
   }
 ]
