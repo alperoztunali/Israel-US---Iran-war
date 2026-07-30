@@ -1,5 +1,27 @@
 [
   {
+    "id": "fb1b1c8be610",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T11:34",
+    "headline": "How does a safe zone in Lebanon become a target three times?",
+    "excerpt": "Three times in three decades, Qana&#039;s shelters were bombed. AJLabs tracks a village the Israeli military keeps hitting.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-07-30T14:14:43.040646+00:00",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss"
+  },
+  {
+    "id": "426cffe90d17",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T11:32",
+    "headline": "Israeli strikes kill at least four, including children, across Gaza Strip",
+    "excerpt": "Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-07-30T14:14:43.040686+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss"
+  },
+  {
     "id": "69f531f636d2",
     "source": "Al Jazeera",
     "date": "2026-07-30T10:21",
@@ -5476,27 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-07-20T04:08:42.257082+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss"
-  },
-  {
-    "id": "0ee77b295d37",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T02:11",
-    "headline": "US service member killed during detonation of Iranian drone in Iraq",
-    "excerpt": "A US soldier has been killed in northern Iraq during a controlled detonation of an Iranian downed drone.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-20T04:08:42.257118+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_us-soldier-killed-detonation-of-iranian-drone-iraq-190726?traffic_source=rss"
-  },
-  {
-    "id": "0088a0dacc02",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T01:48",
-    "headline": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
-    "excerpt": "Iranian media report blasts in cities in the far north and far south, including Tabriz and Chabahar.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-20T04:08:42.257143+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss"
   }
 ]
