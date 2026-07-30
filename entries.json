@@ -1,5 +1,38 @@
 [
   {
+    "id": "78daba29495a",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T16:34",
+    "headline": "‘To play God’: Cuba’s healthcare system collapses under US pressure",
+    "excerpt": "As the Trump administration tightens US sanctions, Cuba&#039;s healthcare sector struggles with fuel and supply shortages.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-07-30T17:50:16.859379+00:00",
+    "link": "https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss"
+  },
+  {
+    "id": "8936730f73b6",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T16:28",
+    "headline": "NATO jets scramble as Russian missile detonates in Poland",
+    "excerpt": "The growing series of NATO airspace violations is raising concern that Russia&#039;s war on Ukraine could escalate.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-07-30T17:50:16.859420+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss"
+  },
+  {
+    "id": "57d3d4934840",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T16:06",
+    "headline": "IRGC video of retaliatory strikes on US targets in Jordan",
+    "excerpt": "The IRGC released a video of what they say were missiles launched by their naval forces targeting US aircraft in Jordan.",
+    "category": "Missile/Drone",
+    "location": "Jordan",
+    "addedAt": "2026-07-30T17:50:16.859445+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/irgc-video-of-retaliatory-strikes-on-us-targets-in-jordan?traffic_source=rss"
+  },
+  {
     "id": "451fdb9c3739",
     "source": "Al Jazeera",
     "date": "2026-07-30T15:08",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-20T07:31:23.428515+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "1fdc23e77533",
-    "source": "PressTV",
-    "date": "2026-07-20T07:31",
-    "headline": "Iran congratulates Spain on 2026 FIFA World Cup victory",
-    "excerpt": "Iran congratulates Spain on winning the 2026 FIFA World Cup.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-20T07:31:25.054581+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/20/772626/Iran-Spain-embassy-FIFA-"
-  },
-  {
-    "id": "317e70a8a9f7",
-    "source": "PressTV",
-    "date": "2026-07-20T07:31",
-    "headline": "IRGC conducts high-fatality, destructive strikes on regional US targets",
-    "excerpt": "The IRGC announces carrying out high-fatality and widely destructive retaliatory strikes against strategic American targets in the region.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-20T07:31:25.054624+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/20/772618/Iran-IRGC-strikes-United-States-Jordan-Kuwait-ballistic-missiles"
-  },
-  {
-    "id": "ca00a16b6b21",
-    "source": "PressTV",
-    "date": "2026-07-20T07:31",
-    "headline": "IRGC air defense downs MQ-9 drone over western Iran",
-    "excerpt": "The Islamic Revolution Guards Corps (IRGC) announces that its air defense forces have shot down an MQ-9 drone over the skies of Eslamabad-e Gharb in western Iran.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-20T07:31:25.054643+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/20/772620/IRGC-air-defense-downs-MQ-9-drone-over-western-Iran"
   }
 ]
