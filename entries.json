@@ -1,5 +1,16 @@
 [
   {
+    "id": "59abf69a78c1",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T22:34",
+    "headline": "Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza",
+    "excerpt": "This is a breaking news story.",
+    "category": "Diplomatic",
+    "location": "Gaza",
+    "addedAt": "2026-07-30T23:18:46.365839+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss"
+  },
+  {
     "id": "78c3139b1e76",
     "source": "Al Jazeera",
     "date": "2026-07-30T21:00",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-20T10:31:03.462438+00:00",
     "link": "https://presstv.ir/Detail/2026/07/20/772625/Iran-United-States-citizen-martyred-East-West-Azerbaijan"
-  },
-  {
-    "id": "043eb3fa36a6",
-    "source": "PressTV",
-    "date": "2026-07-20T10:31",
-    "headline": "Friday prayer leader assassinated in terrorist attack in southeast Iran",
-    "excerpt": "A Friday prayer leader in Iran’s southeastern border county of Mirjaveh was assassinated by unidentified armed assailants early Monday.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-20T10:31:03.462473+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/20/772628/Friday-prayer-leader-killed-terrorist-attack-southeast-Iran"
   }
 ]
