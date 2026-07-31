@@ -1,5 +1,38 @@
 [
   {
+    "id": "52e549341d54",
+    "source": "Al Jazeera",
+    "date": "2026-07-31T00:08",
+    "headline": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
+    "excerpt": "As US-Iran clashes escalate, former US Ambassador to UAE Barbara Leaf warns escalation is ‘fairly pointless’.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-31T01:06:17.926771+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss"
+  },
+  {
+    "id": "cbf5f84f84e0",
+    "source": "Al Jazeera",
+    "date": "2026-07-31T00:03",
+    "headline": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
+    "excerpt": "Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-07-31T01:06:17.926824+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
+  },
+  {
+    "id": "a8fd7cdbaaa9",
+    "source": "Al Jazeera",
+    "date": "2026-07-30T23:51",
+    "headline": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
+    "excerpt": "US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-31T01:06:17.926857+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss"
+  },
+  {
     "id": "59abf69a78c1",
     "source": "Al Jazeera",
     "date": "2026-07-30T22:34",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-20T10:31:01.671049+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest?traffic_source=rss"
-  },
-  {
-    "id": "6d51a3abb970",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T07:32",
-    "headline": "Singapore minister resigns over ‘interactions with a woman’, PM says",
-    "excerpt": "The People&#039;s Action Party, which prides itself on ​a clean reputation, has been rocked by a series of scandals recently.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-07-20T10:31:01.671103+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss"
-  },
-  {
-    "id": "246fcf3ec49f",
-    "source": "PressTV",
-    "date": "2026-07-20T10:31",
-    "headline": "Iran confirms receiving de-escalation proposals, vows efforts will continue to halt US crimes",
-    "excerpt": "Iran says it has received proposals from certain mediators aimed at preventing further escalation of tensions with the United States.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-20T10:31:03.462401+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/20/772641/Iran-US-Baghaei-proposals"
-  },
-  {
-    "id": "5768620578e1",
-    "source": "PressTV",
-    "date": "2026-07-20T10:31",
-    "headline": "One killed, several injured in fresh US attacks on northwestern Iran",
-    "excerpt": "One Iranian citizen is martyred and several others are injured after the United States carries out fresh unprovoked attacks targeting areas in the country’s northwest.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-20T10:31:03.462438+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/20/772625/Iran-United-States-citizen-martyred-East-West-Azerbaijan"
   }
 ]
