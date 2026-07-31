@@ -1,5 +1,38 @@
 [
   {
+    "id": "c1116dcf6adb",
+    "source": "Al Jazeera",
+    "date": "2026-07-31T18:11",
+    "headline": "Syrian lawyer takes on ex-Assad official in landmark trial",
+    "excerpt": "Syrian lawyer takes on ex-Assad official in landmark trial",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-07-31T18:26:10.108035+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss"
+  },
+  {
+    "id": "7a160cb2bdc7",
+    "source": "Al Jazeera",
+    "date": "2026-07-31T18:02",
+    "headline": "Why is Israel arming illegal settlers?",
+    "excerpt": "As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-07-31T18:26:10.108081+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss"
+  },
+  {
+    "id": "9baa12945843",
+    "source": "Al Jazeera",
+    "date": "2026-07-31T17:06",
+    "headline": "Western allies warn North Korean IT workers funding nuclear arsenal",
+    "excerpt": "Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-07-31T18:26:10.108121+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss"
+  },
+  {
     "id": "ef697dcb4795",
     "source": "Al Jazeera",
     "date": "2026-07-31T16:35",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-20T18:56:23.517198+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss"
-  },
-  {
-    "id": "d973a27b2d67",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T16:17",
-    "headline": "At least 25 killed as floods and landslides hit northern India",
-    "excerpt": "Monsoon rains devastate communities, with rescue and relief operations intensifying and the death toll rising.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-20T16:46:47.775260+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/20/at-least-25-killed-as-floods-and-landslides-hit-northern-india?traffic_source=rss"
-  },
-  {
-    "id": "1b0f06856520",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T16:13",
-    "headline": "Lebanon’s military starts ‘pilot zone’ takeover in south",
-    "excerpt": "Implementation of the trilateral framework agreement between Israel, Lebanon and the US is to start in three villages.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-20T16:46:47.775312+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/20/lebanons-military-starts-pilot-zone-takeover-in-south?traffic_source=rss"
-  },
-  {
-    "id": "9f86fe500ea9",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T16:12",
-    "headline": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
-    "excerpt": "An Iranian army spokesman asserts the war will continue until deterrence against further attacks has been achieved.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-20T16:46:47.775371+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss"
   }
 ]
