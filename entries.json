@@ -1,5 +1,49 @@
 [
   {
+    "id": "9126c9ccb931",
+    "source": "Al Jazeera",
+    "date": "2026-07-31T11:41",
+    "headline": "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
+    "excerpt": "Russian paramilitaries fight alongside Malian soldiers battling multiple armed groups linked to al-Qaeda and ISIL.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-07-31T12:28:21.260763+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/31/russias-africa-corps-killed-mali-civilians-in-air-strike-hrw?traffic_source=rss"
+  },
+  {
+    "id": "6b16a48db4db",
+    "source": "Al Jazeera",
+    "date": "2026-07-31T11:23",
+    "headline": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+    "excerpt": "Under the agreement, Israel would have to withdraw from Gaza. But experts remain sceptical.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-07-31T12:28:21.260806+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss"
+  },
+  {
+    "id": "32950057f1d8",
+    "source": "Al Jazeera",
+    "date": "2026-07-31T10:47",
+    "headline": "Palestinians in Gaza are sceptical about the latest peace plan",
+    "excerpt": "Palestinians in Gaza are sceptical of the latest peace plan, questioning whether it will bring lasting change.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-07-31T12:28:21.260838+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss"
+  },
+  {
+    "id": "f9c9096998e8",
+    "source": "Al Jazeera",
+    "date": "2026-07-31T09:33",
+    "headline": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
+    "excerpt": "Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-07-31T12:28:21.260866+00:00",
+    "link": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss"
+  },
+  {
     "id": "bc084a02dd9b",
     "source": "Al Jazeera",
     "date": "2026-07-31T09:33",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-20T15:15:06.642629+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss"
-  },
-  {
-    "id": "0a8ff838aef5",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T13:56",
-    "headline": "Petro to give farewell speech amid Colombia transfer-of-power tensions",
-    "excerpt": "The outgoing president has called for protests as he continues to dispute the results of last month&#039;s election.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-07-20T15:15:06.642670+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/20/petro-to-give-farewell-speech-amid-colombia-transfer-of-power-tensions?traffic_source=rss"
-  },
-  {
-    "id": "2d02d9f69d46",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T13:29",
-    "headline": "Israeli ministers and settlers call for return to Gaza settlements",
-    "excerpt": "‘Gaza is ours.’",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-20T15:15:06.642734+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss"
-  },
-  {
-    "id": "63dad744bb00",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T13:21",
-    "headline": "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
-    "excerpt": "Thousands gathered across Gaza to watch the World Cup final, with many backing Spain over its support for Palestinians.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-20T15:15:06.642772+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/why-palestinians-in-gaza-are-celebrating-spains-world-cup-win?traffic_source=rss"
-  },
-  {
-    "id": "7f9b9854dbae",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T13:06",
-    "headline": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
-    "excerpt": "We explain how the war has changed for all the parties since their MoU unravelled and as the conflict has escalated.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-20T15:15:06.642814+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss"
   }
 ]
