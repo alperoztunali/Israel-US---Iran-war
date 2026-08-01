@@ -1,5 +1,27 @@
 [
   {
+    "id": "c149ac3c92cb",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T16:43",
+    "headline": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
+    "excerpt": "The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.",
+    "category": "Diplomatic",
+    "location": "Iraq",
+    "addedAt": "2026-08-01T17:26:53.653404+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss"
+  },
+  {
+    "id": "29e5e96b5cfb",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T16:07",
+    "headline": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
+    "excerpt": "Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-08-01T17:26:53.653452+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss"
+  },
+  {
     "id": "03fb67d43fcc",
     "source": "Al Jazeera",
     "date": "2026-08-01T15:48",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-21T10:03:45.880625+00:00",
     "link": "https://presstv.ir/Detail/2026/07/21/772694/Iran-Navy-United-States-legal-action-attack-frigate-Dena"
-  },
-  {
-    "id": "68c92a0bf411",
-    "source": "PressTV",
-    "date": "2026-07-21T10:03",
-    "headline": "Yemen warns Saudi Arabia of ‘dire consequences’ if aggression, blockade persist",
-    "excerpt": "Yemen’s Foreign Ministry has warned Saudi Arabia of “adverse and serious consequences” if it seeks to foment tensions, and escalates attacks and blockade against the Arab nation.",
-    "category": "Statement",
-    "location": "Yemen",
-    "addedAt": "2026-07-21T10:03:45.880680+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/21/772691/Yemen-warns-Saudi-Arabia-of-%E2%80%98serious-consequences%E2%80%99-if-aggression,-blockade-persist"
-  },
-  {
-    "id": "dbf52833183a",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T06:26",
-    "headline": "‘Critic to Israel’: Document reveals how Israel scrutinised global NGOs",
-    "excerpt": "An internal government file obtained by Al Jazeera shows how Israel collected data on groups it suspected supported BDS.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-21T07:21:28.055777+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos?traffic_source=rss"
   }
 ]
