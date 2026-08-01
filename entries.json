@@ -1,5 +1,27 @@
 [
   {
+    "id": "00bcbd025f8d",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T18:51",
+    "headline": "Palestinian children among those detained in Israeli West Bank raids",
+    "excerpt": "Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-01T19:57:05.603670+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss"
+  },
+  {
+    "id": "6282cf7fcde7",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T18:22",
+    "headline": "At least three killed in explosion near cafe in Russia’s Moscow",
+    "excerpt": "⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-01T19:57:05.603720+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss"
+  },
+  {
     "id": "4b17637b8596",
     "source": "Al Jazeera",
     "date": "2026-08-01T17:57",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-21T10:03:43.597887+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israeli-forces-open-fire-on-children-in-syrian-village?traffic_source=rss"
-  },
-  {
-    "id": "0dd5d471e1a1",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T07:55",
-    "headline": "Five Palestinians killed in fire after Israeli attack in Gaza",
-    "excerpt": "An Israeli air attack on an apartment in Gaza City set the building on fire, killing five people.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-21T10:03:43.597906+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "736f125958ec",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T06:26",
-    "headline": "‘Active in BDS’: Document reveals how Israel scrutinised global NGOs",
-    "excerpt": "An internal government file obtained by Al Jazeera shows how Israel collected data on groups it suspected supported BDS.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-21T10:03:43.597935+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos?traffic_source=rss"
   }
 ]
