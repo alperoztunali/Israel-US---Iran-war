@@ -1,5 +1,27 @@
 [
   {
+    "id": "219df6c0f323",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T22:34",
+    "headline": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
+    "excerpt": "No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-08-01T23:13:36.227508+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss"
+  },
+  {
+    "id": "2b0b1755b26a",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T22:31",
+    "headline": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
+    "excerpt": "Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-01T23:13:36.227555+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss"
+  },
+  {
     "id": "bc0298c7b63b",
     "source": "Al Jazeera",
     "date": "2026-08-01T21:42",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-21T14:24:25.910365+00:00",
     "link": "https://presstv.ir/Detail/2026/07/21/772713/Hezbollah-Hamas-Palestine-Lebanon-"
-  },
-  {
-    "id": "7163c93e48aa",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T11:24",
-    "headline": "Hamas’s new leader must bridge a movement divided over Iran",
-    "excerpt": "After a one-vote victory, Khalil al-Hayya must reconcile rival currents while preserving Hamas’s independence.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-21T12:01:31.883431+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/21/hamass-new-leader-must-bridge-a-movement-divided-over-iran?traffic_source=rss"
-  },
-  {
-    "id": "f4c3483e51e7",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T11:10",
-    "headline": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
-    "excerpt": "Aoun is in Washington, DC seeking US backing to end the fighting and secure an Israeli withdrawal from southern Lebanon.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-21T12:01:31.883477+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss"
   }
 ]
