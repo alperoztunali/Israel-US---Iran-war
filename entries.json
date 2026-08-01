@@ -1,5 +1,49 @@
 [
   {
+    "id": "3690e755107f",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T03:33",
+    "headline": "Yemen’s Houthis deny plan to charge ships transiting Red Sea",
+    "excerpt": "Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees.",
+    "category": "Naval",
+    "location": "Yemen",
+    "addedAt": "2026-08-01T04:54:57.734423+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss"
+  },
+  {
+    "id": "0b8a41a3b4e4",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T03:21",
+    "headline": "Is Israel really ready to withdraw from Gaza?",
+    "excerpt": "Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel&#039;s potential withdrawal from the enclave.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-01T04:54:57.734467+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss"
+  },
+  {
+    "id": "ca972bd5ada9",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T02:06",
+    "headline": "Russian missile attack kills three in Ukraine’s Kyiv",
+    "excerpt": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-01T04:54:57.734504+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss"
+  },
+  {
+    "id": "e66d8d75e917",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T01:55",
+    "headline": "US military says F-35B jet fighter crashes in California, pilot safe",
+    "excerpt": "The jet went down on Friday near the Miramar airbase in San Diego.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-08-01T04:54:57.734532+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss"
+  },
+  {
     "id": "e86eceb92df2",
     "source": "Al Jazeera",
     "date": "2026-08-01T00:48",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-21T01:11:27.555510+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/20/msf-demands-israel-release-detained-palestinian-healthcare-workers?traffic_source=rss"
-  },
-  {
-    "id": "7a3166249a99",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T23:21",
-    "headline": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
-    "excerpt": "Police say a possible political motive is under investigation in the killing of the Reform UK figure.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-20T23:41:43.225692+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss"
-  },
-  {
-    "id": "554f2f807304",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T22:26",
-    "headline": "War on Iran: War resumes 30 days after MoU",
-    "excerpt": "30 days into the US-Iran MoU the worst fighting in months has erupted threatening to unravel the ceasefire.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-20T22:41:09.944412+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss"
-  },
-  {
-    "id": "f69eedc21c7b",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T21:06",
-    "headline": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
-    "excerpt": "US president insists Netanyahu will not be arrested, despite ICC warrant.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-20T21:45:07.326049+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss"
-  },
-  {
-    "id": "c162d808ae3f",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T20:53",
-    "headline": "Gaza residents weigh in on election of new Hamas leader",
-    "excerpt": "Gaza residents weigh in on election of new Hamas leader",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-20T21:45:07.326123+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss"
   }
 ]
