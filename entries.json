@@ -1,5 +1,27 @@
 [
   {
+    "id": "ba440644dec0",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T12:44",
+    "headline": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
+    "excerpt": "Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-01T13:59:36.066581+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss"
+  },
+  {
+    "id": "2692165d2564",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T12:40",
+    "headline": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+    "excerpt": "Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-01T13:59:36.066627+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss"
+  },
+  {
     "id": "68a3141c8c54",
     "source": "Al Jazeera",
     "date": "2026-08-01T11:21",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-21T07:21:29.638733+00:00",
     "link": "https://presstv.ir/Detail/2026/07/21/772682/Quds-Force-commander--Israel-s-crimes-made--Islamic-resistance-stronger-than-ever-"
-  },
-  {
-    "id": "c0591dbf2920",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T03:29",
-    "headline": "Lebanese return to ‘pilot zone’ villages they say Israel never occupied",
-    "excerpt": "Under a US-brokered plan, Israel is to hand over control of some areas it occupies in Lebanon to Lebanese government.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-21T04:33:46.312091+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss"
-  },
-  {
-    "id": "fba25ff8c641",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T03:15",
-    "headline": "US military releases footage of tenth consecutive night of strikes on Iran",
-    "excerpt": "US Central Command (CENTCOM) released footage of its forces launching the latest round of strikes against Iran.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-07-21T04:33:46.312137+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss"
   }
 ]
