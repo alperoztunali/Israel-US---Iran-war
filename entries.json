@@ -1,5 +1,38 @@
 [
   {
+    "id": "e86eceb92df2",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T00:48",
+    "headline": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+    "excerpt": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-01T01:18:40.996511+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss"
+  },
+  {
+    "id": "9b5dadcc4f3d",
+    "source": "Al Jazeera",
+    "date": "2026-07-31T23:59",
+    "headline": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
+    "excerpt": "An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-01T01:18:40.996566+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss"
+  },
+  {
+    "id": "cd9946c5a78b",
+    "source": "Al Jazeera",
+    "date": "2026-07-31T23:30",
+    "headline": "Analyst: the US faces a strategic ‘dead end’ in Iran",
+    "excerpt": "Washington has reached a strategic impasse with Iran, says a former analyst for the US Congress.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-08-01T01:18:40.996596+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss"
+  },
+  {
     "id": "da5f93025bd4",
     "source": "Al Jazeera",
     "date": "2026-07-31T22:12",
@@ -5465,38 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-07-20T21:45:07.326123+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss"
-  },
-  {
-    "id": "96beb7455cb1",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T20:50",
-    "headline": "How will Zelenskyy handle the growing political crisis at home?",
-    "excerpt": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-20T21:45:07.326178+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss"
-  },
-  {
-    "id": "2355171f7213",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T20:21",
-    "headline": "Indian police attack Cockroach Janta Party’s parliament march",
-    "excerpt": "Police used batons to disperse protesters as thousands of people joined the Cockroach Janta Party&#039;s march in New Delhi.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-20T21:45:07.326256+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss"
-  },
-  {
-    "id": "f79ea26652b7",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T20:02",
-    "headline": "Iran condemns US attacks on civilian infrastructure",
-    "excerpt": "Iran says it has received mediation proposals from multiple parties and insists diplomatic efforts remain active.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-20T20:25:52.331831+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss"
   }
 ]
