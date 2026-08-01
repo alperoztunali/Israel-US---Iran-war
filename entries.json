@@ -1,5 +1,16 @@
 [
   {
+    "id": "8d3d1f57ee77",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T02:06",
+    "headline": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
+    "excerpt": "Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-01T07:30:14.729068+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss"
+  },
+  {
     "id": "3690e755107f",
     "source": "Al Jazeera",
     "date": "2026-08-01T03:33",
@@ -5487,16 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-21T01:11:27.555475+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss"
-  },
-  {
-    "id": "158b4efd09cb",
-    "source": "Al Jazeera",
-    "date": "2026-07-20T23:41",
-    "headline": "MSF demands Israel release detained Palestinian healthcare workers",
-    "excerpt": "The NGO is &#039;outraged&#039; by Israel&#039;s treatment of the health professionals and warns that &#039;silence has become complicity&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-21T01:11:27.555510+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/20/msf-demands-israel-release-detained-palestinian-healthcare-workers?traffic_source=rss"
   }
 ]
