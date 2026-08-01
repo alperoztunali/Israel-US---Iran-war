@@ -1,5 +1,38 @@
 [
   {
+    "id": "04a61d982345",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T10:38",
+    "headline": "Omani legend, US novice: Pakistan recovers bodies from Broad Peak",
+    "excerpt": "Rescuers are still looking for other missing climbers swept away in an avalanche on the world&#039;s 12th largest peak.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-08-01T11:06:25.207229+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss"
+  },
+  {
+    "id": "0d21ae39fd73",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T10:30",
+    "headline": "Iran: The Making of a War",
+    "excerpt": "From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-01T11:06:25.207282+00:00",
+    "link": "https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss"
+  },
+  {
+    "id": "46534e77cd55",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T09:47",
+    "headline": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
+    "excerpt": "Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-01T11:06:25.207318+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss"
+  },
+  {
     "id": "db7b4992beee",
     "source": "Al Jazeera",
     "date": "2026-07-31T23:59",
@@ -5465,38 +5498,5 @@
     "location": "Red Sea",
     "addedAt": "2026-07-21T04:33:46.312175+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss"
-  },
-  {
-    "id": "4086c4b8df7e",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T00:00",
-    "headline": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
-    "excerpt": "Explosions reported in Iran&#039;s Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-07-21T04:33:46.312212+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss"
-  },
-  {
-    "id": "c2c222efda30",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T00:08",
-    "headline": "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
-    "excerpt": "Tariffs apply to Canadian wine, hockey sticks, cement, and other products, sparking fears of escalating trade tensions.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-21T01:11:27.555401+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss"
-  },
-  {
-    "id": "67b7401f3253",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T00:06",
-    "headline": "US attacks Iran for 10th consecutive night",
-    "excerpt": "Washington vows revenge for US military casualties, while Iran claims attacks on US sites across the region.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-21T01:11:27.555439+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss"
   }
 ]
