@@ -1,5 +1,38 @@
 [
   {
+    "id": "1be7adc54a60",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T10:31",
+    "headline": "Israeli soldiers jailed over Sde Teiman walkout",
+    "excerpt": "Fourteen Israeli soldiers have been sentenced to military prison after leading an unauthorised walkout from Sde Teiman.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-02T10:50:50.017207+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss"
+  },
+  {
+    "id": "9042b1daee9e",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T09:50",
+    "headline": "A quiet day in Harare after Zimbabwe’s shutdown call",
+    "excerpt": "A heavy security presence and cautious businesses reflected tensions over constitutional changes.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-02T10:50:50.017264+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/2/a-quiet-day-in-harare-after-zimbabwes-shutdown-call?traffic_source=rss"
+  },
+  {
+    "id": "5b155fec758e",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T09:43",
+    "headline": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+    "excerpt": "Trump says &#039;perimeters of a deal has been agreed to&#039; as he pauses attacks. But is there any substance to his claim?",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-02T10:50:50.017300+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss"
+  },
+  {
     "id": "7638ee3ac15c",
     "source": "Al Jazeera",
     "date": "2026-08-02T08:43",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-21T20:49:13.107798+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/21/can-mediators-broker-a-truce-between-the-us-and-iran?traffic_source=rss"
-  },
-  {
-    "id": "e4c789cbbb27",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T19:16",
-    "headline": "Trump says he’s open to talks with Hezbollah, vows to help Lebanon",
-    "excerpt": "US President Trump said he is open to direct talks with Hezbollah.",
-    "category": "Diplomatic",
-    "location": "Lebanon",
-    "addedAt": "2026-07-21T19:38:24.065434+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/trump-says-hes-open-to-talks-with-hezbollah-vows-to-help-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "31cebf1908e7",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T18:41",
-    "headline": "Netherlands to sanction trade with illegal Israeli settlements",
-    "excerpt": "Dutch ban on Israeli goods from occupied territory comes as efforts to implement EU-wide sanctions remain stalled.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-21T19:38:24.065483+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/netherlands-to-sanction-trade-with-illegal-israeli-settlements?traffic_source=rss"
-  },
-  {
-    "id": "c51ba576a54f",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T17:57",
-    "headline": "The Houthis may soon discover the limits of Saudi strategic patience",
-    "excerpt": "Saudi Arabia has so far ignored provocations to preserve regional stability. But it may soon be pushed into action.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-07-21T19:38:24.065522+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/21/the-houthis-may-soon-discover-the-limits-of-saudi-strategic-patience?traffic_source=rss"
   }
 ]
