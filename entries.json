@@ -1,5 +1,27 @@
 [
   {
+    "id": "d1705ee5c57d",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T00:00",
+    "headline": "Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’",
+    "excerpt": "Iran&#039;s Araghchi issues warning in separate phone calls with the foreign ministers of Turkiye, Pakistan and Saudi Arabia.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-08-02T00:15:10.907291+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss"
+  },
+  {
+    "id": "e0178a815fac",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T23:57",
+    "headline": "Singapore bans UK band Massive Attack over Palestinian flag",
+    "excerpt": "Singapore barred two members of British band Massive Attack from re-entering the country.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-02T00:15:10.907340+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss"
+  },
+  {
     "id": "219df6c0f323",
     "source": "Al Jazeera",
     "date": "2026-08-01T22:34",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-21T14:24:23.502600+00:00",
     "link": "https://www.aljazeera.com/economy/2026/7/21/iran-war-look-beyond-stocks-to-understand-state-of-economy-experts-say?traffic_source=rss"
-  },
-  {
-    "id": "6694f11f0af3",
-    "source": "PressTV",
-    "date": "2026-07-21T14:24",
-    "headline": "‘We don’t fear martyrdom’, says new Hamas chief in first message",
-    "excerpt": "The veteran Hamas leader was elected on Monday, succeeding Yahya Sinwar, who was killed by Israeli forces in Gaza in October 2024.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-21T14:24:25.910330+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/21/772710/We-dont-fear-martyrdom-New-Hamas-political-chief-issues-first-message"
-  },
-  {
-    "id": "167b95206155",
-    "source": "PressTV",
-    "date": "2026-07-21T14:24",
-    "headline": "Hezbollah leader congratulates newly elected Hamas chief, vows continued support for resistance",
-    "excerpt": "Hezbollah leader in a letter to Khalil al-Hayya, the newly elected head of Hamas's political bureau. chief, vows support to restore Palestinian lands",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-21T14:24:25.910365+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/21/772713/Hezbollah-Hamas-Palestine-Lebanon-"
   }
 ]
