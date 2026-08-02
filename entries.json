@@ -1,5 +1,60 @@
 [
   {
+    "id": "937e8bad4b3f",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T02:58",
+    "headline": "Israel kills five in Gaza despite Trump’s Hamas disarmament plan",
+    "excerpt": "Strikes hit Gaza homes after the US unveiled plan for Hamas disarmament and Israeli withdrawal.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-02T03:59:26.981126+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss"
+  },
+  {
+    "id": "6cd98597b949",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T02:24",
+    "headline": "US embassies issue alerts after Trump vows to hit Iran ‘hard’",
+    "excerpt": "US embassies in the Middle East are bracing for possible escalation after Trump said the US will hit Iran &#039;hard&#039;.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-08-02T03:59:26.981178+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss"
+  },
+  {
+    "id": "70291b12ec7e",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T00:49",
+    "headline": "Hungary plans to shut down only nuclear power plant amid drought",
+    "excerpt": "Officials say they must shut down nation&#039;s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-02T03:59:26.981221+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss"
+  },
+  {
+    "id": "6a33fdb46991",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T00:00",
+    "headline": "Iran war live: Trump cancels attack, says ‘perimeters of a deal’ agreed",
+    "excerpt": "Move comes after Iran&#039;s top diplomat warned of a &#039;decisive response&#039; to any US-Israeli &#039;aggression&#039;.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-02T03:59:26.981259+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss"
+  },
+  {
+    "id": "99fcaa0e2581",
+    "source": "Al Jazeera",
+    "date": "2026-08-01T20:57",
+    "headline": "Peruvian plane crash kills 13, including European tourists",
+    "excerpt": "Those killed include 11 passengers and two pilots flying over the famous archaeological site, recognised by UNESCO.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-02T03:59:26.981302+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss"
+  },
+  {
     "id": "d1705ee5c57d",
     "source": "Al Jazeera",
     "date": "2026-08-02T00:00",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-21T16:03:48.873072+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss"
-  },
-  {
-    "id": "4966c0710cb2",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T14:37",
-    "headline": "Saudi condemns Houthi blockade: How will the rest of the world be impacted?",
-    "excerpt": "Saudi Arabia has condemned the Houthi naval blockade that could impact oil flow to importers of Saudi oil.",
-    "category": "Naval",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-07-21T16:03:48.873114+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss"
-  },
-  {
-    "id": "c07804cebb70",
-    "source": "PressTV",
-    "date": "2026-07-21T16:03",
-    "headline": "Iran warns Bulgaria against supporting US military aggression",
-    "excerpt": "Iran has warned Bulgaria against approving a reported US request to station military aircraft at one of its air bases.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-21T16:03:50.557793+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/21/772722/Iran-Foreign-Ministry-spokesman-warns-Bulgaria--cooperation-US-aggression-station-military-aircraft-request"
-  },
-  {
-    "id": "78e317b22663",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T13:43",
-    "headline": "ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis",
-    "excerpt": "Southeast Asian countries are highly affected by oil supply shortages caused by Iran war and Strait of Hormuz closure.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-21T14:24:23.502543+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss"
-  },
-  {
-    "id": "5ac20db3e1c3",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T13:26",
-    "headline": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
-    "excerpt": "Israeli forces launch regular attacks on Gaza despite a US-backed &#039;ceasefire&#039; agreed in October.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-21T14:24:23.502578+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "90f42d9ad5d2",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T12:34",
-    "headline": "Iran war: Look beyond stocks to understand state of economy, experts say",
-    "excerpt": "Yields on 10-year US Treasury bills, a bellwether for inflation, are up 60 basis points since the start of the Iran war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-21T14:24:23.502600+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/21/iran-war-look-beyond-stocks-to-understand-state-of-economy-experts-say?traffic_source=rss"
   }
 ]
