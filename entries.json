@@ -1,5 +1,60 @@
 [
   {
+    "id": "d0409647ec2c",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T19:39",
+    "headline": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+    "excerpt": "Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem&#039;s Old City.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-02T19:56:12.630486+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss"
+  },
+  {
+    "id": "df5b09ec948a",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T19:30",
+    "headline": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
+    "excerpt": "Search for remains of three last climbers continues on Broad Peak, days after avalanche killed all 10 mountaineers.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-02T19:56:12.630533+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss"
+  },
+  {
+    "id": "7300f8086e61",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T19:08",
+    "headline": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+    "excerpt": "Tehran&#039;s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-02T19:56:12.630567+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss"
+  },
+  {
+    "id": "136915e14aed",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T18:37",
+    "headline": "Ukrainian drone attacks kill eight in response to Russian missiles",
+    "excerpt": "Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-02T19:56:12.630596+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss"
+  },
+  {
+    "id": "07a943a171cb",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T18:28",
+    "headline": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
+    "excerpt": "Former US hostage John Limbert says Washington ‘can’t bomb and assassinate its way to a better relationship’ with Iran.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-08-02T19:56:12.630620+00:00",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss"
+  },
+  {
     "id": "4b52d25ad2c5",
     "source": "Al Jazeera",
     "date": "2026-08-02T17:57",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-22T03:48:37.430389+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss"
-  },
-  {
-    "id": "694052765ada",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T02:21",
-    "headline": "US targets China in move to ban military-grade drone imports",
-    "excerpt": "Proposed rules would have US regulator block the entry of swarm-capable drones, mainly from China.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-22T03:48:37.430434+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss"
-  },
-  {
-    "id": "c5726721afc7",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T01:21",
-    "headline": "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon",
-    "excerpt": "Gavito: Israel will likely keep pushing limits in Lebanon, making a full withdrawal unlikely amid security concerns.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-22T03:48:37.430477+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_gavito-cant-see-pilot-zones-working-in-lebanon-210726?traffic_source=rss"
-  },
-  {
-    "id": "9c5876d69559",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T01:17",
-    "headline": "Leopard caught on camera storming into a store in Rajasthan, India",
-    "excerpt": "A leopard storms into a store in Rajasthan, India, attacking an employee and causing panic.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-22T03:48:37.430518+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/leopard-caught-on-camera-storming-into-a-store-in-rajasthan-india?traffic_source=rss"
-  },
-  {
-    "id": "b1caf198317f",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T00:00",
-    "headline": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-    "excerpt": "Trump threatens to bomb a suspected Iranian nuclear site called Pickaxe Mountain &#039;very heavily&#039;.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-22T03:48:37.430540+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss"
-  },
-  {
-    "id": "afd3bd782cea",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T23:46",
-    "headline": "US attacks Iran for 11th consecutive night",
-    "excerpt": "Explosions reported in northwestern Iran&#039;s Tabriz, capital Tehran and across southern Iran.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-22T03:48:37.430574+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss"
   }
 ]
