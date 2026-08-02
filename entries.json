@@ -1,5 +1,71 @@
 [
   {
+    "id": "5a5047348f86",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T05:29",
+    "headline": "At least three dead in Idaho shopping mall mass shooting",
+    "excerpt": "Police said at least three people were killed several others were wounded in a shooting at an In-N-Out Burger in Idaho.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-02T06:41:22.815077+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss"
+  },
+  {
+    "id": "9dfa847ce4c3",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T05:27",
+    "headline": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
+    "excerpt": "Students in Gaza overcome distressing conditions amid Israel&#039;s genocide to finish their Tawjihi high school exams.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-02T06:41:22.815133+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss"
+  },
+  {
+    "id": "e5d7ba0587c0",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T04:44",
+    "headline": "Three dead including female bomber in Moscow restaurant attack",
+    "excerpt": "At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-08-02T06:41:22.815165+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss"
+  },
+  {
+    "id": "e3632058ec44",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T03:36",
+    "headline": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
+    "excerpt": "The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-02T06:41:22.815200+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss"
+  },
+  {
+    "id": "8a97b59c2c39",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T02:58",
+    "headline": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
+    "excerpt": "Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament and Israeli withdrawal.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-02T06:41:22.815233+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss"
+  },
+  {
+    "id": "2da6c32183e7",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T00:00",
+    "headline": "Iran war live: Trump cancels attack, calls for a ‘rapid’ deal on Hormuz",
+    "excerpt": "Move comes after Iran&#039;s top diplomat warned of a &#039;decisive response&#039; to any US-Israeli &#039;aggression&#039;.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-02T06:41:22.815279+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss"
+  },
+  {
     "id": "937e8bad4b3f",
     "source": "Al Jazeera",
     "date": "2026-08-02T02:58",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-21T19:38:24.065544+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/21/iranians-struggle-to-get-by-amid-us-war-and-domestic-woes?traffic_source=rss"
-  },
-  {
-    "id": "234f946186ce",
-    "source": "PressTV",
-    "date": "2026-07-21T19:38",
-    "headline": "Iran Army has 'already defined precise defense scenarios' to counter any enemy incursion",
-    "excerpt": "Army spokesman says Iran has already defined precise defense scenarios and operational plans to thwart any enemy incursion into the country's territory.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-21T19:38:26.315518+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/21/772740/Iranian-Army-defined-precise-defense-scenarios-counter-any-enemy-incursion-army-spokesman-Akraminia"
-  },
-  {
-    "id": "f9a688e2f987",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T17:30",
-    "headline": "Lebanon’s goal to end hostilities with Israel ‘forever’, says president",
-    "excerpt": "Lebanese President Aoun told Trump that Lebanon&#039;s “ultimate objective” is to end hostilities with Israel “forever”.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-21T17:46:55.021752+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/lebanons-goal-to-end-hostilities-with-israel-forever-says-president?traffic_source=rss"
-  },
-  {
-    "id": "f0ba965eb6f5",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T16:58",
-    "headline": "Trump vows to help Lebanon but offers no timeline for Israeli withdrawal",
-    "excerpt": "Lebanese President Joseph Aoun says his goal is to end &#039;state of hostility between Lebanon and Israel forever&#039;.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-21T17:46:55.021801+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/trump-vows-to-help-lebanon-but-offers-no-timeline-for-israeli-withdrawal?traffic_source=rss"
-  },
-  {
-    "id": "e9cf5c979921",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T16:53",
-    "headline": "Civilians faced attacks, abuse in joint US-Ecuador operations, HRW says",
-    "excerpt": "Report presents evidence civilian farmers, fisherman were caught up in anti-drug crime operations from January to March.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-21T17:46:55.021843+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/civilians-faced-attacks-abuse-in-joint-us-ecuador-operations-hrw-says?traffic_source=rss"
-  },
-  {
-    "id": "e1a549293a73",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T16:31",
-    "headline": "Steep rise in civilian casualties in Russia-Ukraine war, UN says",
-    "excerpt": "Increasing use of long-range missiles and drones against targets far from the front line is worsening the civilian toll.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-21T17:46:55.021873+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/21/steep-rise-in-civilian-casualties-in-russia-ukraine-war-un-says?traffic_source=rss"
-  },
-  {
-    "id": "c76c20f73cea",
-    "source": "Al Jazeera",
-    "date": "2026-07-21T14:42",
-    "headline": "Israel has ‘no interest’ in joining US war on Iran, says Smotrich",
-    "excerpt": "Israeli Finance Minister says Israel has &quot;no interest&quot; in joining the renewed US military campaign against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-21T16:03:48.873072+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss"
   }
 ]
