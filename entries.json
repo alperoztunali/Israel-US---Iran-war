@@ -1,5 +1,16 @@
 [
   {
+    "id": "c0c38e250f08",
+    "source": "Al Jazeera",
+    "date": "2026-08-02T22:51",
+    "headline": "Sudan army drone attack on Darfur kills 35, rights group says",
+    "excerpt": "Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-02T23:14:23.272496+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss"
+  },
+  {
     "id": "66fd02494530",
     "source": "Al Jazeera",
     "date": "2026-08-02T21:18",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-22T06:34:01.705453+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss"
-  },
-  {
-    "id": "e8eac26f5bd5",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T04:07",
-    "headline": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
-    "excerpt": "NYC Mayor Zohran Mamdani releases a video statement calling for Israeli PM Netanyahu to face trial for war crimes.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-07-22T06:34:01.705489+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss"
   }
 ]
