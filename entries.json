@@ -1,5 +1,93 @@
 [
   {
+    "id": "28d03d60cee5",
+    "source": "Al Jazeera",
+    "date": "2026-08-03T11:03",
+    "headline": "Ukraine strikes Russia’s biggest retailer again",
+    "excerpt": "Ukraine has struck another warehouse belonging to Russian e-commerce giant Wildberries in a long-range drone attack.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-03T11:31:14.878457+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss"
+  },
+  {
+    "id": "9c8441487b3c",
+    "source": "Al Jazeera",
+    "date": "2026-08-03T10:53",
+    "headline": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+    "excerpt": "Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-03T11:31:14.878501+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "875e66687a74",
+    "source": "Al Jazeera",
+    "date": "2026-08-03T10:52",
+    "headline": "US cricket player Reddy receives eight-year ban for match-fixing",
+    "excerpt": "ICC Anti-Corruption Tribunal says Akhilesh Reddy guilty of three offences during Abu Dhabi T10 competition in November.",
+    "category": "Other",
+    "location": "Abu Dhabi",
+    "addedAt": "2026-08-03T11:31:14.878538+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/3/us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing?traffic_source=rss"
+  },
+  {
+    "id": "cf4ee5a1cdbb",
+    "source": "Al Jazeera",
+    "date": "2026-08-03T09:44",
+    "headline": "Trump says new Iran negotiations starting: What we know",
+    "excerpt": "Analysts say deal on Hormuz might be achievable but lasting peace agreement still far off.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-03T11:31:14.878565+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss"
+  },
+  {
+    "id": "f6cf6663a5b3",
+    "source": "Al Jazeera",
+    "date": "2026-08-03T09:05",
+    "headline": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
+    "excerpt": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-03T11:31:14.878597+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss"
+  },
+  {
+    "id": "80ea3567d1ae",
+    "source": "Al Jazeera",
+    "date": "2026-08-03T09:01",
+    "headline": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
+    "excerpt": "Suspected attacker, identified as 24-year-old Chad Williams, killed at least three people in the US on Saturday.",
+    "category": "Casualties",
+    "location": "Jordan",
+    "addedAt": "2026-08-03T11:31:14.878628+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss"
+  },
+  {
+    "id": "2bab5843a5c6",
+    "source": "Al Jazeera",
+    "date": "2026-08-03T08:55",
+    "headline": "‘US backs off from Iran before markets open on weekdays’",
+    "excerpt": "‘US backs off from Iran before markets open on weekdays’",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-03T11:31:14.878657+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/us-backs-off-from-iran-before-markets-open-on?traffic_source=rss"
+  },
+  {
+    "id": "ec39e2b15547",
+    "source": "Al Jazeera",
+    "date": "2026-08-03T08:25",
+    "headline": "Michael Thorbjornsen wins first PGA Tour title at Rocket Classic",
+    "excerpt": "Thorbjornsen, who joined the Tour as a rookie in 2025, is widely considered one of the rising stars of US golf.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-03T11:31:14.878693+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss"
+  },
+  {
     "id": "07d8687d61db",
     "source": "Al Jazeera",
     "date": "2026-08-03T06:09",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-22T11:26:00.596536+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/7/22/americas-decades-old-bipartisan-consensus-on-israel-has-been-shattered?traffic_source=rss"
-  },
-  {
-    "id": "474b021fe0e9",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T09:30",
-    "headline": "Russia reports injuries after top online retailer Wildberries hit again",
-    "excerpt": "Company CEO says logistics centres in Krasnodar and Nevinnomyssk evacuated days after workers killed in earlier attack.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-22T11:26:00.596569+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/22/russia-reports-injuries-after-top-online-retailer-wildberries-hit-again?traffic_source=rss"
-  },
-  {
-    "id": "4ec765b6300e",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T09:30",
-    "headline": "Ossoff challenges Hegseth on cost and duration of Iran war",
-    "excerpt": "Ossoff challenges Hegseth on cost and duration of Iran war",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-22T11:26:00.596604+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ossoff-challenges-hegseth-on-cost-and-duration-of-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "9dbf6cf09723",
-    "source": "PressTV",
-    "date": "2026-07-22T11:26",
-    "headline": "Minab buries 62 pieces of 32 children massacred in Feb. 28 US strike on school",
-    "excerpt": "The newly recovered remains of 32 student martyrs killed in the US-Israeli missile attack on the Shajareh Tayyebeh Primary School in Minab are laid to rest.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-07-22T11:26:02.181721+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/22/772765/Newly-recovered-remains-of-32-Minab-school-students-laid-rest"
-  },
-  {
-    "id": "2afb560bbcb0",
-    "source": "PressTV",
-    "date": "2026-07-22T11:26",
-    "headline": "Iran Army chief warns US against ground invasion, pledges all-out resistance",
-    "excerpt": "Iran’s Army chief has warned that any US military ground incursion would be met with a crushing all-out military response.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-07-22T11:26:02.181777+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/22/772771/Iran-Army-Hatami-US-Israel-war-incursion-F-5-military-capability"
-  },
-  {
-    "id": "69d4f8d408fa",
-    "source": "PressTV",
-    "date": "2026-07-22T11:26",
-    "headline": "Report: Iranian missiles increasingly penetrate US air defenses in West Asia",
-    "excerpt": "Iranian missiles are penetrating US and allied air defenses in West Asia with increasing frequency, causing mounting casualties among American service members and raising questions about the effectiveness of defensive systems, US officials and regional analysts say.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-22T11:26:02.181806+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/22/772755/Iran-ballistic-missiles-Washington-Post-US-Israel-technology-precision-Panda-Russia-China"
-  },
-  {
-    "id": "6e261de7c2c9",
-    "source": "PressTV",
-    "date": "2026-07-22T11:26",
-    "headline": "CIA assessment admits US aggression against Iran has failed: Report",
-    "excerpt": "Recent US intelligence assessments concludes that military strikes against Iran are unlikely to compel the country to abandon its peaceful nuclear program or missile capabilities.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-22T11:26:02.181823+00:00",
-    "link": "https://presstv.ir/Detail/2026/07/22/772751/US-strikes-unlikely-force-Iran-abandon-peaceful-nuclear,-missile-programs--Report"
-  },
-  {
-    "id": "b862b07b1e1a",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T08:43",
-    "headline": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
-    "excerpt": "Defense Secretary Pete Hegseth tells US senators that the war has cost the US $37.5bn so far.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-22T09:16:36.245390+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest?traffic_source=rss"
-  },
-  {
-    "id": "d20dc966eeb4",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T08:08",
-    "headline": "Chelsea signs Morgan Rogers from Aston Villa in record British deal",
-    "excerpt": "The 23-year-old Rogers, one of the Premier League&#039;s top attacking talents, has signed a contract until 2033.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-22T09:16:36.245441+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/22/chelsea-sign-morgan-rogers-from-aston-villa-in-record-british-deal?traffic_source=rss"
   }
 ]
