@@ -1,5 +1,38 @@
 [
   {
+    "id": "424a122094c9",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T02:56",
+    "headline": "US stocks near record high, oil falls as Trump claims Iran talks underway",
+    "excerpt": "Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-04T03:12:53.717017+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss"
+  },
+  {
+    "id": "5e1ccf4a9fa8",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T01:43",
+    "headline": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+    "excerpt": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-04T03:12:53.717061+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss"
+  },
+  {
+    "id": "958afdad783e",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T00:00",
+    "headline": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+    "excerpt": "US president says talks with Iran are under way, warning the negotiations are Tehran&#039;s &#039;last chance&#039; to secure a deal.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-04T03:12:53.717101+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss"
+  },
+  {
     "id": "6c27390bb137",
     "source": "Al Jazeera",
     "date": "2026-08-03T22:35",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-22T21:24:12.116308+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss"
-  },
-  {
-    "id": "b19117a2af0e",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T19:59",
-    "headline": "Gaza man returns home after family believed he was dead",
-    "excerpt": "Hamada Al Banna reunited with his family more than a year after an explosion that left him in a coma.",
-    "category": "Casualties",
-    "location": "Gaza",
-    "addedAt": "2026-07-22T21:24:12.116335+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss"
-  },
-  {
-    "id": "593330f2d929",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T18:43",
-    "headline": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
-    "excerpt": "The newly appointed leader says Hamas would work to help the people of Gaza and achieve a united Palestinian state.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-22T19:53:09.786774+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss"
-  },
-  {
-    "id": "448a28d22cc6",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T18:00",
-    "headline": "US judge sets 2027 trial date for Venezuela’s Maduro and wife",
-    "excerpt": "Former President Maduro pleads not guilty to drug charges; lawyer plans to challenge legality of US military operation.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-22T19:53:09.786836+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/22/us-judge-sets-2027-trial-date-for-venezuelas-maduro-and-wife?traffic_source=rss"
   }
 ]
