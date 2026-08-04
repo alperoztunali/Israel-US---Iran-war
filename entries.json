@@ -1,5 +1,27 @@
 [
   {
+    "id": "dd7d57f73dd8",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T02:56",
+    "headline": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+    "excerpt": "Benchmark S&amp;P 500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-04T06:06:04.397117+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss"
+  },
+  {
+    "id": "b231b5354909",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T00:00",
+    "headline": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
+    "excerpt": "US president says talks with Iran are under way, warning the negotiations are Tehran&#039;s &#039;last chance&#039; to secure a deal.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-04T06:06:04.397169+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss"
+  },
+  {
     "id": "424a122094c9",
     "source": "Al Jazeera",
     "date": "2026-08-04T02:56",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-22T21:24:12.116224+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss"
-  },
-  {
-    "id": "73546177f273",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T20:20",
-    "headline": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
-    "excerpt": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-22T21:24:12.116274+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss"
-  },
-  {
-    "id": "54fae0deeff3",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T20:06",
-    "headline": "Trump: Iran will ‘pay a big price’ for US troop deaths",
-    "excerpt": "US President Trump warned that Iran will ‘pay a big price’ right before he attended a dignified transfer ceremony.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-22T21:24:12.116308+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss"
   }
 ]
