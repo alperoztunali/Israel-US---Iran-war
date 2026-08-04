@@ -1,5 +1,38 @@
 [
   {
+    "id": "00ae114dff52",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T21:11",
+    "headline": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+    "excerpt": "The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&#039;s Qeshm Island.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-08-04T22:37:01.398313+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss"
+  },
+  {
+    "id": "c2e9eab28bdb",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T21:03",
+    "headline": "Six years on, Beirut blast families still await justice",
+    "excerpt": "Families of victims of the Beirut port blast marked six years since the explosion by demanding truth and accountability.",
+    "category": "Other",
+    "location": "Beirut",
+    "addedAt": "2026-08-04T22:37:01.398364+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss"
+  },
+  {
+    "id": "162329d72aa2",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T20:59",
+    "headline": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
+    "excerpt": "Negotiators are working to expand safe shipping through the strait, though key differences remain unresolved.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-04T22:37:01.398401+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss"
+  },
+  {
     "id": "32302c3cc3e4",
     "source": "Al Jazeera",
     "date": "2026-08-04T20:32",
@@ -5465,38 +5498,5 @@
     "location": "Tel Aviv",
     "addedAt": "2026-07-23T14:33:24.924379+00:00",
     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/23/why-do-some-of-the-cheapest-cities-cost-the-most-to-live-in?traffic_source=rss"
-  },
-  {
-    "id": "b3eae10eaef0",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T13:06",
-    "headline": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
-    "excerpt": "Rebuilding the enclave will cost seven times the combined cost of all past offensives, says joint report.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-23T14:33:24.924428+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss"
-  },
-  {
-    "id": "b848a43a8bb3",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T12:46",
-    "headline": "Which Middle East nations have nuclear programmes, and how were they built?",
-    "excerpt": "Saudi Arabia aims to join the region&#039;s nuclear club after it signs a deal with the US.",
-    "category": "Diplomatic",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-07-23T14:33:24.924461+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/which-middle-east-nations-have-nuclear-programmes-and-how-were-they-built?traffic_source=rss"
-  },
-  {
-    "id": "f7fb246e3d85",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T11:55",
-    "headline": "Can Iran withstand new pressure from the US?",
-    "excerpt": "After a truce, the US has returned to war with Iran. Alex Gatopoulos looks at what’s different this time",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-23T14:33:24.924495+00:00",
-    "link": "https://www.aljazeera.com/video/project-force-2/2026/7/23/can-iran-withstand-new-pressure-from-the-us?traffic_source=rss"
   }
 ]
