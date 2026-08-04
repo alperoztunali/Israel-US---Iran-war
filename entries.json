@@ -1,5 +1,49 @@
 [
   {
+    "id": "5c677d5ffaae",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T18:35",
+    "headline": "Mass funeral held for 112 members of two Palestinian families",
+    "excerpt": "Palestinians in Gaza held a mass funeral for 112 members of the Abu Sharia and al-Hasayna families.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-04T19:47:59.745218+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss"
+  },
+  {
+    "id": "f1d58e7d1f15",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T18:34",
+    "headline": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
+    "excerpt": "IRGC spokesman Hossein Mohebbi said last month that Iran&#039;s missile production rate increased during the ceasefire.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-08-04T19:47:59.745250+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss"
+  },
+  {
+    "id": "970dfb3e5de5",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T18:27",
+    "headline": "Rubio: Progress made to reopen Strait of Hormuz",
+    "excerpt": "Marco Rubio, US Secretary of State, said there has been progress in negotiations to reopen the Strait of Hormuz.",
+    "category": "Statement",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-08-04T19:47:59.745277+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "d4c0016d7758",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T18:08",
+    "headline": "Israel election pressure fuels settlement push as West Bank violence surges",
+    "excerpt": "Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-04T19:47:59.745301+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss"
+  },
+  {
     "id": "06e67ddb8dd7",
     "source": "Al Jazeera",
     "date": "2026-08-04T17:03",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-23T12:03:03.773167+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss"
-  },
-  {
-    "id": "64f7b52360b1",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T11:12",
-    "headline": "Rubio says US policy on Iran is ‘a head for an eye’",
-    "excerpt": "Rubio says US policy on Iran is ‘a head for an eye’",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-23T12:03:03.773203+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rubio-says-us-policy-on-iran-is-a-head-for-an?traffic_source=rss"
-  },
-  {
-    "id": "4302cfe9cfac",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T11:08",
-    "headline": "Right-wing Israeli groups storm Al-Aqsa as Palestinians barred from worship",
-    "excerpt": "Israeli police barred Palestinians from entering Al-Aqsa Mosque as more than 2,300 right-wing Israelis entered.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-07-23T12:03:03.773231+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/right-wing-israeli-groups-storm-al-aqsa-as-palestinians-barred-from-worship?traffic_source=rss"
-  },
-  {
-    "id": "171d2aac7676",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T10:19",
-    "headline": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
-    "excerpt": "Secretary of state says US has &#039;a head for an eye&#039; policy as strikes hit Iran for a 12th straight night.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-23T12:03:03.773267+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss"
-  },
-  {
-    "id": "6b76a0fc012b",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T09:18",
-    "headline": "More than 3,200 Israelis storm Al-Aqsa Mosque in Jerusalem",
-    "excerpt": "National Security Minister Ben-Gvir joins settlers and far-right groups at holy site under heavy police protection.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-23T12:03:03.773305+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss"
   }
 ]
