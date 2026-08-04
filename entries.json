@@ -1,5 +1,60 @@
 [
   {
+    "id": "db0c0fed1407",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T10:53",
+    "headline": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+    "excerpt": "US president has claimed Iran &#039;desperate&#039; to do a deal or given Tehran &#039;last chance&#039; on multiple occasions.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-04T11:33:40.197026+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss"
+  },
+  {
+    "id": "fe80bf41d8f7",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T10:11",
+    "headline": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
+    "excerpt": "Second-quarter revenue jumped 93 percent but Palantir&#039;s ties to Israel and role in military technology are controversial",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-04T11:33:40.197082+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss"
+  },
+  {
+    "id": "5eb450f4b9b5",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T10:04",
+    "headline": "Palestinian patients return to Gaza as thousands still await evacuation",
+    "excerpt": "Palestinian patients returned to Gaza after receiving medical treatment abroad, reuniting after years of separation.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-04T11:33:40.197121+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss"
+  },
+  {
+    "id": "41c747ad88ea",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T08:51",
+    "headline": "Cars burn in reported settler attack in occupied West Bank",
+    "excerpt": "Cars burn in reported settler attack in occupied West Bank",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-04T11:33:40.197157+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "3c106813b2f8",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T08:51",
+    "headline": "We demand accountability for the Beirut blast",
+    "excerpt": "Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.",
+    "category": "Other",
+    "location": "Beirut",
+    "addedAt": "2026-08-04T11:33:40.197190+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss"
+  },
+  {
     "id": "25d9d8494c2f",
     "source": "Al Jazeera",
     "date": "2026-08-04T07:19",
@@ -5443,60 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-07-22T23:32:31.486771+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss"
-  },
-  {
-    "id": "5f86af56a699",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T21:41",
-    "headline": "US launches new strikes as Iran warns of regional turmoil",
-    "excerpt": "Tehran&#039;s chief negotiator says if Iran&#039;s &#039;security is not ensured, no infrastructure will be safe&#039;.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-22T23:32:31.486821+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss"
-  },
-  {
-    "id": "779960387867",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T22:11",
-    "headline": "Rubio says US, China must ‘work through’ big differences at ASEAN meeting",
-    "excerpt": "Rubio met his Chinese counterpart to discuss managing tensions ahead of President Xi Jinping&#039;s upcoming US visit.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-22T22:27:45.548884+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/22/rubio-says-us-china-must-work-through-big-differences-at-asean-meeting?traffic_source=rss"
-  },
-  {
-    "id": "9690afc77325",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T22:03",
-    "headline": "Iranian missiles show deadly precision amid US-Iran war escalation",
-    "excerpt": "Killing of three US soldiers at Jordan base shows Iran maintains the ability to exact deadly toll in grinding conflict.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-22T22:27:45.548931+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss"
-  },
-  {
-    "id": "6b669365a168",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T21:41",
-    "headline": "Iran warns of regional turmoil if US threats and attacks do not stop",
-    "excerpt": "Tehran&#039;s chief negotiator says if Iran&#039;s &#039;security is not ensured, no infrastructure will be safe&#039;.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-22T22:27:45.548966+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss"
-  },
-  {
-    "id": "0efa21c68d4b",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T21:36",
-    "headline": "Wounded Gaza journalists call for urgent medical evacuation",
-    "excerpt": "Wounded and chronically ill Palestinian journalists held a protest calling for urgent medical evacuation from Gaza.",
-    "category": "Casualties",
-    "location": "Gaza",
-    "addedAt": "2026-07-22T22:27:45.548992+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss"
   }
 ]
