@@ -1,5 +1,82 @@
 [
   {
+    "id": "d10c01e64693",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T15:34",
+    "headline": "Qatar says indirect talks continue to reopen Strait of Hormuz",
+    "excerpt": "Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.",
+    "category": "Diplomatic",
+    "location": "Qatar",
+    "addedAt": "2026-08-04T15:56:58.473600+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss"
+  },
+  {
+    "id": "b80653cacd11",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T15:11",
+    "headline": "Drone appears to stalk man before exploding",
+    "excerpt": "A drone was seen following a man at a minibus-turned-market in Kherson, southern Ukraine, before exploding on Tuesday.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-04T15:56:58.473645+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss"
+  },
+  {
+    "id": "2be0856ca9c0",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T14:51",
+    "headline": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
+    "excerpt": "Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-04T15:56:58.473683+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "879d0778b704",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T14:23",
+    "headline": "Beirut port blast anniversary overshadowed by new wave of destruction",
+    "excerpt": "As much of southern Lebanon lies in ruins due to Israeli attacks, residents struggle once again to rebuild their lives.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-04T15:56:58.473717+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss"
+  },
+  {
+    "id": "c6097ee69b19",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T14:04",
+    "headline": "Why are oil companies posting record profits amid Iran war disruption?",
+    "excerpt": "Big Oil companies have bagged astronomical profits as the critical Strait of Hormuz remains closed.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-04T15:56:58.473750+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss"
+  },
+  {
+    "id": "5439eab9a815",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T13:34",
+    "headline": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
+    "excerpt": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
+    "category": "Diplomatic",
+    "location": "Gaza",
+    "addedAt": "2026-08-04T15:56:58.473788+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/hamas-negotiator-says-deal-to-disarm-was-necessary-to-save?traffic_source=rss"
+  },
+  {
+    "id": "fc2b7e390fcd",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T12:58",
+    "headline": "Twelve years after ISIL’s massacres, thousands of Yazidis seek justice",
+    "excerpt": "Iraq’s Yazidi community marked 12 years since ISIL’s assault on Sinjar, which the UN recognised as genocide.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-08-04T15:56:58.473827+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/twelve-years-after-isils-massacres-thousands-of-yazidis-seek-justice?traffic_source=rss"
+  },
+  {
     "id": "c393c3f7f402",
     "source": "Al Jazeera",
     "date": "2026-08-04T12:43",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-23T10:00:26.826796+00:00",
     "link": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss"
-  },
-  {
-    "id": "382f3477f64f",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T07:56",
-    "headline": "Travellers panic as US attacks Iran-Iraq border crossing",
-    "excerpt": "Travellers panic as US attacks Iran-Iraq border crossing",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-23T10:00:26.826828+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss"
-  },
-  {
-    "id": "f02213558fa6",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T06:08",
-    "headline": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
-    "excerpt": "Yemenis fear a maritime embargo on Saudi Arabia could reignite war, deepen shortages and worsen hunger.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-07-23T07:20:43.644299+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss"
-  },
-  {
-    "id": "365aa8e8261c",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T05:44",
-    "headline": "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
-    "excerpt": "Renewed fighting between the US and Iran has overshadowed the ASEAN gathering in Manila.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-23T07:20:43.644351+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss"
-  },
-  {
-    "id": "41f84b9b334d",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T05:36",
-    "headline": "US attacks Iran for 12th night as the House approves defence spending",
-    "excerpt": "Strikes from the US on Iran are raining down for the 12th night in a row.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-23T07:20:43.644385+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss"
-  },
-  {
-    "id": "e8924a97f63a",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T05:31",
-    "headline": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
-    "excerpt": "The US and Saudi Arabia have agreed to a civilian nuclear deal allowing Riyadh to build nuclear reactors.",
-    "category": "Diplomatic",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-07-23T07:20:43.644419+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss"
-  },
-  {
-    "id": "5cba4a9643db",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T05:15",
-    "headline": "Israel building earthen barrier in Gaza to entrench division of the enclave",
-    "excerpt": "The construction of the barrier has fuelled Palestinian fears that most of Gaza will never be relinquished by Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-23T07:20:43.644452+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss"
-  },
-  {
-    "id": "9ea4cdea5113",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T03:53",
-    "headline": "Five soldiers killed in southern Thailand checkpoint attack",
-    "excerpt": "The assault in Narathiwat comes a day after a car bombing elsewhere in the province wounded a police officer.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-07-23T04:40:28.623602+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss"
   }
 ]
