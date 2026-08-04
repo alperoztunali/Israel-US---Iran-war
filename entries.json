@@ -1,5 +1,27 @@
 [
   {
+    "id": "25d9d8494c2f",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T07:19",
+    "headline": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
+    "excerpt": "The Brazilian fighter died in his sleep after a suspected heart attack, the UFC said.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-08-04T09:09:49.060057+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss"
+  },
+  {
+    "id": "3c91429ed83d",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T06:00",
+    "headline": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+    "excerpt": "Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a &#039;breakthrough&#039;.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-08-04T09:09:49.060106+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
+  },
+  {
     "id": "dd7d57f73dd8",
     "source": "Al Jazeera",
     "date": "2026-08-04T02:56",
@@ -5476,27 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-07-22T22:27:45.548992+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss"
-  },
-  {
-    "id": "2b62b5fddcf6",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T21:30",
-    "headline": "US and Saudi Arabia announce nuclear cooperation deal",
-    "excerpt": "Trump administration says &#039;historic&#039; agreement will &#039;reinforce global nonproliferation standards&#039; and create jobs in US.",
-    "category": "Diplomatic",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-07-22T22:27:45.549022+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss"
-  },
-  {
-    "id": "77431d823ce3",
-    "source": "Al Jazeera",
-    "date": "2026-07-22T20:34",
-    "headline": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
-    "excerpt": "Russian Foreign Minister Sergei Lavrov is due to meet US counterpart Marco Rubio, but progress towards peace unlikely.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-22T21:24:12.116224+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss"
   }
 ]
