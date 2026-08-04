@@ -1,5 +1,38 @@
 [
   {
+    "id": "32302c3cc3e4",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T20:32",
+    "headline": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
+    "excerpt": "Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-04T21:16:43.489175+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss"
+  },
+  {
+    "id": "7e28220f02a7",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T20:26",
+    "headline": "Shop owners dismantle businesses after Israeli demolition orders",
+    "excerpt": "Shop owners dismantle businesses after Israeli demolition orders",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-04T21:16:43.489223+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/shop-owners-dismantle-businesses-after-israeli-demolition-orders?traffic_source=rss"
+  },
+  {
+    "id": "2a770e048830",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T20:20",
+    "headline": "Argentina grain exports halt as maritime pilots strike over Milei decree",
+    "excerpt": "More than 45 vessels have been affected by the strike at Argentinian ports.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-08-04T21:16:43.489259+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/4/argentina-grain-exports-halt-as-maritime-pilots-strike-over-milei-decree?traffic_source=rss"
+  },
+  {
     "id": "5c677d5ffaae",
     "source": "Al Jazeera",
     "date": "2026-08-04T18:35",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-23T14:33:24.924495+00:00",
     "link": "https://www.aljazeera.com/video/project-force-2/2026/7/23/can-iran-withstand-new-pressure-from-the-us?traffic_source=rss"
-  },
-  {
-    "id": "4b8dbd670f97",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T11:53",
-    "headline": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
-    "excerpt": "Iraqi Prime Minister Ali al-Zaid is visiting Tehran after a high-profile meeting with US President Donald Trump.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-07-23T14:33:24.924523+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss"
-  },
-  {
-    "id": "18ab8e4d5061",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T11:36",
-    "headline": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
-    "excerpt": "Four have been killed by Russian strikes in Ukraine, while four others died in Russia and Crimea, according to reports.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-23T12:03:03.773126+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss"
-  },
-  {
-    "id": "b853dc001051",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T11:36",
-    "headline": "Israel releases 35 detainees from Gaza",
-    "excerpt": "Israel releases 35 detainees from Gaza",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-23T12:03:03.773167+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss"
   }
 ]
