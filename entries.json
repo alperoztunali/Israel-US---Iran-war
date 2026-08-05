@@ -1,5 +1,38 @@
 [
   {
+    "id": "8b90c6d30785",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T00:56",
+    "headline": "Ukrainian man chased by exploding drone recounts his terror",
+    "excerpt": "A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T01:08:34.497034+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss"
+  },
+  {
+    "id": "55c32fc7a8e6",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T00:00",
+    "headline": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+    "excerpt": "Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-08-05T01:08:34.497083+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss"
+  },
+  {
+    "id": "11e85b9d8d92",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T23:24",
+    "headline": "One killed, five injured in Russian ballistic missile attack on Kyiv",
+    "excerpt": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T01:08:34.497118+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss"
+  },
+  {
     "id": "00ae114dff52",
     "source": "Al Jazeera",
     "date": "2026-08-04T21:11",
@@ -5465,38 +5498,5 @@
     "location": "Saudi Arabia",
     "addedAt": "2026-07-23T16:14:25.510010+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords?traffic_source=rss"
-  },
-  {
-    "id": "a8c1d198b85e",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T14:53",
-    "headline": "Kuwait-Iraq border crossing hit in drone attack",
-    "excerpt": "Kuwait&#039;s Defence Ministry said a drone attack hit the Abdali border crossing with Iraq, causing damage but no casualties",
-    "category": "Missile/Drone",
-    "location": "Iraq",
-    "addedAt": "2026-07-23T16:14:25.510031+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/kuwait-iraq-border-crossing-hit-in-drone-attack?traffic_source=rss"
-  },
-  {
-    "id": "ef780b4be07a",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T14:18",
-    "headline": "Has Russia helped Iran target CIA sites in the Gulf?",
-    "excerpt": "Reports of Iran targeting sites belonging to the US&#039;s CIA first emerged in the early days of the Iran war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-23T14:33:24.924329+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/has-russia-helped-iran-target-cia-sites-in-the-gulf?traffic_source=rss"
-  },
-  {
-    "id": "ed86eef3b522",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T13:46",
-    "headline": "Why do some of the cheapest cities cost the most to live in?",
-    "excerpt": "A worker in Cairo can afford 22 hamburgers a month. In Tel Aviv, more than 200. AJLabs counts a salary in Big Mac meals.",
-    "category": "Other",
-    "location": "Tel Aviv",
-    "addedAt": "2026-07-23T14:33:24.924379+00:00",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/23/why-do-some-of-the-cheapest-cities-cost-the-most-to-live-in?traffic_source=rss"
   }
 ]
