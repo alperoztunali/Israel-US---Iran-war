@@ -1,5 +1,60 @@
 [
   {
+    "id": "f280c0ee40b7",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T03:58",
+    "headline": "Bolivia sends troops to stop Brazilian gang violence along border",
+    "excerpt": "Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T04:30:06.290545+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss"
+  },
+  {
+    "id": "23c6d8d27b00",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T03:48",
+    "headline": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
+    "excerpt": "The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T04:30:06.290590+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss"
+  },
+  {
+    "id": "62a25c252009",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T03:19",
+    "headline": "Israel approves $37m to seize more than 70 occupied West Bank sites",
+    "excerpt": "The allocated funding seeks to accelerate Israel&#039;s control of historical landmarks across the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-05T04:30:06.290625+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/israel-approves-37m-to-seize-more-than-70-occupied-west-bank-sites?traffic_source=rss"
+  },
+  {
+    "id": "e79efbed7664",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T02:09",
+    "headline": "US stock market hits record high amid hopes for Strait of Hormuz reopening",
+    "excerpt": "Oil prices fall as US officials tout progress in talks to reopen critical waterway.",
+    "category": "Diplomatic",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-08-05T04:30:06.290655+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss"
+  },
+  {
+    "id": "74ae9cf59a07",
+    "source": "Al Jazeera",
+    "date": "2026-08-04T23:24",
+    "headline": "One killed, 12 injured in Russian ballistic missile attack on Kyiv",
+    "excerpt": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T04:30:06.290689+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss"
+  },
+  {
     "id": "8b90c6d30785",
     "source": "Al Jazeera",
     "date": "2026-08-05T00:56",
@@ -5443,60 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-07-23T17:49:49.074372+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss"
-  },
-  {
-    "id": "27d38eb75c4e",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T16:12",
-    "headline": "US House votes to limit Iran war for first time since ceasefire breakdown",
-    "excerpt": "Senate fails to pass latest War Powers resolution, in largely symbolic move attempting to reign in Trump.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-23T17:49:49.074400+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss"
-  },
-  {
-    "id": "71bc9540217d",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T16:08",
-    "headline": "The missing half of mediation",
-    "excerpt": "The future of diplomacy between the US and Iran depends on giving mediators the backing needed to make agreements stick.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-23T17:49:49.074428+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/23/the-missing-half-of-mediation?traffic_source=rss"
-  },
-  {
-    "id": "3df75d648ade",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T15:52",
-    "headline": "Two Palestinians shot dead by Israeli forces as West Bank fields set ablaze",
-    "excerpt": "Two men were killed in the town of Beit Furik, east of Nablus. An Israeli settler was also reportedly stabbed.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-23T16:14:25.509924+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/two-palestinians-shot-dead-by-israeli-forces-as-west-bank-fields-set-ablaze?traffic_source=rss"
-  },
-  {
-    "id": "1fe87544b6bb",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T15:28",
-    "headline": "More than 100 UK millionaires ask new PM Andy Burnham to tax them more",
-    "excerpt": "The &#039;Patriotic Millionaires&#039; say &#039;wealth and power have been concentrated in a small group for too long&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-23T16:14:25.509978+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/more-than-100-uk-millionaires-ask-new-pm-andy-burnham-to-tax-them-more?traffic_source=rss"
-  },
-  {
-    "id": "811e302dd2e9",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T14:57",
-    "headline": "Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords",
-    "excerpt": "Claim casts further confusion over deal to launch US-supported civilian nuclear programme in Saudi Arabia.",
-    "category": "Diplomatic",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-07-23T16:14:25.510010+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords?traffic_source=rss"
   }
 ]
