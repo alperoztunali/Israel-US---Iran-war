@@ -1,5 +1,60 @@
 [
   {
+    "id": "dfe2a7f2ef31",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T11:49",
+    "headline": "Turkish cargo ship catches fire after Black Sea drone attack",
+    "excerpt": "A Turkish cargo ship caught fire after a drone attack near Russia’s Black Sea port of Novorossiysk.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T12:17:42.364879+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss"
+  },
+  {
+    "id": "16efa0c7b509",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T11:31",
+    "headline": "Israeli forces detain Palestinians during raid in occupied West Bank",
+    "excerpt": "A journalist covering events was severely beaten by Israeli soldiers, while locals were also attacked.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-05T12:17:42.364923+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "d3efe122aa97",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T11:01",
+    "headline": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+    "excerpt": "Disagreements remain in second day of resumed talks over disarming Hezbollah and Israeli withdrawal from South Lebanon.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-05T12:17:42.364958+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss"
+  },
+  {
+    "id": "b0a9b53119f9",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T10:30",
+    "headline": "Israeli raid deepens fears across West Bank refugee camps",
+    "excerpt": "Israeli raid deepens fears across West Bank refugee camps",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-05T12:17:42.364989+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss"
+  },
+  {
+    "id": "b0141eacb34b",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T10:09",
+    "headline": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
+    "excerpt": "While barriers to free movement make the lives of Palestinians extremely difficult, they do not make Israel more secure.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-05T12:17:42.365029+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss"
+  },
+  {
     "id": "6a813cd16c8d",
     "source": "Al Jazeera",
     "date": "2026-08-05T09:16",
@@ -5443,60 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-23T22:41:12.553528+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss"
-  },
-  {
-    "id": "04cd4422d7ba",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T21:41",
-    "headline": "US-Saudi nuclear deal hinges on normalisation with Israel",
-    "excerpt": "President Trump said a proposed US-Saudi civilian nuclear deal is subject to Saudi Arabia joining the Abraham Accords",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-23T22:41:12.553562+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss"
-  },
-  {
-    "id": "8a3c6d49dc28",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T19:58",
-    "headline": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
-    "excerpt": "This is a breaking news story.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-23T20:37:03.760266+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss"
-  },
-  {
-    "id": "eb955c3d8c33",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T19:50",
-    "headline": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
-    "excerpt": "Judge says that long sentence is merited for slaying of state Democratic lawmaker Melissa Hortman and her husband Mark.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-23T20:37:03.760309+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss"
-  },
-  {
-    "id": "94ee5e748925",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T19:40",
-    "headline": "Journalist killed in Mexico after years of exposing corruption",
-    "excerpt": "Mexican journalist Alejandro Leyva Aguilar was shot dead while eating at a street food stall in Oaxaca.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-23T20:37:03.760339+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss"
-  },
-  {
-    "id": "e620821ebb10",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T19:28",
-    "headline": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
-    "excerpt": "Yemen has proven oil reserves estimated at three billion barrels, but the security environment hinders its export.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-07-23T20:37:03.760371+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss"
   }
 ]
