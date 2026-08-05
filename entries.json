@@ -1,5 +1,104 @@
 [
   {
+    "id": "33a4b6762f4f",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T14:40",
+    "headline": "Germany investigates explosive device attached to drone at Leipzig airport",
+    "excerpt": "An airport employee spotted the object carrying what authorities described as &#039;an unknown explosive device&#039;.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T14:56:14.596716+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss"
+  },
+  {
+    "id": "e8a6f53600af",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T14:08",
+    "headline": "Gaza father opens play center to restore childhood amid Israeli attacks",
+    "excerpt": "A Palestinian father opened a Gaza play center offering children free escape and joy amid near daily Israeli attacks.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-05T14:56:14.596765+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss"
+  },
+  {
+    "id": "23a3c7a3cc43",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T13:48",
+    "headline": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
+    "excerpt": "The reasons for dissent are not unanimous, ranging from the war in Iran to an overhaul of military leadership.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-05T14:56:14.596796+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/why-are-us-republicans-losing-faith-in-war-secretary-pete-hegseth?traffic_source=rss"
+  },
+  {
+    "id": "dec3ea1d5230",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T13:24",
+    "headline": "Iraq faces crisis as Shia armed groups defy disarmament",
+    "excerpt": "Iraqi PM faces a serious crisis as powerful Shia paramilitaries refuse to disarm as September 30 deadline looms.",
+    "category": "Casualties",
+    "location": "Iraq",
+    "addedAt": "2026-08-05T14:56:14.596821+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/iraq-faces-crisis-as-shia-armed-groups-defy-disarmament?traffic_source=rss"
+  },
+  {
+    "id": "2c1c516649ee",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T12:58",
+    "headline": "UN rights chief says Iran executed at least 56 people since March",
+    "excerpt": "Volker Turk warns of surge in Iran executions to suppress dissent after January uprising.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-05T14:56:14.596851+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss"
+  },
+  {
+    "id": "c134b8a35983",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T12:36",
+    "headline": "SpaceX rocket segment to crash into the moon: What happened?",
+    "excerpt": "A piece of the SpaceX Falcon 9 rocket is believed to have crashed into the moon after floating in space since last year.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T14:56:14.596882+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened?traffic_source=rss"
+  },
+  {
+    "id": "4e7a9d9587e0",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T12:14",
+    "headline": "In Bandar Abbas, the ceasefire never came",
+    "excerpt": "A single mother from Bandar Abbas reflects on the fear and resilience of living through repeated attacks.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T14:56:14.596915+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss"
+  },
+  {
+    "id": "ab080a3ed53f",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T12:07",
+    "headline": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
+    "excerpt": "An agreement could restore shipping through crucial waterway, paving way for peace talks between Tehran and Washington.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-08-05T14:56:14.596961+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss"
+  },
+  {
+    "id": "239c65817ef3",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T12:03",
+    "headline": "Protesters stage sit-in against settler violence-linked Smotrich funds",
+    "excerpt": "Palestinian and Israeli protesters staged a sit-in at the Religious Zionist Party’s headquarters in Shoham on Wednesday.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-05T14:56:14.597000+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss"
+  },
+  {
     "id": "dfe2a7f2ef31",
     "source": "Al Jazeera",
     "date": "2026-08-05T11:49",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-24T01:11:54.537992+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/analyst-voting-against-iran-war-funding-a-tough-sell-for-congress?traffic_source=rss"
-  },
-  {
-    "id": "0975ec66dbb1",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T00:29",
-    "headline": "Israel bombs Gaza after displacement orders, kills two Palestinians",
-    "excerpt": "Humanitarian situation in Gaza is &#039;desperate&#039;, UN official says, as Israeli violations of &#039;ceasefire&#039; intensify.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-07-24T01:11:54.538026+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "5a5843013603",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T00:03",
-    "headline": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
-    "excerpt": "Hans Grundberg warns that further confrontation risks &#039;deepening the suffering of the Yemeni people&#039;.",
-    "category": "Diplomatic",
-    "location": "Yemen",
-    "addedAt": "2026-07-24T01:11:54.538068+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss"
-  },
-  {
-    "id": "dd70168db79e",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T00:00",
-    "headline": "Iran war live: Trump weighs ‘massive attack’ on Iran",
-    "excerpt": "Trump says he is considering a ‘massive attack’, as Iran&#039;s Araghchi says &#039;mindless aggression&#039; won&#039;t help a deal.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-24T01:11:54.538106+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "6dc20d6850c0",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T23:53",
-    "headline": "Two Palestinians killed as Israel intensifies strikes on Gaza City",
-    "excerpt": "Two Palestinians were killed and several others injured in a new wave of Israeli airstrikes on Gaza City.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-07-24T01:11:54.538128+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/two-palestinians-killed-as-israel-intensifies-strikes-on-gaza-city?traffic_source=rss"
-  },
-  {
-    "id": "d37b3673808e",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T21:43",
-    "headline": "US attacks Iran for 13th night as Trump threatens ‘bigger’ strikes",
-    "excerpt": "The US president&#039;s threat comes after another day of Iranian attacks on Bahrain, Kuwait and Jordan.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-24T01:11:54.538197+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss"
-  },
-  {
-    "id": "ef0ee88f2c75",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T23:10",
-    "headline": "How the Houthi Red Sea blockade will impact the world",
-    "excerpt": "The Houthis&#039; blockade of Bab al-Mandeb threatens a vital global trade route.",
-    "category": "Other",
-    "location": "Red Sea",
-    "addedAt": "2026-07-23T23:41:59.673426+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss"
-  },
-  {
-    "id": "f43eb2b5bdfe",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T22:51",
-    "headline": "Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque",
-    "excerpt": "Israeli settlers&#039; storming of Islam&#039;s holy site fuels &#039;hatred&#039; and obstructs lasting peace, joint statement says.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-07-23T23:41:59.673470+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/arab-and-muslim-countries-condemn-israeli-escalation-at-al-aqsa-mosque?traffic_source=rss"
-  },
-  {
-    "id": "67a8d7f43a78",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T22:04",
-    "headline": "US war on Iran: The $110 billion price tag",
-    "excerpt": "America&#039;s war on Iran has cost the US nearly $110 billion. Now, the Trump administration wants another $67 billion.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-23T22:41:12.553484+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss"
-  },
-  {
-    "id": "ff24a114fc7c",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T21:43",
-    "headline": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
-    "excerpt": "The US president&#039;s threat comes after another day of Iranian attacks on Bahrain, Kuwait and Jordan.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-23T22:41:12.553528+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss"
   }
 ]
