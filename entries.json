@@ -1,5 +1,71 @@
 [
   {
+    "id": "6a813cd16c8d",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T09:16",
+    "headline": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+    "excerpt": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T10:09:07.086927+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss"
+  },
+  {
+    "id": "4b9c8e954e1f",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T09:14",
+    "headline": "Michigan, Missouri, Washington primary elections: Key takeaways",
+    "excerpt": "Recent US primaries have revealed Democratic Party rift between progressives and centrists over US support for Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-05T10:09:07.086968+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss"
+  },
+  {
+    "id": "1198cb486254",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T09:05",
+    "headline": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
+    "excerpt": "US President Donald Trump says progress with Iran has been made, but warned Iran of &#039;hard hit&#039; if no deal reached.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-05T10:09:07.086998+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss"
+  },
+  {
+    "id": "4e68be087791",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T08:37",
+    "headline": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
+    "excerpt": "Japan tested a US-Tomahawk cruise missile, launching from their Chokai warship in the Pacific Ocean on July 29.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T10:09:07.087019+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss"
+  },
+  {
+    "id": "090b45257935",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T08:17",
+    "headline": "Piece of SpaceX rocket the size of a school bus crashes into the Moon",
+    "excerpt": "Scientists will track stray rocket part striking the Moon to study crater formation and lunar dust from cosmic impacts.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T10:09:07.087039+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/piece-of-spacex-rocket-the-size-of-a-school-bus-crashes-into-the-moon?traffic_source=rss"
+  },
+  {
+    "id": "5de17633e59e",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T08:14",
+    "headline": "AI models attempted ‘unsanctioned’ cyberattacks in tests, watchdog says",
+    "excerpt": "AI Security Institute says Mythos 5 attempted to insert malicious code into open-source project without human direction.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T10:09:07.087077+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/5/ai-models-attempted-unsanctioned-cyberattacks-in-tests-watchdog-says?traffic_source=rss"
+  },
+  {
     "id": "d0b7404dad2a",
     "source": "Al Jazeera",
     "date": "2026-08-05T06:10",
@@ -5432,71 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-07-23T20:37:03.760371+00:00",
     "link": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss"
-  },
-  {
-    "id": "630a4f607153",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T18:55",
-    "headline": "Children wounded in Israeli strike on Khan Younis",
-    "excerpt": "Children were rushed to hospital after an Israeli strike hit a tent sheltering displaced people in Khan Younis.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-23T19:25:38.389193+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss"
-  },
-  {
-    "id": "7663a218e096",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T18:34",
-    "headline": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
-    "excerpt": "Ali al-Zaidi will hold talks with senior Iranian officials on cooperation, shared interests and security.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-23T19:25:38.389228+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss"
-  },
-  {
-    "id": "22e208af5e9c",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T17:27",
-    "headline": "What are the security implications of the US-Saudi nuclear deal?",
-    "excerpt": "Concerns are growing over a nuclear arms race in the Middle East.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-23T17:49:49.074108+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal?traffic_source=rss"
-  },
-  {
-    "id": "de5b22db1078",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T17:25",
-    "headline": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
-    "excerpt": "Israeli far-right Minister Ben-Gvir joins provocative incursion at Al-Aqsa, escalating tensions ahead of elections.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-23T17:49:49.074159+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss"
-  },
-  {
-    "id": "17b99c7faecc",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T17:05",
-    "headline": "Oil surges past $100 in a first since May as Middle East conflicts rage",
-    "excerpt": "Oil prices rise for a fifth day after Yemen&#039;s Houthis say they struck Saudi Arabian oil tankers in the Red Sea.",
-    "category": "Naval",
-    "location": "Yemen",
-    "addedAt": "2026-07-23T17:49:49.074192+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss"
-  },
-  {
-    "id": "101fcbcd302e",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T17:02",
-    "headline": "A Game of Double Standards",
-    "excerpt": "Qatar 2022: a World Cup that exposed football’s politics, power struggles, and double standards.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-07-23T17:49:49.074228+00:00",
-    "link": "https://www.aljazeera.com/video/featured-documentaries/2026/7/23/a-game-of-double-standards?traffic_source=rss"
   }
 ]
