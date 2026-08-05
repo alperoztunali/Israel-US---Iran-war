@@ -1,5 +1,49 @@
 [
   {
+    "id": "d0b7404dad2a",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T06:10",
+    "headline": "Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects",
+    "excerpt": "Progressive advocate overcomes over $60m in spending to defeat pro-Israel Congresswoman Haley Stevens.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-05T07:19:22.356864+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss"
+  },
+  {
+    "id": "e02373d0bd7c",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T05:48",
+    "headline": "The yearly mild weather spell that brings Yemen’s coast back to life",
+    "excerpt": "Al-Baldah transforms Mukalla with mild temperatures, beach fun and a rare economic boost for the southern Yemeni city.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-08-05T07:19:22.356916+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss"
+  },
+  {
+    "id": "160f5bebf289",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T05:46",
+    "headline": "Return of goods to markets in Gaza doesn’t mean people can afford them",
+    "excerpt": "Displaced Palestinians in Gaza struggle daily to afford food, with soaring prices and limited income opportunities.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-05T07:19:22.356953+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss"
+  },
+  {
+    "id": "8914be56af8c",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T04:38",
+    "headline": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
+    "excerpt": "At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-05T07:19:22.356983+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss"
+  },
+  {
     "id": "f280c0ee40b7",
     "source": "Al Jazeera",
     "date": "2026-08-05T03:58",
@@ -5454,49 +5498,5 @@
     "location": "Qatar",
     "addedAt": "2026-07-23T17:49:49.074228+00:00",
     "link": "https://www.aljazeera.com/video/featured-documentaries/2026/7/23/a-game-of-double-standards?traffic_source=rss"
-  },
-  {
-    "id": "d4ff2e94a339",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T16:58",
-    "headline": "Trump: US-Saudi nuclear deal hinges on Saudi joining Abraham Accords",
-    "excerpt": "The US and Saudi Arabia have reached a civilian nuclear cooperation deal.",
-    "category": "Diplomatic",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-07-23T17:49:49.074259+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/trump-us-saudi-nuclear-deal-hinges-on-saudi-joining-abraham-accords?traffic_source=rss"
-  },
-  {
-    "id": "31664abd1c5c",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T16:53",
-    "headline": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
-    "excerpt": "Al Jazeera’s Zeina Khodr brings you the latest from Beirut.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-07-23T17:49:49.074297+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah?traffic_source=rss"
-  },
-  {
-    "id": "9cb0062f47d1",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T16:48",
-    "headline": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
-    "excerpt": "Al Jazeera’s Zeina Khodr brings you the latest from Beirut after Lebanon’s President meets with Donald Trump.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-07-23T17:49:49.074332+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah-2?traffic_source=rss"
-  },
-  {
-    "id": "c2de3f03958d",
-    "source": "Al Jazeera",
-    "date": "2026-07-23T16:17",
-    "headline": "Yemen faces a new challenge amid prospects of confrontation",
-    "excerpt": "What is the military balance of power in Yemen and the likelihood of confrontation between the government and Houthis?",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-07-23T17:49:49.074372+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss"
   }
 ]
