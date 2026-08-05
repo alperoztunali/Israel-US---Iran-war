@@ -1,5 +1,38 @@
 [
   {
+    "id": "9d6cec1bbb10",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T22:01",
+    "headline": "Israeli occupation destroys farmland and lives in southern Syria",
+    "excerpt": "Israeli occupation destroys farmland and lives in southern Syria",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-05T22:43:14.725273+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss"
+  },
+  {
+    "id": "b1d226fb45ef",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T22:00",
+    "headline": "US officials push back on reports of dangerously low munitions supplies",
+    "excerpt": "Experts warn that low stockpiles of air defence interceptors as a result of the war on Iran leave the US vulnerable.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-08-05T22:43:14.725308+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss"
+  },
+  {
+    "id": "a01f12653fab",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T21:31",
+    "headline": "Israeli forces raid camp in occupied West Bank",
+    "excerpt": "Israeli forces have launched a large-scale military operation in Qalandiya refugee camp in the occupied West Bank.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-05T22:43:14.725337+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
+  },
+  {
     "id": "da34f2e1b4e1",
     "source": "Al Jazeera",
     "date": "2026-08-05T20:55",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-24T07:19:29.190698+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss"
-  },
-  {
-    "id": "d3f5ad69e20a",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T06:48",
-    "headline": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
-    "excerpt": "President Trump says damages will be paid for by Iranian money that the US has &#039;in its possession, and controls&#039;.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-24T07:19:29.190739+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss"
-  },
-  {
-    "id": "fa527a14b698",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T05:56",
-    "headline": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
-    "excerpt": "In 2014, a young Drapatyi became an icon for his daredevilry in Mariupol. Can he lead his military to victory?",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-24T07:19:29.190772+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss"
-  },
-  {
-    "id": "b29ffa800282",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T05:20",
-    "headline": "Ukraine beheads its military as its performance begins to soar",
-    "excerpt": "An unprecedented simultaneous replacement of the top defence and military brass comes amid a debate over strategy.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-24T07:19:29.190799+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/24/ukraine-beheads-its-military-as-its-performance-begins-to-soar?traffic_source=rss"
   }
 ]
