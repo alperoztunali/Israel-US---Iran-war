@@ -1,5 +1,27 @@
 [
   {
+    "id": "f1df48cfedfa",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T00:00",
+    "headline": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+    "excerpt": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-08-06T01:07:02.653326+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
+  },
+  {
+    "id": "5f6ed999d5b3",
+    "source": "Al Jazeera",
+    "date": "2026-08-05T23:51",
+    "headline": "Mexican influencer shot dead during TikTok livestream",
+    "excerpt": "Cesar Gastelum was killed as he sat in a car park with two others in Culiacan, the capital of Sinaloa state.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-06T01:07:02.653371+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/5/mexican-influencer-shot-dead-during-livestream?traffic_source=rss"
+  },
+  {
     "id": "9d6cec1bbb10",
     "source": "Al Jazeera",
     "date": "2026-08-05T22:01",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-24T09:56:57.475742+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss"
-  },
-  {
-    "id": "b3ddb7917361",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T07:59",
-    "headline": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
-    "excerpt": "The number of tanker crossings in the Strait of Hormuz dropped to lowest levels in two months on Thursday.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-24T09:56:57.475776+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss"
-  },
-  {
-    "id": "e0055ea29e16",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T07:08",
-    "headline": "Indian activist Wangchuk ends 26-day hunger strike",
-    "excerpt": "Indian activist Sonam Wangchuk has ended a 26-day hunger strike over leaked medical entrance exams",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-24T07:19:29.190698+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss"
   }
 ]
