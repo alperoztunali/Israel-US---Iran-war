@@ -1,5 +1,38 @@
 [
   {
+    "id": "01bfb7809532",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T11:20",
+    "headline": "Ebola outbreak accelerates as healthcare workers strike over pay",
+    "excerpt": "Ebola outbreak accelerates as healthcare workers strike over pay",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-06T12:20:35.641527+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss"
+  },
+  {
+    "id": "98befe2e5b58",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T10:20",
+    "headline": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
+    "excerpt": "US officials say they would not accept any arrangement on the waterway that would leave Iran in control.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-06T12:20:35.641576+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss"
+  },
+  {
+    "id": "7cfab7694ea0",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T10:13",
+    "headline": "Uganda football star Owori killed, weeks after death of rugby’s Gongodyo",
+    "excerpt": "SC Villa captain and Ugandan international David Owori was found unconscious by passers-by, but later pronounced dead.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-06T12:20:35.641612+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss"
+  },
+  {
     "id": "b8c0487950f9",
     "source": "Al Jazeera",
     "date": "2026-08-06T09:17",
@@ -5465,38 +5498,5 @@
     "location": "Oman",
     "addedAt": "2026-07-24T17:12:04.026586+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss"
-  },
-  {
-    "id": "215c679ec7a2",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T16:32",
-    "headline": "Life without refrigerators: Gaza residents fight heat and food spoilage",
-    "excerpt": "Gaza families endure scorching summers without refrigerators, struggling to preserve food, medicine and basics.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-24T17:12:04.026634+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss"
-  },
-  {
-    "id": "b52fdc8176b7",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T16:10",
-    "headline": "Yemen’s valleys and farms are full of dangerous plastic waste",
-    "excerpt": "Yemen&#039;s eastern Wadi Dawan valley is picturesque, but on closer inspection the scourge of plastic waste is clear to see.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-07-24T17:12:04.026679+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/24/yemens-valleys-and-farms-are-full-of-dangerous-plastic-waste?traffic_source=rss"
-  },
-  {
-    "id": "cceeab5ea9fc",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T16:04",
-    "headline": "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
-    "excerpt": "Four Palestinians and two Israelis killed after about 20 settlers raid the village of Tal in occupied West Bank.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-24T17:12:04.026709+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss"
   }
 ]
