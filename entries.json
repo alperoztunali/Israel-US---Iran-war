@@ -1,5 +1,60 @@
 [
   {
+    "id": "863e7da621b0",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T06:51",
+    "headline": "A US proposal for missile defense that’s been tried before",
+    "excerpt": "What is a Golden Dome, and why does Donald Trump want one?",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-06T07:26:28.088701+00:00",
+    "link": "https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss"
+  },
+  {
+    "id": "4a9e0152ac00",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T06:40",
+    "headline": "Ukraine escalates strikes on Russian shipping",
+    "excerpt": "Striking hundreds of targets in a matter of weeks, Ukraine has found a new way to pressure Russia&#039;s hold on Crimea",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-08-06T07:26:28.088750+00:00",
+    "link": "https://www.aljazeera.com/video/project-force-2/2026/8/6/ukraine-escalates-strikes-on-russian-shipping?traffic_source=rss"
+  },
+  {
+    "id": "4901a28c199c",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T06:09",
+    "headline": "US military families face deportation after immigration protection ends",
+    "excerpt": "The spouses and parents of US service members have been reportedly detained or deported.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-06T07:26:28.088790+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss"
+  },
+  {
+    "id": "8c61c411ab16",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T05:05",
+    "headline": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
+    "excerpt": "Eight leading shipping organisations sign letter opposing fees in critical waterway.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-08-06T07:26:28.088819+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss"
+  },
+  {
+    "id": "e2c66554991b",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T00:00",
+    "headline": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
+    "excerpt": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-08-06T07:26:28.088850+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
+  },
+  {
     "id": "2e134bd8adec",
     "source": "Al Jazeera",
     "date": "2026-08-06T04:02",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-24T15:34:22.696575+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss"
-  },
-  {
-    "id": "8acf45848397",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T09:35",
-    "headline": "Israel launches clampdown after deadly clash in occupied West Bank",
-    "excerpt": "Israeli clampdown follows a clash between settlers and Palestinians which killed at least six people.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-24T15:34:22.696610+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss"
-  },
-  {
-    "id": "773959e39fca",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T13:19",
-    "headline": "Five killed in occupied West Bank after Israeli settlers attack",
-    "excerpt": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Till",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-24T13:55:23.940369+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss"
-  },
-  {
-    "id": "2f3c1dfe98dc",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T12:49",
-    "headline": "US summons Malaysia envoy over Israel policy",
-    "excerpt": "Malaysia does not have any diplomatic ties with Israel and has long maintained its support for the Palestinian cause.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-24T13:55:23.940412+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss"
-  },
-  {
-    "id": "f9cc219b9fa0",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T11:45",
-    "headline": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
-    "excerpt": "Six people also killed in Ukrainian attack on Russia’s Kirov, and Wildberries warehouses hit again.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-24T13:55:23.940448+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss"
-  },
-  {
-    "id": "df5cc4c34407",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T10:48",
-    "headline": "Is the US-Saudi nuclear deal on, or in limbo?",
-    "excerpt": "Trump&#039;s last-minute demand for Saudi normalisation with Israel has complicated the already sensitive deal.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-24T13:55:23.940477+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/24/is-the-us-saudi-nuclear-deal-on-or-in-limbo?traffic_source=rss"
   }
 ]
