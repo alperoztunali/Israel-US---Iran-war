@@ -1,5 +1,49 @@
 [
   {
+    "id": "2e134bd8adec",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T04:02",
+    "headline": "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
+    "excerpt": "US President Donald Trump attacked Michigan’s Democratic Senate candidate Abdul El-Sayed, calling him a ‘hater of Jews.&#039;",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-06T04:31:13.764075+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss"
+  },
+  {
+    "id": "7902edc66486",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T03:43",
+    "headline": "Could the Iran war derail Donald Trump’s legacy?",
+    "excerpt": "President Trump is looking to reframe the Iran war ahead of the 2026 midterm elections in November.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-06T04:31:13.764122+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
+  },
+  {
+    "id": "46280db124a6",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T02:39",
+    "headline": "Lightning strike kills Thai footballer during match",
+    "excerpt": "Footage shows the moment a lightning strike hit a football player in southern Thailand, during a semi-final match.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-06T04:31:13.764159+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss"
+  },
+  {
+    "id": "8ba17cd6b05f",
+    "source": "Al Jazeera",
+    "date": "2026-08-06T02:28",
+    "headline": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
+    "excerpt": "German authorities are investigating how a drone packed with explosives reached Leipzig/Halle Airport.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-06T04:31:13.764185+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss"
+  },
+  {
     "id": "f1df48cfedfa",
     "source": "Al Jazeera",
     "date": "2026-08-06T00:00",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-24T13:55:23.940477+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/24/is-the-us-saudi-nuclear-deal-on-or-in-limbo?traffic_source=rss"
-  },
-  {
-    "id": "c879eca0e4c8",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T09:59",
-    "headline": "Israel’s illegal settlements are Europe’s credibility test",
-    "excerpt": "The EU has documented accelerating annexation. It must now use its collective power to confront it.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-24T11:48:37.346168+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss"
-  },
-  {
-    "id": "071a7e197a84",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T09:35",
-    "headline": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
-    "excerpt": "One Israeli was also killed near town of Tal in Nablus, according to Israel&#039;s Magen David Adom rescue services.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-24T09:56:57.475664+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss"
-  },
-  {
-    "id": "aed77c0f6d6f",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T08:42",
-    "headline": "Major fire after Ukrainian strike on St Petersburg warehouse",
-    "excerpt": "A major fire broke out at a Wildberries e-commerce warehouse in St Petersburg after a Ukrainian drone attack.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-24T09:56:57.475706+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss"
-  },
-  {
-    "id": "ff53ddedc93d",
-    "source": "Al Jazeera",
-    "date": "2026-07-24T08:39",
-    "headline": "US attacks Iran for 13th consecutive night",
-    "excerpt": "The US military says it has completed its 13th night of strikes against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-24T09:56:57.475742+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss"
   }
 ]
