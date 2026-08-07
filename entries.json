@@ -1,5 +1,38 @@
 [
   {
+    "id": "6c793158950a",
+    "source": "Al Jazeera",
+    "date": "2026-08-07T06:29",
+    "headline": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
+    "excerpt": "Jaswant Singh Khalra&#039;s daughter Navkiran reflects on slain father&#039;s life and legacy, which also inspired a recent film.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-08-07T06:48:32.276367+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss"
+  },
+  {
+    "id": "d62f0a863715",
+    "source": "Al Jazeera",
+    "date": "2026-08-07T05:49",
+    "headline": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
+    "excerpt": "A search team has retrieved the remains of renowned climber Nirmal Purja and several members of his team.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-07T06:48:32.276400+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss"
+  },
+  {
+    "id": "64b0bbada9cf",
+    "source": "Al Jazeera",
+    "date": "2026-08-07T04:23",
+    "headline": "At least six killed, 15 wounded in Thailand school shooting, police say",
+    "excerpt": "Authorities say suspected gunman also found dead after shooting at a school northwest of Bangkok.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-07T06:48:32.276428+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss"
+  },
+  {
     "id": "3f1d87dd8a9d",
     "source": "Al Jazeera",
     "date": "2026-08-07T05:00",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-25T14:39:23.484918+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss"
-  },
-  {
-    "id": "5acdf4279c00",
-    "source": "Al Jazeera",
-    "date": "2026-07-25T11:30",
-    "headline": "Tuberculosis: How drones are transforming care in the Philippines",
-    "excerpt": "101 East meets the doctors using drones to fight tuberculosis and save lives in remote communities in the Philippines.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-25T12:46:01.527382+00:00",
-    "link": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss"
-  },
-  {
-    "id": "31ec7ceeab20",
-    "source": "Al Jazeera",
-    "date": "2026-07-25T09:54",
-    "headline": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
-    "excerpt": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-25T12:46:01.527437+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss"
-  },
-  {
-    "id": "62547bbb2d18",
-    "source": "Al Jazeera",
-    "date": "2026-07-25T11:14",
-    "headline": "Two buses collide in Syria, killing at least 35 people",
-    "excerpt": "This is a breaking news story.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-25T11:36:15.094740+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss"
   }
 ]
