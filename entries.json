@@ -1,5 +1,38 @@
 [
   {
+    "id": "3f1d87dd8a9d",
+    "source": "Al Jazeera",
+    "date": "2026-08-07T05:00",
+    "headline": "Record-high heat soars through South Korea",
+    "excerpt": "A record-high heatwave is sweeping through the Korean Peninsula, sending temperatures skyrocketing, reaching 42.5C.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-07T05:24:05.377550+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss"
+  },
+  {
+    "id": "a970509f932d",
+    "source": "Al Jazeera",
+    "date": "2026-08-07T04:43",
+    "headline": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
+    "excerpt": "Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-08-07T05:24:05.377605+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss"
+  },
+  {
+    "id": "9fe2a6596521",
+    "source": "Al Jazeera",
+    "date": "2026-08-07T04:23",
+    "headline": "One killed, four injured in Thailand school shooting, officials say",
+    "excerpt": "Authorities say the gunman, a student, killed a teacher before taking his own life at a school northwest of Bangkok.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-07T05:24:05.377636+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss"
+  },
+  {
     "id": "da22d1340ff8",
     "source": "Al Jazeera",
     "date": "2026-08-07T02:30",
@@ -5465,38 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-07-25T11:36:15.094740+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss"
-  },
-  {
-    "id": "558234411b02",
-    "source": "Al Jazeera",
-    "date": "2026-07-25T09:54",
-    "headline": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
-    "excerpt": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-25T10:09:30.729594+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss"
-  },
-  {
-    "id": "1b3317f8bd07",
-    "source": "Al Jazeera",
-    "date": "2026-07-25T09:10",
-    "headline": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-    "excerpt": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-25T10:09:30.729631+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss"
-  },
-  {
-    "id": "194ec3b43de4",
-    "source": "Al Jazeera",
-    "date": "2026-07-25T08:09",
-    "headline": "Dodging snipers, housing crisis forces Yemenis to live on front line",
-    "excerpt": "Living near Taiz&#039;s front line forces families to make difficult choices amid sniper threats and economic hardships.",
-    "category": "Naval",
-    "location": "Yemen",
-    "addedAt": "2026-07-25T10:09:30.729663+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss"
   }
 ]
