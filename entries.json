@@ -1,5 +1,27 @@
 [
   {
+    "id": "c321fe54c6bf",
+    "source": "Al Jazeera",
+    "date": "2026-08-07T07:43",
+    "headline": "Earthquake strikes as doctors perform surgery",
+    "excerpt": "A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-07T08:17:06.591877+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss"
+  },
+  {
+    "id": "9e7ab50ff720",
+    "source": "Al Jazeera",
+    "date": "2026-08-07T00:00",
+    "headline": "Iran war live: Trump expects war to end ‘pretty soon’; Hormuz deal close",
+    "excerpt": "The US, Iran and Oman are close to a temporary deal to reopen the Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-07T08:17:06.591949+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss"
+  },
+  {
     "id": "6c793158950a",
     "source": "Al Jazeera",
     "date": "2026-08-07T06:29",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-25T14:39:23.484858+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss"
-  },
-  {
-    "id": "0479f681a6bb",
-    "source": "Al Jazeera",
-    "date": "2026-07-25T12:41",
-    "headline": "Baby rescued after Israeli settlers set home on fire amid raids",
-    "excerpt": "A baby was rescued by her family after her home was set on fire by Israeli settlers in the occupied West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-25T14:39:23.484890+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss"
-  },
-  {
-    "id": "11838ebb674d",
-    "source": "Al Jazeera",
-    "date": "2026-07-25T12:41",
-    "headline": "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
-    "excerpt": "Separately, at least eight people killed in Ukrainian attacks on a Russian-controlled area.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-25T14:39:23.484918+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss"
   }
 ]
