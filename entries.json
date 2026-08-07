@@ -1,5 +1,16 @@
 [
   {
+    "id": "7c267eda5fe9",
+    "source": "Al Jazeera",
+    "date": "2026-08-07T18:54",
+    "headline": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+    "excerpt": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow&#039;s war efforts.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-07T19:16:43.170369+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss"
+  },
+  {
     "id": "8c7b47ebecee",
     "source": "Al Jazeera",
     "date": "2026-08-07T16:42",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-26T05:00:30.288455+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss"
-  },
-  {
-    "id": "d9d2068ef7dd",
-    "source": "Al Jazeera",
-    "date": "2026-07-25T22:31",
-    "headline": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event",
-    "excerpt": "German police say a white car drove into Tiergarten Park, near the route of a Pride march, hitting several people.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-26T05:00:30.288500+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss"
   }
 ]
