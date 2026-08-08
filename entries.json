@@ -1,5 +1,27 @@
 [
   {
+    "id": "5a9651892096",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T04:18",
+    "headline": "Russian strikes near Ukrainian capital kill three, including child",
+    "excerpt": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-08T05:02:28.290101+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss"
+  },
+  {
+    "id": "51adb4254c20",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T03:42",
+    "headline": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+    "excerpt": "Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.",
+    "category": "Casualties",
+    "location": "Iraq",
+    "addedAt": "2026-08-08T05:02:28.290141+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss"
+  },
+  {
     "id": "7acb1edc6ce7",
     "source": "Al Jazeera",
     "date": "2026-08-08T03:20",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-26T11:37:07.193926+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-protesters-denounce-deadly-settler-violence?traffic_source=rss"
-  },
-  {
-    "id": "0c50520361e1",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T07:55",
-    "headline": "Israel raids West Bank live: PM Netanyahu threatens ‘more broad action’",
-    "excerpt": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-26T11:37:07.193973+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss"
-  },
-  {
-    "id": "437f68050f06",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T08:55",
-    "headline": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-    "excerpt": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
-    "category": "Casualties",
-    "location": "Gaza",
-    "addedAt": "2026-07-26T10:05:10.719061+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss"
   }
 ]
