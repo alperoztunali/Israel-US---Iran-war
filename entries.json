@@ -1,5 +1,38 @@
 [
   {
+    "id": "bce9cf4fb557",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T15:52",
+    "headline": "UNRWA has been with me since birth, I cannot imagine a future without it",
+    "excerpt": "The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-08T16:39:19.146300+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss"
+  },
+  {
+    "id": "fbbe0d056c91",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T15:42",
+    "headline": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
+    "excerpt": "Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-08-08T16:39:19.146343+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss"
+  },
+  {
+    "id": "4b9d354196cc",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T12:30",
+    "headline": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
+    "excerpt": "Drone incidents in Europe igniting fears that Moscow&#039;s war on Kyiv is entangling NATO nations.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-08T16:39:19.146378+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss"
+  },
+  {
     "id": "7c2c50665db2",
     "source": "Al Jazeera",
     "date": "2026-08-08T15:01",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-26T19:18:26.534141+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss"
-  },
-  {
-    "id": "a72084bba14f",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T17:13",
-    "headline": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
-    "excerpt": "Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-26T17:45:40.830912+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss"
-  },
-  {
-    "id": "adf32be0f68d",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T16:49",
-    "headline": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
-    "excerpt": "Israel is violating agreements by shelling &#039;pilot villages&#039;, Lebanon&#039;s army asserts.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-26T17:45:40.830983+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss"
-  },
-  {
-    "id": "a660596449f4",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T14:47",
-    "headline": "Israel carries out double tap strike in central Gaza",
-    "excerpt": "Israel carries out double tap strike in central Gaza",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-26T15:40:54.276178+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss"
   }
 ]
