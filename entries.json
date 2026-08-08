@@ -1,5 +1,27 @@
 [
   {
+    "id": "35dec81dde91",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T00:06",
+    "headline": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+    "excerpt": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-08-08T02:22:10.276818+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss"
+  },
+  {
+    "id": "9984762c4810",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T00:00",
+    "headline": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+    "excerpt": "Saudi crown prince, Turkish president and Pakistani prime minister sign a joint defence agreement in Mecca.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-08T02:22:10.276864+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss"
+  },
+  {
     "id": "33873bbaba96",
     "source": "Al Jazeera",
     "date": "2026-08-07T23:18",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-26T10:05:10.719145+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss"
-  },
-  {
-    "id": "238db81e033c",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T07:12",
-    "headline": "Israeli settlers set fire to mosque in occupied West Bank",
-    "excerpt": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-26T07:45:59.011830+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "3b6bf83bac43",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T05:29",
-    "headline": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
-    "excerpt": "Documentary follows children under occupation and the couple who run a holistic primary school as Israel&#039;s war persists.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-26T07:45:59.011877+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss"
   }
 ]
