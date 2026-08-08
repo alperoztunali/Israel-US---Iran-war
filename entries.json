@@ -1,5 +1,49 @@
 [
   {
+    "id": "7c2c50665db2",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T15:01",
+    "headline": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+    "excerpt": "Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-08-08T15:08:38.931847+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss"
+  },
+  {
+    "id": "96440824293a",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T14:58",
+    "headline": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+    "excerpt": "In an interview with Al Jazeera, Masrour Barzani denies any &#039;pressure&#039; to enter the Iran war despite over 1,000 attacks.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-08T15:08:38.931901+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss"
+  },
+  {
+    "id": "abbb37ca8d99",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T14:09",
+    "headline": "War on Iran: Phase II: Day 28",
+    "excerpt": "Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-08T15:08:38.931936+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss"
+  },
+  {
+    "id": "c1014c70125d",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T13:42",
+    "headline": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
+    "excerpt": "Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-08T15:08:38.932000+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss"
+  },
+  {
     "id": "868f40199b0a",
     "source": "Al Jazeera",
     "date": "2026-08-08T13:52",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-26T15:40:54.276178+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss"
-  },
-  {
-    "id": "0be213e75eee",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T14:22",
-    "headline": "Senegal’s Faye launches a new party, formalising his split with Sonko",
-    "excerpt": "Months of tensions between president and ex-ally culminate in split that will reshape Senegal&#039;s political landscape.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-26T15:40:54.276238+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss"
-  },
-  {
-    "id": "b1345e72b318",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T14:04",
-    "headline": "Israel and the cost paradox of the Iran war",
-    "excerpt": "Israel instigated the war on Iran and yet it has borne few of its costs.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-26T15:40:54.276272+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "79a73cfdf634",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T13:51",
-    "headline": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
-    "excerpt": "The head of internal security for Hamas in central Gaza was among the dead.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-07-26T14:18:54.574696+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss"
-  },
-  {
-    "id": "38025d50d7a9",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T13:39",
-    "headline": "Yemen’s health workers race to halt latest outbreak of deadly dengue fever",
-    "excerpt": "Health workers are battling to contain the mosquito-borne disease amid growing concern over rising infections.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-07-26T14:18:54.574741+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss"
   }
 ]
