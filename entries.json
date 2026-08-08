@@ -1,5 +1,38 @@
 [
   {
+    "id": "6b711ea97f54",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T23:27",
+    "headline": "Vance says US ‘destroyed’ Iran’s nuclear programme",
+    "excerpt": "US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-08T23:45:56.502477+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss"
+  },
+  {
+    "id": "f0a3284701da",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T23:19",
+    "headline": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
+    "excerpt": "Three Colombian tourists are among the victims of Saturday&#039;s crash on mountainside forest of Tijuca National Park.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-08T23:45:56.502529+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss"
+  },
+  {
+    "id": "2eaf120d8570",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T23:09",
+    "headline": "Crews recover 19 bodies from rubble of destroyed Gaza building",
+    "excerpt": "More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts hindered by lack of heavy machinery.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-08T23:45:56.502565+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss"
+  },
+  {
     "id": "f8418ea59965",
     "source": "Al Jazeera",
     "date": "2026-08-08T22:22",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-26T21:31:51.916291+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss"
-  },
-  {
-    "id": "aea1433f9c44",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T19:31",
-    "headline": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-    "excerpt": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-26T20:30:19.963082+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "ab70c704d65b",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T19:27",
-    "headline": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
-    "excerpt": "Syrian President Ahmed al-Sharaa said Damascus is working towards a security agreement with Israel.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-26T20:30:19.963133+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "7cf068bbe80c",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T17:51",
-    "headline": "Police shoot dead Berlin Pride car-ramming attack suspect",
-    "excerpt": "Abdul Ballout sought for &#039;Islamist terror attack&#039; after a van was driven into crowds at LGBTQ event in German capital.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-26T20:30:19.963180+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss"
   }
 ]
