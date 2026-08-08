@@ -1,5 +1,49 @@
 [
   {
+    "id": "e1ef6200ebb8",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T12:30",
+    "headline": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
+    "excerpt": "The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv is now entangling NATO nations.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-08T12:58:00.835764+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss"
+  },
+  {
+    "id": "ca438f285448",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T11:49",
+    "headline": "Arsenal complete signing of Newcastle midfielder Bruno Guimaraes",
+    "excerpt": "Brazil international signed on a four-year contract with further one-year option for reported fee of about $101m.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-08T12:58:00.835819+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/8/arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes?traffic_source=rss"
+  },
+  {
+    "id": "b2209b659ce9",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T11:34",
+    "headline": "The post-American Middle East is beginning to take shape",
+    "excerpt": "The pact between Saudi Arabia, Pakistan and Turkiye is yet another step towards a new regional security architecture.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-08-08T12:58:00.835857+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss"
+  },
+  {
+    "id": "887638298efd",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T11:29",
+    "headline": "Woman screams in fear as Ukraine war recruiters pounce on man",
+    "excerpt": "Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-08-08T12:58:00.835901+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss"
+  },
+  {
     "id": "132e38f5ee0b",
     "source": "Al Jazeera",
     "date": "2026-08-08T10:58",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-26T14:18:54.574847+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "e80a916c7af0",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T12:52",
-    "headline": "Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem",
-    "excerpt": "The surge in violence comes after four Palestinians and two soldiers were killed in a gunfight on Friday.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-26T14:18:54.574872+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/israeli-crackdown-in-occupied-west-bank-intensifies-settlers-cause-mayhem?traffic_source=rss"
-  },
-  {
-    "id": "e83b7986d855",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T12:34",
-    "headline": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
-    "excerpt": "Syrian President al-Sharaa tells Al Jazeera Damascus seeks a security deal with Israel, and warns of chaos in Lebanon.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-26T14:18:54.574906+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel?traffic_source=rss"
-  },
-  {
-    "id": "5f324305c6b9",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T11:56",
-    "headline": "Iran’s army issues warning ahead of Netanyahu’s US visit",
-    "excerpt": "Iran says it has stopped retaliatory operations in the Gulf, but warns the war could expand if US strikes continue.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-26T12:44:59.343981+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss"
-  },
-  {
-    "id": "7bd4122536c6",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T11:28",
-    "headline": "Malaysia to host rescheduled Bahrain Grand Prix F1 race in October",
-    "excerpt": "The race in Bahrain was rescheduled in April amid the US-Israel war on Iran and will now be held in Malaysia.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-26T11:37:07.193790+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss"
   }
 ]
