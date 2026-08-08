@@ -1,5 +1,27 @@
 [
   {
+    "id": "132e38f5ee0b",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T10:58",
+    "headline": "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
+    "excerpt": "Patients in Yemen who cannot afford healthcare or access relevant treatment are turning to alternative medicine.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-08-08T11:45:25.067764+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss"
+  },
+  {
+    "id": "0db452219e40",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T04:18",
+    "headline": "Russian strikes near Ukrainian capital kill four, including child",
+    "excerpt": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-08T11:45:25.067812+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss"
+  },
+  {
     "id": "72e8e3cd39e4",
     "source": "Al Jazeera",
     "date": "2026-08-08T10:40",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-26T11:37:07.193790+00:00",
     "link": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss"
-  },
-  {
-    "id": "51b0aaa19870",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T11:18",
-    "headline": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
-    "excerpt": "Anti-war activists have protested outside a UK airbase over US forces using it to bomb Iran",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-26T11:37:07.193826+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss"
-  },
-  {
-    "id": "e7e976e62dd7",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T10:47",
-    "headline": "Why the UK cancelled a military exercise in Kenya – and what it means",
-    "excerpt": "A dispute over military cooperation and accountability strains a decades-old UK-Kenya partnership.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-07-26T11:37:07.193870+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss"
   }
 ]
