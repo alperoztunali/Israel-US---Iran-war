@@ -1,5 +1,27 @@
 [
   {
+    "id": "868f40199b0a",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T13:52",
+    "headline": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+    "excerpt": "Iran and Oman have agreed on the coordinates of routes to be taken by vessels through the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-08T14:36:17.364293+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss"
+  },
+  {
+    "id": "0c52b0668f1a",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T13:42",
+    "headline": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
+    "excerpt": "Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-08T14:36:17.364349+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss"
+  },
+  {
     "id": "e1ef6200ebb8",
     "source": "Al Jazeera",
     "date": "2026-08-08T12:30",
@@ -5476,27 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-07-26T14:18:54.574741+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss"
-  },
-  {
-    "id": "800b8f1e622a",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T13:34",
-    "headline": "From paradise to ‘pilot zone’ disaster: Returning to destroyed Lebanon home",
-    "excerpt": "Sumaya Yaghi returns to what&#039;s left of her destroyed home in southern Lebanon.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-07-26T14:18:54.574809+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/from-paradise-to-pilot-zone-disaster-returning-to-destroyed-lebanon-home?traffic_source=rss"
-  },
-  {
-    "id": "84eb534f7bb4",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T13:31",
-    "headline": "Why are Israeli settlers on a rampage in the occupied West Bank?",
-    "excerpt": "Settlers torch two mosques in the Palestinian territory as Israeli PM Benjamin Netanyahu threatens &#039;more broad action&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-26T14:18:54.574847+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss"
   }
 ]
