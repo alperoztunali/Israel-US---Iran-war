@@ -1,5 +1,16 @@
 [
   {
+    "id": "a62d42708c3d",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T19:00",
+    "headline": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+    "excerpt": "Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-08T19:55:02.419807+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss"
+  },
+  {
     "id": "f51450966f36",
     "source": "Al Jazeera",
     "date": "2026-08-08T18:43",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-26T19:18:26.534013+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-burn-two-mosques-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "ad38b1a6e7f7",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T18:17",
-    "headline": "Romania summons Russian envoy as it shoots down third intruding drone",
-    "excerpt": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.",
-    "category": "Missile/Drone",
-    "location": "Oman",
-    "addedAt": "2026-07-26T19:18:26.534042+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss"
   }
 ]
