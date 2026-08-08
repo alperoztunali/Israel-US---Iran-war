@@ -1,5 +1,27 @@
 [
   {
+    "id": "7acb1edc6ce7",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T03:20",
+    "headline": "US Senate passes Russia sanctions that could hurt India and China",
+    "excerpt": "The US Senate approved its strongest move against Russia under Trump.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-08-08T03:50:57.801268+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss"
+  },
+  {
+    "id": "8de63024f296",
+    "source": "Al Jazeera",
+    "date": "2026-08-08T02:54",
+    "headline": "Submerged Indonesian village re-emerges as drought lowers water levels",
+    "excerpt": "Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-08T03:50:57.801314+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss"
+  },
+  {
     "id": "35dec81dde91",
     "source": "Al Jazeera",
     "date": "2026-08-08T00:06",
@@ -5476,27 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-07-26T10:05:10.719061+00:00",
     "link": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss"
-  },
-  {
-    "id": "693e93188b34",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T08:53",
-    "headline": "Israel debate boils over in the United States",
-    "excerpt": "How far have US politics - and media - really shifted on the topic of Israel?",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-26T10:05:10.719107+00:00",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss"
-  },
-  {
-    "id": "9bdc6844ceed",
-    "source": "Al Jazeera",
-    "date": "2026-07-26T07:55",
-    "headline": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
-    "excerpt": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-26T10:05:10.719145+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss"
   }
 ]
