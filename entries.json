@@ -1,5 +1,38 @@
 [
   {
+    "id": "45297621c764",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T15:46",
+    "headline": "War on Iran: Phase II: Day 29",
+    "excerpt": "Iran says the Strait of Hormuz will remain restricted unless the US meets a series of demands.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-09T16:11:28.981592+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss"
+  },
+  {
+    "id": "b447fd34caad",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T15:38",
+    "headline": "Pentagon urges faster US weapons production amid stockpile concerns",
+    "excerpt": "US defense industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-09T16:11:28.981645+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss"
+  },
+  {
+    "id": "3b292c9a9a07",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T15:20",
+    "headline": "Concerns mount over integrity of Israel’s upcoming October elections",
+    "excerpt": "Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-09T16:11:28.981695+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss"
+  },
+  {
     "id": "b13cdaba0646",
     "source": "Al Jazeera",
     "date": "2026-08-09T14:47",
@@ -5465,38 +5498,5 @@
     "location": "Lebanon",
     "addedAt": "2026-07-27T18:57:04.806849+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss"
-  },
-  {
-    "id": "862cf2c9a560",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T17:58",
-    "headline": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
-    "excerpt": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-27T18:57:04.806886+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss"
-  },
-  {
-    "id": "36c9e7b44d51",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T17:57",
-    "headline": "War on Iran: Phase II: Day 16",
-    "excerpt": "The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-27T18:57:04.806920+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss"
-  },
-  {
-    "id": "c7dbc013b140",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T17:36",
-    "headline": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
-    "excerpt": "Sebastia, a 3,000-year-old site, faces threats as Israel intensifies plans for land seizures and settlement expansions.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-27T18:57:04.806961+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/27/will-unescos-heritage-listing-halt-israeli-plans-for-west-banks-sebastia?traffic_source=rss"
   }
 ]
