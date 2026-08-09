@@ -1,5 +1,27 @@
 [
   {
+    "id": "773a06a3c40b",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T23:28",
+    "headline": "F-16s intercept two aircraft near Trump’s New Jersey golf club",
+    "excerpt": "F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-09T23:49:32.048231+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss"
+  },
+  {
+    "id": "af9ba3720277",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T23:01",
+    "headline": "Union reports 108 attacks on Palestinian journalists in July",
+    "excerpt": "Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.",
+    "category": "Casualties",
+    "location": "Gaza",
+    "addedAt": "2026-08-09T23:49:32.048270+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss"
+  },
+  {
     "id": "5ee846768bfb",
     "source": "Al Jazeera",
     "date": "2026-08-09T20:40",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-27T21:48:29.062739+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss"
-  },
-  {
-    "id": "885c0dd55f45",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T21:17",
-    "headline": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
-    "excerpt": "UN chief Guterres labels settlements &#039;flagrant violation&#039; of international law amid escalating violence.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-27T21:48:29.062780+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "dce80afd3944",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T21:04",
-    "headline": "Hopes of return to diplomacy as US-Iran hold fire for third day",
-    "excerpt": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-27T21:48:29.062802+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss"
   }
 ]
