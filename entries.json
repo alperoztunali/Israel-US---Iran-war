@@ -1,5 +1,38 @@
 [
   {
+    "id": "7cc9c31d0bc1",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T07:58",
+    "headline": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+    "excerpt": "No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.",
+    "category": "Casualties",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-08-09T09:03:49.661316+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss"
+  },
+  {
+    "id": "1c7baf41c91b",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T07:56",
+    "headline": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
+    "excerpt": "Nagasaki Mayor says ‘humanity and nuclear weapons can&#039;t coexist’ as Japan marks anniversary of the US atomic bombing.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-08-09T09:03:49.661360+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss"
+  },
+  {
+    "id": "c7cd4fa3bf87",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T00:00",
+    "headline": "Iran war live: Tehran seeks ‘to create grounds’ for talks with US",
+    "excerpt": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-08-09T09:03:49.661406+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss"
+  },
+  {
     "id": "2f82aec42c38",
     "source": "Al Jazeera",
     "date": "2026-08-09T06:57",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-27T08:55:30.528923+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it?traffic_source=rss"
-  },
-  {
-    "id": "d372ff0e82ec",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T07:20",
-    "headline": "German arms export licences for Israel surge with focus on sub project",
-    "excerpt": "A dramatic rise in export permissions marks the latest twist in Germany&#039;s approach to ally Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-27T08:55:30.528960+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/27/german-arms-export-licences-for-israel-surge-with-focus-on-sub-project?traffic_source=rss"
-  },
-  {
-    "id": "caecaa59b353",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T06:15",
-    "headline": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
-    "excerpt": "Abbas Araghchi says the Ukrainian attack on the Iranian vessel in the Caspian Sea &#039;cannot go unanswered&#039;.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-27T08:55:30.528986+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss"
-  },
-  {
-    "id": "ececaea697de",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T03:34",
-    "headline": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
-    "excerpt": "Kyiv says Russian strikes killed six, including a child at a supermarket, as Moscow says Ukrainian strikes killed four.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-27T05:25:36.705929+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss"
   }
 ]
