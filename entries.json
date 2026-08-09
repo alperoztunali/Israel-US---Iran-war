@@ -1,5 +1,16 @@
 [
   {
+    "id": "5cb8c15f0354",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T05:06",
+    "headline": "Iran issues new demands as Pezeshkian seeks deal",
+    "excerpt": "Senior Iranian security official sets broader conditions for reopening Hormuz.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-09T05:58:32.799310+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss"
+  },
+  {
     "id": "87113a794cf8",
     "source": "Al Jazeera",
     "date": "2026-08-09T04:12",
@@ -5487,16 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-07-27T01:21:49.955823+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss"
-  },
-  {
-    "id": "b203201be267",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T00:00",
-    "headline": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
-    "excerpt": "The US has paused its two-week bombing campaign against Iran, prompting Tehran to suspend its retaliatory attacks.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-07-27T01:21:49.955859+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss"
   }
 ]
