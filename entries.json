@@ -1,5 +1,38 @@
 [
   {
+    "id": "181bc71119e6",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T10:55",
+    "headline": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+    "excerpt": "President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa&#039;s port.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-08-09T11:14:58.052518+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss"
+  },
+  {
+    "id": "a1258c49a35c",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T10:45",
+    "headline": "Yemeni army warns Houthis after attacks heighten escalation risk",
+    "excerpt": "Yemeni army warns Houthis after attacks heighten escalation risk",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-08-09T11:14:58.052564+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss"
+  },
+  {
+    "id": "58695fa03b90",
+    "source": "Al Jazeera",
+    "date": "2026-08-09T10:35",
+    "headline": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
+    "excerpt": "Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-09T11:14:58.052604+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss"
+  },
+  {
     "id": "7fac6b67aec0",
     "source": "Al Jazeera",
     "date": "2026-08-09T10:02",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-27T12:29:57.785676+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss"
-  },
-  {
-    "id": "56be70b37167",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T10:41",
-    "headline": "Israeli forces storm multiple West Bank towns, settler violence worsens",
-    "excerpt": "At least 20 West Bank towns and villages have been raided, with homes demolished and dozens of Palestinians arrested.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-27T12:29:57.785709+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss"
-  },
-  {
-    "id": "533997122b33",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T09:00",
-    "headline": "Diomande, Real Madrid ‘agree terms’ for transfer of Leipzig winger",
-    "excerpt": "After an impressive campaign at the FIFA World Cup, Yan Diomande will reportedly join world&#039;s richest football club.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-07-27T12:29:57.785753+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss"
-  },
-  {
-    "id": "bacddfa78155",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T08:43",
-    "headline": "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
-    "excerpt": "Spanish Prime Minister Pedro Sanchez has thanked Layan Al Quqa, a young artist in Gaza for painting a mural of him",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-27T12:29:57.785784+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spanish-pm-pedro-sanchez-thanks-young-gaza-artist-for-painting-him?traffic_source=rss"
   }
 ]
