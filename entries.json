@@ -1,5 +1,49 @@
 [
   {
+    "id": "ad7c53f883b5",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T18:37",
+    "headline": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
+    "excerpt": "Reports citing judicial sources say former commercial banker also indicted over alleged financial crimes.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-08-10T19:32:59.709042+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss"
+  },
+  {
+    "id": "216d94e2538b",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T18:35",
+    "headline": "Netanyahu’s veto and the limits of American power",
+    "excerpt": "Trump has the leverage to enforce his Gaza plan. Netanyahu is betting that he lacks the political will to use it.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-10T19:32:59.709110+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss"
+  },
+  {
+    "id": "50e581f6786a",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T18:34",
+    "headline": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
+    "excerpt": "The office of the supreme leader has named a new security chief and established war commanders in influential roles.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-10T19:32:59.709146+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss"
+  },
+  {
+    "id": "fc5bd177bb0d",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T17:00",
+    "headline": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 111 dead",
+    "excerpt": "Officials say at least 111 people have been killed in the quake, with some still trapped under rubble.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-10T19:32:59.709185+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss"
+  },
+  {
     "id": "687b6e14b6de",
     "source": "Al Jazeera",
     "date": "2026-08-10T18:15",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-28T21:40:55.214998+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "95671647a9d4",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T20:29",
-    "headline": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-    "excerpt": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-28T21:40:55.215031+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss"
-  },
-  {
-    "id": "c10cb7f11f50",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T20:11",
-    "headline": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
-    "excerpt": "US-Israel defence cooperation spans decades, including a $33bn, 10-year memorandum of understanding signed in 2016.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-28T21:40:55.215068+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss"
-  },
-  {
-    "id": "26e5331b6d7b",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T18:46",
-    "headline": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
-    "excerpt": "At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel&#039;s genocide and blockade.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-28T20:19:00.483423+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss"
-  },
-  {
-    "id": "3d92b9889d79",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T18:24",
-    "headline": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
-    "excerpt": "Palestinians face hours-long waits at Israeli military checkpoints, forcing women to give birth outside hospitals.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-28T20:19:00.483477+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss"
   }
 ]
