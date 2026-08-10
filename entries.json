@@ -1,5 +1,38 @@
 [
   {
+    "id": "6b2a2692a867",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T10:55",
+    "headline": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
+    "excerpt": "A day of mourning has been declared in the Russian republic of Tatarstan after the attack killed 13 people.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-10T11:30:43.874117+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss"
+  },
+  {
+    "id": "e8cc63cf9d6d",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T10:13",
+    "headline": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
+    "excerpt": "Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilians&#039; lives.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-10T11:30:43.874172+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss"
+  },
+  {
+    "id": "d7d385cbd779",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T10:11",
+    "headline": "Who is Mohsen Rezaei, and how significant is his appointment?",
+    "excerpt": "Former IRGC commander Rezaei will be taking over as secretary of Iran&#039;s top security body amid Hormuz talks.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-10T11:30:43.874200+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss"
+  },
+  {
     "id": "af8c15c2b5ea",
     "source": "Al Jazeera",
     "date": "2026-08-10T09:20",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-28T11:28:01.698396+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss"
-  },
-  {
-    "id": "447070402945",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T08:25",
-    "headline": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
-    "excerpt": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-28T09:09:41.446991+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss"
-  },
-  {
-    "id": "02103ec25478",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T05:58",
-    "headline": "Palestine weekly: West Bank in flames after Tal killings",
-    "excerpt": "Deadly settler attack outside Nablus sets off days of raids, arson, closures and mass arrests.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-28T06:14:03.516939+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss"
-  },
-  {
-    "id": "fbbdcfe5e4ab",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T04:43",
-    "headline": "Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’",
-    "excerpt": "Settler violence in the occupied West Bank endangers Israel’s future, 550 former officials tell Trump.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-28T06:14:03.516994+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/28/israeli-ex-generals-urge-trump-to-push-netanyahu-on-settler-terror?traffic_source=rss"
   }
 ]
