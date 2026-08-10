@@ -1,5 +1,38 @@
 [
   {
+    "id": "78fa53258581",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T17:05",
+    "headline": "Iran’s president says Khamenei is in ‘perfect health’",
+    "excerpt": "Iran’s President Masoud Pezeshkian says Supreme Leader Ayatollah Mojtaba Khamenei had a message of “unity and cohesion”",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-10T17:27:13.662075+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss"
+  },
+  {
+    "id": "f6cde95cea68",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T17:00",
+    "headline": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 47 dead",
+    "excerpt": "Officials say at least 47 people have been killed in the quake, with some still trapped under rubble.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-10T17:27:13.662120+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss"
+  },
+  {
+    "id": "e170d4b25a6d",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T16:24",
+    "headline": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+    "excerpt": "Netanyahu&#039;s declaration has reinforced doubts of lasting calm without Israeli withdrawal, reconstruction and guarantees.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-10T17:27:13.662161+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss"
+  },
+  {
     "id": "4f6390114453",
     "source": "Al Jazeera",
     "date": "2026-08-10T16:01",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-28T18:47:39.869865+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss"
-  },
-  {
-    "id": "349d26f67003",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T16:46",
-    "headline": "What are Trump’s military options?",
-    "excerpt": "The US president has at least three military options - none are good.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-28T17:10:57.255354+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/28/what-are-trumps-military-options?traffic_source=rss"
-  },
-  {
-    "id": "241281eecb15",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T15:39",
-    "headline": "Is Netanyahu’s Trump card losing its power in Israel?",
-    "excerpt": "As US ties fray, Netanyahu&#039;s claim to unrivalled influence in Washington is under growing scrutiny.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-28T17:10:57.255407+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss"
-  },
-  {
-    "id": "5ee7c08a261c",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T15:28",
-    "headline": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
-    "excerpt": "Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be compensated from frozen Iranian funds.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-28T17:10:57.255439+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss"
   }
 ]
