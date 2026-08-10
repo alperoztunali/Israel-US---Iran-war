@@ -1,5 +1,27 @@
 [
   {
+    "id": "72773d0282e5",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T07:59",
+    "headline": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
+    "excerpt": "Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-10T08:46:50.620523+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss"
+  },
+  {
+    "id": "cb85eb543841",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T07:43",
+    "headline": "Israeli forces kill one in Gaza as another body recovered from rubble",
+    "excerpt": "Gaza Health Ministry says hospitals receive bodies of two Palestinians as Netanyahu rejects Trump plan to end war.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-10T08:46:50.620569+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss"
+  },
+  {
     "id": "2680fad6095f",
     "source": "Al Jazeera",
     "date": "2026-08-10T00:19",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-07-28T06:14:03.517047+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss"
-  },
-  {
-    "id": "9f8b3fe312d6",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T03:16",
-    "headline": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-    "excerpt": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-28T03:40:08.124964+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss"
-  },
-  {
-    "id": "f587ffba2eed",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T02:47",
-    "headline": "Trump says Iran talks taking place during pause in US military strikes",
-    "excerpt": "US President Donald Trump says talks with Iran are continuing during a pause in US military strikes",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-28T03:40:08.125029+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss"
   }
 ]
