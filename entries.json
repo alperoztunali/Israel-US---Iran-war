@@ -1,5 +1,27 @@
 [
   {
+    "id": "6bb9dd1e8d86",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T23:18",
+    "headline": "Inside a secret launch site for Ukraine’s deep-strike drones",
+    "excerpt": "AJ&#039;s Audrey MacAlpine reports from a secret launch site in eastern Ukraine, where soldiers prepare long-range drones.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-10T23:42:43.737185+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss"
+  },
+  {
+    "id": "48a43a783ad6",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T22:41",
+    "headline": "Ceuta mayor calls for migrant detention amid mass influx crisis",
+    "excerpt": "Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-10T23:42:43.737242+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss"
+  },
+  {
     "id": "d34082535eb0",
     "source": "Al Jazeera",
     "date": "2026-08-10T21:03",
@@ -5476,27 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-07-29T04:32:53.785997+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/29/turkiye-takes-historic-step-on-energy-alliance-with-iraq?traffic_source=rss"
-  },
-  {
-    "id": "2a8667c1527c",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T00:00",
-    "headline": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
-    "excerpt": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-07-29T04:32:53.786021+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss"
-  },
-  {
-    "id": "b2ada58dff9b",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T00:00",
-    "headline": "Iran war live: US accuses IRGC of ‘surprise’ ballistic missile attacks",
-    "excerpt": "US claim comes as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-29T01:11:54.662680+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss"
   }
 ]
