@@ -1,5 +1,49 @@
 [
   {
+    "id": "e4ceedf9f6b1",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T01:43",
+    "headline": "Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition",
+    "excerpt": "Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai.",
+    "category": "Other",
+    "location": "Dubai",
+    "addedAt": "2026-08-10T02:10:09.423437+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss"
+  },
+  {
+    "id": "4a6f34ffe4d8",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T01:34",
+    "headline": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
+    "excerpt": "Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-08-10T02:10:09.423498+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss"
+  },
+  {
+    "id": "24524cc56821",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T00:19",
+    "headline": "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
+    "excerpt": "The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha (Mocha) and its commercial port.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-08-10T02:10:09.423528+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss"
+  },
+  {
+    "id": "38838446ade4",
+    "source": "Al Jazeera",
+    "date": "2026-08-10T00:00",
+    "headline": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
+    "excerpt": "Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-08-10T02:10:09.423563+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss"
+  },
+  {
     "id": "773a06a3c40b",
     "source": "Al Jazeera",
     "date": "2026-08-09T23:28",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-28T00:11:41.304077+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss"
-  },
-  {
-    "id": "03226b33dda7",
-    "source": "Al Jazeera",
-    "date": "2026-07-28T00:00",
-    "headline": "Iran war live: Trump touts ‘friendly talks’; Netanyahu arrives in US",
-    "excerpt": "Iran says US is &#039;struggling&#039; to end the five-month old war as Netanyahu arrives in Washington, DC, for talks with Trump.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-28T00:11:41.304128+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss"
-  },
-  {
-    "id": "a7322a19d95a",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T23:07",
-    "headline": "US diplomats walk out as France addresses UN Security Council",
-    "excerpt": "US diplomats walk out of UN meeting during France&#039;s speech amid tensions over human rights chief&#039;s reappointment.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-28T00:11:41.304169+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss"
-  },
-  {
-    "id": "68acb00258bf",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T22:34",
-    "headline": "Shot fired outside US consulate in Canada for second time this year",
-    "excerpt": "Police have previously suggested a link between anti-Jewish attacks in the city and shootings at the US consulate.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-27T23:08:02.536022+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss"
-  },
-  {
-    "id": "369f51de3d33",
-    "source": "Al Jazeera",
-    "date": "2026-07-27T21:27",
-    "headline": "Video shows man subdued after stabbing three women in Paris",
-    "excerpt": "Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-27T21:48:29.062739+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss"
   }
 ]
