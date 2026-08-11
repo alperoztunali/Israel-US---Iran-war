@@ -1,5 +1,60 @@
 [
   {
+    "id": "2fe79d80d8c1",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T20:35",
+    "headline": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
+    "excerpt": "Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-11T20:51:50.504725+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "b3d3c6aab07d",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T20:30",
+    "headline": "In Gaza’s tents, widows face war’s harshest realities alone",
+    "excerpt": "Widows in Gaza struggle alone under displacement, burdened by loss, insecurity, and daily battles for survival.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-11T20:51:50.504779+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss"
+  },
+  {
+    "id": "7420f21a0383",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T20:29",
+    "headline": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
+    "excerpt": "Many Yemeni fishermen have abandoned the trade, seeking safer livelihoods as Red Sea becomes too dangerous.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-08-11T20:51:50.504813+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss"
+  },
+  {
+    "id": "7d72cad41f75",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T20:18",
+    "headline": "Israel demolishes home of Palestinian killed during settler attack",
+    "excerpt": "Video shows the moment Israeli forces blow up the home of Farouk Ramadan, a Palestinian man who was killed in July.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-11T20:51:50.504839+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss"
+  },
+  {
+    "id": "c5e0a10b0375",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T19:58",
+    "headline": "US military fires on cargo vessel it said sought to break Iran blockade",
+    "excerpt": "CENTCOM says helicopter fired at engine room of Panama-flagged Vela Nova as US-Iran diplomacy remains stalled.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-11T20:51:50.504866+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss"
+  },
+  {
     "id": "f67e7444d86c",
     "source": "Al Jazeera",
     "date": "2026-08-11T18:58",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-30T04:22:31.777928+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "66fa1a26e48d",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T03:49",
-    "headline": "Israeli strikes leave buildings burning in Gaza City",
-    "excerpt": "Israeli strikes have displaced dozens of families in Gaza City&#039;s Shati refugee camp.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-30T04:22:31.777971+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss"
-  },
-  {
-    "id": "b51762e47406",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T02:45",
-    "headline": "Living with fear: Inside a southern Lebanon village divided by Israel",
-    "excerpt": "Southern Lebanon’s Mansouri village is divided by Israel&#039;s Yellow Line, a military boundary separating area it occupies.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-30T04:22:31.778014+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/living-with-fear-inside-a-southern-lebanon-village-divided-by-israel?traffic_source=rss"
-  },
-  {
-    "id": "038e96bffda3",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T01:42",
-    "headline": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
-    "excerpt": "Uncertainty over crude oil supplies via the Strait of Hormuz is pushing Asian states towards Canada&#039;s TMX crude oil.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-07-30T04:22:31.778078+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss"
-  },
-  {
-    "id": "f6b93fe52429",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T01:04",
-    "headline": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
-    "excerpt": "US President Donald Trump has again signalled support for selling F-35 fighter jets to Turkiye.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-07-30T04:22:31.778103+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition?traffic_source=rss"
-  },
-  {
-    "id": "e1fa9b754813",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T00:23",
-    "headline": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
-    "excerpt": "Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-30T04:22:31.778140+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss"
   }
 ]
