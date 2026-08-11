@@ -1,5 +1,38 @@
 [
   {
+    "id": "ff7157e40e90",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T04:37",
+    "headline": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
+    "excerpt": "National oil company warns it may halt operations at the country&#039;s largest operating refinery if drone attacks continue.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-11T05:36:14.477158+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss"
+  },
+  {
+    "id": "b0240bae7637",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T04:34",
+    "headline": "China’s Long March 7A rocket explodes after lift-off",
+    "excerpt": "China’s Long March 7A rocket exploded shortly after lifting off from the Wenchang launch site in Hainan.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-11T05:36:14.477192+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss"
+  },
+  {
+    "id": "6f07c367ce37",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T04:09",
+    "headline": "Fire rages after drone strikes Libya’s largest oil refinery",
+    "excerpt": "A drone attack ignited gasoline at Libya&#039;s Zawiya oil refinery, the country&#039;s largest operational facility.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-11T05:36:14.477219+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss"
+  },
+  {
     "id": "0723c280c9c3",
     "source": "Al Jazeera",
     "date": "2026-08-11T03:32",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-29T07:32:01.050000+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
-  },
-  {
-    "id": "a723c78e2d1c",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T05:07",
-    "headline": "Protesters storm hotel, heckle Netanyahu in Washington DC",
-    "excerpt": "Activists protested at a hotel where Israeli Prime Minister Benjamin Netanyahu was having dinner in Washington, DC.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-29T07:32:01.050047+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss"
-  },
-  {
-    "id": "20558a63b919",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T04:47",
-    "headline": "Trump meets Netanyahu for a record seventh White House visit",
-    "excerpt": "Donald Trump and Benjamin Netanyahu met at the White House for the first time since launching the war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-29T07:32:01.050083+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss"
-  },
-  {
-    "id": "7f293a9d6170",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T01:37",
-    "headline": "Iraqi armed groups condemn ‘dangerous escalation’ after US-Saudi strikes",
-    "excerpt": "Riyadh says its targeted attacks were done in coordination with the US military.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-07-29T07:32:01.050131+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss"
   }
 ]
