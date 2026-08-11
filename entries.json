@@ -1,5 +1,16 @@
 [
   {
+    "id": "0147a39e6fc0",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T07:07",
+    "headline": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
+    "excerpt": "A children&#039;s hospital has also been struck in Kyiv, according to Ukraine&#039;s state emergency service.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-11T07:57:08.979567+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss"
+  },
+  {
     "id": "c11e4282edbe",
     "source": "Al Jazeera",
     "date": "2026-08-11T06:05",
@@ -5487,16 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-29T10:18:43.308732+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/29/russian-industrial-sites-on-fire-after-ukrainian-drone-attacks?traffic_source=rss"
-  },
-  {
-    "id": "cee67f18a010",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T07:51",
-    "headline": "IPL’s business value rockets to $20bn as India cricket league soars",
-    "excerpt": "Indian Premier League cements its place as cricket&#039;s number one T20 competition with an 11% rise in value this year.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-29T10:18:43.308769+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/29/ipls-business-value-rockets-to-20-billion-as-india-cricket-league-soars?traffic_source=rss"
   }
 ]
