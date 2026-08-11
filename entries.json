@@ -1,5 +1,27 @@
 [
   {
+    "id": "0723c280c9c3",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T03:32",
+    "headline": "Where did all the money go if the US is running out of weapons?",
+    "excerpt": "The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-11T04:23:15.896484+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss"
+  },
+  {
+    "id": "6eefe5a78baa",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T02:44",
+    "headline": "Colombia’s far-right government recognises Israeli claim over Golan Heights",
+    "excerpt": "The South American nation is only the second country to recognise Israel&#039;s claims over the illegally annexed territory.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-11T04:23:15.896543+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss"
+  },
+  {
     "id": "548fdb879270",
     "source": "Al Jazeera",
     "date": "2026-08-11T02:32",
@@ -5476,27 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-07-29T07:32:01.050131+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss"
-  },
-  {
-    "id": "1e769de42a0f",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T00:00",
-    "headline": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan",
-    "excerpt": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-29T07:32:01.050160+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss"
-  },
-  {
-    "id": "f0189cebf2e8",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T02:54",
-    "headline": "Iran missiles target US forces in Jordan after a five-day pause in war",
-    "excerpt": "The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-07-29T04:32:53.785856+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
   }
 ]
