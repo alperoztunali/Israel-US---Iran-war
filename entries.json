@@ -1,5 +1,16 @@
 [
   {
+    "id": "14a22de80bdd",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T14:44",
+    "headline": "Ten police and 17 ‘bandits’ killed in firefight in northwestern Nigeria",
+    "excerpt": "Police say 17 suspected gang members and two civilians were also killed in Kebbi State.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-11T17:42:50.111349+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/dozens-killed-in-firefight-between-nigerian-armed-group-and-police?traffic_source=rss"
+  },
+  {
     "id": "2bb9e6a80349",
     "source": "Al Jazeera",
     "date": "2026-08-11T15:20",
@@ -5487,16 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-07-29T23:44:16.392670+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss"
-  },
-  {
-    "id": "a02a1b2c2424",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T21:29",
-    "headline": "Myanmar court sentences activists to 37 years over election protest",
-    "excerpt": "Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-29T22:40:47.220355+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss"
   }
 ]
