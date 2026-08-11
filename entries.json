@@ -1,5 +1,49 @@
 [
   {
+    "id": "bdab5c28710e",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T14:06",
+    "headline": "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
+    "excerpt": "Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-08-11T14:37:01.245227+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss"
+  },
+  {
+    "id": "381e04c096dc",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T13:47",
+    "headline": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
+    "excerpt": "The Mecca defence pact combines a top oil exporter, NATO&#039;s second-largest army and the only Muslim nuclear arsenal.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-08-11T14:37:01.245267+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss"
+  },
+  {
+    "id": "b50e1de9f819",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T13:46",
+    "headline": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
+    "excerpt": "First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-11T14:37:01.245294+00:00",
+    "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss"
+  },
+  {
+    "id": "0155a30397fd",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T13:28",
+    "headline": "What’s behind Iran’s new military appointments and what do they indicate?",
+    "excerpt": "Observers say the nominations empower the hardline old guard, prioritise loyalty over military innovation.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-11T14:37:01.245318+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/whats-behind-irans-new-military-appointments-and-what-do-they-indicate?traffic_source=rss"
+  },
+  {
     "id": "4bc507c9cda2",
     "source": "Al Jazeera",
     "date": "2026-08-11T12:27",
@@ -5454,49 +5498,5 @@
     "location": "Oman",
     "addedAt": "2026-07-29T20:36:54.601875+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss"
-  },
-  {
-    "id": "96fe098a4cf8",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T19:55",
-    "headline": "New investigation shows how an Israeli settler escaped justice",
-    "excerpt": "A Palestinian rights&#039; group found that an Israeli settler killed Awdah Hathaleen but is still escaping justice.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-29T20:36:54.601912+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss"
-  },
-  {
-    "id": "8cb7c873716f",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T19:46",
-    "headline": "Ice cream for education: Gaza cafe raises funds for studies",
-    "excerpt": "In war-torn Gaza, a group of Palestinian students opened Flora, an ice cream shop and cafe, to pay university fees.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-29T20:36:54.601944+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/ice-cream-for-education-gaza-cafe-raises-funds-for-studies?traffic_source=rss"
-  },
-  {
-    "id": "91eefdde4b5c",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T19:06",
-    "headline": "Al-Shabab kills five Kenyan security personnel in ambush",
-    "excerpt": "The ambush is part of a rapid surge in cross-border attacks along Kenya&#039;s northern frontier.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-29T20:36:54.601978+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss"
-  },
-  {
-    "id": "6845b2f9d9ed",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T17:45",
-    "headline": "Iran pushes back against US as regional attacks heat up",
-    "excerpt": "New round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-29T19:36:01.232258+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss"
   }
 ]
