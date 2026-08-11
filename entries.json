@@ -1,5 +1,38 @@
 [
   {
+    "id": "4bc507c9cda2",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T12:27",
+    "headline": "Iran, US set new conditions during Hormuz talks: What does this mean?",
+    "excerpt": "Oil prices surge as talks stall over competing demands, hampering prospects for reopening crucial strait.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-11T13:24:20.447755+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean?traffic_source=rss"
+  },
+  {
+    "id": "6b84c8f26f97",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T11:46",
+    "headline": "Syrian court sentences Bashar al-Assad to death in absentia",
+    "excerpt": "Syrian court sentences Bashar al-Assad to death in absentia",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-11T13:24:20.447792+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss"
+  },
+  {
+    "id": "273693ba9d74",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T10:25",
+    "headline": "East Libya military intelligence chief killed in car bomb blast",
+    "excerpt": "Prime minister of the eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-08-11T13:24:20.447826+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss"
+  },
+  {
     "id": "61b1969fd49e",
     "source": "Al Jazeera",
     "date": "2026-08-11T11:30",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-29T19:36:01.232258+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss"
-  },
-  {
-    "id": "b5f39cf2d25c",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T17:16",
-    "headline": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
-    "excerpt": "Construction projects in Yemen are paused as rising fuel prices trigger a domino effect on building material costs.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-29T17:56:56.801062+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss"
-  },
-  {
-    "id": "3a6fe52a708c",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T16:43",
-    "headline": "Is the world at risk of another energy shock?",
-    "excerpt": "Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-07-29T17:56:56.801120+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss"
-  },
-  {
-    "id": "fd9d26a0d9e6",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T15:43",
-    "headline": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
-    "excerpt": "US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-29T16:35:24.981237+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss"
   }
 ]
