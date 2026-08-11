@@ -1,5 +1,60 @@
 [
   {
+    "id": "060b87008435",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T08:27",
+    "headline": "Bashar al-Assad, Atef Najib sentenced to death in landmark Syria trial",
+    "excerpt": "This is a breaking news story.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-11T09:08:57.500049+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/bashar-al-assad-atef-najib-sentenced-to-death-in-landmark-syria-trial?traffic_source=rss"
+  },
+  {
+    "id": "9a0283c34752",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T08:26",
+    "headline": "Trump sends conflicting signals on Iran strategy",
+    "excerpt": "Trump sends conflicting signals on Iran strategy",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-11T09:08:57.500095+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss"
+  },
+  {
+    "id": "4230a6a2aa2b",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T08:18",
+    "headline": "Iran threat prompted secret Trump flight from Turkiye: Reports",
+    "excerpt": "Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-11T09:08:57.500130+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss"
+  },
+  {
+    "id": "97d9514acded",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T08:13",
+    "headline": "Ukraine’s 40-day campaign has not brought the war closer to an end",
+    "excerpt": "Kyiv is facing a brutal Russian response as its air defence missile stocks dwindle.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-11T09:08:57.500165+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss"
+  },
+  {
+    "id": "169ab08658a6",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T08:04",
+    "headline": "What is the US spending all their war money on?",
+    "excerpt": "Why is the US Pentagon asking for more money for the war on Iran?",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-11T09:08:57.500194+00:00",
+    "link": "https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss"
+  },
+  {
     "id": "0147a39e6fc0",
     "source": "Al Jazeera",
     "date": "2026-08-11T07:07",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-29T12:30:38.720879+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss"
-  },
-  {
-    "id": "6ee119fbbadf",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T09:51",
-    "headline": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-    "excerpt": "A women’s safe spaces initiative in Gaza offers psychological support and awareness sessions.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-29T10:18:43.308595+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss"
-  },
-  {
-    "id": "94bb1c7a0c4f",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T08:33",
-    "headline": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
-    "excerpt": "The US and Saudi Arabia launched joint air strikes on Iraq, targeting ‘Iran-aligned’ groups.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-29T10:18:43.308631+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss"
-  },
-  {
-    "id": "2e4b92f8190b",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T08:16",
-    "headline": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
-    "excerpt": "Iran is proposing a deal that would see it have significantly more control than Oman.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-29T10:18:43.308665+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "fd0620ca5a74",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T08:07",
-    "headline": "Will Germany bring back mandatory military conscription next year?",
-    "excerpt": "A voluntary recruitment drive has only drawn 500 people so far this year, with many more eager to opt out.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-29T10:18:43.308704+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/29/will-germany-bring-back-mandatory-military-conscription-next-year?traffic_source=rss"
-  },
-  {
-    "id": "c62fc6377e3f",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T07:57",
-    "headline": "Russian industrial sites on fire after Ukrainian drone attacks",
-    "excerpt": "Russia&#039;s top online retailer Wildberries says it has evacuated warehouses in Ryazan.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-29T10:18:43.308732+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/29/russian-industrial-sites-on-fire-after-ukrainian-drone-attacks?traffic_source=rss"
   }
 ]
