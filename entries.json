@@ -1,5 +1,38 @@
 [
   {
+    "id": "61b1969fd49e",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T11:30",
+    "headline": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+    "excerpt": "After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-11T11:58:11.095319+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss"
+  },
+  {
+    "id": "0b56b4ae2357",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T11:28",
+    "headline": "Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out",
+    "excerpt": "Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-08-11T11:58:11.095369+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss"
+  },
+  {
+    "id": "cd1c7c12b82e",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T11:28",
+    "headline": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
+    "excerpt": "Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump&#039;s 15-point peace plan.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-11T11:58:11.095401+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss"
+  },
+  {
     "id": "b01f2930a9f1",
     "source": "Al Jazeera",
     "date": "2026-08-11T10:25",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-29T16:35:24.981237+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss"
-  },
-  {
-    "id": "748a1667da6f",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T14:39",
-    "headline": "Why Saudi Arabia holds the key to Palestinian statehood",
-    "excerpt": "Riyadh’s position in the Arab and Islamic worlds bears significant weight in the prospect of normalisation with Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-29T16:35:24.981290+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss"
-  },
-  {
-    "id": "1024ff59bfad",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T14:27",
-    "headline": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-    "excerpt": "New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-29T14:57:47.343385+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss"
-  },
-  {
-    "id": "fde88b84ca9f",
-    "source": "Al Jazeera",
-    "date": "2026-07-29T14:09",
-    "headline": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-    "excerpt": "&#039;There is no ceasefire&#039; say Palestinians in Gaza after new Israeli strikes",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-29T14:57:47.343430+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss"
   }
 ]
