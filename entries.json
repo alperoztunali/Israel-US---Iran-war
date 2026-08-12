@@ -1,5 +1,49 @@
 [
   {
+    "id": "d9fb053fbc7d",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T14:26",
+    "headline": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
+    "excerpt": "The legislation will &#039;exceptionally&#039; reduce certain prison terms, says Lebanon&#039;s parliament speaker.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-08-12T15:02:12.245749+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss"
+  },
+  {
+    "id": "14b924d31541",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T14:23",
+    "headline": "Iran is not anti-imperialist. It is a state calculating survival",
+    "excerpt": "Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-12T15:02:12.245795+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss"
+  },
+  {
+    "id": "e6bf085a8f3d",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T13:58",
+    "headline": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
+    "excerpt": "Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-12T15:02:12.245834+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss"
+  },
+  {
+    "id": "63ab46e55d10",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T10:27",
+    "headline": "Iran rejects Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
+    "excerpt": "Iran says Hormuz stays closed until US meets its demands and changes its &#039;behaviour&#039; as global energy prices rise.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-12T15:02:12.245880+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss"
+  },
+  {
     "id": "e3dc93d98445",
     "source": "Al Jazeera",
     "date": "2026-08-12T13:29",
@@ -5454,49 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-07-30T23:18:46.365839+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "78c3139b1e76",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T21:00",
-    "headline": "Will Saudi Arabia be dragged further into the war in Iran?",
-    "excerpt": "Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-07-30T22:10:49.767450+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss"
-  },
-  {
-    "id": "3264b644638c",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T20:39",
-    "headline": "Security camera shows ‘Russian missile’ exploding in Poland",
-    "excerpt": "Security camera video shows the moment a suspected Russian missile exploded inside Poland.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-30T20:46:59.397768+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss"
-  },
-  {
-    "id": "370d3c30567e",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T20:35",
-    "headline": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
-    "excerpt": "Colin Gray, 55, was convicted of second-degree murder after his son Colt carried out a school shooting that killed four.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-30T20:46:59.397813+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss"
-  },
-  {
-    "id": "d343c1637156",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T20:32",
-    "headline": "US authorities probe cyberattack on water systems in Minnesota",
-    "excerpt": "A cyberattack targeted more than 30 water facilities in the Midwestern US state earlier this week.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-30T20:46:59.397856+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss"
   }
 ]
