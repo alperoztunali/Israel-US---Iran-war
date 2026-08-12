@@ -1,5 +1,38 @@
 [
   {
+    "id": "c541804f302c",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T05:01",
+    "headline": "Can Trump keep his ‘irritation’ with Netanyahu in check?",
+    "excerpt": "Israel’s PM Benjamin Netanyahu has rejected Donald Trump’s Gaza peace plan which has exposed tensions between the two.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-12T05:58:13.253458+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss"
+  },
+  {
+    "id": "957562950eeb",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T04:59",
+    "headline": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
+    "excerpt": "Israeli forces arrest 23 Palestinians and demolish home of man killed in confrontation with Israeli settlers in July.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-12T05:58:13.253502+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss"
+  },
+  {
+    "id": "1c42ce1327aa",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T04:52",
+    "headline": "Did Trump flee an Iranian assassination plot on a catering truck?",
+    "excerpt": "New reports reveal the US President hid in a catering truck to switch planes over an alleged bomb plot in July.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-08-12T05:58:13.253529+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss"
+  },
+  {
     "id": "85b4430acd41",
     "source": "Al Jazeera",
     "date": "2026-08-12T04:13",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-30T11:55:09.145286+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "52b72b0bcb33",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T09:43",
-    "headline": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
-    "excerpt": "Families like the Tasabehjis aim to rebuild Syria, fostering community and hope despite economic and social challenges.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-30T11:55:09.145342+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss"
-  },
-  {
-    "id": "22495c266700",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T09:24",
-    "headline": "Apartheid wealth cannot buy silence on Gaza",
-    "excerpt": "South African universities must resist donors who use financial power to impose political obedience.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-30T11:55:09.145406+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "c9ad991a8f4e",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T09:17",
-    "headline": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
-    "excerpt": "US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-07-30T09:46:00.619235+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss"
   }
 ]
