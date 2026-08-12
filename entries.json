@@ -1,5 +1,60 @@
 [
   {
+    "id": "28d63a5c4987",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T21:06",
+    "headline": "11-year-old boy shot by Israeli forces in Gaza",
+    "excerpt": "The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-12T22:03:51.951611+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "cf76cd091e48",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T20:59",
+    "headline": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
+    "excerpt": "Repeated drone strikes on oil and power infrastructure are deepening Libya&#039;s energy crisis.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-12T22:03:51.951657+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss"
+  },
+  {
+    "id": "97cbc95db752",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T20:58",
+    "headline": "Israeli air strike kills one in northern Gaza",
+    "excerpt": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-08-12T22:03:51.951676+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss"
+  },
+  {
+    "id": "e912c6e8a7c5",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T20:58",
+    "headline": "Deadly India landslide kills at least seven in Mumbai",
+    "excerpt": "Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-12T22:03:51.951706+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss"
+  },
+  {
+    "id": "11bbefe327c1",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T20:53",
+    "headline": "Can Syria deliver transitional justice?",
+    "excerpt": "A court has sentenced ousted former leader Bashar al-Assad and others to death in absentia.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-12T22:03:51.951732+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss"
+  },
+  {
     "id": "9128236cb822",
     "source": "Al Jazeera",
     "date": "2026-08-12T20:26",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-31T07:37:54.327709+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss"
-  },
-  {
-    "id": "9b56cd6e2642",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T04:34",
-    "headline": "Iran holds funeral for Revolutionary Guard members reportedly killed in US",
-    "excerpt": "Residents gathered in the northwestern Iranian for the funeral of IRGC members killed in what Iran says was a US strike.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-31T07:37:54.327733+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss"
-  },
-  {
-    "id": "2b966c46454d",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T04:09",
-    "headline": "Southern Lebanese towns near Beaufort Castle hit by Israeli strikes",
-    "excerpt": "IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-07-31T04:43:12.567151+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss"
-  },
-  {
-    "id": "5cef519c07da",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T04:03",
-    "headline": "Death toll from Japan earthquake climbs to 34",
-    "excerpt": "The magnitude 7.1 quake has killed 34 people and left six more seriously injured.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-31T04:43:12.567193+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss"
-  },
-  {
-    "id": "2e2dbc678f76",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T03:35",
-    "headline": "Israeli blockades seal off village in the occupied West Bank",
-    "excerpt": "Al Jazeera visited the occupied West Bank village of Sinjil, where Israeli road closures have blocked all main entrances",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-31T04:43:12.567228+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-blockades-seal-off-village-in-the-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "5d07446d21cf",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T01:43",
-    "headline": "Israeli soldiers mutiny at notorious Sde Teiman base",
-    "excerpt": "Dozens of Israeli soldiers have abandoned their weapons and walked out of the Sde Teiman military base.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-31T04:43:12.567259+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-soldiers-mutiny-at-notorious-sde-teiman-base?traffic_source=rss"
   }
 ]
