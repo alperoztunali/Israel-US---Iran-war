@@ -1,5 +1,27 @@
 [
   {
+    "id": "8d0b1fc9fe21",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T21:53",
+    "headline": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+    "excerpt": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-08-12T23:02:47.398390+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss"
+  },
+  {
+    "id": "5ae25320e4c5",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T21:52",
+    "headline": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+    "excerpt": "US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-12T23:02:47.398435+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss"
+  },
+  {
     "id": "28d63a5c4987",
     "source": "Al Jazeera",
     "date": "2026-08-12T21:06",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-31T07:37:54.327632+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/7/31/pakistans-attacks-on-afghanistan-are-about-more-than-the-ttp?traffic_source=rss"
-  },
-  {
-    "id": "287aa762512f",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T06:49",
-    "headline": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
-    "excerpt": "Iran has continued its attacks on Gulf states, in what it calls retaliation for US strikes on Thursday.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-31T07:37:54.327672+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss"
-  },
-  {
-    "id": "9192e284ef03",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T06:24",
-    "headline": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
-    "excerpt": "Russian energy exports could face sweeping tariffs under bill named for late Senator Lindsey Graham.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-07-31T07:37:54.327709+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss"
   }
 ]
