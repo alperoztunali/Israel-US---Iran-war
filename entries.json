@@ -1,5 +1,38 @@
 [
   {
+    "id": "f6d06b23605a",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T00:39",
+    "headline": "N Korea launches ballistic missile as S Korea, US plan military drills",
+    "excerpt": "Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-12T02:22:19.999856+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss"
+  },
+  {
+    "id": "0d9abe83d333",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T00:00",
+    "headline": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
+    "excerpt": "Qatar says negotiations between Oman, Iran over future of shipping through Strait of Hormuz are making major progress.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-12T02:22:19.999891+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
+  },
+  {
+    "id": "234c02c997f6",
+    "source": "Al Jazeera",
+    "date": "2026-08-11T23:57",
+    "headline": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
+    "excerpt": "Footage shows an Egyptian-owned cargo vessel in flames in the Bab al-Mandeb strait after a suspected Houthi attack.",
+    "category": "Naval",
+    "location": "Egypt",
+    "addedAt": "2026-08-12T02:22:19.999915+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss"
+  },
+  {
     "id": "7f3297464672",
     "source": "Al Jazeera",
     "date": "2026-08-11T21:24",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-30T09:46:00.619421+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss"
-  },
-  {
-    "id": "84f533339ab6",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T05:21",
-    "headline": "War and shortages push Gaza hospitals to breaking point",
-    "excerpt": "Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-30T09:46:00.619454+00:00",
-    "link": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss"
-  },
-  {
-    "id": "6c58fa2bd5e4",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T04:55",
-    "headline": "US launches ‘powerful’ strikes on Iran after Jordan attack",
-    "excerpt": "The US has bombed multiple cities across southern Iran in what Central Command described as a ‘heavy wave of strikes’.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-07-30T09:46:00.619471+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss"
-  },
-  {
-    "id": "46828eb068b2",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T03:56",
-    "headline": "US launches ‘heavy wave’ of new strikes on Iran",
-    "excerpt": "Iranian media report that a couple and their two-year-old child were killed in the latest US attacks on Qeshm island.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-07-30T09:46:00.619489+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss"
   }
 ]
