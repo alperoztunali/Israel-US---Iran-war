@@ -1,5 +1,60 @@
 [
   {
+    "id": "a0ab39f9008f",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T08:19",
+    "headline": "Ukraine’s strikes on Russia’s Wildberries ‘aren’t about the front line’",
+    "excerpt": "The company akin to Amazon has come under heavy attacks in Russia as Kyiv tries to bring the sense of war home.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-12T08:53:47.458961+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss"
+  },
+  {
+    "id": "8c8e515ee20b",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T07:49",
+    "headline": "Three killed in overnight attacks on Russian, Ukrainian port cities",
+    "excerpt": "Russia&#039;s Novorossiysk &#039;endured a horrific night&#039;, with a child killed and dozens of buildings damaged, says local mayor.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-12T08:53:47.459014+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss"
+  },
+  {
+    "id": "9e4bdaba7a80",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T07:31",
+    "headline": "Trump says his decoy plane faced ‘greater risk’ in secret flight change",
+    "excerpt": "Air Force One was still carrying journalists and top aides, who remained at apparent risk of an Iranian strike.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-12T08:53:47.459058+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss"
+  },
+  {
+    "id": "e66a590e587a",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T07:28",
+    "headline": "Israeli government accused of complicity as settlers demolish Jericho homes",
+    "excerpt": "Israeli settlers demolish homes in village, leaving rubble and fear among displaced Palestinian families in Jericho.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-12T08:53:47.459094+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/israeli-government-accused-of-complicity-as-settlers-demolish-jericho-homes?traffic_source=rss"
+  },
+  {
+    "id": "8584cfe83b69",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T07:27",
+    "headline": "Autism and war: Gaza families grapple with destruction and loss",
+    "excerpt": "Continuous bombing disrupts routines, causing sensory shocks and behavioural relapses in Gaza&#039;s autistic children.",
+    "category": "Airstrike",
+    "location": "Gaza",
+    "addedAt": "2026-08-12T08:53:47.459116+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss"
+  },
+  {
     "id": "477eb7854c09",
     "source": "Al Jazeera",
     "date": "2026-08-12T04:59",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-30T14:14:43.040686+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss"
-  },
-  {
-    "id": "69f531f636d2",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T10:21",
-    "headline": "Israeli raids and settler attacks intensify across the occupied West Bank",
-    "excerpt": "Israeli raids and settler attacks intensify across the occupied West Bank",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-30T11:55:09.145056+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "3ee256d4b0d3",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T10:21",
-    "headline": "Attack on northwest Pakistan police post kills 11 officers",
-    "excerpt": "Fifteen attackers were also killed during the hours-long raid in Pakistan&#039;s northwestern Hangu district.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-30T11:55:09.145110+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss"
-  },
-  {
-    "id": "5c16966d00cb",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T10:20",
-    "headline": "Several children killed and wounded in Israeli attacks across Gaza",
-    "excerpt": "Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-30T11:55:09.145140+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
-  },
-  {
-    "id": "8b004472fae6",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T10:18",
-    "headline": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
-    "excerpt": "The alliance aims to defend shipping from attacks by Iran-backed Houthis in Yemen.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-07-30T11:55:09.145167+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss"
-  },
-  {
-    "id": "39b23561aa44",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T10:13",
-    "headline": "Poland says Russian missile breaches NATO airspace",
-    "excerpt": "Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-30T11:55:09.145196+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss"
   }
 ]
