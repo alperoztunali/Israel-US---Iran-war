@@ -1,5 +1,71 @@
 [
   {
+    "id": "85b4430acd41",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T04:13",
+    "headline": "Drone strikes power station near Libya’s largest oil refinery",
+    "excerpt": "A drone has struck a power station in Libya’s western city of Zawiya",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-12T04:23:05.176978+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss"
+  },
+  {
+    "id": "ebe276cbe014",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T03:57",
+    "headline": "Russia frees ex-US marine Gilman jailed since 2022",
+    "excerpt": "Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-12T04:23:05.177029+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss"
+  },
+  {
+    "id": "71cb5bf92a18",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T03:41",
+    "headline": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
+    "excerpt": "Brent crude climbs as renewed violence dampens hopes for a return to stability in energy markets.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-08-12T04:23:05.177066+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss"
+  },
+  {
+    "id": "054fe8ea8312",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T03:09",
+    "headline": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
+    "excerpt": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-08-12T04:23:05.177092+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss"
+  },
+  {
+    "id": "0c37df480eee",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T02:29",
+    "headline": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
+    "excerpt": "Iran&#039;s top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-08-12T04:23:05.177141+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss"
+  },
+  {
+    "id": "c722e6566510",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T02:21",
+    "headline": "Stronghold of Syrian revolution celebrates Assad’s death sentence",
+    "excerpt": "Syrians in Idlib gathered in celebration after a court sentenced ousted President Bashar al-Assad",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-12T04:23:05.177181+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss"
+  },
+  {
     "id": "f6d06b23605a",
     "source": "Al Jazeera",
     "date": "2026-08-12T00:39",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-30T09:46:00.619235+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss"
-  },
-  {
-    "id": "ff37c9a7c4b1",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T09:10",
-    "headline": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
-    "excerpt": "Russia launches more than 70 missiles and 280 drones in a major attack on Ukraine that kills at least 14 people.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-30T09:46:00.619289+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss"
-  },
-  {
-    "id": "dfbd22cf227a",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T08:24",
-    "headline": "Saudi Arabia confirmed to host Asian Champions League Elite finals",
-    "excerpt": "Saudi Arabia has hosted the last two Asian Champions League Elite finals and has now been confirmed for the next three.",
-    "category": "Statement",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-07-30T09:46:00.619318+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/7/30/saudi-arabia-confirmed-to-host-asian-champions-league-elite-finals?traffic_source=rss"
-  },
-  {
-    "id": "e89d054285b6",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T07:24",
-    "headline": "US strikes cause extensive damage on Iran’s Qeshm Island",
-    "excerpt": "Video from Iran&#039;s Qeshm Island shows widespread damage following US attacks.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-30T09:46:00.619343+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss"
-  },
-  {
-    "id": "3299033b6eea",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T07:13",
-    "headline": "Is Israel repeating the Crusaders’ fatal mistake?",
-    "excerpt": "Deja Vu explores why the Crusader kingdom fell and asks: could Israel be next?",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-30T09:46:00.619367+00:00",
-    "link": "https://www.aljazeera.com/video/deja-vu-2/2026/7/30/is-israel-repeating-the-crusaders-fatal-mistake?traffic_source=rss"
-  },
-  {
-    "id": "b0732630c662",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T07:13",
-    "headline": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
-    "excerpt": "Rights group says India continues to support the Israeli military despite genocide &#039;broadcast worldwide on daily basis&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-30T09:46:00.619399+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss"
-  },
-  {
-    "id": "65f760dfc230",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T07:02",
-    "headline": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
-    "excerpt": "A large anchorage area off the coast of Malaysia is a major marketplace for sanctioned oil.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-30T09:46:00.619421+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss"
   }
 ]
