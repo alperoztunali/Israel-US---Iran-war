@@ -1,5 +1,38 @@
 [
   {
+    "id": "56e194cfab3e",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T15:36",
+    "headline": "Is Russia’s economy cracking despite the Iran war windfall?",
+    "excerpt": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-12T16:10:12.827581+00:00",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss"
+  },
+  {
+    "id": "bf7efa56e48a",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T15:29",
+    "headline": "Iran remains defiant as it vows to fight US until demands met",
+    "excerpt": "IRGC advisers say Iran has replaced more missiles and drones than it used, and cite falling US munition stocks.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-08-12T16:10:12.827619+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss"
+  },
+  {
+    "id": "0945bd0cc188",
+    "source": "Al Jazeera",
+    "date": "2026-08-12T15:07",
+    "headline": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
+    "excerpt": "Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-08-12T16:10:12.827658+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss"
+  },
+  {
     "id": "d9fb053fbc7d",
     "source": "Al Jazeera",
     "date": "2026-08-12T14:26",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-07-31T01:06:17.926771+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss"
-  },
-  {
-    "id": "cbf5f84f84e0",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T00:03",
-    "headline": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
-    "excerpt": "Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-07-31T01:06:17.926824+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
-  },
-  {
-    "id": "a8fd7cdbaaa9",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T23:51",
-    "headline": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
-    "excerpt": "US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-31T01:06:17.926857+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss"
-  },
-  {
-    "id": "59abf69a78c1",
-    "source": "Al Jazeera",
-    "date": "2026-07-30T22:34",
-    "headline": "Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza",
-    "excerpt": "This is a breaking news story.",
-    "category": "Diplomatic",
-    "location": "Gaza",
-    "addedAt": "2026-07-30T23:18:46.365839+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss"
   }
 ]
