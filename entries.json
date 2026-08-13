@@ -1,5 +1,27 @@
 [
   {
+    "id": "6cf0855969e9",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T21:10",
+    "headline": "Israeli strikes in Gaza kill two, including police chief",
+    "excerpt": "Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-08-13T21:51:54.657708+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss"
+  },
+  {
+    "id": "9ef5c8aea582",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T21:04",
+    "headline": "Mexico says Colombia rejected its earthquake rescue team",
+    "excerpt": "Colombia denies politics played a role after Mexico said its military rescuers were refused entry.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-08-13T21:51:54.657754+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss"
+  },
+  {
     "id": "583a05145868",
     "source": "Al Jazeera",
     "date": "2026-08-13T19:53",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-08-01T09:34:11.060569+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss"
-  },
-  {
-    "id": "8d3d1f57ee77",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T02:06",
-    "headline": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
-    "excerpt": "Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-01T07:30:14.729068+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss"
-  },
-  {
-    "id": "3690e755107f",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T03:33",
-    "headline": "Yemen’s Houthis deny plan to charge ships transiting Red Sea",
-    "excerpt": "Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees.",
-    "category": "Naval",
-    "location": "Yemen",
-    "addedAt": "2026-08-01T04:54:57.734423+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss"
   }
 ]
