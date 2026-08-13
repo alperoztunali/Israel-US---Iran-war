@@ -1,5 +1,38 @@
 [
   {
+    "id": "02515dc945c6",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T11:56",
+    "headline": "US-Iran talks in deadlock – what’s the latest?",
+    "excerpt": "The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-08-13T12:33:47.833728+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "d4c229bf91db",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T11:29",
+    "headline": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+    "excerpt": "Israel carts away Gaza&#039;s rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-13T12:33:47.833783+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss"
+  },
+  {
+    "id": "f72e58049c98",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T11:14",
+    "headline": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
+    "excerpt": "At least 437 civilians were killed and 2,610 injured in Ukraine in July, the UN Human Rights Monitoring Mission said.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-13T12:33:47.833819+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss"
+  },
+  {
     "id": "944ff879e00a",
     "source": "Al Jazeera",
     "date": "2026-08-13T10:41",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-31T18:26:10.108121+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss"
-  },
-  {
-    "id": "ef697dcb4795",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T16:35",
-    "headline": "Three-year roadmap proposed for Hamas disarmament in Gaza",
-    "excerpt": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza&#039;s political transition",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-07-31T16:57:45.318577+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "07c17c02ed54",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T15:30",
-    "headline": "The promise I made to Ismail al-Ghoul",
-    "excerpt": "He asked me to keep telling Gaza’s story. Two years after Israel killed him, I have not stopped.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-07-31T16:57:45.318619+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss"
-  },
-  {
-    "id": "d69f4619aaee",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T14:22",
-    "headline": "Russia and Ukraine report casualties as they continue to trade attacks",
-    "excerpt": "Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-07-31T15:02:50.211904+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss"
   }
 ]
