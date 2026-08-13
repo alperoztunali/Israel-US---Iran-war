@@ -1,5 +1,16 @@
 [
   {
+    "id": "6d10290c3c12",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T18:28",
+    "headline": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+    "excerpt": "Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-13T19:45:37.281938+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss"
+  },
+  {
     "id": "e758f2df9beb",
     "source": "Al Jazeera",
     "date": "2026-08-13T17:57",
@@ -5487,16 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-01T04:54:57.734504+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss"
-  },
-  {
-    "id": "e66d8d75e917",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T01:55",
-    "headline": "US military says F-35B jet fighter crashes in California, pilot safe",
-    "excerpt": "The jet went down on Friday near the Miramar airbase in San Diego.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-08-01T04:54:57.734532+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss"
   }
 ]
