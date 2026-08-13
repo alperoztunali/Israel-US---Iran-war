@@ -1,5 +1,49 @@
 [
   {
+    "id": "bae2cbe24910",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T05:26",
+    "headline": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
+    "excerpt": "Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-08-13T06:06:21.443355+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
+  },
+  {
+    "id": "d6e10855d46c",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T04:34",
+    "headline": "Three Palestinian families besieged in their homes by Israeli settlers",
+    "excerpt": "Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-13T06:06:21.443403+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss"
+  },
+  {
+    "id": "1426b08a0633",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T04:26",
+    "headline": "Oman says oil spill from stricken tanker has reached its coast",
+    "excerpt": "Up to 40km of coastline affected by oil pollution, Omani environmental authority says.",
+    "category": "Naval",
+    "location": "Oman",
+    "addedAt": "2026-08-13T06:06:21.443438+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss"
+  },
+  {
+    "id": "6204f1cc80dd",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T03:54",
+    "headline": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
+    "excerpt": "Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-13T06:06:21.443478+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
     "id": "32ac274d92e1",
     "source": "Al Jazeera",
     "date": "2026-08-13T03:54",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-07-31T10:18:19.551742+00:00",
     "link": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss"
-  },
-  {
-    "id": "652dc81df0b6",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T09:23",
-    "headline": "Her mother said no to a phone. Then came the Gaza genocide",
-    "excerpt": "As the world debated social media use, Eman Lulu&#039;s phone became a lifeline and a window into Gaza for millions.",
-    "category": "Statement",
-    "location": "Gaza",
-    "addedAt": "2026-07-31T10:18:19.551790+00:00",
-    "link": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss"
-  },
-  {
-    "id": "9f4c32b8e28d",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T09:09",
-    "headline": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
-    "excerpt": "Iran says it struck Kuwait in retaliation for US strikes on multiple locations in Iran, including Qeshm island.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-07-31T10:18:19.551823+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss"
-  },
-  {
-    "id": "01301c7499e1",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T08:53",
-    "headline": "Hamas agrees to phased disarmament in Gaza",
-    "excerpt": "Hamas has agreed to gradually disarm in Gaza as part of Donald Trump’s 20-point peace plan.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-07-31T10:18:19.551856+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/hamas-agrees-to-phased-disarmament-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "a2c13e909fc4",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T08:03",
-    "headline": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
-    "excerpt": "Israel claims army blew up Hezbollah tunnels in southern Lebanon, amid reports of blasts near UNESCO-listed fortress.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-31T10:18:19.551886+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss"
   }
 ]
