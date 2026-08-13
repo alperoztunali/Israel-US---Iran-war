@@ -1,5 +1,60 @@
 [
   {
+    "id": "d1d682081e03",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T14:59",
+    "headline": "Iran says Strait of Hormuz under its control, rejects Trump claims",
+    "excerpt": "Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-13T15:15:53.161922+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss"
+  },
+  {
+    "id": "2ab61af49fe2",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T14:41",
+    "headline": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
+    "excerpt": "The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-13T15:15:53.161968+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss"
+  },
+  {
+    "id": "b45bfa59418c",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T14:29",
+    "headline": "Oman says massive oil spill reaches coastline: What damage could it do?",
+    "excerpt": "Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.",
+    "category": "Naval",
+    "location": "Oman",
+    "addedAt": "2026-08-13T15:15:53.162005+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss"
+  },
+  {
+    "id": "f5321e0bd319",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T14:29",
+    "headline": "Ukraine attacks key Russian grain terminal on Black Sea port",
+    "excerpt": "Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-13T15:15:53.162048+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss"
+  },
+  {
+    "id": "8c2999c04688",
+    "source": "Al Jazeera",
+    "date": "2026-08-13T14:02",
+    "headline": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
+    "excerpt": "Michigan-based group leads class action lawsuit against US government and defence contractors over Lebanon war abuses.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-13T15:15:53.162087+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss"
+  },
+  {
     "id": "e191b51591c5",
     "source": "Al Jazeera",
     "date": "2026-08-13T12:42",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-07-31T21:29:18.636208+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss"
-  },
-  {
-    "id": "c56bd113be64",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T19:48",
-    "headline": "Poland protests to Russian ambassador over missile incursion",
-    "excerpt": "Warsaw asserts missile recently made, illustrating Russia&#039;s nightly barrage against Ukraine is draining arsenal.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-07-31T20:04:12.597292+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss"
-  },
-  {
-    "id": "dfdd1c1346fe",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T19:18",
-    "headline": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
-    "excerpt": "Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-31T20:04:12.597332+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss"
-  },
-  {
-    "id": "4bbbb8909f0b",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T18:51",
-    "headline": "World reacts with cautious optimism to Hamas disarmament agreement",
-    "excerpt": "Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-07-31T20:04:12.597357+00:00",
-    "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss"
-  },
-  {
-    "id": "b201afa4a026",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T18:44",
-    "headline": "Trump says Hamas disarmament deal will be complex to deliver",
-    "excerpt": "Trump said Israel strongly supports an agreement for the complete disarmament of Hamas",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-07-31T20:04:12.597377+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss"
-  },
-  {
-    "id": "c1116dcf6adb",
-    "source": "Al Jazeera",
-    "date": "2026-07-31T18:11",
-    "headline": "Syrian lawyer takes on ex-Assad official in landmark trial",
-    "excerpt": "Syrian lawyer takes on ex-Assad official in landmark trial",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-07-31T18:26:10.108035+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss"
   }
 ]
