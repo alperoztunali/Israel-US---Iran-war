@@ -1,5 +1,27 @@
 [
   {
+    "id": "b86a0999c804",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T21:50",
+    "headline": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+    "excerpt": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-14T22:33:57.764466+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss"
+  },
+  {
+    "id": "5b82446fabd0",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T21:45",
+    "headline": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+    "excerpt": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-14T22:33:57.764530+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss"
+  },
+  {
     "id": "b7c830df38c1",
     "source": "Al Jazeera",
     "date": "2026-08-14T19:36",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-02T06:41:22.815133+00:00",
     "link": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss"
-  },
-  {
-    "id": "e5d7ba0587c0",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T04:44",
-    "headline": "Three dead including female bomber in Moscow restaurant attack",
-    "excerpt": "At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-08-02T06:41:22.815165+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss"
-  },
-  {
-    "id": "e3632058ec44",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T03:36",
-    "headline": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
-    "excerpt": "The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-02T06:41:22.815200+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss"
   }
 ]
