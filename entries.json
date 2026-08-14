@@ -1,5 +1,38 @@
 [
   {
+    "id": "4156203c539b",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T18:55",
+    "headline": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+    "excerpt": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-08-14T19:38:08.003231+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss"
+  },
+  {
+    "id": "74b3af67fc25",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T18:43",
+    "headline": "Art offers young Gaza survivors solace and escape from war’s devastation",
+    "excerpt": "Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-14T19:38:08.003285+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss"
+  },
+  {
+    "id": "5bc4377d6589",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T18:28",
+    "headline": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
+    "excerpt": "Elon Musk earned 2.5 million times more than a Tesla worker&#039;s median pay in 2025, despite revenue and sales declines.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-14T19:38:08.003319+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss"
+  },
+  {
     "id": "6a1e8ed72e71",
     "source": "Al Jazeera",
     "date": "2026-08-14T16:46",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-02T06:41:22.815233+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss"
-  },
-  {
-    "id": "2da6c32183e7",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T00:00",
-    "headline": "Iran war live: Trump cancels attack, calls for a ‘rapid’ deal on Hormuz",
-    "excerpt": "Move comes after Iran&#039;s top diplomat warned of a &#039;decisive response&#039; to any US-Israeli &#039;aggression&#039;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-02T06:41:22.815279+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss"
-  },
-  {
-    "id": "937e8bad4b3f",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T02:58",
-    "headline": "Israel kills five in Gaza despite Trump’s Hamas disarmament plan",
-    "excerpt": "Strikes hit Gaza homes after the US unveiled plan for Hamas disarmament and Israeli withdrawal.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-02T03:59:26.981126+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss"
-  },
-  {
-    "id": "6cd98597b949",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T02:24",
-    "headline": "US embassies issue alerts after Trump vows to hit Iran ‘hard’",
-    "excerpt": "US embassies in the Middle East are bracing for possible escalation after Trump said the US will hit Iran &#039;hard&#039;.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-08-02T03:59:26.981178+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss"
   }
 ]
