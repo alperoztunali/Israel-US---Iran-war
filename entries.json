@@ -1,5 +1,38 @@
 [
   {
+    "id": "39dc17c1971f",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T23:02",
+    "headline": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
+    "excerpt": "Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-14T23:38:29.729522+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss"
+  },
+  {
+    "id": "aab9da71a2c3",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T22:58",
+    "headline": "Houthi attack on port kills four eroding truce with Yemen’s government",
+    "excerpt": "Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-08-14T23:38:29.729554+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss"
+  },
+  {
+    "id": "519286e670c5",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T22:45",
+    "headline": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+    "excerpt": "Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-14T23:38:29.729587+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss"
+  },
+  {
     "id": "b86a0999c804",
     "source": "Al Jazeera",
     "date": "2026-08-14T21:50",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-02T10:50:50.017300+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss"
-  },
-  {
-    "id": "7638ee3ac15c",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T08:43",
-    "headline": "Trump ‘cancels attack on Iran’ saying deal is near",
-    "excerpt": "US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-02T09:01:10.822301+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss"
-  },
-  {
-    "id": "5a5047348f86",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T05:29",
-    "headline": "At least three dead in Idaho shopping mall mass shooting",
-    "excerpt": "Police said at least three people were killed several others were wounded in a shooting at an In-N-Out Burger in Idaho.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-02T06:41:22.815077+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss"
-  },
-  {
-    "id": "9dfa847ce4c3",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T05:27",
-    "headline": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-    "excerpt": "Students in Gaza overcome distressing conditions amid Israel&#039;s genocide to finish their Tawjihi high school exams.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-02T06:41:22.815133+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss"
   }
 ]
