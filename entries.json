@@ -1,5 +1,27 @@
 [
   {
+    "id": "7bdb5070b9f7",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T03:20",
+    "headline": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
+    "excerpt": "An oil slick from the tanker the Caroline Bezengi has reached Oman’s coastline weeks after the vessel ran aground.",
+    "category": "Naval",
+    "location": "Oman",
+    "addedAt": "2026-08-14T04:23:33.593021+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss"
+  },
+  {
+    "id": "b1b778724043",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T02:21",
+    "headline": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
+    "excerpt": "UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-14T04:23:33.593070+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss"
+  },
+  {
     "id": "dc07b6542ae0",
     "source": "Al Jazeera",
     "date": "2026-08-14T01:09",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-01T15:11:34.631760+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss"
-  },
-  {
-    "id": "4cf2efde2b43",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T13:46",
-    "headline": "Children run marathon to spotlight Gaza’s growing orphan crises",
-    "excerpt": "Children run marathon to spotlight Gaza&#039;s growing orphan crisis",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-01T15:11:34.631789+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss"
-  },
-  {
-    "id": "ba440644dec0",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T12:44",
-    "headline": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
-    "excerpt": "Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-01T13:59:36.066581+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss"
   }
 ]
