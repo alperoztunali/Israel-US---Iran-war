@@ -1,5 +1,27 @@
 [
   {
+    "id": "0452a7db687e",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T09:28",
+    "headline": "Russia says hit Ukrainian railway and port facilities in new strikes",
+    "excerpt": "Kyiv targets Baltic oil hub and warehouse near Moscow with drones.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-14T10:08:33.001321+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss"
+  },
+  {
+    "id": "cc091c467acd",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T09:00",
+    "headline": "What is a ‘ceasefire’ supposed to achieve?",
+    "excerpt": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-14T10:08:33.001371+00:00",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss"
+  },
+  {
     "id": "e24320c491fa",
     "source": "Al Jazeera",
     "date": "2026-08-14T08:15",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-01T18:31:47.673204+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss"
-  },
-  {
-    "id": "c149ac3c92cb",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T16:43",
-    "headline": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
-    "excerpt": "The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.",
-    "category": "Diplomatic",
-    "location": "Iraq",
-    "addedAt": "2026-08-01T17:26:53.653404+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss"
-  },
-  {
-    "id": "29e5e96b5cfb",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T16:07",
-    "headline": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
-    "excerpt": "Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-08-01T17:26:53.653452+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss"
   }
 ]
