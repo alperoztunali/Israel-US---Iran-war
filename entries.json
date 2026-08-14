@@ -1,5 +1,60 @@
 [
   {
+    "id": "dc07b6542ae0",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T01:09",
+    "headline": "Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’",
+    "excerpt": "Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-08-14T02:22:05.430039+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss"
+  },
+  {
+    "id": "82b329119a1d",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T00:39",
+    "headline": "Israel’s Katz hails settlers for ‘holding onto’ Palestinian land",
+    "excerpt": "Israel’s Defence Minister Israel Katz praised radical Hilltop Youth settlers for ‘holding onto’ Palestinian land.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-14T02:22:05.430090+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss"
+  },
+  {
+    "id": "15ed7830a3b9",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T00:33",
+    "headline": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
+    "excerpt": "No injuries were reported in the attack, which the UAE called &#039;piracy&#039; and a threat to global energy security.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-14T02:22:05.430118+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "cfa383a339c2",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T00:02",
+    "headline": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
+    "excerpt": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-08-14T02:22:05.430142+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss"
+  },
+  {
+    "id": "d0a83d485872",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T00:00",
+    "headline": "Iran war live: US eyes indefinite Iran naval blockade",
+    "excerpt": "US Defense Secretary Pete Hegseth says the US can sustain its blockade against Iran &#039;indefinitely&#039;.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-14T02:22:05.430163+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss"
+  },
+  {
     "id": "0e53d549133d",
     "source": "Al Jazeera",
     "date": "2026-08-13T23:09",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-01T13:59:36.066581+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss"
-  },
-  {
-    "id": "2692165d2564",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T12:40",
-    "headline": "Sde Teiman walkout lays bare an Israeli military running out of trust",
-    "excerpt": "Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-01T13:59:36.066627+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss"
-  },
-  {
-    "id": "68a3141c8c54",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T11:21",
-    "headline": "Trump mimics sound of Patriot missile interceptions",
-    "excerpt": "US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-08-01T12:13:24.547780+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss"
-  },
-  {
-    "id": "04a61d982345",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T10:38",
-    "headline": "Omani legend, US novice: Pakistan recovers bodies from Broad Peak",
-    "excerpt": "Rescuers are still looking for other missing climbers swept away in an avalanche on the world&#039;s 12th largest peak.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-08-01T11:06:25.207229+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss"
-  },
-  {
-    "id": "0d21ae39fd73",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T10:30",
-    "headline": "Iran: The Making of a War",
-    "excerpt": "From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-01T11:06:25.207282+00:00",
-    "link": "https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss"
-  },
-  {
-    "id": "46534e77cd55",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T09:47",
-    "headline": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
-    "excerpt": "Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-01T11:06:25.207318+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss"
   }
 ]
