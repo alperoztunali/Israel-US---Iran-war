@@ -1,5 +1,16 @@
 [
   {
+    "id": "a03c73099bfc",
+    "source": "Al Jazeera",
+    "date": "2026-08-14T10:28",
+    "headline": "Seven killed in tunnel accident at Indian hydropower project",
+    "excerpt": "Water and debris burst into a state-run hydropower tunnel in Uttarakhand following a landslide.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-14T11:08:57.016501+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss"
+  },
+  {
     "id": "0452a7db687e",
     "source": "Al Jazeera",
     "date": "2026-08-14T09:28",
@@ -5487,16 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-01T18:31:47.673179+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss"
-  },
-  {
-    "id": "9eab228eb371",
-    "source": "Al Jazeera",
-    "date": "2026-08-01T17:28",
-    "headline": "Israeli forces detain residents and demolish homes in southern Syria",
-    "excerpt": "Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement line into Syria&#039;s southern provinces.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-01T18:31:47.673204+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss"
   }
 ]
