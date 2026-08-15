@@ -1,5 +1,27 @@
 [
   {
+    "id": "000e4796b15f",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T06:10",
+    "headline": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+    "excerpt": "Greenhouses and rented plots are lifelines for Gaza&#039;s farmers, helping them grow crops despite the extensive destruction",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-15T06:46:00.654773+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss"
+  },
+  {
+    "id": "bfaa42f3d052",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T01:36",
+    "headline": "At least 20 killed as magnitude 7.7 quake hits Indonesia",
+    "excerpt": "The death toll is expected to climb further as emergency teams continue search and rescue efforts.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-15T06:46:00.654833+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss"
+  },
+  {
     "id": "5968399fef0f",
     "source": "Al Jazeera",
     "date": "2026-08-15T04:44",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-02T16:13:40.041147+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss"
-  },
-  {
-    "id": "cbd314c6424d",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T15:14",
-    "headline": "Ukrainian farmers use temporary storage to revive grain exports",
-    "excerpt": "Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-02T16:13:40.041197+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss"
-  },
-  {
-    "id": "7ac7b8de566e",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T14:44",
-    "headline": "Heatwave forces nuclear shutdown in Hungary",
-    "excerpt": "Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-08-02T16:13:40.041231+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss"
   }
 ]
