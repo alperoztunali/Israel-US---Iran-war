@@ -1,5 +1,27 @@
 [
   {
+    "id": "af0da66d6d07",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T10:48",
+    "headline": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
+    "excerpt": "The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five-year deal.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-08-15T11:24:18.772372+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss"
+  },
+  {
+    "id": "d9e0ebd50604",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T07:18",
+    "headline": "Israeli strikes kill nine in southern Lebanon as attacks intensify",
+    "excerpt": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-15T11:24:18.772416+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss"
+  },
+  {
     "id": "f84dc9de6da5",
     "source": "Al Jazeera",
     "date": "2026-08-15T10:18",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-02T19:56:12.630596+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss"
-  },
-  {
-    "id": "07a943a171cb",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T18:28",
-    "headline": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
-    "excerpt": "Former US hostage John Limbert says Washington ‘can’t bomb and assassinate its way to a better relationship’ with Iran.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-08-02T19:56:12.630620+00:00",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss"
-  },
-  {
-    "id": "4b52d25ad2c5",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T17:57",
-    "headline": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
-    "excerpt": "Residents searching through the rubble of an Israeli strike in western Gaza City recovered the body of an unborn baby.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-02T18:32:33.906766+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss"
   }
 ]
