@@ -1,5 +1,16 @@
 [
   {
+    "id": "2caf91f131c0",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T20:07",
+    "headline": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+    "excerpt": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-15T20:32:39.994773+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss"
+  },
+  {
     "id": "12dc7f9da43a",
     "source": "Al Jazeera",
     "date": "2026-08-15T18:11",
@@ -5487,16 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-08-03T07:47:57.290841+00:00",
     "link": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss"
-  },
-  {
-    "id": "0d4e49806a1b",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T00:00",
-    "headline": "Iran war live: Iranian FM says no current talks with US; Oman talks ongoing",
-    "excerpt": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-03T07:47:57.290894+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss"
   }
 ]
