@@ -1,5 +1,16 @@
 [
   {
+    "id": "f84dc9de6da5",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T10:18",
+    "headline": "At scene of deadly Israeli strike on Lebanon home",
+    "excerpt": "An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-15T10:51:11.246639+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss"
+  },
+  {
     "id": "86d98b22da18",
     "source": "Al Jazeera",
     "date": "2026-08-15T07:27",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-02T18:32:33.906766+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "1c8dac808aa3",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T17:06",
-    "headline": "‘Iran war participation trophy’ mocking Trump appears in New York",
-    "excerpt": "A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-02T18:32:33.906817+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss"
   }
 ]
