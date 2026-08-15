@@ -1,5 +1,27 @@
 [
   {
+    "id": "44d5816fceaf",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T03:52",
+    "headline": "Did the US really destroy Iran’s ballistic missile capability?",
+    "excerpt": "The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream&quot;.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-08-15T04:15:07.620532+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss"
+  },
+  {
+    "id": "0a1271528727",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T03:39",
+    "headline": "India marks 80th Independence Day with military display",
+    "excerpt": "India marked its 80th Independence Day at Delhi’s historic Red Fort.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-15T04:15:07.620590+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss"
+  },
+  {
     "id": "a63a60bb10be",
     "source": "Al Jazeera",
     "date": "2026-08-15T02:25",
@@ -5476,27 +5498,5 @@
     "location": "Strait Of Hormuz",
     "addedAt": "2026-08-02T16:13:40.041361+00:00",
     "link": "https://www.aljazeera.com/economy/2026/8/2/rubios-bypass-plan-can-the-world-escape-the-strait-of-hormuz-chokepoint?traffic_source=rss"
-  },
-  {
-    "id": "26b9bca30117",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T13:40",
-    "headline": "Pakistan-administered Kashmir election boycott follows deadly crackdown",
-    "excerpt": "Residents in Muzaffarabad, in Pakistan-administered Kashmir, have boycotted the election amid a strike.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-02T13:57:11.097238+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss"
-  },
-  {
-    "id": "3eac7ec6415e",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T13:08",
-    "headline": "Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers",
-    "excerpt": "Poor road infrastructure is exacerbating Yemen&#039;s water crisis, leading to hardships for thousands in Taiz governorate.",
-    "category": "Naval",
-    "location": "Yemen",
-    "addedAt": "2026-08-02T13:57:11.097285+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss"
   }
 ]
