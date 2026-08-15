@@ -1,5 +1,27 @@
 [
   {
+    "id": "0a8908ac81f1",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T11:30",
+    "headline": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+    "excerpt": "Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-15T11:46:34.504711+00:00",
+    "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss"
+  },
+  {
+    "id": "9ceadda79ade",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T11:19",
+    "headline": "Aftermath of deadly Indonesia earthquake",
+    "excerpt": "Dozens of people have been killed after a 7.7-magnitude earthquake off Indonesia’s Flores Island.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-15T11:46:34.504758+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss"
+  },
+  {
     "id": "af0da66d6d07",
     "source": "Al Jazeera",
     "date": "2026-08-15T10:48",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-02T19:56:12.630533+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss"
-  },
-  {
-    "id": "7300f8086e61",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T19:08",
-    "headline": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-    "excerpt": "Tehran&#039;s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-08-02T19:56:12.630567+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss"
-  },
-  {
-    "id": "136915e14aed",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T18:37",
-    "headline": "Ukrainian drone attacks kill eight in response to Russian missiles",
-    "excerpt": "Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-02T19:56:12.630596+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss"
   }
 ]
