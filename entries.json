@@ -1,5 +1,27 @@
 [
   {
+    "id": "5968399fef0f",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T04:44",
+    "headline": "Taiwan passes defence budget after record delay, retains drone funding",
+    "excerpt": "Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-15T05:29:19.311685+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss"
+  },
+  {
+    "id": "663722f1a4c1",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T01:36",
+    "headline": "At least five killed as magnitude 7.7 quake hits Indonesia",
+    "excerpt": "The death toll is expected to climb further as emergency teams continue search and rescue efforts.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-15T05:29:19.311741+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss"
+  },
+  {
     "id": "0d8e6394350b",
     "source": "Al Jazeera",
     "date": "2026-08-15T04:24",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-02T16:13:40.041231+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss"
-  },
-  {
-    "id": "4325bc6d7600",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T14:34",
-    "headline": "Tanks, troops and space",
-    "excerpt": "Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe&#039;s security strategy.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-02T16:13:40.041282+00:00",
-    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss"
-  },
-  {
-    "id": "4e3430c11fd5",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T14:11",
-    "headline": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
-    "excerpt": "Iran says Trump&#039;s comment on pullback from threatened strikes made &#039;within the context of psychological operations&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-02T16:13:40.041316+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss"
   }
 ]
