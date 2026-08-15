@@ -1,5 +1,27 @@
 [
   {
+    "id": "d48712025111",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T15:50",
+    "headline": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+    "excerpt": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia&#039;s southwestern Samara region.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-15T16:34:09.183729+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
+  },
+  {
+    "id": "f0867bdb028d",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T15:48",
+    "headline": "Israeli settlers besiege Palestinian families in occupied West Bank",
+    "excerpt": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-15T16:34:09.183779+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss"
+  },
+  {
     "id": "47c807076785",
     "source": "Al Jazeera",
     "date": "2026-08-15T14:32",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-08-03T00:16:02.891749+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss"
-  },
-  {
-    "id": "c0c38e250f08",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T22:51",
-    "headline": "Sudan army drone attack on Darfur kills 35, rights group says",
-    "excerpt": "Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-02T23:14:23.272496+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss"
-  },
-  {
-    "id": "66fd02494530",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T21:18",
-    "headline": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
-    "excerpt": "Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-08-02T22:11:34.433755+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss"
   }
 ]
