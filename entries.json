@@ -1,5 +1,38 @@
 [
   {
+    "id": "86d98b22da18",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T07:27",
+    "headline": "A Syrian intervention in Lebanon would be too costly for Damascus",
+    "excerpt": "Despite pressure from the US to intervene against Hezbollah, the Syrian government is unlikely to do so.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-08-15T08:00:22.506063+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss"
+  },
+  {
+    "id": "9d6bbf22cd7c",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T07:18",
+    "headline": "Israeli strike kills seven in south Lebanon as attacks intensify",
+    "excerpt": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-15T08:00:22.506112+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss"
+  },
+  {
+    "id": "e4264d56a69a",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T07:13",
+    "headline": "Moment Israeli forces storm wedding hall in occupied West Bank",
+    "excerpt": "Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-15T08:00:22.506145+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
     "id": "000e4796b15f",
     "source": "Al Jazeera",
     "date": "2026-08-15T06:10",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-02T18:32:33.906817+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss"
-  },
-  {
-    "id": "8f0b607c2455",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T16:55",
-    "headline": "Deadly floods and landslide hit India’s Kerala",
-    "excerpt": "At least two people have been killed and eight injured after torrential rain triggered flooding",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-02T17:26:38.073285+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss"
-  },
-  {
-    "id": "ad678cd0a128",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T16:10",
-    "headline": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
-    "excerpt": "US president halted strikes after earlier threatening Iran with unprecedented force.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-02T17:26:38.073354+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "b8b103852924",
-    "source": "Al Jazeera",
-    "date": "2026-08-02T15:36",
-    "headline": "Israeli settlers shoot Palestinian child during farm raid",
-    "excerpt": "CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-02T16:13:40.041147+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss"
   }
 ]
