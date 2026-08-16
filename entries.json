@@ -1,5 +1,38 @@
 [
   {
+    "id": "cc7bf4cc833c",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T04:54",
+    "headline": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
+    "excerpt": "Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.",
+    "category": "Airstrike",
+    "location": "Oman",
+    "addedAt": "2026-08-16T05:11:39.292219+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss"
+  },
+  {
+    "id": "d9964d7f0319",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T04:43",
+    "headline": "Israel strikes south Lebanon again as families flee north",
+    "excerpt": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-08-16T05:11:39.292254+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss"
+  },
+  {
+    "id": "9ca78a57ce06",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T04:35",
+    "headline": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+    "excerpt": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-16T05:11:39.292289+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss"
+  },
+  {
     "id": "05eac217c7ac",
     "source": "Al Jazeera",
     "date": "2026-08-16T04:09",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-03T16:41:06.584249+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss"
-  },
-  {
-    "id": "92798b83c967",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T13:31",
-    "headline": "Heatwave in Gaza compounds Palestinian suffering",
-    "excerpt": "Heatwave in Gaza compounds Palestinian suffering",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-03T14:02:43.418760+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss"
-  },
-  {
-    "id": "eb272d5ebf6c",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T13:23",
-    "headline": "Massive Attack says members held after pro-Palestine display in Singapore",
-    "excerpt": "Music group says &#039;proud&#039; to have made &#039;impromptu expression&#039; of support for Palestine by unfurling flag during concert.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-03T14:02:43.418831+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/3/massive-attack-says-members-held-after-pro-palestine-display-in-singapore?traffic_source=rss"
-  },
-  {
-    "id": "eed2e5b6c7bc",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T12:27",
-    "headline": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
-    "excerpt": "Second round in regional elections held amid deadly clashes and heightened tensions over demands for electoral reforms.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-03T14:02:43.418869+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss"
   }
 ]
