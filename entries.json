@@ -1,5 +1,27 @@
 [
   {
+    "id": "fde85e46d4b4",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T02:26",
+    "headline": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+    "excerpt": "Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-16T03:51:50.748487+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss"
+  },
+  {
+    "id": "ca6a81c036ad",
+    "source": "Al Jazeera",
+    "date": "2026-08-15T20:55",
+    "headline": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
+    "excerpt": "Iran claims Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-08-16T03:51:50.748538+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
+  },
+  {
     "id": "ea47816f72ca",
     "source": "Al Jazeera",
     "date": "2026-08-16T00:50",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-03T11:31:14.878457+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss"
-  },
-  {
-    "id": "9c8441487b3c",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T10:53",
-    "headline": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-    "excerpt": "Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-03T11:31:14.878501+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "875e66687a74",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T10:52",
-    "headline": "US cricket player Reddy receives eight-year ban for match-fixing",
-    "excerpt": "ICC Anti-Corruption Tribunal says Akhilesh Reddy guilty of three offences during Abu Dhabi T10 competition in November.",
-    "category": "Other",
-    "location": "Abu Dhabi",
-    "addedAt": "2026-08-03T11:31:14.878538+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/8/3/us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing?traffic_source=rss"
   }
 ]
