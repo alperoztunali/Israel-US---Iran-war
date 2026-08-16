@@ -1,5 +1,27 @@
 [
   {
+    "id": "0917bd6e37fc",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T20:55",
+    "headline": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+    "excerpt": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-08-16T21:29:24.320507+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss"
+  },
+  {
+    "id": "3ce34d2332d3",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T20:28",
+    "headline": "US-Iran MoU is set to expire: What to know",
+    "excerpt": "Both sides accused the other of violating the June agreement shortly after it was signed.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-16T21:29:24.320550+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss"
+  },
+  {
     "id": "25faf590ffe2",
     "source": "Al Jazeera",
     "date": "2026-08-16T20:02",
@@ -5476,27 +5498,5 @@
     "location": "Beirut",
     "addedAt": "2026-08-04T11:33:40.197190+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss"
-  },
-  {
-    "id": "25d9d8494c2f",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T07:19",
-    "headline": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
-    "excerpt": "The Brazilian fighter died in his sleep after a suspected heart attack, the UFC said.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-08-04T09:09:49.060057+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss"
-  },
-  {
-    "id": "3c91429ed83d",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T06:00",
-    "headline": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
-    "excerpt": "Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a &#039;breakthrough&#039;.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-08-04T09:09:49.060106+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
   }
 ]
