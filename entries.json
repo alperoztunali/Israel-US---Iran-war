@@ -1,5 +1,16 @@
 [
   {
+    "id": "0d18571c4dd1",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T21:54",
+    "headline": "What could stop Israeli settler attacks on Palestinians?",
+    "excerpt": "Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-16T22:26:16.695861+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss"
+  },
+  {
     "id": "09a0aa51d953",
     "source": "Al Jazeera",
     "date": "2026-08-16T21:02",
@@ -5487,16 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-08-04T11:33:40.197121+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss"
-  },
-  {
-    "id": "41c747ad88ea",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T08:51",
-    "headline": "Cars burn in reported settler attack in occupied West Bank",
-    "excerpt": "Cars burn in reported settler attack in occupied West Bank",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-04T11:33:40.197157+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss"
   }
 ]
