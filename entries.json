@@ -1,5 +1,16 @@
 [
   {
+    "id": "0c5f7ce46dd6",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T15:35",
+    "headline": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+    "excerpt": "Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-16T15:58:34.780494+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss"
+  },
+  {
     "id": "da69519145f4",
     "source": "Al Jazeera",
     "date": "2026-08-16T14:35",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-03T22:42:16.515742+00:00",
     "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss"
-  },
-  {
-    "id": "4a2e2427fe69",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T17:38",
-    "headline": "Trump says ongoing talks are Iran’s ‘last chance’",
-    "excerpt": "US president demands &#039;Total Surrender&#039; amid escalating naval blockade in the crucial Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-08-03T21:33:32.727735+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss"
   }
 ]
