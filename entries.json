@@ -1,5 +1,27 @@
 [
   {
+    "id": "74be36715b4c",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T06:10",
+    "headline": "How a simple lighter has become the backbone of life in Gaza",
+    "excerpt": "In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-16T06:48:06.932769+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss"
+  },
+  {
+    "id": "7cf3f33c8a4e",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T06:06",
+    "headline": "A nation divided: What do Israelis want in October’s elections?",
+    "excerpt": "Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-16T06:48:06.932822+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss"
+  },
+  {
     "id": "cc7bf4cc833c",
     "source": "Al Jazeera",
     "date": "2026-08-16T04:54",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-03T16:41:06.584196+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss"
-  },
-  {
-    "id": "c820c6cfde29",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T14:47",
-    "headline": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain",
-    "excerpt": "Defence giants Lockheed and Northrop see billion-dollar deals as Pentagon accelerates missile arsenal production",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-03T16:41:06.584223+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss"
-  },
-  {
-    "id": "2ee3b18a9279",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T14:23",
-    "headline": "More than 10 killed as Russia and Ukraine trade heavy attacks",
-    "excerpt": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-03T16:41:06.584249+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss"
   }
 ]
