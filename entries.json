@@ -1,5 +1,38 @@
 [
   {
+    "id": "ea47816f72ca",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T00:50",
+    "headline": "Army drops roses on Syrian crowds in a far cry from war",
+    "excerpt": "Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-16T01:40:46.231678+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss"
+  },
+  {
+    "id": "9244ffb6cc46",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T00:44",
+    "headline": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+    "excerpt": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
+    "category": "Diplomatic",
+    "location": "Gaza",
+    "addedAt": "2026-08-16T01:40:46.231733+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss"
+  },
+  {
+    "id": "550a15a419b0",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T00:00",
+    "headline": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+    "excerpt": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-08-16T01:40:46.231762+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss"
+  },
+  {
     "id": "071a8d95a0a0",
     "source": "Al Jazeera",
     "date": "2026-08-15T23:27",
@@ -5465,38 +5498,5 @@
     "location": "Abu Dhabi",
     "addedAt": "2026-08-03T11:31:14.878538+00:00",
     "link": "https://www.aljazeera.com/sports/2026/8/3/us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing?traffic_source=rss"
-  },
-  {
-    "id": "cf4ee5a1cdbb",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T09:44",
-    "headline": "Trump says new Iran negotiations starting: What we know",
-    "excerpt": "Analysts say deal on Hormuz might be achievable but lasting peace agreement still far off.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-03T11:31:14.878565+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "f6cf6663a5b3",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T09:05",
-    "headline": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
-    "excerpt": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-03T11:31:14.878597+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss"
-  },
-  {
-    "id": "80ea3567d1ae",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T09:01",
-    "headline": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
-    "excerpt": "Suspected attacker, identified as 24-year-old Chad Williams, killed at least three people in the US on Saturday.",
-    "category": "Casualties",
-    "location": "Jordan",
-    "addedAt": "2026-08-03T11:31:14.878628+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss"
   }
 ]
