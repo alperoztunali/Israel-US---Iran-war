@@ -1,5 +1,16 @@
 [
   {
+    "id": "25faf590ffe2",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T20:02",
+    "headline": "Anti-corruption raids in Baghdad as dozens of officials arrested",
+    "excerpt": "Iraq’s Integrity Commission seized of millions in cash and jewelry said to be linked to corruption charges.",
+    "category": "Statement",
+    "location": "Iraq",
+    "addedAt": "2026-08-16T20:31:07.996639+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss"
+  },
+  {
     "id": "2d2cea58981e",
     "source": "Al Jazeera",
     "date": "2026-08-16T19:29",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-04T09:09:49.060106+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
-  },
-  {
-    "id": "dd7d57f73dd8",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T02:56",
-    "headline": "US stocks near record high, oil falls as Trump claims Iran talks under way",
-    "excerpt": "Benchmark S&amp;P 500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-08-04T06:06:04.397117+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss"
   }
 ]
