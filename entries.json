@@ -1,5 +1,27 @@
 [
   {
+    "id": "05eac217c7ac",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T04:09",
+    "headline": "Yemeni government forces hit back after new Houthi offensive",
+    "excerpt": "Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-08-16T04:40:10.286745+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss"
+  },
+  {
+    "id": "2a92edb5c9e6",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T03:47",
+    "headline": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
+    "excerpt": "Three decades after rapper Tupac Shakur&#039;s death, a former California gang boss is the first person to be prosecuted.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-16T04:40:10.286795+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss"
+  },
+  {
     "id": "fde85e46d4b4",
     "source": "Al Jazeera",
     "date": "2026-08-16T02:26",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-03T14:02:43.418869+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss"
-  },
-  {
-    "id": "5f9c4c21c0e6",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T12:11",
-    "headline": "Who will shape post-war Iran?",
-    "excerpt": "There are competing narratives in Tehran for its post-war recovery.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-08-03T14:02:43.418897+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss"
-  },
-  {
-    "id": "28d03d60cee5",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T11:03",
-    "headline": "Ukraine strikes Russia’s biggest retailer again",
-    "excerpt": "Ukraine has struck another warehouse belonging to Russian e-commerce giant Wildberries in a long-range drone attack.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-03T11:31:14.878457+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss"
   }
 ]
