@@ -1,5 +1,27 @@
 [
   {
+    "id": "557b3c4dc108",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T11:54",
+    "headline": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
+    "excerpt": "Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-16T12:54:41.922907+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
+  },
+  {
+    "id": "ea57c15e516e",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T11:38",
+    "headline": "‘Limited options’ for many Iranians as war with US chokes economy",
+    "excerpt": "Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-16T12:54:41.922959+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss"
+  },
+  {
     "id": "83e11e844a6d",
     "source": "Al Jazeera",
     "date": "2026-08-16T11:14",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-03T18:27:54.057450+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss"
-  },
-  {
-    "id": "069bb65756e1",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T18:13",
-    "headline": "Israel top court hears challenge to UNRWA ban",
-    "excerpt": "Israel&#039;s highest court heard a constitutional challenge to legislation banning UNRWA&#039;s operations in Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-03T18:27:54.057486+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss"
-  },
-  {
-    "id": "b32e374b4ce2",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T18:05",
-    "headline": "Drone slams into Russian beach, killing at least 7 people",
-    "excerpt": "Video shows the moment a drone struck a crowded beach near the Russian Black Sea resort of Gelendzhik.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-03T18:27:54.057510+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss"
   }
 ]
