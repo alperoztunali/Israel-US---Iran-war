@@ -1,5 +1,27 @@
 [
   {
+    "id": "502bdb0ab031",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T13:18",
+    "headline": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+    "excerpt": "Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-08-16T14:00:37.722341+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss"
+  },
+  {
+    "id": "54c4a6225ab6",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T13:17",
+    "headline": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+    "excerpt": "Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-16T14:00:37.722389+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss"
+  },
+  {
     "id": "557b3c4dc108",
     "source": "Al Jazeera",
     "date": "2026-08-16T11:54",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-03T20:15:08.018438+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss"
-  },
-  {
-    "id": "920d4030029c",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T19:45",
-    "headline": "Trump says talks with Iran are ‘last chance’ to forge a deal",
-    "excerpt": "US President Donald Trump said Iran has a &quot;last chance&quot; to reach a nuclear agreement.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-03T20:15:08.018507+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss"
-  },
-  {
-    "id": "93bf8fafe904",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T18:16",
-    "headline": "Can Netanyahu survive Israel’s most consequential election?",
-    "excerpt": "Israelis head to the polls in October for the country&#039;s first election since the war on Gaza began.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-03T18:27:54.057450+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss"
   }
 ]
