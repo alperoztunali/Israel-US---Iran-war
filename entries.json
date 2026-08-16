@@ -1,5 +1,38 @@
 [
   {
+    "id": "3aa30301dc1d",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T09:03",
+    "headline": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+    "excerpt": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-16T09:31:12.075832+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss"
+  },
+  {
+    "id": "3f456cdea4ed",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T08:50",
+    "headline": "At least 12 people killed in Hungary bus crash",
+    "excerpt": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-16T09:31:12.075876+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss"
+  },
+  {
+    "id": "63601e4b9eb2",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T08:40",
+    "headline": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+    "excerpt": "Crowds create carnival-like atmosphere in Afghan capital as Taliban celebrates five years since its return to power.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-16T09:31:12.075917+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss"
+  },
+  {
     "id": "18c22cc914e2",
     "source": "Al Jazeera",
     "date": "2026-08-16T08:11",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-03T18:27:54.057586+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss"
-  },
-  {
-    "id": "ad5c6a35416d",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T16:12",
-    "headline": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
-    "excerpt": "Barzani meets Syria&#039;s al-Sharaa in Damascus to discuss SDF integration and Kurdish rights in post-Assad Syria.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-08-03T18:27:54.057611+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss"
-  },
-  {
-    "id": "6c5c385e9dee",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T14:23",
-    "headline": "At least 17 killed as Russia and Ukraine trade heavy attacks",
-    "excerpt": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-03T18:27:54.057647+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss"
-  },
-  {
-    "id": "a7ece1d36478",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T16:01",
-    "headline": "Romanian navy blasts riverbed to protect nuclear plant",
-    "excerpt": "Romania&#039;s military detonated part of the Danube riverbed to redirect water towards the Cernavoda Nuclear Power Plant.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-08-03T16:41:06.584118+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss"
   }
 ]
