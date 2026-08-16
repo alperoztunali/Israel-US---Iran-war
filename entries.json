@@ -1,5 +1,27 @@
 [
   {
+    "id": "2d2cea58981e",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T19:29",
+    "headline": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+    "excerpt": "Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-08-16T19:56:28.425396+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss"
+  },
+  {
+    "id": "1b295b886dea",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T19:23",
+    "headline": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+    "excerpt": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+    "category": "Diplomatic",
+    "location": "Gaza",
+    "addedAt": "2026-08-16T19:56:28.425447+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
+  },
+  {
     "id": "9ad1031d8dc5",
     "source": "Al Jazeera",
     "date": "2026-08-16T19:18",
@@ -5475,28 +5497,6 @@
     "category": "Diplomatic",
     "location": "Tehran",
     "addedAt": "2026-08-04T06:06:04.397117+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss"
-  },
-  {
-    "id": "b231b5354909",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T00:00",
-    "headline": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
-    "excerpt": "US president says talks with Iran are under way, warning the negotiations are Tehran&#039;s &#039;last chance&#039; to secure a deal.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-08-04T06:06:04.397169+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss"
-  },
-  {
-    "id": "424a122094c9",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T02:56",
-    "headline": "US stocks near record high, oil falls as Trump claims Iran talks underway",
-    "excerpt": "Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-08-04T03:12:53.717017+00:00",
     "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss"
   }
 ]
