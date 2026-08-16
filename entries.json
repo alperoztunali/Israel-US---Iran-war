@@ -1,5 +1,16 @@
 [
   {
+    "id": "e268e9916981",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T04:54",
+    "headline": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+    "excerpt": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region during the escalating conflict.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-08-16T08:01:35.518369+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss"
+  },
+  {
     "id": "74be36715b4c",
     "source": "Al Jazeera",
     "date": "2026-08-16T06:10",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-03T16:41:06.584164+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss"
-  },
-  {
-    "id": "49f6cd1fcc4e",
-    "source": "Al Jazeera",
-    "date": "2026-08-03T15:19",
-    "headline": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
-    "excerpt": "Ethiopian army accused of attacking Tigray forces in Shererina amid escalating tensions at the Sudan-Ethiopia border.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-03T16:41:06.584196+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss"
   }
 ]
