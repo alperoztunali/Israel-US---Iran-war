@@ -1,5 +1,16 @@
 [
   {
+    "id": "8c88029419d7",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T08:00",
+    "headline": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+    "excerpt": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-17T08:24:49.195768+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss"
+  },
+  {
     "id": "0ade3a7c2b41",
     "source": "Al Jazeera",
     "date": "2026-08-17T00:00",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-04T15:56:58.473717+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss"
-  },
-  {
-    "id": "c6097ee69b19",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T14:04",
-    "headline": "Why are oil companies posting record profits amid Iran war disruption?",
-    "excerpt": "Big Oil companies have bagged astronomical profits as the critical Strait of Hormuz remains closed.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-04T15:56:58.473750+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss"
   }
 ]
