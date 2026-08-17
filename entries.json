@@ -1,5 +1,16 @@
 [
   {
+    "id": "258192a04363",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T20:54",
+    "headline": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
+    "excerpt": "UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-08-17T21:42:52.854162+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss"
+  },
+  {
     "id": "c017310d9ae2",
     "source": "Al Jazeera",
     "date": "2026-08-17T20:49",
@@ -5487,16 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-05T10:09:07.087019+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss"
-  },
-  {
-    "id": "090b45257935",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T08:17",
-    "headline": "Piece of SpaceX rocket the size of a school bus crashes into the Moon",
-    "excerpt": "Scientists will track stray rocket part striking the Moon to study crater formation and lunar dust from cosmic impacts.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T10:09:07.087039+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/5/piece-of-spacex-rocket-the-size-of-a-school-bus-crashes-into-the-moon?traffic_source=rss"
   }
 ]
