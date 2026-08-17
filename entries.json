@@ -1,5 +1,16 @@
 [
   {
+    "id": "ce5b976627a3",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T20:41",
+    "headline": "Trump’s approval rating sinks to new low at 33 percent",
+    "excerpt": "New poll found a majority of US citizens concerned about the US war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-17T22:42:40.418744+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss"
+  },
+  {
     "id": "258192a04363",
     "source": "Al Jazeera",
     "date": "2026-08-17T20:54",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-05T10:09:07.086998+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss"
-  },
-  {
-    "id": "4e68be087791",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T08:37",
-    "headline": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
-    "excerpt": "Japan tested a US-Tomahawk cruise missile, launching from their Chokai warship in the Pacific Ocean on July 29.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T10:09:07.087019+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss"
   }
 ]
