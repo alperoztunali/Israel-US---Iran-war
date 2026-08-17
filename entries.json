@@ -1,5 +1,27 @@
 [
   {
+    "id": "858493240700",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T19:32",
+    "headline": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+    "excerpt": "A boat has left Bristol as part of a wider campaign to break Israel’s blockade and deliver aid to Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-17T20:01:18.965891+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss"
+  },
+  {
+    "id": "af400f572188",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T19:22",
+    "headline": "Photos: Search for Indonesia earthquake victims continues",
+    "excerpt": "At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-17T20:01:18.965922+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss"
+  },
+  {
     "id": "3f8395bbcf3f",
     "source": "Al Jazeera",
     "date": "2026-08-17T17:37",
@@ -5476,27 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-08-05T07:19:22.356916+00:00",
     "link": "https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss"
-  },
-  {
-    "id": "160f5bebf289",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T05:46",
-    "headline": "Return of goods to markets in Gaza doesn’t mean people can afford them",
-    "excerpt": "Displaced Palestinians in Gaza struggle daily to afford food, with soaring prices and limited income opportunities.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-05T07:19:22.356953+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss"
-  },
-  {
-    "id": "8914be56af8c",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T04:38",
-    "headline": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
-    "excerpt": "At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T07:19:22.356983+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss"
   }
 ]
