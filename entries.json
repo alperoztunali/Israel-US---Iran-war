@@ -1,5 +1,49 @@
 [
   {
+    "id": "64cc91ad34c6",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T11:09",
+    "headline": "Is the world experiencing more earthquakes now than before?",
+    "excerpt": "Al Jazeera examines a decade of earthquake data to see how 2026 compares and explains how and where earthquakes strike.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-17T11:42:17.978613+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss"
+  },
+  {
+    "id": "8be91a25986d",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T10:54",
+    "headline": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
+    "excerpt": "Explosive drones target Iraqi Kurdish PM&#039;s office and security chief&#039;s residence; no casualties reported.",
+    "category": "Missile/Drone",
+    "location": "Iraq",
+    "addedAt": "2026-08-17T11:42:17.978655+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss"
+  },
+  {
+    "id": "c9a5b2975d4c",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T10:51",
+    "headline": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
+    "excerpt": "Yasser Ayad, 16, has become a culinary star on social media as he cooks traiditional Palestinain dishes in Gaza.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-17T11:42:17.978689+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "41ab0f6e8adf",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T08:13",
+    "headline": "Kushner meets Netanyahu to push Trump Gaza plan",
+    "excerpt": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
+    "category": "Diplomatic",
+    "location": "Gaza",
+    "addedAt": "2026-08-17T11:42:17.978718+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
+  },
+  {
     "id": "f158817e7af7",
     "source": "Al Jazeera",
     "date": "2026-08-17T08:13",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-04T17:57:50.417881+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism?traffic_source=rss"
-  },
-  {
-    "id": "7eea28675126",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T15:52",
-    "headline": "Crews battle wildfire that shut down major highways in Israel",
-    "excerpt": "A major wildfire swept through Ben Shemen Forest in central Israel, prompting authorities to close Highway 6.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-04T17:57:50.417913+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/crews-battle-wildfire-that-shut-down-major-highways-in-israel?traffic_source=rss"
-  },
-  {
-    "id": "d10c01e64693",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T15:34",
-    "headline": "Qatar says indirect talks continue to reopen Strait of Hormuz",
-    "excerpt": "Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.",
-    "category": "Diplomatic",
-    "location": "Qatar",
-    "addedAt": "2026-08-04T15:56:58.473600+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss"
-  },
-  {
-    "id": "b80653cacd11",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T15:11",
-    "headline": "Drone appears to stalk man before exploding",
-    "excerpt": "A drone was seen following a man at a minibus-turned-market in Kherson, southern Ukraine, before exploding on Tuesday.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-04T15:56:58.473645+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss"
-  },
-  {
-    "id": "2be0856ca9c0",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T14:51",
-    "headline": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
-    "excerpt": "Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-04T15:56:58.473683+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss"
   }
 ]
