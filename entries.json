@@ -1,5 +1,27 @@
 [
   {
+    "id": "3f8395bbcf3f",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T17:37",
+    "headline": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
+    "excerpt": "Family members allege security officers ignored warnings about the man&#039;s hemophilia and subjected him to severe abuse.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-17T18:03:58.384033+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss"
+  },
+  {
+    "id": "5d1dbea8bece",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T17:30",
+    "headline": "Explosion reported at school in Afghan capital Kabul",
+    "excerpt": "The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-17T18:03:58.384077+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss"
+  },
+  {
     "id": "db41089bca17",
     "source": "Al Jazeera",
     "date": "2026-08-17T17:25",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-05T07:19:22.356983+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss"
-  },
-  {
-    "id": "f280c0ee40b7",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T03:58",
-    "headline": "Bolivia sends troops to stop Brazilian gang violence along border",
-    "excerpt": "Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T04:30:06.290545+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss"
-  },
-  {
-    "id": "23c6d8d27b00",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T03:48",
-    "headline": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
-    "excerpt": "The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T04:30:06.290590+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss"
   }
 ]
