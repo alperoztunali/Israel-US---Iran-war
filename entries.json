@@ -1,5 +1,16 @@
 [
   {
+    "id": "d049917a766c",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T01:28",
+    "headline": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
+    "excerpt": "UN Special Rapporteur Albanese warns that Israel is &#039;using settlers to advance ethnic cleansing&#039; in the West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-17T02:46:33.190070+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
     "id": "ac02f0dcbbe9",
     "source": "Al Jazeera",
     "date": "2026-08-17T00:11",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-04T13:24:48.167642+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss"
-  },
-  {
-    "id": "0ecf5152f14f",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T11:26",
-    "headline": "Nine killed in escalating long-range strikes between Russia and Ukraine",
-    "excerpt": "Missile and drone strikes far beyond the front lines are causing a mounting civilian death toll in both countries.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-04T13:24:48.167672+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss"
   }
 ]
