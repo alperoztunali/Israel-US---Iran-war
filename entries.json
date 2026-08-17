@@ -1,5 +1,49 @@
 [
   {
+    "id": "db41089bca17",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T17:25",
+    "headline": "Britain deploys military as wildfires spread across Europe",
+    "excerpt": "Britain deploys military as wildfires spread across Europe",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-17T17:30:55.068156+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss"
+  },
+  {
+    "id": "cdac91a2b347",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T17:07",
+    "headline": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
+    "excerpt": "On Monday, Israel&#039;s governing party will determine its candidate list for the next election.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-17T17:30:55.068208+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss"
+  },
+  {
+    "id": "1f658dfed106",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T16:50",
+    "headline": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+    "excerpt": "US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-08-17T17:30:55.068244+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+  },
+  {
+    "id": "3616192ca904",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T14:15",
+    "headline": "Iran signals readiness for ‘US ground operations’ as strategy shifts gear",
+    "excerpt": "Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-17T17:30:55.068294+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss"
+  },
+  {
     "id": "96bf39c07c37",
     "source": "Al Jazeera",
     "date": "2026-08-17T16:27",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-05T04:30:06.290590+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss"
-  },
-  {
-    "id": "62a25c252009",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T03:19",
-    "headline": "Israel approves $37m to seize more than 70 occupied West Bank sites",
-    "excerpt": "The allocated funding seeks to accelerate Israel&#039;s control of historical landmarks across the occupied West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-05T04:30:06.290625+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/5/israel-approves-37m-to-seize-more-than-70-occupied-west-bank-sites?traffic_source=rss"
-  },
-  {
-    "id": "e79efbed7664",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T02:09",
-    "headline": "US stock market hits record high amid hopes for Strait of Hormuz reopening",
-    "excerpt": "Oil prices fall as US officials tout progress in talks to reopen critical waterway.",
-    "category": "Diplomatic",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-08-05T04:30:06.290655+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss"
-  },
-  {
-    "id": "74ae9cf59a07",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T23:24",
-    "headline": "One killed, 12 injured in Russian ballistic missile attack on Kyiv",
-    "excerpt": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T04:30:06.290689+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss"
-  },
-  {
-    "id": "8b90c6d30785",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T00:56",
-    "headline": "Ukrainian man chased by exploding drone recounts his terror",
-    "excerpt": "A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T01:08:34.497034+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss"
   }
 ]
