@@ -1,5 +1,16 @@
 [
   {
+    "id": "3ab1d8491f67",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T05:16",
+    "headline": "Iran’s top negotiator declares victory in war against the US and Israel",
+    "excerpt": "Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-08-17T06:20:25.871702+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss"
+  },
+  {
     "id": "e4c0120e78dd",
     "source": "Al Jazeera",
     "date": "2026-08-17T04:58",
@@ -5487,16 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-08-04T15:56:58.473788+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/hamas-negotiator-says-deal-to-disarm-was-necessary-to-save?traffic_source=rss"
-  },
-  {
-    "id": "fc2b7e390fcd",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T12:58",
-    "headline": "Twelve years after ISIL’s massacres, thousands of Yazidis seek justice",
-    "excerpt": "Iraq’s Yazidi community marked 12 years since ISIL’s assault on Sinjar, which the UN recognised as genocide.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-08-04T15:56:58.473827+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/twelve-years-after-isils-massacres-thousands-of-yazidis-seek-justice?traffic_source=rss"
   }
 ]
