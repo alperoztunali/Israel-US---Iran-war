@@ -1,5 +1,60 @@
 [
   {
+    "id": "ac02f0dcbbe9",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T00:11",
+    "headline": "Trump says US to ‘substantially reduce’ military drills with South Korea",
+    "excerpt": "US president says he&#039;s &#039;not happy&#039; about the drills, citing his &#039;very good relationship&#039; with North Korea&#039;s Kim Jong Un.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-08-17T01:38:43.005421+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss"
+  },
+  {
+    "id": "87bd00fff618",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T00:05",
+    "headline": "Israel releases 35 Palestinian prisoners back into Gaza",
+    "excerpt": "Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-17T01:38:43.005465+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss"
+  },
+  {
+    "id": "cc022d1c24a0",
+    "source": "Al Jazeera",
+    "date": "2026-08-17T00:00",
+    "headline": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+    "excerpt": "Hamas calls on Board of Peace to &#039;compel&#039; Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-08-17T01:38:43.005504+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
+  },
+  {
+    "id": "85f3fd36db48",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T23:58",
+    "headline": "UN’s Albanese: Israel outsourcing coercion to settlers in West Bank",
+    "excerpt": "UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is outsourcing coercion to settlers.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-17T01:38:43.005540+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "bde2b5b9df97",
+    "source": "Al Jazeera",
+    "date": "2026-08-16T23:58",
+    "headline": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+    "excerpt": "Far-right National Security Minister Ben-Gvir sits on Israel&#039;s security cabinet, which helps shape war and policy.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-17T01:38:43.005575+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss"
+  },
+  {
     "id": "0d18571c4dd1",
     "source": "Al Jazeera",
     "date": "2026-08-16T21:54",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-04T13:24:48.167672+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "4079edd78f93",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T11:21",
-    "headline": "Why Israel’s economy hasn’t collapsed during a multi-front war",
-    "excerpt": "How has Israel’s economy defied the effects of war?",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-04T13:24:48.167707+00:00",
-    "link": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss"
-  },
-  {
-    "id": "d63675c9ec02",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T11:05",
-    "headline": "Misread as passive, the Gulf is quietly ending fifty years of dependence",
-    "excerpt": "Iran’s attacks exposed the limits of external guarantees and the need for a Gulf-built security architecture.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-04T13:24:48.167749+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss"
-  },
-  {
-    "id": "db0c0fed1407",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T10:53",
-    "headline": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
-    "excerpt": "US president has claimed Iran &#039;desperate&#039; to do a deal or given Tehran &#039;last chance&#039; on multiple occasions.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-08-04T11:33:40.197026+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss"
-  },
-  {
-    "id": "fe80bf41d8f7",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T10:11",
-    "headline": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
-    "excerpt": "Second-quarter revenue jumped 93 percent but Palantir&#039;s ties to Israel and role in military technology are controversial",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-04T11:33:40.197082+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss"
-  },
-  {
-    "id": "5eb450f4b9b5",
-    "source": "Al Jazeera",
-    "date": "2026-08-04T10:04",
-    "headline": "Palestinian patients return to Gaza as thousands still await evacuation",
-    "excerpt": "Palestinian patients returned to Gaza after receiving medical treatment abroad, reuniting after years of separation.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-04T11:33:40.197121+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss"
   }
 ]
