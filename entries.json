@@ -1,5 +1,27 @@
 [
   {
+    "id": "aa2fb8b5a9fe",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T15:53",
+    "headline": "Palestinian living in caves older than Israel",
+    "excerpt": "Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-18T16:36:33.970956+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss"
+  },
+  {
+    "id": "7677b4ef2213",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T15:53",
+    "headline": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
+    "excerpt": "Palestinian-American Loui Ridi expressed distress over how Israeli settlers have roamed around Qusra unchallenged.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-18T16:36:33.971018+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss"
+  },
+  {
     "id": "d941975760b9",
     "source": "Al Jazeera",
     "date": "2026-08-18T15:14",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-06T10:12:05.786550+00:00",
     "link": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss"
-  },
-  {
-    "id": "c9935bb51ef2",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T07:36",
-    "headline": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
-    "excerpt": "Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-06T10:12:05.786583+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss"
-  },
-  {
-    "id": "f1d0d44bfd20",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T07:34",
-    "headline": "Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout",
-    "excerpt": "Former Bangladesh captain Shakib Al Hasan&#039;s home attacked after joining former Prime Minister Sheikh Hasina’s event.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-08-06T10:12:05.786616+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss"
   }
 ]
