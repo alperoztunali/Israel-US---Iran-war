@@ -1,5 +1,27 @@
 [
   {
+    "id": "6e30aa5cb965",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T06:47",
+    "headline": "Russia says more than 600 drones targeted Moscow region",
+    "excerpt": "The attacks injured at least three people, including a girl, and damaged a Wildberries warehouse, Russian officials say.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-18T07:42:30.171950+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss"
+  },
+  {
+    "id": "27aa8710ab72",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T06:28",
+    "headline": "Can China’s new Arctic sea route to Europe replace Middle East chokepoints?",
+    "excerpt": "Beijing&#039;s new &#039;Ice Silk Road&#039; cuts through a melting Arctic, and could prompt new tensions with the US, analysts say.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-18T07:42:30.172026+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss"
+  },
+  {
     "id": "7814f6a443e6",
     "source": "Al Jazeera",
     "date": "2026-08-18T06:35",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-05T14:56:14.596765+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss"
-  },
-  {
-    "id": "23a3c7a3cc43",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T13:48",
-    "headline": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
-    "excerpt": "The reasons for dissent are not unanimous, ranging from the war in Iran to an overhaul of military leadership.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-08-05T14:56:14.596796+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/5/why-are-us-republicans-losing-faith-in-war-secretary-pete-hegseth?traffic_source=rss"
-  },
-  {
-    "id": "dec3ea1d5230",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T13:24",
-    "headline": "Iraq faces crisis as Shia armed groups defy disarmament",
-    "excerpt": "Iraqi PM faces a serious crisis as powerful Shia paramilitaries refuse to disarm as September 30 deadline looms.",
-    "category": "Casualties",
-    "location": "Iraq",
-    "addedAt": "2026-08-05T14:56:14.596821+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/5/iraq-faces-crisis-as-shia-armed-groups-defy-disarmament?traffic_source=rss"
   }
 ]
