@@ -1,5 +1,16 @@
 [
   {
+    "id": "93945e7469ab",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T01:54",
+    "headline": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
+    "excerpt": "At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.",
+    "category": "Casualties",
+    "location": "Iraq",
+    "addedAt": "2026-08-18T02:59:13.898529+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss"
+  },
+  {
     "id": "9903413fbd48",
     "source": "Al Jazeera",
     "date": "2026-08-18T00:00",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-05T12:17:42.365029+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "6a813cd16c8d",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T09:16",
-    "headline": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-    "excerpt": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T10:09:07.086927+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss"
   }
 ]
