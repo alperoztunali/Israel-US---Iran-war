@@ -1,5 +1,27 @@
 [
   {
+    "id": "f8148f7f178b",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T04:07",
+    "headline": "Hichilema wins second term as president of copper-rich Zambia",
+    "excerpt": "Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-18T05:13:40.150878+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss"
+  },
+  {
+    "id": "fcf72f4a403b",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T02:51",
+    "headline": "Two students killed in Philippines school shooting",
+    "excerpt": "Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-18T05:13:40.150921+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss"
+  },
+  {
     "id": "c43d3178cdfa",
     "source": "Al Jazeera",
     "date": "2026-08-18T04:07",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-05T14:56:14.597000+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss"
-  },
-  {
-    "id": "dfe2a7f2ef31",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T11:49",
-    "headline": "Turkish cargo ship catches fire after Black Sea drone attack",
-    "excerpt": "A Turkish cargo ship caught fire after a drone attack near Russia’s Black Sea port of Novorossiysk.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T12:17:42.364879+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss"
-  },
-  {
-    "id": "16efa0c7b509",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T11:31",
-    "headline": "Israeli forces detain Palestinians during raid in occupied West Bank",
-    "excerpt": "A journalist covering events was severely beaten by Israeli soldiers, while locals were also attacked.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-05T12:17:42.364923+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss"
   }
 ]
