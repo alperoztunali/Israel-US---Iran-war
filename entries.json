@@ -1,5 +1,27 @@
 [
   {
+    "id": "5229fa2724c4",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T11:09",
+    "headline": "What to know about California’s special election to replace Eric Swalwell",
+    "excerpt": "A race that once received little attention has seen outside spending from the American Israel Public Affairs Committee.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-18T11:42:26.334841+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss"
+  },
+  {
+    "id": "010898532de2",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T10:45",
+    "headline": "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
+    "excerpt": "Deaths mount as Russia ramps up missile attacks on Ukraine, while Washington&#039;s promises of support remain elusive.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-18T11:42:26.334889+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss"
+  },
+  {
     "id": "65d99a3b2e56",
     "source": "Al Jazeera",
     "date": "2026-08-18T10:45",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-05T22:43:14.725308+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss"
-  },
-  {
-    "id": "a01f12653fab",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T21:31",
-    "headline": "Israeli forces raid camp in occupied West Bank",
-    "excerpt": "Israeli forces have launched a large-scale military operation in Qalandiya refugee camp in the occupied West Bank.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-05T22:43:14.725337+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
-  },
-  {
-    "id": "da34f2e1b4e1",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T20:55",
-    "headline": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
-    "excerpt": "The geographical coordinates of the route in the waterway have been agreed upon with Oman, according to Tehran.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-08-05T21:33:49.971177+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss"
   }
 ]
