@@ -1,5 +1,27 @@
 [
   {
+    "id": "c946cf7968a4",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T20:45",
+    "headline": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+    "excerpt": "Concern over the security of Europe&#039;s largest nuclear plant has been rife since Russia launched its full-scale war.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-18T21:01:36.150529+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss"
+  },
+  {
+    "id": "1c30f96297dc",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T20:26",
+    "headline": "Russian missile strike kills 10 civilians in Kharkiv",
+    "excerpt": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-18T21:01:36.150573+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss"
+  },
+  {
     "id": "69d6e1b1fa32",
     "source": "Al Jazeera",
     "date": "2026-08-18T20:09",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-06T14:54:42.321526+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months?traffic_source=rss"
-  },
-  {
-    "id": "9551e771c7bc",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T13:04",
-    "headline": "The old pact between Israel’s government and military has broken down",
-    "excerpt": "Prolonged conflict has upended the relationship between political authority and military judgement in Israel.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-08-06T14:54:42.321558+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/8/6/the-old-pact-between-israels-government-and-military-has-broken-down?traffic_source=rss"
-  },
-  {
-    "id": "03a42596032a",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T12:27",
-    "headline": "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?",
-    "excerpt": "Islamabad seeks economic backing while balancing new defence commitments and a volatile regional security landscape.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-08-06T14:54:42.321591+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss"
   }
 ]
