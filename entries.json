@@ -1,5 +1,60 @@
 [
   {
+    "id": "51c515ac9e40",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T13:51",
+    "headline": "Yemeni government escalates attacks against Houthis: What’s next?",
+    "excerpt": "Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-08-18T13:59:10.296878+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss"
+  },
+  {
+    "id": "ee714a8d59c6",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T13:12",
+    "headline": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
+    "excerpt": "Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-08-18T13:59:10.296952+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss"
+  },
+  {
+    "id": "6b88e0458404",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T13:11",
+    "headline": "Palestinian-American confronts Israeli settler at his besieged home",
+    "excerpt": "Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-18T13:59:10.296995+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss"
+  },
+  {
+    "id": "52120fc820ae",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T13:06",
+    "headline": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
+    "excerpt": "The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-18T13:59:10.297032+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss"
+  },
+  {
+    "id": "47cf66599d27",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T10:11",
+    "headline": "Syria, US say Israel attacks airbase in Idlib",
+    "excerpt": "Eight air strikes hit the Abu al-Duhur military base in Idlib&#039;s eastern countryside.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-08-18T13:59:10.297072+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss"
+  },
+  {
     "id": "70ee7835f227",
     "source": "Al Jazeera",
     "date": "2026-08-18T12:47",
@@ -5443,60 +5498,5 @@
     "location": "Strait Of Hormuz",
     "addedAt": "2026-08-06T07:26:28.088819+00:00",
     "link": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss"
-  },
-  {
-    "id": "e2c66554991b",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T00:00",
-    "headline": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
-    "excerpt": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
-    "category": "Airstrike",
-    "location": "Tehran",
-    "addedAt": "2026-08-06T07:26:28.088850+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
-  },
-  {
-    "id": "2e134bd8adec",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T04:02",
-    "headline": "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
-    "excerpt": "US President Donald Trump attacked Michigan’s Democratic Senate candidate Abdul El-Sayed, calling him a ‘hater of Jews.&#039;",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-06T04:31:13.764075+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss"
-  },
-  {
-    "id": "7902edc66486",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T03:43",
-    "headline": "Could the Iran war derail Donald Trump’s legacy?",
-    "excerpt": "President Trump is looking to reframe the Iran war ahead of the 2026 midterm elections in November.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-06T04:31:13.764122+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
-  },
-  {
-    "id": "46280db124a6",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T02:39",
-    "headline": "Lightning strike kills Thai footballer during match",
-    "excerpt": "Footage shows the moment a lightning strike hit a football player in southern Thailand, during a semi-final match.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-06T04:31:13.764159+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss"
-  },
-  {
-    "id": "8ba17cd6b05f",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T02:28",
-    "headline": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
-    "excerpt": "German authorities are investigating how a drone packed with explosives reached Leipzig/Halle Airport.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-06T04:31:13.764185+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss"
   }
 ]
