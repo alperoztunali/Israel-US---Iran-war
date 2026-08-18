@@ -1,5 +1,27 @@
 [
   {
+    "id": "718ce6230361",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T18:32",
+    "headline": "Israeli strike on Gaza City cafe kills six, including child",
+    "excerpt": "An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-18T19:01:02.243370+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss"
+  },
+  {
+    "id": "b05b2d363486",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T18:17",
+    "headline": "Police attack Indonesian student protesters, arresting at least 21",
+    "excerpt": "Hundreds of university students in Indonesia took to the streets of Jakarta on Tuesday.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-18T19:01:02.243430+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss"
+  },
+  {
     "id": "c650d53b0c0a",
     "source": "Al Jazeera",
     "date": "2026-08-18T17:51",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-06T12:20:35.641527+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss"
-  },
-  {
-    "id": "98befe2e5b58",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T10:20",
-    "headline": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
-    "excerpt": "US officials say they would not accept any arrangement on the waterway that would leave Iran in control.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-06T12:20:35.641576+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss"
-  },
-  {
-    "id": "7cfab7694ea0",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T10:13",
-    "headline": "Uganda football star Owori killed, weeks after death of rugby’s Gongodyo",
-    "excerpt": "SC Villa captain and Ugandan international David Owori was found unconscious by passers-by, but later pronounced dead.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-06T12:20:35.641612+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss"
   }
 ]
