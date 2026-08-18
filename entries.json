@@ -1,5 +1,27 @@
 [
   {
+    "id": "96d61c064a92",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T21:26",
+    "headline": "Why is the US ramping up Tomahawk production?",
+    "excerpt": "Pentagon contracts defence manufacturer to increase output of cruise missiles.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-18T21:59:15.026299+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss"
+  },
+  {
+    "id": "be2d8787a2bf",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T21:25",
+    "headline": "Syria opens Assad-era nuclear programme to UN probe",
+    "excerpt": "UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-18T21:59:15.026347+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss"
+  },
+  {
     "id": "710da61e0803",
     "source": "Al Jazeera",
     "date": "2026-08-18T21:03",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-06T14:54:42.321393+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss"
-  },
-  {
-    "id": "1d57e54c5891",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T13:59",
-    "headline": "Houthis attacks on Yemeni government forces reportedly kills at least 30",
-    "excerpt": "Attack is deadliest in Yemen&#039;s conflict between Houthis and government forces in years.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-08-06T14:54:42.321435+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/6/houthis-claim-to-have-killed-45-in-attacks-on-yemeni-government-forces?traffic_source=rss"
-  },
-  {
-    "id": "f1669bd54805",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T13:19",
-    "headline": "‘There is no money’: Is Iraq entering a phase of lean years?",
-    "excerpt": "Iraqi government needs approximately $8.24bn a month to pay state salaries and cover basic obligations.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-08-06T14:54:42.321474+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/6/there-is-no-money-is-iraq-entering-a-phase-of-lean-years?traffic_source=rss"
   }
 ]
