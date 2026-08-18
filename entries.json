@@ -1,5 +1,38 @@
 [
   {
+    "id": "7814f6a443e6",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T06:35",
+    "headline": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
+    "excerpt": "British maritime agency says the incident caused one casualty and damaged the vessel&#039;s engine room.",
+    "category": "Missile/Drone",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-08-18T06:51:28.458964+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss"
+  },
+  {
+    "id": "761e189608b1",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T06:28",
+    "headline": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
+    "excerpt": "Beijing&#039;s new &#039;Ice Silk Road&#039; cuts through a melting Arctic, and could prompt fresh tensions with the US, say analysts.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-18T06:51:28.459027+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss"
+  },
+  {
+    "id": "947c67961bca",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T05:44",
+    "headline": "Trump says N Korea’s Kim has responded to his request for a conversation",
+    "excerpt": "US president says conversations with Kim Jong Un at a &#039;positive&#039; stage and slams Seoul for refusing to join war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-18T06:51:28.459066+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss"
+  },
+  {
     "id": "7444439dd12b",
     "source": "Al Jazeera",
     "date": "2026-08-18T02:51",
@@ -5465,38 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-08-05T14:56:14.596821+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/5/iraq-faces-crisis-as-shia-armed-groups-defy-disarmament?traffic_source=rss"
-  },
-  {
-    "id": "2c1c516649ee",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T12:58",
-    "headline": "UN rights chief says Iran executed at least 56 people since March",
-    "excerpt": "Volker Turk warns of surge in Iran executions to suppress dissent after January uprising.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-05T14:56:14.596851+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss"
-  },
-  {
-    "id": "c134b8a35983",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T12:36",
-    "headline": "SpaceX rocket segment to crash into the moon: What happened?",
-    "excerpt": "A piece of the SpaceX Falcon 9 rocket is believed to have crashed into the moon after floating in space since last year.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T14:56:14.596882+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened?traffic_source=rss"
-  },
-  {
-    "id": "4e7a9d9587e0",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T12:14",
-    "headline": "In Bandar Abbas, the ceasefire never came",
-    "excerpt": "A single mother from Bandar Abbas reflects on the fear and resilience of living through repeated attacks.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T14:56:14.596915+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss"
   }
 ]
