@@ -1,5 +1,27 @@
 [
   {
+    "id": "710da61e0803",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T21:03",
+    "headline": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
+    "excerpt": "US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-18T21:39:51.893310+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss"
+  },
+  {
+    "id": "14935ca9e752",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T21:03",
+    "headline": "Israeli strike reported to kill at least six in Gaza City",
+    "excerpt": "The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-08-18T21:39:51.893355+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss"
+  },
+  {
     "id": "c946cf7968a4",
     "source": "Al Jazeera",
     "date": "2026-08-18T20:45",
@@ -5476,27 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-08-06T14:54:42.321474+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/6/there-is-no-money-is-iraq-entering-a-phase-of-lean-years?traffic_source=rss"
-  },
-  {
-    "id": "746346f00f65",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T13:16",
-    "headline": "Iran tightens security grip at home as war conditions with US linger",
-    "excerpt": "Executions, arrests and closure of public gathering spaces have raised concerns among Iranians and rights groups.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-06T14:54:42.321506+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/6/iran-tightens-security-grip-at-home-as-war-conditions-with-us-linger?traffic_source=rss"
-  },
-  {
-    "id": "2593ea028ef7",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T13:13",
-    "headline": "Will the US-Iran war and Hormuz deadlock last for months?",
-    "excerpt": "Will the war on Iran and Hormuz deadlock last for months? Experts analyse the obstacles blocking a lasting deal.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-08-06T14:54:42.321526+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months?traffic_source=rss"
   }
 ]
