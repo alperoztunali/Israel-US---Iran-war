@@ -1,5 +1,38 @@
 [
   {
+    "id": "b73d4769bd5e",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T10:11",
+    "headline": "Eight air strikes hit airbase in Syria’s Idlib",
+    "excerpt": "Syrian state TV quotes military source as saying Israeli forces carried out attack, causing damage and no casualties.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-08-18T10:33:17.530961+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss"
+  },
+  {
+    "id": "760148a96ef1",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T10:07",
+    "headline": "Syrian man dies in custody after alleged abuse by security officers",
+    "excerpt": "A Syrian man died in police custody after his family alleged he was severely beaten.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-18T10:33:17.531028+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss"
+  },
+  {
+    "id": "be32cbb97841",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T08:23",
+    "headline": "Syrian court sentences Wassim al-Assad to death for war crimes",
+    "excerpt": "Cousin of Bashar al-Assad and former regime figure found guilty of crimes including premeditated murder and torture.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-18T10:33:17.531066+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss"
+  },
+  {
     "id": "61a7a8885746",
     "source": "Al Jazeera",
     "date": "2026-08-18T09:29",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-05T21:33:49.971223+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss"
-  },
-  {
-    "id": "4a084f351129",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T18:16",
-    "headline": "Is the conflict between Russia and Ukraine deepening?",
-    "excerpt": "The war sees a surge in attacks by both sides with little diplomatic movement.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-08-05T20:09:16.949840+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss"
-  },
-  {
-    "id": "d7e8e389e059",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T17:41",
-    "headline": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
-    "excerpt": "Eight Palestinian people injured after Israeli forces enter homes, shops in Qalandiya, issuing demolition threats.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-05T18:24:48.458708+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss"
-  },
-  {
-    "id": "412204d5a837",
-    "source": "Al Jazeera",
-    "date": "2026-08-05T17:12",
-    "headline": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
-    "excerpt": "The violence comes amid talks between Lebanon and Israel as Beirut pushes for a phased Israeli troop withdrawal.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-05T18:24:48.458748+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss"
   }
 ]
