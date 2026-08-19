@@ -1,5 +1,27 @@
 [
   {
+    "id": "fad78eddfdfd",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T08:46",
+    "headline": "Breastfeeding in Gaza: Mothers seek help to provide for their babies",
+    "excerpt": "Breastfeeding mothers in Gaza struggle to feed their babies amid hunger, displacement, stress and living conditions.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-19T09:17:11.926880+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/19/breastfeeding-in-gaza-mothers-seek-help-to-provide-for-their-babies?traffic_source=rss"
+  },
+  {
+    "id": "98dceaba7279",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T08:40",
+    "headline": "Aid workers faced record number of attacks in 2025, UN says",
+    "excerpt": "Gaza remains the deadliest place for humanitarian workers for third consecutive year, with 186 killed in 2025.",
+    "category": "Casualties",
+    "location": "Gaza",
+    "addedAt": "2026-08-19T09:17:11.926918+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss"
+  },
+  {
     "id": "d86c10d6ea7f",
     "source": "Al Jazeera",
     "date": "2026-08-19T06:27",
@@ -5476,27 +5498,5 @@
     "location": "Saudi Arabia",
     "addedAt": "2026-08-07T05:24:05.377605+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss"
-  },
-  {
-    "id": "9fe2a6596521",
-    "source": "Al Jazeera",
-    "date": "2026-08-07T04:23",
-    "headline": "One killed, four injured in Thailand school shooting, officials say",
-    "excerpt": "Authorities say the gunman, a student, killed a teacher before taking his own life at a school northwest of Bangkok.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-07T05:24:05.377636+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss"
-  },
-  {
-    "id": "da22d1340ff8",
-    "source": "Al Jazeera",
-    "date": "2026-08-07T02:30",
-    "headline": "Exclusive report with the 308 people rescued by Nigerian forces",
-    "excerpt": "Nigerian security forces have rescued 308 people abducted in separate attacks in northern Niger and Kwara states.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-08-07T03:31:10.084430+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss"
   }
 ]
