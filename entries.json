@@ -1,5 +1,49 @@
 [
   {
+    "id": "d57d60d234e7",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T21:22",
+    "headline": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+    "excerpt": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-19T21:42:22.785466+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
+  },
+  {
+    "id": "764e211f231b",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T21:10",
+    "headline": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
+    "excerpt": "“You can&#039;t do anything. Just stand here and watch.”\nAl Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-19T21:42:22.785518+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss"
+  },
+  {
+    "id": "fe9a9d98b131",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T21:09",
+    "headline": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
+    "excerpt": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-08-19T21:42:22.785554+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "cf24b094b26e",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T21:01",
+    "headline": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
+    "excerpt": "Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-19T21:42:22.785587+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss"
+  },
+  {
     "id": "2cc469f2bc6d",
     "source": "Al Jazeera",
     "date": "2026-08-19T20:18",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-08T00:00:32.614926+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss"
-  },
-  {
-    "id": "d169ae83d72a",
-    "source": "Al Jazeera",
-    "date": "2026-08-07T23:15",
-    "headline": "Medics among six Palestinians injured in Israeli attacks across West Bank",
-    "excerpt": "Since January, Palestinians have reported more than 11,000 Israeli attacks in the occupied West Bank, officials say.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-08T00:00:32.614963+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "afcd9cae19b2",
-    "source": "Al Jazeera",
-    "date": "2026-08-07T21:02",
-    "headline": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-    "excerpt": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-08-07T21:50:24.451678+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss"
-  },
-  {
-    "id": "2b571989a3cc",
-    "source": "Al Jazeera",
-    "date": "2026-08-07T19:47",
-    "headline": "Contaminated water putting Gaza families at risk",
-    "excerpt": "Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-07T20:59:47.165073+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss"
-  },
-  {
-    "id": "da8fb71ff98a",
-    "source": "Al Jazeera",
-    "date": "2026-08-07T19:21",
-    "headline": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
-    "excerpt": "ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.",
-    "category": "Other",
-    "location": "Doha",
-    "addedAt": "2026-08-07T20:06:50.150678+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss"
   }
 ]
