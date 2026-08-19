@@ -1,5 +1,27 @@
 [
   {
+    "id": "8828832e0505",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T23:21",
+    "headline": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+    "excerpt": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-08-19T23:38:50.799753+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss"
+  },
+  {
+    "id": "cdddca964e6b",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T23:18",
+    "headline": "Trump announces ‘most crushing economic operation ever’ against Iran",
+    "excerpt": "US president also says any country that trades with Iran will &#039;face tremendous economic consequences&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-19T23:38:50.799793+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss"
+  },
+  {
     "id": "d57d60d234e7",
     "source": "Al Jazeera",
     "date": "2026-08-19T21:22",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-08T02:22:10.276818+00:00",
     "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss"
-  },
-  {
-    "id": "9984762c4810",
-    "source": "Al Jazeera",
-    "date": "2026-08-08T00:00",
-    "headline": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
-    "excerpt": "Saudi crown prince, Turkish president and Pakistani prime minister sign a joint defence agreement in Mecca.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-08T02:22:10.276864+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss"
-  },
-  {
-    "id": "33873bbaba96",
-    "source": "Al Jazeera",
-    "date": "2026-08-07T23:18",
-    "headline": "Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?",
-    "excerpt": "The Mecca Joint Defence Pact brings together countries that sit between Iran and Israel, but will it be effective?",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-08T00:00:32.614926+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss"
   }
 ]
