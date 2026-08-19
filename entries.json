@@ -1,5 +1,49 @@
 [
   {
+    "id": "677d17f9549c",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T00:49",
+    "headline": "US ambassador to Israel calls settler violence ‘terror’",
+    "excerpt": "US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-19T01:47:20.778235+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss"
+  },
+  {
+    "id": "c1c95a53cc29",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T00:00",
+    "headline": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+    "excerpt": "Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US &#039;begging&#039; for negotiations.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-19T01:47:20.778271+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss"
+  },
+  {
+    "id": "33f6f3727b1c",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T23:59",
+    "headline": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
+    "excerpt": "Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-19T01:47:20.778297+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss"
+  },
+  {
+    "id": "62417e364cc4",
+    "source": "Al Jazeera",
+    "date": "2026-08-18T23:45",
+    "headline": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
+    "excerpt": "Lawmakers question whether conditions on the aircraft carrier indicate a &#039;pattern&#039; of poor planning amid the Iran war.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-19T01:47:20.778317+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss"
+  },
+  {
     "id": "d2ffb0ffcf77",
     "source": "Al Jazeera",
     "date": "2026-08-18T21:50",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-07T00:25:37.979441+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/08-06-sv-ebola-update-funding-drc?traffic_source=rss"
-  },
-  {
-    "id": "6d0097fffb30",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T20:38",
-    "headline": "How fragile is Lebanon’s uneasy peace?",
-    "excerpt": "Israel goes on the attack after the first soldiers are killed since ceasefire began two months ago.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-07T00:25:37.979475+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/6/how-fragile-is-lebanons-uneasy?traffic_source=rss"
-  },
-  {
-    "id": "73a48ca57c70",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T19:48",
-    "headline": "Israeli settler charged over Palestinian activist’s killing",
-    "excerpt": "Israeli prosecutors have charged a settler with “reckless manslaughter” in the killing of prominent Palestinian activist",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-07T00:25:37.979511+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/israeli-settler-charged-over-palestinian-activists-killing?traffic_source=rss"
-  },
-  {
-    "id": "6613095fafb9",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T19:41",
-    "headline": "Deadly explosion on minibus near Damascus",
-    "excerpt": "Two people were killed and 13 injured when an explosion ripped through a minibus in Jaramana, southeast of Damascus.",
-    "category": "Casualties",
-    "location": "Damascus",
-    "addedAt": "2026-08-07T00:25:37.979534+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadly-explosion-on-minibus-near-damascus?traffic_source=rss"
-  },
-  {
-    "id": "4f9c9c6b4448",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T19:21",
-    "headline": "Israeli attacks wound eight in Lebanon despite Rome talks",
-    "excerpt": "Israel launches strikes on southern Lebanon&#039;s Tyre as third day of the seventh round of US-brokered talks concludes.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-08-07T00:25:37.979558+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/6/israeli-attacks-wound-eight-in-lebanon-despite-rome-talks?traffic_source=rss"
   }
 ]
