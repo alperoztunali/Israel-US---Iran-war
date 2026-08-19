@@ -1,5 +1,27 @@
 [
   {
+    "id": "705cc5f002e2",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T03:34",
+    "headline": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+    "excerpt": "Iran denies launching missiles at the UAE, suggesting the incident was a &#039;false flag operation&#039;.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-08-19T04:00:05.301843+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss"
+  },
+  {
+    "id": "c9cb56f3a337",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T03:25",
+    "headline": "US sanctions International Criminal Court’s president and top lawyer",
+    "excerpt": "The US has sanctioned International Criminal Court president Tomoko Akane and trial lawyer Abdoulaye Seye.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-08-19T04:00:05.301903+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss"
+  },
+  {
     "id": "677d17f9549c",
     "source": "Al Jazeera",
     "date": "2026-08-19T00:49",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-07T00:25:37.979364+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment?traffic_source=rss"
-  },
-  {
-    "id": "b29380a8742d",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T20:59",
-    "headline": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
-    "excerpt": "US says the five entities and eight individuals sanctioned help Cuba acquire military equipment from Russia and China.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-08-07T00:25:37.979408+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "9e053a71dea8",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T20:52",
-    "headline": "WHO chief: Ebola outbreak in DRC spreading at ‘unprecedented rate’",
-    "excerpt": "The world&#039;s fastest-growing Ebola outbreak has killed 1,751 people in DR Congo.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-07T00:25:37.979441+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/08-06-sv-ebola-update-funding-drc?traffic_source=rss"
   }
 ]
