@@ -1,5 +1,16 @@
 [
   {
+    "id": "4c918cac8c6f",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T09:34",
+    "headline": "At least five killed in Russian air attacks on Ukraine",
+    "excerpt": "Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-19T09:59:14.856259+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss"
+  },
+  {
     "id": "fad78eddfdfd",
     "source": "Al Jazeera",
     "date": "2026-08-19T08:46",
@@ -5487,16 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-07T05:24:05.377550+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss"
-  },
-  {
-    "id": "a970509f932d",
-    "source": "Al Jazeera",
-    "date": "2026-08-07T04:43",
-    "headline": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
-    "excerpt": "Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-08-07T05:24:05.377605+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss"
   }
 ]
