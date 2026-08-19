@@ -1,5 +1,27 @@
 [
   {
+    "id": "cce7eca82ce7",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T17:14",
+    "headline": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
+    "excerpt": "Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-08-19T17:42:17.386265+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss"
+  },
+  {
+    "id": "b31e6bcdae30",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T17:12",
+    "headline": "US pressure on Israel needed for peace in Syria",
+    "excerpt": "With Israeli elections approaching, analysts say Netanyahu needs a new escalation, undermining deconfliction efforts.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-19T17:42:17.386307+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/19/us-pressure-on-israel-needed-for-peace-in-syria?traffic_source=rss"
+  },
+  {
     "id": "6e3e4147f2c8",
     "source": "Al Jazeera",
     "date": "2026-08-19T15:46",
@@ -5476,27 +5498,5 @@
     "location": "Saudi Arabia",
     "addedAt": "2026-08-07T13:53:28.366569+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss"
-  },
-  {
-    "id": "a7ae31d3fd98",
-    "source": "Al Jazeera",
-    "date": "2026-08-07T12:34",
-    "headline": "UN chief condemns both Ukraine and Russia amid escalation in war",
-    "excerpt": "UN chief Guterres calls for de-escalation and a ceasefire as Russia-Ukraine attacks intensify.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-08-07T13:53:28.366606+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss"
-  },
-  {
-    "id": "a7dfde8b286f",
-    "source": "Al Jazeera",
-    "date": "2026-08-07T12:28",
-    "headline": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
-    "excerpt": "Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-07T13:53:28.366642+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss"
   }
 ]
