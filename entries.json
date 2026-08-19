@@ -1,5 +1,27 @@
 [
   {
+    "id": "3cc0e048f3f7",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T04:25",
+    "headline": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+    "excerpt": "An attack on a village in Nigeria’s central Plateau state has killed at least 25 people.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-19T04:46:51.460431+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss"
+  },
+  {
+    "id": "3a515f7f2e32",
+    "source": "Al Jazeera",
+    "date": "2026-08-19T03:44",
+    "headline": "Bali gym owner kicks out three Israeli tourists for links to ‘IDF’",
+    "excerpt": "A gym owner in Indonesia has posted a video on social media explaining why he refused service to three Israeli tourists.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-19T04:46:51.460488+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss"
+  },
+  {
     "id": "705cc5f002e2",
     "source": "Al Jazeera",
     "date": "2026-08-19T03:34",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-07T00:25:37.979291+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "1a46dba03687",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T23:34",
-    "headline": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
-    "excerpt": "US president says he is involved in talks and war will end &#039;pretty soon&#039;, claiming that Iran cannot &#039;go much longer&#039;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-07T00:25:37.979328+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop?traffic_source=rss"
-  },
-  {
-    "id": "f9bf757bbec6",
-    "source": "Al Jazeera",
-    "date": "2026-08-06T22:59",
-    "headline": "How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment",
-    "excerpt": "Michigan progressive fended off AIPAC as well as Democratic establishment in US Senate race, supporters say.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-07T00:25:37.979364+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment?traffic_source=rss"
   }
 ]
