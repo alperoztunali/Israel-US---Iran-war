@@ -1,5 +1,49 @@
 [
   {
+    "id": "195dfaedce01",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T19:11",
+    "headline": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
+    "excerpt": "Scott Bessent has not said if countries such as China could be targeted in an effort to economically isolate Tehran.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-08-20T19:46:55.962920+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss"
+  },
+  {
+    "id": "124ebfa70f04",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T19:09",
+    "headline": "Jewish-American barred by Israel calls settler violence ‘state terror’",
+    "excerpt": "Jewish-American activist says Israel barred his re-entry over his work with Palestinians in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-20T19:46:55.962973+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss"
+  },
+  {
+    "id": "3c1af5861160",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T18:59",
+    "headline": "Thai schools hold shooter drills after deadly attack",
+    "excerpt": "Schools across Thailand are carrying out active shooter drills to save lives and spread awareness.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-20T19:46:55.963007+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss"
+  },
+  {
+    "id": "58e5a128baf7",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T18:55",
+    "headline": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
+    "excerpt": "Who is Ahmad Hassoun, the &#039;barrel bomb mufti&#039; close to the inner circle of the al-Assad regime?",
+    "category": "Airstrike",
+    "location": "Damascus",
+    "addedAt": "2026-08-20T19:46:55.963037+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss"
+  },
+  {
     "id": "8db782a06199",
     "source": "Al Jazeera",
     "date": "2026-08-20T17:02",
@@ -5454,49 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-08-09T11:14:58.052564+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss"
-  },
-  {
-    "id": "58695fa03b90",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T10:35",
-    "headline": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
-    "excerpt": "Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-09T11:14:58.052604+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss"
-  },
-  {
-    "id": "7fac6b67aec0",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T10:02",
-    "headline": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-    "excerpt": "The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-08-09T10:44:15.841683+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss"
-  },
-  {
-    "id": "a05557446bcd",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T06:57",
-    "headline": "Israel advances plan for 627 settler units in occupied West Bank",
-    "excerpt": "New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-09T10:44:15.841737+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "7cc9c31d0bc1",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T07:58",
-    "headline": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
-    "excerpt": "No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.",
-    "category": "Casualties",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-08-09T09:03:49.661316+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss"
   }
 ]
