@@ -1,5 +1,27 @@
 [
   {
+    "id": "8db782a06199",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T17:02",
+    "headline": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
+    "excerpt": "Families in Gaza face devastating water shortages, leaving children with heavy responsibilities beyond their years.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-20T17:34:05.687019+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss"
+  },
+  {
+    "id": "7fe001166b84",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T17:00",
+    "headline": "North Korea fires ballistic missiles as US-South Korea drills near end",
+    "excerpt": "South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-20T17:34:05.687060+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss"
+  },
+  {
     "id": "8a2cbb6eaac2",
     "source": "Al Jazeera",
     "date": "2026-08-20T16:19",
@@ -5476,27 +5498,5 @@
     "location": "Saudi Arabia",
     "addedAt": "2026-08-09T09:03:49.661316+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss"
-  },
-  {
-    "id": "1c7baf41c91b",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T07:56",
-    "headline": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
-    "excerpt": "Nagasaki Mayor says ‘humanity and nuclear weapons can&#039;t coexist’ as Japan marks anniversary of the US atomic bombing.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-08-09T09:03:49.661360+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss"
-  },
-  {
-    "id": "c7cd4fa3bf87",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T00:00",
-    "headline": "Iran war live: Tehran seeks ‘to create grounds’ for talks with US",
-    "excerpt": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-08-09T09:03:49.661406+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss"
   }
 ]
