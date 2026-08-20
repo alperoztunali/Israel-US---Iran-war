@@ -1,5 +1,38 @@
 [
   {
+    "id": "5fbd74869853",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T12:46",
+    "headline": "Alarms blare in South Korea during annual air raid defence drill",
+    "excerpt": "South Korea has held a nationwide drill simulating an air raid to coincide with joint military exercises with the US.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-20T13:11:51.406951+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss"
+  },
+  {
+    "id": "82f6ac60ea7f",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T11:48",
+    "headline": "Who was Hind Rajab and why is Israel investigating her killing?",
+    "excerpt": "After two years of denial, Israel admits firing on the 5-year-old&#039;s car. But her family and others don&#039;t expect justice.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-20T13:11:51.406997+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss"
+  },
+  {
+    "id": "e1a1b0936ee2",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T11:44",
+    "headline": "Israel is betting on Islamophobia to save its standing in the West",
+    "excerpt": "Netanyahu’s government is using anti-Muslim fear to rally a Western right increasingly receptive to its message.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-20T13:11:51.407038+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss"
+  },
+  {
     "id": "daa039e013a0",
     "source": "Al Jazeera",
     "date": "2026-08-20T08:43",
@@ -5465,38 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-08-08T23:45:56.502565+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss"
-  },
-  {
-    "id": "f8418ea59965",
-    "source": "Al Jazeera",
-    "date": "2026-08-08T22:22",
-    "headline": "Car bomb attack rattles Colombia after inauguration of hardline president",
-    "excerpt": "Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-08-08T23:08:40.493666+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss"
-  },
-  {
-    "id": "63e54ccd3801",
-    "source": "Al Jazeera",
-    "date": "2026-08-08T20:25",
-    "headline": "What are the challenges facing the Mecca agreement?",
-    "excerpt": "Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.",
-    "category": "Diplomatic",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-08-08T21:11:37.509187+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss"
-  },
-  {
-    "id": "a62d42708c3d",
-    "source": "Al Jazeera",
-    "date": "2026-08-08T19:00",
-    "headline": "Lebanese soldiers injured while Israeli troops intrude on southern town",
-    "excerpt": "Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-08T19:55:02.419807+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss"
   }
 ]
