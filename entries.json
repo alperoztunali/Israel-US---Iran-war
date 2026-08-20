@@ -1,5 +1,27 @@
 [
   {
+    "id": "d90e1fe2c8e1",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T23:01",
+    "headline": "US charges woman for allegedly plotting attack on New York State Capitol",
+    "excerpt": "The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for &#039;terrorism&#039;.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-08-20T23:29:52.920486+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss"
+  },
+  {
+    "id": "f8eb70a91d3b",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T22:51",
+    "headline": "The cost of rebuilding family homes in war-ravaged Syria",
+    "excerpt": "What does rebuilding look like for families after war? Al Jazeera’s Hannah Raslan reports from Syria.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-20T23:29:52.920532+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss"
+  },
+  {
     "id": "662e21a1afab",
     "source": "Al Jazeera",
     "date": "2026-08-20T20:37",
@@ -5476,27 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-08-09T14:45:52.698953+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss"
-  },
-  {
-    "id": "998d130c03e7",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T13:54",
-    "headline": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
-    "excerpt": "Experts warn Israel&#039;s new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-09T14:45:52.698996+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss"
-  },
-  {
-    "id": "59cd4db7180b",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T13:36",
-    "headline": "Why does Iran defeat the empires trying to conquer it?",
-    "excerpt": "On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-09T13:59:40.909304+00:00",
-    "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss"
   }
 ]
