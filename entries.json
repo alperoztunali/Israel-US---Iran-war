@@ -1,5 +1,49 @@
 [
   {
+    "id": "d431cea4b806",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T20:10",
+    "headline": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
+    "excerpt": "WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-20T20:33:46.560073+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss"
+  },
+  {
+    "id": "a5895d308e1b",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T20:05",
+    "headline": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
+    "excerpt": "Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-20T20:33:46.560144+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "fc86f4ce075e",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T19:59",
+    "headline": "Syria’s civil society navigates post-Assad era: Partnership or control?",
+    "excerpt": "Syria&#039;s civil society grapples with redefining its role as the state reasserts itself after Assad&#039;s fall.",
+    "category": "Naval",
+    "location": "Syria",
+    "addedAt": "2026-08-20T20:33:46.560179+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss"
+  },
+  {
+    "id": "9a76b3245b8a",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T19:38",
+    "headline": "Could US sanctions destroy the International Criminal Court?",
+    "excerpt": "Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-08-20T20:33:46.560208+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss"
+  },
+  {
     "id": "195dfaedce01",
     "source": "Al Jazeera",
     "date": "2026-08-20T19:11",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-09T13:01:21.047306+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss"
-  },
-  {
-    "id": "f00b8ec24867",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T11:53",
-    "headline": "‘US and Iran are talking past each other’ in indirect negotiations",
-    "excerpt": "‘US and Iran are talking past each other’ in indirect negotiations",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-09T13:01:21.047357+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss"
-  },
-  {
-    "id": "48764183faca",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T11:31",
-    "headline": "Israel rejects Trump’s 15-point plan for Gaza",
-    "excerpt": "This is a breaking news story.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-09T11:49:30.687114+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss"
-  },
-  {
-    "id": "181bc71119e6",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T10:55",
-    "headline": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
-    "excerpt": "President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa&#039;s port.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-08-09T11:14:58.052518+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss"
-  },
-  {
-    "id": "a1258c49a35c",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T10:45",
-    "headline": "Yemeni army warns Houthis after attacks heighten escalation risk",
-    "excerpt": "Yemeni army warns Houthis after attacks heighten escalation risk",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-08-09T11:14:58.052564+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss"
   }
 ]
