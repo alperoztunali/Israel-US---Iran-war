@@ -1,5 +1,49 @@
 [
   {
+    "id": "895a4f299723",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T09:20",
+    "headline": "How conflict is making life more expensive for Iranians",
+    "excerpt": "How conflict is making life more expensive for Iranians",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-20T09:39:15.249754+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss"
+  },
+  {
+    "id": "388cd4e4488c",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T09:08",
+    "headline": "State-backed Israeli settler violence forces West Bank displacement: HRW",
+    "excerpt": "HRW calls for sanctions and suspension of military aid as dozens of Palestinian communities are at risk of erasure.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-20T09:39:15.249797+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss"
+  },
+  {
+    "id": "3b132dc24b1a",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T08:43",
+    "headline": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
+    "excerpt": "Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-20T09:39:15.249828+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss"
+  },
+  {
+    "id": "f8ebfd8a808a",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T02:50",
+    "headline": "Russian missile barrage kills at least 13 people in Ukraine’s Kyiv",
+    "excerpt": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-20T09:39:15.249885+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
+  },
+  {
     "id": "4e384b686dbc",
     "source": "Al Jazeera",
     "date": "2026-08-20T08:24",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-08T17:49:25.948535+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss"
-  },
-  {
-    "id": "ac79065353dc",
-    "source": "Al Jazeera",
-    "date": "2026-08-08T16:52",
-    "headline": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
-    "excerpt": "The agreement names no adversary, but analysts say Iran and its regional network are central to the thinking behind it.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-08T17:13:14.375324+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss"
-  },
-  {
-    "id": "bce9cf4fb557",
-    "source": "Al Jazeera",
-    "date": "2026-08-08T15:52",
-    "headline": "UNRWA has been with me since birth, I cannot imagine a future without it",
-    "excerpt": "The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-08T16:39:19.146300+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss"
-  },
-  {
-    "id": "fbbe0d056c91",
-    "source": "Al Jazeera",
-    "date": "2026-08-08T15:42",
-    "headline": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
-    "excerpt": "Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-08-08T16:39:19.146343+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss"
-  },
-  {
-    "id": "4b9d354196cc",
-    "source": "Al Jazeera",
-    "date": "2026-08-08T12:30",
-    "headline": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
-    "excerpt": "Drone incidents in Europe igniting fears that Moscow&#039;s war on Kyiv is entangling NATO nations.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-08T16:39:19.146378+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss"
   }
 ]
