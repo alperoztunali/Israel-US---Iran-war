@@ -1,5 +1,38 @@
 [
   {
+    "id": "c1b681fa59d4",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T04:59",
+    "headline": "At least 6 killed in multiple Russian missile strikes across Ukraine",
+    "excerpt": "Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-20T05:35:02.324024+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "031609ed0a1f",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T04:31",
+    "headline": "Trump vows ‘economic warfare’ on countries helping Iran",
+    "excerpt": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-20T05:35:02.324062+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
+  },
+  {
+    "id": "6665e01c6d9d",
+    "source": "Al Jazeera",
+    "date": "2026-08-20T02:50",
+    "headline": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
+    "excerpt": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-20T05:35:02.324082+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
+  },
+  {
     "id": "eb37b17c6ff8",
     "source": "Al Jazeera",
     "date": "2026-08-20T02:50",
@@ -5465,38 +5498,5 @@
     "location": "Saudi Arabia",
     "addedAt": "2026-08-08T12:58:00.835857+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss"
-  },
-  {
-    "id": "887638298efd",
-    "source": "Al Jazeera",
-    "date": "2026-08-08T11:29",
-    "headline": "Woman screams in fear as Ukraine war recruiters pounce on man",
-    "excerpt": "Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-08-08T12:58:00.835901+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss"
-  },
-  {
-    "id": "132e38f5ee0b",
-    "source": "Al Jazeera",
-    "date": "2026-08-08T10:58",
-    "headline": "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
-    "excerpt": "Patients in Yemen who cannot afford healthcare or access relevant treatment are turning to alternative medicine.",
-    "category": "Movement",
-    "location": "Yemen",
-    "addedAt": "2026-08-08T11:45:25.067764+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss"
-  },
-  {
-    "id": "0db452219e40",
-    "source": "Al Jazeera",
-    "date": "2026-08-08T04:18",
-    "headline": "Russian strikes near Ukrainian capital kill four, including child",
-    "excerpt": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-08T11:45:25.067812+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss"
   }
 ]
