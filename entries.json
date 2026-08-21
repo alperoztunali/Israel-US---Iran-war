@@ -1,5 +1,38 @@
 [
   {
+    "id": "ef433b0aa67b",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T11:15",
+    "headline": "Closure of al-Makha port leaves workers and traders fearing for the future",
+    "excerpt": "Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-21T11:30:49.396585+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss"
+  },
+  {
+    "id": "6cb0e3cb5a22",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T11:12",
+    "headline": "Who does the law serve in the occupied West Bank?",
+    "excerpt": "Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-21T11:30:49.396629+00:00",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "3eb0f0a4f9b6",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T10:59",
+    "headline": "Charter plane crash near Alaskan military site kills 8",
+    "excerpt": "Rescuers who landed near the crash site &#039;confirmed there were no survivors&#039;.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-08-21T11:30:49.396668+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss"
+  },
+  {
     "id": "00333246db8f",
     "source": "Al Jazeera",
     "date": "2026-08-21T08:42",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-09T16:56:42.616865+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss"
-  },
-  {
-    "id": "c93ecd644f1f",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T16:08",
-    "headline": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
-    "excerpt": "Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-09T16:56:42.616915+00:00",
-    "link": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss"
-  },
-  {
-    "id": "a6f5146fc676",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T16:00",
-    "headline": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
-    "excerpt": "Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.",
-    "category": "Other",
-    "location": "Uae",
-    "addedAt": "2026-08-09T16:56:42.616954+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss"
-  },
-  {
-    "id": "45297621c764",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T15:46",
-    "headline": "War on Iran: Phase II: Day 29",
-    "excerpt": "Iran says the Strait of Hormuz will remain restricted unless the US meets a series of demands.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-09T16:11:28.981592+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss"
   }
 ]
