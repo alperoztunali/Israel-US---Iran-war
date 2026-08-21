@@ -1,5 +1,16 @@
 [
   {
+    "id": "0bd200fc4179",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T16:00",
+    "headline": "Israeli settlers set fire to heavy machinery at West Bank quarry",
+    "excerpt": "Israeli settlers entered a stone quarry in Wadi Al-Rakheem near Hebron overnight and set fire to heavy machinery",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-21T16:52:41.006317+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss"
+  },
+  {
     "id": "05bef74451d9",
     "source": "Al Jazeera",
     "date": "2026-08-21T14:50",
@@ -5487,16 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-08-10T04:08:22.275204+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_kut-protests-escalate-over-iraqs-electricity-crisis-090826?traffic_source=rss"
-  },
-  {
-    "id": "24deb33c0c68",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T02:59",
-    "headline": "Israel confirms death of Palestinian detainee, nearly two years late",
-    "excerpt": "The family of Ihab Diab disputes Israeli claims of health issues, alleging torture was behind his prison death.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-10T04:08:22.275236+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/10/israel-confirms-death-of-palestinian-detainee-nearly-two-years-late?traffic_source=rss"
   }
 ]
