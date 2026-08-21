@@ -1,5 +1,27 @@
 [
   {
+    "id": "a9c009f82c4c",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T16:58",
+    "headline": "Migrants clash with French police as they attempt to cross the Channel",
+    "excerpt": "French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-21T17:33:18.454636+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss"
+  },
+  {
+    "id": "34a0fe22caf0",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T16:38",
+    "headline": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
+    "excerpt": "Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-08-21T17:33:18.454695+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss"
+  },
+  {
     "id": "0bd200fc4179",
     "source": "Al Jazeera",
     "date": "2026-08-21T16:00",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-10T04:08:22.275115+00:00",
     "link": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss"
-  },
-  {
-    "id": "5091a777e902",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T03:24",
-    "headline": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-    "excerpt": "Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-08-10T04:08:22.275162+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "75468dcb17f4",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T03:03",
-    "headline": "Clashes in Iraq’s Kut city during protests over power shortages",
-    "excerpt": "Protests over power shortages escalated in Kut, Iraq, as demonstrators demanded more electricity amid soaring heat.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-08-10T04:08:22.275204+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_kut-protests-escalate-over-iraqs-electricity-crisis-090826?traffic_source=rss"
   }
 ]
