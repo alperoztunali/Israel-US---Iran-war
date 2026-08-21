@@ -1,5 +1,38 @@
 [
   {
+    "id": "888daab6ba82",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T20:16",
+    "headline": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+    "excerpt": "Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering&#039;.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-21T20:34:22.875738+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss"
+  },
+  {
+    "id": "4b69187a3438",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T20:03",
+    "headline": "Western allies slam Israel for ending World Central Kitchen strike probe",
+    "excerpt": "UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy &#039;shameful&#039;.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-21T20:34:22.875782+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss"
+  },
+  {
+    "id": "7f83a60c465b",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T18:17",
+    "headline": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
+    "excerpt": "Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 130.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-21T20:34:22.875834+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss"
+  },
+  {
     "id": "aff144da2979",
     "source": "Al Jazeera",
     "date": "2026-08-21T19:14",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-10T12:33:14.381252+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss"
-  },
-  {
-    "id": "7d697b4fff9f",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T11:51",
-    "headline": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
-    "excerpt": "Al Jazeera is given rare access to one of Ukraine&#039;s long-range drone units tasked with targeting Russia.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-10T12:33:14.381291+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss"
-  },
-  {
-    "id": "e5fa4a197649",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T11:17",
-    "headline": "Remembering Anas, Mohammed and Gaza’s other slain journalists",
-    "excerpt": "Our colleagues in Gaza have taken the journalism profession to an unseen level. In doing so, they&#039;ve paid a heavy price.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-10T12:33:14.381322+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss"
-  },
-  {
-    "id": "936eb6fa2a40",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T11:11",
-    "headline": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
-    "excerpt": "Months into the war, Trump is returning to squeezing Iran&#039;s economy rather than military offensive for now.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-10T12:33:14.381350+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss"
   }
 ]
