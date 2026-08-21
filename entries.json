@@ -1,5 +1,27 @@
 [
   {
+    "id": "c3666ccdb118",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T13:59",
+    "headline": "War on Iran: The US could focus on economically isolating Iran",
+    "excerpt": "The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-21T14:47:16.717092+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss"
+  },
+  {
+    "id": "ef0e92909b7c",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T13:48",
+    "headline": "Several people injured in sword attack at school in Sweden",
+    "excerpt": "One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-21T14:47:16.717137+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss"
+  },
+  {
     "id": "c736632ed745",
     "source": "Al Jazeera",
     "date": "2026-08-21T13:48",
@@ -5476,27 +5498,5 @@
     "location": "Dubai",
     "addedAt": "2026-08-10T02:10:09.423437+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss"
-  },
-  {
-    "id": "4a6f34ffe4d8",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T01:34",
-    "headline": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
-    "excerpt": "Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-08-10T02:10:09.423498+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss"
-  },
-  {
-    "id": "24524cc56821",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T00:19",
-    "headline": "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
-    "excerpt": "The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha (Mocha) and its commercial port.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-08-10T02:10:09.423528+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss"
   }
 ]
