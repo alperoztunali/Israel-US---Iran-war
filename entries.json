@@ -1,5 +1,27 @@
 [
   {
+    "id": "00333246db8f",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T08:42",
+    "headline": "Australia charges man for passing Ukrainian military intel to Russia",
+    "excerpt": "Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-21T09:41:25.675490+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss"
+  },
+  {
+    "id": "251b06f30145",
+    "source": "Al Jazeera",
+    "date": "2026-08-21T00:00",
+    "headline": "Iran war live: US threatens ‘toughest sanctions in history’ on Tehran",
+    "excerpt": "Iran says Washington&#039;s warning of an &#039;economic D-Day&#039; threatens the entire global economy.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-21T09:41:25.675543+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss"
+  },
+  {
     "id": "68f785bfec6b",
     "source": "Al Jazeera",
     "date": "2026-08-21T07:58",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-09T16:11:28.981592+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss"
-  },
-  {
-    "id": "b447fd34caad",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T15:38",
-    "headline": "Pentagon urges faster US weapons production amid stockpile concerns",
-    "excerpt": "US defense industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-09T16:11:28.981645+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss"
-  },
-  {
-    "id": "3b292c9a9a07",
-    "source": "Al Jazeera",
-    "date": "2026-08-09T15:20",
-    "headline": "Concerns mount over integrity of Israel’s upcoming October elections",
-    "excerpt": "Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-09T16:11:28.981695+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss"
   }
 ]
