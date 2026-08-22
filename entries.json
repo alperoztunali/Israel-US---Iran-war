@@ -1,5 +1,16 @@
 [
   {
+    "id": "1cd9a46af9fc",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T21:02",
+    "headline": "Israeli army and settlers injure several Palestinians across West Bank",
+    "excerpt": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-22T21:37:12.426804+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss"
+  },
+  {
     "id": "1758cbfae86a",
     "source": "Al Jazeera",
     "date": "2026-08-22T20:05",
@@ -5487,16 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-11T05:36:14.477158+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss"
-  },
-  {
-    "id": "b0240bae7637",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T04:34",
-    "headline": "China’s Long March 7A rocket explodes after lift-off",
-    "excerpt": "China’s Long March 7A rocket exploded shortly after lifting off from the Wenchang launch site in Hainan.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-11T05:36:14.477192+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss"
   }
 ]
