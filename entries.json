@@ -1,5 +1,27 @@
 [
   {
+    "id": "a7cf72d7b39f",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T19:24",
+    "headline": "Israeli strikes kill two and injure others as Gaza attacks continue",
+    "excerpt": "Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-08-22T19:37:21.405951+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss"
+  },
+  {
+    "id": "4f5eedae8f86",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T19:18",
+    "headline": "Envoy says Israel did not give the US notice before strikes on Syrian base",
+    "excerpt": "US official Tom Barrack has criticised Israel for failing to give his country adequate warning, a claim Tel Aviv denies.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-08-22T19:37:21.406004+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss"
+  },
+  {
     "id": "7ca2f99bb577",
     "source": "Al Jazeera",
     "date": "2026-08-22T18:35",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-11T04:23:15.896484+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss"
-  },
-  {
-    "id": "6eefe5a78baa",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T02:44",
-    "headline": "Colombia’s far-right government recognises Israeli claim over Golan Heights",
-    "excerpt": "The South American nation is only the second country to recognise Israel&#039;s claims over the illegally annexed territory.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-11T04:23:15.896543+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss"
-  },
-  {
-    "id": "548fdb879270",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T02:32",
-    "headline": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-    "excerpt": "US president seeks payment for &#039;50 years&#039; of damages after Iran conditions Hormuz reopening on war reparations.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-11T02:53:46.272145+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss"
   }
 ]
