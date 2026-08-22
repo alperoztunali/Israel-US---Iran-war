@@ -1,5 +1,16 @@
 [
   {
+    "id": "529b25aa852e",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T09:51",
+    "headline": "Former world champion boxer Zolani Tete shot and killed in South Africa",
+    "excerpt": "Zolani Tete, who held WBF flyweight and WBO bantamweight world titles, killed at his home in Eastern Cape, South Africa.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-22T10:41:57.077858+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss"
+  },
+  {
     "id": "e45ea4d95001",
     "source": "Al Jazeera",
     "date": "2026-08-22T09:14",
@@ -5487,16 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-10T18:25:54.633582+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss"
-  },
-  {
-    "id": "78fa53258581",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T17:05",
-    "headline": "Iran’s president says Khamenei is in ‘perfect health’",
-    "excerpt": "Iran’s President Masoud Pezeshkian says Supreme Leader Ayatollah Mojtaba Khamenei had a message of “unity and cohesion”",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-10T17:27:13.662075+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss"
   }
 ]
