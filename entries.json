@@ -1,5 +1,16 @@
 [
   {
+    "id": "2900926dabb1",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T04:30",
+    "headline": "Palestinian teen shot and killed in West Bank attack, UN responds",
+    "excerpt": "A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-22T05:09:14.566302+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss"
+  },
+  {
     "id": "260cafdda059",
     "source": "Al Jazeera",
     "date": "2026-08-22T03:19",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-10T17:27:13.662161+00:00",
     "link": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss"
-  },
-  {
-    "id": "4f6390114453",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T16:01",
-    "headline": "‘They need each other’: What’s behind the new Syria-Russia accord?",
-    "excerpt": "The Syrian-Russian agreement reflects a pragmatic approach redefining past alliances amid shifting geopolitics.",
-    "category": "Diplomatic",
-    "location": "Syria",
-    "addedAt": "2026-08-10T16:23:58.336982+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss"
   }
 ]
