@@ -1,5 +1,16 @@
 [
   {
+    "id": "bb1219a70c4d",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T14:37",
+    "headline": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+    "excerpt": "Syria condemns attack in southwest as a &#039;flagrant violation of sovereignty&#039; and a &#039;blatant breach of international law&#039;.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-08-22T15:30:39.294044+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss"
+  },
+  {
     "id": "1acbd01260fb",
     "source": "Al Jazeera",
     "date": "2026-08-22T14:19",
@@ -5487,16 +5498,5 @@
     "location": "Lebanon",
     "addedAt": "2026-08-10T19:32:59.709042+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss"
-  },
-  {
-    "id": "216d94e2538b",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T18:35",
-    "headline": "Netanyahu’s veto and the limits of American power",
-    "excerpt": "Trump has the leverage to enforce his Gaza plan. Netanyahu is betting that he lacks the political will to use it.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-10T19:32:59.709110+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss"
   }
 ]
