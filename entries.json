@@ -1,5 +1,27 @@
 [
   {
+    "id": "35d20f16be9a",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T15:45",
+    "headline": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
+    "excerpt": "Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-22T15:58:21.965908+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss"
+  },
+  {
+    "id": "d8fba8497e32",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T15:30",
+    "headline": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
+    "excerpt": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-08-22T15:58:21.965954+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss"
+  },
+  {
     "id": "bb1219a70c4d",
     "source": "Al Jazeera",
     "date": "2026-08-22T14:37",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-08-10T21:20:19.417942+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss"
-  },
-  {
-    "id": "832c567b5c90",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T19:30",
-    "headline": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
-    "excerpt": "US Rep. Nancy Mace clashed with CNN&#039;s Omar Jimenez over Islamophobic remarks after Abdul El-Sayed’s win in Michigan.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-08-10T20:24:05.787481+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss"
-  },
-  {
-    "id": "ad7c53f883b5",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T18:37",
-    "headline": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
-    "excerpt": "Reports citing judicial sources say former commercial banker also indicted over alleged financial crimes.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-08-10T19:32:59.709042+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss"
   }
 ]
