@@ -1,5 +1,27 @@
 [
   {
+    "id": "d774989a39f8",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T17:58",
+    "headline": "Armed men kidnap dozens in attacks on Nigerian villages",
+    "excerpt": "Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-08-22T18:42:29.651624+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss"
+  },
+  {
+    "id": "759b59a0790d",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T17:54",
+    "headline": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
+    "excerpt": "Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-08-22T18:42:29.651683+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss"
+  },
+  {
     "id": "466fff58e2a3",
     "source": "Al Jazeera",
     "date": "2026-08-22T17:34",
@@ -5476,27 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-08-11T00:35:59.291644+00:00",
     "link": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss"
-  },
-  {
-    "id": "e26e0aa95614",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T00:00",
-    "headline": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
-    "excerpt": "US President Donald Trump said he will seek compensation from Iran for casualties in the war.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-08-11T00:35:59.291680+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss"
-  },
-  {
-    "id": "6bb9dd1e8d86",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T23:18",
-    "headline": "Inside a secret launch site for Ukraine’s deep-strike drones",
-    "excerpt": "AJ&#039;s Audrey MacAlpine reports from a secret launch site in eastern Ukraine, where soldiers prepare long-range drones.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-10T23:42:43.737185+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss"
   }
 ]
