@@ -1,5 +1,27 @@
 [
   {
+    "id": "7f6139dfbf94",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T12:09",
+    "headline": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+    "excerpt": "Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-22T12:54:53.713938+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss"
+  },
+  {
+    "id": "54b1ac992eb2",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T11:58",
+    "headline": "Hundreds of children take part in swimming class on Gaza’s shore",
+    "excerpt": "On Gaza’s shore, 1,300 Palestinian children joined a swimming class to cope with the trauma of Israel’s genocidal war.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-22T12:54:53.713995+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss"
+  },
+  {
     "id": "529b25aa852e",
     "source": "Al Jazeera",
     "date": "2026-08-22T09:51",
@@ -5476,27 +5498,5 @@
     "location": "Oman",
     "addedAt": "2026-08-10T18:25:54.633519+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss"
-  },
-  {
-    "id": "9ffd642a6725",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T17:30",
-    "headline": "Palestinian club football to restart in September after Gaza war suspension",
-    "excerpt": "Palestinian sports leagues, including professional football, were halted due to Israel&#039;s genocidal war on Palestinians.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-10T18:25:54.633556+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss"
-  },
-  {
-    "id": "5da16922e9e5",
-    "source": "Al Jazeera",
-    "date": "2026-08-10T17:00",
-    "headline": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
-    "excerpt": "Officials say at least 69 people have been killed in the quake, with some still trapped under rubble.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-10T18:25:54.633582+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss"
   }
 ]
