@@ -1,5 +1,38 @@
 [
   {
+    "id": "fe9ae82b493f",
+    "source": "Al Jazeera",
+    "date": "2026-08-23T16:07",
+    "headline": "Can Nigeria cash in on Iran war?",
+    "excerpt": "Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-23T16:36:23.754091+00:00",
+    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "fd8622f0203e",
+    "source": "Al Jazeera",
+    "date": "2026-08-23T15:42",
+    "headline": "Gaza families search for children missing after years of war",
+    "excerpt": "Families in Gaza continue searching for children and relatives missing in the war.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-23T16:36:23.754140+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss"
+  },
+  {
+    "id": "3babae847135",
+    "source": "Al Jazeera",
+    "date": "2026-08-23T15:38",
+    "headline": "Iran’s government signals fuel price hike on eve of new US sanctions",
+    "excerpt": "Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-23T16:36:23.754183+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
+  },
+  {
     "id": "0db88d0e7783",
     "source": "Al Jazeera",
     "date": "2026-08-23T15:38",
@@ -5465,38 +5498,5 @@
     "location": "Strait Of Hormuz",
     "addedAt": "2026-08-11T14:37:01.245227+00:00",
     "link": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss"
-  },
-  {
-    "id": "381e04c096dc",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T13:47",
-    "headline": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
-    "excerpt": "The Mecca defence pact combines a top oil exporter, NATO&#039;s second-largest army and the only Muslim nuclear arsenal.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-08-11T14:37:01.245267+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss"
-  },
-  {
-    "id": "b50e1de9f819",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T13:46",
-    "headline": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
-    "excerpt": "First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-11T14:37:01.245294+00:00",
-    "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss"
-  },
-  {
-    "id": "0155a30397fd",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T13:28",
-    "headline": "What’s behind Iran’s new military appointments and what do they indicate?",
-    "excerpt": "Observers say the nominations empower the hardline old guard, prioritise loyalty over military innovation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-11T14:37:01.245318+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/11/whats-behind-irans-new-military-appointments-and-what-do-they-indicate?traffic_source=rss"
   }
 ]
