@@ -1,5 +1,16 @@
 [
   {
+    "id": "5863342549f5",
+    "source": "Al Jazeera",
+    "date": "2026-08-23T09:43",
+    "headline": "Israeli air strike near Gaza refugee camp kills one person and injures two",
+    "excerpt": "Israeli air attack near Gaza&#039;s Maghazi camp kills one person and injures two others.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-08-23T10:42:48.449615+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss"
+  },
+  {
     "id": "e8cffd4d4867",
     "source": "Al Jazeera",
     "date": "2026-08-23T09:21",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-11T10:12:02.547116+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss"
-  },
-  {
-    "id": "59a06825f3a1",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T09:43",
-    "headline": "Vietnam’s VinSpace announces deal with SpaceX to launch first satellite",
-    "excerpt": "Hanoi-based aerospace firm says it will partner with Elon Musk&#039;s rocket company to deploy satellites next year.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-11T10:12:02.547166+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/11/vietnams-vinspace-announces-deal-with-spacex-to-launch-first-satellite?traffic_source=rss"
   }
 ]
