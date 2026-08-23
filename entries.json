@@ -1,5 +1,16 @@
 [
   {
+    "id": "58a4ced3dd00",
+    "source": "Al Jazeera",
+    "date": "2026-08-23T13:20",
+    "headline": "Heavy Israeli air strike hits warehouse in central Gaza",
+    "excerpt": "Heavy Israeli air strike hits warehouse in central Gaza",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-08-23T14:01:11.353077+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss"
+  },
+  {
     "id": "8e4fb6af24b9",
     "source": "Al Jazeera",
     "date": "2026-08-23T13:08",
@@ -5487,16 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-08-11T13:24:20.447792+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss"
-  },
-  {
-    "id": "273693ba9d74",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T10:25",
-    "headline": "East Libya military intelligence chief killed in car bomb blast",
-    "excerpt": "Prime minister of the eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-08-11T13:24:20.447826+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss"
   }
 ]
