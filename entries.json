@@ -1,5 +1,16 @@
 [
   {
+    "id": "370d06f5904e",
+    "source": "Al Jazeera",
+    "date": "2026-08-23T08:38",
+    "headline": "Israeli forces kill Palestinian boy in occupied West Bank raid",
+    "excerpt": "Islam Ahmad Ajjouri was shot in the chest as Israeli forces raided the Askar refugee camp, east of Nablus.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-23T12:56:46.205484+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss"
+  },
+  {
     "id": "80ba33107494",
     "source": "Al Jazeera",
     "date": "2026-08-23T11:50",
@@ -5487,16 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-11T11:58:11.095319+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss"
-  },
-  {
-    "id": "0b56b4ae2357",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T11:28",
-    "headline": "Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out",
-    "excerpt": "Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-08-11T11:58:11.095369+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss"
   }
 ]
