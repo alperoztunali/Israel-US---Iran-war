@@ -1,5 +1,27 @@
 [
   {
+    "id": "a73b2ce83d23",
+    "source": "Al Jazeera",
+    "date": "2026-08-23T00:00",
+    "headline": "Iran war live: Tehran warns neighbours against joining US economic war",
+    "excerpt": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-08-23T01:42:49.599847+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss"
+  },
+  {
+    "id": "d0323026ffb0",
+    "source": "Al Jazeera",
+    "date": "2026-08-22T23:56",
+    "headline": "Iran threatens countries that join US ‘economic D-Day’",
+    "excerpt": "Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-23T01:42:49.599899+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss"
+  },
+  {
     "id": "0cbcc066a3c9",
     "source": "Al Jazeera",
     "date": "2026-08-22T23:26",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-11T09:08:57.500194+00:00",
     "link": "https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss"
-  },
-  {
-    "id": "0147a39e6fc0",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T07:07",
-    "headline": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
-    "excerpt": "A children&#039;s hospital has also been struck in Kyiv, according to Ukraine&#039;s state emergency service.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-11T07:57:08.979567+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss"
-  },
-  {
-    "id": "c11e4282edbe",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T06:05",
-    "headline": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
-    "excerpt": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-08-11T06:37:22.993707+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss"
   }
 ]
