@@ -1,5 +1,27 @@
 [
   {
+    "id": "fd82c36c8be4",
+    "source": "Al Jazeera",
+    "date": "2026-08-23T19:40",
+    "headline": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+    "excerpt": "Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-23T19:57:58.376925+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss"
+  },
+  {
+    "id": "44164ff56a38",
+    "source": "Al Jazeera",
+    "date": "2026-08-23T19:27",
+    "headline": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
+    "excerpt": "Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-23T19:57:58.376962+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss"
+  },
+  {
     "id": "92db0b3154f2",
     "source": "Al Jazeera",
     "date": "2026-08-23T18:47",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-11T19:47:33.811819+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss"
-  },
-  {
-    "id": "d57007a3e3e7",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T17:59",
-    "headline": "Syrian court sentences Bashar al-Assad and Atef Najib to death",
-    "excerpt": "Syria’s ex-president Bashar al-Assad, his brother Maher al-Assad and cousin Atef Najib have been sentenced to death",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-08-11T18:38:58.084666+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-and-atef-najib-to-death?traffic_source=rss"
-  },
-  {
-    "id": "14a22de80bdd",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T14:44",
-    "headline": "Ten police and 17 ‘bandits’ killed in firefight in northwestern Nigeria",
-    "excerpt": "Police say 17 suspected gang members and two civilians were also killed in Kebbi State.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-11T17:42:50.111349+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/11/dozens-killed-in-firefight-between-nigerian-armed-group-and-police?traffic_source=rss"
   }
 ]
