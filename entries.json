@@ -1,5 +1,16 @@
 [
   {
+    "id": "ee93125f4a95",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T17:10",
+    "headline": "Trump administration announces global economic war on Iran",
+    "excerpt": "This is a breaking news story.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-24T17:34:37.875680+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss"
+  },
+  {
     "id": "32ce6f7560a9",
     "source": "Al Jazeera",
     "date": "2026-08-24T16:27",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-12T13:49:05.107440+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss"
-  },
-  {
-    "id": "d8c483688865",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T10:40",
-    "headline": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
-    "excerpt": "Three-quarters of the world has abolished the death penalty in law or in practice, according to Amnesty International.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-08-12T11:11:30.070302+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss"
   }
 ]
