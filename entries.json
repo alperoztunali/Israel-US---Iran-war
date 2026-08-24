@@ -1,5 +1,60 @@
 [
   {
+    "id": "efdfc3b7591d",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T20:48",
+    "headline": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+    "excerpt": "Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-24T21:11:12.087853+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss"
+  },
+  {
+    "id": "e5233a2249dc",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T20:23",
+    "headline": "Violence flares in Haiti as gang attack kills 30 people",
+    "excerpt": "Island nation grapples with violence as it seeks to hold first elections in more than a decade.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-24T21:11:12.087908+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss"
+  },
+  {
+    "id": "c71b51578c82",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T20:03",
+    "headline": "Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor",
+    "excerpt": "Fabinho joined ​Saudi Arabia&#039;s Al-Ittihad in 2023, where he won the ​league after his five-year stint at Liverpool.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-08-24T21:11:12.087951+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss"
+  },
+  {
+    "id": "d145ba89a4d0",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T19:44",
+    "headline": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
+    "excerpt": "Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.",
+    "category": "Naval",
+    "location": "Yemen",
+    "addedAt": "2026-08-24T21:11:12.087979+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss"
+  },
+  {
+    "id": "0ed50ce9bab1",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T17:10",
+    "headline": "US launches ‘D-day sanctions’ aimed at cutting Iran’s economic lifeline",
+    "excerpt": "Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran&#039;s revenues and isolate the country.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-24T21:11:12.088030+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss"
+  },
+  {
     "id": "045e15846081",
     "source": "Al Jazeera",
     "date": "2026-08-24T19:21",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-12T19:27:41.943120+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss"
-  },
-  {
-    "id": "892c94e13984",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T16:23",
-    "headline": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
-    "excerpt": "Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-12T17:13:36.046211+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss"
-  },
-  {
-    "id": "56e194cfab3e",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T15:36",
-    "headline": "Is Russia’s economy cracking despite the Iran war windfall?",
-    "excerpt": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-12T16:10:12.827581+00:00",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss"
-  },
-  {
-    "id": "bf7efa56e48a",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T15:29",
-    "headline": "Iran remains defiant as it vows to fight US until demands met",
-    "excerpt": "IRGC advisers say Iran has replaced more missiles and drones than it used, and cite falling US munition stocks.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-08-12T16:10:12.827619+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss"
-  },
-  {
-    "id": "0945bd0cc188",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T15:07",
-    "headline": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
-    "excerpt": "Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-08-12T16:10:12.827658+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss"
-  },
-  {
-    "id": "d9fb053fbc7d",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T14:26",
-    "headline": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
-    "excerpt": "The legislation will &#039;exceptionally&#039; reduce certain prison terms, says Lebanon&#039;s parliament speaker.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-08-12T15:02:12.245749+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss"
   }
 ]
