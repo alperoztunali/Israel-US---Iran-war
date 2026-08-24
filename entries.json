@@ -1,5 +1,27 @@
 [
   {
+    "id": "ed8f0c13e34e",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T07:26",
+    "headline": "How much more are you spending on petrol since the war in Iran began?",
+    "excerpt": "At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-24T08:27:58.716122+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss"
+  },
+  {
+    "id": "16a5e93aeb23",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T06:30",
+    "headline": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
+    "excerpt": "Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-08-24T08:27:58.716167+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss"
+  },
+  {
     "id": "5ba13083d829",
     "source": "Al Jazeera",
     "date": "2026-08-24T07:08",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-12T02:22:19.999891+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
-  },
-  {
-    "id": "234c02c997f6",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T23:57",
-    "headline": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
-    "excerpt": "Footage shows an Egyptian-owned cargo vessel in flames in the Bab al-Mandeb strait after a suspected Houthi attack.",
-    "category": "Naval",
-    "location": "Egypt",
-    "addedAt": "2026-08-12T02:22:19.999915+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss"
-  },
-  {
-    "id": "7f3297464672",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T21:24",
-    "headline": "Father and sons forced to manually clear rubble in Gaza",
-    "excerpt": "Forced to rely on basic tools, a father and his sons are clearing the rubble of their destroyed home in Gaza.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-11T21:53:52.942321+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss"
   }
 ]
