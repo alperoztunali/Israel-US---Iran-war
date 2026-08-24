@@ -1,5 +1,49 @@
 [
   {
+    "id": "e9946205b547",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T09:10",
+    "headline": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
+    "excerpt": "Exerting maximum economic pressure on Tehran would risk blowback from Beijing.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-08-24T09:26:10.886046+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss"
+  },
+  {
+    "id": "219dd7dfb01f",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T08:45",
+    "headline": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
+    "excerpt": "The settlement threatens Palestinian statehood. But it could help Israel&#039;s PM, other far-right leaders before elections.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-24T09:26:10.886100+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss"
+  },
+  {
+    "id": "4bf47c65aa9a",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T08:18",
+    "headline": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
+    "excerpt": "The religious figure faced various charges, including inciting violence and providing legitimacy to the al-Assad regime.",
+    "category": "Airstrike",
+    "location": "Syria",
+    "addedAt": "2026-08-24T09:26:10.886130+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss"
+  },
+  {
+    "id": "3257edfec383",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T07:26",
+    "headline": "How much more are you spending on petrol since the war on Iran began?",
+    "excerpt": "At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-24T09:26:10.886188+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss"
+  },
+  {
     "id": "ed8f0c13e34e",
     "source": "Al Jazeera",
     "date": "2026-08-24T07:26",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-12T04:23:05.177092+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss"
-  },
-  {
-    "id": "0c37df480eee",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T02:29",
-    "headline": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
-    "excerpt": "Iran&#039;s top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-08-12T04:23:05.177141+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss"
-  },
-  {
-    "id": "c722e6566510",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T02:21",
-    "headline": "Stronghold of Syrian revolution celebrates Assad’s death sentence",
-    "excerpt": "Syrians in Idlib gathered in celebration after a court sentenced ousted President Bashar al-Assad",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-08-12T04:23:05.177181+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss"
-  },
-  {
-    "id": "f6d06b23605a",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T00:39",
-    "headline": "N Korea launches ballistic missile as S Korea, US plan military drills",
-    "excerpt": "Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-12T02:22:19.999856+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss"
-  },
-  {
-    "id": "0d9abe83d333",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T00:00",
-    "headline": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
-    "excerpt": "Qatar says negotiations between Oman, Iran over future of shipping through Strait of Hormuz are making major progress.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-08-12T02:22:19.999891+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
   }
 ]
