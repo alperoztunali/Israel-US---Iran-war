@@ -1,5 +1,27 @@
 [
   {
+    "id": "32ce6f7560a9",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T16:27",
+    "headline": "Israeli strike on Gaza shelter extends casualty list",
+    "excerpt": "More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-24T16:48:31.506557+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss"
+  },
+  {
+    "id": "8559e9d6573f",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T16:02",
+    "headline": "What to expect as Iran braces for new US economic measures amid war",
+    "excerpt": "Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-08-24T16:48:31.506605+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss"
+  },
+  {
     "id": "401693fc0fa6",
     "source": "Al Jazeera",
     "date": "2026-08-24T15:30",
@@ -5476,27 +5498,5 @@
     "location": "Lebanon",
     "addedAt": "2026-08-12T11:11:30.070302+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss"
-  },
-  {
-    "id": "5cfd851a4923",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T10:37",
-    "headline": "Woman rescued after 36 hours under rubble in Colombia",
-    "excerpt": "A 32-year-old woman was rescued after 36 hours under rubble following a 7.4-magnitude earthquake in Colombia.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-08-12T11:11:30.070351+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss"
-  },
-  {
-    "id": "3f06fd074f56",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T10:27",
-    "headline": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
-    "excerpt": "Iran says Hormuz stays closed until US meets its demands and changes its &#039;behaviour&#039; as global energy prices rise.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-12T11:11:30.070391+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss"
   }
 ]
