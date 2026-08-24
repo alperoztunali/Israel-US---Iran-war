@@ -1,5 +1,38 @@
 [
   {
+    "id": "282b93103d63",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T09:44",
+    "headline": "Dozens of coordinated arson attacks carried out across Thailand",
+    "excerpt": "Dozens of coordinated arson attacks carried out across Thailand",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-24T10:18:31.065105+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss"
+  },
+  {
+    "id": "ffe50e577293",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T09:44",
+    "headline": "Macron and MBS attend Esports World Cup closing ceremony",
+    "excerpt": "Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-08-24T10:18:31.065151+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss"
+  },
+  {
+    "id": "ddbf0465fa0a",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T09:29",
+    "headline": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
+    "excerpt": "Argentinian striker was targeted by fans while warming up and jeered again after coming on in the 66th minute.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-24T10:18:31.065193+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss"
+  },
+  {
     "id": "e9946205b547",
     "source": "Al Jazeera",
     "date": "2026-08-24T09:10",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-12T04:23:05.176978+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss"
-  },
-  {
-    "id": "ebe276cbe014",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T03:57",
-    "headline": "Russia frees ex-US marine Gilman jailed since 2022",
-    "excerpt": "Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-12T04:23:05.177029+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss"
-  },
-  {
-    "id": "71cb5bf92a18",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T03:41",
-    "headline": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
-    "excerpt": "Brent crude climbs as renewed violence dampens hopes for a return to stability in energy markets.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-08-12T04:23:05.177066+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss"
-  },
-  {
-    "id": "054fe8ea8312",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T03:09",
-    "headline": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
-    "excerpt": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-08-12T04:23:05.177092+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss"
   }
 ]
