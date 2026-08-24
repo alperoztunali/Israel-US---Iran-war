@@ -1,5 +1,27 @@
 [
   {
+    "id": "baa58d057542",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T04:02",
+    "headline": "‘We know this movie’: Iran mocks latest US sanctions",
+    "excerpt": "Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the &#039;same movie on repeat&#039;.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-24T04:54:51.684094+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss"
+  },
+  {
+    "id": "313df15e2ffe",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T03:56",
+    "headline": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+    "excerpt": "Syria&#039;s foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-08-24T04:54:51.684139+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss"
+  },
+  {
     "id": "9334459e043d",
     "source": "Al Jazeera",
     "date": "2026-08-24T00:00",
@@ -5476,27 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-08-11T20:51:50.504813+00:00",
     "link": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss"
-  },
-  {
-    "id": "7d72cad41f75",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T20:18",
-    "headline": "Israel demolishes home of Palestinian killed during settler attack",
-    "excerpt": "Video shows the moment Israeli forces blow up the home of Farouk Ramadan, a Palestinian man who was killed in July.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-11T20:51:50.504839+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss"
-  },
-  {
-    "id": "c5e0a10b0375",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T19:58",
-    "headline": "US military fires on cargo vessel it said sought to break Iran blockade",
-    "excerpt": "CENTCOM says helicopter fired at engine room of Panama-flagged Vela Nova as US-Iran diplomacy remains stalled.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-08-11T20:51:50.504866+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss"
   }
 ]
