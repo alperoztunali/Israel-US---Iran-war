@@ -1,5 +1,38 @@
 [
   {
+    "id": "5ba13083d829",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T07:08",
+    "headline": "The right to health in Gaza is now a privilege",
+    "excerpt": "The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-24T07:38:42.720790+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss"
+  },
+  {
+    "id": "d2d11f592570",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T06:55",
+    "headline": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+    "excerpt": "&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-24T07:38:42.720836+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss"
+  },
+  {
+    "id": "17caabb2bf66",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T06:30",
+    "headline": "Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?",
+    "excerpt": "Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-08-24T07:38:42.720869+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss"
+  },
+  {
     "id": "baa58d057542",
     "source": "Al Jazeera",
     "date": "2026-08-24T04:02",
@@ -5465,38 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-08-11T21:53:52.942321+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "2fe79d80d8c1",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T20:35",
-    "headline": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
-    "excerpt": "Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-08-11T20:51:50.504725+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "b3d3c6aab07d",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T20:30",
-    "headline": "In Gaza’s tents, widows face war’s harshest realities alone",
-    "excerpt": "Widows in Gaza struggle alone under displacement, burdened by loss, insecurity, and daily battles for survival.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-11T20:51:50.504779+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss"
-  },
-  {
-    "id": "7420f21a0383",
-    "source": "Al Jazeera",
-    "date": "2026-08-11T20:29",
-    "headline": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
-    "excerpt": "Many Yemeni fishermen have abandoned the trade, seeking safer livelihoods as Red Sea becomes too dangerous.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-08-11T20:51:50.504813+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss"
   }
 ]
