@@ -1,5 +1,27 @@
 [
   {
+    "id": "67dcc1db6607",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T22:46",
+    "headline": "How US sanctions on Iran ripple through global markets and consumers",
+    "excerpt": "New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-24T23:02:22.637065+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
+  },
+  {
+    "id": "e46acc5536eb",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T22:32",
+    "headline": "US removes Syria from ‘state sponsor of terrorism’ list",
+    "excerpt": "Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a &#039;terrorist&#039; organisation.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-24T23:02:22.637120+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss"
+  },
+  {
     "id": "ad8a47ced55e",
     "source": "Al Jazeera",
     "date": "2026-08-24T21:35",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-12T22:03:51.951706+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss"
-  },
-  {
-    "id": "11bbefe327c1",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T20:53",
-    "headline": "Can Syria deliver transitional justice?",
-    "excerpt": "A court has sentenced ousted former leader Bashar al-Assad and others to death in absentia.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-08-12T22:03:51.951732+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss"
-  },
-  {
-    "id": "9128236cb822",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T20:26",
-    "headline": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-    "excerpt": "Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-12T21:04:55.721652+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss"
   }
 ]
