@@ -1,5 +1,49 @@
 [
   {
+    "id": "045e15846081",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T19:21",
+    "headline": "Video: Israel attacks desalination plant and mosque in Gaza",
+    "excerpt": "Israel has attacked a critical water desalination plant and a mosque in Gaza as it intensifies attacks on the enclave.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-24T19:45:49.078159+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "b90e994bb765",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T19:18",
+    "headline": "Israeli restrictions cause fuel shortage in occupied West Bank",
+    "excerpt": "Israeli restrictions are disrupting fuel supplies across the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-24T19:45:49.078204+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "968739e824c0",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T19:09",
+    "headline": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
+    "excerpt": "Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-24T19:45:49.078244+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "52179e90159a",
+    "source": "Al Jazeera",
+    "date": "2026-08-24T19:00",
+    "headline": "Israel threatens attacks in Gaza over children’s kites",
+    "excerpt": "Israel has threatened intensified attacks and forced displacement in Gaza over children’s kites",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-24T19:45:49.078278+00:00",
+    "link": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss"
+  },
+  {
     "id": "f4cee3c25e9a",
     "source": "Al Jazeera",
     "date": "2026-08-24T17:53",
@@ -5454,49 +5498,5 @@
     "location": "Lebanon",
     "addedAt": "2026-08-12T15:02:12.245749+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss"
-  },
-  {
-    "id": "14b924d31541",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T14:23",
-    "headline": "Iran is not anti-imperialist. It is a state calculating survival",
-    "excerpt": "Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-12T15:02:12.245795+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss"
-  },
-  {
-    "id": "e6bf085a8f3d",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T13:58",
-    "headline": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
-    "excerpt": "Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-12T15:02:12.245834+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss"
-  },
-  {
-    "id": "63ab46e55d10",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T10:27",
-    "headline": "Iran rejects Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
-    "excerpt": "Iran says Hormuz stays closed until US meets its demands and changes its &#039;behaviour&#039; as global energy prices rise.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-12T15:02:12.245880+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss"
-  },
-  {
-    "id": "e3dc93d98445",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T13:29",
-    "headline": "Sudanese army intercepts RSF drones over el-Obeid",
-    "excerpt": "Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-12T13:49:05.107377+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss"
   }
 ]
