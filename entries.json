@@ -1,5 +1,49 @@
 [
   {
+    "id": "527187c27726",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T21:26",
+    "headline": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
+    "excerpt": "Health Ministry warns of &#039;complete collapse of the basic necessities of life&#039; in Gaza as Israel&#039;s attacks continue.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-25T21:45:03.097688+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss"
+  },
+  {
+    "id": "36b12c2790f5",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T21:16",
+    "headline": "US soldier who called for Trump impeachment facing military charges",
+    "excerpt": "Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-08-25T21:45:03.097740+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss"
+  },
+  {
+    "id": "bc817378730c",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T21:09",
+    "headline": "US lawmakers urge Trump team to free of American student held by Israel",
+    "excerpt": "Congress members call on Marco Rubio to &#039;use every tool&#039; at his disposal to secure release of 20-year-old Sama Safi.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-25T21:45:03.097776+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss"
+  },
+  {
+    "id": "cc0e7227c293",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T21:09",
+    "headline": "Syrian Democratic Forces announce their dissolution",
+    "excerpt": "The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus",
+    "category": "Movement",
+    "location": "Syria",
+    "addedAt": "2026-08-25T21:45:03.097807+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss"
+  },
+  {
     "id": "c736977c2a6a",
     "source": "Al Jazeera",
     "date": "2026-08-25T20:34",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-14T11:58:27.121855+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss"
-  },
-  {
-    "id": "6f07512009b6",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T10:52",
-    "headline": "Record-breaking rain in Japan leaves several dead, thousands stranded",
-    "excerpt": "At least four people were killed, and one remains missing after record-breaking rain triggered flooding in Japan.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-14T11:58:27.121922+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss"
-  },
-  {
-    "id": "a03c73099bfc",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T10:28",
-    "headline": "Seven killed in tunnel accident at Indian hydropower project",
-    "excerpt": "Water and debris burst into a state-run hydropower tunnel in Uttarakhand following a landslide.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-14T11:08:57.016501+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss"
-  },
-  {
-    "id": "0452a7db687e",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T09:28",
-    "headline": "Russia says hit Ukrainian railway and port facilities in new strikes",
-    "excerpt": "Kyiv targets Baltic oil hub and warehouse near Moscow with drones.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-14T10:08:33.001321+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss"
-  },
-  {
-    "id": "cc091c467acd",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T09:00",
-    "headline": "What is a ‘ceasefire’ supposed to achieve?",
-    "excerpt": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-14T10:08:33.001371+00:00",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss"
   }
 ]
