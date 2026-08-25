@@ -1,5 +1,60 @@
 [
   {
+    "id": "fe1a01ca0146",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T15:23",
+    "headline": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
+    "excerpt": "A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-25T16:01:37.238655+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss"
+  },
+  {
+    "id": "f4cb25525994",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T15:17",
+    "headline": "Qatar says US sanctions on Iran are unilateral",
+    "excerpt": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-25T16:01:37.238706+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss"
+  },
+  {
+    "id": "eb63aad58a5f",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T15:12",
+    "headline": "US launches Economic war on Iran",
+    "excerpt": "The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-25T16:01:37.238734+00:00",
+    "link": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "ebde554a2ff4",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T15:09",
+    "headline": "One year since Gaza journalist killed by Israel",
+    "excerpt": "It’s been one year since AP journalist Mariam Dagga was killed in Israeli strikes on Gaza’s Nasser Hospital.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-25T16:01:37.238756+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss"
+  },
+  {
+    "id": "34ec0ec0df2f",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T15:03",
+    "headline": "No, the Democratic Party is not shifting on Israel",
+    "excerpt": "The Democratic establishment is still firmly in the pro-Israeli camp while trying to appeal to its pro-Palestine voters.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-25T16:01:37.238784+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/25/no-the-democratic-party-is-not-shifting-on-israel?traffic_source=rss"
+  },
+  {
     "id": "648d3189d5ec",
     "source": "Al Jazeera",
     "date": "2026-08-25T14:43",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-13T20:49:02.478723+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss"
-  },
-  {
-    "id": "c764ab9d86b3",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T19:36",
-    "headline": "Israeli forces order families to evacuate homes in Qusra",
-    "excerpt": "Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-13T20:49:02.478767+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss"
-  },
-  {
-    "id": "6d10290c3c12",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T18:28",
-    "headline": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
-    "excerpt": "Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-13T19:45:37.281938+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss"
-  },
-  {
-    "id": "e758f2df9beb",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T17:57",
-    "headline": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
-    "excerpt": "Artists in Gaza painted a mural honouring former Burger King employee Arianna Hamilton.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-13T18:38:07.055368+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss"
-  },
-  {
-    "id": "6db210710713",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T17:18",
-    "headline": "DR Congo Ebola outbreak spreads to a sixth province",
-    "excerpt": "Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-13T17:30:37.117866+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss"
-  },
-  {
-    "id": "75425aee3901",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T16:44",
-    "headline": "Reports of US sailors in Middle East trying to jump ship spark outcry",
-    "excerpt": "US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-08-13T17:30:37.117908+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss"
   }
 ]
