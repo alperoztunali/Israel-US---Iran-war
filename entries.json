@@ -1,5 +1,38 @@
 [
   {
+    "id": "43daf5536d9b",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T11:53",
+    "headline": "Russia mobilisation fears grow amid reports of intimidating tactics",
+    "excerpt": "Military recruitment efforts are reportedly more aggressive as Russia prepares for a winter offensive in Ukraine.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-25T12:04:16.718622+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss"
+  },
+  {
+    "id": "6046eadceacc",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T11:52",
+    "headline": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+    "excerpt": "Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-25T12:04:16.718674+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss"
+  },
+  {
+    "id": "e5b1a231a8e9",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T11:30",
+    "headline": "How the US sanctions on Iran impact China",
+    "excerpt": "US sanctions Chinese firms over Iran links but spare big banks as Trump and Xi eye key talks.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-25T12:04:16.718702+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss"
+  },
+  {
     "id": "1cc31c9c4a78",
     "source": "Al Jazeera",
     "date": "2026-08-25T10:55",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-13T12:33:47.833783+00:00",
     "link": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss"
-  },
-  {
-    "id": "f72e58049c98",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T11:14",
-    "headline": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
-    "excerpt": "At least 437 civilians were killed and 2,610 injured in Ukraine in July, the UN Human Rights Monitoring Mission said.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-13T12:33:47.833819+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss"
-  },
-  {
-    "id": "944ff879e00a",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T10:41",
-    "headline": "Eurovision to bar countries at war from hosting: What that means",
-    "excerpt": "Israel, which hosted the contest in 2019, will no longer be allowed to do so - but can still compete, protesters say.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-13T11:31:17.380174+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss"
-  },
-  {
-    "id": "f8cc87e6e8b0",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T09:51",
-    "headline": "Life and loss as a first responder in southern Lebanon",
-    "excerpt": "A new Al Jazeera film speaks to the head of the Civil Defence in Tyre, southern Lebanon&#039;s largest city.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-08-13T10:37:13.618728+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss"
   }
 ]
