@@ -1,5 +1,60 @@
 [
   {
+    "id": "a9a6d1a7b3a8",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T05:19",
+    "headline": "Two US carrier groups in Middle East strain navy resources",
+    "excerpt": "Deploying two US carrier strike groups to the Middle East represents a significant concentration of firepower",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-08-25T05:35:22.781975+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss"
+  },
+  {
+    "id": "669da258fa00",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T05:09",
+    "headline": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
+    "excerpt": "France and Saudi Arabia plan to invest $7bn in three amusement parks near Paris, including one based on Japanese manga.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-08-25T05:35:22.782012+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss"
+  },
+  {
+    "id": "91e752ef4ab3",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T04:38",
+    "headline": "Syrian president thanks nation for getting off US state terror list",
+    "excerpt": "Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-25T05:35:22.782038+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss"
+  },
+  {
+    "id": "806f770d46f3",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T04:38",
+    "headline": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+    "excerpt": "Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS&#039;s visit to Paris.",
+    "category": "Diplomatic",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-08-25T05:35:22.782061+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss"
+  },
+  {
+    "id": "e04557737464",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T00:00",
+    "headline": "Iran war live: Pakistan reports progress on restoring US-Iran MoU",
+    "excerpt": "Washington has slapped new sanctions on Tehran and warned Iran&#039;s trade partners they will face consequences.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-25T05:35:22.782094+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
+  },
+  {
     "id": "395bf8f56e6c",
     "source": "Al Jazeera",
     "date": "2026-08-25T02:54",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-13T06:06:21.443403+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss"
-  },
-  {
-    "id": "1426b08a0633",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T04:26",
-    "headline": "Oman says oil spill from stricken tanker has reached its coast",
-    "excerpt": "Up to 40km of coastline affected by oil pollution, Omani environmental authority says.",
-    "category": "Naval",
-    "location": "Oman",
-    "addedAt": "2026-08-13T06:06:21.443438+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss"
-  },
-  {
-    "id": "6204f1cc80dd",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T03:54",
-    "headline": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
-    "excerpt": "Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-13T06:06:21.443478+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "32ac274d92e1",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T03:54",
-    "headline": "Israeli settlers besiege Palestinian families in West Bank’s Qusra",
-    "excerpt": "Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-13T04:30:59.351409+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "39d8bef52cce",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T00:00",
-    "headline": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
-    "excerpt": "President Trump again insists US has &#039;total control&#039; of strait, while Tehran resolute that the US must meet its demands.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-08-13T02:38:31.091736+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss"
-  },
-  {
-    "id": "8d0b1fc9fe21",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T21:53",
-    "headline": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
-    "excerpt": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-08-12T23:02:47.398390+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss"
   }
 ]
