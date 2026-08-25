@@ -1,5 +1,27 @@
 [
   {
+    "id": "3809c6ef989e",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T08:32",
+    "headline": "Pakistan says significant progress made in talks on Iran-US war",
+    "excerpt": "The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-25T08:53:42.028103+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss"
+  },
+  {
+    "id": "b3e3c2934b18",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T07:50",
+    "headline": "Thai vendor confronts Israeli tourists, raises Palestinian flag",
+    "excerpt": "A Thai vendor confronted Israeli tourists outside his shop on the island of Phuket, waving a Palestinian flag.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-25T08:53:42.028150+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/thai-vendor-confronts-israeli-tourists-raises-palestinian-flag?traffic_source=rss"
+  },
+  {
     "id": "b521ef056fe6",
     "source": "Al Jazeera",
     "date": "2026-08-25T06:37",
@@ -5476,27 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-08-13T07:54:37.744011+00:00",
     "link": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss"
-  },
-  {
-    "id": "d96efed1e9d3",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T06:21",
-    "headline": "Will the Houthis shut down Saudi Arabian shipping?",
-    "excerpt": "The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia",
-    "category": "Naval",
-    "location": "Yemen",
-    "addedAt": "2026-08-13T07:54:37.744039+00:00",
-    "link": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss"
-  },
-  {
-    "id": "bae2cbe24910",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T05:26",
-    "headline": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
-    "excerpt": "Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-08-13T06:06:21.443355+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
   }
 ]
