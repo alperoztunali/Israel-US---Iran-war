@@ -1,5 +1,16 @@
 [
   {
+    "id": "b521ef056fe6",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T06:37",
+    "headline": "The Iran war is bringing cyberwarfare into critical infrastructure",
+    "excerpt": "Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-25T07:09:35.938914+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss"
+  },
+  {
     "id": "a9a6d1a7b3a8",
     "source": "Al Jazeera",
     "date": "2026-08-25T05:19",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-13T06:06:21.443355+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
-  },
-  {
-    "id": "d6e10855d46c",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T04:34",
-    "headline": "Three Palestinian families besieged in their homes by Israeli settlers",
-    "excerpt": "Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-13T06:06:21.443403+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss"
   }
 ]
