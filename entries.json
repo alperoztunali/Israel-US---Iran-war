@@ -1,5 +1,16 @@
 [
   {
+    "id": "395bf8f56e6c",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T02:54",
+    "headline": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+    "excerpt": "Netanyahu&#039;s claim comes after US and Israel killed Iran&#039;s supreme leader and four members of his family in Tehran.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-08-25T04:00:56.866991+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss"
+  },
+  {
     "id": "f3ea608a57e3",
     "source": "Al Jazeera",
     "date": "2026-08-25T02:11",
@@ -5487,16 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-08-12T23:02:47.398390+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss"
-  },
-  {
-    "id": "5ae25320e4c5",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T21:52",
-    "headline": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
-    "excerpt": "US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-12T23:02:47.398435+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss"
   }
 ]
