@@ -1,5 +1,38 @@
 [
   {
+    "id": "f3ea608a57e3",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T02:11",
+    "headline": "Muslims celebrate Prophet Muhammad’s birthday",
+    "excerpt": "Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-08-25T03:03:25.261366+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss"
+  },
+  {
+    "id": "cb0d478a179e",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T01:51",
+    "headline": "Man killed in world’s largest annual bullfighting event in Mexico",
+    "excerpt": "The world’s largest open road bullfighting event turned deadly when a 29-year-old man was killed.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-25T03:03:25.261402+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss"
+  },
+  {
+    "id": "223b180fffe9",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T01:46",
+    "headline": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
+    "excerpt": "At least 30 people have been killed in a gang attack on a hillside community that overlooks routes into Haiti&#039;s capital.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-25T03:03:25.261423+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss"
+  },
+  {
     "id": "febba098588e",
     "source": "Al Jazeera",
     "date": "2026-08-25T00:00",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-12T23:02:47.398435+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss"
-  },
-  {
-    "id": "28d63a5c4987",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T21:06",
-    "headline": "11-year-old boy shot by Israeli forces in Gaza",
-    "excerpt": "The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-12T22:03:51.951611+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "cf76cd091e48",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T20:59",
-    "headline": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
-    "excerpt": "Repeated drone strikes on oil and power infrastructure are deepening Libya&#039;s energy crisis.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-12T22:03:51.951657+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss"
-  },
-  {
-    "id": "97cbc95db752",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T20:58",
-    "headline": "Israeli air strike kills one in northern Gaza",
-    "excerpt": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-08-12T22:03:51.951676+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss"
   }
 ]
