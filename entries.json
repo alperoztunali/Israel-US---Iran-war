@@ -1,5 +1,27 @@
 [
   {
+    "id": "57becc5b8024",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T12:30",
+    "headline": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
+    "excerpt": "UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-25T13:12:28.612744+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss"
+  },
+  {
+    "id": "c8c3835fee5f",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T12:20",
+    "headline": "How water becomes a weapon of war",
+    "excerpt": "A Palestinian spring now fills a swimming pool that belongs to Israeli settlers. AJLabs on how water became a weapon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-25T13:12:28.612791+00:00",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss"
+  },
+  {
     "id": "43daf5536d9b",
     "source": "Al Jazeera",
     "date": "2026-08-25T11:53",
@@ -5476,27 +5498,5 @@
     "location": "Oman",
     "addedAt": "2026-08-13T14:08:09.342959+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss"
-  },
-  {
-    "id": "02515dc945c6",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T11:56",
-    "headline": "US-Iran talks in deadlock – what’s the latest?",
-    "excerpt": "The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-08-13T12:33:47.833728+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss"
-  },
-  {
-    "id": "d4c229bf91db",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T11:29",
-    "headline": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
-    "excerpt": "Israel carts away Gaza&#039;s rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-13T12:33:47.833783+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss"
   }
 ]
