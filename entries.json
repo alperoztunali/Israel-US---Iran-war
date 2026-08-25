@@ -1,5 +1,38 @@
 [
   {
+    "id": "3246603268a1",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T18:01",
+    "headline": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+    "excerpt": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-08-25T18:13:53.294073+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss"
+  },
+  {
+    "id": "5c689c6f5c00",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T17:27",
+    "headline": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
+    "excerpt": "Survey indicates majority of Democrats in first six states to vote for 2028 nominee believe Israel committing genocide.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-25T18:13:53.294124+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss"
+  },
+  {
+    "id": "661b71591cc0",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T16:39",
+    "headline": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
+    "excerpt": "As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-08-25T18:13:53.294152+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss"
+  },
+  {
     "id": "4858ea1ea2be",
     "source": "Al Jazeera",
     "date": "2026-08-25T16:55",
@@ -5465,38 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-08-14T02:22:05.430142+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss"
-  },
-  {
-    "id": "d0a83d485872",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T00:00",
-    "headline": "Iran war live: US eyes indefinite Iran naval blockade",
-    "excerpt": "US Defense Secretary Pete Hegseth says the US can sustain its blockade against Iran &#039;indefinitely&#039;.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-08-14T02:22:05.430163+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss"
-  },
-  {
-    "id": "0e53d549133d",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T23:09",
-    "headline": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-    "excerpt": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-13T23:47:56.306060+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss"
-  },
-  {
-    "id": "6cf0855969e9",
-    "source": "Al Jazeera",
-    "date": "2026-08-13T21:10",
-    "headline": "Israeli strikes in Gaza kill two, including police chief",
-    "excerpt": "Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-08-13T21:51:54.657708+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss"
   }
 ]
