@@ -1,5 +1,27 @@
 [
   {
+    "id": "f7eeb4418398",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T19:47",
+    "headline": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
+    "excerpt": "Omani FM hopes the two countries will &#039;soon announce&#039; a joint temporary transit corridor through the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-25T20:34:06.003013+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "0f7189a072ae",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T19:13",
+    "headline": "Kurdish-led forces in Syria dissolve after merging with army",
+    "excerpt": "Syrian Democratic Forces (SDF) commander campaigns for Kurdish language preservation after decade fighting ISIL.",
+    "category": "Movement",
+    "location": "Syria",
+    "addedAt": "2026-08-25T20:34:06.003050+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss"
+  },
+  {
     "id": "4fd74c4cdd27",
     "source": "Al Jazeera",
     "date": "2026-08-25T19:27",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-14T08:50:27.868002+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss"
-  },
-  {
-    "id": "ee7c30098b94",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T05:40",
-    "headline": "North Korea fumes over upcoming US-South Korea military drills",
-    "excerpt": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-14T05:57:41.198891+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss"
-  },
-  {
-    "id": "44a50a5dd390",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T05:08",
-    "headline": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
-    "excerpt": "Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-14T05:57:41.198933+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss"
   }
 ]
