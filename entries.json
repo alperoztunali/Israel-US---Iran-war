@@ -1,5 +1,16 @@
 [
   {
+    "id": "febba098588e",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T00:00",
+    "headline": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+    "excerpt": "US tells countries to choose between Washington and Tehran, warns Iran&#039;s trade partners they will face consequences.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-25T01:46:42.943891+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
+  },
+  {
     "id": "67dcc1db6607",
     "source": "Al Jazeera",
     "date": "2026-08-24T22:46",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-12T22:03:51.951676+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss"
-  },
-  {
-    "id": "e912c6e8a7c5",
-    "source": "Al Jazeera",
-    "date": "2026-08-12T20:58",
-    "headline": "Deadly India landslide kills at least seven in Mumbai",
-    "excerpt": "Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-12T22:03:51.951706+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss"
   }
 ]
