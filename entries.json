@@ -1,5 +1,49 @@
 [
   {
+    "id": "5376105438ce",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T09:36",
+    "headline": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+    "excerpt": "Tambov Governor Yevgeny Pervyshov says Wildberries ‌logistics centre &quot;completely ​destroyed by fire&quot;.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T09:58:20.513307+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss"
+  },
+  {
+    "id": "95ff71ea5470",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T09:20",
+    "headline": "The Bulgarian village that fears becoming an Iranian target",
+    "excerpt": "US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-26T09:58:20.513354+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss"
+  },
+  {
+    "id": "796fbf991388",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T09:00",
+    "headline": "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
+    "excerpt": "Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-26T09:58:20.513392+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss"
+  },
+  {
+    "id": "752346f3d147",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T08:54",
+    "headline": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
+    "excerpt": "UN chief Guterres said the attack underscores &#039;the alarming security situation in Haiti&#039; due to gangs.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T09:58:20.513427+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss"
+  },
+  {
     "id": "0eb9c6548456",
     "source": "Al Jazeera",
     "date": "2026-08-26T06:02",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-14T22:33:57.764530+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss"
-  },
-  {
-    "id": "b7c830df38c1",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T19:36",
-    "headline": "New aerial video reveals huge scale of oil spill off Oman",
-    "excerpt": "A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.",
-    "category": "Naval",
-    "location": "Oman",
-    "addedAt": "2026-08-14T20:15:52.708727+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss"
-  },
-  {
-    "id": "4156203c539b",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T18:55",
-    "headline": "Woman charged over vandalism of World War II Memorial in Washington, DC",
-    "excerpt": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-08-14T19:38:08.003231+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss"
-  },
-  {
-    "id": "74b3af67fc25",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T18:43",
-    "headline": "Art offers young Gaza survivors solace and escape from war’s devastation",
-    "excerpt": "Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-14T19:38:08.003285+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss"
-  },
-  {
-    "id": "5bc4377d6589",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T18:28",
-    "headline": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
-    "excerpt": "Elon Musk earned 2.5 million times more than a Tesla worker&#039;s median pay in 2025, despite revenue and sales declines.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-14T19:38:08.003319+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss"
   }
 ]
