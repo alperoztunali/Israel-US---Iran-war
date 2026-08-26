@@ -1,5 +1,27 @@
 [
   {
+    "id": "cc6e3a63af6e",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T04:54",
+    "headline": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
+    "excerpt": "Russia’s biggest online retailer, Wildberries, has once again been attacked in a drone strike by Ukraine.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T05:38:28.292288+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss"
+  },
+  {
+    "id": "b6ad227a8ce2",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T04:27",
+    "headline": "At least 15 newborns killed in Pakistan hospital fire",
+    "excerpt": "Only one child rescued after fire breaks out in the nursery at Pakistan Institute of Medical Sciences, Geo News reports.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T05:38:28.292334+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss"
+  },
+  {
     "id": "bb40daf2872f",
     "source": "Al Jazeera",
     "date": "2026-08-26T03:49",
@@ -5476,27 +5498,5 @@
     "location": "Saudi Arabia",
     "addedAt": "2026-08-14T13:24:36.989803+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss"
-  },
-  {
-    "id": "935094dfcd5c",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T12:11",
-    "headline": "Israeli soldiers prevent aid delivery to besieged Palestinians",
-    "excerpt": "Israeli soldiers prevent aid delivery to besieged Palestinians",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-14T13:24:36.989833+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "b562e8e1a5ea",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T12:09",
-    "headline": "Israeli forces block activists from reaching besieged Qusra families",
-    "excerpt": "About 15 Palestinians, including two children, have been trapped in three homes in Qusra for nearly a week.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-14T13:24:36.989859+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/israeli-forces-block-activists-from-reaching-besieged-qusra-families?traffic_source=rss"
   }
 ]
