@@ -1,5 +1,49 @@
 [
   {
+    "id": "46551e004142",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T11:32",
+    "headline": "Why India is sharing missile secrets with its private sector",
+    "excerpt": "New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T11:50:14.385425+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss"
+  },
+  {
+    "id": "10237414d401",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T11:06",
+    "headline": "Manchester City sign teenage Moroccan star Ayyoub Bouaddi from Lille",
+    "excerpt": "Sought-after midfielder Bouaddi joins the Premier League club on a five-year deal worth $117 million.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T11:50:14.385480+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss"
+  },
+  {
+    "id": "15928e1c8a0b",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T09:48",
+    "headline": "At least eight killed, hundreds missing after Nepal flash flood",
+    "excerpt": "Across the border, Tibet reported &#039;major casualties&#039; with people missing in the neighbouring county of Gyirong.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T11:50:14.385519+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss"
+  },
+  {
+    "id": "6d01d02872ea",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T09:36",
+    "headline": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
+    "excerpt": "Attacks spark fires at Lukoil&#039;s NORSI refinery and a Wildberries hub as Kyiv claims 16 targets hit across Russia.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T11:50:14.385549+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss"
+  },
+  {
     "id": "a555d2ccda68",
     "source": "Al Jazeera",
     "date": "2026-08-26T10:00",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-15T02:55:24.215498+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss"
-  },
-  {
-    "id": "833f87db14f9",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T00:00",
-    "headline": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
-    "excerpt": "US President Trump says that &#039;pretty soon&#039; he will declare the Strait of Hormuz a US territory once Iran is defeated.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-15T01:50:45.735529+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss"
-  },
-  {
-    "id": "39dc17c1971f",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T23:02",
-    "headline": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
-    "excerpt": "Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-14T23:38:29.729522+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss"
-  },
-  {
-    "id": "aab9da71a2c3",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T22:58",
-    "headline": "Houthi attack on port kills four eroding truce with Yemen’s government",
-    "excerpt": "Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-08-14T23:38:29.729554+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss"
-  },
-  {
-    "id": "519286e670c5",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T22:45",
-    "headline": "Yemen’s government says Houthi attack on al-Makha kills at least four",
-    "excerpt": "Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-14T23:38:29.729587+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss"
   }
 ]
