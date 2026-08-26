@@ -1,5 +1,16 @@
 [
   {
+    "id": "bb40daf2872f",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T03:49",
+    "headline": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
+    "excerpt": "Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T04:48:28.519573+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss"
+  },
+  {
     "id": "2777e5661342",
     "source": "Al Jazeera",
     "date": "2026-08-26T03:28",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-14T13:24:36.989859+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/14/israeli-forces-block-activists-from-reaching-besieged-qusra-families?traffic_source=rss"
-  },
-  {
-    "id": "dd8603f6379a",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T11:57",
-    "headline": "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
-    "excerpt": "The Israeli PM&#039;s remark comes amid signs of growing tension between Israel and the UK&#039;s Labour government.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-14T13:24:36.989894+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/israeli-pm-netanyahu-calls-uk-the-islamic-republic-of?traffic_source=rss"
   }
 ]
