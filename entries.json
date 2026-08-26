@@ -1,5 +1,27 @@
 [
   {
+    "id": "a555d2ccda68",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T10:00",
+    "headline": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+    "excerpt": "Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-26T10:44:52.674922+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss"
+  },
+  {
+    "id": "81aa19d3972d",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T09:48",
+    "headline": "At least eight killed as Nepal flash flood damages roads, energy facilities",
+    "excerpt": "Authorities say casualties could be much higher, alongside heavier losses of property.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T10:44:52.674967+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss"
+  },
+  {
     "id": "5376105438ce",
     "source": "Al Jazeera",
     "date": "2026-08-26T09:36",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-14T23:38:29.729587+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss"
-  },
-  {
-    "id": "b86a0999c804",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T21:50",
-    "headline": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-    "excerpt": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-14T22:33:57.764466+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss"
-  },
-  {
-    "id": "5b82446fabd0",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T21:45",
-    "headline": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
-    "excerpt": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-14T22:33:57.764530+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss"
   }
 ]
