@@ -1,5 +1,38 @@
 [
   {
+    "id": "fccf75f1b890",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T16:27",
+    "headline": "Putin and al-Sharaa discuss Russia-Syria relations, deal on military bases",
+    "excerpt": "Syria has been in talks on the fate of Khmeimim and Tartous bases, which Russia used to support ousted Assad regime.",
+    "category": "Diplomatic",
+    "location": "Syria",
+    "addedAt": "2026-08-26T16:51:02.304615+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/putin-and-al-sharaa-discuss-russia-syria-relations-deal-on-military-bases?traffic_source=rss"
+  },
+  {
+    "id": "d16ac97b6b57",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T16:16",
+    "headline": "Video: Man kills eight relatives in Montana gun attack",
+    "excerpt": "A man killed eight relatives at a family home in the US state of Montana.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T16:51:02.304648+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-man-kills-eight-relatives-in-montana-gun-attack?traffic_source=rss"
+  },
+  {
+    "id": "6c1e702ed57f",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T16:11",
+    "headline": "Syria removed: Which countries are still on the US ‘terror’ list – and why?",
+    "excerpt": "The US decision leaves three nations - Cuba, Iran and North Korea - on its &#039;State Sponsors of Terrorism&#039; blacklist.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-26T16:51:02.304680+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/syria-removed-which-countries-are-still-on-the-us-terror-list-and-why?traffic_source=rss"
+  },
+  {
     "id": "4906f5781867",
     "source": "Al Jazeera",
     "date": "2026-08-26T14:59",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-15T08:00:22.506112+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss"
-  },
-  {
-    "id": "e4264d56a69a",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T07:13",
-    "headline": "Moment Israeli forces storm wedding hall in occupied West Bank",
-    "excerpt": "Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-15T08:00:22.506145+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "000e4796b15f",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T06:10",
-    "headline": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
-    "excerpt": "Greenhouses and rented plots are lifelines for Gaza&#039;s farmers, helping them grow crops despite the extensive destruction",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-15T06:46:00.654773+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss"
-  },
-  {
-    "id": "bfaa42f3d052",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T01:36",
-    "headline": "At least 20 killed as magnitude 7.7 quake hits Indonesia",
-    "excerpt": "The death toll is expected to climb further as emergency teams continue search and rescue efforts.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-15T06:46:00.654833+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss"
   }
 ]
