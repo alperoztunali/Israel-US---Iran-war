@@ -1,5 +1,27 @@
 [
   {
+    "id": "2777e5661342",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T03:28",
+    "headline": "Who were the Syrian Democratic Forces and why dissolve?",
+    "excerpt": "Syria’s Democratic Forces, which led the fight against ISIL, have declared they are disbanding.",
+    "category": "Movement",
+    "location": "Syria",
+    "addedAt": "2026-08-26T03:56:11.818103+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss"
+  },
+  {
+    "id": "f984cf9411e8",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T02:54",
+    "headline": "Israeli soldiers block Knesset member from besieged Palestinian home",
+    "excerpt": "Israeli soldiers blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-26T03:56:11.818152+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss"
+  },
+  {
     "id": "d639b3b1e89b",
     "source": "Al Jazeera",
     "date": "2026-08-26T00:00",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-14T13:24:36.989894+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/14/israeli-pm-netanyahu-calls-uk-the-islamic-republic-of?traffic_source=rss"
-  },
-  {
-    "id": "d1735359fbae",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T11:28",
-    "headline": "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
-    "excerpt": "US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-14T13:24:36.989936+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss"
-  },
-  {
-    "id": "2b98f1052d7a",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T11:18",
-    "headline": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-    "excerpt": "Manchester City&#039;s Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsenal.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-14T11:58:27.121729+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss"
   }
 ]
