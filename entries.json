@@ -1,5 +1,27 @@
 [
   {
+    "id": "d639b3b1e89b",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T00:00",
+    "headline": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
+    "excerpt": "Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-08-26T01:40:43.419121+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss"
+  },
+  {
+    "id": "94212acfe427",
+    "source": "Al Jazeera",
+    "date": "2026-08-25T21:09",
+    "headline": "US lawmakers urge Trump team to free American student held by Israel",
+    "excerpt": "Congress members call on Marco Rubio to &#039;use every tool&#039; at his disposal to secure release of 20-year-old Sama Safi.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-26T01:40:43.419173+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss"
+  },
+  {
     "id": "527187c27726",
     "source": "Al Jazeera",
     "date": "2026-08-25T21:26",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-14T11:58:27.121729+00:00",
     "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss"
-  },
-  {
-    "id": "edab7853fbc2",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T11:06",
-    "headline": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
-    "excerpt": "US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-14T11:58:27.121825+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss"
-  },
-  {
-    "id": "1394e3d837b0",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T11:04",
-    "headline": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-    "excerpt": "Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-08-14T11:58:27.121855+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss"
   }
 ]
