@@ -1,5 +1,93 @@
 [
   {
+    "id": "630e0a9aa8ac",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T21:09",
+    "headline": "UNRWA chief: Israel seeks to eliminate agency and Palestinian refugee issue",
+    "excerpt": "UNRWA chief says the seizure of its training centre is part of Israel’s efforts to eliminate agency and refugee issue",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-26T22:12:00.637378+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/26-08-sv-unrwa-responds-to-aljazeera-fm?traffic_source=rss"
+  },
+  {
+    "id": "cc63c3f6025f",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T21:07",
+    "headline": "Palestinians demand return of 1,700 bodies held by Israel",
+    "excerpt": "Palestinians held vigils across the occupied West Bank demanding the return of Palestinian bodies held by Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-26T22:12:00.637415+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinians-demand-return-of-1700-bodies-held-by-israel?traffic_source=rss"
+  },
+  {
+    "id": "e6e3aac5d0ac",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T20:59",
+    "headline": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies",
+    "excerpt": "US authorities seized two domains allegedly used to target sensitive government networks since 2018.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T22:12:00.637452+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss"
+  },
+  {
+    "id": "30488bd47bdf",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T20:37",
+    "headline": "What’s behind the SDF’s deal with Damascus?",
+    "excerpt": "The Syrian Democratic Forces announces its dissolution after merging with Syria&#039;s army.",
+    "category": "Movement",
+    "location": "Syria",
+    "addedAt": "2026-08-26T22:12:00.637475+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/26/whats-behind-the-sdfs-deal-with-damascus?traffic_source=rss"
+  },
+  {
+    "id": "59b8e4d06dc7",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T19:41",
+    "headline": "Video: Ukrainian drones target Wildberries e-commerce hub in Russia",
+    "excerpt": "Ukrainian drones have again targeted the Russian online shopping giant Wildberries.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T22:12:00.637494+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-ukrainian-drones-target-wildberries-e-commerce-hub-in-russia?traffic_source=rss"
+  },
+  {
+    "id": "843d4c886d1d",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T19:31",
+    "headline": "Israel-Hamas truce failure ‘point of no return’, envoy warns",
+    "excerpt": "Hamas has pledged to hand over its weapons as part of the US plan for Gaza, which Israeli PM Netanyahu has rejected.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-08-26T22:12:00.637523+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss"
+  },
+  {
+    "id": "9a72db745ea3",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T19:25",
+    "headline": "UNRWA chief condemns Israeli seizure of East Jerusalem training centre",
+    "excerpt": "Christian Saunders tells Al Jazeera raid part of campaign to weaken agency and eliminate Palestinian rights.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-26T22:12:00.637546+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss"
+  },
+  {
+    "id": "fde4c15ab369",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T19:09",
+    "headline": "Israeli forces install new gate, isolating Palestinian village",
+    "excerpt": "Israeli forces installed gates around the home of Palestinian American Lou Ridi in Qusra, in the occupied West Bank.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-08-26T22:12:00.637574+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-forces-install-new-gate-isolating-palestinian-village?traffic_source=rss"
+  },
+  {
     "id": "23f3f24381cb",
     "source": "Al Jazeera",
     "date": "2026-08-26T18:19",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-15T18:40:31.347259+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss"
-  },
-  {
-    "id": "cb2f4b0452a3",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T16:33",
-    "headline": "One killed, dozens injured after wildfire hits Croatian coast",
-    "excerpt": "At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-15T17:01:06.717220+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss"
-  },
-  {
-    "id": "d48712025111",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T15:50",
-    "headline": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-    "excerpt": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia&#039;s southwestern Samara region.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-15T16:34:09.183729+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
-  },
-  {
-    "id": "f0867bdb028d",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T15:48",
-    "headline": "Israeli settlers besiege Palestinian families in occupied West Bank",
-    "excerpt": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-15T16:34:09.183779+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss"
-  },
-  {
-    "id": "47c807076785",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T14:32",
-    "headline": "The next Yemen war might be different",
-    "excerpt": "Drones are no longer the advantage for only one side.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-08-15T15:00:10.545825+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss"
-  },
-  {
-    "id": "063347660584",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T12:57",
-    "headline": "Five wounded in shooting at Virginia State University, multiple suspects",
-    "excerpt": "Police found the gunshot victims near the university&#039;s residence halls.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-15T13:59:52.330827+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss"
-  },
-  {
-    "id": "056125f55508",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T13:01",
-    "headline": "Vienna woman sues city for discrimination over toilet fees",
-    "excerpt": "An Austrian activist in Vienna is challenging the city over public toilet fees.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-08-15T13:34:45.529789+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss"
-  },
-  {
-    "id": "d5f6308af6c0",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T12:57",
-    "headline": "Five wounded in shooting at Virginia State University",
-    "excerpt": "Police found the gunshot victims near the university&#039;s residence halls.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-15T13:34:45.529831+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss"
-  },
-  {
-    "id": "0a8908ac81f1",
-    "source": "Al Jazeera",
-    "date": "2026-08-15T11:30",
-    "headline": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
-    "excerpt": "Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-15T11:46:34.504711+00:00",
-    "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss"
   }
 ]
