@@ -1,5 +1,60 @@
 [
   {
+    "id": "3730fd956853",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T07:43",
+    "headline": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
+    "excerpt": "UN rights office spokesperson slams Israeli threat of forced evacuations from Gaza communities over kite flying.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-26T08:09:56.037958+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss"
+  },
+  {
+    "id": "371da798635f",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T07:41",
+    "headline": "Palestinian boy shot during Israeli raid on UNRWA centre",
+    "excerpt": "Video shows the moment a Palestinian boy was shot during an Israeli raid on a UN facility in occupied East Jerusalem.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-26T08:09:56.038003+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
+  },
+  {
+    "id": "6766a6dc0124",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T07:18",
+    "headline": "Trump threatens Iran’s partners: How do secondary sanctions work?",
+    "excerpt": "The US has used threats of secondary sanctions, whereby countries trading with a sanctioned country also face sanctions.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-08-26T08:09:56.038042+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss"
+  },
+  {
+    "id": "0ce1c5cd651c",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T06:02",
+    "headline": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
+    "excerpt": "Deputy foreign minster says the route&#039;s entry as well as part of the exit would run through Iranian territorial waters.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-26T08:09:56.038077+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss"
+  },
+  {
+    "id": "13d715892dbb",
+    "source": "Al Jazeera",
+    "date": "2026-08-26T04:27",
+    "headline": "At least 14 babies killed in Pakistan hospital nursery fire",
+    "excerpt": "Only one infant rescued from the neonatal facility where the fire broke out, in Pakistan&#039;s capital.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-26T08:09:56.038114+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss"
+  },
+  {
     "id": "10e54bced1c7",
     "source": "Al Jazeera",
     "date": "2026-08-26T05:20",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-14T17:39:32.908126+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
-  },
-  {
-    "id": "c118a00466f2",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T15:36",
-    "headline": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
-    "excerpt": "Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-08-14T16:34:07.022729+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss"
-  },
-  {
-    "id": "6e1192135412",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T12:09",
-    "headline": "US wants Netanyahu to condemn settler violence in Qusra",
-    "excerpt": "Mike Huckabee, US ambassador to Israel, described the settlers in Qusra as &quot;Israeli terrorists&quot; amid weeklong siege.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-14T16:34:07.022786+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/israeli-forces-block-activists-from-reaching-besieged-qusra-families?traffic_source=rss"
-  },
-  {
-    "id": "8504cf8799de",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T15:00",
-    "headline": "Ahmed al-Sharaa: A New Vision for Syria",
-    "excerpt": "An exclusive interview with the man who became president of Syria in 2025 about his vision for his country’s future.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-08-14T15:34:18.849243+00:00",
-    "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss"
-  },
-  {
-    "id": "65bd2a137d95",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T14:48",
-    "headline": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
-    "excerpt": "Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-14T15:34:18.849291+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss"
-  },
-  {
-    "id": "a5905c08418c",
-    "source": "Al Jazeera",
-    "date": "2026-08-14T14:19",
-    "headline": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
-    "excerpt": "The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-14T14:31:55.543747+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss"
   }
 ]
