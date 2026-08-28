@@ -1,5 +1,71 @@
 [
   {
+    "id": "0c56e030f79c",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T09:01",
+    "headline": "Children take cover behind shopping cart during Israeli drone fire",
+    "excerpt": "Video shows children in Gaza taking cover behind a shopping cart during a reported gun attack by an Israeli drone.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-08-28T11:26:27.042706+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/children-take-cover-behind-shopping-cart-during-israeli-drone-fire?traffic_source=rss"
+  },
+  {
+    "id": "4dc20bcec23e",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T07:51",
+    "headline": "Nearly 470 killed in Nepal floods: What we know about rescue efforts",
+    "excerpt": "The devastating Bhotekoshi flood struck the mountainous Nepal-Tibet border region on Wednesday morning.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-28T11:26:27.042736+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/28/nearly-470-killed-in-nepal-floods-what-we-know-about-rescue-efforts?traffic_source=rss"
+  },
+  {
+    "id": "69ef798501db",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T06:45",
+    "headline": "Armed with a whistle, Gaza’s lifeguards do what they can to save swimmers",
+    "excerpt": "Shortages leave Gaza&#039;s lifeguards without essential rescue equipment, as Palestinians flock to the beaches.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-08-28T11:26:27.042766+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss"
+  },
+  {
+    "id": "f6fe35dc1e73",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T06:35",
+    "headline": "Six months on, Iran is still standing, but survival is becoming more costly",
+    "excerpt": "Economic pressure is testing Iran where it is weakest and sharpening divisions within its leadership.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-28T11:26:27.042782+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-iran-is-still-standing-but-survival-is-becoming-more-costly?traffic_source=rss"
+  },
+  {
+    "id": "c81183ef0f19",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T06:31",
+    "headline": "Six months on, Trump’s Iran strategy is starting to pay off",
+    "excerpt": "The US has not won the war, but sustained pressure is weakening Tehran and giving Washington a stronger hand.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-08-28T11:26:27.042804+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off?traffic_source=rss"
+  },
+  {
+    "id": "6268f431c3d5",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T05:37",
+    "headline": "Six months of war between Iran, US leave Arab states facing tough questions",
+    "excerpt": "The Iran war is settling into attrition, with no regime collapse and Gulf economies facing growing uncertainty.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-28T11:26:27.042827+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions?traffic_source=rss"
+  },
+  {
     "id": "0274907e89b5",
     "source": "Al Jazeera",
     "date": "2026-08-27T23:09",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-16T09:31:12.075876+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss"
-  },
-  {
-    "id": "63601e4b9eb2",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T08:40",
-    "headline": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
-    "excerpt": "Crowds create carnival-like atmosphere in Afghan capital as Taliban celebrates five years since its return to power.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-16T09:31:12.075917+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss"
-  },
-  {
-    "id": "18c22cc914e2",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T08:11",
-    "headline": "Australia to begin gun buyback scheme in response to Bondi shooting",
-    "excerpt": "Australia will begin buying back guns in November, almost a year after a shooting at Sydney&#039;s Bondi killed 15 people.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-16T08:47:54.906797+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss"
-  },
-  {
-    "id": "e268e9916981",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T04:54",
-    "headline": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-    "excerpt": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region during the escalating conflict.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-08-16T08:01:35.518369+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss"
-  },
-  {
-    "id": "74be36715b4c",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T06:10",
-    "headline": "How a simple lighter has become the backbone of life in Gaza",
-    "excerpt": "In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-16T06:48:06.932769+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss"
-  },
-  {
-    "id": "7cf3f33c8a4e",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T06:06",
-    "headline": "A nation divided: What do Israelis want in October’s elections?",
-    "excerpt": "Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-16T06:48:06.932822+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss"
-  },
-  {
-    "id": "cc7bf4cc833c",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T04:54",
-    "headline": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-    "excerpt": "Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.",
-    "category": "Airstrike",
-    "location": "Oman",
-    "addedAt": "2026-08-16T05:11:39.292219+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss"
   }
 ]
