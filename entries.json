@@ -1,5 +1,82 @@
 [
   {
+    "id": "1cc798b60bab",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T19:03",
+    "headline": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
+    "excerpt": "Ongoing Russian attacks have killed several people and wounded dozens across Ukraine.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-08-28T21:29:16.188802+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss"
+  },
+  {
+    "id": "29392d70f070",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T18:50",
+    "headline": "Yemen’s divided education system leaves students’ futures in limbo",
+    "excerpt": "Students in Houthi areas fear lost opportunities after government decision not to authenticate some certificates.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-08-28T21:29:16.188857+00:00",
+    "link": "https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo?traffic_source=rss"
+  },
+  {
+    "id": "b1930192a4a2",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T18:37",
+    "headline": "Deadly Russian strikes hit civilian targets in Ukraine",
+    "excerpt": "Russia intensified attacks across Ukraine, killing civilians and damaging homes and warehouses near Kyiv",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-28T21:29:16.188892+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/deadly-russian-strikes-hit-civilian-targets-in-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "bc3e02c2b4f8",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T17:47",
+    "headline": "Israeli strike kills three Palestinians in West Bank’s Jenin",
+    "excerpt": "Israel&#039;s prime minister and defence minister praise the attack as Hamas calls for Israeli &#039;crimes&#039; to stop.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-28T21:29:16.188931+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss"
+  },
+  {
+    "id": "520a8ea1c9ad",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T16:44",
+    "headline": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
+    "excerpt": "In an interview with Al Jazeera, Nicolay Mladenov says that a return to war would be &#039;devastating&#039;.",
+    "category": "Diplomatic",
+    "location": "Gaza",
+    "addedAt": "2026-08-28T21:29:16.188965+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/28/board-of-peace-envoy-mladenov-warns-gaza-ceasefire-risks-collapse?traffic_source=rss"
+  },
+  {
+    "id": "6bb5fd112671",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T16:44",
+    "headline": "Gaza forced to use unreliable online payments amid ‘cash famine’",
+    "excerpt": "Israeli restrictions and war damage have created a liquidity crisis, crippling Gaza&#039;s banking system and daily commerce.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-28T21:29:16.189005+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/28/gaza-forced-to-use-unreliable-online-payments-amid-cash-famine?traffic_source=rss"
+  },
+  {
+    "id": "c5bb6a6b4f12",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T16:42",
+    "headline": "Ukraine reinforces Donetsk as it seeks to disrupt Russia’s weapons flow",
+    "excerpt": "After repeated disappointments over US Patriots, Kyiv switches to attacking Russia using European weapons.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-08-28T21:29:16.189045+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow?traffic_source=rss"
+  },
+  {
     "id": "0c56e030f79c",
     "source": "Al Jazeera",
     "date": "2026-08-28T09:01",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-16T14:00:37.722389+00:00",
     "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "557b3c4dc108",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T11:54",
-    "headline": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
-    "excerpt": "Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-16T12:54:41.922907+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
-  },
-  {
-    "id": "ea57c15e516e",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T11:38",
-    "headline": "‘Limited options’ for many Iranians as war with US chokes economy",
-    "excerpt": "Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-16T12:54:41.922959+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss"
-  },
-  {
-    "id": "83e11e844a6d",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T11:14",
-    "headline": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-    "excerpt": "US president has yet another outlandish threat for Iran, with no end to war in sight.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-16T11:35:01.688178+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss"
-  },
-  {
-    "id": "a232a76de80f",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T10:59",
-    "headline": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-    "excerpt": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-16T11:35:01.688214+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "f144e2cb13f1",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T10:32",
-    "headline": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
-    "excerpt": "‘We were praying for her to faint’.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-16T11:00:55.223690+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss"
-  },
-  {
-    "id": "3aa30301dc1d",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T09:03",
-    "headline": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-    "excerpt": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-16T09:31:12.075832+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss"
-  },
-  {
-    "id": "3f456cdea4ed",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T08:50",
-    "headline": "At least 12 people killed in Hungary bus crash",
-    "excerpt": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-16T09:31:12.075876+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss"
   }
 ]
