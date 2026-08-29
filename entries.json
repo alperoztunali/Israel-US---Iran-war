@@ -1,5 +1,60 @@
 [
   {
+    "id": "f0259c6cafca",
+    "source": "Al Jazeera",
+    "date": "2026-08-29T17:41",
+    "headline": "Turkiye summons Ukraine ambassador over Black Sea attacks",
+    "excerpt": "Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-08-29T18:36:39.654587+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss"
+  },
+  {
+    "id": "b6cfc5002be6",
+    "source": "Al Jazeera",
+    "date": "2026-08-29T17:09",
+    "headline": "Israeli army arrests six Palestinians after settler violence in West Bank",
+    "excerpt": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-29T18:36:39.654634+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "dd16827defe5",
+    "source": "Al Jazeera",
+    "date": "2026-08-29T17:03",
+    "headline": "Niger military says it is regaining control after attempted mutiny",
+    "excerpt": "Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-29T18:36:39.654680+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss"
+  },
+  {
+    "id": "4674da87e837",
+    "source": "Al Jazeera",
+    "date": "2026-08-29T16:53",
+    "headline": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+    "excerpt": "Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-29T18:36:39.654710+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss"
+  },
+  {
+    "id": "03cc0965fa63",
+    "source": "Al Jazeera",
+    "date": "2026-08-29T15:25",
+    "headline": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+    "excerpt": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-29T18:36:39.654739+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss"
+  },
+  {
     "id": "3a4a2c683201",
     "source": "Al Jazeera",
     "date": "2026-08-29T13:11",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-17T01:38:43.005421+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss"
-  },
-  {
-    "id": "87bd00fff618",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T00:05",
-    "headline": "Israel releases 35 Palestinian prisoners back into Gaza",
-    "excerpt": "Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-17T01:38:43.005465+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss"
-  },
-  {
-    "id": "cc022d1c24a0",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T00:00",
-    "headline": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
-    "excerpt": "Hamas calls on Board of Peace to &#039;compel&#039; Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-08-17T01:38:43.005504+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
-  },
-  {
-    "id": "85f3fd36db48",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T23:58",
-    "headline": "UN’s Albanese: Israel outsourcing coercion to settlers in West Bank",
-    "excerpt": "UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is outsourcing coercion to settlers.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-17T01:38:43.005540+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "bde2b5b9df97",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T23:58",
-    "headline": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
-    "excerpt": "Far-right National Security Minister Ben-Gvir sits on Israel&#039;s security cabinet, which helps shape war and policy.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-17T01:38:43.005575+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss"
-  },
-  {
-    "id": "0d18571c4dd1",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T21:54",
-    "headline": "What could stop Israeli settler attacks on Palestinians?",
-    "excerpt": "Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-16T22:26:16.695861+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss"
   }
 ]
