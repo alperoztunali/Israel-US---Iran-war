@@ -1,5 +1,49 @@
 [
   {
+    "id": "2f24acd87ecd",
+    "source": "Al Jazeera",
+    "date": "2026-08-29T00:53",
+    "headline": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
+    "excerpt": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
+    "category": "Diplomatic",
+    "location": "Gaza",
+    "addedAt": "2026-08-29T03:19:56.804248+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss"
+  },
+  {
+    "id": "ab8d98e6f141",
+    "source": "Al Jazeera",
+    "date": "2026-08-29T00:46",
+    "headline": "US revises statements suggesting Chinese hackers attacked agencies",
+    "excerpt": "US Justice Department clarifies that the US Senate and Federal Reserve were targets but were not successfully hacked.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-08-29T03:19:56.804305+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss"
+  },
+  {
+    "id": "a674f991ae6b",
+    "source": "Al Jazeera",
+    "date": "2026-08-29T00:00",
+    "headline": "Iran war live: IRGC asserts strait control, US enforces blockade",
+    "excerpt": "Iran&#039;s IRGC claims decisive control over the Strait of Hormuz as the US maintains its naval blockade.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-08-29T03:19:56.804329+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
+  },
+  {
+    "id": "157c5c9bd480",
+    "source": "Al Jazeera",
+    "date": "2026-08-28T22:11",
+    "headline": "Israeli strike kills three Palestinians in Jenin",
+    "excerpt": "An Israeli drone strike killed three Palestinians in Jenin, the first such attack in the West Bank since February 2025.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-08-29T03:19:56.804346+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss"
+  },
+  {
     "id": "1cc798b60bab",
     "source": "Al Jazeera",
     "date": "2026-08-28T19:03",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-16T17:34:45.049862+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss"
-  },
-  {
-    "id": "0c5f7ce46dd6",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T15:35",
-    "headline": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-    "excerpt": "Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-16T15:58:34.780494+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss"
-  },
-  {
-    "id": "da69519145f4",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T14:35",
-    "headline": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
-    "excerpt": "Israel’s far-right national security minister Itamar Ben-Gvir has called for nightly killings in Gaza.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-08-16T15:00:21.729713+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "502bdb0ab031",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T13:18",
-    "headline": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
-    "excerpt": "Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-08-16T14:00:37.722341+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss"
-  },
-  {
-    "id": "54c4a6225ab6",
-    "source": "Al Jazeera",
-    "date": "2026-08-16T13:17",
-    "headline": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
-    "excerpt": "Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-16T14:00:37.722389+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss"
   }
 ]
