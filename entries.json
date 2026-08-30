@@ -1,5 +1,60 @@
 [
   {
+    "id": "352cb06af0a6",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T00:16",
+    "headline": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
+    "excerpt": "Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-30T01:42:40.026182+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss"
+  },
+  {
+    "id": "dcef0cdfb147",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T00:00",
+    "headline": "Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra",
+    "excerpt": "Deputy foreign minister says Iranian forces have &#039;full oversight&#039; of movements in the strait.",
+    "category": "Movement",
+    "location": "Tehran",
+    "addedAt": "2026-08-30T01:42:40.026224+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss"
+  },
+  {
+    "id": "3f7ebe3ebf3b",
+    "source": "Al Jazeera",
+    "date": "2026-08-29T23:48",
+    "headline": "Israeli settlers attack international news team in occupied West Bank",
+    "excerpt": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-08-30T01:42:40.026250+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "0747fa877d2f",
+    "source": "Al Jazeera",
+    "date": "2026-08-29T23:34",
+    "headline": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
+    "excerpt": "Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-08-30T01:42:40.026288+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss"
+  },
+  {
+    "id": "57ac85600775",
+    "source": "Al Jazeera",
+    "date": "2026-08-29T23:25",
+    "headline": "Ukrainian nuclear power plant without external power for over a week",
+    "excerpt": "This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-30T01:42:40.026324+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss"
+  },
+  {
     "id": "537f95f2bf85",
     "source": "Al Jazeera",
     "date": "2026-08-29T20:07",
@@ -5443,60 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-08-17T11:42:17.978689+00:00",
     "link": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "41ab0f6e8adf",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T08:13",
-    "headline": "Kushner meets Netanyahu to push Trump Gaza plan",
-    "excerpt": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
-    "category": "Diplomatic",
-    "location": "Gaza",
-    "addedAt": "2026-08-17T11:42:17.978718+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-  },
-  {
-    "id": "f158817e7af7",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T08:13",
-    "headline": "Kushner to meet Netanyahu to push Trump Gaza plan",
-    "excerpt": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
-    "category": "Diplomatic",
-    "location": "Gaza",
-    "addedAt": "2026-08-17T09:10:18.124078+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-  },
-  {
-    "id": "8c88029419d7",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T08:00",
-    "headline": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
-    "excerpt": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-17T08:24:49.195768+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss"
-  },
-  {
-    "id": "0ade3a7c2b41",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T00:00",
-    "headline": "Iran war live: Tehran warns of shift to offensive posture as US MoU expires",
-    "excerpt": "Hamas calls on Board of Peace to &#039;compel&#039; Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-08-17T07:33:24.127457+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
-  },
-  {
-    "id": "3ab1d8491f67",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T05:16",
-    "headline": "Iran’s top negotiator declares victory in war against the US and Israel",
-    "excerpt": "Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-08-17T06:20:25.871702+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss"
   }
 ]
