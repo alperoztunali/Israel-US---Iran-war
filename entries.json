@@ -1,5 +1,71 @@
 [
   {
+    "id": "cdae9351b60d",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T16:09",
+    "headline": "Israeli soldiers participate in Sydney Marathon despite protests",
+    "excerpt": "Protesters waved Palestinian flags and criticised the Australian government for issuing visas to 40 Israeli soldiers.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-30T17:35:30.589839+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss"
+  },
+  {
+    "id": "54f71017f14f",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T16:06",
+    "headline": "What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?",
+    "excerpt": "Israel&#039;s rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-30T17:35:30.589890+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss"
+  },
+  {
+    "id": "e0d0fb102a9a",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T16:03",
+    "headline": "Educated? Skilled? Ambitious? Traffickers are looking for you",
+    "excerpt": "Young jobseekers are being recruited into scam compounds. Urgent action is needed to disrupt these trafficking schemes.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-08-30T17:35:30.589922+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss"
+  },
+  {
+    "id": "fb2ff27b3963",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T14:50",
+    "headline": "Why did Australia give visas to Israeli soldiers but not Bassem Youssef?",
+    "excerpt": "The Australian government is under pressure to explain why it allowed dozens of Israeli soldiers into the country.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-08-30T17:35:30.589953+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sydney-marathon-israeli-soldiers-idf-fm?traffic_source=rss"
+  },
+  {
+    "id": "a9699e8d8079",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T13:23",
+    "headline": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
+    "excerpt": "Move comes as Washington steps up its efforts to economically pressure Iran amid deadlock in truce talks.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-08-30T17:35:30.589977+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss"
+  },
+  {
+    "id": "3fbae510cbad",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T13:01",
+    "headline": "Niger’s military-led government says it contained mutiny: What next?",
+    "excerpt": "Mutiny began at a military base in Niamey and spread to area near the presidential palace and state broadcaster.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-30T17:35:30.590024+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next?traffic_source=rss"
+  },
+  {
     "id": "8809e85b5c41",
     "source": "Al Jazeera",
     "date": "2026-08-30T12:33",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-17T16:47:04.324375+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss"
-  },
-  {
-    "id": "9f634bc73dc2",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T16:24",
-    "headline": "Somali army clashes with rebel forces for control of key city Baidoa",
-    "excerpt": "Somali forces repel rebel fighters in Baidoa after intense fighting involving explosives and dozens of casualties.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-08-17T16:47:04.324414+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss"
-  },
-  {
-    "id": "ea2091f4c92a",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T16:14",
-    "headline": "Democrats rebuke Trump over scaling back military drills with South Korea",
-    "excerpt": "Republican Senator Thom Tillis says the decision allows North Korea to provide more support to Russia in Ukraine.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-17T16:47:04.324454+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss"
-  },
-  {
-    "id": "35d12cb24b2d",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T15:06",
-    "headline": "Trump says US in contact with IRGC and calls on Iran to surrender",
-    "excerpt": "President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November&#039;s US midterms.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-17T16:47:04.324486+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss"
-  },
-  {
-    "id": "32ef541d59a6",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T15:06",
-    "headline": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
-    "excerpt": "President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November&#039;s US midterms.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-17T15:41:43.191710+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss"
-  },
-  {
-    "id": "de9362d5713b",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T14:15",
-    "headline": "Iran signals readiness for ‘US ground operations’ as MoU expires",
-    "excerpt": "Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-17T15:02:43.835523+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss"
-  },
-  {
-    "id": "729847be665b",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T14:12",
-    "headline": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
-    "excerpt": "Twelve people including the captain are on board the vessel named Kate, in the latest attempt to deliver aid.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-08-17T15:02:43.835571+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss"
   }
 ]
