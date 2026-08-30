@@ -1,5 +1,49 @@
 [
   {
+    "id": "b0b1d2153508",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T05:09",
+    "headline": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil",
+    "excerpt": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-30T07:29:51.044095+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss"
+  },
+  {
+    "id": "4082f9828ab8",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T04:28",
+    "headline": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
+    "excerpt": "Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-08-30T07:29:51.044143+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss"
+  },
+  {
+    "id": "7189b7c0e394",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T03:10",
+    "headline": "US deports relative of Afghans who aided military to Africa",
+    "excerpt": "Afghan national granted protection in the US is one of dozens of people deported to war-torn Central African Republic.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-30T07:29:51.044186+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss"
+  },
+  {
+    "id": "7b674a892c68",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T00:00",
+    "headline": "Iran war live: Khamenei calls for Muslim world to confront ‘real enemy’",
+    "excerpt": "Iran’s Supreme Leader Mojtaba Khamenei urges against any action that could divide Muslims.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-30T07:29:51.044225+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss"
+  },
+  {
     "id": "352cb06af0a6",
     "source": "Al Jazeera",
     "date": "2026-08-30T00:16",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-17T12:01:29.413752+00:00",
     "link": "https://www.aljazeera.com/sports/2026/8/17/arsenal-preview-key-questions-heading-into-2026-27-premier-league-season?traffic_source=rss"
-  },
-  {
-    "id": "d0de050cccfd",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T11:29",
-    "headline": "Trump orders US to scale back South Korea military drills",
-    "excerpt": "Donald Trump has ordered the US military to scale back joint exercises with South Korea.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-17T12:01:29.413794+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss"
-  },
-  {
-    "id": "64cc91ad34c6",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T11:09",
-    "headline": "Is the world experiencing more earthquakes now than before?",
-    "excerpt": "Al Jazeera examines a decade of earthquake data to see how 2026 compares and explains how and where earthquakes strike.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-17T11:42:17.978613+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss"
-  },
-  {
-    "id": "8be91a25986d",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T10:54",
-    "headline": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
-    "excerpt": "Explosive drones target Iraqi Kurdish PM&#039;s office and security chief&#039;s residence; no casualties reported.",
-    "category": "Missile/Drone",
-    "location": "Iraq",
-    "addedAt": "2026-08-17T11:42:17.978655+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss"
-  },
-  {
-    "id": "c9a5b2975d4c",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T10:51",
-    "headline": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
-    "excerpt": "Yasser Ayad, 16, has become a culinary star on social media as he cooks traiditional Palestinain dishes in Gaza.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-17T11:42:17.978689+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss"
   }
 ]
