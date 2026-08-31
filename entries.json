@@ -1,5 +1,38 @@
 [
   {
+    "id": "d2bd84dbd7ea",
+    "source": "Al Jazeera",
+    "date": "2026-08-31T00:00",
+    "headline": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
+    "excerpt": "US Central Command says its forces bombed two rocket launchers of the IRGC on Larak Island.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-08-31T01:15:46.330902+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss"
+  },
+  {
+    "id": "71240555a263",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T23:08",
+    "headline": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+    "excerpt": "Ten months after a coup, military leaders say the referendum is designed to stabilise future civilian governments.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-08-31T01:15:46.330945+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss"
+  },
+  {
+    "id": "a8b2f96d9e1b",
+    "source": "Al Jazeera",
+    "date": "2026-08-30T20:15",
+    "headline": "Iran attacks US bases in Jordan after US strikes Larak Island",
+    "excerpt": "The exchange of attacks is the first flare-up in violence between the two sides since late July.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-08-31T01:15:46.330976+00:00",
+    "link": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss"
+  },
+  {
     "id": "27db7f96db18",
     "source": "Al Jazeera",
     "date": "2026-08-30T21:02",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-17T21:11:19.853965+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss"
-  },
-  {
-    "id": "d67d3f855772",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T20:41",
-    "headline": "Trump’s approval rating sinks to new low",
-    "excerpt": "New poll found a majority of US citizens concerned about the US war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-17T21:11:19.854014+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss"
-  },
-  {
-    "id": "aab8f87e100c",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T19:22",
-    "headline": "Photos: Indonesia earthquake rescue efforts continue as death toll hits 68",
-    "excerpt": "At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-17T21:11:19.854052+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss"
-  },
-  {
-    "id": "858493240700",
-    "source": "Al Jazeera",
-    "date": "2026-08-17T19:32",
-    "headline": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
-    "excerpt": "A boat has left Bristol as part of a wider campaign to break Israel’s blockade and deliver aid to Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-17T20:01:18.965891+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss"
   }
 ]
