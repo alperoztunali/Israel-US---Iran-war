@@ -1,5 +1,49 @@
 [
   {
+    "id": "976338cc6576",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T21:28",
+    "headline": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+    "excerpt": "The IAEA said lack of information and access to facilities to verify Iran&#039;s nuclear material is a proliferation concern.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-09-01T23:29:31.013060+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss"
+  },
+  {
+    "id": "169452a73b5d",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T21:03",
+    "headline": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+    "excerpt": "President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-01T23:29:31.013102+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss"
+  },
+  {
+    "id": "382d491683b7",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T21:01",
+    "headline": "Deadly car bomb attack at Colombia police station",
+    "excerpt": "Deadly car bomb attack at Colombia police station",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-09-01T23:29:31.013128+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss"
+  },
+  {
+    "id": "e74bf185f584",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T20:59",
+    "headline": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+    "excerpt": "Three Palestinian children were among four people killed in Israeli strikes on Gaza.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-09-01T23:29:31.013150+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss"
+  },
+  {
     "id": "9aebeb71e9fa",
     "source": "Al Jazeera",
     "date": "2026-09-01T20:40",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-19T07:06:27.422186+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss"
-  },
-  {
-    "id": "ccdc814e1c13",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T00:00",
-    "headline": "Iran war live: Rubio discusses Hormuz security with UAE official",
-    "excerpt": "Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US &#039;begging&#039; for negotiations.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-08-19T07:06:27.422226+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss"
-  },
-  {
-    "id": "d4883df40c32",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T05:23",
-    "headline": "Lebanon no longer a safe haven for former Syrian regime officials",
-    "excerpt": "Figures connected to the former Syrian regime are still in Lebanon but risk being returned.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-08-19T06:03:53.174384+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss"
-  },
-  {
-    "id": "3b0573440e8c",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T05:12",
-    "headline": "Former US official calls shift in relations with Syria ‘surreal’",
-    "excerpt": "A former US State Department advisor on Syria tells Al Jazeera’s ‘This is America’ the improved relationship",
-    "category": "Naval",
-    "location": "Syria",
-    "addedAt": "2026-08-19T05:34:42.227406+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss"
-  },
-  {
-    "id": "6f8b1e62c32e",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T04:59",
-    "headline": "South Korea, US scale back annual military drills after Trump’s order",
-    "excerpt": "Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-19T05:34:42.227466+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss"
   }
 ]
