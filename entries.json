@@ -1,5 +1,49 @@
 [
   {
+    "id": "39055aa19e28",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T05:27",
+    "headline": "Israeli forces raze West Bank homes as EU weighs ban on settlement goods",
+    "excerpt": "Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-09-01T05:42:08.949127+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss"
+  },
+  {
+    "id": "8d19fd2b7eed",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T05:25",
+    "headline": "Can Europe fill vacuum left in Lebanon as UN peacekeeping force winds up?",
+    "excerpt": "Analysts say Israel could benefit when UNIFIL&#039;s mandate expires on December 31.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-01T05:42:08.949174+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss"
+  },
+  {
+    "id": "a96af4574160",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T04:24",
+    "headline": "Algeria’s president seeks death penalty for those who start forest fires",
+    "excerpt": "Abdelmadjid Tebboune&#039;s call comes after wildfires killed at least 12 people and injured 54 in northeastern Algeria.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-01T05:42:08.949215+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/1/algerias-president-seeks-death-penalty-for-those-who-start-forest-fires?traffic_source=rss"
+  },
+  {
+    "id": "1c8acd0e31e8",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T01:19",
+    "headline": "New York police kill knife-wielding woman in Times Square",
+    "excerpt": "A woman has been shot dead by police in New York’s Times Square. Police say she was armed with knives.",
+    "category": "Casualties",
+    "location": "Oman",
+    "addedAt": "2026-09-01T05:42:08.949250+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss"
+  },
+  {
     "id": "f22dfc33de66",
     "source": "Al Jazeera",
     "date": "2026-09-01T00:00",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-18T13:59:10.297072+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss"
-  },
-  {
-    "id": "70ee7835f227",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T12:47",
-    "headline": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-    "excerpt": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-18T13:09:28.557808+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "e5913e88974b",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T12:41",
-    "headline": "Bashar al-Assad’s cousin Wassim sentenced to death in Syria",
-    "excerpt": "A Syrian court has sentenced Wassim al-Assad, cousin of Bashar al-Assad, to death for murder, torture and war crimes.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-08-18T13:09:28.557863+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss"
-  },
-  {
-    "id": "1c32b76f3d45",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T12:39",
-    "headline": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
-    "excerpt": "Majed al-Ansari says the Iranian planes &#039;violated Qatar’s sovereignty&#039; and were dealt with in accordance with the law.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-18T13:09:28.557902+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss"
-  },
-  {
-    "id": "4931604940aa",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T11:33",
-    "headline": "Why has Trump threatened to bomb Oman – for a second time?",
-    "excerpt": "The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-08-18T12:03:23.997740+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss"
   }
 ]
