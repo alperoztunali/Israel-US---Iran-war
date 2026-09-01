@@ -1,5 +1,104 @@
 [
   {
+    "id": "76dec41b04f6",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T18:22",
+    "headline": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
+    "excerpt": "Water quality in embattled Palestinian enclave already poor; flooding will exacerbate threat to health, says UN agency.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-01T18:33:49.589526+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss"
+  },
+  {
+    "id": "8ac31759e0fd",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T17:39",
+    "headline": "The US military began striking targets in Iran, CENTCOM says",
+    "excerpt": "The US military said it has begun striking targets in Iran.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-09-01T18:33:49.589574+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss"
+  },
+  {
+    "id": "c28db6260c3a",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T16:45",
+    "headline": "Iran promises to respond to new wave of US strikes despite Trump’s threats",
+    "excerpt": "Trump says the US attacks were &#039;large and powerful&#039; and warns that Iran would be hit &#039;much harder&#039; if it retaliates.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-01T18:33:49.589614+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "c258340e7953",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T16:45",
+    "headline": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
+    "excerpt": "After a newly built desalination plant was destroyed, displaced families in northern Gaza struggle to find clean water.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-01T18:33:49.589651+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss"
+  },
+  {
+    "id": "1bdaca819445",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T16:24",
+    "headline": "Germany accuses Russia of drone attack on Leipzig airport",
+    "excerpt": "Findings announced as European countries report an increase in sabotage attacks and attempts that they blame on Russia.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-01T18:33:49.589675+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss"
+  },
+  {
+    "id": "8194c8a70702",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T16:15",
+    "headline": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
+    "excerpt": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-01T18:33:49.589709+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "290b594d6549",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T15:55",
+    "headline": "Iran and Russia vow to stand against US ‘unilateralism’",
+    "excerpt": "Iranian President Pezeshkian thanked Putin for Moscow’s support, vowing to resist US &#039;unilateralism&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-01T18:33:49.589741+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iran-and-russia-vow-to-stand-against-us?traffic_source=rss"
+  },
+  {
+    "id": "7d3f0cfd097d",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T15:45",
+    "headline": "Six days of Russian strikes push Kyiv residents to consider leaving",
+    "excerpt": "Russia has launched strikes almost continuously on Kyiv and surrounding areas for six straight days.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-01T18:33:49.589786+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss"
+  },
+  {
+    "id": "a7ffccdd642b",
+    "source": "Al Jazeera",
+    "date": "2026-09-01T15:36",
+    "headline": "Mansouri rocked by Israeli strikes as residents flee again",
+    "excerpt": "A large explosion shook Mansouri in southern Lebanon on Tuesday amid renewed Israeli airstrikes",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-09-01T18:33:49.589804+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/mansouri-rocked-by-israeli-strikes-as-residents-flee-again?traffic_source=rss"
+  },
+  {
     "id": "2e3fdec6049b",
     "source": "Al Jazeera",
     "date": "2026-09-01T13:32",
@@ -5399,104 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-08-19T01:47:20.778271+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss"
-  },
-  {
-    "id": "33f6f3727b1c",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T23:59",
-    "headline": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
-    "excerpt": "Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-19T01:47:20.778297+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss"
-  },
-  {
-    "id": "62417e364cc4",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T23:45",
-    "headline": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
-    "excerpt": "Lawmakers question whether conditions on the aircraft carrier indicate a &#039;pattern&#039; of poor planning amid the Iran war.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-08-19T01:47:20.778317+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss"
-  },
-  {
-    "id": "d2ffb0ffcf77",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T21:50",
-    "headline": "Bolivia arrests political adviser to Latin American right-wingers",
-    "excerpt": "Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-18T22:34:53.761959+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss"
-  },
-  {
-    "id": "96d61c064a92",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T21:26",
-    "headline": "Why is the US ramping up Tomahawk production?",
-    "excerpt": "Pentagon contracts defence manufacturer to increase output of cruise missiles.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-18T21:59:15.026299+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss"
-  },
-  {
-    "id": "be2d8787a2bf",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T21:25",
-    "headline": "Syria opens Assad-era nuclear programme to UN probe",
-    "excerpt": "UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-08-18T21:59:15.026347+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss"
-  },
-  {
-    "id": "710da61e0803",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T21:03",
-    "headline": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
-    "excerpt": "US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-18T21:39:51.893310+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss"
-  },
-  {
-    "id": "14935ca9e752",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T21:03",
-    "headline": "Israeli strike reported to kill at least six in Gaza City",
-    "excerpt": "The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-08-18T21:39:51.893355+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss"
-  },
-  {
-    "id": "c946cf7968a4",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T20:45",
-    "headline": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-    "excerpt": "Concern over the security of Europe&#039;s largest nuclear plant has been rife since Russia launched its full-scale war.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-18T21:01:36.150529+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss"
-  },
-  {
-    "id": "1c30f96297dc",
-    "source": "Al Jazeera",
-    "date": "2026-08-18T20:26",
-    "headline": "Russian missile strike kills 10 civilians in Kharkiv",
-    "excerpt": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-18T21:01:36.150573+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss"
   }
 ]
