@@ -1,5 +1,104 @@
 [
   {
+    "id": "206366cf0683",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T20:59",
+    "headline": "Two Palestinian killed as settlers, Israeli forces raid West Bank village",
+    "excerpt": "Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-02T21:39:32.937877+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss"
+  },
+  {
+    "id": "0215ec72e158",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T20:48",
+    "headline": "The long-term implications of Pete Hegseth’s US military purges",
+    "excerpt": "Resignation of US Army secretary is latest loss at the top for the military.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-02T21:39:32.937942+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss"
+  },
+  {
+    "id": "c8b9a99409b1",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T20:12",
+    "headline": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+    "excerpt": "Despite renewed fighting with Iran and near daily attacks on ships, Trump says Strait of Hormuz is &#039;under USA control&#039;.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-09-02T21:39:32.937975+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss"
+  },
+  {
+    "id": "d837b3b4bb13",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T20:07",
+    "headline": "Israeli protesters call for an end to settler violence",
+    "excerpt": "Israeli protesters gathered in Jerusalem on Wednesday to condemn violence by Jewish settlers in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-02T21:39:32.938009+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss"
+  },
+  {
+    "id": "c087c31d4548",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T20:04",
+    "headline": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
+    "excerpt": "US President Donald Trump has threatened further attacks on Iran and says the military destroyed a mine-laying rocket.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-09-02T21:39:32.938036+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss"
+  },
+  {
+    "id": "a86abeb2342d",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T19:35",
+    "headline": "Dreams shattered: Gaza amputees struggle under blockade and rubble",
+    "excerpt": "Young amputees in Gaza face harsh realities, awaiting prosthetics and battling mobility hurdles.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-02T21:39:32.938073+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss"
+  },
+  {
+    "id": "d3a062bc57a5",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T19:16",
+    "headline": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
+    "excerpt": "Regional neighbours condemn attack this week that killed two crew members from the Philippines.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-09-02T21:39:32.938098+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "33d27afaa521",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T19:06",
+    "headline": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
+    "excerpt": "EU foreign affairs chief Kaja Kallas warns of more pressure after Germany blames Russia for attempted attack.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-02T21:39:32.938142+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/eu-pursuing-more-russia-sanctions-after-failed-airport-attack-kallas?traffic_source=rss"
+  },
+  {
+    "id": "dfa6d31987ba",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T18:46",
+    "headline": "Will the EU take action against Israel?",
+    "excerpt": "Surge in Israeli settler attacks against Palestinians",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-02T21:39:32.938171+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/9/2/will-the-eu-take-action-against-israel?traffic_source=rss"
+  },
+  {
     "id": "4f2861446b8b",
     "source": "Al Jazeera",
     "date": "2026-09-02T18:31",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-20T07:57:33.203812+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss"
-  },
-  {
-    "id": "4eb4db426623",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T05:43",
-    "headline": "Australian anger as Israel drops World Central Kitchen deaths case",
-    "excerpt": "Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-20T07:07:07.836443+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss"
-  },
-  {
-    "id": "f77c805c3e04",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T02:50",
-    "headline": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
-    "excerpt": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-20T07:07:07.836490+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
-  },
-  {
-    "id": "c1b681fa59d4",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T04:59",
-    "headline": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-    "excerpt": "Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-20T05:35:02.324024+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "031609ed0a1f",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T04:31",
-    "headline": "Trump vows ‘economic warfare’ on countries helping Iran",
-    "excerpt": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-20T05:35:02.324062+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
-  },
-  {
-    "id": "6665e01c6d9d",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T02:50",
-    "headline": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
-    "excerpt": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-20T05:35:02.324082+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
-  },
-  {
-    "id": "eb37b17c6ff8",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T02:50",
-    "headline": "Russian forces kill 3 in Ukraine as Zelenskyy faces pressure over elections",
-    "excerpt": "At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-20T04:47:02.195286+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
-  },
-  {
-    "id": "c36261e8f726",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T02:50",
-    "headline": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
-    "excerpt": "At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-20T03:59:32.560623+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
-  },
-  {
-    "id": "46342a086432",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T01:56",
-    "headline": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-    "excerpt": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-20T03:01:13.741402+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss"
-  },
-  {
-    "id": "ba5421a0a3fa",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T00:34",
-    "headline": "Publisher of US military newspaper resigns over differences with government",
-    "excerpt": "Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&#039;s push for editorial control.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-20T01:46:41.901664+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss"
   }
 ]
