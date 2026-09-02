@@ -1,5 +1,104 @@
 [
   {
+    "id": "63b2317fe38b",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T05:06",
+    "headline": "Syria’s restrained approach to Israel carries risks",
+    "excerpt": "Damascus&#039;s restraint could encourage more Israeli encroachment and lose the trust of the Syrian public.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-02T06:17:36.739020+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss"
+  },
+  {
+    "id": "c6ab7a2a0fa0",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T04:43",
+    "headline": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
+    "excerpt": "Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-02T06:17:36.739069+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss"
+  },
+  {
+    "id": "b78622250047",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T03:27",
+    "headline": "US strikes on Iran kill child at wedding ceremony",
+    "excerpt": "Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-09-02T06:17:36.739092+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss"
+  },
+  {
+    "id": "142b96ca7208",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T02:20",
+    "headline": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
+    "excerpt": "The Republican House speaker defends the US-Israel war on Iran and praises Trump&#039;s &#039;steady hands at the wheel&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-02T06:17:36.739127+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss"
+  },
+  {
+    "id": "a35003e2be92",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T01:40",
+    "headline": "What to know about Germany’s drone attack accusations against Russia",
+    "excerpt": "German intelligence has concluded that an explosive-laden drone was linked to Russia. Officials promise consequences.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-02T06:17:36.739156+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss"
+  },
+  {
+    "id": "4ddc60badfe3",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T01:34",
+    "headline": "Iran says US bombed a wedding party in Sirik, killing five people",
+    "excerpt": "Officials say at least 63 others wounded in attack on city of Kuhestak, including women and children.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-09-02T06:17:36.739175+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss"
+  },
+  {
+    "id": "c8af40f30644",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T01:21",
+    "headline": "IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad",
+    "excerpt": "UN watchdog says Syria &#039;failed to report nuclear material, facilities and activities&#039; under Bashar al-Assad&#039;s rule.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-09-02T06:17:36.739206+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/iaea-says-syria-built-a-nuclear-reactor-in-deir-az-zor-under-al-assad?traffic_source=rss"
+  },
+  {
+    "id": "5e8660f37e73",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T01:06",
+    "headline": "US launches new strikes on Iran, denies its bases hit in Jordan",
+    "excerpt": "The US launched new strikes on Iran&#039;s southern coast with explosions reported in several locations.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-02T06:17:36.739246+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss"
+  },
+  {
+    "id": "db0b75229f6e",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T00:00",
+    "headline": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
+    "excerpt": "Tehran pledges &#039;severe punishment&#039; and retaliation against Washington following a new wave of US attacks.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-09-02T06:17:36.739278+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss"
+  },
+  {
     "id": "212a9b046ab2",
     "source": "Al Jazeera",
     "date": "2026-09-02T00:47",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-19T13:58:41.693476+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence?traffic_source=rss"
-  },
-  {
-    "id": "ac48f64aebb4",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T12:56",
-    "headline": "US war on Iran puts Cambodian children’s education at risk",
-    "excerpt": "US war on Iran puts Cambodian children’s education at risk",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-19T13:58:41.693508+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss"
-  },
-  {
-    "id": "e37a583436c9",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T12:47",
-    "headline": "What’s happening in Lebanon’s ‘pilot zones’?",
-    "excerpt": "Al Jazeera’s Ali Hashem reports on what’s happening in a so-called ‘pilot zone’ in southern Lebanon.",
-    "category": "Statement",
-    "location": "Lebanon",
-    "addedAt": "2026-08-19T13:58:41.693547+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/whats-happening-in-lebanons-pilot?traffic_source=rss"
-  },
-  {
-    "id": "d1baef28eb70",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T12:38",
-    "headline": "Dozens killed after gold mine collapse in Central African Republic",
-    "excerpt": "Rescue operations ongoing after mine collapse kills dozens in the Central African Republic near the Cameroon border.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-19T13:10:15.691130+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/dozens-killed-after-gold-mine-collapse-in-central-african-republic?traffic_source=rss"
-  },
-  {
-    "id": "7eee846122a2",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T12:37",
-    "headline": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
-    "excerpt": "The UAE announced the embargo, accusing Iran of launching missiles into its territory.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-08-19T13:10:15.691169+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss"
-  },
-  {
-    "id": "d81e713de3bd",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T09:34",
-    "headline": "At least six killed in Russian air attacks on Ukraine",
-    "excerpt": "Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-19T13:10:15.691211+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "297a95d44f42",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T11:47",
-    "headline": "In Ukraine, forcible military recruitment efforts escalate into violence",
-    "excerpt": "&#039;Busification&#039;, the term describing being captured on the street, is engulfed by abuse and corruption.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-19T12:02:36.657887+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss"
-  },
-  {
-    "id": "83206d26a1a4",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T11:45",
-    "headline": "Palestinians condemn Israeli step to advance illegal E1 settlement plan",
-    "excerpt": "Israeli government issues tender for more than 1,200 housing units as part of illegal E1 settlement project.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-19T12:02:36.657934+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss"
-  },
-  {
-    "id": "9fb171a9e15e",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T10:24",
-    "headline": "Why White House envoys cannot sway Israel’s war leader",
-    "excerpt": "Any deal in any of Israel’s conflicts would be politically damaging for its prime minister.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-08-19T10:38:25.877335+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss"
-  },
-  {
-    "id": "4c918cac8c6f",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T09:34",
-    "headline": "At least five killed in Russian air attacks on Ukraine",
-    "excerpt": "Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-19T09:59:14.856259+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss"
   }
 ]
