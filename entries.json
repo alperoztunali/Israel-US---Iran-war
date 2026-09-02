@@ -1,5 +1,93 @@
 [
   {
+    "id": "c66752db23f9",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T15:00",
+    "headline": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
+    "excerpt": "Xi Jinping&#039;s historic Egypt visit aims to strengthen China-Egypt ties amid rising Middle East tensions.",
+    "category": "Other",
+    "location": "Egypt",
+    "addedAt": "2026-09-02T15:18:54.409250+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters?traffic_source=rss"
+  },
+  {
+    "id": "8e1cf71ae53a",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T14:55",
+    "headline": "Can Ukraine’s drones shut Russian airspace? What that means for airlines",
+    "excerpt": "What happens if the airspace of the world&#039;s largest country by land mass is out of bounds because of Ukrainian drones?",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-02T15:18:54.409301+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/2/can-ukraines-drones-shut-russian-airspace-what-that-means-for-airlines?traffic_source=rss"
+  },
+  {
+    "id": "1c54ef007915",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T14:45",
+    "headline": "Gaza Civil Defence worker finds 21 relatives beneath rubble",
+    "excerpt": "A Gaza Civil Defence worker helped recover the bodies of 21 of his relatives from beneath the rubble.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-02T15:18:54.409337+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/gaza-civil-defence-worker-finds-21-relatives-beneath-rubble?traffic_source=rss"
+  },
+  {
+    "id": "803555895fc6",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T14:14",
+    "headline": "Palestinians in fear as Israeli forces mount pogroms on West Bank mosques",
+    "excerpt": "Palestinian witnesses recount the coordinated Israeli army and settler attacks on mosques in the occupied West Bank.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-09-02T15:18:54.409368+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss"
+  },
+  {
+    "id": "2651a03954c1",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T13:29",
+    "headline": "In Yemen, dates provide lifeline for farmers with few economic options",
+    "excerpt": "Hindered by poor infrastructure and climate challenges, farmers in Yemen cling to traditional methods to harvest dates.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-02T15:18:54.409409+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/2/in-yemen-dates-provide-lifeline-for-farmers-with-few-economic-options?traffic_source=rss"
+  },
+  {
+    "id": "76810c4c4b8b",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T12:55",
+    "headline": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
+    "excerpt": "Putin accuses Zelenskyy of &#039;terrorism&#039;, while Ukraine warns foreign airlines against using Russian airspace.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-02T15:18:54.409452+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss"
+  },
+  {
+    "id": "754c8ff46e6e",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T12:38",
+    "headline": "What is Iran’s Castle Breaker missile, used against US bases?",
+    "excerpt": "Kheibar Shekan, Iran&#039;s medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-09-02T15:18:54.409480+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss"
+  },
+  {
+    "id": "1da3ed251b23",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T11:43",
+    "headline": "The US is gobbling up Venezuelan oil, but will it lower fuel prices?",
+    "excerpt": "Analysts say Venezuelan crude is hard to extract and refine, and likely can&#039;t replace oil stuck in the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-09-02T15:18:54.409523+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss"
+  },
+  {
     "id": "b912690fe117",
     "source": "Al Jazeera",
     "date": "2026-09-02T10:57",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-19T20:33:32.286131+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss"
-  },
-  {
-    "id": "ef0ef1d292bb",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T18:50",
-    "headline": "Violence in the New Syria?",
-    "excerpt": "The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-08-19T19:29:55.517635+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss"
-  },
-  {
-    "id": "e2a056a5e3d6",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T18:21",
-    "headline": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
-    "excerpt": "Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-19T18:54:17.975743+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss"
-  },
-  {
-    "id": "eb18917da926",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T18:08",
-    "headline": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
-    "excerpt": "Canada official condemns Israel&#039;s &#039;invasion&#039; of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-19T18:54:17.975814+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss"
-  },
-  {
-    "id": "7f9ff8e11d61",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T17:50",
-    "headline": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
-    "excerpt": "NATO says it will &#039;do what is necessary&#039; amid media report Iran considered strikes against US targets in Europe.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-19T18:54:17.975854+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss"
-  },
-  {
-    "id": "cce7eca82ce7",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T17:14",
-    "headline": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
-    "excerpt": "Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-08-19T17:42:17.386265+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss"
-  },
-  {
-    "id": "b31e6bcdae30",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T17:12",
-    "headline": "US pressure on Israel needed for peace in Syria",
-    "excerpt": "With Israeli elections approaching, analysts say Netanyahu needs a new escalation, undermining deconfliction efforts.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-19T17:42:17.386307+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/19/us-pressure-on-israel-needed-for-peace-in-syria?traffic_source=rss"
-  },
-  {
-    "id": "6e3e4147f2c8",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T15:46",
-    "headline": "Seven decades of US regime change efforts: What have they achieved?",
-    "excerpt": "US interventions in Iran and beyond reveal a recurring pattern of regime changes, with high human and financial costs.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-19T16:36:13.664235+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss"
-  },
-  {
-    "id": "9fad922dcce2",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T15:44",
-    "headline": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
-    "excerpt": "The Israeli military has announced a criminal investigation into the killing that shook the world.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-08-19T16:36:13.664289+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
   }
 ]
