@@ -1,5 +1,137 @@
 [
   {
+    "id": "4f2861446b8b",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T18:31",
+    "headline": "Israel kills or injures 7 children a day in Lebanon invasion, report says",
+    "excerpt": "Save the Children data shows toll on children in Lebanon, despite government agreement with Israel to halt fighting.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-02T18:52:50.454899+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/israel-kills-or-injures-7-children-a-day-in-lebanon-invasion-report-says?traffic_source=rss"
+  },
+  {
+    "id": "17ac12ece3f5",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T17:56",
+    "headline": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
+    "excerpt": "EU ministers in Ireland have announced a mission to support Lebanon’s army but remain divided on sanctions on Israel.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-02T18:52:50.454939+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss"
+  },
+  {
+    "id": "23e058a703f8",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T17:43",
+    "headline": "Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say",
+    "excerpt": "Police say no indication anyone ​else involved in attack that killed 22-year-old Italian woman.",
+    "category": "Casualties",
+    "location": "Oman",
+    "addedAt": "2026-09-02T18:52:50.454964+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss"
+  },
+  {
+    "id": "3299e7f4e1ed",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T17:35",
+    "headline": "A year into Trump’s boat strike campaign, families search for answers",
+    "excerpt": "While the Trump administration claims it has killed &#039;narcoterrorists&#039;, families fear fishermen are among the victims.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-02T18:52:50.454989+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/a-year-into-trumps-boat-strike-campaign-families-search-for-answers?traffic_source=rss"
+  },
+  {
+    "id": "97512dd4e06b",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T17:10",
+    "headline": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
+    "excerpt": "Activists say four organisers of flotilla that sought to break Gaza blockade have been held in Tunisia since March.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-02T18:52:50.455011+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss"
+  },
+  {
+    "id": "9a5f8309e345",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T16:52",
+    "headline": "Deadly bus crash in Egypt’s Sinai kills 22, injures 28",
+    "excerpt": "A deadly bus crash in Egypt’s South Sinai killed 22 people and injured 28",
+    "category": "Casualties",
+    "location": "Egypt",
+    "addedAt": "2026-09-02T18:52:50.455032+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/deadly-bus-crash-in-egypts-sinai-kills-22-injures-28?traffic_source=rss"
+  },
+  {
+    "id": "b71bd02c7897",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T16:47",
+    "headline": "Zambia’s Hichilema begins second term amid disputed vote and arrests",
+    "excerpt": "Economic gains face growing scrutiny as political tensions deepen after the vote.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-02T18:52:50.455060+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/zambias-hichilema-begins-second-term-amid-disputed-vote-and-arrests?traffic_source=rss"
+  },
+  {
+    "id": "71e677e9f5a6",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T16:18",
+    "headline": "WHO chief warns Ebola response must ramp up to stem DRC outbreak",
+    "excerpt": "Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-02T18:52:50.455087+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss"
+  },
+  {
+    "id": "b84288d2240b",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T15:53",
+    "headline": "Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules",
+    "excerpt": "Appeals panel says only military tribunals may assess court-martial convictions in blow to former Afghan war prisoner.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-02T18:52:50.455119+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss"
+  },
+  {
+    "id": "91cebbaa1cf5",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T15:45",
+    "headline": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
+    "excerpt": "Israeli Prime Minister Benjamin Netanyahu has said Israel does not plan to withdraw from Gaza",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-09-02T18:52:50.455141+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss"
+  },
+  {
+    "id": "e72548c38897",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T15:42",
+    "headline": "China’s Xi urges new Middle East security framework during rare Egypt visit",
+    "excerpt": "Chinese, Egyptian leaders discuss the US-Israel war on Iran, which has prompted regional powers to rethink defence.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-02T18:52:50.455164+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-urges-new-middle-east-security-framework-during-rare-egypt-visit?traffic_source=rss"
+  },
+  {
+    "id": "666691910478",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T15:21",
+    "headline": "Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team",
+    "excerpt": "Pierre-Emerick Aubameyang cites 2025 Africa Cup of Nations treatment as captain steps away from Gabon duty.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-02T18:52:50.455192+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/9/2/aubameyang-humiliated-as-ex-arsenal-striker-quits-gabon-national-team?traffic_source=rss"
+  },
+  {
     "id": "c66752db23f9",
     "source": "Al Jazeera",
     "date": "2026-09-02T15:00",
@@ -5366,137 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-20T01:46:41.901664+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss"
-  },
-  {
-    "id": "3b04695f46e4",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T00:26",
-    "headline": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
-    "excerpt": "Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-20T01:46:41.901718+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss"
-  },
-  {
-    "id": "3776bbdfb007",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T00:00",
-    "headline": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-    "excerpt": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-08-20T01:46:41.901751+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "8ef5afa5a309",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T23:56",
-    "headline": "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
-    "excerpt": "The grandmother of Hind Rajab, a five-year-old Palestinian girl killed in her family’s car by Israeli forces in Gaza.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-20T01:46:41.901778+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/we-do-not-trust-israeli-judiciary-says-hind-rajabs-grandmother?traffic_source=rss"
-  },
-  {
-    "id": "8828832e0505",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T23:21",
-    "headline": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
-    "excerpt": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-08-19T23:38:50.799753+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss"
-  },
-  {
-    "id": "cdddca964e6b",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T23:18",
-    "headline": "Trump announces ‘most crushing economic operation ever’ against Iran",
-    "excerpt": "US president also says any country that trades with Iran will &#039;face tremendous economic consequences&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-19T23:38:50.799793+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss"
-  },
-  {
-    "id": "d57d60d234e7",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T21:22",
-    "headline": "Israeli strike on Gaza City police headquarters kills women’s police chief",
-    "excerpt": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-19T21:42:22.785466+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
-  },
-  {
-    "id": "764e211f231b",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T21:10",
-    "headline": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
-    "excerpt": "“You can&#039;t do anything. Just stand here and watch.”\nAl Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-19T21:42:22.785518+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss"
-  },
-  {
-    "id": "fe9a9d98b131",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T21:09",
-    "headline": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
-    "excerpt": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-08-19T21:42:22.785554+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "cf24b094b26e",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T21:01",
-    "headline": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
-    "excerpt": "Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-19T21:42:22.785587+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss"
-  },
-  {
-    "id": "2cc469f2bc6d",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T20:18",
-    "headline": "What’s behind Israel’s latest attack on Syria?",
-    "excerpt": "US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-19T21:04:35.059827+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss"
-  },
-  {
-    "id": "9a1345c885f0",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T18:08",
-    "headline": "Canada boosts Lebanon aid to $50m and condemns Israeli ‘unlawful invasion’",
-    "excerpt": "Canada official condemns Israel&#039;s &#039;invasion&#039; of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-19T21:04:35.059891+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss"
-  },
-  {
-    "id": "d4c2646e54b4",
-    "source": "Al Jazeera",
-    "date": "2026-08-19T19:53",
-    "headline": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
-    "excerpt": "Ecuador&#039;s intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-19T20:33:32.286131+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss"
   }
 ]
