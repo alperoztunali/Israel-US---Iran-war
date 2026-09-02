@@ -1,5 +1,49 @@
 [
   {
+    "id": "7aa21bab8db4",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T21:37",
+    "headline": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+    "excerpt": "Senator Thom Tillis accuses Pentagon chief of &#039;inept mismanagement&#039; as US military is strained by war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-02T23:34:21.223253+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss"
+  },
+  {
+    "id": "adca952151c5",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T21:23",
+    "headline": "Israeli PM says Israel is working to overthrow Iran’s government",
+    "excerpt": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-09-02T23:34:21.223305+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss"
+  },
+  {
+    "id": "b6ed1dca583f",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T21:19",
+    "headline": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+    "excerpt": "Israel Katz says &#039;there is no real solution for Gaza&#039; without de-populating the territory.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-02T23:34:21.223362+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss"
+  },
+  {
+    "id": "d02074721321",
+    "source": "Al Jazeera",
+    "date": "2026-09-02T20:59",
+    "headline": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
+    "excerpt": "Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-02T23:34:21.223392+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss"
+  },
+  {
     "id": "206366cf0683",
     "source": "Al Jazeera",
     "date": "2026-09-02T20:59",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-20T08:49:55.429213+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss"
-  },
-  {
-    "id": "f3b69bb4fa06",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T07:50",
-    "headline": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
-    "excerpt": "Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-20T08:49:55.429248+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss"
-  },
-  {
-    "id": "6a156f36d129",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T07:38",
-    "headline": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
-    "excerpt": "Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-20T08:49:55.429279+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss"
-  },
-  {
-    "id": "138748db58eb",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T02:50",
-    "headline": "Russian missile barrage kills at least 12 people in Ukraine’s Kyiv",
-    "excerpt": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-20T08:49:55.429327+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
-  },
-  {
-    "id": "a1cc9d65e5b3",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T07:11",
-    "headline": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
-    "excerpt": "UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-20T07:57:33.203812+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss"
   }
 ]
