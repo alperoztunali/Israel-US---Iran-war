@@ -1,5 +1,27 @@
 [
   {
+    "id": "70455fb47fa3",
+    "source": "Al Jazeera",
+    "date": "2026-09-03T00:52",
+    "headline": "Morocco’s ruling allies turn on each other before election campaign begins",
+    "excerpt": "Political tensions rise as Moroccans prepare for the polls, with the official campaign start still days away.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-03T01:28:39.624049+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss"
+  },
+  {
+    "id": "cec763c2036c",
+    "source": "Al Jazeera",
+    "date": "2026-09-03T00:00",
+    "headline": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+    "excerpt": "Iran&#039;s health ministry spokesman says the death toll from US attacks has risen to 18, including a child.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-03T01:28:39.624099+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss"
+  },
+  {
     "id": "7aa21bab8db4",
     "source": "Al Jazeera",
     "date": "2026-09-02T21:37",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-20T08:49:55.429133+00:00",
     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss"
-  },
-  {
-    "id": "b0dc50df757e",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T08:18",
-    "headline": "Video shows Russian missile strike on Ukrainian capital",
-    "excerpt": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-20T08:49:55.429177+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss"
-  },
-  {
-    "id": "65c7ee25ad88",
-    "source": "Al Jazeera",
-    "date": "2026-08-20T08:16",
-    "headline": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
-    "excerpt": "Far-right Israeli minister Itamar Ben-Gvir has praised the destruction of 10,000 Palestinian homes in Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-20T08:49:55.429213+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss"
   }
 ]
