@@ -1,5 +1,115 @@
 [
   {
+    "id": "0b6098203a90",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T17:29",
+    "headline": "Yemen’s army says recaptured key territory as clashes with Houthis continue",
+    "excerpt": "Two days of fighting between government forces and Houthi fighters has left dozens dead on both sides, sources say.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-09-04T18:26:08.857236+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss"
+  },
+  {
+    "id": "61f4dd50919e",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T16:20",
+    "headline": "October 7 attack shapes Israel’s elections and fuels political blame",
+    "excerpt": "Three years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-04T18:26:08.857291+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss"
+  },
+  {
+    "id": "7090dd118700",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T16:13",
+    "headline": "‘Winds of change’: How Milei is stirring Falklands claim amid Trump-UK spat",
+    "excerpt": "Analysts say Argentina&#039;s president sees an opportunity to exploit Trump’s growing tensions with London.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-04T18:26:08.857336+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
+  },
+  {
+    "id": "1a109480fe02",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T16:03",
+    "headline": "Russian drone strikes Ukraine’s security service headquarters",
+    "excerpt": "A Russian drone has struck Ukraine’s domestic intelligence headquarters in central Kyiv, injuring five people.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-04T18:26:08.857366+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-russia-targets-ukraine-security-hq-clip-mp4?traffic_source=rss"
+  },
+  {
+    "id": "cd4f16899e49",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T15:44",
+    "headline": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
+    "excerpt": "As Ukrainian civilians suffer from air attacks, Russian ground forces struggle to advance.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-09-04T18:26:08.857392+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss"
+  },
+  {
+    "id": "42923da65fcc",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T15:31",
+    "headline": "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
+    "excerpt": "More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-04T18:26:08.857431+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss"
+  },
+  {
+    "id": "d6674a62c7fc",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T15:28",
+    "headline": "Diesel price hits all-time high in US amid Iran war woes",
+    "excerpt": "Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-04T18:26:08.857460+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss"
+  },
+  {
+    "id": "bdcaa89254a2",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T15:24",
+    "headline": "US rejects Israeli suggestions of removing Palestinians from Gaza",
+    "excerpt": "US State Department tells Al Jazeera that Washington &#039;does not support any plan&#039; for expulsion of Palestinians.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-04T18:26:08.857501+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss"
+  },
+  {
+    "id": "d58ea1b38ce0",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T15:16",
+    "headline": "Israel releases five detainees to Lebanon after US-mediated negotiations",
+    "excerpt": "Israel has released five people to Lebanon after US-mediated negotiations. Dozens of Lebanese remain detained by Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-04T18:26:08.857532+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss"
+  },
+  {
+    "id": "15a254bdb551",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T14:50",
+    "headline": "Israel frees four more Lebanese prisoners in Red Cross-mediated handover",
+    "excerpt": "Lebanese President Joseph Aoun praises the release and thanks US President Donald Trump for his efforts.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-04T18:26:08.857561+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover?traffic_source=rss"
+  },
+  {
     "id": "1c49b3412e74",
     "source": "Al Jazeera",
     "date": "2026-09-04T13:35",
@@ -5388,115 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-21T19:31:11.007959+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss"
-  },
-  {
-    "id": "ae3bdb75e678",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T18:55",
-    "headline": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
-    "excerpt": "A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.",
-    "category": "Casualties",
-    "location": "Syria",
-    "addedAt": "2026-08-21T19:31:11.007977+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss"
-  },
-  {
-    "id": "c0eac9287f45",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T18:40",
-    "headline": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
-    "excerpt": "A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring over 100",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-21T19:31:11.007992+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss"
-  },
-  {
-    "id": "3695bfae21a1",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T18:40",
-    "headline": "Drone strike on Ukraine shopping centre kills six, injures 103",
-    "excerpt": "A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing six people and injuring 103",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-21T18:57:17.361075+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss"
-  },
-  {
-    "id": "a586cada97d7",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T18:17",
-    "headline": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
-    "excerpt": "Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 120.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-21T18:57:17.361118+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "59c5c9dfe33e",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T17:29",
-    "headline": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
-    "excerpt": "Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-08-21T18:03:58.729835+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss"
-  },
-  {
-    "id": "3e5fb7f73813",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T17:17",
-    "headline": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
-    "excerpt": "Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-21T18:03:58.729874+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss"
-  },
-  {
-    "id": "a857d497aaf5",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T13:48",
-    "headline": "Three people injured in sword attack at school in Sweden",
-    "excerpt": "One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-21T18:03:58.729922+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss"
-  },
-  {
-    "id": "a9c009f82c4c",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T16:58",
-    "headline": "Migrants clash with French police as they attempt to cross the Channel",
-    "excerpt": "French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-21T17:33:18.454636+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss"
-  },
-  {
-    "id": "34a0fe22caf0",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T16:38",
-    "headline": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
-    "excerpt": "Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-08-21T17:33:18.454695+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss"
-  },
-  {
-    "id": "0bd200fc4179",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T16:00",
-    "headline": "Israeli settlers set fire to heavy machinery at West Bank quarry",
-    "excerpt": "Israeli settlers entered a stone quarry in Wadi Al-Rakheem near Hebron overnight and set fire to heavy machinery",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-21T16:52:41.006317+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss"
   }
 ]
