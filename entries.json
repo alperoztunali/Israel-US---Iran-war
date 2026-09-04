@@ -1,5 +1,27 @@
 [
   {
+    "id": "50417e9752b1",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T00:00",
+    "headline": "Iran war live: US rules out Iran talks until ship attacks stop",
+    "excerpt": "Iran&#039;s First Vice President Mohammad Reza Aref vows “asymmetrical” and “multi-layered” response to US attacks.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-09-04T01:16:32.367593+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss"
+  },
+  {
+    "id": "363b35ed4ad2",
+    "source": "Al Jazeera",
+    "date": "2026-09-03T23:36",
+    "headline": "Are Trump’s AI videos just memes or psychological warfare?",
+    "excerpt": "Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-04T01:16:32.367663+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss"
+  },
+  {
     "id": "0e2ca2a7ca0e",
     "source": "Al Jazeera",
     "date": "2026-09-03T23:05",
@@ -5476,27 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-08-21T09:41:25.675543+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss"
-  },
-  {
-    "id": "68f785bfec6b",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T07:58",
-    "headline": "Israeli settlers set fire to Palestinian home while family asleep",
-    "excerpt": "Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-21T08:51:53.687261+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss"
-  },
-  {
-    "id": "a7c9513af902",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T07:56",
-    "headline": "Europe, Canada condemn Israeli plans for new West Bank settlement",
-    "excerpt": "The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-21T08:51:53.687302+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
   }
 ]
