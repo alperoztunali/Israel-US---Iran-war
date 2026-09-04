@@ -1,5 +1,60 @@
 [
   {
+    "id": "97d8922226b2",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T20:22",
+    "headline": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
+    "excerpt": "US President Donald Trump called the Iran war small potatoes, saying only 18 Americans had been killed.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-09-04T20:57:56.368959+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss"
+  },
+  {
+    "id": "6dc883df0cb7",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T20:04",
+    "headline": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
+    "excerpt": "Several explosions rocked the southern Lebanese town of Mansouri after Israeli military drones dropped explosives in the",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-09-04T20:57:56.368993+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss"
+  },
+  {
+    "id": "6cecd71d5970",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T19:48",
+    "headline": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
+    "excerpt": "Israeli attacks against villages and towns in southern Lebanon continue despite truce agreements and diplomacy.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-04T20:57:56.369026+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss"
+  },
+  {
+    "id": "003f178cab45",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T19:44",
+    "headline": "Andrew Tate indicted in Romania for trafficking minors, money laundering",
+    "excerpt": "The influencer and his brother are in a Miami prison pending potential extradition to the UK on rape charges",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-09-04T20:57:56.369063+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss"
+  },
+  {
+    "id": "900414e5e40c",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T18:32",
+    "headline": "Villagers vow to rebuild despite devastating mass demolition in West Bank",
+    "excerpt": "Israeli forces&#039; demolition of 12 homes in Khirbet al-Tabban leaves villagers determined to stand firm on their land.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-09-04T20:57:56.369089+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss"
+  },
+  {
     "id": "0b6098203a90",
     "source": "Al Jazeera",
     "date": "2026-09-04T17:29",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-21T21:40:52.731457+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss"
-  },
-  {
-    "id": "888daab6ba82",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T20:16",
-    "headline": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
-    "excerpt": "Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering&#039;.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-21T20:34:22.875738+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss"
-  },
-  {
-    "id": "4b69187a3438",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T20:03",
-    "headline": "Western allies slam Israel for ending World Central Kitchen strike probe",
-    "excerpt": "UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy &#039;shameful&#039;.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-21T20:34:22.875782+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss"
-  },
-  {
-    "id": "7f83a60c465b",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T18:17",
-    "headline": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
-    "excerpt": "Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 130.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-21T20:34:22.875834+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "aff144da2979",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T19:14",
-    "headline": "Palestinian victims of Israeli settler attacks face battle for justice",
-    "excerpt": "Palestinians with missing relatives are marking International Day of Remembrance and Tribute to Victims of Terrorism.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-21T19:31:11.007925+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss"
-  },
-  {
-    "id": "6f7051dd99ab",
-    "source": "Al Jazeera",
-    "date": "2026-08-21T19:08",
-    "headline": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
-    "excerpt": "Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel&#039;s attacks on Global Sumud Flotilla activists.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-21T19:31:11.007959+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss"
   }
 ]
