@@ -1,5 +1,82 @@
 [
   {
+    "id": "ac302c10abb4",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T20:03",
+    "headline": "Colombian government reports three killed in rebel attack on military post",
+    "excerpt": "Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-05T20:23:47.408150+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss"
+  },
+  {
+    "id": "2bfcc0a5e9a7",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T20:00",
+    "headline": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
+    "excerpt": "Al Jazeera reporter challenged US Ambassador to Israel Mike Huckabee after he called violent Israeli settlers a minority",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-09-05T20:23:47.408226+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss"
+  },
+  {
+    "id": "6902d80442ff",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T19:45",
+    "headline": "France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’",
+    "excerpt": "Niger&#039;s government has widened its blame to unnamed neighbours a week after the assault on a military base.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-05T20:23:47.408280+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss"
+  },
+  {
+    "id": "f5ae01fdadec",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T19:37",
+    "headline": "Jerusalem Daily: raids, settlers & sieges",
+    "excerpt": "Mike Huckabee visits as settlers attack Palestinians, Israeli forces carry out raids and arrests.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-09-05T20:23:47.408306+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss"
+  },
+  {
+    "id": "9bce824c6d64",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T19:13",
+    "headline": "Woman beaten to death as bystanders watch in India’s Gujarat",
+    "excerpt": "A woman was beaten to death at a crowded bus station in India, with CCTV showing bystanders watching.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-09-05T20:23:47.408345+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss"
+  },
+  {
+    "id": "36ffcb3795c9",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T18:44",
+    "headline": "Two pilots killed after Greek fighter jet crashes during an air show",
+    "excerpt": "Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-09-05T20:23:47.408373+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss"
+  },
+  {
+    "id": "f442ef636c18",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T18:12",
+    "headline": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
+    "excerpt": "Both Russia and Ukraine vow not to strike each other&#039;s capitals for three days during talks in Moscow and Kyiv.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-05T20:23:47.408412+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss"
+  },
+  {
     "id": "b8198e60190e",
     "source": "Al Jazeera",
     "date": "2026-09-05T16:17",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-23T11:02:27.299767+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/23/israeli-politicians-focus-on-foreign-threats-ignoring-spiralling-debt?traffic_source=rss"
-  },
-  {
-    "id": "5863342549f5",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T09:43",
-    "headline": "Israeli air strike near Gaza refugee camp kills one person and injures two",
-    "excerpt": "Israeli air attack near Gaza&#039;s Maghazi camp kills one person and injures two others.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-08-23T10:42:48.449615+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss"
-  },
-  {
-    "id": "e8cffd4d4867",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T09:21",
-    "headline": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
-    "excerpt": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-23T10:01:16.377837+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss"
-  },
-  {
-    "id": "cccbbbd13522",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T08:38",
-    "headline": "Israeli wounded in occupied West Bank stabbing",
-    "excerpt": "Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-23T08:49:38.642811+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss"
-  },
-  {
-    "id": "86dba52c1238",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T08:07",
-    "headline": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
-    "excerpt": "Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-23T08:49:38.642872+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss"
-  },
-  {
-    "id": "220663166775",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T08:03",
-    "headline": "DR Congo, M23 rebels agree on roadmap for peace talks",
-    "excerpt": "Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-23T08:49:38.642906+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss"
-  },
-  {
-    "id": "79e8c7f2844d",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T05:10",
-    "headline": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
-    "excerpt": "Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-23T05:48:57.629304+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss"
-  },
-  {
-    "id": "27ded077a3b0",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T23:26",
-    "headline": "Iran warns of retaliation against countries joining US ‘economic war’",
-    "excerpt": "Warning comes after Trump said he will impose &#039;most crushing&#039; sanctions to isolate Iran and weaken its government.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-23T05:13:58.805729+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss"
   }
 ]
