@@ -1,5 +1,71 @@
 [
   {
+    "id": "e8a01d97d315",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T15:33",
+    "headline": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
+    "excerpt": "Rescues fuel hope more could be found alive as Nepal&#039;s flood death toll passes 1,331, with people missing on both sides.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-09-05T15:56:34.673736+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss"
+  },
+  {
+    "id": "6749b215f9bf",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T14:49",
+    "headline": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
+    "excerpt": "US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-09-05T15:56:34.673803+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss"
+  },
+  {
+    "id": "d25e4950e94d",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T14:40",
+    "headline": "Relatives hold cremations without bodies for Nepal’s missing flood victims",
+    "excerpt": "Fewer than one in 10 recovered bodies of people killed in deadly floods has been formally identified.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-05T15:56:34.673878+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/5/relatives-hold-cremations-without-bodies-for-nepals-missing-flood-victims?traffic_source=rss"
+  },
+  {
+    "id": "70c95c2005c9",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T13:07",
+    "headline": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+    "excerpt": "Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-05T15:56:34.673914+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss"
+  },
+  {
+    "id": "29e89a04eaf2",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T12:54",
+    "headline": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
+    "excerpt": "The attack on a crowded road comes amid fierce clashes across Taiz and Hodeidah and rapid civilian displacement.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-09-05T15:56:34.673942+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss"
+  },
+  {
+    "id": "a0f0e8cb142f",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T12:43",
+    "headline": "Yemen government launches own air attacks on Houthis: What that means",
+    "excerpt": "A major Houthi offensive towards Bab al-Mandeb has triggered some of Yemen’s worst fighting in years.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-05T15:56:34.673982+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/5/yemen-government-launches-own-air-attacks-on-houthis-what-that-means?traffic_source=rss"
+  },
+  {
     "id": "40ce3ee1fe65",
     "source": "Al Jazeera",
     "date": "2026-09-05T12:04",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-22T21:37:12.426804+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "1758cbfae86a",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T20:05",
-    "headline": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
-    "excerpt": "Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-08-22T20:33:06.264141+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "cc235a5a4600",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T19:40",
-    "headline": "Why is Israel building new illegal settlements?",
-    "excerpt": "Israel opens construction bids for new illegal housing units in the occupied West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-22T19:57:56.506259+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss"
-  },
-  {
-    "id": "a7cf72d7b39f",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T19:24",
-    "headline": "Israeli strikes kill two and injure others as Gaza attacks continue",
-    "excerpt": "Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-08-22T19:37:21.405951+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss"
-  },
-  {
-    "id": "4f5eedae8f86",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T19:18",
-    "headline": "Envoy says Israel did not give the US notice before strikes on Syrian base",
-    "excerpt": "US official Tom Barrack has criticised Israel for failing to give his country adequate warning, a claim Tel Aviv denies.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-08-22T19:37:21.406004+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss"
-  },
-  {
-    "id": "7ca2f99bb577",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T18:35",
-    "headline": "Israel, Turkiye and the new regional reordering",
-    "excerpt": "In Syria, Israel is not only at odds with Turkiye but also with the regional and international consensus.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-22T19:08:57.730961+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss"
-  },
-  {
-    "id": "7cf42471834e",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T18:29",
-    "headline": "Swedish police identify 17-year-old girl as victim in school sword attack",
-    "excerpt": "Brinell School&#039;s principal says 18-year-old suspected of carrying out Friday&#039;s deadly sword attack was a student there.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-22T19:08:57.731008+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss"
   }
 ]
