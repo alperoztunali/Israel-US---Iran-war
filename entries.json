@@ -1,5 +1,49 @@
 [
   {
+    "id": "b8198e60190e",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T16:17",
+    "headline": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+    "excerpt": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-05T18:07:25.107613+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss"
+  },
+  {
+    "id": "acd31ef3f39d",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T16:04",
+    "headline": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
+    "excerpt": "Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-05T18:07:25.107665+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss"
+  },
+  {
+    "id": "9be80a67d337",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T15:49",
+    "headline": "US says it hit three Iranian oil tankers after attacks on warships",
+    "excerpt": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-09-05T18:07:25.107695+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss"
+  },
+  {
+    "id": "a7a9fc9f0801",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T15:37",
+    "headline": "Israeli campaign of West Bank destruction moves on to region’s food basket",
+    "excerpt": "Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-05T18:07:25.107734+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss"
+  },
+  {
     "id": "e8a01d97d315",
     "source": "Al Jazeera",
     "date": "2026-09-05T15:33",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-23T05:13:58.805729+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss"
-  },
-  {
-    "id": "a73b2ce83d23",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T00:00",
-    "headline": "Iran war live: Tehran warns neighbours against joining US economic war",
-    "excerpt": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-08-23T01:42:49.599847+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss"
-  },
-  {
-    "id": "d0323026ffb0",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T23:56",
-    "headline": "Iran threatens countries that join US ‘economic D-Day’",
-    "excerpt": "Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-23T01:42:49.599899+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss"
-  },
-  {
-    "id": "0cbcc066a3c9",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T23:26",
-    "headline": "Iran warns nearby nations against joining US ‘economic war’ efforts",
-    "excerpt": "The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-22T23:51:42.269737+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss"
-  },
-  {
-    "id": "1cd9a46af9fc",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T21:02",
-    "headline": "Israeli army and settlers injure several Palestinians across West Bank",
-    "excerpt": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-22T21:37:12.426804+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss"
   }
 ]
