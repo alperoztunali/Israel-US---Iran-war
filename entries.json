@@ -1,5 +1,27 @@
 [
   {
+    "id": "f1f099d0e454",
+    "source": "Al Jazeera",
+    "date": "2026-09-05T00:00",
+    "headline": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+    "excerpt": "US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-05T00:50:28.100728+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss"
+  },
+  {
+    "id": "9f32e9de6fc8",
+    "source": "Al Jazeera",
+    "date": "2026-09-04T23:55",
+    "headline": "‘Small potatoes’: US President Trump downplays war on Iran",
+    "excerpt": "Trump tells reporters the US is &#039;not fighting right now&#039; despite a recent exchange of fire with Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-05T00:50:28.100776+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss"
+  },
+  {
     "id": "3a499354c244",
     "source": "Al Jazeera",
     "date": "2026-09-04T21:58",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-22T01:51:22.919993+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss"
-  },
-  {
-    "id": "e9d5b22f61c0",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T00:06",
-    "headline": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-    "excerpt": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-22T01:51:22.920028+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss"
-  },
-  {
-    "id": "26fc8848ae68",
-    "source": "Al Jazeera",
-    "date": "2026-08-22T00:00",
-    "headline": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
-    "excerpt": "US president says Iran &#039;would love to make a deal, but they’re not ready to make the right deal in my opinion&#039;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-22T01:51:22.920062+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss"
   }
 ]
