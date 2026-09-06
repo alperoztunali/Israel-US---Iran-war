@@ -1,5 +1,38 @@
 [
   {
+    "id": "653e5ca75d4b",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T21:08",
+    "headline": "At least 10 killed in central Mexico fireworks blast during festival",
+    "excerpt": "Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-06T21:45:09.945482+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss"
+  },
+  {
+    "id": "1ec7e9dfd1bf",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T20:20",
+    "headline": "Will Israelis re-elect Benjamin Netanyahu?",
+    "excerpt": "Recent opinion polls suggest opposition bloc is ahead of PM&#039;s coalition.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-06T21:45:09.945528+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss"
+  },
+  {
+    "id": "0246bb5a01cc",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T20:05",
+    "headline": "At least five killed in New Delhi building collapse",
+    "excerpt": "At least five people have been killed and nine rescued after a building housing mostly students collapsed in New Delhi.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-06T21:45:09.945565+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss"
+  },
+  {
     "id": "e4b6829a44b3",
     "source": "Al Jazeera",
     "date": "2026-09-06T18:56",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-24T08:27:58.716122+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss"
-  },
-  {
-    "id": "16a5e93aeb23",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T06:30",
-    "headline": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
-    "excerpt": "Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-08-24T08:27:58.716167+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss"
-  },
-  {
-    "id": "5ba13083d829",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T07:08",
-    "headline": "The right to health in Gaza is now a privilege",
-    "excerpt": "The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-24T07:38:42.720790+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss"
-  },
-  {
-    "id": "d2d11f592570",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T06:55",
-    "headline": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
-    "excerpt": "&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-24T07:38:42.720836+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss"
   }
 ]
