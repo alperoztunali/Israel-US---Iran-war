@@ -1,5 +1,49 @@
 [
   {
+    "id": "fbe987be4472",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T17:03",
+    "headline": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
+    "excerpt": "West Bank farmers defy daily settler attacks, sheep theft, and military restrictions to protect their land.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-06T17:44:00.339276+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss"
+  },
+  {
+    "id": "5b0df411ffbf",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T16:59",
+    "headline": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
+    "excerpt": "US Energy Secretary Chris Wright&#039;s comments could signal that US hopes for a nuclear deal are dimming.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-06T17:44:00.339326+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss"
+  },
+  {
+    "id": "beb4e5055463",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T16:17",
+    "headline": "Iran touts military response as US maintains blockade, hits tankers",
+    "excerpt": "Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-09-06T17:44:00.339358+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss"
+  },
+  {
+    "id": "d43eee234ce7",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T15:42",
+    "headline": "Niger military accuses France of orchestrating failed mutiny: What to know",
+    "excerpt": "French officials deny involvement, but tensions between the two countries remain high.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-06T17:44:00.339395+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss"
+  },
+  {
     "id": "0e9c45dc70d4",
     "source": "Al Jazeera",
     "date": "2026-09-06T15:19",
@@ -5454,49 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-08-24T07:38:42.720869+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss"
-  },
-  {
-    "id": "baa58d057542",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T04:02",
-    "headline": "‘We know this movie’: Iran mocks latest US sanctions",
-    "excerpt": "Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the &#039;same movie on repeat&#039;.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-24T04:54:51.684094+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "313df15e2ffe",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T03:56",
-    "headline": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
-    "excerpt": "Syria&#039;s foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-08-24T04:54:51.684139+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss"
-  },
-  {
-    "id": "9334459e043d",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T00:00",
-    "headline": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
-    "excerpt": "US Treasury Secretary Scott Bessent says Washington aims to &#039;sever every economic lifeline&#039; that sustains Iran.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-08-24T03:57:46.803184+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss"
-  },
-  {
-    "id": "aebf12d81023",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T00:00",
-    "headline": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
-    "excerpt": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran&#039;s services.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-08-24T01:40:39.200058+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss"
   }
 ]
