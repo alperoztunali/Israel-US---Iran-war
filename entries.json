@@ -1,5 +1,16 @@
 [
   {
+    "id": "e81f62608ffe",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T21:11",
+    "headline": "At least five killed after Amazon cargo plane crash in Miami airport",
+    "excerpt": "Five people are injured, and the cause of the crash is being investigated, authorities say.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-06T23:16:35.680182+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss"
+  },
+  {
     "id": "653e5ca75d4b",
     "source": "Al Jazeera",
     "date": "2026-09-06T21:08",
@@ -5486,17 +5497,6 @@
     "category": "Other",
     "location": "Iran",
     "addedAt": "2026-08-24T09:26:10.886188+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss"
-  },
-  {
-    "id": "ed8f0c13e34e",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T07:26",
-    "headline": "How much more are you spending on petrol since the war in Iran began?",
-    "excerpt": "At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-24T08:27:58.716122+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss"
   }
 ]
