@@ -1,5 +1,60 @@
 [
   {
+    "id": "a0c2316578f2",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T06:52",
+    "headline": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+    "excerpt": "Al Jazeera finds 17 settlement-linked companies hold 2.1 billion pounds in UK public contracts.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-06T08:41:02.246798+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss"
+  },
+  {
+    "id": "fe3ec6ce253a",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T05:02",
+    "headline": "Yemeni forces claim strategic district amid intensified Houthi clashes",
+    "excerpt": "More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-09-06T08:41:02.246838+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss"
+  },
+  {
+    "id": "9d11d1d36dd0",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T04:59",
+    "headline": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
+    "excerpt": "Israeli PM Benjamin Netanyahu has dismissed accusations about his government’s alleged ties to Qatar as ‘one big bluff’",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-06T08:41:02.246879+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss"
+  },
+  {
+    "id": "291480dafb02",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T04:47",
+    "headline": "More than 20 killed in fire at wedding party in DR Congo",
+    "excerpt": "Authorities have launched an investigation into a fire that killed 22 people at a wedding party in Kinshasa, DR Congo.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-06T08:41:02.246906+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/more-than-20-killed-in-fire-at-wedding-party-in-dr-congo?traffic_source=rss"
+  },
+  {
+    "id": "1ba8206cd5ab",
+    "source": "Al Jazeera",
+    "date": "2026-09-06T00:00",
+    "headline": "Iran war live: IRGC, US trade fire, attack oil tankers in Hormuz",
+    "excerpt": "IRGC launches new strikes after firing missiles at US warships as standoff in Strait of Hormuz intensifies.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-09-06T08:41:02.246936+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss"
+  },
+  {
     "id": "06519d669470",
     "source": "Al Jazeera",
     "date": "2026-09-06T02:56",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-23T16:36:23.754183+00:00",
     "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "0db88d0e7783",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T15:38",
-    "headline": "Iran government signals fuel price hike on eve of new US sanctions",
-    "excerpt": "Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-23T15:59:19.795376+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "dfa58c1e26be",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T15:25",
-    "headline": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-    "excerpt": "Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-23T15:59:19.795431+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
-  },
-  {
-    "id": "58a4ced3dd00",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T13:20",
-    "headline": "Heavy Israeli air strike hits warehouse in central Gaza",
-    "excerpt": "Heavy Israeli air strike hits warehouse in central Gaza",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-08-23T14:01:11.353077+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss"
-  },
-  {
-    "id": "8e4fb6af24b9",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T13:08",
-    "headline": "Dozens of attacks in southern Thailand wound three people",
-    "excerpt": "Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-23T13:38:20.997918+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss"
-  },
-  {
-    "id": "370d06f5904e",
-    "source": "Al Jazeera",
-    "date": "2026-08-23T08:38",
-    "headline": "Israeli forces kill Palestinian boy in occupied West Bank raid",
-    "excerpt": "Islam Ahmad Ajjouri was shot in the chest as Israeli forces raided the Askar refugee camp, east of Nablus.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-23T12:56:46.205484+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss"
   }
 ]
