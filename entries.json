@@ -1,5 +1,27 @@
 [
   {
+    "id": "e1b4a569772b",
+    "source": "Al Jazeera",
+    "date": "2026-09-07T00:20",
+    "headline": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+    "excerpt": "Leader Kim Jong Un says vessel will form part of Pyongyang&#039;s nuclear response system, strengthen naval forces.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-09-07T01:14:43.702834+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss"
+  },
+  {
+    "id": "f96ba57d3f38",
+    "source": "Al Jazeera",
+    "date": "2026-09-07T00:00",
+    "headline": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+    "excerpt": "Move comes as Iran&#039;s top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-09-07T01:14:43.702865+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss"
+  },
+  {
     "id": "e81f62608ffe",
     "source": "Al Jazeera",
     "date": "2026-09-06T21:11",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-24T09:26:10.886100+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss"
-  },
-  {
-    "id": "4bf47c65aa9a",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T08:18",
-    "headline": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
-    "excerpt": "The religious figure faced various charges, including inciting violence and providing legitimacy to the al-Assad regime.",
-    "category": "Airstrike",
-    "location": "Syria",
-    "addedAt": "2026-08-24T09:26:10.886130+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss"
-  },
-  {
-    "id": "3257edfec383",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T07:26",
-    "headline": "How much more are you spending on petrol since the war on Iran began?",
-    "excerpt": "At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-24T09:26:10.886188+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss"
   }
 ]
