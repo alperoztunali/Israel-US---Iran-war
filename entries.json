@@ -1,5 +1,16 @@
 [
   {
+    "id": "883408c51bc5",
+    "source": "Al Jazeera",
+    "date": "2026-09-07T21:17",
+    "headline": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+    "excerpt": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-07T23:42:25.485246+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
     "id": "f29f7d7e0f49",
     "source": "Al Jazeera",
     "date": "2026-09-07T21:00",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-24T21:45:34.481250+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss"
-  },
-  {
-    "id": "b50356b2f89a",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T21:12",
-    "headline": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-    "excerpt": "Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-24T21:45:34.481295+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
   }
 ]
