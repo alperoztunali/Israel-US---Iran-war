@@ -1,5 +1,71 @@
 [
   {
+    "id": "e8f22623ad56",
+    "source": "Al Jazeera",
+    "date": "2026-09-08T21:24",
+    "headline": "US warns Ford over ties with Chinese firms amid tensions",
+    "excerpt": "US officials criticise Ford’s partnerships with Chinese firms CATL, Geely, and BYD over security risks.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-09-08T21:43:16.650583+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss"
+  },
+  {
+    "id": "86ede834240f",
+    "source": "Al Jazeera",
+    "date": "2026-09-08T21:06",
+    "headline": "US forces sink vessel ‘linked to Ecuador criminal gang’",
+    "excerpt": "The US military says it intercepted and sank a floating refueling station in the eastern Pacific.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-08T21:43:16.650633+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss"
+  },
+  {
+    "id": "2257092e245f",
+    "source": "Al Jazeera",
+    "date": "2026-09-08T20:43",
+    "headline": "Police bodycam captures Russian missile strike on Kyiv",
+    "excerpt": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine’s capital Kiev",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-08T21:43:16.650668+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss"
+  },
+  {
+    "id": "6f380460c8d4",
+    "source": "Al Jazeera",
+    "date": "2026-09-08T20:20",
+    "headline": "Mamdani says 9/11 illnesses killed more than attacks did",
+    "excerpt": "Mamdani says 9/11 illnesses killed more than attacks did",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-08T21:43:16.650697+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/mamdani-says-9-11-illnesses-killed-more-than-attacks?traffic_source=rss"
+  },
+  {
+    "id": "b5489944b5ac",
+    "source": "Al Jazeera",
+    "date": "2026-09-08T20:13",
+    "headline": "What’s happening in the Yemen war?",
+    "excerpt": "Fighting between government forces and Iran-backed Houthis is raising fears Yemen could return to full-scale war.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-09-08T21:43:16.650729+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-hosted-yemen-explainer?traffic_source=rss"
+  },
+  {
+    "id": "eba53d1dd69b",
+    "source": "Al Jazeera",
+    "date": "2026-09-08T18:44",
+    "headline": "China and Qatar are strengthening bilateral ties: What that really means",
+    "excerpt": "Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-08T21:43:16.650768+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss"
+  },
+  {
     "id": "171461094cff",
     "source": "Al Jazeera",
     "date": "2026-09-08T18:18",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-25T19:46:37.615275+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss"
-  },
-  {
-    "id": "ddcb508cd00d",
-    "source": "Al Jazeera",
-    "date": "2026-08-25T18:01",
-    "headline": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
-    "excerpt": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-08-25T19:46:37.615313+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss"
-  },
-  {
-    "id": "79bceef986ac",
-    "source": "Al Jazeera",
-    "date": "2026-08-25T18:43",
-    "headline": "Syria’s economy poised for improvement after US sanctions removal",
-    "excerpt": "Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.",
-    "category": "Diplomatic",
-    "location": "Syria",
-    "addedAt": "2026-08-25T19:02:07.459539+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss"
-  },
-  {
-    "id": "43daa2bc269e",
-    "source": "Al Jazeera",
-    "date": "2026-08-25T18:13",
-    "headline": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
-    "excerpt": "Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.",
-    "category": "Diplomatic",
-    "location": "Syria",
-    "addedAt": "2026-08-25T19:02:07.459589+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss"
-  },
-  {
-    "id": "3246603268a1",
-    "source": "Al Jazeera",
-    "date": "2026-08-25T18:01",
-    "headline": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
-    "excerpt": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-08-25T18:13:53.294073+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss"
-  },
-  {
-    "id": "5c689c6f5c00",
-    "source": "Al Jazeera",
-    "date": "2026-08-25T17:27",
-    "headline": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
-    "excerpt": "Survey indicates majority of Democrats in first six states to vote for 2028 nominee believe Israel committing genocide.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-25T18:13:53.294124+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss"
-  },
-  {
-    "id": "661b71591cc0",
-    "source": "Al Jazeera",
-    "date": "2026-08-25T16:39",
-    "headline": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
-    "excerpt": "As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-08-25T18:13:53.294152+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss"
   }
 ]
