@@ -1,5 +1,27 @@
 [
   {
+    "id": "47166e0ffeed",
+    "source": "Al Jazeera",
+    "date": "2026-09-08T00:00",
+    "headline": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
+    "excerpt": "An average of 10 ships transited Strait of Hormuz daily over past 10 days, the lowest level since May, Kpler data shows.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-09-08T01:27:51.963168+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss"
+  },
+  {
+    "id": "a209b56b2ae9",
+    "source": "Al Jazeera",
+    "date": "2026-09-07T23:50",
+    "headline": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
+    "excerpt": "Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-09-08T01:27:51.963202+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss"
+  },
+  {
     "id": "883408c51bc5",
     "source": "Al Jazeera",
     "date": "2026-09-07T21:17",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-24T23:02:22.637065+00:00",
     "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
-  },
-  {
-    "id": "e46acc5536eb",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T22:32",
-    "headline": "US removes Syria from ‘state sponsor of terrorism’ list",
-    "excerpt": "Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a &#039;terrorist&#039; organisation.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-08-24T23:02:22.637120+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss"
-  },
-  {
-    "id": "ad8a47ced55e",
-    "source": "Al Jazeera",
-    "date": "2026-08-24T21:35",
-    "headline": "US public support for Iran war falls as Trump approval at record low: Poll",
-    "excerpt": "Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-24T21:45:34.481250+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss"
   }
 ]
