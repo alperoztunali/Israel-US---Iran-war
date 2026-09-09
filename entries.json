@@ -1,5 +1,27 @@
 [
   {
+    "id": "b7dbb6affb61",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T23:22",
+    "headline": "Trump says the US-Iran war will end right after midterms",
+    "excerpt": "Seven months after launching the war on Iran, US President Donald Trump says it will end immediately after midterms.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-09T23:59:07.769056+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss"
+  },
+  {
+    "id": "6624cdfaddf1",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T23:15",
+    "headline": "Iran war looms over Trump at Republican midterm convention in Dallas",
+    "excerpt": "Trump supporters say he can rally Republican voters despite concerns over the unpopular war and rising prices.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-09T23:59:07.769106+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss"
+  },
+  {
     "id": "7836fa92c6c5",
     "source": "Al Jazeera",
     "date": "2026-09-09T21:14",
@@ -5476,27 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-08-26T22:12:00.637475+00:00",
     "link": "https://www.aljazeera.com/video/inside-story/2026/8/26/whats-behind-the-sdfs-deal-with-damascus?traffic_source=rss"
-  },
-  {
-    "id": "59b8e4d06dc7",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T19:41",
-    "headline": "Video: Ukrainian drones target Wildberries e-commerce hub in Russia",
-    "excerpt": "Ukrainian drones have again targeted the Russian online shopping giant Wildberries.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T22:12:00.637494+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-ukrainian-drones-target-wildberries-e-commerce-hub-in-russia?traffic_source=rss"
-  },
-  {
-    "id": "843d4c886d1d",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T19:31",
-    "headline": "Israel-Hamas truce failure ‘point of no return’, envoy warns",
-    "excerpt": "Hamas has pledged to hand over its weapons as part of the US plan for Gaza, which Israeli PM Netanyahu has rejected.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-08-26T22:12:00.637523+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss"
   }
 ]
