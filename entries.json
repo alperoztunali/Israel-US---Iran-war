@@ -1,5 +1,104 @@
 [
   {
+    "id": "4e2c9dbad7ed",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T16:00",
+    "headline": "Attackers kill police officer, kidnap teachers in Cameroon’s northwest",
+    "excerpt": "An armed group attacks a teacher training centre in the town of Wum, according to the Northwest Region&#039;s governor.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-09T16:30:33.262312+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss"
+  },
+  {
+    "id": "243c3e40b632",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T15:43",
+    "headline": "As the UK sanctions Israeli settlements, is the two-state solution dead?",
+    "excerpt": "Analysts say UK move far from enough to drive momentum for Palestinian statehood.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-09T16:30:33.262343+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/as-the-uk-sanctions-israeli-settlements-is-the-two-state-solution-dead?traffic_source=rss"
+  },
+  {
+    "id": "19a947f18e98",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T15:41",
+    "headline": "Jerusalem Daily: Israel retaliates over sanctions on illegal settlements",
+    "excerpt": "A diplomatic rift grows between the UK and Israel after Britain led a ban on trade with illegal Israeli settlements",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-09T16:30:33.262380+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jerusalem-daily-israel-retaliates-over-sanctions-on-illegal-settlements?traffic_source=rss"
+  },
+  {
+    "id": "6234a717f74c",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T15:18",
+    "headline": "Gaza students with overseas university offers, scholarships remain trapped",
+    "excerpt": "As a new term begins, students promised places abroad face impossible immigration rules.",
+    "category": "Naval",
+    "location": "Gaza",
+    "addedAt": "2026-09-09T16:30:33.262401+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/gaza-students-with-overseas-university-offers-scholarships-remain-trapped?traffic_source=rss"
+  },
+  {
+    "id": "dee101111be0",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T14:19",
+    "headline": "What is Jordan’s Al-Azraq base and why is Iran targeting it?",
+    "excerpt": "Tehran appears to be increasingly targeting Jordanian assets in the latest round of escalation with the US.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-09-09T16:30:33.262426+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss"
+  },
+  {
+    "id": "7d0bcae1d230",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T13:35",
+    "headline": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
+    "excerpt": "The reported truce follows the release of 360 villagers abducted during a Boko Haram attack in northeastern Nigeria.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-09T16:30:33.262453+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "308ae73ddfdf",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T13:02",
+    "headline": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
+    "excerpt": "Authorities have not clarified what caused the explosion near the city of Sarmada.",
+    "category": "Casualties",
+    "location": "Syria",
+    "addedAt": "2026-09-09T16:30:33.262471+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss"
+  },
+  {
+    "id": "667750090086",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T12:26",
+    "headline": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
+    "excerpt": "Benchmark Brent crude hits $100, shaking markets and fuelling concerns over rising inflation pressures worldwide.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-09T16:30:33.262500+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss"
+  },
+  {
+    "id": "ad2ec9e691a6",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T12:17",
+    "headline": "How has Israel hit back against sanctions by the UK, others?",
+    "excerpt": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-09T16:30:33.262519+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss"
+  },
+  {
     "id": "99c73a5f55b6",
     "source": "Al Jazeera",
     "date": "2026-09-09T11:27",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-26T13:01:28.664392+00:00",
     "link": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss"
-  },
-  {
-    "id": "46551e004142",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T11:32",
-    "headline": "Why India is sharing missile secrets with its private sector",
-    "excerpt": "New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T11:50:14.385425+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss"
-  },
-  {
-    "id": "10237414d401",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T11:06",
-    "headline": "Manchester City sign teenage Moroccan star Ayyoub Bouaddi from Lille",
-    "excerpt": "Sought-after midfielder Bouaddi joins the Premier League club on a five-year deal worth $117 million.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T11:50:14.385480+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss"
-  },
-  {
-    "id": "15928e1c8a0b",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T09:48",
-    "headline": "At least eight killed, hundreds missing after Nepal flash flood",
-    "excerpt": "Across the border, Tibet reported &#039;major casualties&#039; with people missing in the neighbouring county of Gyirong.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T11:50:14.385519+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss"
-  },
-  {
-    "id": "6d01d02872ea",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T09:36",
-    "headline": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
-    "excerpt": "Attacks spark fires at Lukoil&#039;s NORSI refinery and a Wildberries hub as Kyiv claims 16 targets hit across Russia.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T11:50:14.385549+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss"
-  },
-  {
-    "id": "a555d2ccda68",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T10:00",
-    "headline": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
-    "excerpt": "Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-26T10:44:52.674922+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss"
-  },
-  {
-    "id": "81aa19d3972d",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T09:48",
-    "headline": "At least eight killed as Nepal flash flood damages roads, energy facilities",
-    "excerpt": "Authorities say casualties could be much higher, alongside heavier losses of property.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T10:44:52.674967+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss"
-  },
-  {
-    "id": "5376105438ce",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T09:36",
-    "headline": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
-    "excerpt": "Tambov Governor Yevgeny Pervyshov says Wildberries ‌logistics centre &quot;completely ​destroyed by fire&quot;.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T09:58:20.513307+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss"
-  },
-  {
-    "id": "95ff71ea5470",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T09:20",
-    "headline": "The Bulgarian village that fears becoming an Iranian target",
-    "excerpt": "US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-26T09:58:20.513354+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss"
-  },
-  {
-    "id": "796fbf991388",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T09:00",
-    "headline": "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
-    "excerpt": "Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-26T09:58:20.513392+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss"
   }
 ]
