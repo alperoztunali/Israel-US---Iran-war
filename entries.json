@@ -1,5 +1,148 @@
 [
   {
+    "id": "99c73a5f55b6",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T11:27",
+    "headline": "What are the holes in the UK’s ban on imports from Israeli settlements?",
+    "excerpt": "Over a year, the UK imported just £6m ($8.1m) in goods recorded as Palestinian, including Israeli settlement goods.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-09T11:58:02.253665+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/what-are-the-holes-in-the-uks-ban-on-imports-from-israeli-settlements?traffic_source=rss"
+  },
+  {
+    "id": "183db27fac2b",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T11:08",
+    "headline": "Video: RSF drone attack on Sudan court kills at least 13 people",
+    "excerpt": "An RSF drone attack on a court in Sudan’s North Kordofan state has killed at least 13 people and wounded more than 20.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-09T11:58:02.253709+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-rsf-drone-attack-on-sudan-court-kills-at-least-13-people?traffic_source=rss"
+  },
+  {
+    "id": "0afa42ec0d31",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T11:06",
+    "headline": "Did Iran capture a US submarine? What we know about the underwater drone",
+    "excerpt": "Tehran lauds capturing Dive-LD vessel, while Washington insists that the submersible &#039;had malfunctioned a day ago&#039;.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-09-09T11:58:02.253729+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know?traffic_source=rss"
+  },
+  {
+    "id": "a52ced715832",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T10:47",
+    "headline": "‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade",
+    "excerpt": "UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-09T11:58:02.253765+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss"
+  },
+  {
+    "id": "196189ab9596",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T10:45",
+    "headline": "Yemen war escalates: Who are the key actors involved?",
+    "excerpt": "Here is a look at the main actors currently involved in the conflict.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-09T11:58:02.253791+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss"
+  },
+  {
+    "id": "20773a156f18",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T10:09",
+    "headline": "Israel tells UK to close East Jerusalem consulate within 30 days",
+    "excerpt": "Israel announced it would close the consulate after UK said it was imposing sanctions on illegal settlements.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-09T11:58:02.253820+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss"
+  },
+  {
+    "id": "23b9cc340c9b",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T10:09",
+    "headline": "The war in the Gulf will have to end in compromise",
+    "excerpt": "Iran has not surrendered, and the war’s original aims remain unmet.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-09T11:58:02.253849+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/9/9/the-war-in-the-gulf-will-have-to-end-in-compromise?traffic_source=rss"
+  },
+  {
+    "id": "9d955172abb7",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T09:56",
+    "headline": "Turkish jets perform dramatic flyover above Egypt’s pyramids",
+    "excerpt": "The Turkish Air Force&#039;s aerobatic team, performed this spectacular demonstration flight over Egypt’s Pyramids of Gaza.",
+    "category": "Airstrike",
+    "location": "Gaza",
+    "addedAt": "2026-09-09T11:58:02.253879+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/turkish-jets-perform-dramatic-flyover-above-egypts-pyramids?traffic_source=rss"
+  },
+  {
+    "id": "30dc3236bccb",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T09:52",
+    "headline": "Which countries banned goods from settlements but trade with Israel?",
+    "excerpt": "More European countries calling to ban products from illegal settlements, despite sizable overall trade with Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-09T11:58:02.253909+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/which-countries-banned-goods-from-settlements-but-trade-with-israel?traffic_source=rss"
+  },
+  {
+    "id": "f40e9b576d66",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T09:51",
+    "headline": "Israeli parties submit slates for October Knesset elections",
+    "excerpt": "Israeli political parties submitted their lists for the October 27 Knesset elections before Tuesday&#039;s deadline.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-09T11:58:02.253928+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/israeli-parties-submit-slates-for-october-knesset-elections?traffic_source=rss"
+  },
+  {
+    "id": "f801a334a228",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T09:44",
+    "headline": "Pakistan faces new frontier against attacks: Balochistan’s Pashtun areas",
+    "excerpt": "A surge in attacks in Balochistan’s Pashtun-majority districts is raising questions about a widening rebellion.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-09T11:58:02.253978+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/pakistan-faces-new-frontier-against-attacks-balochistans-pashtun-areas?traffic_source=rss"
+  },
+  {
+    "id": "54ad8bd27bb0",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T08:42",
+    "headline": "In maps and charts: Russian and Ukrainian attacks on civilian targets",
+    "excerpt": "Al Jazeera visualises how attacks on civilian infrastructure have more than doubled during the course of the war.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-09T11:58:02.254015+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss"
+  },
+  {
+    "id": "319c63ebf060",
+    "source": "Al Jazeera",
+    "date": "2026-09-09T08:05",
+    "headline": "Russian drone attack kills two at Ukraine-Moldova border crossing",
+    "excerpt": "Russian drones strike Ukraine-Moldova border in Odesa, killing two and injuring three civilians, officials confirm.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-09T11:58:02.254037+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/9/russian-drone-attack-kills-two-at-ukraine-moldova-border-crossing?traffic_source=rss"
+  },
+  {
     "id": "e7185f47f7e1",
     "source": "Al Jazeera",
     "date": "2026-09-09T05:57",
@@ -5355,148 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-26T09:58:20.513392+00:00",
     "link": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss"
-  },
-  {
-    "id": "752346f3d147",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T08:54",
-    "headline": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
-    "excerpt": "UN chief Guterres said the attack underscores &#039;the alarming security situation in Haiti&#039; due to gangs.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T09:58:20.513427+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss"
-  },
-  {
-    "id": "0eb9c6548456",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T06:02",
-    "headline": "Iran, Oman agree on new temporary route in Hormuz",
-    "excerpt": "Deputy foreign minster says the route&#039;s entry as well as part of the exit would run through Iranian territorial waters.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-26T09:03:37.532249+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss"
-  },
-  {
-    "id": "3730fd956853",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T07:43",
-    "headline": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
-    "excerpt": "UN rights office spokesperson slams Israeli threat of forced evacuations from Gaza communities over kite flying.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-26T08:09:56.037958+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss"
-  },
-  {
-    "id": "371da798635f",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T07:41",
-    "headline": "Palestinian boy shot during Israeli raid on UNRWA centre",
-    "excerpt": "Video shows the moment a Palestinian boy was shot during an Israeli raid on a UN facility in occupied East Jerusalem.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-26T08:09:56.038003+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
-  },
-  {
-    "id": "6766a6dc0124",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T07:18",
-    "headline": "Trump threatens Iran’s partners: How do secondary sanctions work?",
-    "excerpt": "The US has used threats of secondary sanctions, whereby countries trading with a sanctioned country also face sanctions.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-08-26T08:09:56.038042+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss"
-  },
-  {
-    "id": "0ce1c5cd651c",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T06:02",
-    "headline": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
-    "excerpt": "Deputy foreign minster says the route&#039;s entry as well as part of the exit would run through Iranian territorial waters.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-26T08:09:56.038077+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss"
-  },
-  {
-    "id": "13d715892dbb",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T04:27",
-    "headline": "At least 14 babies killed in Pakistan hospital nursery fire",
-    "excerpt": "Only one infant rescued from the neonatal facility where the fire broke out, in Pakistan&#039;s capital.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T08:09:56.038114+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss"
-  },
-  {
-    "id": "10e54bced1c7",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T05:20",
-    "headline": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
-    "excerpt": "Iran is betting global economic fallout and Republicans worried about the midterms will force Trump&#039;s retreat.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-26T06:18:48.760631+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss"
-  },
-  {
-    "id": "185636e51d9f",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T04:27",
-    "headline": "At least 14 newborns killed in Pakistan hospital nursery fire",
-    "excerpt": "A malfunction in an air conditioning unit is believed to have triggered the blaze at a government hospital in Islamabad.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T06:18:48.760679+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss"
-  },
-  {
-    "id": "cc6e3a63af6e",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T04:54",
-    "headline": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
-    "excerpt": "Russia’s biggest online retailer, Wildberries, has once again been attacked in a drone strike by Ukraine.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T05:38:28.292288+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss"
-  },
-  {
-    "id": "b6ad227a8ce2",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T04:27",
-    "headline": "At least 15 newborns killed in Pakistan hospital fire",
-    "excerpt": "Only one child rescued after fire breaks out in the nursery at Pakistan Institute of Medical Sciences, Geo News reports.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T05:38:28.292334+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss"
-  },
-  {
-    "id": "bb40daf2872f",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T03:49",
-    "headline": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
-    "excerpt": "Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-26T04:48:28.519573+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss"
-  },
-  {
-    "id": "2777e5661342",
-    "source": "Al Jazeera",
-    "date": "2026-08-26T03:28",
-    "headline": "Who were the Syrian Democratic Forces and why dissolve?",
-    "excerpt": "Syria’s Democratic Forces, which led the fight against ISIL, have declared they are disbanding.",
-    "category": "Movement",
-    "location": "Syria",
-    "addedAt": "2026-08-26T03:56:11.818103+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss"
   }
 ]
