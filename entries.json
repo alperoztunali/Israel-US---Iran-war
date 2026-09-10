@@ -1,5 +1,60 @@
 [
   {
+    "id": "1be067915805",
+    "source": "Al Jazeera",
+    "date": "2026-09-10T18:59",
+    "headline": "Fire onboard ship at Chinese shipyard kills 25 people",
+    "excerpt": "At least 25 people were killed after a fire broke out aboard a ship at a shipyard in China.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-10T19:48:50.159481+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-china-shipyard-fire-clip-mp4?traffic_source=rss"
+  },
+  {
+    "id": "b3caf0091997",
+    "source": "Al Jazeera",
+    "date": "2026-09-10T17:45",
+    "headline": "More than a dozen children killed in fire in eastern DR Congo schools",
+    "excerpt": "Authorities say at least 14 school children have been killed after fire ravaged schools in the DR Congo.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-10T19:48:50.159525+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss"
+  },
+  {
+    "id": "bfaca8e29e9e",
+    "source": "Al Jazeera",
+    "date": "2026-09-10T17:32",
+    "headline": "Family of four killed as they slept in Israeli strike on Gaza",
+    "excerpt": "Four members of a Palestinian family, including girls aged 8 and 12, were killed in an Israeli air attack as they slept",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-10T19:48:50.159555+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "880e955a3e04",
+    "source": "Al Jazeera",
+    "date": "2026-09-10T17:30",
+    "headline": "Kurdish YPJ women fighters face exclusion from Syria’s new army",
+    "excerpt": "Syria’s Kurdish women fighters  in northeast Syria as pushing to join the country’s new army.",
+    "category": "Airstrike",
+    "location": "Syria",
+    "addedAt": "2026-09-10T19:48:50.159585+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-reported-bernard-smith-ypj-fighters-mp4?traffic_source=rss"
+  },
+  {
+    "id": "1da17be4a528",
+    "source": "Al Jazeera",
+    "date": "2026-09-10T17:00",
+    "headline": "Israel arrests 100 Palestinians in a week as West Bank pogroms continue",
+    "excerpt": "Palestinian Prisoner’s Society says detained include children, journalists and ex-prisoner freed in recent exchange deal",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-10T19:48:50.159622+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/10/israel-arrests-100-palestinians-in-a-week-as-west-bank-pogroms-continue?traffic_source=rss"
+  },
+  {
     "id": "0156d5b3e1c2",
     "source": "Al Jazeera",
     "date": "2026-09-10T16:43",
@@ -5443,60 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-29T03:19:56.804329+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
-  },
-  {
-    "id": "157c5c9bd480",
-    "source": "Al Jazeera",
-    "date": "2026-08-28T22:11",
-    "headline": "Israeli strike kills three Palestinians in Jenin",
-    "excerpt": "An Israeli drone strike killed three Palestinians in Jenin, the first such attack in the West Bank since February 2025.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-08-29T03:19:56.804346+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss"
-  },
-  {
-    "id": "1cc798b60bab",
-    "source": "Al Jazeera",
-    "date": "2026-08-28T19:03",
-    "headline": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
-    "excerpt": "Ongoing Russian attacks have killed several people and wounded dozens across Ukraine.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-08-28T21:29:16.188802+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss"
-  },
-  {
-    "id": "29392d70f070",
-    "source": "Al Jazeera",
-    "date": "2026-08-28T18:50",
-    "headline": "Yemen’s divided education system leaves students’ futures in limbo",
-    "excerpt": "Students in Houthi areas fear lost opportunities after government decision not to authenticate some certificates.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-08-28T21:29:16.188857+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo?traffic_source=rss"
-  },
-  {
-    "id": "b1930192a4a2",
-    "source": "Al Jazeera",
-    "date": "2026-08-28T18:37",
-    "headline": "Deadly Russian strikes hit civilian targets in Ukraine",
-    "excerpt": "Russia intensified attacks across Ukraine, killing civilians and damaging homes and warehouses near Kyiv",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-28T21:29:16.188892+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/deadly-russian-strikes-hit-civilian-targets-in-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "bc3e02c2b4f8",
-    "source": "Al Jazeera",
-    "date": "2026-08-28T17:47",
-    "headline": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-    "excerpt": "Israel&#039;s prime minister and defence minister praise the attack as Hamas calls for Israeli &#039;crimes&#039; to stop.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-28T21:29:16.188931+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss"
   }
 ]
