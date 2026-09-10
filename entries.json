@@ -1,5 +1,49 @@
 [
   {
+    "id": "e3d8065b15ab",
+    "source": "Al Jazeera",
+    "date": "2026-09-10T07:50",
+    "headline": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
+    "excerpt": "Ukraine launches one of its deepest strikes to date, targeting natural gas plants in Russia&#039;s Arctic region.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-10T09:06:25.093345+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss"
+  },
+  {
+    "id": "6e23166ee52d",
+    "source": "Al Jazeera",
+    "date": "2026-09-10T07:45",
+    "headline": "Israeli attacks kill at least four Palestinians in northern Gaza",
+    "excerpt": "Israeli attacks on the occupied Palestinian territory continue despite a &#039;ceasefire&#039; brokered in October.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-10T09:06:25.093388+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/10/israeli-attacks-kill-at-least-four-palestinians-in-northern-gaza?traffic_source=rss"
+  },
+  {
+    "id": "80046fef73d0",
+    "source": "Al Jazeera",
+    "date": "2026-09-10T05:09",
+    "headline": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
+    "excerpt": "Yemen&#039;s government accuses Houthis of killing three children as rebels claim Saudi forces launched 54 air raids in 12 hours.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-09-10T09:06:25.093444+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss"
+  },
+  {
+    "id": "6fc3a8c6b162",
+    "source": "Al Jazeera",
+    "date": "2026-09-10T04:41",
+    "headline": "Ukrainian drones strike Russian Caspian Sea port in Dagestan",
+    "excerpt": "Fires and explosions were seen in Russia’s Dagestan after a Ukrainian drone attack.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-10T09:06:25.093483+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_suspected-ukrainian-drones-strike-dagestan-100926?traffic_source=rss"
+  },
+  {
     "id": "3015521c7eda",
     "source": "Al Jazeera",
     "date": "2026-09-10T03:14",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-27T14:31:10.297292+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/27/six-months-of-the-iran-war-as-told-through-trumps-social-media-posts?traffic_source=rss"
-  },
-  {
-    "id": "4a3fcb103f12",
-    "source": "Al Jazeera",
-    "date": "2026-08-27T10:01",
-    "headline": "Nepal-Tibet floods: What is a glacial collapse, how common is it?",
-    "excerpt": "More than 165 people are killed in floods triggered by a huge glacial collapse near Nepal-China border.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-27T14:31:10.297319+00:00",
-    "link": "https://www.aljazeera.com/features/2026/8/27/nepal-tibet-floods-what-is-a-glacial-collapse-how-common-is-it?traffic_source=rss"
-  },
-  {
-    "id": "74716e4896db",
-    "source": "Al Jazeera",
-    "date": "2026-08-27T02:54",
-    "headline": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
-    "excerpt": "Sheikh Mohammed&#039;s visit comes as US-Israel war on Iran nears its sixth month with no diplomatic breakthrough in sight.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-08-27T03:21:36.251940+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss"
-  },
-  {
-    "id": "518f061adb0a",
-    "source": "Al Jazeera",
-    "date": "2026-08-27T02:07",
-    "headline": "US labels Palestine Action a terror group, founder says ‘that’s rich’",
-    "excerpt": "Palestine Action co-founder Huda Ammori tells Jazeera that US sanctions designating the group a terrorist organisation.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-08-27T03:21:36.251995+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss"
-  },
-  {
-    "id": "8f106a57e683",
-    "source": "Al Jazeera",
-    "date": "2026-08-27T01:24",
-    "headline": "Pro-Israel Democrats picked for top roles on key US House committee",
-    "excerpt": "The decision comes at a fractious time for the party amid a growing divide among its voters over US aid to Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-27T03:21:36.252032+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/27/pro-israel-democrats-picked-for-top-roles-on-key-us-house-committee?traffic_source=rss"
   }
 ]
