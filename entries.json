@@ -1,5 +1,82 @@
 [
   {
+    "id": "56e1f2d23e67",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T16:32",
+    "headline": "Houthis declare Red Sea shipping safe except for Saudi vessels",
+    "excerpt": "Houthi spokesman Yahya Saree said maritime navigation in the Red Sea is safe, except for Saudi ships.",
+    "category": "Naval",
+    "location": "Red Sea",
+    "addedAt": "2026-09-11T17:40:19.229179+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-declare-red-sea-shipping-safe-except-for-saudi-vessels?traffic_source=rss"
+  },
+  {
+    "id": "28ff8657cf36",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T16:30",
+    "headline": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
+    "excerpt": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-11T17:40:19.229221+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss"
+  },
+  {
+    "id": "90541d421872",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T15:45",
+    "headline": "Trump pays tribute to the victims of 9/11 at Pentagon ceremony",
+    "excerpt": "US President Donald Trump remembered the victims of the September 11 attacks at a ceremony to mark the 25th anniversary.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-11T17:40:19.229251+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss"
+  },
+  {
+    "id": "8ce72724c11c",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T15:34",
+    "headline": "Houthis take control of Yemen’s entire Red Sea coast, reports say",
+    "excerpt": "The Iran-backed Houthi forces have taken control over most of the western Red Sea coastal line",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-09-11T17:40:19.229275+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-take-control-of-yemens-entire-red-sea-coast-reports-say?traffic_source=rss"
+  },
+  {
+    "id": "28b09c6662bf",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T14:47",
+    "headline": "Can the Houthis close the Red Sea after seizing the Yemen coast?",
+    "excerpt": "Some observers see a force that has improved impressively in the past years, but others doubt the Houthis can sustain wins.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-11T17:40:19.229300+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast?traffic_source=rss"
+  },
+  {
+    "id": "05952459b674",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T14:09",
+    "headline": "‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza",
+    "excerpt": "Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-11T17:40:19.229331+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss"
+  },
+  {
+    "id": "a87d71a1ffb3",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T14:07",
+    "headline": "Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates",
+    "excerpt": "Pakistan faces growing pressure to honour its Saudi defence commitments while keeping diplomatic channels to Iran open.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-11T17:40:19.229353+00:00",
+    "link": "https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss"
+  },
+  {
     "id": "e65d283b398d",
     "source": "Al Jazeera",
     "date": "2026-09-11T13:09",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-30T13:14:25.454511+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss"
-  },
-  {
-    "id": "d68dd1860e24",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T09:47",
-    "headline": "Israel says Netanyahu’s son ‘urgently evacuated’ from the US after threat",
-    "excerpt": "Right-wing activist and podcaster Yair Netanyahu lived in the US for several years before his hasty departure.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-30T13:14:25.454549+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/30/israel-says-netanyahus-son-urgently-evacuated-from-the-us-after-threat?traffic_source=rss"
-  },
-  {
-    "id": "c5099cbdfcc2",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T09:32",
-    "headline": "The home front: How Israel, Iran, and US leaders have been hit by the war",
-    "excerpt": "Six months into the US-Israel war on Iran, the governments in the three countries are fighting political wars at home.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-30T13:14:25.454589+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war?traffic_source=rss"
-  },
-  {
-    "id": "b0b1d2153508",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T05:09",
-    "headline": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil",
-    "excerpt": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-30T07:29:51.044095+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss"
-  },
-  {
-    "id": "4082f9828ab8",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T04:28",
-    "headline": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
-    "excerpt": "Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-08-30T07:29:51.044143+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss"
-  },
-  {
-    "id": "7189b7c0e394",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T03:10",
-    "headline": "US deports relative of Afghans who aided military to Africa",
-    "excerpt": "Afghan national granted protection in the US is one of dozens of people deported to war-torn Central African Republic.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-30T07:29:51.044186+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss"
-  },
-  {
-    "id": "7b674a892c68",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T00:00",
-    "headline": "Iran war live: Khamenei calls for Muslim world to confront ‘real enemy’",
-    "excerpt": "Iran’s Supreme Leader Mojtaba Khamenei urges against any action that could divide Muslims.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-30T07:29:51.044225+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "352cb06af0a6",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T00:16",
-    "headline": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
-    "excerpt": "Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-30T01:42:40.026182+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss"
   }
 ]
