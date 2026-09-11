@@ -1,5 +1,60 @@
 [
   {
+    "id": "1670731fd4bb",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T19:21",
+    "headline": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
+    "excerpt": "Trump drew parallels to the US&#039;s present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-09-11T20:02:59.451963+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss"
+  },
+  {
+    "id": "7b81527e0ec1",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T19:01",
+    "headline": "Houthi advance in Yemen is about more than just the Red Sea",
+    "excerpt": "Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.",
+    "category": "Naval",
+    "location": "Yemen",
+    "addedAt": "2026-09-11T20:02:59.452005+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss"
+  },
+  {
+    "id": "c7a59dfe5d73",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T18:33",
+    "headline": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+    "excerpt": "Iran&#039;s Foreign Ministry says the meeting in Oman is to &#039;promote better understanding among the countries of the region&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-11T20:02:59.452041+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss"
+  },
+  {
+    "id": "1fc86adb80b7",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T18:14",
+    "headline": "At least 46,000 displaced by escalating Yemen fighting: UN",
+    "excerpt": "The International Organisation for Migration (IOM) warns that the figure is rising &#039;by the hour&#039;.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-11T20:02:59.452074+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss"
+  },
+  {
+    "id": "f5cc254df352",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T18:00",
+    "headline": "US holds memorials for the 9/11 attacks, 25 years later",
+    "excerpt": "In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-11T20:02:59.452102+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss"
+  },
+  {
     "id": "56e1f2d23e67",
     "source": "Al Jazeera",
     "date": "2026-09-11T16:32",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-30T13:14:25.454324+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/palestinian-mother-in-agony-as-israeli-attack-kills-her-son?traffic_source=rss"
-  },
-  {
-    "id": "7c2ed543f7ee",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T12:26",
-    "headline": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
-    "excerpt": "Russia&#039;s Defence Ministry announces plans to launch &#039;massive strikes&#039; against Ukraine&#039;s infrastructure before winter.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-30T13:14:25.454377+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss"
-  },
-  {
-    "id": "7e5ea07f920e",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T12:08",
-    "headline": "How has life changed for Iranians six months into the war?",
-    "excerpt": "Common Iranians are under increasing pressure, with no relief expected in the short term.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-30T13:14:25.454411+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss"
-  },
-  {
-    "id": "d6c2c1fdaee5",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T11:52",
-    "headline": "Israel’s Ben-Gvir lauds harsh conditions for Palestinian female prisoners",
-    "excerpt": "Palestinian groups condemn prison footage as humiliation and intimidation.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-30T13:14:25.454450+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/30/israels-ben-gvir-lauds-harsh-conditions-for-palestinian-female-prisoners?traffic_source=rss"
-  },
-  {
-    "id": "aecb897f4fc9",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T11:24",
-    "headline": "Six months on, what did the strikes on Iran achieve?",
-    "excerpt": "The US-Israeli bombing of Iran became a fight for the Strait of Hormuz. AJLabs counts the cost of the war.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-08-30T13:14:25.454471+00:00",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss"
-  },
-  {
-    "id": "36122597f0a5",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T10:30",
-    "headline": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
-    "excerpt": "Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-08-30T13:14:25.454511+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss"
   }
 ]
