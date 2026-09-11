@@ -1,5 +1,82 @@
 [
   {
+    "id": "e65d283b398d",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T13:09",
+    "headline": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
+    "excerpt": "Second day of strikes on fuel stations suggest a new campaign focused on civilian areas in the Ukrainian capital.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-11T13:52:21.940582+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations?traffic_source=rss"
+  },
+  {
+    "id": "d51e70956b61",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T12:30",
+    "headline": "From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted",
+    "excerpt": "US and Israeli officials are using a drop in acute malnutrition cases to claim Gaza has no hunger.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-11T13:52:21.940635+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss"
+  },
+  {
+    "id": "23212752bb80",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T12:22",
+    "headline": "Myanmar airport closed following reported drone attack",
+    "excerpt": "Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-11T13:52:21.940662+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss"
+  },
+  {
+    "id": "1e8e9d5ab1c7",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T11:18",
+    "headline": "Swiss police report five killed in Dutch tour bus crash",
+    "excerpt": "Bus carrying 45 Dutch tourists overturned and landed in a construction zone near an Alpine village.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-11T13:52:21.940686+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/swiss-police-report-five-killed-in-dutch-tour-bus-crash?traffic_source=rss"
+  },
+  {
+    "id": "fe8bfbd15273",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T10:48",
+    "headline": "Al Jazeera explains massive Israeli blasts on south Lebanon hill",
+    "excerpt": "Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-09-11T13:52:21.940709+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss"
+  },
+  {
+    "id": "320f5a5b6a49",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T10:41",
+    "headline": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
+    "excerpt": "US official admits the naval base near Manama sustained heavy damage in the war with Iran.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-09-11T13:52:21.940737+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss"
+  },
+  {
+    "id": "d5c03c69f416",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T10:11",
+    "headline": "Houthis control key shipping route after gains along Yemen’s Red Sea coast",
+    "excerpt": "Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-09-11T13:52:21.940765+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss"
+  },
+  {
     "id": "916cf79c1f8f",
     "source": "Al Jazeera",
     "date": "2026-09-11T08:18",
@@ -5421,82 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-30T01:42:40.026182+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss"
-  },
-  {
-    "id": "dcef0cdfb147",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T00:00",
-    "headline": "Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra",
-    "excerpt": "Deputy foreign minister says Iranian forces have &#039;full oversight&#039; of movements in the strait.",
-    "category": "Movement",
-    "location": "Tehran",
-    "addedAt": "2026-08-30T01:42:40.026224+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "3f7ebe3ebf3b",
-    "source": "Al Jazeera",
-    "date": "2026-08-29T23:48",
-    "headline": "Israeli settlers attack international news team in occupied West Bank",
-    "excerpt": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-30T01:42:40.026250+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "0747fa877d2f",
-    "source": "Al Jazeera",
-    "date": "2026-08-29T23:34",
-    "headline": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
-    "excerpt": "Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-08-30T01:42:40.026288+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss"
-  },
-  {
-    "id": "57ac85600775",
-    "source": "Al Jazeera",
-    "date": "2026-08-29T23:25",
-    "headline": "Ukrainian nuclear power plant without external power for over a week",
-    "excerpt": "This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-30T01:42:40.026324+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss"
-  },
-  {
-    "id": "537f95f2bf85",
-    "source": "Al Jazeera",
-    "date": "2026-08-29T20:07",
-    "headline": "Gaza runs out of cancer medicines, as Israeli strikes continue",
-    "excerpt": "Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-29T21:17:10.434573+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss"
-  },
-  {
-    "id": "f7a294325d5f",
-    "source": "Al Jazeera",
-    "date": "2026-08-29T20:05",
-    "headline": "Algeria wildfire death toll expected to rise as survivors say nothing left",
-    "excerpt": "Algeria says at least 12 people have been killed in wildfires sweeping the northeast, with the toll expected to rise.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-29T21:17:10.434625+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss"
-  },
-  {
-    "id": "11502002d564",
-    "source": "Al Jazeera",
-    "date": "2026-08-29T18:30",
-    "headline": "Haitian gangs release 13 captives after mass kidnapping in Kenscoff",
-    "excerpt": "The attack in Kenscoff killed at least 47 people and resulted in the kidnapping of more than 50, as gangs exert control.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-29T21:17:10.434656+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/29/haitian-gangs-release-13-captives-after-mass-kidnapping-in-kenscoff?traffic_source=rss"
   }
 ]
