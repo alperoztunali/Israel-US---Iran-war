@@ -1,5 +1,60 @@
 [
   {
+    "id": "916cf79c1f8f",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T08:18",
+    "headline": "How 9/11 helped Israel sell its war on Palestinians to America",
+    "excerpt": "The &#039;war on terror&#039; made Israeli repression easier to present as part of a shared struggle against a common enemy.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-11T09:44:48.904727+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss"
+  },
+  {
+    "id": "bca252985ca6",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T07:36",
+    "headline": "Settlers, soldiers, and Israeli impunity in the West Bank",
+    "excerpt": "Armed settlers in military uniforms are seizing land and attacking Palestinian communities with near-total impunity.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-11T09:44:48.904761+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/settlers-soldiers-and-israeli-impunity-in-the-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "81d80e9b4eb5",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T05:27",
+    "headline": "‘Everything changed’: The human cost of 25 years of US wars",
+    "excerpt": "Successive wars launched after 9/11 have killed at least 4.5 million people and displaced more than 38 million others.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-11T09:44:48.904787+00:00",
+    "link": "https://www.aljazeera.com/news/longform/2026/9/11/everything-changed-the-human-cost-of-25-years-of-us-wars?traffic_source=rss"
+  },
+  {
+    "id": "5c004227097f",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T05:25",
+    "headline": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
+    "excerpt": "A 25-minute standing ovation at the Biennale has put NAZA, an Israeli-made film confronting Israel’s genocide in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-11T09:44:48.904811+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss"
+  },
+  {
+    "id": "ce8e4364a80e",
+    "source": "Al Jazeera",
+    "date": "2026-09-11T04:48",
+    "headline": "Anthropic claims Claude AI used for missile projects, global espionage",
+    "excerpt": "AI was used to develop missile guidance software in Yemen and to power cyber operations, a report alleges.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-09-11T09:44:48.904824+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss"
+  },
+  {
     "id": "3c5b5c54f0a1",
     "source": "Al Jazeera",
     "date": "2026-09-11T02:45",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-08-29T21:17:10.434656+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/29/haitian-gangs-release-13-captives-after-mass-kidnapping-in-kenscoff?traffic_source=rss"
-  },
-  {
-    "id": "3096ee5793e2",
-    "source": "Al Jazeera",
-    "date": "2026-08-29T18:26",
-    "headline": "Pakistan suspends eight officials over hospital fire that killed 14 babies",
-    "excerpt": "Interim inquiry finds lack of fire safety protocols at Islamabad hospital, prompting suspensions and criminal probe.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-29T21:17:10.434684+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/29/pakistan-suspends-eight-officials-over-hospital-fire-that-killed-14-babies?traffic_source=rss"
-  },
-  {
-    "id": "0165b2a17be0",
-    "source": "Al Jazeera",
-    "date": "2026-08-29T15:25",
-    "headline": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
-    "excerpt": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-08-29T21:17:10.434721+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss"
-  },
-  {
-    "id": "f0259c6cafca",
-    "source": "Al Jazeera",
-    "date": "2026-08-29T17:41",
-    "headline": "Turkiye summons Ukraine ambassador over Black Sea attacks",
-    "excerpt": "Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-08-29T18:36:39.654587+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss"
-  },
-  {
-    "id": "b6cfc5002be6",
-    "source": "Al Jazeera",
-    "date": "2026-08-29T17:09",
-    "headline": "Israeli army arrests six Palestinians after settler violence in West Bank",
-    "excerpt": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-29T18:36:39.654634+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "dd16827defe5",
-    "source": "Al Jazeera",
-    "date": "2026-08-29T17:03",
-    "headline": "Niger military says it is regaining control after attempted mutiny",
-    "excerpt": "Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-08-29T18:36:39.654680+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss"
   }
 ]
