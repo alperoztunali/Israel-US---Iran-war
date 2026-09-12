@@ -1,5 +1,16 @@
 [
   {
+    "id": "9c0e81fc9885",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T21:38",
+    "headline": "First naval battle between drones takes place in the Black Sea",
+    "excerpt": "The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-12T22:58:30.269449+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss"
+  },
+  {
     "id": "ebc09a84a5e5",
     "source": "Al Jazeera",
     "date": "2026-09-12T19:56",
@@ -5487,16 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-01T00:32:58.864915+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss"
-  },
-  {
-    "id": "5ed7194aeb5d",
-    "source": "Al Jazeera",
-    "date": "2026-08-31T20:48",
-    "headline": "Israeli outposts expand as Palestinian homes are demolished",
-    "excerpt": "Israeli forces demolish Palestinian homes in Nablus, while in Hebron settlers cleared land for a new outpost.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-31T20:59:36.278194+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss"
   }
 ]
