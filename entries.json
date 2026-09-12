@@ -1,5 +1,82 @@
 [
   {
+    "id": "ebc09a84a5e5",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T19:56",
+    "headline": "Israel bombs southern Lebanon as talks postponed",
+    "excerpt": "The next round of talks between Israel and Lebanon, mediated by the US, has been postponed.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-09-12T20:59:33.769057+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss"
+  },
+  {
+    "id": "2082f74abed1",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T19:50",
+    "headline": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
+    "excerpt": "‘NAZA’, a documentary about Israel’s genocide in Gaza, has won the Special Jury Prize at the Venice Film Festival.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-12T20:59:33.769109+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss"
+  },
+  {
+    "id": "48cfdd472708",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T19:34",
+    "headline": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
+    "excerpt": "Iran tells Al Jazeera that Monday&#039;s meeting is a sign of &#039;good intentions&#039; towards neighbouring countries.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-12T20:59:33.769151+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss"
+  },
+  {
+    "id": "94c90a0551e8",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T19:17",
+    "headline": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
+    "excerpt": "The Iranian ally seizes Yemen&#039;s Red Sea coast, cementing their hold on the Bab al-Mandeb strait.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-12T20:59:33.769187+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss"
+  },
+  {
+    "id": "4e642785de12",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T19:02",
+    "headline": "Afghan woman deported in first use of US Alien Terrorist Removal Court",
+    "excerpt": "Court was created in 1996, but had never been used before Nazira Haji Zada’s case.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-09-12T20:59:33.769231+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss"
+  },
+  {
+    "id": "a5676ba60881",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T18:53",
+    "headline": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
+    "excerpt": "PM Ali al-Zaidi dismisses commander, orders investigation into operations command in Maysan province, bordering Iran.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-09-12T20:59:33.769257+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss"
+  },
+  {
+    "id": "b8091aa98955",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T18:36",
+    "headline": "Iran, UAE hold first talks at BRICS summit since conflict began",
+    "excerpt": "Iran’s President has met Abu Dhabi’s Crown Prince at the BRICS summit for their highest-level talks since the war began.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-12T20:59:33.769290+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss"
+  },
+  {
     "id": "28f59fed50b6",
     "source": "Al Jazeera",
     "date": "2026-09-12T17:31",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-08-31T20:59:36.278194+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss"
-  },
-  {
-    "id": "655009ea6c5a",
-    "source": "Al Jazeera",
-    "date": "2026-08-31T20:13",
-    "headline": "How will the Mecca agreement become an operational framework?",
-    "excerpt": "Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.",
-    "category": "Diplomatic",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-08-31T20:59:36.278231+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss"
-  },
-  {
-    "id": "30fb8ec54c9f",
-    "source": "Al Jazeera",
-    "date": "2026-08-31T19:51",
-    "headline": "Ukrainians mourn community leader killed in Russian strike on Myla",
-    "excerpt": "Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-08-31T20:59:36.278256+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss"
-  },
-  {
-    "id": "63f60923ed64",
-    "source": "Al Jazeera",
-    "date": "2026-08-31T19:30",
-    "headline": "Far-right Israeli Minister Ben-Gvir and settlers storm Al-Aqsa Mosque",
-    "excerpt": "Israeli Minister Ben-Gvir storms Al-Aqsa Mosque compound with settlers, violating decades-old status quo arrangement.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-31T20:59:36.278280+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/far-right-israeli-minister-ben-gvir-and-settlers-storm-al-aqsa-mosque?traffic_source=rss"
-  },
-  {
-    "id": "b890ddc0081d",
-    "source": "Al Jazeera",
-    "date": "2026-08-31T19:25",
-    "headline": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
-    "excerpt": "Far-right minister entered Islam’s third-holiest site alongside settlers under protection of Israeli occupation forces.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-08-31T20:59:36.278304+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss"
-  },
-  {
-    "id": "55539692eceb",
-    "source": "Al Jazeera",
-    "date": "2026-08-31T19:20",
-    "headline": "Top US general says no plans to send troops to polls for November elections",
-    "excerpt": "Remarks come in response to concerns from Democrats that military could be used to interfere in elections.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-08-31T20:59:36.278330+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss"
-  },
-  {
-    "id": "88830d677f65",
-    "source": "Al Jazeera",
-    "date": "2026-08-31T18:36",
-    "headline": "Damaged Gaza ambulance becomes ‘dream bus’ for children",
-    "excerpt": "A damaged ambulance in Gaza has been converted by the Palestinian Red Crescent Society into the ‘Dream Bus’.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-08-31T20:59:36.278358+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/damaged-gaza-ambulance-becomes-dream-bus-for-children?traffic_source=rss"
-  },
-  {
-    "id": "5556682042b5",
-    "source": "Al Jazeera",
-    "date": "2026-08-31T18:17",
-    "headline": "Palestinian farmers rebuild what Israeli settlers destroy in West Bank",
-    "excerpt": "Israeli settler pogroms destroy greenhouses and crops, but Burin&#039;s farmers insist on rebuilding.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-31T20:59:36.278389+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/31/palestinian-farmers-rebuild-what-israeli-settlers-destroy-in-west-bank?traffic_source=rss"
   }
 ]
