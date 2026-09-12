@@ -1,5 +1,49 @@
 [
   {
+    "id": "ccbfabd6f7ad",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T02:25",
+    "headline": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+    "excerpt": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-12T05:08:52.655734+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss"
+  },
+  {
+    "id": "8c9a5424647c",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T02:22",
+    "headline": "Putin and Pezeshkian call out US dominance ahead of BRICS",
+    "excerpt": "The presidents of Iran and Russia have criticised US dollar dominance ahead of the BRICS summit in India.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-12T05:08:52.655781+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/putin-and-pezeshkian-call-out-us-dominance-ahead-of-brics?traffic_source=rss"
+  },
+  {
+    "id": "d7c3c1ac4acf",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T02:18",
+    "headline": "Satellite image shows critical Saudi pipeline damaged in drone attack",
+    "excerpt": "Saudi Arabia has shut its East-West oil pipeline after a drone attack. Riyadh says the attack originated in Iraq.",
+    "category": "Missile/Drone",
+    "location": "Iraq",
+    "addedAt": "2026-09-12T05:08:52.655809+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss"
+  },
+  {
+    "id": "252840c4de93",
+    "source": "Al Jazeera",
+    "date": "2026-09-12T01:22",
+    "headline": "CIA releases dozens of declassified documents on bin Laden prior to 9/11",
+    "excerpt": "A briefer told Clinton in 1998 that bin Laden’s &#039;preferred option is to strike the US on its own soil in Washington&#039;.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-12T05:08:52.655854+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss"
+  },
+  {
     "id": "4d96d57a45f8",
     "source": "Al Jazeera",
     "date": "2026-09-12T00:04",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-08-30T22:46:16.768367+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss"
-  },
-  {
-    "id": "9fc41a4fe581",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T19:33",
-    "headline": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
-    "excerpt": "Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-30T20:03:45.830997+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "270e83237a52",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T19:06",
-    "headline": "Former Israeli soldiers pose as Pro-Palestinian supporters in the US",
-    "excerpt": "Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-08-30T20:03:45.831042+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss"
-  },
-  {
-    "id": "2c435ce6b832",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T18:19",
-    "headline": "Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul",
-    "excerpt": "Foreign, defence ministers and military chiefs from three countries to meet for first time since signing Mecca pact.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-08-30T20:03:45.831079+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/30/top-officials-from-turkiye-saudi-arabia-pakistan-to-meet-in-istanbul?traffic_source=rss"
-  },
-  {
-    "id": "b2ad24860d78",
-    "source": "Al Jazeera",
-    "date": "2026-08-30T17:44",
-    "headline": "NASA launches $4.3bn Roman Telescope to uncover universe’s hidden secrets",
-    "excerpt": "SpaceX Falcon Heavy propels telescope on cosmic quest to investigate dark energy and matter.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-08-30T20:03:45.831124+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/30/nasa-launches-4-3bn-roman-telescope-to-uncover-universes-hidden-secrets?traffic_source=rss"
   }
 ]
