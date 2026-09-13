@@ -1,5 +1,60 @@
 [
   {
+    "id": "97ae28e1ef73",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T21:50",
+    "headline": "Tehran and Muscat delay talks, citing regional consensus need",
+    "excerpt": "Tehran and Muscat agree to delay dialogue to prioritise regional consensus amid tensions in the Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-09-13T23:02:13.731674+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss"
+  },
+  {
+    "id": "8856bd4dc7e9",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T21:21",
+    "headline": "A third person has died of measles in the US, health officials say",
+    "excerpt": "Pennsylvania reports that a 40-year-old woman died from the disease, which was declared eliminated in the US in 2000.",
+    "category": "Statement",
+    "location": "Oman",
+    "addedAt": "2026-09-13T23:02:13.731727+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss"
+  },
+  {
+    "id": "7a0ec256dc27",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T21:10",
+    "headline": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
+    "excerpt": "Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-13T23:02:13.731776+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss"
+  },
+  {
+    "id": "09d0c35ef1fa",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T21:02",
+    "headline": "Pro-Palestine protest demands Australia increases pressure on Israel",
+    "excerpt": "A pro-Palestine protest in Sydney demanded that the Australian government take further action and implement on Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-13T23:02:13.731808+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss"
+  },
+  {
+    "id": "7721666d51c4",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T20:46",
+    "headline": "Jerusalem Daily: Pregnant woman killed in Gaza",
+    "excerpt": "Israeli forces kill a pregnant Palestinian woman in Gaza and settler pogroms intensify across the occupied West Bank.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-13T23:02:13.731829+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss"
+  },
+  {
     "id": "4aa3743b9321",
     "source": "Al Jazeera",
     "date": "2026-09-13T20:33",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-01T21:22:27.081503+00:00",
     "link": "https://www.aljazeera.com/sports/2026/9/1/belgian-mayor-blocks-club-from-hosting-israeli-opponent-in-europa-league?traffic_source=rss"
-  },
-  {
-    "id": "76dec41b04f6",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T18:22",
-    "headline": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
-    "excerpt": "Water quality in embattled Palestinian enclave already poor; flooding will exacerbate threat to health, says UN agency.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-01T18:33:49.589526+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss"
-  },
-  {
-    "id": "8ac31759e0fd",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T17:39",
-    "headline": "The US military began striking targets in Iran, CENTCOM says",
-    "excerpt": "The US military said it has begun striking targets in Iran.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-09-01T18:33:49.589574+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss"
-  },
-  {
-    "id": "c28db6260c3a",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T16:45",
-    "headline": "Iran promises to respond to new wave of US strikes despite Trump’s threats",
-    "excerpt": "Trump says the US attacks were &#039;large and powerful&#039; and warns that Iran would be hit &#039;much harder&#039; if it retaliates.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-01T18:33:49.589614+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "c258340e7953",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T16:45",
-    "headline": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
-    "excerpt": "After a newly built desalination plant was destroyed, displaced families in northern Gaza struggle to find clean water.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-01T18:33:49.589651+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss"
-  },
-  {
-    "id": "1bdaca819445",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T16:24",
-    "headline": "Germany accuses Russia of drone attack on Leipzig airport",
-    "excerpt": "Findings announced as European countries report an increase in sabotage attacks and attempts that they blame on Russia.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-01T18:33:49.589675+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss"
   }
 ]
