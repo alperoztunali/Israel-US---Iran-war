@@ -1,5 +1,60 @@
 [
   {
+    "id": "4aa3743b9321",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T20:33",
+    "headline": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+    "excerpt": "Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated&#039;",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-09-13T20:55:14.565377+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss"
+  },
+  {
+    "id": "0b673733a183",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T19:55",
+    "headline": "Guyana’s oil boom and challenges",
+    "excerpt": "Guyana’s president says his country has seen an increase in oil revenue as the Iran conflict reshapes global markets.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-13T20:55:14.565420+00:00",
+    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges?traffic_source=rss"
+  },
+  {
+    "id": "3ea4852c9757",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T19:41",
+    "headline": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
+    "excerpt": "Israeli forces reportedly raided the Jenin home of Palestinian journalist Ali al-Samoudi and beat his son.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-09-13T20:55:14.565449+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss"
+  },
+  {
+    "id": "b3929e90a6d6",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T18:30",
+    "headline": "Syrian child killed after roadside object explodes near Damascus",
+    "excerpt": "A child has been killed after an explosive object detonated when he touched it near Damascus.",
+    "category": "Casualties",
+    "location": "Syria",
+    "addedAt": "2026-09-13T20:55:14.565466+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss"
+  },
+  {
+    "id": "19258c99c965",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T18:15",
+    "headline": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
+    "excerpt": "The US president says Ukraine&#039;s attacks on Russian diesel infrastructure are contributing to global fuel shortages.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-13T20:55:14.565496+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss"
+  },
+  {
     "id": "37525adf49a4",
     "source": "Al Jazeera",
     "date": "2026-09-13T17:15",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-01T18:33:49.589675+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss"
-  },
-  {
-    "id": "8194c8a70702",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T16:15",
-    "headline": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
-    "excerpt": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-01T18:33:49.589709+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "290b594d6549",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T15:55",
-    "headline": "Iran and Russia vow to stand against US ‘unilateralism’",
-    "excerpt": "Iranian President Pezeshkian thanked Putin for Moscow’s support, vowing to resist US &#039;unilateralism&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-01T18:33:49.589741+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iran-and-russia-vow-to-stand-against-us?traffic_source=rss"
-  },
-  {
-    "id": "7d3f0cfd097d",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T15:45",
-    "headline": "Six days of Russian strikes push Kyiv residents to consider leaving",
-    "excerpt": "Russia has launched strikes almost continuously on Kyiv and surrounding areas for six straight days.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-01T18:33:49.589786+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss"
-  },
-  {
-    "id": "a7ffccdd642b",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T15:36",
-    "headline": "Mansouri rocked by Israeli strikes as residents flee again",
-    "excerpt": "A large explosion shook Mansouri in southern Lebanon on Tuesday amid renewed Israeli airstrikes",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-09-01T18:33:49.589804+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/mansouri-rocked-by-israeli-strikes-as-residents-flee-again?traffic_source=rss"
-  },
-  {
-    "id": "2e3fdec6049b",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T13:32",
-    "headline": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
-    "excerpt": "The SCO started in 1996 and accounts for 43 percent of the world’s population and 23 percent of the global economy.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-01T15:08:36.938829+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss"
   }
 ]
