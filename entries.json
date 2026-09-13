@@ -1,5 +1,71 @@
 [
   {
+    "id": "9d55535c4a7a",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T10:47",
+    "headline": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
+    "excerpt": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-09-13T11:28:24.490310+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "879d43ad50ac",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T10:22",
+    "headline": "Israeli attack on Gaza kills two Palestinians",
+    "excerpt": "Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-13T11:28:24.490342+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "515bd1a2d726",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T08:54",
+    "headline": "Niger military government reshuffles army command weeks after deadly mutiny",
+    "excerpt": "New chief of staff appointed after failed mutiny tested military rulers&#039; grip on power.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-13T11:28:24.490363+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss"
+  },
+  {
+    "id": "71f27e7b3bbd",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T08:13",
+    "headline": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+    "excerpt": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-09-13T11:28:24.490385+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss"
+  },
+  {
+    "id": "6478c6a98978",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T04:40",
+    "headline": "About 1,400 Yemenis flee to Djibouti within 24 hours",
+    "excerpt": "Refugees from Yemen arrive in Obock, Djibouti, as Houthis tighten their grip on the Bab al-Mandeb strait.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-13T11:28:24.490405+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss"
+  },
+  {
+    "id": "6e84dcc26eaf",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T00:00",
+    "headline": "Iran war live: Commercial ship attacked in Hormuz, killing 1, wounding 4",
+    "excerpt": "Latest strike on cargo vessel comes as Iran leaders plan to meet Gulf officials to discuss control over key waterway.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-09-13T11:28:24.490431+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss"
+  },
+  {
     "id": "cebfe3ec3d48",
     "source": "Al Jazeera",
     "date": "2026-09-13T04:40",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-01T10:29:52.271219+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/teen-faces-life-over-livestream-of-san-diego-mosque-attack?traffic_source=rss"
-  },
-  {
-    "id": "892777509f66",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T06:34",
-    "headline": "How prices in Tunisia have skyrocketed since the Arab Spring",
-    "excerpt": "Al Jazeera tracked the cost of common food items and compared them with pre-revolution prices in 2010.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-01T10:29:52.271255+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/how-prices-in-tunisia-have-skyrocketed-since-the-arab-spring?traffic_source=rss"
-  },
-  {
-    "id": "39055aa19e28",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T05:27",
-    "headline": "Israeli forces raze West Bank homes as EU weighs ban on settlement goods",
-    "excerpt": "Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-09-01T05:42:08.949127+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss"
-  },
-  {
-    "id": "8d19fd2b7eed",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T05:25",
-    "headline": "Can Europe fill vacuum left in Lebanon as UN peacekeeping force winds up?",
-    "excerpt": "Analysts say Israel could benefit when UNIFIL&#039;s mandate expires on December 31.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-01T05:42:08.949174+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss"
-  },
-  {
-    "id": "a96af4574160",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T04:24",
-    "headline": "Algeria’s president seeks death penalty for those who start forest fires",
-    "excerpt": "Abdelmadjid Tebboune&#039;s call comes after wildfires killed at least 12 people and injured 54 in northeastern Algeria.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-01T05:42:08.949215+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/algerias-president-seeks-death-penalty-for-those-who-start-forest-fires?traffic_source=rss"
-  },
-  {
-    "id": "1c8acd0e31e8",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T01:19",
-    "headline": "New York police kill knife-wielding woman in Times Square",
-    "excerpt": "A woman has been shot dead by police in New York’s Times Square. Police say she was armed with knives.",
-    "category": "Casualties",
-    "location": "Oman",
-    "addedAt": "2026-09-01T05:42:08.949250+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss"
-  },
-  {
-    "id": "f22dfc33de66",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T00:00",
-    "headline": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
-    "excerpt": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-01T00:32:58.864720+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss"
   }
 ]
