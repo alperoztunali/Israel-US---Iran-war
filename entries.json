@@ -1,5 +1,115 @@
 [
   {
+    "id": "6cd0a07ffaff",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T14:38",
+    "headline": "More than 2,000 Yemenis flee to Djibouti amid Houthi advances",
+    "excerpt": "Escalating fighting along Yemen’s western coast has driven more than 2,000 Yemenis across the Red Sea to Djibouti.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-13T15:01:05.117521+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/more-than-2000-yemenis-flee-to-djibouti-amid-houthi-advances?traffic_source=rss"
+  },
+  {
+    "id": "81dcd82c6bcc",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T13:59",
+    "headline": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+    "excerpt": "Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-13T15:01:05.117570+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss"
+  },
+  {
+    "id": "619f8d0aa3a7",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T13:26",
+    "headline": "Renewed fighting worsens Yemen’s humanitarian crisis",
+    "excerpt": "Renewed fighting worsens Yemen’s humanitarian crisis",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-13T15:01:05.117609+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss"
+  },
+  {
+    "id": "fd4fcebfbdb1",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T13:09",
+    "headline": "How Israel’s destruction of south Lebanon is making displacement permanent",
+    "excerpt": "With lost livelihoods, destroyed homes and little security, many displaced Lebanese are facing an entrenched reality.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-13T15:01:05.117650+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss"
+  },
+  {
+    "id": "cf6b3754076a",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T13:05",
+    "headline": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+    "excerpt": "Russia says four people killed in Ukrainian strikes as both sides continue to attack each other with waves of drones.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-13T15:01:05.117679+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss"
+  },
+  {
+    "id": "92b3b8762cb9",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T12:46",
+    "headline": "The Iran war reveals the limits of BRICS",
+    "excerpt": "The bloc struggles to translate its economic weight into geopolitical sway. But there may be a silver lining to it.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-13T15:01:05.117713+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss"
+  },
+  {
+    "id": "d11a448be778",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T12:39",
+    "headline": "The Houthis’ escalation in Yemen could flop",
+    "excerpt": "The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-13T15:01:05.117748+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss"
+  },
+  {
+    "id": "df39177bc705",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T12:06",
+    "headline": "India vs Sri Lanka live: Asia Cup final",
+    "excerpt": "Follow our live team news, predictions, scores, photos and text commentary stream from the final in Dubai.",
+    "category": "Other",
+    "location": "Dubai",
+    "addedAt": "2026-09-13T15:01:05.117789+00:00",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss"
+  },
+  {
+    "id": "0f1555eaa028",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T12:04",
+    "headline": "BRICS summit 2026: What are the key takeaways?",
+    "excerpt": "The 11-nation bloc avoids condemning the US-Israel war on Iran, showing the divisions among the members.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-13T15:01:05.117817+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss"
+  },
+  {
+    "id": "9ca5eee87bc7",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T11:45",
+    "headline": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
+    "excerpt": "With constant degredation and no real prospects of improvement in the foreseeable future, Iranians are losing hope.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-13T15:01:05.117853+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss"
+  },
+  {
     "id": "9d55535c4a7a",
     "source": "Al Jazeera",
     "date": "2026-09-13T10:47",
@@ -5388,115 +5498,5 @@
     "location": "Qatar",
     "addedAt": "2026-09-01T15:08:36.939096+00:00",
     "link": "https://www.aljazeera.com/sports/2026/9/1/qatar-planning-to-host-formula-one-motogp-despite-middle-east-conflict?traffic_source=rss"
-  },
-  {
-    "id": "25707b9d6509",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T13:01",
-    "headline": "Iran urges US to honour commitments under MoU",
-    "excerpt": "Tehran calls for Washington to respect terms of MoU after attacks send tensions soaring in the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-09-01T15:08:36.939124+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss"
-  },
-  {
-    "id": "f10c308fed9e",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T11:53",
-    "headline": "Damascus goes car-free for 24 hours",
-    "excerpt": "Damascus’ Old City went car-free for 24 hours, giving residents a rare chance to walk its streets without traffic.",
-    "category": "Other",
-    "location": "Damascus",
-    "addedAt": "2026-09-01T15:08:36.939171+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss"
-  },
-  {
-    "id": "66d42144d9a8",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T11:43",
-    "headline": "At least five killed as ammunition-laden vehicle explodes in Syria’s Idlib",
-    "excerpt": "Several also injured in incident that took place in Idlib countryside, state media reports.",
-    "category": "Casualties",
-    "location": "Syria",
-    "addedAt": "2026-09-01T15:08:36.939197+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss"
-  },
-  {
-    "id": "e2067484a652",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T09:48",
-    "headline": "Israeli attacks on Gaza kill at least four, including children",
-    "excerpt": "At least three killed and several wounded in an Israeli air attack in the al-Kateeba district west of Gaza City.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-09-01T10:29:52.270986+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss"
-  },
-  {
-    "id": "57c7a2b2568a",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T08:57",
-    "headline": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
-    "excerpt": "Russian attacks escalate as EU defence ministers meet in Ireland to discuss Ukraine air defence shortages.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-01T10:29:52.271033+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss"
-  },
-  {
-    "id": "3338dad930f5",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T08:14",
-    "headline": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
-    "excerpt": "A price cap increase is on the way, the latest blow to people already struggling with rising costs.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-01T10:29:52.271076+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/uk-energy-price-rise-britons-face-risk-premium-for-supply-amid-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "e1698df46ad2",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T08:08",
-    "headline": "Luxembourg drops approval for Israel bonds issue: What that means",
-    "excerpt": "Israel’s future borrowing in EU markets remains uncertain as Luxembourg moves to let bond prospectus expire.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-01T10:29:52.271113+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/9/1/luxembourg-drops-approval-for-israel-bonds-issue-what-that-means?traffic_source=rss"
-  },
-  {
-    "id": "88ad60df3cad",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T07:25",
-    "headline": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
-    "excerpt": "Many Iranians inside the country feel they are being unjustly erased from the international community.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-01T10:29:52.271143+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss"
-  },
-  {
-    "id": "21147eaf991f",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T07:02",
-    "headline": "Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses",
-    "excerpt": "Israeli ministers escalate campaign rhetoric with AI ads as Gaza strikes widen ahead of tight October election.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-01T10:29:52.271184+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss"
-  },
-  {
-    "id": "3450ab35760a",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T06:39",
-    "headline": "Teen faces life over livestream of San Diego mosque attack",
-    "excerpt": "A 17-year-old girl has been indicted in North Carolina on murder and conspiracy charges",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-01T10:29:52.271219+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/teen-faces-life-over-livestream-of-san-diego-mosque-attack?traffic_source=rss"
   }
 ]
