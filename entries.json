@@ -1,5 +1,16 @@
 [
   {
+    "id": "54d1fa405e41",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T00:00",
+    "headline": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+    "excerpt": "Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-13T00:51:26.979727+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss"
+  },
+  {
     "id": "9c0e81fc9885",
     "source": "Al Jazeera",
     "date": "2026-09-12T21:38",
@@ -5487,16 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-01T00:32:58.864878+00:00",
     "link": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel?traffic_source=rss"
-  },
-  {
-    "id": "c97343aa5fee",
-    "source": "Al Jazeera",
-    "date": "2026-08-31T19:20",
-    "headline": "Top US general says no plans to deploy troops for 2026 midterm elections",
-    "excerpt": "Remarks come in response to concerns from Democrats that military could be used to interfere in elections.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-09-01T00:32:58.864915+00:00",
-    "link": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss"
   }
 ]
