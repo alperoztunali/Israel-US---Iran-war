@@ -1,5 +1,60 @@
 [
   {
+    "id": "fa3dcb327a0f",
+    "source": "Al Jazeera",
+    "date": "2026-09-14T04:50",
+    "headline": "Protests break out across Syria over fuel price increases",
+    "excerpt": "Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-09-14T06:20:23.341576+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss"
+  },
+  {
+    "id": "c283fd1d5437",
+    "source": "Al Jazeera",
+    "date": "2026-09-14T03:50",
+    "headline": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
+    "excerpt": "Israeli Culture Minister Miki Zohar labels Gaza genocide film &#039;vile&#039; after it wins Venice Film Festival recognition.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-09-14T06:20:23.341627+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss"
+  },
+  {
+    "id": "6ad422e38f74",
+    "source": "Al Jazeera",
+    "date": "2026-09-14T03:38",
+    "headline": "Japanese PM-backed candidate wins Okinawa gubernatorial election",
+    "excerpt": "Genta Koja beat two-term incumbent Denny Tamaki, who wants a major US military base to be moved out of Okinawa.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-14T06:20:23.341693+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss"
+  },
+  {
+    "id": "fcefb627a0e7",
+    "source": "Al Jazeera",
+    "date": "2026-09-14T03:37",
+    "headline": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
+    "excerpt": "A Russian drone struck a train near Ukraine-Poland border, shortly after Former UK PM Boris Johnson left the station.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-14T06:20:23.341728+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/russia-hits-ukrainian-train-shortly-after-boris-johnson-leaves-station?traffic_source=rss"
+  },
+  {
+    "id": "610665c68b2e",
+    "source": "Al Jazeera",
+    "date": "2026-09-14T01:08",
+    "headline": "Protests erupt across Syria over sharp fuel price hikes",
+    "excerpt": "Protests have erupted in Syria after the government raised fuel prices.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-09-14T06:20:23.341760+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss"
+  },
+  {
     "id": "a6b12b6991df",
     "source": "Al Jazeera",
     "date": "2026-09-14T00:14",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-01T23:29:31.013102+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss"
-  },
-  {
-    "id": "382d491683b7",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T21:01",
-    "headline": "Deadly car bomb attack at Colombia police station",
-    "excerpt": "Deadly car bomb attack at Colombia police station",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-09-01T23:29:31.013128+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss"
-  },
-  {
-    "id": "e74bf185f584",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T20:59",
-    "headline": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-    "excerpt": "Three Palestinian children were among four people killed in Israeli strikes on Gaza.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-09-01T23:29:31.013150+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss"
-  },
-  {
-    "id": "9aebeb71e9fa",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T20:40",
-    "headline": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
-    "excerpt": "International aid organisations are struggling for money as the United States has led a sharp cut in Western donations.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-01T21:22:27.081326+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss"
-  },
-  {
-    "id": "9e0cb6ab49e4",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T20:38",
-    "headline": "Iranian state media announces numerous US strikes on the country",
-    "excerpt": "Iranian state television has reported numerous strikes on Iranian territory on Tuesday.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-01T21:22:27.081375+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss"
-  },
-  {
-    "id": "93279d4f7ed7",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T20:35",
-    "headline": "What’s driven the defence deal between Israel and Greece?",
-    "excerpt": "Two countries sign $3.5bn weapons agreement.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-01T21:22:27.081409+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss"
   }
 ]
