@@ -1,5 +1,38 @@
 [
   {
+    "id": "a6b12b6991df",
+    "source": "Al Jazeera",
+    "date": "2026-09-14T00:14",
+    "headline": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
+    "excerpt": "Fighting is intensifying in Yemen as Houthi fighters advance toward Saudi-backed government-held areas.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-09-14T01:08:19.147423+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss"
+  },
+  {
+    "id": "2767a9c50969",
+    "source": "Al Jazeera",
+    "date": "2026-09-14T00:00",
+    "headline": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+    "excerpt": "Oman says Hormuz talks with Iran and Gulf states are postponed &#039;in the interests of consensus&#039;.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-14T01:08:19.147450+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss"
+  },
+  {
+    "id": "fe4982ac38c7",
+    "source": "Al Jazeera",
+    "date": "2026-09-13T23:33",
+    "headline": "Israeli quadcopter terrorises homes in Gaza City",
+    "excerpt": "Video shows a low-flying Israeli quadcopter maneuvering between residential buildings in eastern Gaza City.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-14T01:08:19.147471+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss"
+  },
+  {
     "id": "97ae28e1ef73",
     "source": "Al Jazeera",
     "date": "2026-09-13T21:50",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-01T21:22:27.081409+00:00",
     "link": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss"
-  },
-  {
-    "id": "6450225e7baa",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T19:46",
-    "headline": "Munitions vehicle explodes killing five in Idlib",
-    "excerpt": "At least five people were killed and several others wounded when a vehicle carrying munitions exploded in Binnish",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-01T21:22:27.081434+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss"
-  },
-  {
-    "id": "76520da62e29",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T19:33",
-    "headline": "Israel’s multiple wars see finance, defence ministries clash over spending",
-    "excerpt": "Spiraling costs of Israel&#039;s conflicts deepen rift between finance and defense ministries ahead of budget decisions.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-01T21:22:27.081470+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss"
-  },
-  {
-    "id": "8043e0b51d25",
-    "source": "Al Jazeera",
-    "date": "2026-09-01T18:35",
-    "headline": "Belgian mayor blocks club from hosting Israeli opponent in Europa League",
-    "excerpt": "Union Saint-Gilloise were to host Hapoel Beer-Sheva in Europa League, but Belgian mayor insists on different venue.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-01T21:22:27.081503+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/9/1/belgian-mayor-blocks-club-from-hosting-israeli-opponent-in-europa-league?traffic_source=rss"
   }
 ]
