@@ -1,5 +1,49 @@
 [
   {
+    "id": "b1562beb1e3d",
+    "source": "Al Jazeera",
+    "date": "2026-09-15T20:40",
+    "headline": "Romanian shepards and farmers clash with police",
+    "excerpt": "Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.",
+    "category": "Casualties",
+    "location": "Oman",
+    "addedAt": "2026-09-15T22:15:42.695715+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss"
+  },
+  {
+    "id": "364807f49d8e",
+    "source": "Al Jazeera",
+    "date": "2026-09-15T20:16",
+    "headline": "Western intelligence warns of Iranian cyber threats targeting dissidents",
+    "excerpt": "Western intelligence agencies highlight &#039;CHOSEN BRICK&#039; spyware targeting critics of Iran government abroad.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-15T22:15:42.695755+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss"
+  },
+  {
+    "id": "7a2d006e5941",
+    "source": "Al Jazeera",
+    "date": "2026-09-15T19:59",
+    "headline": "NATO jet shoots down suspected Russian drone over Lithuania",
+    "excerpt": "EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-09-15T22:15:42.695777+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
+  },
+  {
+    "id": "63f9303e6132",
+    "source": "Al Jazeera",
+    "date": "2026-09-15T19:26",
+    "headline": "Israel lacking respect for dead buried in Gaza rubble: UN",
+    "excerpt": "Human rights chief reiterates concern over war crimes evidence as remains from entire families are unearthed.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-15T22:15:42.695795+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss"
+  },
+  {
     "id": "57f979a02ed3",
     "source": "Al Jazeera",
     "date": "2026-09-15T18:41",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-03T06:25:20.958743+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss"
-  },
-  {
-    "id": "70455fb47fa3",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T00:52",
-    "headline": "Morocco’s ruling allies turn on each other before election campaign begins",
-    "excerpt": "Political tensions rise as Moroccans prepare for the polls, with the official campaign start still days away.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-03T01:28:39.624049+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss"
-  },
-  {
-    "id": "cec763c2036c",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T00:00",
-    "headline": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
-    "excerpt": "Iran&#039;s health ministry spokesman says the death toll from US attacks has risen to 18, including a child.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-03T01:28:39.624099+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss"
-  },
-  {
-    "id": "7aa21bab8db4",
-    "source": "Al Jazeera",
-    "date": "2026-09-02T21:37",
-    "headline": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-    "excerpt": "Senator Thom Tillis accuses Pentagon chief of &#039;inept mismanagement&#039; as US military is strained by war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-02T23:34:21.223253+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss"
-  },
-  {
-    "id": "adca952151c5",
-    "source": "Al Jazeera",
-    "date": "2026-09-02T21:23",
-    "headline": "Israeli PM says Israel is working to overthrow Iran’s government",
-    "excerpt": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-09-02T23:34:21.223305+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss"
   }
 ]
