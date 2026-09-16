@@ -1,5 +1,126 @@
 [
   {
+    "id": "87216bd92d7d",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T05:06",
+    "headline": "At least 10 dead, dozens missing in Gaza building collapse",
+    "excerpt": "At least 10 Palestinians are dead and up to 70 more are believed missing after a building collapsed in Gaza City.",
+    "category": "Casualties",
+    "location": "Gaza",
+    "addedAt": "2026-09-16T05:20:46.197459+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss"
+  },
+  {
+    "id": "47bf4b8d3b17",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T04:30",
+    "headline": "Gaza residential building collapses, six families reportedly trapped",
+    "excerpt": "Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-16T05:20:46.197497+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss"
+  },
+  {
+    "id": "e92941d19fd4",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T03:39",
+    "headline": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
+    "excerpt": "Trump administration pushes $2.8bn bomb sale to Israel amid criticism over mass targeting of civilians in the region.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-09-16T05:20:46.197511+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss"
+  },
+  {
+    "id": "4d57db215653",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T03:38",
+    "headline": "China’s defence chief warns against coercion, avoids US, Japan mention",
+    "excerpt": "Dong Jun pitches shared security governance and military cooperation while warning against coercion.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-16T05:20:46.197541+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss"
+  },
+  {
+    "id": "791ab2919aea",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T01:53",
+    "headline": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
+    "excerpt": "Saudi Arabia has cancelled some oil deliveries to Europe after attacks shut down its export pipeline to the Red Sea.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-09-16T05:20:46.197563+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+  },
+  {
+    "id": "af7eeafae276",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T01:41",
+    "headline": "Israel started an anti-Qatar campaign, then scrapped it",
+    "excerpt": "Days after October 7, Israel began building a global campaign to pressure and isolate Qatar.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-16T05:20:46.197586+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss"
+  },
+  {
+    "id": "1d9427e10705",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T01:35",
+    "headline": "Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions",
+    "excerpt": "A senior Iraqi source points to a resistance &#039;splinter&#039; group for the September attack on the East-West pipeline.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-09-16T05:20:46.197612+00:00",
+    "link": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss"
+  },
+  {
+    "id": "01c2020821fd",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T01:09",
+    "headline": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
+    "excerpt": "Saudi Arabia says it intercepted a drone before it entered Islam&#039;s holiest city, calling pilgrims&#039; security a &#039;red line&#039;",
+    "category": "Missile/Drone",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-09-16T05:20:46.197633+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss"
+  },
+  {
+    "id": "31eaec0b0060",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T00:42",
+    "headline": "Israeli soldiers rappel from helicopter in occupied West Bank",
+    "excerpt": "Israeli forces rappelled from a helicopter onto the roof of a residential building in Yatta, in the occupied West Bank.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-09-16T05:20:46.197651+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "465b1d05639a",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T00:38",
+    "headline": "Iran war increasing inflation, straining US munitions: congressional report",
+    "excerpt": "Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-16T05:20:46.197671+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss"
+  },
+  {
+    "id": "0c4c54e228a3",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T00:00",
+    "headline": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca",
+    "excerpt": "Saudi Arabia has intercepted and destroyed a Houthi drone that was heading toward Mecca.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-09-16T05:20:46.197682+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss"
+  },
+  {
     "id": "48b4967cde1d",
     "source": "Al Jazeera",
     "date": "2026-09-16T00:00",
@@ -5377,126 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-03T15:13:13.709797+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/3/no-end-to-torture-of-gaza-doctor-abu-safiya-in-israeli-prison-what-to-know?traffic_source=rss"
-  },
-  {
-    "id": "fc0c189d9c5b",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T11:10",
-    "headline": "Legendary Bosnian striker Edin Dzeko to retire from international football",
-    "excerpt": "The 40-year-old scored 73 goals in 151 appearances, making him Bosnia&#039;s most-capped ‌player and all-time leading scorer.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-03T15:13:13.709851+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/9/3/legendary-bosnian-striker-edin-dzeko-to-retire-from-international-football?traffic_source=rss"
-  },
-  {
-    "id": "98910af51aba",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T09:54",
-    "headline": "Yair Netanyahu, Israeli PM’s son, angers UK right over Falklands comment",
-    "excerpt": "Accusing the UK government of ‘hypocrisy’, Yair Netanyahu backs Argentina’s claims to the British-held Falkland Islands.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-03T11:35:29.558454+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/3/yair-netanyahu-israeli-pms-son-angers-uk-right-over-falklands-comment?traffic_source=rss"
-  },
-  {
-    "id": "854484af5a26",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T09:34",
-    "headline": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
-    "excerpt": "EU officials met in Ireland but failed to agree on imposing trade sanctions on Israel or military support for Ukraine.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-09-03T11:35:29.558487+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "1d9a67256066",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T09:16",
-    "headline": "Gulf insecurity fuels US energy dominance",
-    "excerpt": "The no-war, no-peace status quo with Iran increasingly benefits the US, its energy sector and its ally Israel.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-03T11:35:29.558512+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss"
-  },
-  {
-    "id": "dd9dc502e59b",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T08:12",
-    "headline": "Russia to close Goethe-Institut centres as Germany tensions escalate",
-    "excerpt": "Moscow to shut Goethe-Institut centres after Germany announces the closure of two Russian institutions.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-03T11:35:29.558541+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/3/russia-to-close-goethe-institut-centres-as-germany-tensions-escalate?traffic_source=rss"
-  },
-  {
-    "id": "52f28a604884",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T07:41",
-    "headline": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
-    "excerpt": "Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-09-03T11:35:29.558556+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss"
-  },
-  {
-    "id": "fd3eea8f4f1e",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T06:48",
-    "headline": "China’s support for Iran shows its limits as US ramps up pressure on Tehran",
-    "excerpt": "Beijing&#039;s support for Tehran is balanced against other relationships in the region, analysts say.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-09-03T11:35:29.558582+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran?traffic_source=rss"
-  },
-  {
-    "id": "46d5f9cbadc6",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T06:35",
-    "headline": "EU remains divided over trade sanctions on illegal Israeli settlements",
-    "excerpt": "Irish Foreign Minister Helen McEntee says the bloc &#039;should be moving collectively&#039; in upholding international law.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-03T11:35:29.558604+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/3/eu-remains-divided-over-trade-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
-  },
-  {
-    "id": "1e777a766833",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T04:32",
-    "headline": "Niger displays arsenal seized after failed military mutiny",
-    "excerpt": "Niger’s authorities showed off the arsenal seized during fighting to put down a revolt against the government.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-03T06:25:20.958558+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/niger-displays-arsenal-seized-after-failed-military-mutiny?traffic_source=rss"
-  },
-  {
-    "id": "c3583ecb9a8a",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T04:26",
-    "headline": "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis",
-    "excerpt": "Asian economies are racing to build up storage capacity to reduce their exposure to conflict in the Middle East.",
-    "category": "Other",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-09-03T06:25:20.958609+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis?traffic_source=rss"
-  },
-  {
-    "id": "3ddc5c079b19",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T02:18",
-    "headline": "Minneapolis shooting kills two, wounds three police officers",
-    "excerpt": "Police say suspected gunman is also dead and that several people, including three officers, were wounded.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-03T06:25:20.958643+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/3/minneapolis-shooting-kills-two-wounds-three-police-officers?traffic_source=rss"
   }
 ]
