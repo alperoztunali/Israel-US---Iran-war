@@ -1,5 +1,71 @@
 [
   {
+    "id": "3d6ade1edec4",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T21:15",
+    "headline": "Rescue workers search for survivors after Gaza building collapse",
+    "excerpt": "Rescue workers search for survivors after Gaza building collapse",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-16T21:58:54.182528+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss"
+  },
+  {
+    "id": "65620b0e03ad",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T20:29",
+    "headline": "Displaced Syrians dig through hills of garbage to make a living",
+    "excerpt": "Displaced Syrians are digging through mountains of burning garbage searching for recyclable materials to make a living.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-09-16T21:58:54.182576+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/displaced-syrians-dig-through-hills-of-garbage-to-make-a-living?traffic_source=rss"
+  },
+  {
+    "id": "a93795d5e579",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T20:12",
+    "headline": "New video claims to show Saudi fighter jet Houthis say they shot down",
+    "excerpt": "Houthi forces have released a video claiming to show a Saudi fighter jet the group says was shot down in Yemen’s Marib.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-09-16T21:58:54.182603+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss"
+  },
+  {
+    "id": "a85ba1a9b030",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T20:08",
+    "headline": "Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare",
+    "excerpt": "Discontent is testing President Ahmed al-Sharaa&#039;s ability to unify a country emerging from 14 years of conflict.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-09-16T21:58:54.182659+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss"
+  },
+  {
+    "id": "61fde99ebb31",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T19:44",
+    "headline": "Lebanon returns 37 artefacts smuggled out of Egypt six years ago",
+    "excerpt": "The artefacts date back to the pharaonic civilisation, more commonly referred to as ancient Egypt.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-09-16T21:58:54.182689+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss"
+  },
+  {
+    "id": "f6bceb3a9037",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T19:14",
+    "headline": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
+    "excerpt": "A 15-year-old boy was killed in a double-tap strike while trying to save a paramedic.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-16T21:58:54.182714+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss"
+  },
+  {
     "id": "05c7661ba377",
     "source": "Al Jazeera",
     "date": "2026-09-16T17:42",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-04T06:24:23.004500+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/aje-onl-nf_south-lebanon-residents-return-to-devastated-villages-040926?traffic_source=rss"
-  },
-  {
-    "id": "a22244f90092",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T04:45",
-    "headline": "Argentina’s Milei threatens sanctions over Falklands oil drilling",
-    "excerpt": "Argentina’s President Javier Milei has threatened sanctions against oil companies operating off the Falklands.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-09-04T06:24:23.004557+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss"
-  },
-  {
-    "id": "2a6a2e123230",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T04:32",
-    "headline": "Mladic’s body arrives to full military honours in Serbia",
-    "excerpt": "The body of war criminal Ratko Mladic has arrived in Belgrade, where he received a full military guard.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-04T06:24:23.004601+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mladics-body-arrives-to-full-military-honours-in-serbia?traffic_source=rss"
-  },
-  {
-    "id": "1df41b1f97c2",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T02:21",
-    "headline": "Why did Trump meet with anti-Zionist Jewish leaders?",
-    "excerpt": "US President Donald Trump met six anti-Zionist rabbis privately amid protests over Israeli military conscription.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-04T06:24:23.004633+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss"
-  },
-  {
-    "id": "8e6dbf567246",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T01:45",
-    "headline": "US continues to squeeze Cuban economy with new round of sanctions",
-    "excerpt": "Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-09-04T06:24:23.004665+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "50417e9752b1",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T00:00",
-    "headline": "Iran war live: US rules out Iran talks until ship attacks stop",
-    "excerpt": "Iran&#039;s First Vice President Mohammad Reza Aref vows “asymmetrical” and “multi-layered” response to US attacks.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-09-04T01:16:32.367593+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss"
-  },
-  {
-    "id": "363b35ed4ad2",
-    "source": "Al Jazeera",
-    "date": "2026-09-03T23:36",
-    "headline": "Are Trump’s AI videos just memes or psychological warfare?",
-    "excerpt": "Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-04T01:16:32.367663+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss"
   }
 ]
