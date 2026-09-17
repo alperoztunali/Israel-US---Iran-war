@@ -1,5 +1,104 @@
 [
   {
+    "id": "3600cfae71e6",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T18:36",
+    "headline": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
+    "excerpt": "Dozens of Israelis protested outside &#039;NAZA&#039; filmmaker’s family home, chanting &#039;death to traitors&#039;",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-17T19:03:35.138256+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss"
+  },
+  {
+    "id": "5f436a876e54",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T18:18",
+    "headline": "South Africa gender commissioner: women ‘hunted’ amid femicide crisis",
+    "excerpt": "A ninth woman has been found dead amid a wave of killings in South Africa’s Ekurhuleni region, east of Johannesburg.",
+    "category": "Casualties",
+    "location": "Oman",
+    "addedAt": "2026-09-17T19:03:35.138306+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-26-south-africa-femicide-sv-mp4?traffic_source=rss"
+  },
+  {
+    "id": "1d87fd5a4331",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T18:06",
+    "headline": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
+    "excerpt": "The French presidency said the aim of the Paris talks was to review a Lebanese armed forces deployment plan.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-09-17T19:03:35.138340+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss"
+  },
+  {
+    "id": "dd8bed90072d",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T17:02",
+    "headline": "UN fact-finding mission says US committed possible war crimes in Iran",
+    "excerpt": "The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-09-17T19:03:35.138368+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "56ad2bc6fcf6",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T16:10",
+    "headline": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
+    "excerpt": "Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a &#039;heinous lie&#039;.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-09-17T19:03:35.138391+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
+  },
+  {
+    "id": "5b826ae66473",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T15:40",
+    "headline": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
+    "excerpt": "Public broadcaster says country&#039;s participation cannot be justified amid &#039;appalling and ongoing loss of lives in Gaza&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-17T19:03:35.138440+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss"
+  },
+  {
+    "id": "17cefc085e8f",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T15:34",
+    "headline": "Ninth woman’s body found as South Africa probes series of killings",
+    "excerpt": "All female victims in their 20s and 30s were killed on the outskirts of Johannesburg in the past two months.",
+    "category": "Casualties",
+    "location": "Oman",
+    "addedAt": "2026-09-17T19:03:35.138473+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/ninth-womans-body-found-as-south-africa-probes-series-of-killings?traffic_source=rss"
+  },
+  {
+    "id": "eae340a3ca93",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T15:10",
+    "headline": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
+    "excerpt": "Kosovo&#039;s decision to join a US-led Gaza force exposes the pull of its alliance with Washington, according to analysts.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-17T19:03:35.138518+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/kosovo-israel-ties?traffic_source=rss"
+  },
+  {
+    "id": "35e11a91f066",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T15:01",
+    "headline": "What are all the sanctions Iran is under?",
+    "excerpt": "Iran has faced a torrent of international sanctions since the 1979 revolution - here&#039;s what&#039;s in place right now.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-17T19:03:35.138546+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under?traffic_source=rss"
+  },
+  {
     "id": "7a7f71a8c8b5",
     "source": "Al Jazeera",
     "date": "2026-09-17T14:10",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-05T00:50:28.100776+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "3a499354c244",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T21:58",
-    "headline": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
-    "excerpt": "Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-09-04T22:58:36.148480+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss"
-  },
-  {
-    "id": "68296d21646c",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T21:45",
-    "headline": "Costa Rican president signals openness to domestic US military operations",
-    "excerpt": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-04T22:58:36.148525+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss"
-  },
-  {
-    "id": "5399a70ba0fc",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T20:52",
-    "headline": "Will Europe pay the US to provide military aid to Ukraine?",
-    "excerpt": "US President Donald Trump laments past financial support for Ukraine&#039;s war effort and has vowed to claw the money back.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-04T22:58:36.148557+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "97d8922226b2",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T20:22",
-    "headline": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-    "excerpt": "US President Donald Trump called the Iran war small potatoes, saying only 18 Americans had been killed.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-09-04T20:57:56.368959+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss"
-  },
-  {
-    "id": "6dc883df0cb7",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T20:04",
-    "headline": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
-    "excerpt": "Several explosions rocked the southern Lebanese town of Mansouri after Israeli military drones dropped explosives in the",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-09-04T20:57:56.368993+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss"
-  },
-  {
-    "id": "6cecd71d5970",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T19:48",
-    "headline": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
-    "excerpt": "Israeli attacks against villages and towns in southern Lebanon continue despite truce agreements and diplomacy.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-04T20:57:56.369026+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss"
-  },
-  {
-    "id": "003f178cab45",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T19:44",
-    "headline": "Andrew Tate indicted in Romania for trafficking minors, money laundering",
-    "excerpt": "The influencer and his brother are in a Miami prison pending potential extradition to the UK on rape charges",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-09-04T20:57:56.369063+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss"
-  },
-  {
-    "id": "900414e5e40c",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T18:32",
-    "headline": "Villagers vow to rebuild despite devastating mass demolition in West Bank",
-    "excerpt": "Israeli forces&#039; demolition of 12 homes in Khirbet al-Tabban leaves villagers determined to stand firm on their land.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-09-04T20:57:56.369089+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "0b6098203a90",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T17:29",
-    "headline": "Yemen’s army says recaptured key territory as clashes with Houthis continue",
-    "excerpt": "Two days of fighting between government forces and Houthi fighters has left dozens dead on both sides, sources say.",
-    "category": "Airstrike",
-    "location": "Yemen",
-    "addedAt": "2026-09-04T18:26:08.857236+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss"
   }
 ]
