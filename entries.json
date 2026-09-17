@@ -1,5 +1,60 @@
 [
   {
+    "id": "1c1603e17e87",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T00:00",
+    "headline": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
+    "excerpt": "President Trump says the US is nearing the end of the conflict with Iran and claims direct talks with Tehran.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-09-17T00:20:14.887280+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss"
+  },
+  {
+    "id": "fd220724550a",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T23:26",
+    "headline": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
+    "excerpt": "Both sides agreed to expand air travel and resume direct commercial flights.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-17T00:20:14.887320+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss"
+  },
+  {
+    "id": "b1da1d1a30cb",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T23:14",
+    "headline": "US military claims Strait of Hormuz remains open amid ongoing blockade",
+    "excerpt": "The comments from a US CENTCOM spokesperson come amid continued tensions over shipping through the vital waterway.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-09-17T00:20:14.887346+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade?traffic_source=rss"
+  },
+  {
+    "id": "24260a012915",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T23:11",
+    "headline": "‘People don’t have money’: Syrian fuel hikes deepen economic pain",
+    "excerpt": "Higher diesel and petrol prices are pushing up transport and food costs across an already impoverished Syria.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-09-17T00:20:14.887388+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/16/people-dont-have-money-syrian-fuel-hikes-deepen-economic-pain?traffic_source=rss"
+  },
+  {
+    "id": "10acabbf5f6b",
+    "source": "Al Jazeera",
+    "date": "2026-09-16T22:30",
+    "headline": "For checkpoint and settler attack news, Palestinians tune into the radio",
+    "excerpt": "Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-17T00:20:14.887412+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss"
+  },
+  {
     "id": "3d6ade1edec4",
     "source": "Al Jazeera",
     "date": "2026-09-16T21:15",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-04T11:37:03.980350+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss"
-  },
-  {
-    "id": "34abdcceb8c1",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T08:38",
-    "headline": "Why has the Philippine peso plunged to a record low?",
-    "excerpt": "The Southeast Asian country&#039;s currency has plummeted amid the fallout of the Iran war and economic challenges at home.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-04T11:37:03.980380+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss"
-  },
-  {
-    "id": "6b45168e4efc",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T07:30",
-    "headline": "Why Pakistan overhauled its military command structure after five decades",
-    "excerpt": "New legislation gives Pakistan&#039;s military chief sweeping command powers, raising questions about oversight.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-04T11:37:03.980415+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss"
-  },
-  {
-    "id": "b8ca8d0e9264",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T06:24",
-    "headline": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
-    "excerpt": "Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-04T11:37:03.980472+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss"
-  },
-  {
-    "id": "4ed3e913f379",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T06:22",
-    "headline": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
-    "excerpt": "Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-09-04T11:37:03.980513+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss"
-  },
-  {
-    "id": "dc8d4a12badb",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T05:11",
-    "headline": "No shelter or water, yet Lebanese return home, defying Israel.",
-    "excerpt": "Residents are returning to villages in southern Lebanon devastated by Israel’s invasion.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-04T06:24:23.004500+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/aje-onl-nf_south-lebanon-residents-return-to-devastated-villages-040926?traffic_source=rss"
   }
 ]
