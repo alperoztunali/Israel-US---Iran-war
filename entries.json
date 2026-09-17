@@ -1,5 +1,115 @@
 [
   {
+    "id": "d5e9377bd077",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T21:38",
+    "headline": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+    "excerpt": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington&#039;s help in its war with Yemen&#039;s Houthis.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-09-17T22:11:46.605576+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss"
+  },
+  {
+    "id": "01111298dc2b",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T21:27",
+    "headline": "Yemenis recount journey to Djibouti as refugee arrivals surge",
+    "excerpt": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-17T22:11:46.605615+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss"
+  },
+  {
+    "id": "cc03310cfe9a",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T21:20",
+    "headline": "US approves visas for top Iranian leaders to attend UN General Assembly",
+    "excerpt": "Iran&#039;s delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-17T22:11:46.605638+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss"
+  },
+  {
+    "id": "c7b6b995a166",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T21:01",
+    "headline": "Russia, China veto UN mandate to monitor Iran sanctions",
+    "excerpt": "Move ends the Security Council’s watchdog panel on Iran sanctions.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-17T22:11:46.605656+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss"
+  },
+  {
+    "id": "9c1db2983657",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T20:47",
+    "headline": "At least 26 killed in clashes along Sudan-South Sudan border region",
+    "excerpt": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-17T22:11:46.605674+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss"
+  },
+  {
+    "id": "b98be3fd429a",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T19:54",
+    "headline": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
+    "excerpt": "Warsaw also says it scrambled military planes in response to a Russian attack in western Ukraine, close to its border.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-17T22:11:46.605707+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss"
+  },
+  {
+    "id": "a550334f1255",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T19:42",
+    "headline": "Ilhan Omar attacker sentenced to more than a year in prison",
+    "excerpt": "The assailant sprayed vinegar at Ilhan Omar, admitting political motives were behind the assault at a townhall.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-17T22:11:46.605731+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/ilhan-omar-attacker-pleads-guilty-sentenced-to-more-than-a-year-in-prison?traffic_source=rss"
+  },
+  {
+    "id": "09a9b523f93c",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T19:31",
+    "headline": "Houthi leader denies targeting Mecca, vows to protect holy city",
+    "excerpt": "Houthi leader Abdul Malik al-Houthi pledges to defend Mecca and other Islamic holy sites.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-17T22:11:46.605761+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/houthi-leader-denies-targeting-mecca-vows-to-protect-holy-city?traffic_source=rss"
+  },
+  {
+    "id": "8232e973cda5",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T19:30",
+    "headline": "Russia ‘sabotaging’ power supply lines at Zaporizhzhia plant: Greenpeace",
+    "excerpt": "Investigation finds no evidence of Russia&#039;s claims that Ukrainian attacks hit the nuclear power plant.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-17T22:11:46.605790+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/russia-sabotaging-power-supply-lines-at-zaporizhzhia-plant-greenpeace?traffic_source=rss"
+  },
+  {
+    "id": "b1bd90ff1242",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T18:54",
+    "headline": "Serbia opens factory to assemble Israeli-made drones",
+    "excerpt": "Critics say Serbia&#039;s military ties with Israel are rising significantly.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-09-17T22:11:46.605801+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss"
+  },
+  {
     "id": "3600cfae71e6",
     "source": "Al Jazeera",
     "date": "2026-09-17T18:36",
@@ -5388,115 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-05T09:16:32.943937+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss"
-  },
-  {
-    "id": "8c15f32578ef",
-    "source": "Al Jazeera",
-    "date": "2026-09-05T06:51",
-    "headline": "At least five killed in Sudan’s South Kordofan in attack by rebel group",
-    "excerpt": "Sudan Doctors Network says SPLM-N forces shelled residential areas in the town of Dilling.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-05T09:16:32.943987+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss"
-  },
-  {
-    "id": "3e7961a49695",
-    "source": "Al Jazeera",
-    "date": "2026-09-05T06:11",
-    "headline": "Bolivian military barracks explosion kills at least 10",
-    "excerpt": "An explosion at a military barracks in Viacha, Bolivia, has killed at least 10 people and injured dozens.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-05T09:16:32.944022+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss"
-  },
-  {
-    "id": "650b51bbe745",
-    "source": "Al Jazeera",
-    "date": "2026-09-05T05:19",
-    "headline": "US imposes sanctions on Turkish bank, prompting legal threat",
-    "excerpt": "US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-05T09:16:32.944073+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss"
-  },
-  {
-    "id": "36f378a625d0",
-    "source": "Al Jazeera",
-    "date": "2026-09-05T03:56",
-    "headline": "Blasts at Bolivian military base kill at least 10, injure dozens",
-    "excerpt": "Authorities say seven people are still missing after deadly explosions at a facility storing pyrotechnic material.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-05T05:28:02.422832+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss"
-  },
-  {
-    "id": "abaed12d558a",
-    "source": "Al Jazeera",
-    "date": "2026-09-05T03:46",
-    "headline": "Did Israel’s destruction of Gaza worsen its water crisis?",
-    "excerpt": "Scientists say Israel’s destruction of Gaza’s sewage system may have worsened the Mediterranean&#039;s algae bloom crisis.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-05T05:28:02.422885+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/did-israels-destruction-of-gaza-worsen-its-water-crisis?traffic_source=rss"
-  },
-  {
-    "id": "eebb2c5863f1",
-    "source": "Al Jazeera",
-    "date": "2026-09-05T03:05",
-    "headline": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
-    "excerpt": "The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-09-05T05:28:02.422933+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss"
-  },
-  {
-    "id": "7549d941825b",
-    "source": "Al Jazeera",
-    "date": "2026-09-05T02:43",
-    "headline": "‘To challenge deadly blockade’: New flotilla mission sets sail for Gaza",
-    "excerpt": "Human rights advocates call for diplomatic measures to guarantee flotilla safety and end Israel&#039;s deadly Gaza blockade.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-09-05T05:28:02.422965+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/5/to-challenge-deadly-blockade-new-flotilla-mission-sets-sail-for-gaza?traffic_source=rss"
-  },
-  {
-    "id": "a7a05d8f741b",
-    "source": "Al Jazeera",
-    "date": "2026-09-05T00:00",
-    "headline": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
-    "excerpt": "US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-05T05:28:02.422998+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss"
-  },
-  {
-    "id": "f1f099d0e454",
-    "source": "Al Jazeera",
-    "date": "2026-09-05T00:00",
-    "headline": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
-    "excerpt": "US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-05T00:50:28.100728+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss"
-  },
-  {
-    "id": "9f32e9de6fc8",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T23:55",
-    "headline": "‘Small potatoes’: US President Trump downplays war on Iran",
-    "excerpt": "Trump tells reporters the US is &#039;not fighting right now&#039; despite a recent exchange of fire with Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-05T00:50:28.100776+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss"
   }
 ]
