@@ -1,5 +1,49 @@
 [
   {
+    "id": "c6b03858325f",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T03:26",
+    "headline": "Yemeni forces target Houthis as US rules out direct role",
+    "excerpt": "Saudi Arabia requests missile defence support from allies as the US sees its own stock of interceptors dwindle.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-09-17T05:10:30.995682+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss"
+  },
+  {
+    "id": "34878b9e3776",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T01:53",
+    "headline": "Reports: US, Houthis make secret deal over Yemen war",
+    "excerpt": "Yemen’s Houthis have agreed to allow US shipping unfettered Red Sea access if Washington refrains from military action.",
+    "category": "Naval",
+    "location": "Yemen",
+    "addedAt": "2026-09-17T05:10:30.995729+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/reports-us-houthis-make-secret-deal-over-yemen-war?traffic_source=rss"
+  },
+  {
+    "id": "a641829c5a32",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T00:55",
+    "headline": "Congress passes sweeping US sanctions bill targeting Russia",
+    "excerpt": "The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-17T05:10:30.995770+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss"
+  },
+  {
+    "id": "a37471c73409",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T00:32",
+    "headline": "US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’",
+    "excerpt": "The spokesman for US Central Command has told Al Jazeera its blockade of the Strait of Hormuz is ‘highly effective’.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-09-17T05:10:30.995814+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss"
+  },
+  {
     "id": "1c1603e17e87",
     "source": "Al Jazeera",
     "date": "2026-09-17T00:00",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-04T15:07:12.808557+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss"
-  },
-  {
-    "id": "09e0ca9afc52",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T12:10",
-    "headline": "South Korea mulls ‘contributions’ in Strait of Hormuz",
-    "excerpt": "Seoul heavily affected by closure of strategic waterway and under heavy US pressure for participation against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-04T15:07:12.808590+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "0828058635c9",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T11:12",
-    "headline": "Iran war: Why US midterms could be a pivotal moment",
-    "excerpt": "Rising prices and opposition to war may pressure Trump to de-escalate until after the midterms, analysts say.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-04T11:37:03.980255+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss"
-  },
-  {
-    "id": "47740cedbf5f",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T10:17",
-    "headline": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
-    "excerpt": "Argentina&#039;s president accused of political machinations as he eyes shifting US stance on Las Malvinas.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-09-04T11:37:03.980312+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss"
-  },
-  {
-    "id": "9d064c4d955b",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T09:42",
-    "headline": "Israel takes its war on Palestine into the AI age",
-    "excerpt": "The Hanover affair exposes a new front in Israel’s long-running effort to shape how Palestinians are understood.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-04T11:37:03.980350+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss"
   }
 ]
