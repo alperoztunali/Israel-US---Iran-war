@@ -1,5 +1,93 @@
 [
   {
+    "id": "7a7f71a8c8b5",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T14:10",
+    "headline": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
+    "excerpt": "Iran&#039;s speaker mocks US interest rates, citing the Taylor equation amidst rising global oil prices and inflation.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-09-17T15:02:21.357108+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates?traffic_source=rss"
+  },
+  {
+    "id": "c12baf728054",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T13:24",
+    "headline": "How far will Egypt go to help Saudi Arabia secure the Red Sea?",
+    "excerpt": "Regional analysts highlight the growing security alignment between Cairo and Riyadh amid escalating Red Sea tensions.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-09-17T15:02:21.357157+00:00",
+    "link": "https://www.aljazeera.com/news-analysis/2026/9/17/how-far-will-egypt-go-to-help-saudi-arabia-secure-the-red-sea?traffic_source=rss"
+  },
+  {
+    "id": "66a3530fef8a",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T12:59",
+    "headline": "US tariffs against Russian oil buyers pass: What it means for China, India",
+    "excerpt": "US sanctions aim to weaken Russian oil exports, heavily targeting China and India as Moscow&#039;s largest energy buyers.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-17T15:02:21.357194+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss"
+  },
+  {
+    "id": "3d6413fd50fe",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T12:31",
+    "headline": "Syrian court sentences three linked to coastal violence",
+    "excerpt": "Former member of gov&#039;t forces sentenced to 20 years, as two Assad supporters receive death sentence and life in prison.",
+    "category": "Movement",
+    "location": "Syria",
+    "addedAt": "2026-09-17T15:02:21.357221+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence?traffic_source=rss"
+  },
+  {
+    "id": "16566061ec97",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T11:01",
+    "headline": "Gaza repairman helps journalists to keep documenting genocide",
+    "excerpt": "As journalists in Gaza continue documenting the war, camera repairman Mohammed Radwan keeps damaged equipment in use.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-17T15:02:21.357249+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss"
+  },
+  {
+    "id": "a0bd72ab2679",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T10:32",
+    "headline": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
+    "excerpt": "The US president says Washington is &#039;hopefully toward the end&#039; of Iran war, as global energy prices remain high.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-17T15:02:21.357277+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again?traffic_source=rss"
+  },
+  {
+    "id": "ecc357a51d65",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T10:20",
+    "headline": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
+    "excerpt": "The security talks come as Israeli forces continue attacks across southern Lebanon despite a &quot;ceasefire&quot;.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-09-17T15:02:21.357316+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss"
+  },
+  {
+    "id": "158895cf35fe",
+    "source": "Al Jazeera",
+    "date": "2026-09-17T10:19",
+    "headline": "UK charities, protest groups condemn Israeli ban threat after sanctions",
+    "excerpt": "Having warned London of &#039;consequences&#039; for sanctions, Israel targets UK charities, campaign groups and Palestine Action.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-17T15:02:21.357355+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions?traffic_source=rss"
+  },
+  {
     "id": "cdfd41057150",
     "source": "Al Jazeera",
     "date": "2026-09-17T09:42",
@@ -5410,93 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-09-04T18:26:08.857236+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss"
-  },
-  {
-    "id": "61f4dd50919e",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T16:20",
-    "headline": "October 7 attack shapes Israel’s elections and fuels political blame",
-    "excerpt": "Three years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-04T18:26:08.857291+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss"
-  },
-  {
-    "id": "7090dd118700",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T16:13",
-    "headline": "‘Winds of change’: How Milei is stirring Falklands claim amid Trump-UK spat",
-    "excerpt": "Analysts say Argentina&#039;s president sees an opportunity to exploit Trump’s growing tensions with London.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-04T18:26:08.857336+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
-  },
-  {
-    "id": "1a109480fe02",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T16:03",
-    "headline": "Russian drone strikes Ukraine’s security service headquarters",
-    "excerpt": "A Russian drone has struck Ukraine’s domestic intelligence headquarters in central Kyiv, injuring five people.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-04T18:26:08.857366+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-russia-targets-ukraine-security-hq-clip-mp4?traffic_source=rss"
-  },
-  {
-    "id": "cd4f16899e49",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T15:44",
-    "headline": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
-    "excerpt": "As Ukrainian civilians suffer from air attacks, Russian ground forces struggle to advance.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-09-04T18:26:08.857392+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss"
-  },
-  {
-    "id": "42923da65fcc",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T15:31",
-    "headline": "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
-    "excerpt": "More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-04T18:26:08.857431+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss"
-  },
-  {
-    "id": "d6674a62c7fc",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T15:28",
-    "headline": "Diesel price hits all-time high in US amid Iran war woes",
-    "excerpt": "Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-04T18:26:08.857460+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss"
-  },
-  {
-    "id": "bdcaa89254a2",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T15:24",
-    "headline": "US rejects Israeli suggestions of removing Palestinians from Gaza",
-    "excerpt": "US State Department tells Al Jazeera that Washington &#039;does not support any plan&#039; for expulsion of Palestinians.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-04T18:26:08.857501+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss"
-  },
-  {
-    "id": "d58ea1b38ce0",
-    "source": "Al Jazeera",
-    "date": "2026-09-04T15:16",
-    "headline": "Israel releases five detainees to Lebanon after US-mediated negotiations",
-    "excerpt": "Israel has released five people to Lebanon after US-mediated negotiations. Dozens of Lebanese remain detained by Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-04T18:26:08.857532+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss"
   }
 ]
