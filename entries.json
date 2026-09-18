@@ -1,5 +1,49 @@
 [
   {
+    "id": "93ad5fe5ea5c",
+    "source": "Al Jazeera",
+    "date": "2026-09-18T19:31",
+    "headline": "Lebanese artist turns Israeli missile debris into art",
+    "excerpt": "In southern Lebanon, visual artist Lina Jouni transforms debris from Israeli missile strikes into pieces of art.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-09-18T20:00:05.143165+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss"
+  },
+  {
+    "id": "c6d7a31a4062",
+    "source": "Al Jazeera",
+    "date": "2026-09-18T19:14",
+    "headline": "Two injured by Israeli shelling as troops advance in southern Lebanon",
+    "excerpt": "Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-18T20:00:05.143202+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "4929479a178c",
+    "source": "Al Jazeera",
+    "date": "2026-09-18T18:19",
+    "headline": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
+    "excerpt": "Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in the east.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-18T20:00:05.143234+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss"
+  },
+  {
+    "id": "0e5aa14c1380",
+    "source": "Al Jazeera",
+    "date": "2026-09-18T17:23",
+    "headline": "Iranians rally in biggest show of defiance against US since war began",
+    "excerpt": "Volunteers rallied through downtown Tehran to join campaign highlighting &#039;self-sacrifice&#039; for Iran.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-09-18T20:00:05.143265+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss"
+  },
+  {
     "id": "3df62bfaf475",
     "source": "Al Jazeera",
     "date": "2026-09-18T16:38",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-06T04:07:09.536347+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss"
-  },
-  {
-    "id": "73a2b6a9f3c9",
-    "source": "Al Jazeera",
-    "date": "2026-09-06T01:02",
-    "headline": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-    "excerpt": "Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-09-06T04:07:09.536381+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss"
-  },
-  {
-    "id": "8ebfb576e78a",
-    "source": "Al Jazeera",
-    "date": "2026-09-06T00:53",
-    "headline": "German company launches rocket as Europe enters satellite race",
-    "excerpt": "Isar Aerospace says its 28-metre-long Spectrum rocket blasted off into space from Andøya spaceport in Arctic Norway.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-06T04:07:09.536412+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss"
-  },
-  {
-    "id": "34a988e30565",
-    "source": "Al Jazeera",
-    "date": "2026-09-06T00:00",
-    "headline": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
-    "excerpt": "IRGC launches new strikes after firing missiles at US warships as standoff in Strait of Hormuz intensifies.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-09-06T04:07:09.536433+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss"
-  },
-  {
-    "id": "db866d6419b5",
-    "source": "Al Jazeera",
-    "date": "2026-09-05T23:07",
-    "headline": "Fuel tanker blast in western Iran kills at least 10",
-    "excerpt": "At least six other people were injured in the tanker blast on Iran&#039;s Hamedan-Sanandaj highway, officials say.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-09-05T23:55:41.952264+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss"
   }
 ]
