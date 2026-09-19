@@ -1,5 +1,16 @@
 [
   {
+    "id": "b5bfed06e7fa",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T22:03",
+    "headline": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+    "excerpt": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-09-19T23:25:17.249698+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss"
+  },
+  {
     "id": "22826f568664",
     "source": "Al Jazeera",
     "date": "2026-09-19T20:40",
@@ -5487,16 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-07T12:39:56.634898+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss"
-  },
-  {
-    "id": "35d9f75afc48",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T09:44",
-    "headline": "Video: Israeli air strikes kill at least 10 in southern Lebanon",
-    "excerpt": "Israeli air strikes on southern Lebanon began at dawn on Sunday, killing at least 10 people.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-09-07T12:39:56.634921+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
   }
 ]
