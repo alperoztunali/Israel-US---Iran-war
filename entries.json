@@ -1,5 +1,38 @@
 [
   {
+    "id": "400309b77ae6",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T18:32",
+    "headline": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+    "excerpt": "Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-09-19T18:59:29.350661+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss"
+  },
+  {
+    "id": "e8f0624c9f10",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T18:06",
+    "headline": "Israel targets paramedics in southern Lebanon",
+    "excerpt": "Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-09-19T18:59:29.350694+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "58a88bc9234d",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T17:14",
+    "headline": "Ed Sheeran concert set to go ahead after outcry over Gaza",
+    "excerpt": "Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-19T18:59:29.350726+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss"
+  },
+  {
     "id": "6b6214e537fe",
     "source": "Al Jazeera",
     "date": "2026-09-19T15:38",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-07T12:39:56.635023+00:00",
     "link": "https://www.aljazeera.com/sports/2026/9/7/arsenal-vs-chelsea-gunners-stamp-authority-but-blues-are-contenders-too?traffic_source=rss"
-  },
-  {
-    "id": "784a89f3102a",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T08:31",
-    "headline": "Israel’s Katz threatens ‘full-scale war’ against PA after settler stabbed",
-    "excerpt": "The stabbing follows a wave of pogroms against Palestinians in the occupied West Bank by Israeli settlers.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-07T12:39:56.635089+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/7/israeli-wounded-in-stabbing-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "31c64a737741",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T06:58",
-    "headline": "Israeli air attacks kill at least 11 people in southern Lebanon",
-    "excerpt": "Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-09-07T12:39:56.635117+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "330245e76908",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T05:37",
-    "headline": "Six children among 11 people killed in Indonesian market fire",
-    "excerpt": "A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-07T06:11:08.960747+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss"
   }
 ]
