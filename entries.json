@@ -1,5 +1,93 @@
 [
   {
+    "id": "0b0d977e7845",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T12:59",
+    "headline": "Child among three Palestinians killed in Israeli attacks across Gaza",
+    "excerpt": "Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-19T13:28:21.050791+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss"
+  },
+  {
+    "id": "7ef4d7f496c8",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T12:51",
+    "headline": "What’s behind reports that the Israeli army is low on troops, equipment?",
+    "excerpt": "Israel&#039;s Channel 12 and Maariv newspaper claim the military is facing &#039;severe shortages&#039;.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-09-19T13:28:21.050836+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss"
+  },
+  {
+    "id": "f8cb6b5b9ddb",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T12:34",
+    "headline": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+    "excerpt": "The sanctions, introduced during the Biden administration, targeted Eritrea&#039;s governing party and the military.",
+    "category": "Diplomatic",
+    "location": "Red Sea",
+    "addedAt": "2026-09-19T13:28:21.050880+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss"
+  },
+  {
+    "id": "5b1d9421444d",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T12:29",
+    "headline": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
+    "excerpt": "Funerals are underway in Kohat, Pakistan, after a suicide attacker rammed an explosives-laden car into a mosque killing",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-19T13:28:21.050913+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss"
+  },
+  {
+    "id": "6c6708fc18c0",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T12:21",
+    "headline": "Saudi-led naval coalition prepares to secure Red Sea waterways",
+    "excerpt": "Saudi Arabia has hosted a multinational naval coalition meeting aimed at protecting shipping in the Red Sea.",
+    "category": "Naval",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-09-19T13:28:21.050938+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss"
+  },
+  {
+    "id": "f624f21ff90f",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T12:18",
+    "headline": "In Gaza, actors perform a war they are still living",
+    "excerpt": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.",
+    "category": "Naval",
+    "location": "Gaza",
+    "addedAt": "2026-09-19T13:28:21.050966+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss"
+  },
+  {
+    "id": "06b457ba9bba",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T10:56",
+    "headline": "Iran stages show of force during mobilisation campaign in Tehran",
+    "excerpt": "Armed women, anti-aircraft guns and Shaheed drones were seen in Tehran as hundreds of thousands marched in the capital.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-09-19T13:28:21.050984+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss"
+  },
+  {
+    "id": "d996a621510a",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T10:51",
+    "headline": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
+    "excerpt": "Ukraine&#039;s Air Force says Russia hit the country with dozens of drones and two antiship missiles overnight.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-19T13:28:21.051019+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss"
+  },
+  {
     "id": "df4b3db98262",
     "source": "Al Jazeera",
     "date": "2026-09-19T08:47",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-06T23:16:35.680182+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss"
-  },
-  {
-    "id": "653e5ca75d4b",
-    "source": "Al Jazeera",
-    "date": "2026-09-06T21:08",
-    "headline": "At least 10 killed in central Mexico fireworks blast during festival",
-    "excerpt": "Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-06T21:45:09.945482+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss"
-  },
-  {
-    "id": "1ec7e9dfd1bf",
-    "source": "Al Jazeera",
-    "date": "2026-09-06T20:20",
-    "headline": "Will Israelis re-elect Benjamin Netanyahu?",
-    "excerpt": "Recent opinion polls suggest opposition bloc is ahead of PM&#039;s coalition.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-06T21:45:09.945528+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss"
-  },
-  {
-    "id": "0246bb5a01cc",
-    "source": "Al Jazeera",
-    "date": "2026-09-06T20:05",
-    "headline": "At least five killed in New Delhi building collapse",
-    "excerpt": "At least five people have been killed and nine rescued after a building housing mostly students collapsed in New Delhi.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-06T21:45:09.945565+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss"
-  },
-  {
-    "id": "e4b6829a44b3",
-    "source": "Al Jazeera",
-    "date": "2026-09-06T18:56",
-    "headline": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
-    "excerpt": "Activists slam campaign showing soldier while over 5,000 Palestinians faced amputations due to Israeli attacks in Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-06T19:36:03.169062+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss"
-  },
-  {
-    "id": "fbe987be4472",
-    "source": "Al Jazeera",
-    "date": "2026-09-06T17:03",
-    "headline": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
-    "excerpt": "West Bank farmers defy daily settler attacks, sheep theft, and military restrictions to protect their land.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-06T17:44:00.339276+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss"
-  },
-  {
-    "id": "5b0df411ffbf",
-    "source": "Al Jazeera",
-    "date": "2026-09-06T16:59",
-    "headline": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
-    "excerpt": "US Energy Secretary Chris Wright&#039;s comments could signal that US hopes for a nuclear deal are dimming.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-06T17:44:00.339326+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss"
-  },
-  {
-    "id": "beb4e5055463",
-    "source": "Al Jazeera",
-    "date": "2026-09-06T16:17",
-    "headline": "Iran touts military response as US maintains blockade, hits tankers",
-    "excerpt": "Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-09-06T17:44:00.339358+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss"
-  },
-  {
-    "id": "d43eee234ce7",
-    "source": "Al Jazeera",
-    "date": "2026-09-06T15:42",
-    "headline": "Niger military accuses France of orchestrating failed mutiny: What to know",
-    "excerpt": "French officials deny involvement, but tensions between the two countries remain high.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-06T17:44:00.339395+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss"
   }
 ]
