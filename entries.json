@@ -1,5 +1,38 @@
 [
   {
+    "id": "22826f568664",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T20:40",
+    "headline": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+    "excerpt": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-19T21:26:16.462384+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
+  },
+  {
+    "id": "bf4ae96b3dd7",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T20:30",
+    "headline": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+    "excerpt": "Gaza&#039;s IT industry has been devastated from three-years of bombing and destruction.",
+    "category": "Airstrike",
+    "location": "Gaza",
+    "addedAt": "2026-09-19T21:26:16.462422+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss"
+  },
+  {
+    "id": "c9b948b54afe",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T20:13",
+    "headline": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+    "excerpt": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-19T21:26:16.462466+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss"
+  },
+  {
     "id": "400309b77ae6",
     "source": "Al Jazeera",
     "date": "2026-09-19T18:32",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-07T12:39:56.634921+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "d5137c3dc962",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T09:30",
-    "headline": "Iran war: How US consumers spent an additional $100bn on fuel",
-    "excerpt": "The average US household has spent $763 extra on fuel in six months, as the US-Israel war on Iran pushes up fuel costs.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-07T12:39:56.634952+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/7/iran-war-how-us-consumers-spent-an-additional-100bn-on-fuel?traffic_source=rss"
-  },
-  {
-    "id": "820297d55b4c",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T09:14",
-    "headline": "Nepal holds day of mourning for more than 1,300 killed in floods",
-    "excerpt": "Nepal flags fly at half-mast to mark a day of mourning after catastrophic Himalayan floods kill more than 1,300.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-07T12:39:56.634984+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/7/nepal-holds-day-of-mourning-for-more-than-1300-killed-in-floods?traffic_source=rss"
-  },
-  {
-    "id": "8b873fa00351",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T08:50",
-    "headline": "Arsenal vs Chelsea: Gunners stamp authority, but Blues are contenders too",
-    "excerpt": "Arsenal&#039;s strong defence and reliable attack edge Chelsea&#039;s bravery and intent in the Premier League&#039;s biggest clash.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-07T12:39:56.635023+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/9/7/arsenal-vs-chelsea-gunners-stamp-authority-but-blues-are-contenders-too?traffic_source=rss"
   }
 ]
