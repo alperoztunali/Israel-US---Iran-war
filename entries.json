@@ -1,5 +1,82 @@
 [
   {
+    "id": "017f4442b160",
+    "source": "Al Jazeera",
+    "date": "2026-09-20T11:26",
+    "headline": "Back to school in Gaza: Learning in tents after years of disruption",
+    "excerpt": "After nearly three years of disruption, children return to school in Gaza in makeshift spaces with scarce resources.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-20T12:09:45.391991+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss"
+  },
+  {
+    "id": "845f6c34d662",
+    "source": "Al Jazeera",
+    "date": "2026-09-20T11:21",
+    "headline": "What are Iran’s latest conditions to end its war with the US?",
+    "excerpt": "Iran&#039;s latest stipulations come as growing regional escalation causes oil prices to cross $100 per barrel.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-20T12:09:45.392046+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss"
+  },
+  {
+    "id": "56742e372a9b",
+    "source": "Al Jazeera",
+    "date": "2026-09-20T10:23",
+    "headline": "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
+    "excerpt": "Ankara expresses readiness to assist Riyadh as Houthi attacks escalate, testing a recent trilateral defence agreement.",
+    "category": "Diplomatic",
+    "location": "Riyadh",
+    "addedAt": "2026-09-20T12:09:45.392094+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss"
+  },
+  {
+    "id": "e6468e74dfd3",
+    "source": "Al Jazeera",
+    "date": "2026-09-20T09:30",
+    "headline": "‘There will be a very sizeable Saudi response’ to Houthi attacks",
+    "excerpt": "Nawaf Obaid tells Al Jazeera that Saudi Arabia’s response to Houthi attacks from Yemen will be massive.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-20T12:09:45.392134+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
+  },
+  {
+    "id": "730a1de6abe2",
+    "source": "Al Jazeera",
+    "date": "2026-09-20T08:32",
+    "headline": "Echoicide: Who decides which truths survive in Gaza?",
+    "excerpt": "From Gaza to the digital age, visibility has become one of the central political struggles of modern conflicts.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-20T12:09:45.392166+00:00",
+    "link": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "938d81dc2003",
+    "source": "Al Jazeera",
+    "date": "2026-09-20T06:57",
+    "headline": "Two killed in Ukrainian drone attack on Moscow, says Russia",
+    "excerpt": "Moscow mayor says Russia has intercepted 1,600 drones since Saturday, including 450 directed at the capital.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-20T12:09:45.392198+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss"
+  },
+  {
+    "id": "f8daf420b0b1",
+    "source": "Al Jazeera",
+    "date": "2026-09-20T03:40",
+    "headline": "Morocco’s PJD: what has the party learned ahead of the 2026 election?",
+    "excerpt": "After its 2021 defeat, the party with an Islamic reference is rebuilding under Abdelilah Benkirane. Can it regain trust?",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-20T12:09:45.392241+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss"
+  },
+  {
     "id": "c8eb4a61a1d0",
     "source": "Al Jazeera",
     "date": "2026-09-20T04:55",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-07T21:26:09.538290+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss"
-  },
-  {
-    "id": "2b620ea8a925",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T19:03",
-    "headline": "Syria detains Assad-era general accused of bloody crackdown on protests",
-    "excerpt": "Major-General Mohammed Ali Durgham is accused of links to 1982 Hama massacre and 2011 protest crackdown.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-09-07T21:26:09.538323+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss"
-  },
-  {
-    "id": "d353e00cd152",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T18:27",
-    "headline": "Russia shutters German consulate as diplomatic freeze deepens",
-    "excerpt": "Moscow retaliates after similar move from Berlin last week citing failed drone attack on airport.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-07T21:26:09.538354+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss"
-  },
-  {
-    "id": "dbc0fa116ab1",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T18:11",
-    "headline": "Israel’s plan to split the West Bank",
-    "excerpt": "Israel&#039;s E1 plan risks splitting the West Bank in two.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-07T21:26:09.538386+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "8a2d868b504d",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T17:50",
-    "headline": "Board of Peace touts progress as Palestinians’ situation worsens",
-    "excerpt": "Humanitarian official Athena Rayburn dissects the Israeli tactics making life ‘untenable’ for millions of Palestinians.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-07T21:26:09.538432+00:00",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss"
-  },
-  {
-    "id": "862f245d92f3",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T17:36",
-    "headline": "Nauru opens embassy in Jerusalem",
-    "excerpt": "Pacific island nation Nauru has opened its embassy in Jerusalem, becoming the ninth country to do so.",
-    "category": "Other",
-    "location": "Jerusalem",
-    "addedAt": "2026-09-07T17:56:19.419184+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss"
-  },
-  {
-    "id": "895dc68312c9",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T17:31",
-    "headline": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
-    "excerpt": "President Rodrigo Paz declares national mourning, urges unity after deadly military base explosions near La Paz.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-07T17:56:19.419228+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss"
-  },
-  {
-    "id": "f17a5914d6b4",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T17:23",
-    "headline": "Gaza: Genocide in Real Time?",
-    "excerpt": "B&#039;Tselem Executive Directo",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-07T17:56:19.419254+00:00",
-    "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss"
   }
 ]
