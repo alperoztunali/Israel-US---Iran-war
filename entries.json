@@ -1,5 +1,27 @@
 [
   {
+    "id": "097c5969b4ff",
+    "source": "Al Jazeera",
+    "date": "2026-09-20T00:00",
+    "headline": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+    "excerpt": "Iran security chief says Tehran&#039;s demands include an end to war on all fronts and the lifting of US&#039;s naval blockade.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-09-20T01:29:13.124382+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss"
+  },
+  {
+    "id": "9afd0aaf8ad3",
+    "source": "Al Jazeera",
+    "date": "2026-09-19T23:18",
+    "headline": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+    "excerpt": "Turkish FM highlights Turkiye&#039;s readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-20T01:29:13.124427+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss"
+  },
+  {
     "id": "b5bfed06e7fa",
     "source": "Al Jazeera",
     "date": "2026-09-19T22:03",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-07T12:39:56.634818+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss"
-  },
-  {
-    "id": "cce59f10ee4c",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T11:37",
-    "headline": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
-    "excerpt": "Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-09-07T12:39:56.634865+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "c3bc3804bd7d",
-    "source": "Al Jazeera",
-    "date": "2026-09-07T11:26",
-    "headline": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
-    "excerpt": "There&#039;s less crude in the market, and refiners prefer to produce diesel. The result: Ships are running short of fuel.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-09-07T12:39:56.634898+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss"
   }
 ]
