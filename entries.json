@@ -1,5 +1,38 @@
 [
   {
+    "id": "478ebb14b0e8",
+    "source": "Al Jazeera",
+    "date": "2026-09-20T17:59",
+    "headline": "Gaza artists honour Macklemore for supporting Palestine",
+    "excerpt": "Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-20T18:50:14.830059+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss"
+  },
+  {
+    "id": "ce9999d2c8f3",
+    "source": "Al Jazeera",
+    "date": "2026-09-20T17:55",
+    "headline": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
+    "excerpt": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-20T18:50:14.830094+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss"
+  },
+  {
+    "id": "454d432fcdba",
+    "source": "Al Jazeera",
+    "date": "2026-09-20T15:57",
+    "headline": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
+    "excerpt": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-20T18:50:14.830132+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss"
+  },
+  {
     "id": "2bc77e7f753d",
     "source": "Al Jazeera",
     "date": "2026-09-20T15:30",
@@ -5465,38 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-09-08T11:41:28.349869+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss"
-  },
-  {
-    "id": "9716bf92d24b",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T05:34",
-    "headline": "Palestine weekly: Israeli ministers push for depopulation of Gaza",
-    "excerpt": "Ethnic cleansing plans move from slogans to policy proposals, amid West Bank demolitions and mounting deaths in Gaza.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-09-08T06:29:29.177249+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss"
-  },
-  {
-    "id": "5159b60156c6",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T04:26",
-    "headline": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-    "excerpt": "Spokesperson for Saudi-led coalition says Houthis have targeted civilian sites in Abha, Khamis Mushait, Jazan and Najran.",
-    "category": "Casualties",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-09-08T06:29:29.177282+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss"
-  },
-  {
-    "id": "6dd45e27b44e",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T04:24",
-    "headline": "‘House moved like jelly’ says resident near Bolivia barracks blast",
-    "excerpt": "Reports are emerging from the powerful explosion at a military barracks in Bolivia that killed at least nine people.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-08T06:29:29.177315+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss"
   }
 ]
