@@ -1,5 +1,49 @@
 [
   {
+    "id": "7e739a995216",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T05:21",
+    "headline": "Iran’s military says US preparing to resume strikes",
+    "excerpt": "Tehran threatens retaliation as Trump weighs military action while Qatar pushes to revive talks.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-09-21T06:59:34.015329+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss"
+  },
+  {
+    "id": "957a1b0d3d32",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T04:19",
+    "headline": "Massive explosions at Syrian army weapons depot near Aleppo",
+    "excerpt": "Explosions rocked a Syrian army ammunition depot south of Aleppo, injuring at least four people.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-09-21T06:59:34.015381+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss"
+  },
+  {
+    "id": "618ea3f9c101",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T01:30",
+    "headline": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+    "excerpt": "Officials urge civilians to stay away from the site in al-Eis near Aleppo after a series of explosions.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-09-21T06:59:34.015420+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss"
+  },
+  {
+    "id": "b29ec4dd3c58",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T01:19",
+    "headline": "Trump administration readies sweeping sanctions against ICC, reports say",
+    "excerpt": "Measures targeting the court itself could disrupt payments, IT services and investigations.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-21T06:59:34.015457+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss"
+  },
+  {
     "id": "6e3117fb0007",
     "source": "Al Jazeera",
     "date": "2026-09-21T00:00",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-08T15:21:40.630621+00:00",
     "link": "https://www.aljazeera.com/features/2026/9/8/manipur-musician-killed-in-indian-capital-reviving-racism-concerns?traffic_source=rss"
-  },
-  {
-    "id": "01bd058dbe5b",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T12:44",
-    "headline": "Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority",
-    "excerpt": "Qatar&#039;s Foreign Ministry says Doha working towards diplomatic solutions to end US war on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-08T15:21:40.630651+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority?traffic_source=rss"
-  },
-  {
-    "id": "70faeeee2f60",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T12:34",
-    "headline": "UK, France among 12 states backing sanctions on illegal Israeli settlements",
-    "excerpt": "UK to ⁠introduce import ban on goods ⁠from illegal ​settlements in occupied West Bank, in coordination with others.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-08T15:21:40.630693+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
-  },
-  {
-    "id": "d45e1c531d34",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T12:00",
-    "headline": "BRICS summit may be the only place another Iran ceasefire can be built",
-    "excerpt": "Its members and partners have brokered every ceasefire so far and hold the relationships needed to build the next one.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-09-08T15:21:40.630719+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss"
-  },
-  {
-    "id": "86dc87ca0e16",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T11:40",
-    "headline": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
-    "excerpt": "Saudi Arabia promises firm retaliation after Houthi strikes injure 73 and disrupt energy facilities in southern cities.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-09-08T15:21:40.630754+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss"
   }
 ]
