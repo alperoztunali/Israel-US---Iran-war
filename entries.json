@@ -1,5 +1,38 @@
 [
   {
+    "id": "024199f56ed1",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T20:57",
+    "headline": "Former ‘death squad’ leader appears in military trial in The Gambia",
+    "excerpt": "Sanna Manjang faces court for deserting army in 2017 after end of Jammeh&#039;s 20-year rule.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-21T22:45:47.156360+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss"
+  },
+  {
+    "id": "7fbc3c6e36f7",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T19:22",
+    "headline": "Protesters blockade Elbit Systems factory over Israel weapons supply",
+    "excerpt": "Nine protesters blocked access to Elbit Systems’ factory in Staffordshire by attaching themselves to five ‘lock-ons’.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-21T22:45:47.156401+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss"
+  },
+  {
+    "id": "7119bd04efa8",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T19:10",
+    "headline": "Trump approval rating hits career low of 32% amid Iran war, high costs",
+    "excerpt": "Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-21T22:45:47.156427+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss"
+  },
+  {
     "id": "590a3c818bb8",
     "source": "Al Jazeera",
     "date": "2026-09-21T18:40",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-08T21:43:16.650768+00:00",
     "link": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss"
-  },
-  {
-    "id": "171461094cff",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T18:18",
-    "headline": "Qatar responds to Netanyahu’s ‘hostile state’ remark",
-    "excerpt": "Qatar has responded to Benjamin Netanyahu’s claims that it’s a &#039;hostile state&#039;.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-09-08T18:55:27.472984+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss"
-  },
-  {
-    "id": "e6d80f2d8d69",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T18:00",
-    "headline": "Women and children remain trapped in Syria’s Roj camp",
-    "excerpt": "Women and children remain trapped in Syria’s Roj camp",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-09-08T18:55:27.473022+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss"
-  },
-  {
-    "id": "ec01ebc2914f",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T17:37",
-    "headline": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
-    "excerpt": "This phase of the war  could be the start of another protracted conflict rather than a decisive campaign, say analysts.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-09-08T18:55:27.473054+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss"
   }
 ]
