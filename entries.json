@@ -1,5 +1,104 @@
 [
   {
+    "id": "0ab626598c58",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T12:49",
+    "headline": "NFL’s Azeez Al-Shaair honours another Palestinian girl killed by Israel",
+    "excerpt": "Azeez Al-Shaair has paid tribute to another Palestinian child killed by Israel, despite the NFL fine last week.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-21T13:57:34.906633+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/nfls-azeez-al-shaair-honours-another-palestinian-girl-killed-by-israel?traffic_source=rss"
+  },
+  {
+    "id": "7e2577d62039",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T12:32",
+    "headline": "Israeli attacks on Gaza kill three, including a child",
+    "excerpt": "Israeli attacks on Palestinians continue in Gaza despite a &#039;ceasefire&#039; signed in October.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-21T13:57:34.906667+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss"
+  },
+  {
+    "id": "e1827a5a4e8d",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T12:31",
+    "headline": "Israeli forces arrest dozens of Palestinians in occupied West Bank raid",
+    "excerpt": "At least 53 young men are being held in Biddu after raids left the town in lockdown, with schools and businesses shut.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-09-21T13:57:34.906687+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/21/israeli-forces-arrest-dozens-of-palestinians-in-occupied-west-bank-raid?traffic_source=rss"
+  },
+  {
+    "id": "03945adbec19",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T11:26",
+    "headline": "NFL’s Azeez Al-Shaair pays tribute to slain Palestinian girl Wafaa Akila",
+    "excerpt": "Al-Shaair wears eye black with Akila&#039;s name despite being fined for displaying messages about Israel&#039;s genocide in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-21T13:57:34.906715+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/9/21/nfls-azeez-al-shaair-pays-tribute-to-slain-palestinian-girl-wafaa-akila?traffic_source=rss"
+  },
+  {
+    "id": "f0f21f8a589a",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T11:00",
+    "headline": "Why is the US trying ‘regime change’ again?",
+    "excerpt": "The US invasions after 9/11 were disasters -- but the US is trying again in Iran anyway",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-21T13:57:34.906736+00:00",
+    "link": "https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss"
+  },
+  {
+    "id": "76463f59b8c4",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T10:38",
+    "headline": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
+    "excerpt": "The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-21T13:57:34.906763+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss"
+  },
+  {
+    "id": "5fde8fc73fe9",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T10:10",
+    "headline": "Mystery object spotted hovering over Tehran",
+    "excerpt": "A mysterious object filmed hovering over Tehran has sparked online speculation.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-09-21T13:57:34.906781+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss"
+  },
+  {
+    "id": "a58a1691fe82",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T10:01",
+    "headline": "A simple guide to the Yemen conflict",
+    "excerpt": "Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-21T13:57:34.906812+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss"
+  },
+  {
+    "id": "be45fec0620b",
+    "source": "Al Jazeera",
+    "date": "2026-09-21T09:54",
+    "headline": "Do Israelis feel any safer now than they did on October 6, 2023?",
+    "excerpt": "Despite having rarely been more secure, public concerns about security continue to dominate the election.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-21T13:57:34.906832+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss"
+  },
+  {
     "id": "7e739a995216",
     "source": "Al Jazeera",
     "date": "2026-09-21T05:21",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-08T18:55:27.473309+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
-  },
-  {
-    "id": "a4eded241bb4",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T15:12",
-    "headline": "Jerusalem Daily: UK announces sanctions on Israeli settlement goods",
-    "excerpt": "The UK’s foreign secretary has announced a ban on trade with goods from Israeli settlements in the occupied West Bank.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-08T15:21:40.630321+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/jerusalem-daily-uk-announces-sanctions-on-israeli-settlement-goods?traffic_source=rss"
-  },
-  {
-    "id": "96aa0845b922",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T15:00",
-    "headline": "UK imposes ban on goods from Israeli settlements in occupied West Bank",
-    "excerpt": "The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-09-08T15:21:40.630370+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "46d7272616f3",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T14:52",
-    "headline": "UK bans goods from Israeli West Bank settlements: What that really means",
-    "excerpt": "Foreign Minister Ed Miliband said the ban represents a &#039;comprehensive reset&#039; of UK&#039;s policy on Israel.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-09-08T15:21:40.630403+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss"
-  },
-  {
-    "id": "114e8b3f06dd",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T14:16",
-    "headline": "Yemen’s reignited war fuels a new wave in child recruitment",
-    "excerpt": "Yemeni government and Houthi forces are engaged in a new round of fighting.",
-    "category": "Movement",
-    "location": "Yemen",
-    "addedAt": "2026-09-08T15:21:40.630432+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/8/yemens-reignited-war-fuels-a-new-wave-in-child-recruitment?traffic_source=rss"
-  },
-  {
-    "id": "813888eab5ea",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T13:52",
-    "headline": "Video: Germany says ICJ lacks jurisdiction in Nicaragua genocide case",
-    "excerpt": "Germany is seeking to have Nicaragua’s Gaza genocide case thrown out at the International Court of Justice.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-08T15:21:40.630465+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/video-germany-says-icj-lacks-jurisdiction-in-nicaragua-genocide-case?traffic_source=rss"
-  },
-  {
-    "id": "8eb841fb7ac7",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T13:43",
-    "headline": "Video: Saudi–Russia Press Conference in Moscow: Key Takeaways",
-    "excerpt": "Saudi Arabia’s Foreign Minister is in Moscow for a joint Saudi Russian press conference.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-09-08T15:21:40.630502+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/video-saudi-russia-press-conference-in-moscow-key?traffic_source=rss"
-  },
-  {
-    "id": "39bfe8f98e53",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T13:34",
-    "headline": "Napoli’s Scott McTominay undergoes successful heart surgery",
-    "excerpt": "The midfielder, who will return to training in two weeks, will miss Wednesday&#039;s Champions League game against Arsenal.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-08T15:21:40.630544+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/9/8/napolis-scott-mctominay-undergoes-successful-heart-surgery?traffic_source=rss"
-  },
-  {
-    "id": "ae329f209103",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T13:30",
-    "headline": "Macklemore defends ‘Free Palestine’ call after Ed Sheeran concert backlash",
-    "excerpt": "Macklemore is facing backlash from pro-Israel groups after saying ‘Free Palestine’ while opening for Ed Sheeran.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-08T15:21:40.630592+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/macklemore-defends-free-palestine-call-after-ed-sheeran-concert-backlash?traffic_source=rss"
-  },
-  {
-    "id": "9b7131d17c60",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T13:16",
-    "headline": "Manipur musician killed in Indian capital, reviving racism concerns",
-    "excerpt": "The guitarist&#039;s killing leads to an outcry, exposing decades of racial discrimination faced by northeastern communities.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-08T15:21:40.630621+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/8/manipur-musician-killed-in-indian-capital-reviving-racism-concerns?traffic_source=rss"
   }
 ]
