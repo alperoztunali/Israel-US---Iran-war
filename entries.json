@@ -1,5 +1,82 @@
 [
   {
+    "id": "c69a494927f1",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T19:56",
+    "headline": "Djibouti minister appeals for aid for Yemeni refugees",
+    "excerpt": "Djibouti’s Minister of Social Affairs and Solidarity, Ouloufa Ismail Abdo, appeals for aid for Yemeni refugees",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-22T20:13:32.046978+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss"
+  },
+  {
+    "id": "e2d5bfe2f83f",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T19:29",
+    "headline": "Qatar denounces Israeli aggression across the region",
+    "excerpt": "Qatari Emir Sheikh Tamim bin Hamad Al Thani has denounced Israeli aggression in neighbouring countries.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-22T20:13:32.047024+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-denounces-israeli-aggression-across-the-region?traffic_source=rss"
+  },
+  {
+    "id": "cb0567182d68",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T19:14",
+    "headline": "Erdogan accuses Israel of ‘genocidal mindset’ at UNGA",
+    "excerpt": "Turkish President Recep Tayyip Erdogan accused Israel of a “genocidal mindset” at the UN General Assembly.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-22T20:13:32.047062+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/erdogan-accuses-israel-of-genocidal-mindset-at-unga?traffic_source=rss"
+  },
+  {
+    "id": "ba113d54e557",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T18:48",
+    "headline": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
+    "excerpt": "Sheikh Tamim says years of delayed diplomacy led to the US-Israeli war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-22T20:13:32.047096+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss"
+  },
+  {
+    "id": "dff228fa4d96",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T18:27",
+    "headline": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
+    "excerpt": "Qatari Emir Sheikh Tamim bin Hamad Al Thani called for the reopening of the Strait of Hormuz while speaking at the UN.",
+    "category": "Statement",
+    "location": "Qatar",
+    "addedAt": "2026-09-22T20:13:32.047130+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "61f084efd75f",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T18:14",
+    "headline": "US, Iran hold ‘very good’ talks, Trump says at UN meeting",
+    "excerpt": "US President hints at possible deal with Iran, but warns of dire consequences if no agreement is reached.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-22T20:13:32.047164+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss"
+  },
+  {
+    "id": "8bab1eab6de1",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T17:02",
+    "headline": "Turkiye school shooting leaves 11 pupils wounded",
+    "excerpt": "Eleven pupils were wounded after a student opened fire near a secondary school in Manisa, western Turkiye",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-22T20:13:32.047190+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss"
+  },
+  {
     "id": "f8a736b17888",
     "source": "Al Jazeera",
     "date": "2026-09-22T16:55",
@@ -5421,82 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-09T16:30:33.262453+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "308ae73ddfdf",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T13:02",
-    "headline": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
-    "excerpt": "Authorities have not clarified what caused the explosion near the city of Sarmada.",
-    "category": "Casualties",
-    "location": "Syria",
-    "addedAt": "2026-09-09T16:30:33.262471+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss"
-  },
-  {
-    "id": "667750090086",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T12:26",
-    "headline": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
-    "excerpt": "Benchmark Brent crude hits $100, shaking markets and fuelling concerns over rising inflation pressures worldwide.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-09T16:30:33.262500+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss"
-  },
-  {
-    "id": "ad2ec9e691a6",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T12:17",
-    "headline": "How has Israel hit back against sanctions by the UK, others?",
-    "excerpt": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-09T16:30:33.262519+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss"
-  },
-  {
-    "id": "99c73a5f55b6",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T11:27",
-    "headline": "What are the holes in the UK’s ban on imports from Israeli settlements?",
-    "excerpt": "Over a year, the UK imported just £6m ($8.1m) in goods recorded as Palestinian, including Israeli settlement goods.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-09T11:58:02.253665+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/what-are-the-holes-in-the-uks-ban-on-imports-from-israeli-settlements?traffic_source=rss"
-  },
-  {
-    "id": "183db27fac2b",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T11:08",
-    "headline": "Video: RSF drone attack on Sudan court kills at least 13 people",
-    "excerpt": "An RSF drone attack on a court in Sudan’s North Kordofan state has killed at least 13 people and wounded more than 20.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-09T11:58:02.253709+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-rsf-drone-attack-on-sudan-court-kills-at-least-13-people?traffic_source=rss"
-  },
-  {
-    "id": "0afa42ec0d31",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T11:06",
-    "headline": "Did Iran capture a US submarine? What we know about the underwater drone",
-    "excerpt": "Tehran lauds capturing Dive-LD vessel, while Washington insists that the submersible &#039;had malfunctioned a day ago&#039;.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-09-09T11:58:02.253729+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know?traffic_source=rss"
-  },
-  {
-    "id": "a52ced715832",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T10:47",
-    "headline": "‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade",
-    "excerpt": "UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-09T11:58:02.253765+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss"
   }
 ]
