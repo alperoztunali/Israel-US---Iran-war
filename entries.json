@@ -1,5 +1,49 @@
 [
   {
+    "id": "bd5b9239f7fb",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T05:32",
+    "headline": "G7 foreign ministers demand Houthis halt strikes on Saudi Arabia",
+    "excerpt": "Ministers demand an end to maritime shipping attacks and urge Iran to stop arming the Yemeni group.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-09-22T06:48:54.303737+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia?traffic_source=rss"
+  },
+  {
+    "id": "099867144b54",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T05:15",
+    "headline": "Why does the US want to send Israel 40,000 bombs?",
+    "excerpt": "Is the planned $2.8bn US arms deal proportionate to Israel’s threat, or could it cause more civilian casualties in Gaza?",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-09-22T06:48:54.303773+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/why-does-the-us-want-to-send-israel-40000-bombs?traffic_source=rss"
+  },
+  {
+    "id": "dc51ffec7c91",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T04:48",
+    "headline": "Houthis battle for strategic heights in Yemen as thousands more flee homes",
+    "excerpt": "Fighting intensifies as US media say Trump called off strikes against Houthis at the last minute on Sunday.",
+    "category": "Statement",
+    "location": "Yemen",
+    "addedAt": "2026-09-22T06:48:54.303810+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss"
+  },
+  {
+    "id": "6067367b71d8",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T03:52",
+    "headline": "US strikes on alleged drug boats may be ‘crimes against humanity’, UN says",
+    "excerpt": "UN expert says US forces have killed 223 people in 68 attacks in the Caribbean and the Pacific in the past year.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-22T06:48:54.303843+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss"
+  },
+  {
     "id": "7fad7ef11366",
     "source": "Al Jazeera",
     "date": "2026-09-22T00:31",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-08T23:41:54.926267+00:00",
     "link": "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss"
-  },
-  {
-    "id": "35f4d778799c",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T21:35",
-    "headline": "What the UK ban on goods from illegal Israeli settlements really means",
-    "excerpt": "Israel has announced that it’s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-09-08T23:41:54.926297+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss"
-  },
-  {
-    "id": "e8f22623ad56",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T21:24",
-    "headline": "US warns Ford over ties with Chinese firms amid tensions",
-    "excerpt": "US officials criticise Ford’s partnerships with Chinese firms CATL, Geely, and BYD over security risks.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-09-08T21:43:16.650583+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss"
-  },
-  {
-    "id": "86ede834240f",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T21:06",
-    "headline": "US forces sink vessel ‘linked to Ecuador criminal gang’",
-    "excerpt": "The US military says it intercepted and sank a floating refueling station in the eastern Pacific.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-08T21:43:16.650633+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss"
-  },
-  {
-    "id": "2257092e245f",
-    "source": "Al Jazeera",
-    "date": "2026-09-08T20:43",
-    "headline": "Police bodycam captures Russian missile strike on Kyiv",
-    "excerpt": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine’s capital Kiev",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-08T21:43:16.650668+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss"
   }
 ]
