@@ -1,5 +1,27 @@
 [
   {
+    "id": "459698bda7d3",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T21:05",
+    "headline": "US aviation sanctions disrupt Iran flights, push travellers overland",
+    "excerpt": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-23T23:11:57.566959+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss"
+  },
+  {
+    "id": "60ec8fd0a295",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T20:56",
+    "headline": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+    "excerpt": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-23T23:11:57.567011+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss"
+  },
+  {
     "id": "3f362197cd66",
     "source": "Al Jazeera",
     "date": "2026-09-23T19:32",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-10T17:14:50.300413+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/10/at-least-20-killed-in-school-fire-in-rebel-held-dr-congo-city?traffic_source=rss"
-  },
-  {
-    "id": "cfc39fa9a9f5",
-    "source": "Al Jazeera",
-    "date": "2026-09-10T14:53",
-    "headline": "Houthis capture Yemeni town of Mocha: Why it’s important",
-    "excerpt": "The Houthi seizure of Mocha threatens global trade routes, severs vital supply lines, and displaces thousands in Yemen.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-09-10T17:14:50.300452+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/10/houthis-capture-yemeni-town-of-mocha-why-it-matters?traffic_source=rss"
-  },
-  {
-    "id": "06668c8d6a4b",
-    "source": "Al Jazeera",
-    "date": "2026-09-10T14:42",
-    "headline": "Protests outside Israeli embassy in Bangkok over badly behaved tourists",
-    "excerpt": "Protests outside Israeli embassy in Bangkok over badly behaved tourists",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-10T17:14:50.300480+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/protests-outside-israeli-embassy-in-bangkok-over-badly-behaved-tourists?traffic_source=rss"
   }
 ]
