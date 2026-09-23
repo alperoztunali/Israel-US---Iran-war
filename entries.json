@@ -1,5 +1,60 @@
 [
   {
+    "id": "152a0cd1508a",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T01:20",
+    "headline": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
+    "excerpt": "Ukraine leader says Kyiv is ready to stop strikes on Russian facilities if Moscow halts attacks on its energy system.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-23T01:31:49.330147+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks?traffic_source=rss"
+  },
+  {
+    "id": "65832d0dfe79",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T01:11",
+    "headline": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
+    "excerpt": "Iranian President Masoud Pezeshkian has arrived in New York as the US-Iran war continues.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-23T01:31:49.330195+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss"
+  },
+  {
+    "id": "94c47d8524cd",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T00:00",
+    "headline": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN",
+    "excerpt": "President Trump says US officials held a &#039;very good&#039; meeting on Tuesday with the Iranian delegation at UN.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-23T01:31:49.330237+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss"
+  },
+  {
+    "id": "2004e793ea3b",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T23:46",
+    "headline": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+    "excerpt": "Iran&#039;s aviation officials negotiate with Oman and Iraq as US&#039;s Bessent targets carriers seven months into the conflict.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-09-23T01:31:49.330266+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss"
+  },
+  {
+    "id": "66d64d6f134a",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T22:48",
+    "headline": "UNGA Day 1: US and Iran hold talks despite Trump’s threat",
+    "excerpt": "The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-23T01:31:49.330333+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss"
+  },
+  {
     "id": "2935fd76874c",
     "source": "Al Jazeera",
     "date": "2026-09-22T21:30",
@@ -5443,60 +5498,5 @@
     "location": "Syria",
     "addedAt": "2026-09-09T19:30:14.265493+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/explosion-at-depot-storing-weapons-left-from-syria-war-kills-14?traffic_source=rss"
-  },
-  {
-    "id": "f764aa070a35",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T18:31",
-    "headline": "Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says",
-    "excerpt": "Pakistan warns Mecca defence agreement may be activated if Yemen&#039;s Houthi rebels continue targeting Saudi Arabia.",
-    "category": "Diplomatic",
-    "location": "Yemen",
-    "addedAt": "2026-09-09T19:30:14.265528+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/pakistan-warns-mecca-defense-pact-will-activate-after-houthi-attacks?traffic_source=rss"
-  },
-  {
-    "id": "e9df08b86832",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T18:23",
-    "headline": "How significant are new European sanctions on illegal Israeli settlements?",
-    "excerpt": "Israel is accused of the ethnic cleansing of Palestinians.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-09T19:30:14.265556+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
-  },
-  {
-    "id": "f1d2016a8232",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T17:57",
-    "headline": "Back to work, not school: Yemen’s crisis forces children to drop out",
-    "excerpt": "Struggling families in Yemen are forced to choose between education and survival amid mounting economic challenges.",
-    "category": "Movement",
-    "location": "Yemen",
-    "addedAt": "2026-09-09T19:30:14.265594+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/9/back-work-not-school-yemen-crisis-forces-children-drop-out?traffic_source=rss"
-  },
-  {
-    "id": "a7fc7a4ff6a0",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T17:32",
-    "headline": "Palestinian child misses first day of school due to settler siege",
-    "excerpt": "Four-year-old Kinda Hassan is missing the start of her first school year amid a month-long siege by Israeli settlers.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-09T19:30:14.265627+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/palestinian-child-misses-first-day-of-school-due-to-settler-siege?traffic_source=rss"
-  },
-  {
-    "id": "9065a2f0bb00",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T17:04",
-    "headline": "Inside Israel’s prisons, where Ben-Gvir’s cruelty is policy",
-    "excerpt": "Palestinian prisoners are being kept in inhumane conditions in Israeli detention facilities, overseen by Ben-Gvir.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-09T19:30:14.265674+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/9/inside-israels-prisons-where-ben-gvirs-cruelty-is-policy?traffic_source=rss"
   }
 ]
