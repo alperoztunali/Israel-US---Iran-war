@@ -1,5 +1,82 @@
 [
   {
+    "id": "60a0161944f9",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T05:34",
+    "headline": "Trump rallies Shield of the Americas coalition against drug cartels",
+    "excerpt": "US-led anti-cartel alliance backs sanctions against crime groups after Trump urges stronger action.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-23T06:42:54.122883+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss"
+  },
+  {
+    "id": "9d986a2b380a",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T04:42",
+    "headline": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+    "excerpt": "Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-09-23T06:42:54.122924+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "70f45e514902",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T04:08",
+    "headline": "Sri Lanka convicts 15 people over 2019 Easter Day bombings",
+    "excerpt": "Fifteen people have been convicted over Sri Lanka’s 2019 Easter Sunday bombings, which killed 279 people.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-09-23T06:42:54.122957+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss"
+  },
+  {
+    "id": "6cab3ae2d5c8",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T02:50",
+    "headline": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
+    "excerpt": "Investors shrug off AI safety concerns and Iran war, sending market to a new peak.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-23T06:42:54.123001+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss"
+  },
+  {
+    "id": "698044084a26",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T02:36",
+    "headline": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
+    "excerpt": "France&#039;s Macron says suffering in Gaza should &#039;shame all of us&#039; as Canada&#039;s Carney pledges $71m for two-state efforts.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-23T06:42:54.123033+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss"
+  },
+  {
+    "id": "53c8e45daf67",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T02:24",
+    "headline": "UK Prime Minister vows not to ‘stand by’ as Palestinians suffer",
+    "excerpt": "UK PM Burnham condemned Israel’s war on Gaza, and explains why the UK sanctioned illegal Israeli settlements.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-23T06:42:54.123074+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-prime-minister-vows-not-to-stand-by-as-palestinians-suffer?traffic_source=rss"
+  },
+  {
+    "id": "254c32323d87",
+    "source": "Al Jazeera",
+    "date": "2026-09-22T23:46",
+    "headline": "Iran cancels Baghdad, Muscat flights as US aviation sanctions take effect",
+    "excerpt": "Iran official says Baghdad and Muscat airports will not accept Iranian flights from midnight on Wednesday.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-23T06:42:54.123111+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss"
+  },
+  {
     "id": "152a0cd1508a",
     "source": "Al Jazeera",
     "date": "2026-09-23T01:20",
@@ -5421,82 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-09T21:55:38.332876+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss"
-  },
-  {
-    "id": "b2684cd8f3bf",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T20:05",
-    "headline": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
-    "excerpt": "In an interview with Al Jazeera, Yemen&#039;s ambassador warns Houthi attacks threaten global shipping.",
-    "category": "Naval",
-    "location": "Yemen",
-    "addedAt": "2026-09-09T21:55:38.332913+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss"
-  },
-  {
-    "id": "420b9552fdd8",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T20:05",
-    "headline": "Iraqi graduates protest for govt jobs amid unemployment crisis",
-    "excerpt": "More than 1,000 medical and health graduates have taken to Baghdad’s streets demanding government jobs.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-09-09T21:55:38.332949+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-reported-iraq-grad-protests?traffic_source=rss"
-  },
-  {
-    "id": "3b57a5280fd2",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T19:37",
-    "headline": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
-    "excerpt": "An Israeli strike devastated a home in Gaza City’s al-Shati refugee camp, heavily damaging surrounding homes.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-09T21:55:38.332984+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss"
-  },
-  {
-    "id": "6a3098548028",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T19:18",
-    "headline": "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
-    "excerpt": "Houthis are trying to drag Saudi Arabia into conflict by targeting Saudi territory, says Yemen’s Ambassador to Qatar.",
-    "category": "Diplomatic",
-    "location": "Yemen",
-    "addedAt": "2026-09-09T21:55:38.333016+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-clip-yemen-says-houthis-dragging-saudi-into-war-yn?traffic_source=rss"
-  },
-  {
-    "id": "481b1c27f74f",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T18:40",
-    "headline": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
-    "excerpt": "Only 12 of Gaza&#039;s 34 oxygen-generation stations remain operational, worsening the health crisis in the besieged enclave.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-09T19:30:14.265410+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss"
-  },
-  {
-    "id": "0258351ae4bc",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T18:36",
-    "headline": "Zelenskyy’s plane ‘almost hit’ by drone on way to Oslo, Norwegian PM says",
-    "excerpt": "Jonas ​Gahr Store says incident happened when jet ⁠⁠carrying Ukrainian president took off from Moldova.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-09-09T19:30:14.265456+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/zelenskyys-plane-almost-hit-by-drone-on-way-to-oslo-norwegian-pm-says?traffic_source=rss"
-  },
-  {
-    "id": "873dd598434d",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T18:32",
-    "headline": "Explosion at depot storing weapons left from Syria war kills 14",
-    "excerpt": "An explosion tore through a temporary weapons depot near Sarmada, in northwestern Syria killing at least 14 people",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-09-09T19:30:14.265493+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/explosion-at-depot-storing-weapons-left-from-syria-war-kills-14?traffic_source=rss"
   }
 ]
