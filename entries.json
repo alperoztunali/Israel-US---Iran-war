@@ -1,5 +1,93 @@
 [
   {
+    "id": "c902fc759e7b",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T11:03",
+    "headline": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
+    "excerpt": "Qatar’s Majed al-Ansari says Doha is determined to make diplomacy work to end the US-Iran conflict.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-23T12:17:18.716403+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss"
+  },
+  {
+    "id": "4639cba19b09",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T10:15",
+    "headline": "Yemen government forces claim control of Mount Qarfan in Taiz",
+    "excerpt": "Major General Abdulaziz al-Majidi says five Houthi fighters killed and 20 wounded after &#039;fierce battles&#039;.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-09-23T12:17:18.716428+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/23/yemen-government-forces-claim-control-of-mount-qarfan-in-taiz?traffic_source=rss"
+  },
+  {
+    "id": "064bb93212c9",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T09:40",
+    "headline": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
+    "excerpt": "Trump threatens to &#039;annihilate&#039; Iran and then brags about diplomacy, provoking Tehran to warn of a response.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-09-23T12:17:18.716450+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss"
+  },
+  {
+    "id": "958faa2d5a0e",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T09:02",
+    "headline": "Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold",
+    "excerpt": "Al-Attiyah is the first person to win a gold medal at the Games in the same year as his Dakar Rally triumph.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-09-23T12:17:18.716474+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss"
+  },
+  {
+    "id": "aef05fb5362a",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T08:42",
+    "headline": "What Palestinian children endure in Israeli detention",
+    "excerpt": "Every day, Fidaa Zalbani checks the room of her son, Mohammed, 17, tidying his bed and arranging untouched clothes.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-23T12:17:18.716492+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/23/inside-israels-prisons-what-palestinian-children-say-they-endure-in-deten?traffic_source=rss"
+  },
+  {
+    "id": "40b6e11fa61a",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T08:40",
+    "headline": "Qatar says ‘no alternative to diplomacy’ as Belgium and Rwanda restore ties",
+    "excerpt": "Doha lauded for mediating Brussels-Kigali rupture, showcasing its trusted role in international peace efforts.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-09-23T12:17:18.716519+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/23/qatar-says-no-alternative-to-diplomacy-as-belgium-and-rwanda-restore-ties?traffic_source=rss"
+  },
+  {
+    "id": "467c0f3ce389",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T07:31",
+    "headline": "At least 11 people killed in South Africa township shooting",
+    "excerpt": "Armed men open fire at a house party in a Durban township, killing a pregnant woman and 10 others.",
+    "category": "Casualties",
+    "location": "Oman",
+    "addedAt": "2026-09-23T12:17:18.716535+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/23/at-least-11-people-killed-in-south-africa-township-shooting?traffic_source=rss"
+  },
+  {
+    "id": "836edd8f8693",
+    "source": "Al Jazeera",
+    "date": "2026-09-23T07:18",
+    "headline": "Pakistan’s latest Trump bet is on drone firm already selling to India",
+    "excerpt": "The company&#039;s cofounder is also an ex-Israeli soldier. Pakistan does not recognise Israel.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-09-23T12:17:18.716555+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss"
+  },
+  {
     "id": "60a0161944f9",
     "source": "Al Jazeera",
     "date": "2026-09-23T05:34",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-09T23:59:07.769056+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss"
-  },
-  {
-    "id": "6624cdfaddf1",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T23:15",
-    "headline": "Iran war looms over Trump at Republican midterm convention in Dallas",
-    "excerpt": "Trump supporters say he can rally Republican voters despite concerns over the unpopular war and rising prices.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-09T23:59:07.769106+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss"
-  },
-  {
-    "id": "7836fa92c6c5",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T21:14",
-    "headline": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
-    "excerpt": "Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-09T21:55:38.332628+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss"
-  },
-  {
-    "id": "1dda5d10fe86",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T21:09",
-    "headline": "Trump says Iran war ‘will end immediately’ after US midterm elections",
-    "excerpt": "The president added the US is not looking to restart negotiations with Iran after the failure of previous ceasefires.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-09T21:55:38.332680+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss"
-  },
-  {
-    "id": "4dd20bc57953",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T21:03",
-    "headline": "Guterres pays tribute to Qatar’s late Father Emir at UN ceremony",
-    "excerpt": "UN Secretary General Antonio Guterres has paid tribute to Qatar’s late Father Emir Sheikh Hamad bin Khalifa Al Thani.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-09-09T21:55:38.332725+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/guterres-pays-tribute-to-qatars-late-father-emir-at-un-ceremony?traffic_source=rss"
-  },
-  {
-    "id": "9422de9edbce",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T20:53",
-    "headline": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
-    "excerpt": "Pro-Palestinian protesters gathered in Slovenia’s capital to oppose the opening of Israel’s first resident embassy.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-09T21:55:38.332764+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss"
-  },
-  {
-    "id": "23c7352c5cd6",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T20:32",
-    "headline": "Burnham defends UK ban on Israeli settlement trade",
-    "excerpt": "UK Prime Minister Andy Burnham defended a ban on trade with Israeli settlements in the occupied West Bank",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-09T21:55:38.332796+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss"
-  },
-  {
-    "id": "83fffd63d2fe",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T20:23",
-    "headline": "IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’",
-    "excerpt": "The symbolic escalation has been initiated by the United States, Germany, France and the United Kingdom.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-09T21:55:38.332839+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss"
-  },
-  {
-    "id": "1c95b120b8d5",
-    "source": "Al Jazeera",
-    "date": "2026-09-09T20:17",
-    "headline": "UK man charged with assisting Russian military spies in sabotage plot",
-    "excerpt": "Joshua Cammidge, 31, has been charged after alleged contact with a member of the GRU Volunteer Corps.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-09T21:55:38.332876+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss"
   }
 ]
