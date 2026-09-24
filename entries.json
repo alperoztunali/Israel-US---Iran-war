@@ -1,5 +1,27 @@
 [
   {
+    "id": "31154c18fe7b",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T01:04",
+    "headline": "Turkiye agrees to gradual handover of Bashiqa base to Iraq",
+    "excerpt": "Iraqi Prime Minister al-Zaidi and Turkish President Erdogan pledged deeper security cooperation at UNGA.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-09-24T01:27:46.412125+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss"
+  },
+  {
+    "id": "9142467e07cc",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T00:00",
+    "headline": "Iran war live: Tehran says it won’t be bullied, remains open for talks",
+    "excerpt": "Iranian president says Tehran will not bow to pressure while remaining open to dialogue in a defiant UN speech.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-09-24T01:27:46.412158+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss"
+  },
+  {
     "id": "459698bda7d3",
     "source": "Al Jazeera",
     "date": "2026-09-23T21:05",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-10T17:14:50.300346+00:00",
     "link": "https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss"
-  },
-  {
-    "id": "628c3b4f9b22",
-    "source": "Al Jazeera",
-    "date": "2026-09-10T15:46",
-    "headline": "UN expert Albanese, protesters warn against Italy’s anti-Semitism bill",
-    "excerpt": "Protesters in Rome and UN Special Rapporteur Francesca Albanese, warn proposed law could silence criticism of Israel.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-10T17:14:50.300385+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss"
-  },
-  {
-    "id": "8f1183ec35b9",
-    "source": "Al Jazeera",
-    "date": "2026-09-10T15:37",
-    "headline": "At least 20 killed in school fire in rebel-held DR Congo city",
-    "excerpt": "Victims from the fire in AFC/M23-held Bukavu include primary school students, say officials and media reports.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-10T17:14:50.300413+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/10/at-least-20-killed-in-school-fire-in-rebel-held-dr-congo-city?traffic_source=rss"
   }
 ]
