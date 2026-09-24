@@ -1,5 +1,82 @@
 [
   {
+    "id": "a583a22dfecf",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T19:54",
+    "headline": "Israel moves to ban main Palestinian-led lists from election",
+    "excerpt": "Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-24T20:42:44.303141+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss"
+  },
+  {
+    "id": "282164b263c9",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T19:18",
+    "headline": "Delegates walk out of Netanyahu’s UN speech",
+    "excerpt": "Dozens of delegates walked out of the assembly hall as Israeli Prime Minister Benjamin Netanyahu began his UN speech.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-24T20:42:44.303191+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/delegates-walk-out-of-netanyahus-un-speech?traffic_source=rss"
+  },
+  {
+    "id": "58b1efb3ba2b",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T19:02",
+    "headline": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
+    "excerpt": "Mahmoud Abbas says saving two-state solution begins with preserving Palestinian land, protecting those who live on it.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-24T20:42:44.303231+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/israels-policies-threaten-very-existence-of-palestinians-abbas-tells-un?traffic_source=rss"
+  },
+  {
+    "id": "1281dd8e47e1",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T18:19",
+    "headline": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
+    "excerpt": "Tigray People’s Liberation Front says in a &#039;situation of full-blown war&#039; with Ethiopia&#039;s government.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-09-24T20:42:44.303260+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss"
+  },
+  {
+    "id": "cb60c25aaa73",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T18:19",
+    "headline": "US and China presidents discuss cooperation, trade and AI risks",
+    "excerpt": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-24T20:42:44.303296+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss"
+  },
+  {
+    "id": "8bb5692470b1",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T17:45",
+    "headline": "Iranian-American group sues Trump over war",
+    "excerpt": "Plaintiffs have families in Iran who have been harmed by the US war, they say.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-24T20:42:44.303327+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss"
+  },
+  {
+    "id": "48a6584a87d4",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T17:15",
+    "headline": "Ukrainian man kills one, wounds four in Poland abbey knife attack",
+    "excerpt": "Ukraine&#039;s President Zelenskyy denounces &#039;horrific crime&#039; after 31-year-old attacks clergy, worshippers in border town.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-09-24T20:42:44.303359+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss"
+  },
+  {
     "id": "bc150d2ef505",
     "source": "Al Jazeera",
     "date": "2026-09-24T17:15",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-11T13:52:21.940709+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss"
-  },
-  {
-    "id": "320f5a5b6a49",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T10:41",
-    "headline": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
-    "excerpt": "US official admits the naval base near Manama sustained heavy damage in the war with Iran.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-09-11T13:52:21.940737+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss"
-  },
-  {
-    "id": "d5c03c69f416",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T10:11",
-    "headline": "Houthis control key shipping route after gains along Yemen’s Red Sea coast",
-    "excerpt": "Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-09-11T13:52:21.940765+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss"
-  },
-  {
-    "id": "916cf79c1f8f",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T08:18",
-    "headline": "How 9/11 helped Israel sell its war on Palestinians to America",
-    "excerpt": "The &#039;war on terror&#039; made Israeli repression easier to present as part of a shared struggle against a common enemy.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-11T09:44:48.904727+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss"
-  },
-  {
-    "id": "bca252985ca6",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T07:36",
-    "headline": "Settlers, soldiers, and Israeli impunity in the West Bank",
-    "excerpt": "Armed settlers in military uniforms are seizing land and attacking Palestinian communities with near-total impunity.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-11T09:44:48.904761+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/11/settlers-soldiers-and-israeli-impunity-in-the-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "81d80e9b4eb5",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T05:27",
-    "headline": "‘Everything changed’: The human cost of 25 years of US wars",
-    "excerpt": "Successive wars launched after 9/11 have killed at least 4.5 million people and displaced more than 38 million others.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-11T09:44:48.904787+00:00",
-    "link": "https://www.aljazeera.com/news/longform/2026/9/11/everything-changed-the-human-cost-of-25-years-of-us-wars?traffic_source=rss"
-  },
-  {
-    "id": "5c004227097f",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T05:25",
-    "headline": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
-    "excerpt": "A 25-minute standing ovation at the Biennale has put NAZA, an Israeli-made film confronting Israel’s genocide in Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-11T09:44:48.904811+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss"
-  },
-  {
-    "id": "ce8e4364a80e",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T04:48",
-    "headline": "Anthropic claims Claude AI used for missile projects, global espionage",
-    "excerpt": "AI was used to develop missile guidance software in Yemen and to power cyber operations, a report alleges.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-09-11T09:44:48.904824+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss"
   }
 ]
