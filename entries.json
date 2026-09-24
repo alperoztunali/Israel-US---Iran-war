@@ -1,5 +1,49 @@
 [
   {
+    "id": "8e62c89ad8f5",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T22:32",
+    "headline": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+    "excerpt": "Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-24T23:32:15.463557+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss"
+  },
+  {
+    "id": "6fb9d5c76bbd",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T21:41",
+    "headline": "Trump and Xi hold critical talks at White House summit",
+    "excerpt": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-24T23:32:15.463594+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss"
+  },
+  {
+    "id": "5168508c7a51",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T21:08",
+    "headline": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
+    "excerpt": "Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-09-24T23:32:15.463613+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss"
+  },
+  {
+    "id": "f22338e464cb",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T20:54",
+    "headline": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
+    "excerpt": "As spoke at the UN, Israeli Prime Minister Benjamin Netanyahu downplayed settler violence in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-24T23:32:15.463642+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
     "id": "a583a22dfecf",
     "source": "Al Jazeera",
     "date": "2026-09-24T19:54",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-11T13:52:21.940582+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations?traffic_source=rss"
-  },
-  {
-    "id": "d51e70956b61",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T12:30",
-    "headline": "From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted",
-    "excerpt": "US and Israeli officials are using a drop in acute malnutrition cases to claim Gaza has no hunger.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-11T13:52:21.940635+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss"
-  },
-  {
-    "id": "23212752bb80",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T12:22",
-    "headline": "Myanmar airport closed following reported drone attack",
-    "excerpt": "Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-11T13:52:21.940662+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss"
-  },
-  {
-    "id": "1e8e9d5ab1c7",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T11:18",
-    "headline": "Swiss police report five killed in Dutch tour bus crash",
-    "excerpt": "Bus carrying 45 Dutch tourists overturned and landed in a construction zone near an Alpine village.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-11T13:52:21.940686+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/11/swiss-police-report-five-killed-in-dutch-tour-bus-crash?traffic_source=rss"
-  },
-  {
-    "id": "fe8bfbd15273",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T10:48",
-    "headline": "Al Jazeera explains massive Israeli blasts on south Lebanon hill",
-    "excerpt": "Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-09-11T13:52:21.940709+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss"
   }
 ]
