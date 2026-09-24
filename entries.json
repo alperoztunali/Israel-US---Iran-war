@@ -1,5 +1,126 @@
 [
   {
+    "id": "bc150d2ef505",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T17:15",
+    "headline": "Ukrainian knifeman kills one, wounds four at abbey in Poland",
+    "excerpt": "Ukraine&#039;s President Zelenskyy denounces &#039;horrific crime&#039; after 31-year-old attacks clergy, worshippers in border town.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-09-24T17:28:43.642486+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss"
+  },
+  {
+    "id": "cbb377a9358a",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T17:08",
+    "headline": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
+    "excerpt": "In October elections, Israel’s national security minister Itamar Ben-Gvir is hoping to become defence minister.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-24T17:28:43.642544+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss"
+  },
+  {
+    "id": "46c748b1adfb",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T17:03",
+    "headline": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
+    "excerpt": "UN trade body report says consequences of Israeli occupation have &#039;skyrocketed&#039; with 90% unemployed in Gaza.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-09-24T17:28:43.642578+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss"
+  },
+  {
+    "id": "64f24e15e050",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T16:51",
+    "headline": "Four civilians killed in Pakistani airstrikes in Afghanistan",
+    "excerpt": "Four civilians have been killed in the latest Pakistani airstrikes in Afghanistan.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-09-24T17:28:43.642605+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/four-civilians-killed-in-pakistani-airstrikes-in-afghanistan?traffic_source=rss"
+  },
+  {
+    "id": "31fef3c787fa",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T16:35",
+    "headline": "Mahmoud Abbas: What will it take to ‘protect’ Palestine?",
+    "excerpt": "Palestinian President Mahmoud Abbas questioned how long the world would “remain silent” on Israel&#039;s actions.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-24T17:28:43.642641+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/mahmoud-abbas-what-will-it-take-to-protect-palestine?traffic_source=rss"
+  },
+  {
+    "id": "f87c82a9afd9",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T16:01",
+    "headline": "LIVE: Ivory Coast vs Ghana – AFCON qualifying",
+    "excerpt": "Follow updates, build-up, team news and lineups, from our live text commentary stream coverage as Yan Diomande stars.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-09-24T17:28:43.642729+00:00",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-ivory-coast-vs-ghana-afcon-qualifying?traffic_source=rss"
+  },
+  {
+    "id": "aa999b9059c6",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T15:59",
+    "headline": "NAZA, Israeli film on Gaza, to stream for free after theatrical run",
+    "excerpt": "Co-director Yuval Abraham says documentary exposing Israeli abuses will be available online in November.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-24T17:28:43.642775+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/naza-israeli-film-on-gaza-to-stream-for-free-after-theatrical-run?traffic_source=rss"
+  },
+  {
+    "id": "064bd1c2434f",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T14:56",
+    "headline": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
+    "excerpt": "No response by Yemen&#039;s Houthis to a claim by the coalition forces that its missiles targeted Taif and Yanbu.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-09-24T17:28:43.642808+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/saudi-led-coalition-says-shot-down-6-ballistic-missiles-launched-by-houthis?traffic_source=rss"
+  },
+  {
+    "id": "d5ce67c42fa7",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T14:36",
+    "headline": "Why are Ireland vs Israel football matches so controversial?",
+    "excerpt": "Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-24T17:28:43.642841+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss"
+  },
+  {
+    "id": "e4d5ddebc4cf",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T14:04",
+    "headline": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
+    "excerpt": "US secretary of state&#039;s warning comes after he and Trump met the Iraqi PM on the sidelines of the UNGA.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-09-24T17:28:43.642877+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss"
+  },
+  {
+    "id": "c50077115927",
+    "source": "Al Jazeera",
+    "date": "2026-09-24T13:42",
+    "headline": "Israel offers cash to firms hit by trade ban; Europe dithers on new rules",
+    "excerpt": "Israel hopes to redirect goods from illegal Israeli settlements towards markets in Asia and South America.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-24T17:28:43.642906+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss"
+  },
+  {
     "id": "fef951246c30",
     "source": "Al Jazeera",
     "date": "2026-09-24T11:44",
@@ -5377,126 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-09-11T09:44:48.904824+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss"
-  },
-  {
-    "id": "3c5b5c54f0a1",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T02:45",
-    "headline": "Young republicans break with Trump over Iran war",
-    "excerpt": "A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-11T05:03:11.196363+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "887ef62c43f2",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T02:40",
-    "headline": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
-    "excerpt": "Russian, Iranian leaders due to hold talks with India&#039;s Modi at summit dominated by wars in Middle East and Ukraine.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-11T05:03:11.196407+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss"
-  },
-  {
-    "id": "28881a621ce6",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T00:24",
-    "headline": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-    "excerpt": "Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-09-11T05:03:11.196437+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss"
-  },
-  {
-    "id": "d54e2b167ea4",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T00:14",
-    "headline": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-    "excerpt": "Venice Film Festival honours NAZA, an expose on Israel&#039;s use of AI systems in Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-11T05:03:11.196469+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss"
-  },
-  {
-    "id": "5d24245cde16",
-    "source": "Al Jazeera",
-    "date": "2026-09-11T00:00",
-    "headline": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
-    "excerpt": "IRGC says it attacked a US unmanned vessel in Hormuz, while UKMTO says projectiles hit two ships off Oman.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-09-11T00:24:51.856463+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss"
-  },
-  {
-    "id": "a04be72a3777",
-    "source": "Al Jazeera",
-    "date": "2026-09-10T23:46",
-    "headline": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
-    "excerpt": "Envoy for Yemen Hans Grundberg demands urgent steps to protect civilians and trade routes amid Houthi escalation.",
-    "category": "Diplomatic",
-    "location": "Yemen",
-    "addedAt": "2026-09-11T00:24:51.856507+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss"
-  },
-  {
-    "id": "2716b4217da3",
-    "source": "Al Jazeera",
-    "date": "2026-09-10T22:33",
-    "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
-    "excerpt": "Israeli attacks come a week after it said to have established operational control over the strategic ridge.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-09-11T00:24:51.856537+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss"
-  },
-  {
-    "id": "9925132c4e56",
-    "source": "Al Jazeera",
-    "date": "2026-09-10T21:19",
-    "headline": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
-    "excerpt": "Israel’s military says it has destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in Lebanon.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-10T22:22:48.030835+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "cc606e8a1460",
-    "source": "Al Jazeera",
-    "date": "2026-09-10T21:17",
-    "headline": "Gaza hospitals ration power as fuel shortages deepen",
-    "excerpt": "Fuel and engine oil shortages are forcing Gaza’s hospitals to ration electricity",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-10T22:22:48.030875+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss"
-  },
-  {
-    "id": "e6da91ad9047",
-    "source": "Al Jazeera",
-    "date": "2026-09-10T21:03",
-    "headline": "Russian strike hits shopping centre in central Ukraine",
-    "excerpt": "A Russian strike on a shopping centre in the central Ukrainian city of Pavlohrad killed at least four people.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-10T22:22:48.030900+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss"
-  },
-  {
-    "id": "785db79d64ab",
-    "source": "Al Jazeera",
-    "date": "2026-09-10T21:00",
-    "headline": "Drones recreate Twin Towers in tribute ahead of 9/11 anniversary",
-    "excerpt": "Thousands of drones were used to recreate New York’s Twin Towers in a tribute ahead of the 25th anniversary of 9/11.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-10T22:22:48.030925+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drones-recreate-twin-towers-in-tribute-ahead-of-9-11?traffic_source=rss"
   }
 ]
