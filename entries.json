@@ -1,5 +1,93 @@
 [
   {
+    "id": "cdd83f450dc1",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T05:48",
+    "headline": "At least 17 killed in South Africa shooting, police hunt for eight suspects",
+    "excerpt": "Emergency medical services declared all 17 victims dead ⁠at the ​scene in Wedela ​township southwest of ​Johannesburg.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-27T07:08:26.826934+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
+  },
+  {
+    "id": "3f18eb183710",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T03:51",
+    "headline": "Detained Tunisian flotilla activists: Worsening health amid family anguish",
+    "excerpt": "As activists’ health deteriorates, families describe the toll of separation, hunger strikes and uncertainty.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-27T07:08:26.826993+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss"
+  },
+  {
+    "id": "31e559a4c38e",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T03:36",
+    "headline": "German, Russian foreign ministers hold rare talks amid rising tensions",
+    "excerpt": "Russia&#039;s Lavrov dismisses Wadephul&#039;s call to abandon &#039;dangerous path of escalation&#039; with Europe.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-27T07:08:26.827033+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss"
+  },
+  {
+    "id": "1d86059c4453",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T01:59",
+    "headline": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
+    "excerpt": "The UN General Assembly wraps up with mixed diplomatic outcomes.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-27T07:08:26.827083+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "a6f89170559a",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T00:00",
+    "headline": "Iran war live: Tehran vows not to back down as Trump rejects Hormuz plan",
+    "excerpt": "US president rejects Iran&#039;s seven-day plan to reopen the Strait of Hormuz, saying the deal is not &#039;acceptable&#039;.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-09-27T07:08:26.827128+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss"
+  },
+  {
+    "id": "f16f8f2a07bc",
+    "source": "PressTV",
+    "date": "2026-09-27T07:08",
+    "headline": "Iran will target US ships across Indian Ocean in case of new war: Top IRGC commander",
+    "excerpt": "The Islamic Revolution Guards Corps (IRGC) Navy’s deputy for political affairs warns that Iran will target American vessels across the Indian Ocean if the United States wages a new war of aggression against the country.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-09-27T07:08:28.817024+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/27/777095/Iran-IRGC-US-ships-Indian-Ocean"
+  },
+  {
+    "id": "d03db9010c0f",
+    "source": "PressTV",
+    "date": "2026-09-27T07:08",
+    "headline": "Pezeshkian says exposed US-Israeli crimes, Trump’s ‘terrorism’ at UNGA",
+    "excerpt": "He stated that he used the presence to expose those who systematically violate international law while hypocritically preaching about trust.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-27T07:08:28.817088+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/27/777092/Pezeshkian-says-exposed-US-Israeli-crimes-Trump-terrorism-at-UNGA"
+  },
+  {
+    "id": "425af79460e2",
+    "source": "PressTV",
+    "date": "2026-09-27T07:08",
+    "headline": "Liverpool's pro-Palestine marchers condemn Israel's 'genocidal regime'",
+    "excerpt": "Protesters march through the streets of Liverpool to show their support for Palestinians and condemn Israel's war in Gaza and settlements in the West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-27T07:08:28.817148+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/27/777094/Liverpool-UK-pro-Palestine-protest-Israel-genocidal-regime-"
+  },
+  {
     "id": "261ab54a69fd",
     "source": "Al Jazeera",
     "date": "2026-09-27T00:50",
@@ -5410,93 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-09-15T15:12:08.140287+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss"
-  },
-  {
-    "id": "2186ca7c304f",
-    "source": "Al Jazeera",
-    "date": "2026-09-15T11:54",
-    "headline": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
-    "excerpt": "Zelenskyy insists de-escalation depends on US ensuring Russia&#039;s genuine readiness to stop war and attacks on Ukraine.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-15T15:12:08.140316+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/15/zelenskyy-says-ukraine-will-pause-attacks-if-russia-spares-infrastructure?traffic_source=rss"
-  },
-  {
-    "id": "785b3b528183",
-    "source": "Al Jazeera",
-    "date": "2026-09-15T11:17",
-    "headline": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
-    "excerpt": "The Pentagon watchdog&#039;s report paints a picture of significant losses to US forces and facilities in the region.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-09-15T15:12:08.140339+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss"
-  },
-  {
-    "id": "16e52030db52",
-    "source": "Al Jazeera",
-    "date": "2026-09-15T08:11",
-    "headline": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
-    "excerpt": "Saudi-led coalition promises to respond &#039;firmly&#039; to Houthi strikes on urban areas in Saudi Arabia.",
-    "category": "Airstrike",
-    "location": "Yemen",
-    "addedAt": "2026-09-15T10:21:07.384240+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss"
-  },
-  {
-    "id": "e765902fa507",
-    "source": "Al Jazeera",
-    "date": "2026-09-15T06:53",
-    "headline": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
-    "excerpt": "New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-15T10:21:07.384285+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss"
-  },
-  {
-    "id": "c3975fed528d",
-    "source": "Al Jazeera",
-    "date": "2026-09-15T04:42",
-    "headline": "Millions line up for ‘sacred henna’ at Indian temple",
-    "excerpt": "Drone visuals show masses lining up at Indian temple for sacred henna, believed to help unmarried people find a match.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-15T05:25:52.996126+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/millions-line-up-for-sacred-henna-at-indian-temple?traffic_source=rss"
-  },
-  {
-    "id": "5163e77743a1",
-    "source": "Al Jazeera",
-    "date": "2026-09-15T02:07",
-    "headline": "Viral hit-and-run raises road rage questions in India",
-    "excerpt": "Indian police have launched a probe after a woman biker shared video of a car ramming her motorcycle.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-09-15T05:25:52.996167+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss"
-  },
-  {
-    "id": "beca851fa86f",
-    "source": "Al Jazeera",
-    "date": "2026-09-15T01:23",
-    "headline": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
-    "excerpt": "Israeli rights group B’Tselem says Israeli settler violence aims to eliminate Palestinian existence.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-15T05:25:52.996194+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss"
-  },
-  {
-    "id": "fea100bea213",
-    "source": "Al Jazeera",
-    "date": "2026-09-15T00:43",
-    "headline": "Russia resupplies military bases in Syria for first time under new deal",
-    "excerpt": "Moscow maintains military foothold in the Mediterranean following talks with Damascus",
-    "category": "Diplomatic",
-    "location": "Syria",
-    "addedAt": "2026-09-15T05:25:52.996213+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss"
   }
 ]
