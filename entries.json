@@ -1,5 +1,115 @@
 [
   {
+    "id": "91e5eae896f9",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T20:44",
+    "headline": "Three killed, four injured in shooting at Detroit, Michigan, strip club",
+    "excerpt": "Police say the US shooting followed an altercation at an after-hours venue, and four people are in hospital.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-27T21:09:40.451096+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/27/three-killed-four-injured-in-shooting-at-detroit-michigan-strip-club?traffic_source=rss"
+  },
+  {
+    "id": "7e4cd6bb3809",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T20:34",
+    "headline": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
+    "excerpt": "Cuba&#039;s deputy foreign minister slams US sanctions, labelling them &#039;equivalent to genocide&#039;.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-27T21:09:40.451141+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss"
+  },
+  {
+    "id": "79fff3a5a7d3",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T20:29",
+    "headline": "Serbian President Aleksandar Vucic resigns amid prolonged protests",
+    "excerpt": "Despite student-led protests and political unrest challenging his rule, Vucic intends to run in the snap elections.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-27T21:09:40.451172+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/27/serbian-president-aleksandar-vucic-resigns-amid-prolonged-protests?traffic_source=rss"
+  },
+  {
+    "id": "2e7092b2c9c0",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T20:21",
+    "headline": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
+    "excerpt": "Israel escalates retaliatory measures as Western sanctions target illegal West Bank settlements.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-27T21:09:40.451199+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/27/israel-revokes-dutch-diplomats-status-over-sanctions-on-settlements?traffic_source=rss"
+  },
+  {
+    "id": "3e00eaf5e0a3",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T20:03",
+    "headline": "Why has Trump rejected Iran’s peace proposal?",
+    "excerpt": "The US president has reportedly threatened to resume strikes on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-27T21:09:40.451223+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss"
+  },
+  {
+    "id": "afd4f30cc313",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T19:35",
+    "headline": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+    "excerpt": "Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-27T21:09:40.451250+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss"
+  },
+  {
+    "id": "8f85117a690b",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T19:04",
+    "headline": "Stuck between Israeli military checkpoints",
+    "excerpt": "Israeli road closures have become a part of daily life for Palestinians in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-27T21:09:40.451287+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss"
+  },
+  {
+    "id": "018fe6b64729",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T17:46",
+    "headline": "‘Iran ready for doomsday war’, FM Araghchi says",
+    "excerpt": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-27T21:09:40.451323+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss"
+  },
+  {
+    "id": "334e9f5cd6a7",
+    "source": "Al Jazeera",
+    "date": "2026-09-27T17:42",
+    "headline": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+    "excerpt": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-27T21:09:40.451347+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss"
+  },
+  {
+    "id": "022ef95774f5",
+    "source": "PressTV",
+    "date": "2026-09-27T21:09",
+    "headline": "US just 'gaslighting' over Hormuz: Iran's Parliament speaker",
+    "excerpt": "Iranian parliament speaker says the US is lying about the situation in the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-27T21:09:42.315354+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/27/777148/Iran-Qalibaf-US-claims-Hormuz-gaslighting"
+  },
+  {
     "id": "7c05b0355c7b",
     "source": "Al Jazeera",
     "date": "2026-09-27T16:58",
@@ -5388,115 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-09-16T15:01:39.614234+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
-  },
-  {
-    "id": "5040ab64b23d",
-    "source": "Al Jazeera",
-    "date": "2026-09-16T13:15",
-    "headline": "Gold mine collapse kills at least 82 people in Sudan’s West Kordofan",
-    "excerpt": "Dozens of artisanal miners have been killed after a series of adjoining mining shafts collapsed.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-16T15:01:39.614260+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss"
-  },
-  {
-    "id": "becf62f43066",
-    "source": "Al Jazeera",
-    "date": "2026-09-16T13:09",
-    "headline": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
-    "excerpt": "China says the US-Israel war on Iran highlights flaws in the Middle East&#039;s &#039;existing security architecture&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-16T15:01:39.614284+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss"
-  },
-  {
-    "id": "970d75702674",
-    "source": "Al Jazeera",
-    "date": "2026-09-16T12:56",
-    "headline": "Photos: Gaza building collapse kills 20, including women and children",
-    "excerpt": "Israel-hit building collapsed in Gaza City, killing 20 and leaving dozens trapped under the rubble.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-16T15:01:39.614312+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/9/16/photos-gaza-building-collapse-kills-20-including-women-and-children?traffic_source=rss"
-  },
-  {
-    "id": "962e35fd3c1a",
-    "source": "Al Jazeera",
-    "date": "2026-09-16T12:32",
-    "headline": "At least 20 killed as multi-storey building collapses in Gaza City",
-    "excerpt": "Rescuers are searching through the rubble for survivors after a damaged apartment building collapsed overnight in Gaza.",
-    "category": "Casualties",
-    "location": "Gaza",
-    "addedAt": "2026-09-16T15:01:39.614327+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-20-killed-as-multi-storey-building-collapses-in-gaza-city?traffic_source=rss"
-  },
-  {
-    "id": "b423903f7bf3",
-    "source": "Al Jazeera",
-    "date": "2026-09-16T09:32",
-    "headline": "At least five killed in Russian drone strike near Ukraine front line",
-    "excerpt": "At least seven people also injured in attack near Nikopol in southeastern Ukraine, Dnipropetrovsk governor says.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-16T10:14:00.389592+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss"
-  },
-  {
-    "id": "7853f8652f73",
-    "source": "Al Jazeera",
-    "date": "2026-09-16T09:19",
-    "headline": "Human rights lawyer Noura Erakat arrested at hearing against Israel Bonds",
-    "excerpt": "Palestinian human rights lawyer Noura Erakat was arrested in Florida after speaking against an Israel Bonds investment.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-16T10:14:00.389665+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/human-rights-lawyer-noura-erakat-arrested-at-hearing-against-israel-bonds?traffic_source=rss"
-  },
-  {
-    "id": "143ed601c0da",
-    "source": "Al Jazeera",
-    "date": "2026-09-16T06:57",
-    "headline": "US charges five people over alleged Russian plots",
-    "excerpt": "Prosecutors said that the group worked on behalf of Russian intelligence services to carry out attacks and murders.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-09-16T10:14:00.389708+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss"
-  },
-  {
-    "id": "9ef097ced1a5",
-    "source": "Al Jazeera",
-    "date": "2026-09-16T05:36",
-    "headline": "US House votes to end Iran war, 7 Republicans join in favour",
-    "excerpt": "For a third time, the US House approved a war powers resolution, halting Trump&#039;s ability to continue military action.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-16T10:14:00.389742+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss"
-  },
-  {
-    "id": "e54bd164bc49",
-    "source": "Al Jazeera",
-    "date": "2026-09-16T05:31",
-    "headline": "Seoul court orders North Korea to pay $32.5m for blowing up office",
-    "excerpt": "Pyongyang blew up the Inter-Korean Liaison Office building in June 2020 after days of rising tensions.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-16T10:14:00.389778+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss"
-  },
-  {
-    "id": "77de872c240d",
-    "source": "Al Jazeera",
-    "date": "2026-09-16T04:30",
-    "headline": "Gaza building collapse kills 16, traps dozens under rubble",
-    "excerpt": "Rescuers comb wreckage of a bombed-out apartment building that collapsed overnight in Gaza City.",
-    "category": "Airstrike",
-    "location": "Gaza",
-    "addedAt": "2026-09-16T10:14:00.389805+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss"
   }
 ]
