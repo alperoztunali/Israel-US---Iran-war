@@ -1,5 +1,93 @@
 [
   {
+    "id": "da65165ed827",
+    "source": "Al Jazeera",
+    "date": "2026-09-28T20:45",
+    "headline": "South Sudan calls for sanctions to be lifted at UNGA",
+    "excerpt": "Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-28T23:33:23.699988+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss"
+  },
+  {
+    "id": "de6416fb4ed3",
+    "source": "Al Jazeera",
+    "date": "2026-09-28T20:35",
+    "headline": "Slovenia’s U-turn towards Israel",
+    "excerpt": "Slovenia’s policy towards Palestine has changed sharply following a UNGA sideline meeting with Israeli PM Netanyahu.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-28T23:33:23.700038+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss"
+  },
+  {
+    "id": "3e9de7025a41",
+    "source": "Al Jazeera",
+    "date": "2026-09-28T20:34",
+    "headline": "Gaza’s young inventors build robots with what they have",
+    "excerpt": "At a youth hackathon in Gaza City, young inventors are developing robots.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-09-28T23:33:23.700076+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss"
+  },
+  {
+    "id": "3f99d816fa49",
+    "source": "Al Jazeera",
+    "date": "2026-09-28T19:42",
+    "headline": "UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi",
+    "excerpt": "The visit took place as the Israeli prime minister battles domestic turmoil ahead of October&#039;s Knesset elections.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-28T23:33:23.700114+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/28/uae-confirms-netanyahu-visit-to-abu-dhabi?traffic_source=rss"
+  },
+  {
+    "id": "b28c98ef02ae",
+    "source": "Al Jazeera",
+    "date": "2026-09-28T19:31",
+    "headline": "Myanmar army air strike kills dozens in Rakhine state",
+    "excerpt": "Nearly half a million people are displaced in Rakhine as a result of the conflict between the military and rebel groups.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-09-28T23:33:23.700140+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state?traffic_source=rss"
+  },
+  {
+    "id": "cd17feb729f8",
+    "source": "Al Jazeera",
+    "date": "2026-09-28T19:02",
+    "headline": "American and six Ukrainians released by India after six months in jail",
+    "excerpt": "Matthew VanDyke and six Ukrainians were accused of smuggling weapons and drones to armed ethnic groups fighting India.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-28T23:33:23.700173+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/28/american-and-six-ukrainians-released-by-india-after-six-months-in-jail?traffic_source=rss"
+  },
+  {
+    "id": "b80217a4fc10",
+    "source": "Al Jazeera",
+    "date": "2026-09-28T18:50",
+    "headline": "Flights between Iraq’s Najaf and Iran resumed as Tehran protests US curbs",
+    "excerpt": "Tehran filed a UN complaint against US sanctions forcing regional cancellations of Iran flights.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-09-28T23:33:23.700207+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs?traffic_source=rss"
+  },
+  {
+    "id": "0560add9090d",
+    "source": "PressTV",
+    "date": "2026-09-28T23:33",
+    "headline": "Media reports of Iran showing nuclear flexibility false; US trapped in Hormuz Strait: Source",
+    "excerpt": "An informed Iranian official has categorically rejected reports circulated by the Saudi-owned Al-Hadath channel alleging that Tehran has shown flexibility on its nuclear position.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-09-28T23:33:25.678052+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/28/777222/Source--Media-reports-of-Iran-showing-nuclear-flexibility-are-false--US-trapped-in-Hormuz-Strait"
+  },
+  {
     "id": "1fe98b3e370f",
     "source": "Al Jazeera",
     "date": "2026-09-28T18:16",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-17T22:11:46.605790+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/17/russia-sabotaging-power-supply-lines-at-zaporizhzhia-plant-greenpeace?traffic_source=rss"
-  },
-  {
-    "id": "b1bd90ff1242",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T18:54",
-    "headline": "Serbia opens factory to assemble Israeli-made drones",
-    "excerpt": "Critics say Serbia&#039;s military ties with Israel are rising significantly.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-09-17T22:11:46.605801+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss"
-  },
-  {
-    "id": "3600cfae71e6",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T18:36",
-    "headline": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
-    "excerpt": "Dozens of Israelis protested outside &#039;NAZA&#039; filmmaker’s family home, chanting &#039;death to traitors&#039;",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-17T19:03:35.138256+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss"
-  },
-  {
-    "id": "5f436a876e54",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T18:18",
-    "headline": "South Africa gender commissioner: women ‘hunted’ amid femicide crisis",
-    "excerpt": "A ninth woman has been found dead amid a wave of killings in South Africa’s Ekurhuleni region, east of Johannesburg.",
-    "category": "Casualties",
-    "location": "Oman",
-    "addedAt": "2026-09-17T19:03:35.138306+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-26-south-africa-femicide-sv-mp4?traffic_source=rss"
-  },
-  {
-    "id": "1d87fd5a4331",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T18:06",
-    "headline": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
-    "excerpt": "The French presidency said the aim of the Paris talks was to review a Lebanese armed forces deployment plan.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-09-17T19:03:35.138340+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss"
-  },
-  {
-    "id": "dd8bed90072d",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T17:02",
-    "headline": "UN fact-finding mission says US committed possible war crimes in Iran",
-    "excerpt": "The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-09-17T19:03:35.138368+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss"
-  },
-  {
-    "id": "56ad2bc6fcf6",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T16:10",
-    "headline": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
-    "excerpt": "Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a &#039;heinous lie&#039;.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-09-17T19:03:35.138391+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
-  },
-  {
-    "id": "5b826ae66473",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T15:40",
-    "headline": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
-    "excerpt": "Public broadcaster says country&#039;s participation cannot be justified amid &#039;appalling and ongoing loss of lives in Gaza&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-17T19:03:35.138440+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss"
-  },
-  {
-    "id": "17cefc085e8f",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T15:34",
-    "headline": "Ninth woman’s body found as South Africa probes series of killings",
-    "excerpt": "All female victims in their 20s and 30s were killed on the outskirts of Johannesburg in the past two months.",
-    "category": "Casualties",
-    "location": "Oman",
-    "addedAt": "2026-09-17T19:03:35.138473+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/17/ninth-womans-body-found-as-south-africa-probes-series-of-killings?traffic_source=rss"
   }
 ]
