@@ -1,5 +1,49 @@
 [
   {
+    "id": "73fd454010f0",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T00:00",
+    "headline": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+    "excerpt": "US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-09-29T02:45:54.500906+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss"
+  },
+  {
+    "id": "c81709585c92",
+    "source": "Al Jazeera",
+    "date": "2026-09-28T23:48",
+    "headline": "Fiery end for SpaceX Starship mission",
+    "excerpt": "Elon Musk’s SpaceX&#039;s next-generation Starship rocket reached orbit for the first time despite an engine shutdown.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-09-29T02:45:54.500953+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss"
+  },
+  {
+    "id": "5517aecbbcca",
+    "source": "PressTV",
+    "date": "2026-09-29T02:45",
+    "headline": "Media reports on Qatar-mediated talks ‘baseless speculation’: Baghaei",
+    "excerpt": "Esmaeil Baghaei said that media reports claiming to reveal the details of the Qatar-mediated talks are mere speculation.",
+    "category": "Diplomatic",
+    "location": "Qatar",
+    "addedAt": "2026-09-29T02:45:56.394905+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/29/777226/Media-reports-on-Qatar-mediated-talks-%E2%80%98baseless-speculation%E2%80%99--Iran-FM-spokesman"
+  },
+  {
+    "id": "bb072839a08a",
+    "source": "PressTV",
+    "date": "2026-09-29T02:45",
+    "headline": "Yemeni Deputy PM: Saudi aggression serves Zionist-Western project",
+    "excerpt": "A senior Yemeni government official has described the Saudi government's role in the war against Yemen as merely instrumental, designed to advance the interests of the United States and the Zionist regime.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-29T02:45:56.394953+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/28/777224/Yemeni-official--Saudi-aggression-serves-Zionist-Western-project"
+  },
+  {
     "id": "da65165ed827",
     "source": "Al Jazeera",
     "date": "2026-09-28T20:45",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-17T22:11:46.605674+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss"
-  },
-  {
-    "id": "b98be3fd429a",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T19:54",
-    "headline": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
-    "excerpt": "Warsaw also says it scrambled military planes in response to a Russian attack in western Ukraine, close to its border.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-17T22:11:46.605707+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss"
-  },
-  {
-    "id": "a550334f1255",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T19:42",
-    "headline": "Ilhan Omar attacker sentenced to more than a year in prison",
-    "excerpt": "The assailant sprayed vinegar at Ilhan Omar, admitting political motives were behind the assault at a townhall.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-17T22:11:46.605731+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/17/ilhan-omar-attacker-pleads-guilty-sentenced-to-more-than-a-year-in-prison?traffic_source=rss"
-  },
-  {
-    "id": "09a9b523f93c",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T19:31",
-    "headline": "Houthi leader denies targeting Mecca, vows to protect holy city",
-    "excerpt": "Houthi leader Abdul Malik al-Houthi pledges to defend Mecca and other Islamic holy sites.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-17T22:11:46.605761+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/houthi-leader-denies-targeting-mecca-vows-to-protect-holy-city?traffic_source=rss"
-  },
-  {
-    "id": "8232e973cda5",
-    "source": "Al Jazeera",
-    "date": "2026-09-17T19:30",
-    "headline": "Russia ‘sabotaging’ power supply lines at Zaporizhzhia plant: Greenpeace",
-    "excerpt": "Investigation finds no evidence of Russia&#039;s claims that Ukrainian attacks hit the nuclear power plant.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-17T22:11:46.605790+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/17/russia-sabotaging-power-supply-lines-at-zaporizhzhia-plant-greenpeace?traffic_source=rss"
   }
 ]
