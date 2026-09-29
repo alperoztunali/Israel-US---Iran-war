@@ -1,5 +1,148 @@
 [
   {
+    "id": "bfb6ffae5506",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T15:47",
+    "headline": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
+    "excerpt": "Civilian displacement surges as key Yemen roads close, leaving thousands in camps amid dire humanitarian challenges.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-09-29T16:08:33.691612+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss"
+  },
+  {
+    "id": "538c4f389e0f",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T15:33",
+    "headline": "Ireland undecided on approach for next game against Israel, coach says",
+    "excerpt": "Ireland played the first Nations League game despite unease among some players over Israel&#039;s genocidal war in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-29T16:08:33.691659+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss"
+  },
+  {
+    "id": "5af50c2dc97b",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T15:09",
+    "headline": "US-Iran talks in New York: What’s the latest?",
+    "excerpt": "Both sides remain interested in a diplomatic settlement but differ on how to achieve one.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-29T16:08:33.691685+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "9d6c882dd81b",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T14:51",
+    "headline": "Photos: French students protest, public workers strike before budget cuts",
+    "excerpt": "About 40 people have been arrested and 10 injured as protesting students clash with police.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-29T16:08:33.691709+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/9/29/photos-french-studentspublic-workers-protest-macrons-planned-budget-cuts?traffic_source=rss"
+  },
+  {
+    "id": "f63a266bfb9e",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T14:46",
+    "headline": "Why has Putin added 15,000 new soldiers to Russia’s army?",
+    "excerpt": "The move marks the fourth military expansion this year as Russia&#039;s war in Ukraine seemingly stalls.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-29T16:08:33.691742+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss"
+  },
+  {
+    "id": "0305fb8d33ee",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T13:26",
+    "headline": "Estonia says Russia ordered August arson attack on defence company",
+    "excerpt": "Tallinn accuses Moscow of responsibility for the fire at Estonian company Milrem Robotics, a supplier of unmanned ground vehicles to Ukraine.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-29T16:08:33.691777+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss"
+  },
+  {
+    "id": "c7b2cc13b237",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T13:26",
+    "headline": "Tourists face legal action over turtle-riding video in Oman",
+    "excerpt": "Tourists face legal action over turtle-riding video in Oman",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-09-29T16:08:33.691802+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/tourists-face-legal-action-over-turtle-riding-video-in-oman?traffic_source=rss"
+  },
+  {
+    "id": "bf0e2efdd7d7",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T13:22",
+    "headline": "Are Houthis using new modified cruise missiles in Yemen’s war?",
+    "excerpt": "Experts say use of modified Iranian defence system could alter the balance in the fight for the Red Sea.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-09-29T16:08:33.691828+00:00",
+    "link": "https://www.aljazeera.com/features/2026/9/29/are-houthis-using-new-modified-cruise-missiles-in-yemens-war?traffic_source=rss"
+  },
+  {
+    "id": "b7f73cf29028",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T13:20",
+    "headline": "Iran downplays possible role in Houthis’ recent Yemen victories",
+    "excerpt": "Iran has long been accused of links with the Houthis in Yemen, but how far do these links go?",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-29T16:08:33.691856+00:00",
+    "link": "https://www.aljazeera.com/news-analysis/2026/9/29/iran-downplays-their-possible-role-in-houthis-recent-yemen-victories?traffic_source=rss"
+  },
+  {
+    "id": "61ac893c7c03",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T13:20",
+    "headline": "Man City’s Premier League charges: What’s the latest and what comes next?",
+    "excerpt": "Swingeing sanctions against City for breaching financial fair play rules would send shockwaves through English football.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-09-29T16:08:33.691888+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss"
+  },
+  {
+    "id": "8a8b68ad0c43",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T12:32",
+    "headline": "Iranians stock up on food and medicine as fears of new US fighting grow",
+    "excerpt": "Iran is struggling with shortages as sanctions and blockade strain food and medicine supply chains.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-09-29T16:08:33.691909+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss"
+  },
+  {
+    "id": "9c88a0e5c8c5",
+    "source": "PressTV",
+    "date": "2026-09-29T16:08",
+    "headline": "$48bn verdict for General Soleimani assassination enters execution phase: Iran Judiciary",
+    "excerpt": "Kazemi noted that the massive case was brought forward by 3,317 plaintiffs seeking justice for the martyrdom of the beloved commander.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-29T16:08:36.074261+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/29/777253/-48bn-verdict-for-General-Soleimani-assassination-enters-execution-phase-Iran-Judiciary"
+  },
+  {
+    "id": "5ff8d9080aee",
+    "source": "PressTV",
+    "date": "2026-09-29T16:08",
+    "headline": "‘Why does world burn your flag?’: IRGC spokesman challenges Americans to question US policies",
+    "excerpt": "The IRGC has written an unprecedented message to the American public to dismantle the US war narratives.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-29T16:08:36.074309+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/29/777250/Iran-IRGC-Mohebbi-US-American-people-nuclear-Israel-hostility-letter"
+  },
+  {
     "id": "6f96f0c3361d",
     "source": "Al Jazeera",
     "date": "2026-09-29T08:15",
@@ -5355,148 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-18T14:15:12.703371+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/09-18-26-pakistan-blast?traffic_source=rss"
-  },
-  {
-    "id": "bd93b0db53ba",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T10:43",
-    "headline": "United Nations says US may have committed war crimes in Iran: What it means",
-    "excerpt": "UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-18T14:15:12.703403+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss"
-  },
-  {
-    "id": "54aa8e025746",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T10:33",
-    "headline": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
-    "excerpt": "A quarter of the world’s population faces a surging cost of living crisis because of the wars in the Middle East.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-18T14:15:12.703450+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss"
-  },
-  {
-    "id": "8c7f3644a70d",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T10:29",
-    "headline": "Israel is killing the people who could end its wars",
-    "excerpt": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-18T14:15:12.703482+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss"
-  },
-  {
-    "id": "dca2321d840a",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T09:12",
-    "headline": "Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season",
-    "excerpt": "Harry Kane could become first Ballon d&#039;Or from England since 2001, but striker focused on Bayern Munich trophies.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-18T09:49:12.193375+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss"
-  },
-  {
-    "id": "8ecf3356892c",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T08:49",
-    "headline": "Israel would rather not watch NAZA",
-    "excerpt": "The backlash against the Gaza documentary is part of a broader refusal to confront the reality of the genocide.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-18T09:49:12.193422+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-would-rather-not-watch-naza?traffic_source=rss"
-  },
-  {
-    "id": "d03266016708",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T07:54",
-    "headline": "Indonesia acquires first aircraft carrier amid military upgrade",
-    "excerpt": "Indonesia says vessel will be used to aid disaster relief across the archipelago.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-09-18T09:49:12.193455+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/18/indonesia-acquires-first-aircraft-carrier-amid-military-upgrade?traffic_source=rss"
-  },
-  {
-    "id": "eea2d6234481",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T07:47",
-    "headline": "Philippines school shooting: At least three killed including gunman",
-    "excerpt": "At least eight people were also injured in the country&#039;s third deadly school shooting since June.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-18T09:49:12.193481+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/18/philippines-school-shooting-kills-at-least-two?traffic_source=rss"
-  },
-  {
-    "id": "575ee58b35d1",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T06:48",
-    "headline": "‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions",
-    "excerpt": "New sanctions highlight Israel&#039;s isolation, yet analysts say they won&#039;t sway voters before October&#039;s elections.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-18T09:49:12.193514+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/18/outrageous-lies-how-israeli-voters-are-shrugging-off-western-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "03623d383792",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T06:45",
-    "headline": "In Yemen, war at home and in the region drives up prices",
-    "excerpt": "Families in Sanaa brace for higher food and transport costs after first fuel price increase in four years.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-09-18T09:49:12.193548+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss"
-  },
-  {
-    "id": "0d850f24f0c4",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T06:02",
-    "headline": "Oman oil escape route: How ship-to-ship transfers work — despite big risks",
-    "excerpt": "Oman’s Sohar port is becoming a popular spot for ship-to-ship oil transfers amid continued Hormuz blockade.",
-    "category": "Naval",
-    "location": "Oman",
-    "addedAt": "2026-09-18T09:49:12.193583+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/18/oman-oil-escape-route-how-ship-to-ship-transfers-work-despite-big?traffic_source=rss"
-  },
-  {
-    "id": "e099600abc0d",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T05:26",
-    "headline": "UN mission alleges crimes against humanity in Iranian protest crackdown",
-    "excerpt": "A UN fact-finding mission has concluded Iranian forces committed crimes against humanity.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-09-18T09:49:12.193618+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss"
-  },
-  {
-    "id": "4e18748806b8",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T05:23",
-    "headline": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
-    "excerpt": "South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-09-18T09:49:12.193644+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss"
-  },
-  {
-    "id": "3fb6482e9218",
-    "source": "Al Jazeera",
-    "date": "2026-09-18T05:03",
-    "headline": "Fire engulfs Zaporizhzhia shopping centre after Russian strike",
-    "excerpt": "A Russian strike hit a shopping centre in Zaporizhzhia, southeastern Ukraine, sparking a major fire.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-18T09:49:12.193679+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/fire-engulfs-zaporizhzhia-shopping-centre-after-russian-strike?traffic_source=rss"
   }
 ]
