@@ -1,5 +1,126 @@
 [
   {
+    "id": "d8501e402566",
+    "source": "Al Jazeera",
+    "date": "2026-09-30T10:29",
+    "headline": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
+    "excerpt": "A Flydubai plane travelling from Dubai to Israel made an emergency landing in Saudi Arabia.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-30T11:22:49.349496+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2?traffic_source=rss"
+  },
+  {
+    "id": "441d1f5aff2a",
+    "source": "Al Jazeera",
+    "date": "2026-09-30T08:00",
+    "headline": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
+    "excerpt": "Airline says plane experiences an &#039;incident&#039; en route from Dubai to Tel Aviv, lands safely at Saudi Arabia&#039;s Tabuk airport.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-30T11:22:49.349544+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss"
+  },
+  {
+    "id": "3a50e3c37b41",
+    "source": "Al Jazeera",
+    "date": "2026-09-30T07:40",
+    "headline": "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
+    "excerpt": "The medical condition of dozens of prisoners has deteriorated as inmates protest against suspension of amnesty law.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-30T11:22:49.349595+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/30/dire-situation-lebanese-prisoners-on-hunger-strike-for-18-days?traffic_source=rss"
+  },
+  {
+    "id": "f00252e76fd6",
+    "source": "Al Jazeera",
+    "date": "2026-09-30T07:22",
+    "headline": "Pakistan vows to defend Saudi Arabia against Houthis",
+    "excerpt": "Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-09-30T11:22:49.349633+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
+  },
+  {
+    "id": "3ba436cdc6ab",
+    "source": "Al Jazeera",
+    "date": "2026-09-30T06:48",
+    "headline": "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal",
+    "excerpt": "US president&#039;s comments came after he was asked why North Korea can have nuclear weapons when Iran cannot.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-30T11:22:49.349670+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal?traffic_source=rss"
+  },
+  {
+    "id": "0eee8bfd013a",
+    "source": "PressTV",
+    "date": "2026-09-30T11:22",
+    "headline": "Pezeshkian: Iran’s strong maritime presence in Hormuz kept vital national lifelines moving",
+    "excerpt": "Pezeshkian says the country’s strong presence across maritime areas prevented the country’s vital economic lifelines from being disrupted.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-30T11:22:51.225153+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/30/777323/Pezeshkian--Iran%E2%80%99s-strong-maritime-presence-Strait-Hormuz-kept-vital-national-lifelines-moving"
+  },
+  {
+    "id": "61992ac1ae3c",
+    "source": "PressTV",
+    "date": "2026-09-30T11:22",
+    "headline": "Iran will fire as many missiles as needed to deter enemy: IRGC advisor",
+    "excerpt": "An IRGC advisor says Iran’s armed forces are now capable of launching as many missiles as necessary in any operation to deter the enemy.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-09-30T11:22:51.225183+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/30/777316/Iran-fire-many-missiles-needed-deter-enemy--IRGC-advisor"
+  },
+  {
+    "id": "a7b910929f37",
+    "source": "PressTV",
+    "date": "2026-09-30T11:22",
+    "headline": "Senior cleric blasts submission to US as Iraq given one-month Iran flight waiver",
+    "excerpt": "A senior Iraqi cleric has condemned Baghdad’s decision to prevent Iranian aircraft from landing at Iraqi airports as submission to US bullying.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-30T11:22:51.225226+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/30/777305/Top-Iraqi-cleric-condemns-ban-on-Iranian-flights-as-submission-to-US-bullying"
+  },
+  {
+    "id": "d50511a34572",
+    "source": "PressTV",
+    "date": "2026-09-30T11:22",
+    "headline": "US completes military withdrawal from Iraq after 23 years of occupation",
+    "excerpt": "The US has completed the withdrawal of its military forces from Iraq after more than two decades of military occupation.",
+    "category": "Movement",
+    "location": "Iraq",
+    "addedAt": "2026-09-30T11:22:51.225250+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/30/777321/US-completes-military-withdrawal-from-Iraq-after-23-years-of-occupation"
+  },
+  {
+    "id": "3d802187c6a3",
+    "source": "PressTV",
+    "date": "2026-09-30T11:22",
+    "headline": "Yemen downs Saudi drone as Riyadh begs West, UAE for urgent help",
+    "excerpt": "A senior member of the Ansarullah resistance movement says the Yemeni Armed Forces have shot down a Saudi reconnaissance drone over the northern province of Sa’ada.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-09-30T11:22:51.225271+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/30/777308/Yemen-Ansarullah-shoot-down-Saudi-reconaissance-drone-Sa-ada--Hazam-al-Asad"
+  },
+  {
+    "id": "6615ae1b58d5",
+    "source": "PressTV",
+    "date": "2026-09-30T11:22",
+    "headline": "Over 400 detained in student protests across France as public workers join strike",
+    "excerpt": "Over 400 people have been detained during student protests across France as tens of thousands of public workers went on strike demanding higher pay.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-30T11:22:51.225305+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/30/777318/France-student-protests-arrests-Nunez-Bordeaux-Rennes-Lecornu-public-workers-strike-"
+  },
+  {
     "id": "dc963ad37efa",
     "source": "Al Jazeera",
     "date": "2026-09-30T04:51",
@@ -5377,126 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-19T16:45:07.841103+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss"
-  },
-  {
-    "id": "0b0d977e7845",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T12:59",
-    "headline": "Child among three Palestinians killed in Israeli attacks across Gaza",
-    "excerpt": "Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-09-19T13:28:21.050791+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss"
-  },
-  {
-    "id": "7ef4d7f496c8",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T12:51",
-    "headline": "What’s behind reports that the Israeli army is low on troops, equipment?",
-    "excerpt": "Israel&#039;s Channel 12 and Maariv newspaper claim the military is facing &#039;severe shortages&#039;.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-09-19T13:28:21.050836+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss"
-  },
-  {
-    "id": "f8cb6b5b9ddb",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T12:34",
-    "headline": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
-    "excerpt": "The sanctions, introduced during the Biden administration, targeted Eritrea&#039;s governing party and the military.",
-    "category": "Diplomatic",
-    "location": "Red Sea",
-    "addedAt": "2026-09-19T13:28:21.050880+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss"
-  },
-  {
-    "id": "5b1d9421444d",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T12:29",
-    "headline": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
-    "excerpt": "Funerals are underway in Kohat, Pakistan, after a suicide attacker rammed an explosives-laden car into a mosque killing",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-19T13:28:21.050913+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss"
-  },
-  {
-    "id": "6c6708fc18c0",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T12:21",
-    "headline": "Saudi-led naval coalition prepares to secure Red Sea waterways",
-    "excerpt": "Saudi Arabia has hosted a multinational naval coalition meeting aimed at protecting shipping in the Red Sea.",
-    "category": "Naval",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-09-19T13:28:21.050938+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss"
-  },
-  {
-    "id": "f624f21ff90f",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T12:18",
-    "headline": "In Gaza, actors perform a war they are still living",
-    "excerpt": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.",
-    "category": "Naval",
-    "location": "Gaza",
-    "addedAt": "2026-09-19T13:28:21.050966+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss"
-  },
-  {
-    "id": "06b457ba9bba",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T10:56",
-    "headline": "Iran stages show of force during mobilisation campaign in Tehran",
-    "excerpt": "Armed women, anti-aircraft guns and Shaheed drones were seen in Tehran as hundreds of thousands marched in the capital.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-09-19T13:28:21.050984+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss"
-  },
-  {
-    "id": "d996a621510a",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T10:51",
-    "headline": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
-    "excerpt": "Ukraine&#039;s Air Force says Russia hit the country with dozens of drones and two antiship missiles overnight.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-19T13:28:21.051019+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss"
-  },
-  {
-    "id": "df4b3db98262",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T08:47",
-    "headline": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
-    "excerpt": "The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-19T09:33:45.055852+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss"
-  },
-  {
-    "id": "49a1c025cc9e",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T08:18",
-    "headline": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
-    "excerpt": "The Iranian lender has faced years of Western sanctions over alleged ties to Tehran&#039;s nuclear programme.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-09-19T09:33:45.055901+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss"
-  },
-  {
-    "id": "81b3ace182e0",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T07:50",
-    "headline": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
-    "excerpt": "Israeli soldiers&#039; Gaza testimony causes backlash across much of the country&#039;s political establishment.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-19T09:33:45.055932+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss"
   }
 ]
