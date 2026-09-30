@@ -1,5 +1,104 @@
 [
   {
+    "id": "dc963ad37efa",
+    "source": "Al Jazeera",
+    "date": "2026-09-30T04:51",
+    "headline": "Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning",
+    "excerpt": "Opposition leader dismisses Netanyahu&#039;s warning of possible attacks during next month&#039;s general election.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-30T05:40:41.999661+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss"
+  },
+  {
+    "id": "c68f3aad437d",
+    "source": "Al Jazeera",
+    "date": "2026-09-30T03:53",
+    "headline": "Public workers in France strike over pay as student protests turn violent",
+    "excerpt": "Tens of thousands of workers march nationwide, as police arrest 440 students in clashes at schools.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-09-30T05:40:41.999713+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/30/french-public-workers-strike-over-pay-as-student-protests-turn-violent?traffic_source=rss"
+  },
+  {
+    "id": "ca59d237aa4b",
+    "source": "Al Jazeera",
+    "date": "2026-09-30T02:39",
+    "headline": "Somali pirates killed five crew members on hijacked tanker, officials say",
+    "excerpt": "The deaths appear to be the first at the hands of Somali pirates in more than a decade.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-09-30T05:40:41.999747+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say?traffic_source=rss"
+  },
+  {
+    "id": "ad1cbba37a9d",
+    "source": "Al Jazeera",
+    "date": "2026-09-30T02:26",
+    "headline": "US Senate blocks resolution seeking report on Americans killed in West Bank",
+    "excerpt": "The resolution cites a &#039;lack of accountability&#039; by Israel&#039;s government and an &#039;inability to secure justice&#039; by the US.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-09-30T05:40:41.999774+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "05037b3793a1",
+    "source": "Al Jazeera",
+    "date": "2026-09-30T01:46",
+    "headline": "Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties",
+    "excerpt": "Protests across Morocco highlight gap between public opposition to normalisation and Rabat’s closer ties with Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-09-30T05:40:41.999814+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/30/moroccos-pro-palestine-protests-challenge-rabats-deepening-israel-ties?traffic_source=rss"
+  },
+  {
+    "id": "4c32b25dd9df",
+    "source": "Al Jazeera",
+    "date": "2026-09-30T00:00",
+    "headline": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
+    "excerpt": "US President Donald Trump reiterates that Tehran will not have a nuclear weapon.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-09-30T05:40:41.999854+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss"
+  },
+  {
+    "id": "e88db174e2e4",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T23:53",
+    "headline": "Trump says he plans to campaign for 32 days before midterm elections",
+    "excerpt": "US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-09-30T05:40:41.999889+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss"
+  },
+  {
+    "id": "6cdba6bb345e",
+    "source": "Al Jazeera",
+    "date": "2026-09-29T23:49",
+    "headline": "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza",
+    "excerpt": "Qatar&#039;s top diplomat says Israel has undermined Doha&#039;s efforts to broker a ceasefire in Gaza from &#039;day one&#039;.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-09-30T05:40:41.999934+00:00",
+    "link": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "b17f11b6dad2",
+    "source": "PressTV",
+    "date": "2026-09-30T05:40",
+    "headline": "Iraqi resistance group rejects disarmament, vows to maintain support for Lebanon",
+    "excerpt": "Iraqi anti-terror resistance group Kata’ib Sayyid al-Shuhada rejects any surrender of its weapons.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-09-30T05:40:45.230217+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/09/30/777299/Iraq-resistance-groups-rejects-surrendering-weapon-support-Lebanese-fighters"
+  },
+  {
     "id": "c21ea5adef33",
     "source": "Al Jazeera",
     "date": "2026-09-29T23:06",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-19T09:33:45.055932+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss"
-  },
-  {
-    "id": "319751405636",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T06:30",
-    "headline": "Could US pull one-third of troops from Europe? What that would mean",
-    "excerpt": "US Pentagon is reportedly considering proposals for reducing military footprint across the Atlantic.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-09-19T09:33:45.055962+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean?traffic_source=rss"
-  },
-  {
-    "id": "efe1234db8dd",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T05:28",
-    "headline": "Brazilian police capture suspected serial killer disguised as a woman",
-    "excerpt": "Brazilian police say they will reopen dozens of cases after they arrested a self-confessed serial killer.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-09-19T09:33:45.056012+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/brazilian-police-capture-suspected-serial-killer-disguised-as-a-woman?traffic_source=rss"
-  },
-  {
-    "id": "727a2b9c6ae4",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T04:57",
-    "headline": "UK jails teen asylum seeker for steering overcrowded Channel migrant boat",
-    "excerpt": "The boat lacked safety gear and took on water before interception by UK Border Force, authorities say.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-19T09:33:45.056043+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/19/uk-jails-teen-asylum-seeker-for-steering-overcrowded-channel-migrant-boat?traffic_source=rss"
-  },
-  {
-    "id": "35e7af2d5b2f",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T03:29",
-    "headline": "North Korea dismisses UN nuclear watchdog resolution",
-    "excerpt": "The country rebukes the UN atomic agency&#039;s &#039;double standards&#039; and says nuclear status is &#039;irreversible&#039;.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-19T05:08:38.389383+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss"
-  },
-  {
-    "id": "4fc52407dcf3",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T03:02",
-    "headline": "Report: More US troops have died in Iran war than Pentagon says",
-    "excerpt": "The Pentagon publicly lists 18 US military deaths since the Iran war began.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-09-19T05:08:38.389442+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss"
-  },
-  {
-    "id": "00b4da280b4c",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T01:45",
-    "headline": "Iranian women defy law and run Tehran race without hijab",
-    "excerpt": "Hundreds of Iranian women defy hijab law in Tehran 10K race.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-09-19T05:08:38.389480+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss"
-  },
-  {
-    "id": "b793f65c0940",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T00:46",
-    "headline": "Trump signs sweeping Russia sanctions over Ukraine war",
-    "excerpt": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-09-19T05:08:38.389515+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss"
-  },
-  {
-    "id": "afa9fa576801",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T00:00",
-    "headline": "Iran war live: Saudi danger alerts blare, Trump extends Iran sanctions",
-    "excerpt": "Tens of thousands take to the streets in support of the Houthis in Sanaa; Trump extends sanctions on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-19T05:08:38.389550+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss"
-  },
-  {
-    "id": "7bfa5bbf21c3",
-    "source": "Al Jazeera",
-    "date": "2026-09-19T00:02",
-    "headline": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-    "excerpt": "Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-09-19T00:40:19.642482+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss"
   }
 ]
