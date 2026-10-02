@@ -1,5 +1,93 @@
 [
   {
+    "id": "021bad024c05",
+    "source": "Al Jazeera",
+    "date": "2026-10-02T16:06",
+    "headline": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+    "excerpt": "World Food Programme warns of &#039;devastating&#039; impact as conflict displaces thousands and cuts off food supplies.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-02T16:39:06.955369+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss"
+  },
+  {
+    "id": "3dac1c74fc50",
+    "source": "Al Jazeera",
+    "date": "2026-10-02T13:17",
+    "headline": "Man City lodge appeal after guilty finding in financial breach scandal",
+    "excerpt": "The Abu Dhabi-controlled club has protested its innocence throughout the long-running case, which dates back to 2018.",
+    "category": "Other",
+    "location": "Abu Dhabi",
+    "addedAt": "2026-10-02T16:39:06.955419+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-appeal-premier-league-financial-ruling-england-fa?traffic_source=rss"
+  },
+  {
+    "id": "72ee2dfffdba",
+    "source": "Al Jazeera",
+    "date": "2026-10-02T12:47",
+    "headline": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+    "excerpt": "Closure of bridges struck by drones in Ukrainian capital causes traffic chaos.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-02T16:39:06.955447+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss"
+  },
+  {
+    "id": "804f60f9aecd",
+    "source": "Al Jazeera",
+    "date": "2026-10-02T12:37",
+    "headline": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
+    "excerpt": "As it plunged 17,000ft in under two minutes, a quick-thinking captain and passengers saved plane from crashing.",
+    "category": "Other",
+    "location": "Dubai",
+    "addedAt": "2026-10-02T16:39:06.955478+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss"
+  },
+  {
+    "id": "f7320d49ed89",
+    "source": "PressTV",
+    "date": "2026-10-02T16:39",
+    "headline": "Reality is shaped by Iran; Trump can win only in his imagination: Top security chief",
+    "excerpt": "“You can win every day in your own imagination. But reality is shaped by Iran,\" Rezaei tells Trump.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-02T16:39:09.286536+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/02/777457/Mohsen-Rezaei-Trump-claim-victory-reality-imagination"
+  },
+  {
+    "id": "44d547b83820",
+    "source": "PressTV",
+    "date": "2026-10-02T16:39",
+    "headline": "IRGC: Era of cost-free threats over, any attack will draw painful response",
+    "excerpt": "The IRGC says the era of cost-free threats against Iran is over and vows to give a painful and regret-inducing response to any act of aggression.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-02T16:39:09.286577+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/02/777454/Iran-IRGC-True-Promise-II-second-anniv-"
+  },
+  {
+    "id": "42f2b50bd302",
+    "source": "PressTV",
+    "date": "2026-10-02T16:39",
+    "headline": "Iran condemns French police violence against protesting students",
+    "excerpt": "Iran condemns the brutal clampdown by French security forces against students who are protesting over school conditions and under-investment in education.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-02T16:39:09.286610+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/02/777444/Iran-condemns-French-police-violence-students"
+  },
+  {
+    "id": "e050abcb5ade",
+    "source": "PressTV",
+    "date": "2026-10-02T16:39",
+    "headline": "‘No reconciliation without truth’: Iran blasts Canada over Indigenous children",
+    "excerpt": "Iran Foreign Ministry spokesperson says Canada’s National Day for Truth and Reconciliation cannot replace answers over children taken from their families, abused and buried far from home.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-02T16:39:09.286693+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/02/777443/Iran-Canada-Truth-and-Reconciliation-Day-cannot-cover-up-treatment-of-Indigenous-children"
+  },
+  {
     "id": "fd297e7b213f",
     "source": "Al Jazeera",
     "date": "2026-10-02T10:17",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-22T20:13:32.047096+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss"
-  },
-  {
-    "id": "dff228fa4d96",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T18:27",
-    "headline": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
-    "excerpt": "Qatari Emir Sheikh Tamim bin Hamad Al Thani called for the reopening of the Strait of Hormuz while speaking at the UN.",
-    "category": "Statement",
-    "location": "Qatar",
-    "addedAt": "2026-09-22T20:13:32.047130+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "61f084efd75f",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T18:14",
-    "headline": "US, Iran hold ‘very good’ talks, Trump says at UN meeting",
-    "excerpt": "US President hints at possible deal with Iran, but warns of dire consequences if no agreement is reached.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-22T20:13:32.047164+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss"
-  },
-  {
-    "id": "8bab1eab6de1",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T17:02",
-    "headline": "Turkiye school shooting leaves 11 pupils wounded",
-    "excerpt": "Eleven pupils were wounded after a student opened fire near a secondary school in Manisa, western Turkiye",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-22T20:13:32.047190+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss"
-  },
-  {
-    "id": "f8a736b17888",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T16:55",
-    "headline": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
-    "excerpt": "Turkish leader says UN has been forced into &#039;dysfunction&#039; and was &#039;bleeding out&#039; in Palestine, Lebanon, Sudan.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-22T17:13:34.616099+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss"
-  },
-  {
-    "id": "b57f6ec09011",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T16:35",
-    "headline": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
-    "excerpt": "Jordan&#039;s King Abdullah II decried Israeli settlements in the occupied West Bank as a strategy of ‘forced displacement.&#039;",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-22T17:13:34.616178+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss"
-  },
-  {
-    "id": "a600fd675067",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T16:31",
-    "headline": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
-    "excerpt": "The suicide bombings were the deadliest attacks in the country since the end of its civil war in 2009.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-09-22T17:13:34.616210+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss"
-  },
-  {
-    "id": "249289cb2e95",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T16:18",
-    "headline": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
-    "excerpt": "Speaking at the UN General Assembly, US President Donald Trump claimed he helped end the war in Gaza.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-22T17:13:34.616248+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "37e05561af6f",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T15:49",
-    "headline": "UNGA 2026: Can the UN stop wars?",
-    "excerpt": "Al Jazeera asked people in Bangladesh, Gaza and Nigeria what they think of the UN’s role in resolving conflicts.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-22T17:13:34.616281+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-2026-can-the-un-stop-wars?traffic_source=rss"
   }
 ]
