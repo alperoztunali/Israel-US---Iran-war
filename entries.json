@@ -1,5 +1,93 @@
 [
   {
+    "id": "b865a79106ad",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T14:30",
+    "headline": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
+    "excerpt": "The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-03T15:13:32.812503+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss"
+  },
+  {
+    "id": "808c8b27ebf6",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T14:06",
+    "headline": "Israel election double standard: Arab leader forced out, far right cleared",
+    "excerpt": "Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-03T15:13:32.812558+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss"
+  },
+  {
+    "id": "98904aea282e",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T13:18",
+    "headline": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
+    "excerpt": "Kenyan survivors are challenging the UK military over decades of alleged abuses — and the immunity that has shielded it.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-03T15:13:32.812611+00:00",
+    "link": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss"
+  },
+  {
+    "id": "964822fdce89",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T13:00",
+    "headline": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
+    "excerpt": "Military, pro-government forces recapture airport in Tigray&#039;s capital as fighting also rages in Amhara and Afar regions.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-10-03T15:13:32.812655+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss"
+  },
+  {
+    "id": "7996e3607cbb",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T12:55",
+    "headline": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+    "excerpt": "Russia has also attacked another key bridge in Kyiv, the second such strike in two days.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-03T15:13:32.812685+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss"
+  },
+  {
+    "id": "c31973f7f94c",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T12:18",
+    "headline": "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
+    "excerpt": "Israeli forces detain and assault journalists in Jabal Qamass area in Beita, south of Nablus.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-10-03T15:13:32.812717+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "4ce7daab525a",
+    "source": "PressTV",
+    "date": "2026-10-03T15:13",
+    "headline": "Missile, weapons production supply chain remains intact: IRGC",
+    "excerpt": "A senior IRGC commander says Iran’s supply chain for the production of weapons and missiles remains fully intact.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-10-03T15:13:34.825562+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/03/777535/Iran-IRGC-Balali-missile"
+  },
+  {
+    "id": "36a261067303",
+    "source": "PressTV",
+    "date": "2026-10-03T15:13",
+    "headline": "Yemen vows Saudi attacks on civilians will not stop Ta’izz operations",
+    "excerpt": "Yemen’s Ansarullah says Saudi airstrikes on civilian areas in Sana’a will not stop its military operations or efforts to push Saudi-backed forces out of Ta'izz province.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-10-03T15:13:34.825604+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/03/777533/Yemen-Ansarullah-continue-operations-Ta-izz-despite-Saudi-strikes"
+  },
+  {
     "id": "d34debf0aefa",
     "source": "Al Jazeera",
     "date": "2026-10-03T11:08",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-23T20:37:46.465879+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss"
-  },
-  {
-    "id": "16a7ea6a9c58",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T17:51",
-    "headline": "Azerbaijan pardons French national Martin Ryan jailed on spy charges",
-    "excerpt": "The move comes after the EU lifts sanctions on oligarchs following what diplomats described as pressure from Baku.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-09-23T20:37:46.465923+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/23/azerbaijan-pardons-french-national-jailed-for-spying?traffic_source=rss"
-  },
-  {
-    "id": "0fdb66a12d2b",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T17:45",
-    "headline": "Board of Peace plans $2.4bn Gaza reconstruction as Israel kills seven",
-    "excerpt": "Violations against Palestinians in Gaza continue even as world leaders call on Israel to adhere to ceasefire deal.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-23T20:37:46.465953+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven?traffic_source=rss"
-  },
-  {
-    "id": "d77e45b8d879",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T16:48",
-    "headline": "Israel’s destruction leaves Lebanon’s border villages in ruins",
-    "excerpt": "Israel’s destruction leaves Lebanon’s border villages in ruins",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-23T17:23:49.861097+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss"
-  },
-  {
-    "id": "acb506dd7573",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T16:44",
-    "headline": "Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery",
-    "excerpt": "President Ahmed al-Sharaa calls for Israeli withdrawal, condemning its attacks as Syria emerges from civil war.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-09-23T17:23:49.861146+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss"
-  },
-  {
-    "id": "5beb53291f8e",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T16:34",
-    "headline": "US envoy walks out on Pezeshkian UN speech slamming war on Iran",
-    "excerpt": "As Iran’s president began his speech at the UN General Assembly, an official from the US delegation walked out.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-23T17:23:49.861185+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-envoy-walks-out-on-pezeshkian-un-speech-slamming-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "193af1a00730",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T16:21",
-    "headline": "Yemeni government in military and diplomatic push to reverse Houthi gains",
-    "excerpt": "Government claims battlefield advances as diplomats attempt to put anti-Houthi fight at UN centre stage.",
-    "category": "Diplomatic",
-    "location": "Yemen",
-    "addedAt": "2026-09-23T17:23:49.861218+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/23/yemeni-government-in-military-and-diplomatic-push-to-reverse-houthi-gains?traffic_source=rss"
-  },
-  {
-    "id": "ec0d613402a5",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T15:49",
-    "headline": "‘They kill, we are punished’: Iran calls out Western hypocrisy",
-    "excerpt": "Iranian President Masoud Pezeshkian has accused Israel and the US of applying ‘double standards’.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-23T17:23:49.861254+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss"
-  },
-  {
-    "id": "5f2481ff213d",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T15:24",
-    "headline": "Iran: Strait of Hormuz won’t be used to ‘impose insecurity on us’",
-    "excerpt": "Iranian President Masoud Pezeshkian told the UN General Assembly that ‘warfare knows no borders’.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-23T17:23:49.861295+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iran-strait-of-hormuz-wont-be-used-to-impose-insecurity-on?traffic_source=rss"
   }
 ]
