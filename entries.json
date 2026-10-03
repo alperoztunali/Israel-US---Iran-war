@@ -1,5 +1,49 @@
 [
   {
+    "id": "1ddc78408335",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T04:58",
+    "headline": "New claims that Netanyahu rejected Hamas offer to release captives",
+    "excerpt": "Reports are building that Israel rejected a Hamas offer to release all civilian hostages taken on October 7, 2023.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-03T05:47:14.788249+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss"
+  },
+  {
+    "id": "9bbceba5079e",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T04:54",
+    "headline": "WHO warns of ‘devastating consequences’ due to delayed aid entry into Gaza",
+    "excerpt": "The WHO&#039;s representative in Palestine calls on Israeli authorities to &#039;release the pressure on medical supplies&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-03T05:47:14.788366+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza?traffic_source=rss"
+  },
+  {
+    "id": "c9b79435c354",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T03:56",
+    "headline": "Two Iranians charged over alleged plot targeting Jewish community in UK",
+    "excerpt": "Two Iranian men are accused of preparing to commit an act of terrorism in Manchester ahead of Yom Kippur.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-03T05:47:14.788429+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss"
+  },
+  {
+    "id": "daee3248a3d0",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T02:25",
+    "headline": "Israeli air attack on Gaza City apartment kills at least five",
+    "excerpt": "No warning was given before the deadly Israeli attack hit Remal, one of Gaza City&#039;s most crowded neighbourhoods.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-03T05:47:14.788469+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss"
+  },
+  {
     "id": "8b4194ed451e",
     "source": "Al Jazeera",
     "date": "2026-10-03T00:00",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-23T12:17:18.716555+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss"
-  },
-  {
-    "id": "60a0161944f9",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T05:34",
-    "headline": "Trump rallies Shield of the Americas coalition against drug cartels",
-    "excerpt": "US-led anti-cartel alliance backs sanctions against crime groups after Trump urges stronger action.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-09-23T06:42:54.122883+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss"
-  },
-  {
-    "id": "9d986a2b380a",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T04:42",
-    "headline": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
-    "excerpt": "Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-09-23T06:42:54.122924+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "70f45e514902",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T04:08",
-    "headline": "Sri Lanka convicts 15 people over 2019 Easter Day bombings",
-    "excerpt": "Fifteen people have been convicted over Sri Lanka’s 2019 Easter Sunday bombings, which killed 279 people.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-09-23T06:42:54.122957+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss"
-  },
-  {
-    "id": "6cab3ae2d5c8",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T02:50",
-    "headline": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
-    "excerpt": "Investors shrug off AI safety concerns and Iran war, sending market to a new peak.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-23T06:42:54.123001+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss"
   }
 ]
