@@ -1,5 +1,49 @@
 [
   {
+    "id": "ee63b411a71f",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T21:15",
+    "headline": "Israeli settlers attack Palestinian farmers during olive harvest",
+    "excerpt": "Israeli settlers attack Palestinian farmers during olive harvest",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-03T21:48:55.459160+00:00",
+    "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss"
+  },
+  {
+    "id": "dd2f1d50de1c",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T20:10",
+    "headline": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+    "excerpt": "Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.",
+    "category": "Casualties",
+    "location": "Gaza",
+    "addedAt": "2026-10-03T21:48:55.459204+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss"
+  },
+  {
+    "id": "504905dd5791",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T19:14",
+    "headline": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
+    "excerpt": "The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-03T21:48:55.459251+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss"
+  },
+  {
+    "id": "6fe0a9905812",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T18:49",
+    "headline": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
+    "excerpt": "A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-10-03T21:48:55.459282+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss"
+  },
+  {
     "id": "268da37002bd",
     "source": "Al Jazeera",
     "date": "2026-10-03T18:03",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-24T06:40:34.588595+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss"
-  },
-  {
-    "id": "6d0145b2461c",
-    "source": "Al Jazeera",
-    "date": "2026-09-24T02:17",
-    "headline": "Iran’s president brings receipts of US strikes on civilians to the UNGA",
-    "excerpt": "Iran’s president delivered his UN General Assembly address after US President Trump threatened to ‘annihilate’ Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-24T06:40:34.588622+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss"
-  },
-  {
-    "id": "9abb7d7deddd",
-    "source": "Al Jazeera",
-    "date": "2026-09-24T02:06",
-    "headline": "Israel moves to bar both main Arab lists from October election",
-    "excerpt": "Excluding Ra&#039;am and the Joint List leaves Palestinian citizens in Israel without major Knesset representation options.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-24T06:40:34.588642+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/24/israel-moves-to-bar-both-main-arab-lists-from-october-election?traffic_source=rss"
-  },
-  {
-    "id": "31154c18fe7b",
-    "source": "Al Jazeera",
-    "date": "2026-09-24T01:04",
-    "headline": "Turkiye agrees to gradual handover of Bashiqa base to Iraq",
-    "excerpt": "Iraqi Prime Minister al-Zaidi and Turkish President Erdogan pledged deeper security cooperation at UNGA.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-09-24T01:27:46.412125+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss"
-  },
-  {
-    "id": "9142467e07cc",
-    "source": "Al Jazeera",
-    "date": "2026-09-24T00:00",
-    "headline": "Iran war live: Tehran says it won’t be bullied, remains open for talks",
-    "excerpt": "Iranian president says Tehran will not bow to pressure while remaining open to dialogue in a defiant UN speech.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-09-24T01:27:46.412158+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss"
   }
 ]
