@@ -1,5 +1,104 @@
 [
   {
+    "id": "8b4194ed451e",
+    "source": "Al Jazeera",
+    "date": "2026-10-03T00:00",
+    "headline": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+    "excerpt": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-10-03T00:31:25.135756+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss"
+  },
+  {
+    "id": "365b8f565282",
+    "source": "Al Jazeera",
+    "date": "2026-10-02T23:55",
+    "headline": "North Korea fires ballistic missile towards the sea, South Korea says",
+    "excerpt": "A ballistic missile is fired from the North Korean port city of Wonsan, South Korea&#039;s military says.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-03T00:31:25.135787+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
+  },
+  {
+    "id": "d41eb33e493d",
+    "source": "Al Jazeera",
+    "date": "2026-10-02T22:50",
+    "headline": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+    "excerpt": "Smit Machchhar recalls midair disaster after co-pilot&#039;s attack on Flydubai flight to Tel Aviv.",
+    "category": "Other",
+    "location": "Dubai",
+    "addedAt": "2026-10-03T00:31:25.135810+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss"
+  },
+  {
+    "id": "2426914c7ec7",
+    "source": "Al Jazeera",
+    "date": "2026-10-02T22:14",
+    "headline": "Why Carney’s economic overhaul is clashing with Canada’s unions",
+    "excerpt": "Unions say proposed changes to Canada&#039;s labour laws could weaken workers’ right to strike.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-03T00:31:25.135839+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss"
+  },
+  {
+    "id": "3a0aab1ba91d",
+    "source": "Al Jazeera",
+    "date": "2026-10-02T21:53",
+    "headline": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+    "excerpt": "Retired General Nitzan Alon says more captives could have returned alive and a deal was possible &#039;maybe a year earlier&#039;.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-10-03T00:31:25.135861+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss"
+  },
+  {
+    "id": "bb11f60910b8",
+    "source": "Al Jazeera",
+    "date": "2026-10-02T21:15",
+    "headline": "Israeli general: Gaza captives could have been freed a year earlier",
+    "excerpt": "Israeli Gen. Nitzan Alon told a Washington Institute forum that all Gaza captives could&#039;ve been freed a year earlier.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-03T00:31:25.135884+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss"
+  },
+  {
+    "id": "5c6d3eff0ec3",
+    "source": "Al Jazeera",
+    "date": "2026-10-02T20:57",
+    "headline": "Christa Pike unconscious, on ventilator after botched execution: Lawyers",
+    "excerpt": "The Tennessee woman&#039;s legal team says doctors are working to clear doses of the drug pentobarbital from her system.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-10-03T00:31:25.135907+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/2/christa-pike-unconscious-on-ventilator-after-botched-execution-lawyers?traffic_source=rss"
+  },
+  {
+    "id": "c2d36931d711",
+    "source": "PressTV",
+    "date": "2026-10-03T00:31",
+    "headline": "Iran has technological surprises in store for enemies: IRGC commander",
+    "excerpt": "A senior IRGC commander says the Iranian armed have technological surprises in store for their enemies.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-03T00:31:27.329343+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/02/777461/Iran-IRGC-Izadi-surprises"
+  },
+  {
+    "id": "7ce9ee00c646",
+    "source": "PressTV",
+    "date": "2026-10-03T00:31",
+    "headline": "Iraqi resistance official hails public defiance that broke US siege on Najaf-Iran flights",
+    "excerpt": "The official warned that the Iraqi people will launch an even stronger \"angry popular flood\" if the unjust American siege on Iraqi airports continues.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-10-03T00:31:27.329371+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/02/777474/Iraqi-resistance-hails-public-defiance-that-broke-US-siege-on-Najaf-Iran-flights"
+  },
+  {
     "id": "1b6bcef45d75",
     "source": "Al Jazeera",
     "date": "2026-10-02T20:54",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-23T06:42:54.123001+00:00",
     "link": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss"
-  },
-  {
-    "id": "698044084a26",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T02:36",
-    "headline": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
-    "excerpt": "France&#039;s Macron says suffering in Gaza should &#039;shame all of us&#039; as Canada&#039;s Carney pledges $71m for two-state efforts.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-23T06:42:54.123033+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss"
-  },
-  {
-    "id": "53c8e45daf67",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T02:24",
-    "headline": "UK Prime Minister vows not to ‘stand by’ as Palestinians suffer",
-    "excerpt": "UK PM Burnham condemned Israel’s war on Gaza, and explains why the UK sanctioned illegal Israeli settlements.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-23T06:42:54.123074+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-prime-minister-vows-not-to-stand-by-as-palestinians-suffer?traffic_source=rss"
-  },
-  {
-    "id": "254c32323d87",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T23:46",
-    "headline": "Iran cancels Baghdad, Muscat flights as US aviation sanctions take effect",
-    "excerpt": "Iran official says Baghdad and Muscat airports will not accept Iranian flights from midnight on Wednesday.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-23T06:42:54.123111+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "152a0cd1508a",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T01:20",
-    "headline": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
-    "excerpt": "Ukraine leader says Kyiv is ready to stop strikes on Russian facilities if Moscow halts attacks on its energy system.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-09-23T01:31:49.330147+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks?traffic_source=rss"
-  },
-  {
-    "id": "65832d0dfe79",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T01:11",
-    "headline": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
-    "excerpt": "Iranian President Masoud Pezeshkian has arrived in New York as the US-Iran war continues.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-23T01:31:49.330195+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss"
-  },
-  {
-    "id": "94c47d8524cd",
-    "source": "Al Jazeera",
-    "date": "2026-09-23T00:00",
-    "headline": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN",
-    "excerpt": "President Trump says US officials held a &#039;very good&#039; meeting on Tuesday with the Iranian delegation at UN.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-23T01:31:49.330237+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss"
-  },
-  {
-    "id": "2004e793ea3b",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T23:46",
-    "headline": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
-    "excerpt": "Iran&#039;s aviation officials negotiate with Oman and Iraq as US&#039;s Bessent targets carriers seven months into the conflict.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-09-23T01:31:49.330266+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "66d64d6f134a",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T22:48",
-    "headline": "UNGA Day 1: US and Iran hold talks despite Trump’s threat",
-    "excerpt": "The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-23T01:31:49.330333+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss"
-  },
-  {
-    "id": "2935fd76874c",
-    "source": "Al Jazeera",
-    "date": "2026-09-22T21:30",
-    "headline": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
-    "excerpt": "Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-22T23:00:33.817680+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss"
   }
 ]
