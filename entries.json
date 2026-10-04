@@ -1,5 +1,71 @@
 [
   {
+    "id": "6fda098ecff5",
+    "source": "Al Jazeera",
+    "date": "2026-10-04T05:00",
+    "headline": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+    "excerpt": "Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-04T06:12:40.473125+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss"
+  },
+  {
+    "id": "ae9344aa0027",
+    "source": "Al Jazeera",
+    "date": "2026-10-04T04:09",
+    "headline": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
+    "excerpt": "Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-10-04T06:12:40.473176+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss"
+  },
+  {
+    "id": "2546f29eb431",
+    "source": "Al Jazeera",
+    "date": "2026-10-04T04:06",
+    "headline": "Pick-up truck overturns trying to carry military chopper in Russia",
+    "excerpt": "An attempt by Russian stuntman Evgeny Chebotarev to carry an Mi-2 helicopter on a pickup truck went awfully wrong.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-04T06:12:40.473217+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss"
+  },
+  {
+    "id": "f5ae10e25251",
+    "source": "Al Jazeera",
+    "date": "2026-10-04T03:33",
+    "headline": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
+    "excerpt": "Spokesman for Saudi-led coalition supporting Yemen government says Houthi claims of targeting Riyadh are &#039;misleading&#039;.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-04T06:12:40.473250+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss"
+  },
+  {
+    "id": "e5a97ee70791",
+    "source": "Al Jazeera",
+    "date": "2026-10-04T00:26",
+    "headline": "Serbian populist leader Vucic launches campaign for prime minister",
+    "excerpt": "Former Serbian President Aleksandar Vucic is seeking to extend his hold on power through a parliamentary vote.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-04T06:12:40.473286+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss"
+  },
+  {
+    "id": "a7362f9043b7",
+    "source": "PressTV",
+    "date": "2026-10-04T06:12",
+    "headline": "Russia’s Medvedev: Iranian nation united, resolute in defense of independence",
+    "excerpt": "Russia’s Medvedev: Iranian nation united, resolute in defense of independence",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-04T06:12:42.453235+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/04/777562/Russia%E2%80%99s-Medvedev--Iranian-nation-united,-resolute-in-defense-of-independence"
+  },
+  {
     "id": "e6c60f13dd30",
     "source": "Al Jazeera",
     "date": "2026-10-04T00:00",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-24T17:28:43.642841+00:00",
     "link": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss"
-  },
-  {
-    "id": "e4d5ddebc4cf",
-    "source": "Al Jazeera",
-    "date": "2026-09-24T14:04",
-    "headline": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
-    "excerpt": "US secretary of state&#039;s warning comes after he and Trump met the Iraqi PM on the sidelines of the UNGA.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-09-24T17:28:43.642877+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss"
-  },
-  {
-    "id": "c50077115927",
-    "source": "Al Jazeera",
-    "date": "2026-09-24T13:42",
-    "headline": "Israel offers cash to firms hit by trade ban; Europe dithers on new rules",
-    "excerpt": "Israel hopes to redirect goods from illegal Israeli settlements towards markets in Asia and South America.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-24T17:28:43.642906+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss"
-  },
-  {
-    "id": "fef951246c30",
-    "source": "Al Jazeera",
-    "date": "2026-09-24T11:44",
-    "headline": "Deadly attack on Indian cargo ship off coast of Oman",
-    "excerpt": "A crew member was killed in an attack on an Indian cargo vessel off the coast of Oman.",
-    "category": "Casualties",
-    "location": "Oman",
-    "addedAt": "2026-09-24T12:16:26.398793+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss"
-  },
-  {
-    "id": "437978a9fc11",
-    "source": "Al Jazeera",
-    "date": "2026-09-24T11:39",
-    "headline": "Russia attacks Ukraine while Zelenskyy speaks at UNGA",
-    "excerpt": "Russia attacks Ukraine while Zelenskyy speaks at UNGA",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-24T12:16:26.398845+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/russia-attacks-ukraine-while-zelenskyy-speaks-at-unga?traffic_source=rss"
-  },
-  {
-    "id": "b5ff9d75a294",
-    "source": "Al Jazeera",
-    "date": "2026-09-24T11:10",
-    "headline": "Why is Iran threatening regional airports, and what could be the impact?",
-    "excerpt": "Tehran hints retaliation as Georgia and Azerbaijan suspend Iranian flights amid mounting US sanctions on airlines.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-09-24T12:16:26.398879+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/24/why-is-iran-threatening-regional-airports-and-what-could-be-the-impact?traffic_source=rss"
-  },
-  {
-    "id": "812220960823",
-    "source": "Al Jazeera",
-    "date": "2026-09-24T10:27",
-    "headline": "Russian attacks kill eight people across Ukraine as US steps up diplomacy",
-    "excerpt": "US and Russia engage in urgent talks to reduce war&#039;s impact on global energy during UN General Assembly.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-09-24T12:16:26.398915+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/24/russian-attacks-kill-eight-people-across-ukraine-as-us-steps-up-diplomacy?traffic_source=rss"
   }
 ]
