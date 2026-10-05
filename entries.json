@@ -1,5 +1,93 @@
 [
   {
+    "id": "0b6ccf46ba63",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T08:20",
+    "headline": "Pakistan installs fishing nets at security outposts to block drone attacks",
+    "excerpt": "Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-05T09:07:47.662899+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss"
+  },
+  {
+    "id": "487768db144c",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T05:20",
+    "headline": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+    "excerpt": "IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-05T09:07:47.662960+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss"
+  },
+  {
+    "id": "67287a803a2b",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T05:12",
+    "headline": "Who were the top teen athletes at the Asian Games?",
+    "excerpt": "China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-05T09:07:47.663000+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss"
+  },
+  {
+    "id": "0f2323a8e18d",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T04:13",
+    "headline": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
+    "excerpt": "A California woman allegedly sent photos and videos of President Lai&#039;s son and his family to Chinese officials.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-10-05T09:07:47.663043+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss"
+  },
+  {
+    "id": "335099dd9c91",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T03:11",
+    "headline": "Yemen gov’t forces commence major combat operation against Houthis",
+    "excerpt": "Yemeni government forces have declared a ‘battle for liberation’ to retake remaining territory held by the Houthis.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-10-05T09:07:47.663072+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss"
+  },
+  {
+    "id": "c936f15a019a",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T02:28",
+    "headline": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
+    "excerpt": "Ireland and Israel drew 1-1 in a second ill-tempered Nations League match.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-05T09:07:47.663103+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw?traffic_source=rss"
+  },
+  {
+    "id": "a3d6131567d4",
+    "source": "PressTV",
+    "date": "2026-10-05T09:07",
+    "headline": "World Teachers’ Day: Iranian teachers turn war-torn classrooms into symbols of courage, resilience",
+    "excerpt": "Iranian teachers endured US-Israeli bombardment, loss, displacement, and grief while continuing to educate children, transforming classrooms into spaces of resilience, remembrance, and resistance.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-10-05T09:07:49.598218+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/05/777651/world-teachers-day-iranian-teachers-turn-war-torn-classrooms-symbols-courage-resilience"
+  },
+  {
+    "id": "3c9fec04b3fb",
+    "source": "PressTV",
+    "date": "2026-10-05T09:07",
+    "headline": "Two police officers killed in terrorist attack in southeastern Iran",
+    "excerpt": "Armed terrorists attack a police patrol in Iran’s southeastern Sistan and Baluchestan Province on Monday morning, killing two police officers and wounding another.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-10-05T09:07:49.598257+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/05/777647/Two-police-officers-killed-terrorist-attack-southeastern-Iran"
+  },
+  {
     "id": "ad42a662b439",
     "source": "Al Jazeera",
     "date": "2026-10-05T00:00",
@@ -5410,93 +5498,5 @@
     "location": "Riyadh",
     "addedAt": "2026-09-25T12:59:33.556981+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/25/pakistan-turkiye-edge-closer-towards-joining-saudi-war-against-houthis?traffic_source=rss"
-  },
-  {
-    "id": "728552038e17",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T11:00",
-    "headline": "UN General Assembly live: Leaders from Lebanon, Iraq, Pakistan to speak",
-    "excerpt": "The US-Israel war on Iran will continue to be a focus as the UNGA enters its fourth day.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-25T12:59:33.557008+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak?traffic_source=rss"
-  },
-  {
-    "id": "a6b85783dccb",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T10:49",
-    "headline": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
-    "excerpt": "Tehran’s offer comes as high fuel prices put pressure on Trump ahead of the US midterm elections.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-09-25T12:59:33.557036+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "b3872b41fc01",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T10:10",
-    "headline": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
-    "excerpt": "The war on Iran is raising the cost of living in Nigeria.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-25T12:59:33.557068+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss"
-  },
-  {
-    "id": "e5e04a8a7cc9",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T09:54",
-    "headline": "Iran pitches seven-day roadmap to end conflict with US",
-    "excerpt": "Tehran seeks rapid implementation failed ceasefire deal, offering to open Hormuz if regional conflicts halted.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-09-25T12:59:33.557091+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss"
-  },
-  {
-    "id": "7b9dc71048f3",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T08:32",
-    "headline": "Saudi Arabia allies line up support as Houthi attacks mount",
-    "excerpt": "France is sending military to protect key Yanbu oil terminal; Pakistan and Turkiye to hold military talks with Riyadh.",
-    "category": "Diplomatic",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-09-25T12:59:33.557114+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss"
-  },
-  {
-    "id": "6fc68ef81aca",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T07:55",
-    "headline": "Mamdani plants olive tree with Gaza families",
-    "excerpt": "New York Mayor Zohran Mamdani posted a video of himself planting an olive tree alongside Palestinian families from Gaza.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-25T12:59:33.557135+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/mamdani-plants-olive-tree-with-gaza-families?traffic_source=rss"
-  },
-  {
-    "id": "6fb7bf392fd5",
-    "source": "PressTV",
-    "date": "2026-09-25T12:59",
-    "headline": "Iran will respond ‘strongly’ if US continues aggression, Pezeshkian warns",
-    "excerpt": "Iranian President Masoud Pezeshkian has warned that Tehran will respond “strongly and resolutely” if the United States seeks to continue its war of aggression.",
-    "category": "Statement",
-    "location": "Tehran",
-    "addedAt": "2026-09-25T12:59:36.873974+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/25/776973/Iran-respond-strongly-US-continue-aggression-Pezeshkian-warning"
-  },
-  {
-    "id": "5bc5c1943f5b",
-    "source": "PressTV",
-    "date": "2026-09-25T12:59",
-    "headline": "Online voices rally behind Pezeshkian’s UN speech, condemn Western double standards",
-    "excerpt": "Online voices have voiced strong support for the Iranian President’s remarks at the UN General Assembly, particularly his condemnation of Western double standards on nuclear oversight.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-25T12:59:36.874020+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/25/776966/Netizens-rally-behind-Pezeshkian%E2%80%99s-UN-speech,-condemn-Western-double-standards"
   }
 ]
