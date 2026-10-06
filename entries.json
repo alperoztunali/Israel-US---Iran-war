@@ -1,5 +1,82 @@
 [
   {
+    "id": "a608d8a5c637",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T05:44",
+    "headline": "Widowed twice: A Gaza mother’s story of loss and survival",
+    "excerpt": "A young mother has lost two husbands and two children during Israel&#039;s genocidal war on Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-06T06:45:00.890629+00:00",
+    "link": "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss"
+  },
+  {
+    "id": "1627068bf3f3",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T04:07",
+    "headline": "Mexican and Colombian cartel mercenaries filmed fighting in Ukraine",
+    "excerpt": "Members of Mexican and Colombian cartels are reportedly joining Ukraine’s International Legion to learn drone warfare.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-06T06:45:00.890678+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "217f389d60d2",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T02:54",
+    "headline": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
+    "excerpt": "Resolution demands an immediate ceasefire and extends the mandate of the mission investigating abuses in Sudan.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-06T06:45:00.890718+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss"
+  },
+  {
+    "id": "a77c272bcc9d",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T01:39",
+    "headline": "Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows",
+    "excerpt": "During emergency talks in Riyadh, Turkiye and Pakistan agreed to send rapid deployment forces to Saudi Arabia.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-10-06T06:45:00.890748+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss"
+  },
+  {
+    "id": "b03d22e27a7c",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T00:25",
+    "headline": "Syrian Airlines unveils laser-sharp look for the future",
+    "excerpt": "Syrian Airlines unveils a new visual identity as it rebrands amid Syria’s post-Assad development.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-10-06T06:45:00.890784+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss"
+  },
+  {
+    "id": "1874d21d5fec",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T00:00",
+    "headline": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
+    "excerpt": "Turkiye and Pakistan agree to rapidly deploy militaries to bolster Saudi security as part of the Mecca defence pact.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-06T06:45:00.890817+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss"
+  },
+  {
+    "id": "c37c565992ae",
+    "source": "PressTV",
+    "date": "2026-10-06T06:45",
+    "headline": "Russian minister: Full impact of US war on Iran on global trade still unassessed",
+    "excerpt": "Global trade will feel the consequences of the US war against Iran for a long time, and experts have yet to measure the full scale of the damage, Russia’s minister of economic development says.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-06T06:45:03.991720+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/06/777708/Russian-minister--Full-impact-of-US-war-on-Iran-on-global-trade-still-unassessed"
+  },
+  {
     "id": "b62fe7922b2a",
     "source": "Al Jazeera",
     "date": "2026-10-05T21:10",
@@ -5421,82 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-26T05:02:10.007915+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/26/plane-crash-in-dr-congo-kills-more-than-a-dozen?traffic_source=rss"
-  },
-  {
-    "id": "a4a5b626d5b9",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T00:00",
-    "headline": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-    "excerpt": "Iran&#039;s FM says the &quot;choice rests with the US&quot; to approve the proposed seven-day proposal to reopen Hormuz.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-09-26T05:02:10.007946+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss"
-  },
-  {
-    "id": "174659293b63",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T23:52",
-    "headline": "Iran says it awaits US response on seven-day roadmap to end war",
-    "excerpt": "Tehran says the plan would reopen the Strait of Hormuz and resume nuclear talks within a week if Washington agrees.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-09-26T05:02:10.007984+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss"
-  },
-  {
-    "id": "4d57c30a7930",
-    "source": "PressTV",
-    "date": "2026-09-26T05:02",
-    "headline": "IRGC: Iran will continue punishing US until Tehran’s conditions are met",
-    "excerpt": "The IRGC says Iran will continue punishing the US until the Islamic Republic’s seven-strong conditions are met.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-09-26T05:02:11.911868+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/26/777025/Iran-IRGC-United-States-conditions-Hormuz"
-  },
-  {
-    "id": "083a55cf3214",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T22:33",
-    "headline": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
-    "excerpt": "Iran says it has given the US a seven-day plan to reopen the Strait of Hormuz, with the choice to accept now up to them",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-26T00:03:49.103391+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss"
-  },
-  {
-    "id": "aecd6dccbe6c",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T21:37",
-    "headline": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
-    "excerpt": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-09-26T00:03:49.103441+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss"
-  },
-  {
-    "id": "50ab08d93514",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T21:32",
-    "headline": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
-    "excerpt": "Kylian Mbappe scores the only goal of France&#039;s win in Turkiye, but Real Madrid striker immediately forced off by injury.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-26T00:03:49.103483+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss"
-  },
-  {
-    "id": "974bdf10f0ef",
-    "source": "PressTV",
-    "date": "2026-09-26T00:03",
-    "headline": "Iran FM outlines seven-day plan for conditional reopening of Strait of Hormuz",
-    "excerpt": "Foreign Minister Abbas Araghchi outlines a seven-day plan for reopening the Strait of Hormuz, saying implementation would begin immediately if the US accepts Iran’s conditions.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-26T00:03:51.212127+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/25/777020/Iran-reopening-Hormuz-United-States-conditions"
   }
 ]
