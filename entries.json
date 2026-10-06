@@ -1,5 +1,104 @@
 [
   {
+    "id": "b62fe7922b2a",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T21:10",
+    "headline": "Ethiopia’s PM insists on access to Red Sea despite regional conflict threat",
+    "excerpt": "Neighbouring countries say coastal states must govern Red Sea as fighting escalates in northern Ethiopia.",
+    "category": "Other",
+    "location": "Red Sea",
+    "addedAt": "2026-10-06T00:17:18.306991+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss"
+  },
+  {
+    "id": "d39920469bd4",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T20:52",
+    "headline": "Can Yemen retake territory seized by Houthis?",
+    "excerpt": "The group has taken control of much of the Red Sea coast.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-06T00:17:18.307037+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/10/5/can-yemen-retake-territory-seized-by-houthis?traffic_source=rss"
+  },
+  {
+    "id": "61a8007a5338",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T20:49",
+    "headline": "Israeli forces kill one, injure several in occupied West Bank",
+    "excerpt": "Palestinians in West Bank are suffering increasing Israeli violence and repression.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-10-06T00:17:18.307068+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/5/israeli-forces-kill-one-injure-several-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "614e5899b7cb",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T20:17",
+    "headline": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+    "excerpt": "Turkiye, Saudi Arabia and Pakistan have agreed to trigger collective deterrence measures in response to Houthi attacks.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-06T00:17:18.307103+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia?traffic_source=rss"
+  },
+  {
+    "id": "6f57c865ba2e",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T20:03",
+    "headline": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+    "excerpt": "The latest suspected incursion on NATO&#039;s eastern flank increases fears that the war in Ukraine threatens to spill over.",
+    "category": "Missile/Drone",
+    "location": "Oman",
+    "addedAt": "2026-10-06T00:17:18.307130+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss"
+  },
+  {
+    "id": "faa94309c250",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T19:57",
+    "headline": "Freed Syrians recount torture in Israeli detention centre",
+    "excerpt": "Syrians released from Israeli detention have described abuse behind bars.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-06T00:17:18.307165+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/freed-syrians-recount-torture-in-israeli-detention-centre?traffic_source=rss"
+  },
+  {
+    "id": "8c3cf989b402",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T19:01",
+    "headline": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
+    "excerpt": "Trump shifts blame for fuel price hikes to blue states like California and Ukraine strikes on Russian oil refineries.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-06T00:17:18.307198+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "1f80f19c3b4e",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T18:42",
+    "headline": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
+    "excerpt": "Israel ordered East Jerusalem consulate to be closed after Britain sanctioned settlements in the occupied West Bank.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-10-06T00:17:18.307243+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss"
+  },
+  {
+    "id": "cf3cf46fdd4a",
+    "source": "Al Jazeera",
+    "date": "2026-10-05T18:32",
+    "headline": "Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact",
+    "excerpt": "The three countries agree to trigger collective deterrence measures in response to &#039;heinous attacks&#039; by Yemen&#039;s Houthis.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-06T00:17:18.307280+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures?traffic_source=rss"
+  },
+  {
     "id": "cb779f6d2906",
     "source": "Al Jazeera",
     "date": "2026-10-05T18:24",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-26T00:03:51.212127+00:00",
     "link": "https://presstv.co.uk/Detail/2026/09/25/777020/Iran-reopening-Hormuz-United-States-conditions"
-  },
-  {
-    "id": "b8f825150b12",
-    "source": "PressTV",
-    "date": "2026-09-26T00:03",
-    "headline": "Saudi Arabia has kept nuclear weapons option open: Report",
-    "excerpt": "Classified US intelligence assessments conclude that Saudi Arabia has not ruled out developing a nuclear weapons program, a report says.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-09-26T00:03:51.212174+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/25/777019/Saudi-Arabia-nuclear-weapons-United-States-report"
-  },
-  {
-    "id": "82c416dee528",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T20:59",
-    "headline": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
-    "excerpt": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties.",
-    "category": "Other",
-    "location": "Riyadh",
-    "addedAt": "2026-09-25T21:21:03.700369+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss"
-  },
-  {
-    "id": "7ef8bd84a6c7",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T19:48",
-    "headline": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
-    "excerpt": "Dozens of countries’ delegations walked out of or were absent for Israeli PM Benjamin Netanyahu’s UNGA speech.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-25T21:21:03.700407+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss"
-  },
-  {
-    "id": "0cea48e5d0ab",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T19:38",
-    "headline": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
-    "excerpt": "Pakistan PM, a signatory to the Mecca Joint Defence Agreement, condemned Houthi attacks on Saudi Arabia at UNGA 81.",
-    "category": "Diplomatic",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-09-25T21:21:03.700431+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/pakistan-pm-calls-houthi-threats-to-saudi-holy-sites-a-red?traffic_source=rss"
-  },
-  {
-    "id": "3143926f36fc",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T19:24",
-    "headline": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
-    "excerpt": "Little-known Israeli map team is redrawing land boundaries as Palestinians face growing illegal settlement expansion.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-25T21:21:03.700456+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "1f620bc81354",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T19:21",
-    "headline": "UN expands list of firms involved in illegal Israeli settlement activities",
-    "excerpt": "With addition of 61 more companies, the list now includes 214 businesses in 11 countries, most of them Israeli.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-25T21:21:03.700477+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss"
-  },
-  {
-    "id": "74cc419d0721",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T19:11",
-    "headline": "Iran threatens widespread disruption as Iraq halts Iran flights",
-    "excerpt": "Iraq has suspended Iranian flights at all four airports where they operated",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-25T21:21:03.700513+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss"
-  },
-  {
-    "id": "754e8588b886",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T19:06",
-    "headline": "Will Turkiye end its military presence in northern Iraq?",
-    "excerpt": "Ankara agrees to gradually hand over a base in Sinjar.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-09-25T21:21:03.700531+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss"
-  },
-  {
-    "id": "697e1cf31c65",
-    "source": "Al Jazeera",
-    "date": "2026-09-25T18:30",
-    "headline": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-    "excerpt": "Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran&#039;s aviation sector.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-25T21:21:03.700558+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss"
   }
 ]
