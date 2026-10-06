@@ -1,5 +1,82 @@
 [
   {
+    "id": "a58b9afc3291",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T21:57",
+    "headline": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+    "excerpt": "Saudi Arabia’s Jazan and Najran airports were attacked as Saudi-led gov’t forces launched air strikes on the Houthis.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-10-06T23:04:55.881847+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss"
+  },
+  {
+    "id": "4ba3b11e467a",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T21:28",
+    "headline": "US arrests suspect in connection with Tumbler Ridge school shooting",
+    "excerpt": "The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-06T23:04:55.881885+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss"
+  },
+  {
+    "id": "caffcf118c96",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T21:20",
+    "headline": "Tokyo protests US military presence after Okinawa killing",
+    "excerpt": "Protesters rallied outside the US Embassy in Tokyo after a US Marine was arrested for the killing of a 39-year-old woman",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-10-06T23:04:55.881911+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss"
+  },
+  {
+    "id": "aeed14845774",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T20:42",
+    "headline": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
+    "excerpt": "Progressive US representatives seek to bring attention to Israeli abuse and detention of Palestinian medical worker.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-06T23:04:55.881930+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss"
+  },
+  {
+    "id": "7bc96da272af",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T20:07",
+    "headline": "Is there a MAGA after Trump?",
+    "excerpt": "From the Epstein files to the war on Iran, Josh Rushing examines the cracks forming within MAGA in Trump&#039;s second term.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-06T23:04:55.881947+00:00",
+    "link": "https://www.aljazeera.com/video/lets-focus/2026/10/6/is-there-a-maga-after-trump?traffic_source=rss"
+  },
+  {
+    "id": "8142c05f5476",
+    "source": "Al Jazeera",
+    "date": "2026-10-06T19:43",
+    "headline": "Yemen’s government is on the attack against the Houthis. What has changed?",
+    "excerpt": "Yemeni forces are trying to reverse Houthi gains, aided by heavier air power and renewed international support.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-10-06T23:04:55.881969+00:00",
+    "link": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss"
+  },
+  {
+    "id": "49dd5636ffb9",
+    "source": "PressTV",
+    "date": "2026-10-06T23:04",
+    "headline": "‘Beginning of end of Zionism’: IRGC says myth of Israeli invincibility ‘shattered forever’ after Al-",
+    "excerpt": "The statement recalled his description of Al-Aqsa Flood as a \"future-making event\" that cemented the path toward the definitive decline of the Zionist entity.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-10-06T23:04:57.987626+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/06/777769/Beginning-of-end-of-Zionism-IRGC-marks-3rd-anniversary-of-Al-Aqsa-Flood-declares-myth-of-Israeli-invincibility-shattered-forever"
+  },
+  {
     "id": "5059e681d88b",
     "source": "Al Jazeera",
     "date": "2026-10-06T18:25",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-26T17:55:04.748374+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss"
-  },
-  {
-    "id": "4a31292888c7",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T17:27",
-    "headline": "‘Stop arming Israel’: Pro-Palestine protesters march on Labour conference",
-    "excerpt": "Pro-Palestine protesters have marched on Labour’s annual conference in Liverpool.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-26T17:55:04.748426+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/stop-arming-israel-pro-palestine-protesters-march-on-labour-conference?traffic_source=rss"
-  },
-  {
-    "id": "b61b1607553f",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T17:15",
-    "headline": "Ethiopia’s Fano fighters claim capture of army vehicles and weapons",
-    "excerpt": "Armed fighters from Ethiopia’s Fano movement claim to have seized military trucks and weapons in the Amhara region.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-09-26T17:55:04.748462+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ethiopias-fano-fighters-claim-capture-of-army-vehicles-and-weapons?traffic_source=rss"
-  },
-  {
-    "id": "03aa9348768a",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T16:16",
-    "headline": "At least 10 people killed in Russian and Ukrainian attacks",
-    "excerpt": "New strikes come as Russian FM accuses Europe of doing &#039;everything it can to thwart peace talks&#039; with Ukraine.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-26T17:55:04.748494+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss"
-  },
-  {
-    "id": "5a759df126a6",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T16:14",
-    "headline": "Jerusalem Daily: violence continues as the world watches the UNGA",
-    "excerpt": "As the UN General Assembly enters its fifth day, with world leaders denouncing Israeli violence against Palestinians.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-26T17:55:04.748526+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss"
-  },
-  {
-    "id": "171bbbe9a810",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T15:23",
-    "headline": "Thousands of students protest German military conscription",
-    "excerpt": "More than 40,000 students have taken to the streets of Berlin, in protest of Germany&#039;s proposed military service plans.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-26T17:55:04.748568+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss"
-  },
-  {
-    "id": "c8e79eeafa19",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T14:46",
-    "headline": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
-    "excerpt": "Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-09-26T17:55:04.748604+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "34e063b66fea",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T14:36",
-    "headline": "Israel-Ireland match to go ahead in Nations League after player vote",
-    "excerpt": "Ireland have delayed their pre-match media briefing and training as pressure grew, but player vote avoids game boycott.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-26T17:55:04.748646+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss"
   }
 ]
