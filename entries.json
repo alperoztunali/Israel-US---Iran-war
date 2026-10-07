@@ -1,5 +1,137 @@
 [
   {
+    "id": "caa6fdd503c8",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T08:22",
+    "headline": "Three years of Israel’s mass dispossession of West Bank Palestinians",
+    "excerpt": "Bedouin families uprooted by Israeli settlers describe a state-backed project of forced transfer in the West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-07T09:07:44.492944+00:00",
+    "link": "https://www.aljazeera.com/features/2026/10/7/three-years-of-israels-mass-dispossession-of-west-bank-palestinians?traffic_source=rss"
+  },
+  {
+    "id": "6be57f75a786",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T08:16",
+    "headline": "Israeli troops seen smashing memorial in occupied West Bank",
+    "excerpt": "An Israeli soldier was spotted smashing a memorial to Palestinians during raids in the occupied West Bank.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-10-07T09:07:44.492975+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-troops-seen-smashing-memorial-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "b9bc5fb90ae9",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T06:41",
+    "headline": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+    "excerpt": "Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-10-07T09:07:44.492993+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss"
+  },
+  {
+    "id": "ca7e87a39912",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T06:33",
+    "headline": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+    "excerpt": "Iran&#039;s oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-07T09:07:44.493016+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss"
+  },
+  {
+    "id": "f736639315e2",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T06:27",
+    "headline": "How has Israel’s genocide changed Gaza?",
+    "excerpt": "Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-07T09:07:44.493037+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss"
+  },
+  {
+    "id": "e19e3533ab23",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T06:19",
+    "headline": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
+    "excerpt": "Russia’s Defence Ministry says its forces carried out a &#039;massive strike&#039; on Kyiv and other Ukrainian regions.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-07T09:07:44.493061+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "cef8f4416874",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T06:15",
+    "headline": "Yemen’s displaced children dream of returning to school",
+    "excerpt": "More than 137,000 students in conflict zones lose access to education, deepening Yemen&#039;s already dire schooling crisis.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-07T09:07:44.493084+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss"
+  },
+  {
+    "id": "7924de887dda",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T05:41",
+    "headline": "How three years of Israel’s genocidal war have changed Gaza",
+    "excerpt": "War has devastated Gaza’s economy, education, healthcare, infrastructure and public services, transforming life.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-07T09:07:44.493113+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss"
+  },
+  {
+    "id": "c52f95b5449c",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T05:02",
+    "headline": "Three years of Israel’s genocide in Gaza: In numbers",
+    "excerpt": "Three years of attacks has devastated Gaza, killing tens of thousands, destroying homes, and collapsing basic services.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-07T09:07:44.493135+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss"
+  },
+  {
+    "id": "6253e1446d58",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T04:43",
+    "headline": "Israelis pause to mark October 7 Hamas-attack anniversary",
+    "excerpt": "Israelis gathered at memorials to mark the moment the Hamas-led attack began on October 7, 2023.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-07T09:07:44.493154+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss"
+  },
+  {
+    "id": "811d26798f42",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T04:00",
+    "headline": "What Israeli schools teach",
+    "excerpt": "What Israeli schools teach",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-07T09:07:44.493168+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss"
+  },
+  {
+    "id": "1ec6bb3963b1",
+    "source": "PressTV",
+    "date": "2026-10-07T09:09",
+    "headline": "‘Beginning of Zionism's end’: IRGC says Israeli invincibility myth ‘shattered forever’ after Oct 7",
+    "excerpt": "The statement recalled his description of Al-Aqsa Flood as a \"future-making event\" that cemented the path toward the definitive decline of the Zionist entity.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-10-07T09:09:26.711037+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/06/777769/Beginning-of-end-of-Zionism-IRGC-marks-3rd-anniversary-of-Al-Aqsa-Flood-declares-myth-of-Israeli-invincibility-shattered-forever"
+  },
+  {
     "id": "36fd126d4847",
     "source": "Al Jazeera",
     "date": "2026-10-07T01:20",
@@ -5366,137 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-09-27T07:08:28.817148+00:00",
     "link": "https://presstv.co.uk/Detail/2026/09/27/777094/Liverpool-UK-pro-Palestine-protest-Israel-genocidal-regime-"
-  },
-  {
-    "id": "261ab54a69fd",
-    "source": "Al Jazeera",
-    "date": "2026-09-27T00:50",
-    "headline": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
-    "excerpt": "Iran says it’s still waiting for an official response from the US on its proposal to reopen the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-27T01:42:11.046235+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "86daee271277",
-    "source": "Al Jazeera",
-    "date": "2026-09-27T00:00",
-    "headline": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
-    "excerpt": "US president rejects Iran&#039;s seven-day plan to reopen the Strait of Hormuz, saying the deal is not &#039;acceptable&#039;.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-09-27T01:42:11.046280+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss"
-  },
-  {
-    "id": "347def113918",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T23:49",
-    "headline": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-    "excerpt": "Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-09-27T01:42:11.046317+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss"
-  },
-  {
-    "id": "a07d08eca51e",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T23:26",
-    "headline": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
-    "excerpt": "Two women reportedly injured after building collapse in Athens&#039; historic Plaka district.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-27T01:42:11.046349+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss"
-  },
-  {
-    "id": "461b4ab643e1",
-    "source": "PressTV",
-    "date": "2026-09-27T01:42",
-    "headline": "‘Surprises in store’: Iran vows to counter any fresh aggression with ‘new technologies’",
-    "excerpt": "The Iranian Armed Forces’ spokesman warns that any potential aggression against the Islamic Republic will be met with “new military technologies.”",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-09-27T01:42:12.854665+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/27/777085/Iran-surprise-enemies-new-technologies-missiles-drones-Israel-United-States"
-  },
-  {
-    "id": "3e51a8d350ac",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T22:38",
-    "headline": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
-    "excerpt": "Four people were killed and four wounded near the capital of Kingstown on the islands, known as a tourism destination.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-09-26T23:26:55.779623+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss"
-  },
-  {
-    "id": "90e85b2b1f3e",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T20:57",
-    "headline": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-    "excerpt": "A wave of Russian strikes has hit various regions across Ukraine.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-26T23:26:55.779661+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss"
-  },
-  {
-    "id": "2e9f36134d1b",
-    "source": "Al Jazeera",
-    "date": "2026-09-26T20:55",
-    "headline": "Why is violence between Pakistan and Afghanistan recurring?",
-    "excerpt": "Pakistan has carried out new strikes inside Afghanistan.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-26T23:26:55.779684+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss"
-  },
-  {
-    "id": "411119fd7c63",
-    "source": "PressTV",
-    "date": "2026-09-26T23:26",
-    "headline": "Iran FM: Restoring trust in UN requires ending impunity for those behind grave intl. crimes",
-    "excerpt": "Iran’s foreign minister says restoring trust in the UN requires an end to impunity for those responsible for and ordering grave international crimes.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-26T23:26:57.976836+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/26/777081/Iran-United-Nations-United-States-Israel-impunity-international-crimes"
-  },
-  {
-    "id": "983462f31b23",
-    "source": "PressTV",
-    "date": "2026-09-26T23:26",
-    "headline": "Strait of Hormuz authority warns ship owners over attempts at forcing vessels onto illegal routes",
-    "excerpt": "The Iranian authority controlling the Strait of Hormuz warns ship owners about attempts by some charterers at forcing vessels to use illegal routes to cross the waterway.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-09-26T23:26:57.976860+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/26/777083/Iran-Hormuz-warning-ships-charterer-illegal-routes"
-  },
-  {
-    "id": "90926807da1c",
-    "source": "PressTV",
-    "date": "2026-09-26T23:26",
-    "headline": "At UN, Russia condemns US assassination of Iran’s Leader as ‘unacceptable’",
-    "excerpt": "The Russian foreign minister denounced the assassination of Ayatollah Ali Khamenei as another unacceptable manifestation of coercive diktat.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-26T23:26:57.976883+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/26/777079/Russia-Iran-Lavrov-Khamenei"
-  },
-  {
-    "id": "3b7941e8b15d",
-    "source": "PressTV",
-    "date": "2026-09-26T23:26",
-    "headline": "Disarmament without dealing with Israel’s nukes is meaningless: Iran's deputy FM",
-    "excerpt": "Iran’s deputy FM says ignoring Israel’s nuclear arsenal renders global disarmament efforts futile.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-26T23:26:57.976900+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/26/777080/Iran-Gharibabadi-nuclear-disarmament-Israel"
   }
 ]
