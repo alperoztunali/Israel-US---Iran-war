@@ -1,5 +1,71 @@
 [
   {
+    "id": "e4ab5bfe599e",
+    "source": "Al Jazeera",
+    "date": "2026-10-08T00:33",
+    "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+    "excerpt": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-08T01:20:38.075377+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss"
+  },
+  {
+    "id": "58aef7993002",
+    "source": "Al Jazeera",
+    "date": "2026-10-08T00:16",
+    "headline": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
+    "excerpt": "Saudi Arabia has confirmed that Houthi strikes on two of its international airports have killed three people.",
+    "category": "Casualties",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-08T01:20:38.075417+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss"
+  },
+  {
+    "id": "c5d029ab7d4c",
+    "source": "Al Jazeera",
+    "date": "2026-10-08T00:00",
+    "headline": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
+    "excerpt": "Saudi-backed Yemeni forces claim advances in western Taiz&#039;s mountain belt overlooking the coast.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-10-08T01:20:38.075449+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss"
+  },
+  {
+    "id": "e4f82e033cf2",
+    "source": "Al Jazeera",
+    "date": "2026-10-07T23:33",
+    "headline": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
+    "excerpt": "The United Nations Interim Force in Lebanon said there were no casualties after small arms fire targeted a border post.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-08T01:20:38.075475+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss"
+  },
+  {
+    "id": "4fe2f5ed348d",
+    "source": "PressTV",
+    "date": "2026-10-08T01:22",
+    "headline": "Iran firm and resolute in self-defense, serious in diplomacy, Araghchi tells Parliament",
+    "excerpt": "Seyed Abbas Araghchi has told lawmakers that the Islamic Republic, backed by the epic resistance of the Iranian nation, presented its positions at the United Nations with maximum clarity and authority.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-08T01:22:14.217860+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/07/777852/Iran-firm-and-resolute-in-self-defense,-serious-in-diplomacy,-Araghchi-tells-Parliament"
+  },
+  {
+    "id": "3b0ebd55d355",
+    "source": "PressTV",
+    "date": "2026-10-08T01:22",
+    "headline": "Iran to US: Distorted narratives cannot erase your record of broken commitments",
+    "excerpt": "Esmaeil Baghaei has dismissed claims by Marco Rubio that Tehran has repeatedly squandered chances for an agreement.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-10-08T01:22:14.217898+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/07/777850/Iran-to-US--Distorted-narratives-cannot-erase-your-record-of-broken-commitments"
+  },
+  {
     "id": "e57c9e27f713",
     "source": "Al Jazeera",
     "date": "2026-10-07T21:06",
@@ -5432,71 +5498,5 @@
     "location": "Oman",
     "addedAt": "2026-09-27T17:46:27.753655+00:00",
     "link": "https://www.aljazeera.com/video/true-crime-reports/2026/9/27/true-crime-reports-the-dosa-kings-deadly-obsession?traffic_source=rss"
-  },
-  {
-    "id": "0a5f818c4718",
-    "source": "Al Jazeera",
-    "date": "2026-09-27T14:07",
-    "headline": "Yemen’s health system could collapse in some areas, minister warns",
-    "excerpt": "Yemen&#039;s healthcare system may not be able to support the population as war strains resources, minister tells Al Jazeera.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-09-27T17:46:27.753709+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns?traffic_source=rss"
-  },
-  {
-    "id": "9b45c4dfd275",
-    "source": "Al Jazeera",
-    "date": "2026-09-27T14:03",
-    "headline": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
-    "excerpt": "Smotrich’s words should not be dismissed as mere election rhetoric, human rights experts and analysts warn.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-27T17:46:27.753747+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/27/israels-smotrich-urges-war-in-west-bank-poll-rhetoric-or-real-threat?traffic_source=rss"
-  },
-  {
-    "id": "ee423914adc7",
-    "source": "Al Jazeera",
-    "date": "2026-09-27T13:17",
-    "headline": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
-    "excerpt": "Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-27T17:46:27.753806+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss"
-  },
-  {
-    "id": "0f2ad3b23d48",
-    "source": "PressTV",
-    "date": "2026-09-27T17:46",
-    "headline": "Iran ‘fully prepared’ for war to resume with US but still trying diplomacy: Araghchi",
-    "excerpt": "Iran stands firm in the face of any new aggression, even if it comes to a doomsday war, Foreign Minister Abbas Araghchi told NBC News.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-27T17:46:29.728622+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/27/777141/Iran-fully-prepared-war-resume-US-still-pursuing-diplomacy-Araghchi-NBC-News-"
-  },
-  {
-    "id": "9e7a57583e8b",
-    "source": "PressTV",
-    "date": "2026-09-27T17:46",
-    "headline": "Iran will shape region’s security future as US exits: Top military adviser",
-    "excerpt": "A top Iranian military commander says Iran will play a leading role in shaping the future security order in West Asia as the Americans will leave the region.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-27T17:46:29.728668+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/27/777130/Iran-US-commander-adviser"
-  },
-  {
-    "id": "cc1f46023e07",
-    "source": "PressTV",
-    "date": "2026-09-27T17:46",
-    "headline": "Iran urges global action to prosecute those behind Nasrallah's assassination",
-    "excerpt": "Iran says all countries all legally duty-bound to prosecute and punish the perpetrators of the assassination of late Hezbollah leader Sayyed Hassan Nasrallah.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-27T17:46:29.728704+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/27/777140/Iran-Lebanon-Hezbollah-Nasrallah"
   }
 ]
