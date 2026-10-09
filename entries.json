@@ -1,5 +1,115 @@
 [
   {
+    "id": "2c67dae40839",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T18:15",
+    "headline": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+    "excerpt": "Humanitarian and human rights groups call out Israel&#039;s continued killings and restrictions across the enclave.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-10-09T19:49:02.627527+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss"
+  },
+  {
+    "id": "03d613b083dd",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T18:06",
+    "headline": "‘An attack against sovereign states’: ICC President slams US sanctions",
+    "excerpt": "International Criminal Court President Tomoko Akane has responded to US sanctions imposed to ‘defend sovereignty’.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-09T19:49:02.627575+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss"
+  },
+  {
+    "id": "eb4b216e6866",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T17:37",
+    "headline": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
+    "excerpt": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
+    "category": "Statement",
+    "location": "Gaza",
+    "addedAt": "2026-10-09T19:49:02.627602+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss"
+  },
+  {
+    "id": "2733d4df6a62",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T17:19",
+    "headline": "Drone strike kills 30 people in Sudan’s Blue Nile region",
+    "excerpt": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-09T19:49:02.627623+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss"
+  },
+  {
+    "id": "6daa848608c1",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T16:33",
+    "headline": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
+    "excerpt": "Belarus-linked incidents trouble Latvia and Lithuania, where experts warn of security challenges.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-09T19:49:02.627653+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss"
+  },
+  {
+    "id": "eb6b6b518583",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T15:59",
+    "headline": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
+    "excerpt": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-09T19:49:02.627682+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss"
+  },
+  {
+    "id": "fb24b22e3651",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T15:28",
+    "headline": "Israeli settler attacks target Palestinian olive harvest in West Bank",
+    "excerpt": "At least 19 settler attacks recorded across territory on Friday as Israeli forces separately detain 16 Palestinians.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-10-09T19:49:02.627701+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "3406b41dd13f",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T15:08",
+    "headline": "US sanctions International Criminal Court itself in major escalation",
+    "excerpt": "Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-09T19:49:02.627734+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss"
+  },
+  {
+    "id": "d34edb6b0495",
+    "source": "PressTV",
+    "date": "2026-10-09T19:49",
+    "headline": "Iran security chief fires back at US ‘civilizational war’ narrative with Rome’s defeat",
+    "excerpt": "Major General Mohsen Rezaei, secretary of Iran’s Supreme National Security Council (SNSC), has invoked the ancient defeat of Rome by Sasanian king Shapur I to counter an attempt by US officials to frame the aggression against Iran as a civilizational war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-09T19:49:04.582253+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/09/777970/Rezaei-Rubio-civilizational-war-Roman-defeat"
+  },
+  {
+    "id": "143fa60f41e6",
+    "source": "PressTV",
+    "date": "2026-10-09T19:49",
+    "headline": "‘Harsh reality’: Iran says France seeks monopoly on power and intimidation, not peace for all",
+    "excerpt": "Iran says France is seeking to maintain its ability to intimidate others rather than promote peace for all.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-09T19:49:04.582287+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/09/777964/Iran-France-Baghaei-nuclear"
+  },
+  {
     "id": "c61e0400213d",
     "source": "Al Jazeera",
     "date": "2026-10-09T13:09",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-29T09:38:04.282117+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections?traffic_source=rss"
-  },
-  {
-    "id": "e441052e3268",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T08:14",
-    "headline": "Thousands of drivers strike in the Philippines over rising fuel prices",
-    "excerpt": "Transport workers blame US-Israel war on Iran for rising fuel prices as government offers free rides for commuters.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-29T09:38:04.282168+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/thousands-of-drivers-strike-in-the-philippines-over-rising-fuel-prices?traffic_source=rss"
-  },
-  {
-    "id": "694637c21a64",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T08:01",
-    "headline": "Israeli settlers attack Jalud village in occupied West Bank, torch homes",
-    "excerpt": "A group of settlers attacked two homes belonging to the Al-Tubasi family in a northern West Bank village.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-29T09:38:04.282202+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/israeli-settlers-attack-jalud-village-in-occupied-west-bank-torch-homes?traffic_source=rss"
-  },
-  {
-    "id": "7187233e3227",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T07:44",
-    "headline": "Israel’s West Bank road closures turn routine journeys into long ordeals",
-    "excerpt": "Palestinians face delayed medical care and long journeys as Israel tightens movement restrictions across the West Bank.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-29T09:38:04.282237+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/israels-west-bank-road-closures-turn-routine-journeys-into-long-ordeals?traffic_source=rss"
-  },
-  {
-    "id": "72be41e80d2b",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T07:41",
-    "headline": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
-    "excerpt": "Google Maps images show scale of Israel&#039;s destruction of Gaza, where more than 74,000 Palestinians have been killed.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-09-29T09:38:04.282261+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss"
-  },
-  {
-    "id": "3bd1c28a99d6",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T07:34",
-    "headline": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
-    "excerpt": "Head of Hamas&#039;s armed wing in northern Gaza killed in ⁠an Israeli strike on an apartment building in Gaza City.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-09-29T09:38:04.282303+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss"
-  },
-  {
-    "id": "d4f5b6aec8b7",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T07:26",
-    "headline": "Gaza doctors face tough decisions as patients face long waits for diagnoses",
-    "excerpt": "Medical staff in Gaza struggle to treat patients with shortages in testing equipment.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-29T09:38:04.282331+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/29/gaza-doctors-face-tough-decisions-as-patients-face-long-waits-for-diagnoses?traffic_source=rss"
-  },
-  {
-    "id": "b809e1b6b5c4",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T06:18",
-    "headline": "AFCON qualifiers: Wissa guides DR Congo to win, Tunisia held by Botswana",
-    "excerpt": "Democratic Republic of the Congo secure their second straight win in Group E, with striker Yoanne Wissa scoring again.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-29T09:38:04.282390+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/9/29/africa-cup-of-nations-qualifying-afcon-wissa-dr-congo-tunisia?traffic_source=rss"
-  },
-  {
-    "id": "3788eb82a2de",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T05:21",
-    "headline": "Public transport drivers strike in Manila over soaring fuel prices",
-    "excerpt": "Public transport drivers in Manila begin a three-day strike over soaring fuel prices.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-29T09:38:04.282429+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss"
-  },
-  {
-    "id": "3e3adddd9e5f",
-    "source": "PressTV",
-    "date": "2026-09-29T09:38",
-    "headline": "If Iran’s oil sales and security are not guaranteed, neither are anyone else’s: Parliament speaker",
-    "excerpt": "Qalibaf warns of reciprocal consequences for the countries seeking to disrupt Iran’s oil sales and undermine its security.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-29T09:38:06.293974+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/29/777244/Iran-United-States-Trump-oil-security-Hormuz-Qalibaf-sanctions"
-  },
-  {
-    "id": "ec9ce5399766",
-    "source": "PressTV",
-    "date": "2026-09-29T09:38",
-    "headline": "America hiding true casualties of wars on Iran: Senior Army commander",
-    "excerpt": "A senior Iranian military commander says Iran’s enemies do not disclose their casualties as it is one of their weak points.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-09-29T09:38:06.294012+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/29/777239/Iran-Army-Habibollah-Sayyari-US-enemies-Hormuz-Pentagon-IRGC-hybrid-war-casualties-"
   }
 ]
