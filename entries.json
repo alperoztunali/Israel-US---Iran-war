@@ -1,5 +1,93 @@
 [
   {
+    "id": "c61e0400213d",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T13:09",
+    "headline": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
+    "excerpt": "Russia is fighting for settlements it once firmly held in Donetsk, and has retreated from many others.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-09T14:33:01.516437+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss"
+  },
+  {
+    "id": "76f2d64f8cec",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T13:09",
+    "headline": "Child flees as Israeli settlers hijack car during pogrom",
+    "excerpt": "A Palestinian boy was seen fleeing after Israeli settlers attacked his father and stole their car in Ramallah.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-09T14:33:01.516478+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss"
+  },
+  {
+    "id": "857af50e7c13",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T13:01",
+    "headline": "Ukraine takes aim at Russia’s AI data infrastructure",
+    "excerpt": "Drone attacks target Russian digital giant Yandex, as well as continuing strikes on missile plants and oil refineries.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-09T14:33:01.516506+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss"
+  },
+  {
+    "id": "f10b15a7d2e1",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T11:46",
+    "headline": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+    "excerpt": "Saudi Arabia has seen several attacks by the Houthis in recent days, with airports appearing to be the primary target.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-09T14:33:01.516532+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss"
+  },
+  {
+    "id": "ab3be5c3c713",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T10:40",
+    "headline": "Is Trump signalling a return to war with Iran after the midterms?",
+    "excerpt": "US media reports suggest he may be weighing strikes before the vote, but the president has ruled that out.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-09T14:33:01.516554+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss"
+  },
+  {
+    "id": "9ab155f872aa",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T10:23",
+    "headline": "The girls in the Gaza school photograph",
+    "excerpt": "Just before the genocide, 15 Gaza schoolgirls posed for a photograph. Three years on, Al Jazeera went looking for them.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-10-09T14:33:01.516580+00:00",
+    "link": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss"
+  },
+  {
+    "id": "da2a62950e90",
+    "source": "PressTV",
+    "date": "2026-10-09T14:33",
+    "headline": "‘Not limited to Hormuz’: IRGC strikes LPG carrier, warns of wider action against violators",
+    "excerpt": "The IRGC hits a giant LPG carrier in the Strait of Hormuz attempting to pass through an illegal route south of the strategic waterway.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-10-09T14:33:03.272042+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/09/777957/Iran-IRGC-Navy-Hormuz"
+  },
+  {
+    "id": "19e846eb4e14",
+    "source": "PressTV",
+    "date": "2026-10-09T14:33",
+    "headline": "Pezeshkian calls for ‘CIS + Iran’ format, urges regional connectivity to counter external pressure",
+    "excerpt": "Iran’s President Masoud Pezeshkian has called for resilience in the face of foreign pressure across the region, saying shared interests lie in the connection of economic and communication routes.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-10-09T14:33:03.272090+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/09/777949/Iran-Pezeshkian-resilience-connected-routes"
+  },
+  {
     "id": "fb9de5baab14",
     "source": "Al Jazeera",
     "date": "2026-10-09T06:55",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-29T09:38:06.294012+00:00",
     "link": "https://presstv.co.uk/Detail/2026/09/29/777239/Iran-Army-Habibollah-Sayyari-US-enemies-Hormuz-Pentagon-IRGC-hybrid-war-casualties-"
-  },
-  {
-    "id": "4d21c0cff6e0",
-    "source": "PressTV",
-    "date": "2026-09-29T09:38",
-    "headline": "Araghchi: Zero compromise on Iran’s nuclear program, US response expected Tuesday",
-    "excerpt": "Araghchi says there has been no compromise in Tehran’s position on the conditions for reopening the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-09-29T09:38:06.294043+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/29/777233/Araghchi-No-flexibility-Iran-position-nuclear-issue-Strait-Hormuz-reopening"
-  },
-  {
-    "id": "73fd454010f0",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T00:00",
-    "headline": "Iran war live: Trump says he did not offer Tehran sanctions relief",
-    "excerpt": "US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-09-29T02:45:54.500906+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss"
-  },
-  {
-    "id": "c81709585c92",
-    "source": "Al Jazeera",
-    "date": "2026-09-28T23:48",
-    "headline": "Fiery end for SpaceX Starship mission",
-    "excerpt": "Elon Musk’s SpaceX&#039;s next-generation Starship rocket reached orbit for the first time despite an engine shutdown.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-09-29T02:45:54.500953+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss"
-  },
-  {
-    "id": "5517aecbbcca",
-    "source": "PressTV",
-    "date": "2026-09-29T02:45",
-    "headline": "Media reports on Qatar-mediated talks ‘baseless speculation’: Baghaei",
-    "excerpt": "Esmaeil Baghaei said that media reports claiming to reveal the details of the Qatar-mediated talks are mere speculation.",
-    "category": "Diplomatic",
-    "location": "Qatar",
-    "addedAt": "2026-09-29T02:45:56.394905+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/29/777226/Media-reports-on-Qatar-mediated-talks-%E2%80%98baseless-speculation%E2%80%99--Iran-FM-spokesman"
-  },
-  {
-    "id": "bb072839a08a",
-    "source": "PressTV",
-    "date": "2026-09-29T02:45",
-    "headline": "Yemeni Deputy PM: Saudi aggression serves Zionist-Western project",
-    "excerpt": "A senior Yemeni government official has described the Saudi government's role in the war against Yemen as merely instrumental, designed to advance the interests of the United States and the Zionist regime.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-09-29T02:45:56.394953+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/28/777224/Yemeni-official--Saudi-aggression-serves-Zionist-Western-project"
-  },
-  {
-    "id": "da65165ed827",
-    "source": "Al Jazeera",
-    "date": "2026-09-28T20:45",
-    "headline": "South Sudan calls for sanctions to be lifted at UNGA",
-    "excerpt": "Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-09-28T23:33:23.699988+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss"
-  },
-  {
-    "id": "de6416fb4ed3",
-    "source": "Al Jazeera",
-    "date": "2026-09-28T20:35",
-    "headline": "Slovenia’s U-turn towards Israel",
-    "excerpt": "Slovenia’s policy towards Palestine has changed sharply following a UNGA sideline meeting with Israeli PM Netanyahu.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-28T23:33:23.700038+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss"
-  },
-  {
-    "id": "3e9de7025a41",
-    "source": "Al Jazeera",
-    "date": "2026-09-28T20:34",
-    "headline": "Gaza’s young inventors build robots with what they have",
-    "excerpt": "At a youth hackathon in Gaza City, young inventors are developing robots.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-09-28T23:33:23.700076+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss"
   }
 ]
