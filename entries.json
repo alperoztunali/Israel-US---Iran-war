@@ -1,5 +1,49 @@
 [
   {
+    "id": "1f6fcc005d59",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T20:56",
+    "headline": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+    "excerpt": "Saudi Arabia and Yemen&#039;s internationally recognised gov&#039;t urge UN Security Council action amid Houthi escalation.",
+    "category": "Diplomatic",
+    "location": "Yemen",
+    "addedAt": "2026-10-09T23:54:19.882703+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss"
+  },
+  {
+    "id": "db39b22f6860",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T20:13",
+    "headline": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+    "excerpt": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-09T23:54:19.882761+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss"
+  },
+  {
+    "id": "dae9307822f8",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T19:47",
+    "headline": "Trump announces Russian diesel deal amid soaring US fuel prices",
+    "excerpt": "Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-09T23:54:19.882792+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss"
+  },
+  {
+    "id": "57169ae0c5df",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T19:32",
+    "headline": "European states, Canada, Japan and UN back ICC against US sanctions",
+    "excerpt": "Several US allies call to &#039;defend&#039; and &#039;protect&#039; the ICC following Washington&#039;s decision to sanction the judiciary body.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-09T23:54:19.882826+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss"
+  },
+  {
     "id": "2c67dae40839",
     "source": "Al Jazeera",
     "date": "2026-10-09T18:15",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-29T16:08:33.691888+00:00",
     "link": "https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss"
-  },
-  {
-    "id": "8a8b68ad0c43",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T12:32",
-    "headline": "Iranians stock up on food and medicine as fears of new US fighting grow",
-    "excerpt": "Iran is struggling with shortages as sanctions and blockade strain food and medicine supply chains.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-29T16:08:33.691909+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss"
-  },
-  {
-    "id": "9c88a0e5c8c5",
-    "source": "PressTV",
-    "date": "2026-09-29T16:08",
-    "headline": "$48bn verdict for General Soleimani assassination enters execution phase: Iran Judiciary",
-    "excerpt": "Kazemi noted that the massive case was brought forward by 3,317 plaintiffs seeking justice for the martyrdom of the beloved commander.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-29T16:08:36.074261+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/29/777253/-48bn-verdict-for-General-Soleimani-assassination-enters-execution-phase-Iran-Judiciary"
-  },
-  {
-    "id": "5ff8d9080aee",
-    "source": "PressTV",
-    "date": "2026-09-29T16:08",
-    "headline": "‘Why does world burn your flag?’: IRGC spokesman challenges Americans to question US policies",
-    "excerpt": "The IRGC has written an unprecedented message to the American public to dismantle the US war narratives.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-29T16:08:36.074309+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/29/777250/Iran-IRGC-Mohebbi-US-American-people-nuclear-Israel-hostility-letter"
-  },
-  {
-    "id": "6f96f0c3361d",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T08:15",
-    "headline": "US-Iran talks continue, but ‘deal unlikely’ before midterm elections",
-    "excerpt": "The US and Iran are talking through mediators, but there are major differences over what a deal should look like.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-29T09:38:04.282117+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections?traffic_source=rss"
   }
 ]
