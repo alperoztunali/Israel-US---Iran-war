@@ -1,5 +1,104 @@
 [
   {
+    "id": "6e42df0f3aa0",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T00:12",
+    "headline": "A father’s agony after an Israeli air strike hits Gaza apartment",
+    "excerpt": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-10-09T01:05:11.720715+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss"
+  },
+  {
+    "id": "b1ac87c1df34",
+    "source": "Al Jazeera",
+    "date": "2026-10-09T00:00",
+    "headline": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+    "excerpt": "Iranian media reported massive explosions in the southern Strait of Hormuz, with Fars citing unnamed military sources.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-09T01:05:11.720770+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss"
+  },
+  {
+    "id": "184967777348",
+    "source": "Al Jazeera",
+    "date": "2026-10-08T22:54",
+    "headline": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+    "excerpt": "Islamic Relief calls for global action as deadly Israeli attacks in Gaza continue and humanitarian conditions worsen.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-09T01:05:11.720801+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "02810d32c72c",
+    "source": "Al Jazeera",
+    "date": "2026-10-08T22:30",
+    "headline": "Putin pledges Russia’s support to end US-led war on Iran",
+    "excerpt": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-09T01:05:11.720838+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "e4ae80cfdd16",
+    "source": "Al Jazeera",
+    "date": "2026-10-08T22:10",
+    "headline": "French giants Bordeaux relegated to sixth tier for financial irregularities",
+    "excerpt": "Six-time French champions Bordeaux, the club where Zinedine Zidane made his name, to play in sixth tier after sanctions.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-09T01:05:11.720875+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss"
+  },
+  {
+    "id": "4b3bf2a27ad6",
+    "source": "Al Jazeera",
+    "date": "2026-10-08T21:04",
+    "headline": "What is the Mecca defence pact?",
+    "excerpt": "Saudi Arabia, Turkiye and Pakistan are activating their defence pact to counter attacks from Yemen’s Houthis.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-09T01:05:11.720915+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss"
+  },
+  {
+    "id": "6459d45987d8",
+    "source": "PressTV",
+    "date": "2026-10-09T01:06",
+    "headline": "‘Hands full against the enemy’: Iran says weapons production surged after aggression",
+    "excerpt": "Iran’s armed forces remain fully combat-ready against the enemy, with weapons production sharply increased, the Defense Ministry spokesman has said.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-09T01:06:54.054830+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/09/777921/Tehran--Iran%E2%80%99s-armed-forces-%E2%80%98hands-full%E2%80%99-against-enemy-as-weapons-production-surges"
+  },
+  {
+    "id": "8d9f0fff0618",
+    "source": "PressTV",
+    "date": "2026-10-09T01:06",
+    "headline": "Pezeshkian tells Putin: Iran will not leave the negotiating table",
+    "excerpt": "\"We will not walk away from the negotiating table,\" President Pezeshkian told President Putin in a meeting on Thursday evening in Turkmenistan.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-09T01:06:54.054875+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/08/777920/Pezeshkian-tells-Putin--Iran-will-not-leave-the-negotiating-table"
+  },
+  {
+    "id": "424c00720f6a",
+    "source": "PressTV",
+    "date": "2026-10-09T01:06",
+    "headline": "Strait of Hormuz firmly in hands of combatants of Islam: IRGC deputy chief",
+    "excerpt": "The deputy IRGC commander-in-chief has stated that the Strait of Hormuz is firmly under the control of the combatants of Islam.",
+    "category": "Other",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-10-09T01:06:54.054908+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/08/777917/Strait-of-Hormuz-firmly-in-hands-of-Islam%E2%80%99s-combatants,-readiness-growing-daily--IRGC-deputy-chief"
+  },
+  {
     "id": "6a087a735320",
     "source": "Al Jazeera",
     "date": "2026-10-08T20:34",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-28T18:43:50.879107+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss"
-  },
-  {
-    "id": "5096ba729b31",
-    "source": "Al Jazeera",
-    "date": "2026-09-28T15:35",
-    "headline": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
-    "excerpt": "British foreign minister vows to &#039;match word with action&#039; when it comes to defending Palestinian rights.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-28T18:43:50.879147+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "fee59e21ff34",
-    "source": "Al Jazeera",
-    "date": "2026-09-28T15:29",
-    "headline": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
-    "excerpt": "Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-09-28T18:43:50.879183+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss"
-  },
-  {
-    "id": "e72eae7c8a35",
-    "source": "PressTV",
-    "date": "2026-09-28T18:43",
-    "headline": "New front will open if Iran is attacked again, Leader’s advisor warns",
-    "excerpt": "If Iran is attacked by the United States again, the confrontation will expand to new fronts, says a senior advisor to the Leader of the Islamic Revolution, Ayatollah Seyyed Mojtaba Khamenei.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-28T18:43:52.783795+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/28/777212/new-front-will-open-if-iran-is-attacked-again-leader%E2%80%99s-advisor"
-  },
-  {
-    "id": "33880db41bd0",
-    "source": "PressTV",
-    "date": "2026-09-28T18:43",
-    "headline": "Nasrallah turned resistance into ‘deterrence doctrine’: Qalibaf",
-    "excerpt": "Martyr Nasrallah transformed Hezbollah from an “irregular movement and guerrilla force into a deterrence doctrine,” says Iran’s Parliament Speaker Mohammad Bagher Qalibaf.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-28T18:43:52.783844+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/28/777204/nasrallah-turned-resistance-into-%E2%80%98deterrence-doctrine%E2%80%99--iran%E2%80%99s-parliament-speaker"
-  },
-  {
-    "id": "939b64b3926c",
-    "source": "PressTV",
-    "date": "2026-09-28T18:43",
-    "headline": "Iran, resistance forces to deliver ‘devastating’ response to any threat: Top cmdr.",
-    "excerpt": "Chief of Staff of Iran's Armed Forces has stressed that the Islamic Republic and resistance forces will deliver a “devastating” response to any threat against the Muslim nation.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-09-28T18:43:52.783875+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/28/777211/Iran-resistance-fighters-to-deliver-%E2%80%98devastating-response-to-any-threat-Top-commander"
-  },
-  {
-    "id": "6a84947717df",
-    "source": "PressTV",
-    "date": "2026-09-28T18:43",
-    "headline": "Iranian delegation will hold talks with mediators in New York: Report",
-    "excerpt": "The Iranian delegation in New York will reportedly meet with mediators who are trying to get Tehran-Washington talks back on track.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-09-28T18:43:52.783915+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/28/777206/iranian-delegation-will-hold-talks-with-mediators-in-new-york--report"
-  },
-  {
-    "id": "d932645c8599",
-    "source": "PressTV",
-    "date": "2026-09-28T18:43",
-    "headline": "Saudi jets strike school, residential villages in Yemen",
-    "excerpt": "Saudi warplanes have conducted airstrikes on several provinces across Yemen, targeting a school and residential villages.",
-    "category": "Airstrike",
-    "location": "Yemen",
-    "addedAt": "2026-09-28T18:43:52.783930+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/28/777200/Saudi-jets-strike-school-residential-villages-Yemen"
-  },
-  {
-    "id": "d6bacd4dd6ab",
-    "source": "Al Jazeera",
-    "date": "2026-09-28T11:10",
-    "headline": "Israeli football fans chant military slogans after defeat to Ireland",
-    "excerpt": "Israeli football fans chant military slogans after defeat to Ireland",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-28T11:33:57.110597+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/israeli-football-fans-chant-military-slogans-after-defeat-to-ireland?traffic_source=rss"
-  },
-  {
-    "id": "6ed3bc264ce7",
-    "source": "Al Jazeera",
-    "date": "2026-09-28T11:00",
-    "headline": "Ethiopia accuses Sudan, Egypt of backing Tigray rebels as fighting rages",
-    "excerpt": "Sudan army denies backing Tigray fighters, says rival paramilitary RSF receiving support from within Ethiopia.",
-    "category": "Airstrike",
-    "location": "Egypt",
-    "addedAt": "2026-09-28T11:33:57.110626+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/28/ethiopia-accuses-sudan-egypt-of-backing-tigray-rebels-as-fighting-rages?traffic_source=rss"
   }
 ]
