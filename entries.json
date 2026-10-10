@@ -1,5 +1,115 @@
 [
   {
+    "id": "9d43995fd3e2",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T15:19",
+    "headline": "With or without Hamas",
+    "excerpt": "Hamas’s fate will not profoundly shape Gaza’s future.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-10-10T16:19:52.434963+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss"
+  },
+  {
+    "id": "9a49a4336f88",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T15:13",
+    "headline": "Three injured in third school attack in Poland in less than a week",
+    "excerpt": "The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-10T16:19:52.434996+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss"
+  },
+  {
+    "id": "2ffbdc24f88f",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T14:39",
+    "headline": "Jerusalem Daily: Israeli settlers attack olive farmers",
+    "excerpt": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-10T16:19:52.435021+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss"
+  },
+  {
+    "id": "84554dae5ad6",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T14:19",
+    "headline": "Why is the US sanctioning the International Criminal Court?",
+    "excerpt": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-10T16:19:52.435044+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss"
+  },
+  {
+    "id": "228ce196b903",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T14:10",
+    "headline": "Has Yemen returned to ‘full-scale war’?",
+    "excerpt": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-10-10T16:19:52.435061+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss"
+  },
+  {
+    "id": "7da1cb4d2300",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T13:50",
+    "headline": "When streets become a workplace: Gaza workers convert tents into offices",
+    "excerpt": "A real estate crisis in Gaza has forced professionals to use tents as surgeries and offices.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-10-10T16:19:52.435083+00:00",
+    "link": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss"
+  },
+  {
+    "id": "e8beca365071",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T13:09",
+    "headline": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
+    "excerpt": "Rubio says threats to Western civilisation today &#039;every bit as real as they were on the dramatic stage of antiquity&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-10T16:19:52.435122+00:00",
+    "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss"
+  },
+  {
+    "id": "79a9f81bb85c",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T12:40",
+    "headline": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
+    "excerpt": "At least 1,481 Palestinians killed in Israeli attacks since last year&#039;s &#039;ceasefire&#039;, Gaza&#039;s Health Ministry says.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-10T16:19:52.435145+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss"
+  },
+  {
+    "id": "2ee2469bf816",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T12:37",
+    "headline": "England international Cole Palmer signs new Chelsea deal until 2034",
+    "excerpt": "Attacking midfielder Palmer has become a key figure in Chelsea&#039;s squad since his arrival from Man City in 2023.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-10T16:19:52.435168+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss"
+  },
+  {
+    "id": "ebb5075a43dc",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T12:33",
+    "headline": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+    "excerpt": "Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-10T16:19:52.435193+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss"
+  },
+  {
     "id": "afdd10669f47",
     "source": "Al Jazeera",
     "date": "2026-10-10T09:45",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-30T00:13:05.269219+00:00",
     "link": "https://presstv.co.uk/Detail/2026/09/29/777295/Iran-Israel-UAE-Netanyahu"
-  },
-  {
-    "id": "5b0edd660ee4",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T20:05",
-    "headline": "Has Gaza broken the Israel consensus in the US?",
-    "excerpt": "For decades, Israel was untouchable in Washington. Gaza changed that. Josh Rushing investigates how and what comes next.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-29T20:49:41.464489+00:00",
-    "link": "https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss"
-  },
-  {
-    "id": "ca3dd92ee4d6",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T20:00",
-    "headline": "US troops fully withdraw from Baghdad base after two decades",
-    "excerpt": "US Army soldiers have fully withdrawn from the US base in Baghdad.",
-    "category": "Movement",
-    "location": "Baghdad",
-    "addedAt": "2026-09-29T20:49:41.464546+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss"
-  },
-  {
-    "id": "15a412384c86",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T19:05",
-    "headline": "Can Iraq handle future security challenges alone?",
-    "excerpt": "More than two decades of US military presence in Iraq comes to an end.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-09-29T20:49:41.464577+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/29/can-iraq-handle-future-security-challenges-alone?traffic_source=rss"
-  },
-  {
-    "id": "6b3903558a81",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T18:51",
-    "headline": "Jerusalem Daily: Israeli worshippers attack Palestinian man",
-    "excerpt": "Settler pogroms intensify as a total lockdown of the occupied West Bank enters its third day.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-09-29T20:49:41.464599+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss"
-  },
-  {
-    "id": "fa3b6602df78",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T18:10",
-    "headline": "Morocco’s king names Fatima Ezzahra El Mansouri first woman PM",
-    "excerpt": "Fatima Ezzahra El Mansouri becomes the second woman to serve as prime minister in the Arab world.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-09-29T20:49:41.464640+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss"
-  },
-  {
-    "id": "61cdadd39255",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T17:51",
-    "headline": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
-    "excerpt": "Iran&#039;s military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-29T20:49:41.464678+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss"
-  },
-  {
-    "id": "2f5838870697",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T17:25",
-    "headline": "Ethiopia blames regional rivals as risk of conflict spillover rises",
-    "excerpt": "Ethiopia accuses Sudan and Egypt of backing armed groups, deepening tensions amid internal unrest.",
-    "category": "Other",
-    "location": "Egypt",
-    "addedAt": "2026-09-29T20:49:41.464707+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/ethiopia-blames-regional-rivals-as-risk-of-conflict-spillover-rises?traffic_source=rss"
-  },
-  {
-    "id": "1454f7bd92f1",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T16:57",
-    "headline": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
-    "excerpt": "Dozens of mourners in Gaza grieve the loss of their loved ones as they bury the fragmented remains of relatives killed.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-09-29T20:49:41.464736+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss"
-  },
-  {
-    "id": "574810957d4b",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T16:03",
-    "headline": "Russian Tu-95 nuclear-capable bomber plane crashes, killing six people",
-    "excerpt": "Tu-95 plane crashed during training flight in uninhabited area of Amur region, Defence Ministry says.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-09-29T20:49:41.464758+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss"
-  },
-  {
-    "id": "eb3a66d9e2bc",
-    "source": "PressTV",
-    "date": "2026-09-29T20:49",
-    "headline": "Iran: Trump caught in ‘quagmire,’ unable to decide",
-    "excerpt": "Iran has conveyed its conditions to the United States, but US President Donald Trump is unable to make a decision, says Iran top security chief.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-29T20:49:46.046252+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/29/777284/Rezaei-Trump-unable-decide-"
   }
 ]
