@@ -1,5 +1,115 @@
 [
   {
+    "id": "b7f7ea06e3fb",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T19:59",
+    "headline": "Why is the Trump administration trying to dismantle the ICC?",
+    "excerpt": "The US has imposed sweeping new sanctions on the International Criminal Court.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-10T20:15:10.502691+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss"
+  },
+  {
+    "id": "004fd25535db",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T19:32",
+    "headline": "Trump says Ukraine needs a new president who will agree to end the war",
+    "excerpt": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-10T20:15:10.502744+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss"
+  },
+  {
+    "id": "1757db34a8f4",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T18:38",
+    "headline": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
+    "excerpt": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-10T20:15:10.502781+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss"
+  },
+  {
+    "id": "e5d306a570c4",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T18:26",
+    "headline": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+    "excerpt": "Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-10-10T20:15:10.502821+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "06475f9cde6d",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T18:08",
+    "headline": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+    "excerpt": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
+    "category": "Casualties",
+    "location": "Riyadh",
+    "addedAt": "2026-10-10T20:15:10.502853+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss"
+  },
+  {
+    "id": "8498f6635771",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T17:48",
+    "headline": "Nine killed in shooting in US state of Pennsylvania, including two children",
+    "excerpt": "The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-10T20:15:10.502888+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss"
+  },
+  {
+    "id": "600b197744d8",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T17:38",
+    "headline": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
+    "excerpt": "Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-10T20:15:10.502936+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss"
+  },
+  {
+    "id": "746c25433fa9",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T16:41",
+    "headline": "Eritrea urges UN to intervene in standoff with Ethiopia",
+    "excerpt": "The neighbouring countries blame one another for starting war amid heightened tensions and fears of a wider conflict.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-10T20:15:10.502982+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss"
+  },
+  {
+    "id": "7af0312262be",
+    "source": "PressTV",
+    "date": "2026-10-10T20:16",
+    "headline": "Pro-Palestinian protests march in Athens in support of Gaza",
+    "excerpt": "Hundreds of pro-Palestinian protesters marched through Athens, waving Palestinian flags, holding banners and chanting slogans against Israel's military actions in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-10T20:16:52.470654+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/10/778043/pro-Palestine-protest-Athens-Greece-Gaza-Palestine-Israeli-embassy-"
+  },
+  {
+    "id": "8cbbced94228",
+    "source": "PressTV",
+    "date": "2026-10-10T20:16",
+    "headline": "Iranians in Tehran protest French police actions amid school demonstrations in France",
+    "excerpt": "Iranians rally outside the French Embassy in Tehran to protest French police actions, following weeks of student demonstrations across France.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-10-10T20:16:52.470692+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/10/778032/Iran-Tehran-French-embassy-protest-France-police-crackdown-students-"
+  },
+  {
     "id": "9d43995fd3e2",
     "source": "Al Jazeera",
     "date": "2026-10-10T15:19",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-30T05:40:41.999889+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss"
-  },
-  {
-    "id": "6cdba6bb345e",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T23:49",
-    "headline": "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza",
-    "excerpt": "Qatar&#039;s top diplomat says Israel has undermined Doha&#039;s efforts to broker a ceasefire in Gaza from &#039;day one&#039;.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-09-30T05:40:41.999934+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "b17f11b6dad2",
-    "source": "PressTV",
-    "date": "2026-09-30T05:40",
-    "headline": "Iraqi resistance group rejects disarmament, vows to maintain support for Lebanon",
-    "excerpt": "Iraqi anti-terror resistance group Kata’ib Sayyid al-Shuhada rejects any surrender of its weapons.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-09-30T05:40:45.230217+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/30/777299/Iraq-resistance-groups-rejects-surrendering-weapon-support-Lebanese-fighters"
-  },
-  {
-    "id": "c21ea5adef33",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T23:06",
-    "headline": "Iraq begins high-stakes security balancing act as US troops withdraw",
-    "excerpt": "Iraq marks national &#039;Sovereignty Days&#039; as US troops depart, but must navigate risks of new security landscape.",
-    "category": "Movement",
-    "location": "Iraq",
-    "addedAt": "2026-09-30T00:12:59.963639+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss"
-  },
-  {
-    "id": "a4a899539e9c",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T21:24",
-    "headline": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
-    "excerpt": "In an interview with British broadcaster Piers Morgan, Qatar’s prime minister accused Israeli’s Netanyahu of war crimes",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-30T00:12:59.963694+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss"
-  },
-  {
-    "id": "287c5cfc4d87",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T21:05",
-    "headline": "What is white phosphorus, and why is Israel using it in Lebanon?",
-    "excerpt": "White phosphorus can cause severe burns, ignite repeatedly and produce intense heat and toxic smoke.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-09-30T00:12:59.963728+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-is-white-phosphorus-and-why-is-israel-using-it-in-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "8ba9ae5103a8",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T21:02",
-    "headline": "Spain protests: Evicted 87-year-old woman to return to Madrid home",
-    "excerpt": "The real estate firm backs down and restores her old rent after mass protests over Spain&#039;s housing crisis.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-09-30T00:12:59.963763+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/spain-protests-evicted-87-year-old-woman-to-return-to-madrid-home?traffic_source=rss"
-  },
-  {
-    "id": "18a60b95737e",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T20:55",
-    "headline": "What we know about RAF Fairford ‘bomb plot’",
-    "excerpt": "A police alert turned into a potential Iranian “bomb plot” against a British military base used by the US.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-09-30T00:12:59.963782+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss"
-  },
-  {
-    "id": "871577bc4492",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T20:48",
-    "headline": "US sanctions 10 entities for allegedly supporting Iran’s military",
-    "excerpt": "Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctioned as part of a pressure campaign.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-09-30T00:12:59.963818+00:00",
-    "link": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss"
-  },
-  {
-    "id": "dd5c5959386b",
-    "source": "PressTV",
-    "date": "2026-09-30T00:13",
-    "headline": "Israeli attacks kill six Palestinians in Gaza as ceasefire violations mount",
-    "excerpt": "At least six Palestinians are killed and several others, including children, injured in Israeli attacks across the Gaza Strip, medical sources report.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-09-30T00:13:05.269147+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/30/777296/Israel-kills-six-Gaza-ceasefire-violations-genocide"
-  },
-  {
-    "id": "f0f646b7bdec",
-    "source": "PressTV",
-    "date": "2026-09-30T00:13",
-    "headline": "Iran warns regional states of Israel’s malicious intents following reports of Netanyahu UAE visit",
-    "excerpt": "Iran warns regional countries about the consequences of the presence of destabilizing actors such as Israeli prime minister Benjamin Netanyahu on their soils.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-30T00:13:05.269219+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/29/777295/Iran-Israel-UAE-Netanyahu"
   }
 ]
