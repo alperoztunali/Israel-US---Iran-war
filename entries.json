@@ -1,5 +1,49 @@
 [
   {
+    "id": "26f74b143fa5",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T04:30",
+    "headline": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
+    "excerpt": "Ukraine bombed a Russian fuel site, hours after US President Trump and Russian President Putin announced a diesel deal.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-10-10T05:16:40.618675+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss"
+  },
+  {
+    "id": "b04243c89f90",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T01:40",
+    "headline": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+    "excerpt": "Drone attacks on Moscow during last month&#039;s election undermined trilateral peace negotiations, the Kremlin says.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-10T05:16:40.618720+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss"
+  },
+  {
+    "id": "846df78459e9",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T00:22",
+    "headline": "Israeli drone attack wounds six in Lebanon near Syria border",
+    "excerpt": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon&#039;s health authorities say.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-10-10T05:16:40.618744+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss"
+  },
+  {
+    "id": "a3ca3a237dc7",
+    "source": "Al Jazeera",
+    "date": "2026-10-10T00:00",
+    "headline": "Iran war live: Trump vows to quickly ‘settle or win’ Iran and Ukraine wars",
+    "excerpt": "Trump says that he expects to soon “settle or win” the conflicts involving Iran and Russia-Ukraine.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-10T05:16:40.618784+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss"
+  },
+  {
     "id": "1f6fcc005d59",
     "source": "Al Jazeera",
     "date": "2026-10-09T20:56",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-09-29T16:08:33.691777+00:00",
     "link": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss"
-  },
-  {
-    "id": "c7b2cc13b237",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T13:26",
-    "headline": "Tourists face legal action over turtle-riding video in Oman",
-    "excerpt": "Tourists face legal action over turtle-riding video in Oman",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-09-29T16:08:33.691802+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/tourists-face-legal-action-over-turtle-riding-video-in-oman?traffic_source=rss"
-  },
-  {
-    "id": "bf0e2efdd7d7",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T13:22",
-    "headline": "Are Houthis using new modified cruise missiles in Yemen’s war?",
-    "excerpt": "Experts say use of modified Iranian defence system could alter the balance in the fight for the Red Sea.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-09-29T16:08:33.691828+00:00",
-    "link": "https://www.aljazeera.com/features/2026/9/29/are-houthis-using-new-modified-cruise-missiles-in-yemens-war?traffic_source=rss"
-  },
-  {
-    "id": "b7f73cf29028",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T13:20",
-    "headline": "Iran downplays possible role in Houthis’ recent Yemen victories",
-    "excerpt": "Iran has long been accused of links with the Houthis in Yemen, but how far do these links go?",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-09-29T16:08:33.691856+00:00",
-    "link": "https://www.aljazeera.com/news-analysis/2026/9/29/iran-downplays-their-possible-role-in-houthis-recent-yemen-victories?traffic_source=rss"
-  },
-  {
-    "id": "61ac893c7c03",
-    "source": "Al Jazeera",
-    "date": "2026-09-29T13:20",
-    "headline": "Man City’s Premier League charges: What’s the latest and what comes next?",
-    "excerpt": "Swingeing sanctions against City for breaching financial fair play rules would send shockwaves through English football.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-09-29T16:08:33.691888+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss"
   }
 ]
