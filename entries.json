@@ -1,5 +1,38 @@
 [
   {
+    "id": "2531d6288e48",
+    "source": "Al Jazeera",
+    "date": "2026-10-11T01:11",
+    "headline": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+    "excerpt": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.",
+    "category": "Diplomatic",
+    "location": "Gaza",
+    "addedAt": "2026-10-11T02:13:22.900216+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss"
+  },
+  {
+    "id": "2e0503a0bd72",
+    "source": "Al Jazeera",
+    "date": "2026-10-11T01:02",
+    "headline": "Twelve killed, more than 300 injured in Riyadh airport attack",
+    "excerpt": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
+    "category": "Airstrike",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-11T02:13:22.900257+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss"
+  },
+  {
+    "id": "7d8760ce1a2b",
+    "source": "Al Jazeera",
+    "date": "2026-10-11T00:00",
+    "headline": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+    "excerpt": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-10-11T02:13:22.900288+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss"
+  },
+  {
     "id": "f11064bc042e",
     "source": "Al Jazeera",
     "date": "2026-10-10T22:12",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-09-30T11:22:51.225226+00:00",
     "link": "https://presstv.co.uk/Detail/2026/09/30/777305/Top-Iraqi-cleric-condemns-ban-on-Iranian-flights-as-submission-to-US-bullying"
-  },
-  {
-    "id": "d50511a34572",
-    "source": "PressTV",
-    "date": "2026-09-30T11:22",
-    "headline": "US completes military withdrawal from Iraq after 23 years of occupation",
-    "excerpt": "The US has completed the withdrawal of its military forces from Iraq after more than two decades of military occupation.",
-    "category": "Movement",
-    "location": "Iraq",
-    "addedAt": "2026-09-30T11:22:51.225250+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/30/777321/US-completes-military-withdrawal-from-Iraq-after-23-years-of-occupation"
-  },
-  {
-    "id": "3d802187c6a3",
-    "source": "PressTV",
-    "date": "2026-09-30T11:22",
-    "headline": "Yemen downs Saudi drone as Riyadh begs West, UAE for urgent help",
-    "excerpt": "A senior member of the Ansarullah resistance movement says the Yemeni Armed Forces have shot down a Saudi reconnaissance drone over the northern province of Sa’ada.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-09-30T11:22:51.225271+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/30/777308/Yemen-Ansarullah-shoot-down-Saudi-reconaissance-drone-Sa-ada--Hazam-al-Asad"
-  },
-  {
-    "id": "6615ae1b58d5",
-    "source": "PressTV",
-    "date": "2026-09-30T11:22",
-    "headline": "Over 400 detained in student protests across France as public workers join strike",
-    "excerpt": "Over 400 people have been detained during student protests across France as tens of thousands of public workers went on strike demanding higher pay.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-09-30T11:22:51.225305+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/09/30/777318/France-student-protests-arrests-Nunez-Bordeaux-Rennes-Lecornu-public-workers-strike-"
   }
 ]
