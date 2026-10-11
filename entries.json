@@ -1,5 +1,71 @@
 [
   {
+    "id": "229fb60b09e6",
+    "source": "Al Jazeera",
+    "date": "2026-10-11T22:49",
+    "headline": "Footage shows moment Russian strike hits Ukrainian grocery store",
+    "excerpt": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-11T23:13:36.976552+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss"
+  },
+  {
+    "id": "f4441fd495e3",
+    "source": "Al Jazeera",
+    "date": "2026-10-11T22:24",
+    "headline": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+    "excerpt": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
+    "category": "Casualties",
+    "location": "Riyadh",
+    "addedAt": "2026-10-11T23:13:36.976602+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss"
+  },
+  {
+    "id": "a2d45a586bb3",
+    "source": "Al Jazeera",
+    "date": "2026-10-11T20:46",
+    "headline": "Two killed near Israeli-occupied area in south Lebanon",
+    "excerpt": "Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-11T23:13:36.976631+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "46e2cde779ad",
+    "source": "Al Jazeera",
+    "date": "2026-10-11T20:44",
+    "headline": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+    "excerpt": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
+    "category": "Airstrike",
+    "location": "Egypt",
+    "addedAt": "2026-10-11T23:13:36.976657+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss"
+  },
+  {
+    "id": "f66e1fc79b9b",
+    "source": "Al Jazeera",
+    "date": "2026-10-11T20:24",
+    "headline": "Syrian families demand release of detainees held by Israel",
+    "excerpt": "Syrian families demand release of detainees held by Israel",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-11T23:13:36.976688+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss"
+  },
+  {
+    "id": "1c7cf61c76d0",
+    "source": "Al Jazeera",
+    "date": "2026-10-11T19:59",
+    "headline": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+    "excerpt": "Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack.",
+    "category": "Casualties",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-11T23:13:36.976721+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss"
+  },
+  {
     "id": "468191e8bad9",
     "source": "Al Jazeera",
     "date": "2026-10-11T19:19",
@@ -5432,71 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-10-01T07:02:26.070847+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss"
-  },
-  {
-    "id": "b6a17c0ab743",
-    "source": "Al Jazeera",
-    "date": "2026-10-01T00:53",
-    "headline": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight",
-    "excerpt": "Israeli passengers tell of the horror onboard the Flydubai flight that was diverted after a pilot was stabbed.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-01T07:02:26.070895+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss"
-  },
-  {
-    "id": "561a7f44b02b",
-    "source": "Al Jazeera",
-    "date": "2026-10-01T00:39",
-    "headline": "Iran parades Shahed drones through capital",
-    "excerpt": "Crowds cheered and waved national flags as two Shahed drones were paraded through Tehran.",
-    "category": "Missile/Drone",
-    "location": "Tehran",
-    "addedAt": "2026-10-01T07:02:26.070918+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss"
-  },
-  {
-    "id": "254daf8c7c05",
-    "source": "PressTV",
-    "date": "2026-10-01T07:02",
-    "headline": "US will stop attacking Iran unless it wants to ‘commit suicide’: IRGC chief commander’s advisor",
-    "excerpt": "A senior advisor to the IRGC’s chief commander says it will be in the US’s best interests to stop its aggression against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-01T07:02:29.865906+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/01/777357/Iran-IRGC-United-States-attacks-suicide-defeat"
-  },
-  {
-    "id": "dc199b2afa86",
-    "source": "PressTV",
-    "date": "2026-10-01T07:02",
-    "headline": "‘Baseless news’: Iran debunks US claim of ordering Araghchi to leave NY",
-    "excerpt": "Tehran rejects an American media report that claimed Rubio ordered the Iranian delegation led by Araghchi to leave New York earlier than they had planned.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-01T07:02:29.865948+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/01/777368/Iran-debunks-US-claim-Araghchi-New-York"
-  },
-  {
-    "id": "8057b20a3af0",
-    "source": "PressTV",
-    "date": "2026-10-01T07:02",
-    "headline": "‘We are not armed’: Last conversation of Iranian destroyer Dena before US attack",
-    "excerpt": "An Iranian judicial official says an audio recording of the final communications involving the Iranian destroyer Dena before a US attack shows the vessel was unarmed and on a training mission.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-01T07:02:29.865989+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/01/777371/Iran-US-Dena-Destroyer"
-  },
-  {
-    "id": "e2e9719a4585",
-    "source": "PressTV",
-    "date": "2026-10-01T07:02",
-    "headline": "'Blessed victory day for Iraqi people': Basra residents celebrate withdrawal of US-led forces",
-    "excerpt": "Basra residents took part in a car convoy to celebrate withdrawal of US-led coalition forces from Iraq.",
-    "category": "Movement",
-    "location": "Iraq",
-    "addedAt": "2026-10-01T07:02:29.866025+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/01/777362/Blessed-victory-day-for-Iraqi-people-Basra-residents-celebrate-withdrawal-of-US-led-forces"
   }
 ]
