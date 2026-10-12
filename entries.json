@@ -1,5 +1,60 @@
 [
   {
+    "id": "252563875c93",
+    "source": "Al Jazeera",
+    "date": "2026-10-12T02:11",
+    "headline": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+    "excerpt": "Sunday&#039;s strike on King Khalid International airport kills a Pakistani national.",
+    "category": "Casualties",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-12T02:28:29.860944+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss"
+  },
+  {
+    "id": "50aaae05b533",
+    "source": "Al Jazeera",
+    "date": "2026-10-12T00:39",
+    "headline": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+    "excerpt": "Tehran offers to facilitate talks between Saudi Arabia and Yemen&#039;s Houthis following deadly strikes on the kingdom.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-10-12T02:28:29.860980+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss"
+  },
+  {
+    "id": "7535cd2dd9fa",
+    "source": "Al Jazeera",
+    "date": "2026-10-12T00:00",
+    "headline": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+    "excerpt": "Iran says US has accepted some of its peace terms but calls the reply &#039;inadequate&#039;, as Riyadh airport is hit again.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-10-12T02:28:29.861013+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss"
+  },
+  {
+    "id": "d1684165131f",
+    "source": "Al Jazeera",
+    "date": "2026-10-11T23:20",
+    "headline": "Pakistani national killed in second Houthi strike on Riyadh airport",
+    "excerpt": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
+    "category": "Casualties",
+    "location": "Riyadh",
+    "addedAt": "2026-10-12T02:28:29.861039+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss"
+  },
+  {
+    "id": "cbbde8ae3f43",
+    "source": "PressTV",
+    "date": "2026-10-12T02:29",
+    "headline": "SNSC secretary dismisses US response to Iran’s conditions as ‘inadequate’",
+    "excerpt": "The SNSC secretary has dismissed the United States' partial concessions regarding Tehran's seven conditions for resolving the ongoing war as \"inadequate.”",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-10-12T02:29:31.039982+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/11/778122/SNSC-secretary-dismisses-US-response-to-Iran-conditions-as-inadequate"
+  },
+  {
     "id": "229fb60b09e6",
     "source": "Al Jazeera",
     "date": "2026-10-11T22:49",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-01T07:02:26.070672+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss"
-  },
-  {
-    "id": "9ab38dcdb7b2",
-    "source": "Al Jazeera",
-    "date": "2026-10-01T04:55",
-    "headline": "Execution of US woman Christa Pike fails after botched lethal injection",
-    "excerpt": "The high-profile execution of murderer Christa Pike is in disarray after two lethal injections failed to kill her.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-10-01T07:02:26.070715+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss"
-  },
-  {
-    "id": "b35a3b2ae736",
-    "source": "Al Jazeera",
-    "date": "2026-10-01T04:16",
-    "headline": "Pakistan says 22 fighters killed in air attacks on Afghanistan",
-    "excerpt": "Kabul says the strikes on Kunar and Helmand provinces killed nine women and children.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-10-01T07:02:26.070743+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss"
-  },
-  {
-    "id": "9d90306575ca",
-    "source": "Al Jazeera",
-    "date": "2026-10-01T02:34",
-    "headline": "Hegseth announces 20% cut to US military commanders",
-    "excerpt": "US Secretary of Defense Pete Hegseth says he’s firing 20% of the military’s generals and admirals.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-01T07:02:26.070782+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/hegseth-announces-20-cut-to-us-military-commanders?traffic_source=rss"
-  },
-  {
-    "id": "632ed314fde0",
-    "source": "Al Jazeera",
-    "date": "2026-10-01T02:30",
-    "headline": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
-    "excerpt": "Andy Burnham says UK has &#039;strong indications&#039; Iran involved in alleged security incident at RAF base used by US.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-01T07:02:26.070818+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss"
-  },
-  {
-    "id": "49f2e2f89999",
-    "source": "Al Jazeera",
-    "date": "2026-10-01T01:11",
-    "headline": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
-    "excerpt": "Night time celebrations filled the air as Iraqis observed the start of a four-day holiday.",
-    "category": "Movement",
-    "location": "Iraq",
-    "addedAt": "2026-10-01T07:02:26.070847+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss"
   }
 ]
