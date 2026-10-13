@@ -1,5 +1,82 @@
 [
   {
+    "id": "5ec8dacda439",
+    "source": "Al Jazeera",
+    "date": "2026-10-13T20:33",
+    "headline": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+    "excerpt": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+    "category": "Casualties",
+    "location": "Egypt",
+    "addedAt": "2026-10-13T21:27:45.272675+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss"
+  },
+  {
+    "id": "5851fddcf907",
+    "source": "Al Jazeera",
+    "date": "2026-10-13T19:33",
+    "headline": "Trump says Houthis trying to increase oil prices before US elections",
+    "excerpt": "US president suggests that Yemen-based group are &#039;purposefully trying to drive up oil prices&#039; before November vote.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-13T21:27:45.272723+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss"
+  },
+  {
+    "id": "f3033ebe184d",
+    "source": "Al Jazeera",
+    "date": "2026-10-13T18:44",
+    "headline": "Who killed Tupac?",
+    "excerpt": "For decades, Tupac Shakur’s murder remained unsolved. Now, Duane Davis has been sentenced 40 years for his killing.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-13T21:27:45.272752+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss"
+  },
+  {
+    "id": "7f7fe61ba080",
+    "source": "Al Jazeera",
+    "date": "2026-10-13T18:42",
+    "headline": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
+    "excerpt": "As Israel moves Gaza’s Yellow Line westward, displaced families in Shujayea face renewed danger.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-13T21:27:45.272786+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss"
+  },
+  {
+    "id": "c3074ee8d941",
+    "source": "PressTV",
+    "date": "2026-10-13T21:27",
+    "headline": "Iran slams UK’s ‘baseless’ Fairford accusations as clumsy false-flag plot",
+    "excerpt": "Iran has strongly condemned the unfounded claims by British officials attempting to link an alleged security incident at RAF Fairford air base to Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-13T21:27:47.133124+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/12/778192/Iran-slams-UK%E2%80%99s-%E2%80%98baseless%E2%80%99-Fairford-accusations-as-clumsy-false-flag-plot-to-cover-aggression"
+  },
+  {
+    "id": "9674b104aa0e",
+    "source": "PressTV",
+    "date": "2026-10-13T21:27",
+    "headline": "Strait of Hormuz inseparable part of Iran's territory: Leader's advisor",
+    "excerpt": "Major General Rahim Safavi says Iran has every right to exert its sovereignty over the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-13T21:27:47.133162+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/12/778178/Iran-Hormuz-control-Rahim-Safavi-comments"
+  },
+  {
+    "id": "8ab95ad4513e",
+    "source": "PressTV",
+    "date": "2026-10-13T21:27",
+    "headline": "'Maritime piracy, theft, and fuel smuggling' can’t prevent definitive US defeat: Iran",
+    "excerpt": "\"Can maritime piracy, theft, and fuel smuggling prevent America's definitive defeat? Never!” Iran's armed forces spokesman says.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-13T21:27:47.133193+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/12/778168/Oil-smuggling-can%E2%80%99t-prevent-US-defeat-Iranian-army"
+  },
+  {
     "id": "744a779afb5d",
     "source": "Al Jazeera",
     "date": "2026-10-13T16:06",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-02T21:00:53.500029+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss"
-  },
-  {
-    "id": "d908161f699f",
-    "source": "PressTV",
-    "date": "2026-10-02T21:00",
-    "headline": "Reality is shaped by Iran; Trump can win only in his imagination: Top security official",
-    "excerpt": "“You can win every day in your own imagination. But reality is shaped by Iran,\" Rezaei tells Trump.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-02T21:00:55.520809+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/02/777457/Mohsen-Rezaei-Trump-claim-victory-reality-imagination"
-  },
-  {
-    "id": "9e34908c8d89",
-    "source": "PressTV",
-    "date": "2026-10-02T21:00",
-    "headline": "Iran has technological surprises in store for enemies: IRGC",
-    "excerpt": "A senior IRGC commander says the Iranian armed have technological surprises in store for their enemies.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-02T21:00:55.520853+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/02/777461/Iran-IRGC-Izadi-surprises"
-  },
-  {
-    "id": "aee78d632a3b",
-    "source": "PressTV",
-    "date": "2026-10-02T21:00",
-    "headline": "‘No reconciliation without truth’: Iran blasts Canada over indigenous children",
-    "excerpt": "Iran Foreign Ministry spokesperson says Canada’s National Day for Truth and Reconciliation cannot replace answers over children taken from their families, abused and buried far from home.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-02T21:00:55.520927+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/02/777443/Iran-Canada-Truth-and-Reconciliation-Day-cannot-cover-up-treatment-of-Indigenous-children"
-  },
-  {
-    "id": "021bad024c05",
-    "source": "Al Jazeera",
-    "date": "2026-10-02T16:06",
-    "headline": "Three in four households go hungry in parts of Yemen amid fighting: UN",
-    "excerpt": "World Food Programme warns of &#039;devastating&#039; impact as conflict displaces thousands and cuts off food supplies.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-02T16:39:06.955369+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss"
-  },
-  {
-    "id": "3dac1c74fc50",
-    "source": "Al Jazeera",
-    "date": "2026-10-02T13:17",
-    "headline": "Man City lodge appeal after guilty finding in financial breach scandal",
-    "excerpt": "The Abu Dhabi-controlled club has protested its innocence throughout the long-running case, which dates back to 2018.",
-    "category": "Other",
-    "location": "Abu Dhabi",
-    "addedAt": "2026-10-02T16:39:06.955419+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-appeal-premier-league-financial-ruling-england-fa?traffic_source=rss"
-  },
-  {
-    "id": "72ee2dfffdba",
-    "source": "Al Jazeera",
-    "date": "2026-10-02T12:47",
-    "headline": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
-    "excerpt": "Closure of bridges struck by drones in Ukrainian capital causes traffic chaos.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-02T16:39:06.955447+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss"
-  },
-  {
-    "id": "804f60f9aecd",
-    "source": "Al Jazeera",
-    "date": "2026-10-02T12:37",
-    "headline": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
-    "excerpt": "As it plunged 17,000ft in under two minutes, a quick-thinking captain and passengers saved plane from crashing.",
-    "category": "Other",
-    "location": "Dubai",
-    "addedAt": "2026-10-02T16:39:06.955478+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss"
   }
 ]
