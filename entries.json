@@ -1,5 +1,93 @@
 [
   {
+    "id": "c3778fb05c34",
+    "source": "Al Jazeera",
+    "date": "2026-10-14T21:35",
+    "headline": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+    "excerpt": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-14T22:41:38.488054+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss"
+  },
+  {
+    "id": "a58548e681a9",
+    "source": "Al Jazeera",
+    "date": "2026-10-14T20:47",
+    "headline": "Israeli quadcopter drone drops bomb in Lebanon",
+    "excerpt": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-10-14T22:41:38.488078+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "d57ed89e3274",
+    "source": "Al Jazeera",
+    "date": "2026-10-14T20:42",
+    "headline": "Families of Trinidadian men killed in US boat strike demand accountability",
+    "excerpt": "The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-14T22:41:38.488098+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss"
+  },
+  {
+    "id": "d3cc283f8bf8",
+    "source": "Al Jazeera",
+    "date": "2026-10-14T20:29",
+    "headline": "Woman rescued after being swept away by Istanbul flash flood",
+    "excerpt": "A woman was rescued by passersby after being swept along by floodwaters in Istanbul’s Esenyurt district",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-10-14T22:41:38.488124+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/woman-rescued-after-being-swept-away-by-istanbul-flash-flood?traffic_source=rss"
+  },
+  {
+    "id": "a2568f2a7667",
+    "source": "Al Jazeera",
+    "date": "2026-10-14T20:25",
+    "headline": "Houthi attacks disrupt travel plans for Mecca pilgrims",
+    "excerpt": "Muslim pilgrims headed to Mecca for Umrah are facing travel disruptions as Houthi attacks hit Saudi Arabia.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-14T22:41:38.488143+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-attacks-disrupt-travel-plans-for-mecca-pilgrims?traffic_source=rss"
+  },
+  {
+    "id": "f0ad6201425d",
+    "source": "Al Jazeera",
+    "date": "2026-10-14T20:14",
+    "headline": "Russia attack hits Kyiv after reported intelligence lapse",
+    "excerpt": "Russia attack hits Kyiv after reported intelligence lapse",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-14T22:41:38.488165+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss"
+  },
+  {
+    "id": "9ffa97afd00c",
+    "source": "Al Jazeera",
+    "date": "2026-10-14T19:53",
+    "headline": "US lifts sanctions on Venezuela’s top legislator",
+    "excerpt": "Jorge Rodriguez has been removed from OFAC&#039;s sanctions list in latest US push for oil control and bilateral diplomacy.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-14T22:41:38.488190+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss"
+  },
+  {
+    "id": "e80f3e9b2565",
+    "source": "PressTV",
+    "date": "2026-10-14T22:41",
+    "headline": "‘They know what will happen’: IRGC says US never dares put boots on ground in Iran",
+    "excerpt": "A senior IRGC commander says the US will have a hell of a job deploying ground troops to Iran.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-14T22:41:40.092165+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/13/778257/Iran-IRGC-commander-Naqdi-US-ground-invasion-scenario"
+  },
+  {
     "id": "3fb84601e13f",
     "source": "Al Jazeera",
     "date": "2026-10-14T19:02",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-04T12:32:05.178016+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/04/777573/Russia-issues-urgent-warning-to-foreigners-to-leave-Ukraine-ahead-of-massive-retaliatory-strikes"
-  },
-  {
-    "id": "6fda098ecff5",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T05:00",
-    "headline": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
-    "excerpt": "Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-04T06:12:40.473125+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss"
-  },
-  {
-    "id": "ae9344aa0027",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T04:09",
-    "headline": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
-    "excerpt": "Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-10-04T06:12:40.473176+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss"
-  },
-  {
-    "id": "2546f29eb431",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T04:06",
-    "headline": "Pick-up truck overturns trying to carry military chopper in Russia",
-    "excerpt": "An attempt by Russian stuntman Evgeny Chebotarev to carry an Mi-2 helicopter on a pickup truck went awfully wrong.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-04T06:12:40.473217+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss"
-  },
-  {
-    "id": "f5ae10e25251",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T03:33",
-    "headline": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-    "excerpt": "Spokesman for Saudi-led coalition supporting Yemen government says Houthi claims of targeting Riyadh are &#039;misleading&#039;.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-04T06:12:40.473250+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss"
-  },
-  {
-    "id": "e5a97ee70791",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T00:26",
-    "headline": "Serbian populist leader Vucic launches campaign for prime minister",
-    "excerpt": "Former Serbian President Aleksandar Vucic is seeking to extend his hold on power through a parliamentary vote.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-04T06:12:40.473286+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss"
-  },
-  {
-    "id": "a7362f9043b7",
-    "source": "PressTV",
-    "date": "2026-10-04T06:12",
-    "headline": "Russia’s Medvedev: Iranian nation united, resolute in defense of independence",
-    "excerpt": "Russia’s Medvedev: Iranian nation united, resolute in defense of independence",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-04T06:12:42.453235+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777562/Russia%E2%80%99s-Medvedev--Iranian-nation-united,-resolute-in-defense-of-independence"
-  },
-  {
-    "id": "e6c60f13dd30",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T00:00",
-    "headline": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
-    "excerpt": "Fighting in Yemen displaces more civilians, as Trump says a decision on Iran is coming.",
-    "category": "Movement",
-    "location": "Tehran",
-    "addedAt": "2026-10-04T00:25:04.121056+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss"
-  },
-  {
-    "id": "f3d3870318a3",
-    "source": "Al Jazeera",
-    "date": "2026-10-03T22:43",
-    "headline": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
-    "excerpt": "Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to &#039;end a genocide in Gaza&#039;.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-04T00:25:04.121091+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss"
   }
 ]
