@@ -1,5 +1,60 @@
 [
   {
+    "id": "b6ce40a148ab",
+    "source": "Al Jazeera",
+    "date": "2026-10-14T00:00",
+    "headline": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+    "excerpt": "A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi &#039;vital assets&#039; in Yemen",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-14T00:33:21.770411+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss"
+  },
+  {
+    "id": "6f7b228bcc60",
+    "source": "Al Jazeera",
+    "date": "2026-10-13T22:41",
+    "headline": "Mauritius imposes curfew after night of unrest over police shooting",
+    "excerpt": "Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-10-14T00:33:21.770445+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss"
+  },
+  {
+    "id": "986880653719",
+    "source": "Al Jazeera",
+    "date": "2026-10-13T22:33",
+    "headline": "Albanian police fire tear gas at protesters as Education Ministry attacked",
+    "excerpt": "At least 23 protesters have been arrested in demonstrations in the capital.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-14T00:33:21.770470+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss"
+  },
+  {
+    "id": "23646a5922e6",
+    "source": "Al Jazeera",
+    "date": "2026-10-13T21:04",
+    "headline": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
+    "excerpt": "Yemeni government forces are encircled by the Houthis in Taiz, where blockades on road routes have worsened shortages.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-10-14T00:33:21.770491+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss"
+  },
+  {
+    "id": "9b125d1894ed",
+    "source": "Al Jazeera",
+    "date": "2026-10-13T21:03",
+    "headline": "Surveillance video shows moment ICE vehicle strikes man in Houston",
+    "excerpt": "New footage shows the moment 48-year-old Miguel Parra-Hernandez was hit by an ICE officer’s car in Houston, Texas.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-14T00:33:21.770517+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss"
+  },
+  {
     "id": "5ec8dacda439",
     "source": "Al Jazeera",
     "date": "2026-10-13T20:33",
@@ -5443,60 +5498,5 @@
     "location": "Dubai",
     "addedAt": "2026-10-02T21:00:53.499833+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss"
-  },
-  {
-    "id": "193112c57358",
-    "source": "Al Jazeera",
-    "date": "2026-10-02T20:32",
-    "headline": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
-    "excerpt": "Mahan Air is excluded from the agreement as Baghdad says Washington granted its request for a waiver.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-02T21:00:53.499880+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss"
-  },
-  {
-    "id": "a1cb86fc36be",
-    "source": "Al Jazeera",
-    "date": "2026-10-02T19:10",
-    "headline": "Arab party leader withdraws from Israeli elections",
-    "excerpt": "Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-02T21:00:53.499918+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss"
-  },
-  {
-    "id": "f3951b52dc96",
-    "source": "Al Jazeera",
-    "date": "2026-10-02T18:18",
-    "headline": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-    "excerpt": "Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-02T21:00:53.499952+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss"
-  },
-  {
-    "id": "bc9ce100ca74",
-    "source": "Al Jazeera",
-    "date": "2026-10-02T18:11",
-    "headline": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-    "excerpt": "Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-02T21:00:53.499990+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss"
-  },
-  {
-    "id": "4526114c723c",
-    "source": "Al Jazeera",
-    "date": "2026-10-02T17:30",
-    "headline": "Jerusalem Daily: Who gets to run in Israel’s elections?",
-    "excerpt": "Palestinians in Israel are asking whether they will have a fair say in the upcoming Israeli elections.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-02T21:00:53.500029+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss"
   }
 ]
