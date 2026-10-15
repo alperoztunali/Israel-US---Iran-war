@@ -1,5 +1,137 @@
 [
   {
+    "id": "8f241f6626b7",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T17:43",
+    "headline": "A mother’s touch helps premature babies grow strong in Gaza",
+    "excerpt": "At Nasser Hospital, a kangaroo mother care pilot programme helps vulnerable newborns.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-10-15T19:25:16.502087+00:00",
+    "link": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "9332d4539eae",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T16:50",
+    "headline": "Houthis target Yemen’s presidential palace in Aden with missiles",
+    "excerpt": "Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-10-15T19:25:16.502120+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss"
+  },
+  {
+    "id": "00a5ff1648d9",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T16:32",
+    "headline": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
+    "excerpt": "Citizen Lab investigation says dozens of Al Jazeera devices were infected by malware planted through advertisements.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-15T19:25:16.502147+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss"
+  },
+  {
+    "id": "4b1c795f76d5",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T16:19",
+    "headline": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
+    "excerpt": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-15T19:25:16.502168+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/jerusalem-daily-ultra-orthodox-jews-storm-israeli-army-base?traffic_source=rss"
+  },
+  {
+    "id": "f7b7acb4c273",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T15:46",
+    "headline": "What is the ‘Mother of All Bombs’ US could use in Iran?",
+    "excerpt": "US media reports military considering plans to use GBU-43/B Massive Ordnance Air Blast Bomb (MOAB)",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-10-15T19:25:16.502183+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/15/what-is-the-mother-of-all-bombs-us-could-use-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "45a7457896f7",
+    "source": "PressTV",
+    "date": "2026-10-15T19:25",
+    "headline": "Iranian filmmaker pays tribute to Minab schoolchildren after Busan Film Festival win",
+    "excerpt": "Iranian filmmaker Majid Majidi vows that the Iranian people will continue to stand firm in defense of their independence.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-15T19:25:17.948554+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778396/Iranian-filmmaker-pays-tribute-Minab-schoolchildren-after-Busan-Film-Festival-win"
+  },
+  {
+    "id": "389fab239284",
+    "source": "PressTV",
+    "date": "2026-10-15T19:25",
+    "headline": "Iran to complete reconstruction of US-destroyed tunnels in Hormozgan by late December",
+    "excerpt": "Iran has accelerated reconstruction of the Shahid Mirzaei tunnels in Hormozgan Province after US missile strikes destroyed their stone entrances and exits.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-10-15T19:25:17.948577+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778385/Iran-advances-reconstruction-of-Shahid-Mirzaei-tunnels-damaged-during-US-Israeli-aggression-Authorities"
+  },
+  {
+    "id": "8c3ad78bb797",
+    "source": "PressTV",
+    "date": "2026-10-15T19:25",
+    "headline": "Infrastructure in Persian Gulf countries hit 135 times during war, exposing US defense failures: Rep",
+    "excerpt": "A Reuters investigation claims Persian Gulf infrastructure was hit 135 times, exposing the failure of US air defenses and debunking the \"falling debris\" narrative.",
+    "category": "Other",
+    "location": "Persian Gulf",
+    "addedAt": "2026-10-15T19:25:17.948612+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778380/Iran-expose-vulnerabilities-Persian-Gulf-despite-US-military-presence-Report"
+  },
+  {
+    "id": "fa096a1fc9db",
+    "source": "PressTV",
+    "date": "2026-10-15T19:25",
+    "headline": "‘Protection of al-Aqsa Mosque a top priority’: Commander reaffirms Iran’s commitment to Palestine",
+    "excerpt": "The commander of the IRGC’s Quds Force says Iran will not abandon its support for the Palestinian cause, despite decades of sanctions, imposed wars, and mounting external pressure.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-15T19:25:17.948641+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/14/778336/Iran-Palestine-al-Aqsa-Mosque"
+  },
+  {
+    "id": "e134e15551b6",
+    "source": "PressTV",
+    "date": "2026-10-15T19:25",
+    "headline": "Iran has neutralized virtually all US capabilities at 17 regional bases: IRGC adviser",
+    "excerpt": "General Sharif says the US and Israel deployed their full capacity when they launched the war against Iran, but they failed to achieve their objectives.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-15T19:25:17.948661+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/14/778308/iran-has-neutralized-virtually-all-us-capabilities-at-17-regional-bases-irgc-adviser"
+  },
+  {
+    "id": "7f48d3a1f511",
+    "source": "PressTV",
+    "date": "2026-10-15T19:25",
+    "headline": "Albanians protest corruption and rising costs as police fire tear gas in Tirana",
+    "excerpt": "Riot police deployed tear gas in Tirana on Thursday (October 15) as protesters angered by education standards, living costs, and alleged government corruption kicked and threw the cannisters back towards officers.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-15T19:25:17.948684+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778399/Albanians-protest-against-corruption,-police-deploy-tear-gas"
+  },
+  {
+    "id": "20453bce6cbb",
+    "source": "PressTV",
+    "date": "2026-10-15T19:25",
+    "headline": "Thousands attend funeral for 34 students killed in Pakistan school roof collapse",
+    "excerpt": "Thousands of mourners participated in funeral prayers on Thursday in Peshawar after a school rooftop collapse killed several people.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-15T19:25:17.948703+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778388/Thousands-attend-funeral-for-young-victims-of-school-collapse-in-Peshawar-"
+  },
+  {
     "id": "8eb3f5de0810",
     "source": "Al Jazeera",
     "date": "2026-10-15T15:19",
@@ -5366,137 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-10-05T02:03:20.597064+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss"
-  },
-  {
-    "id": "dd03d536680f",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T23:52",
-    "headline": "Israel face spitting allegation as Ireland boss ‘delighted’ after ties over",
-    "excerpt": "Ireland manager says &#039;disciplinary committee will look at&#039; allegations Israel player spat at one of his coaching staff.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-05T02:03:20.597106+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss"
-  },
-  {
-    "id": "3b3cc178f306",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T22:23",
-    "headline": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
-    "excerpt": "The abrupt redeployment to the US comes after several &#039;terrorism-related&#039; arrests were made outside RAF Fairford.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-10-04T23:12:42.353836+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss"
-  },
-  {
-    "id": "9a65b96370a0",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T21:30",
-    "headline": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
-    "excerpt": "Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-04T23:12:42.353887+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss"
-  },
-  {
-    "id": "1b259ae1cb27",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T20:38",
-    "headline": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
-    "excerpt": "Israel&#039;s president declared that the &#039;antisemitic lie&#039; deliberately endangers Jews and Israelis.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-10-04T23:12:42.353933+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss"
-  },
-  {
-    "id": "dfc9b1010cd2",
-    "source": "PressTV",
-    "date": "2026-10-04T23:12",
-    "headline": "Iran summons Norwegian envoy over US weaponization of Starlink for subversion",
-    "excerpt": "Norway was criticized for failing to fulfill its obligations as the registering state for the Starlink network at the International Telecommunication Union (ITU).",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-04T23:12:44.314827+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777633/Iran-summons-Norwegian-envoy-over-US-weaponization-of-Starlink-for-subversion"
-  },
-  {
-    "id": "3cfb7b4a4237",
-    "source": "PressTV",
-    "date": "2026-10-04T23:12",
-    "headline": "US forces fled over 1,000 km from Iranian borders, says top IRGC commander",
-    "excerpt": "Fadavi said the United States has failed to achieve any of its objectives in the war.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-04T23:12:44.314860+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777632/US-forces-fled-over-1000-km-from-Iranian-borders-says-top-IRGC-commander-"
-  },
-  {
-    "id": "14c1b7b2547d",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T18:47",
-    "headline": "War on Iran: Is escalation more likely than a deal?",
-    "excerpt": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-04T20:03:34.623682+00:00",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss"
-  },
-  {
-    "id": "a31ed9e53586",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T17:53",
-    "headline": "Police investigating Flydubai co-pilot’s Australia ties",
-    "excerpt": "Australian police and intelligence join the list of those probing the incident.",
-    "category": "Other",
-    "location": "Dubai",
-    "addedAt": "2026-10-04T20:03:34.623740+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss"
-  },
-  {
-    "id": "dc5b5881baf0",
-    "source": "Al Jazeera",
-    "date": "2026-10-04T17:17",
-    "headline": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
-    "excerpt": "Trilateral talks could happen this month in UAE or another US-proposed venue, says the president.",
-    "category": "Diplomatic",
-    "location": "Uae",
-    "addedAt": "2026-10-04T20:03:34.623776+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss"
-  },
-  {
-    "id": "d77298d46540",
-    "source": "PressTV",
-    "date": "2026-10-04T20:03",
-    "headline": "Iran’s oil minister resigns, NIOC chief appointed caretaker",
-    "excerpt": "Iran’s president appoints the NIOC chief as caretaker oil minister after accepting Paknejad’s resignation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-04T20:03:36.677166+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777627/Iran-oil-minister-Paknejad-resignation"
-  },
-  {
-    "id": "92317422fa24",
-    "source": "PressTV",
-    "date": "2026-10-04T20:03",
-    "headline": "Pezeshkian: Asian Games success reflects Iranian youth’s will to boost national unity",
-    "excerpt": "President Pezeshkian says the success of Iranian athletes and Olympiad students reflects the determination, hope and capabilities of the country’s youth.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-04T20:03:36.677213+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777624/Iran-Pezeshkian-Asia-Games"
-  },
-  {
-    "id": "df33fd326f3d",
-    "source": "PressTV",
-    "date": "2026-10-04T20:03",
-    "headline": "Stone Industry: Revealing another layer of strength in Iran’s economy",
-    "excerpt": "Iran’s stone industry is another underreported sector demonstrating the depth of an economy whose foundations are far more formidable than often assumed.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-04T20:03:36.677257+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777594/Stone-Industry-Revealing-another-layer-of-strength-in-Iran-s-economy"
   }
 ]
