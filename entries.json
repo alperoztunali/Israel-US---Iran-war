@@ -1,5 +1,93 @@
 [
   {
+    "id": "7039ca060c0e",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T04:43",
+    "headline": "Israel has detained more than 2,000 Palestinian children since 2023: report",
+    "excerpt": "At least 350 Palestinian children currently face &#039;harsh conditions&#039; in Israeli prisons.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-15T05:46:30.348737+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss"
+  },
+  {
+    "id": "83092130acb1",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T03:30",
+    "headline": "Albanian Ministry of Justice on fire as education protesters riot",
+    "excerpt": "Hundreds of students joined anti-government protests in Tirana, demanding education reforms.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-15T05:46:30.348771+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss"
+  },
+  {
+    "id": "8d6b6055cea7",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T03:28",
+    "headline": "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
+    "excerpt": "Saudi national Abdulrahman Alfozan was due to fly to Saudi Arabia on October 12, US prosecutors say in court filing.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-15T05:46:30.348793+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia?traffic_source=rss"
+  },
+  {
+    "id": "7e4114e14d41",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T03:23",
+    "headline": "North Korea tests two submarine-launched missiles, state media reports",
+    "excerpt": "The tests showcase North Korea&#039;s war deterrent capabilities in the region, KCNA says.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-15T05:46:30.348809+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss"
+  },
+  {
+    "id": "fed14464d15e",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T01:20",
+    "headline": "Ship catches fire in Romania’s waters amid rising attacks in the Black Sea",
+    "excerpt": "Authorities are investigating whether drones may have been involved in the latest incident.",
+    "category": "Missile/Drone",
+    "location": "Oman",
+    "addedAt": "2026-10-15T05:46:30.348828+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss"
+  },
+  {
+    "id": "c006156d4e00",
+    "source": "PressTV",
+    "date": "2026-10-15T05:46",
+    "headline": "Parliament speaker mocks US economic forecasts for Iran as American inflation rises to 3.7%",
+    "excerpt": "Iran’s Parliament speaker mocks so-called American economic forecasts for the Islamic Republic, pointing to rising American inflation.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-10-15T05:46:32.564723+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778341/Iran-United-States-economy-forecasts-inflation-Qalibaf-Hormuz"
+  },
+  {
+    "id": "d6a3d35e3150",
+    "source": "PressTV",
+    "date": "2026-10-15T05:46",
+    "headline": "Police clash with protesters as Madrid teachers strike over pay, workload, and funding",
+    "excerpt": "Police clashed with protesters at Madrid's Complutense University as teachers rallied in the central Puerta del Sol square on Wednesday.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-15T05:46:32.564771+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778340/Police-clash-with-protesters-as-Madrid-teachers-strike-over-pay,-workload-and-funding"
+  },
+  {
+    "id": "5483769f7dfd",
+    "source": "PressTV",
+    "date": "2026-10-15T05:46",
+    "headline": "National strike by public sector workers in Ireland paralyzes parliament",
+    "excerpt": "A national strike by public sector workers in Ireland paralyzed parliament proceedings.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-15T05:46:32.564798+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778338/National-strike-by-public-sector-workers-in-Ireland-paralyses-parliament-and-includes-300,000-workers"
+  },
+  {
     "id": "442df5e4880e",
     "source": "Al Jazeera",
     "date": "2026-10-15T00:00",
@@ -5410,93 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-10-04T12:32:05.177713+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/04/777587/Reusing-soil-for-attacks-will-bring-different-response-Iran-warns-neighbors"
-  },
-  {
-    "id": "4fcadb8077c4",
-    "source": "PressTV",
-    "date": "2026-10-04T12:32",
-    "headline": "Iran’s Army will upgrade missiles, increase their range, speed: Spokesman",
-    "excerpt": "The Islamic Republic of Iran Army announces plans to upgrade all of its missiles and increase their range and speed.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-10-04T12:32:05.177744+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777586/Iran-Army-increase-missile-range-speed"
-  },
-  {
-    "id": "829653c6f845",
-    "source": "PressTV",
-    "date": "2026-10-04T12:32",
-    "headline": "Araghchi: Iran will respond more forcefully to any renewed aggression",
-    "excerpt": "Araghchi has warned that Iran will deliver a stronger response than before to any renewed military aggression.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-10-04T12:32:05.177772+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777581/Iran%E2%80%99s-response-to-any-military-aggression-will-be-stronger-than-before,-Araghchi-warns"
-  },
-  {
-    "id": "1e45d6791eaf",
-    "source": "PressTV",
-    "date": "2026-10-04T12:32",
-    "headline": "US claim of ‘kicking out’ Iranian diplomats oozes desperation, defeat: Iran FM",
-    "excerpt": "Araghchi rejected a US claim that Iranian diplomats attending the United Nations General Assembly were expelled from the United States.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-04T12:32:05.177803+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777591/US-claim-kicking-out-Iranian-diplomats-oozes-desperation-defeat-Iran-FM"
-  },
-  {
-    "id": "a7b88e611572",
-    "source": "PressTV",
-    "date": "2026-10-04T12:32",
-    "headline": "‘Hormuz closed until conditions met’: Iran parl. speaker dismisses US psychological warfare",
-    "excerpt": "The Speaker of the Iranian Parliament explained that Washington is employing classic cognitive-battlefield tactics to sow confusion.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-04T12:32:05.177836+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777577/Hormuz-closed-until-conditions-met-Iran-parl-speaker-dismisses-US-psychological-warfare-as-vain-illusion"
-  },
-  {
-    "id": "8375075ad81e",
-    "source": "PressTV",
-    "date": "2026-10-04T12:32",
-    "headline": "Portuguese prosecutors probe US use of Lajes base during war on Iran",
-    "excerpt": "Portuguese prosecutors launch a probe into the US military's use of Lajes airbase during the war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-04T12:32:05.177860+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777592/Portuguese-prosecutors-probe-US-military-use-of-Lajes-airbase-during-war-on-Iran"
-  },
-  {
-    "id": "ff4fab982d5d",
-    "source": "PressTV",
-    "date": "2026-10-04T12:32",
-    "headline": "Israeli forces abduct two Palestinian journalists in West Bank amid crackdown",
-    "excerpt": "Israeli forces have abducted two Palestinian journalists in the West Bank amid ongoing heavy-handed crackdown in the occupied territory.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-04T12:32:05.177881+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777583/Israeli-forces-abduct-two-Palestinian-journalists-in-occupied-West-Bank-amid-crackdown"
-  },
-  {
-    "id": "ab0af053df38",
-    "source": "PressTV",
-    "date": "2026-10-04T12:32",
-    "headline": "Asian Games 2026: Iran expands its golden footprint as new stars rise and women make history",
-    "excerpt": "Iran finished the Aichi-Nagoya Asian Games sixth overall with 19 golds and 52 medals, combining dominant wrestling, weightlifting and taekwondo performances with major breakthroughs across women’s sport and emerging disciplines.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-04T12:32:05.177917+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777572/asian-games-2026-iran-expands-golden-footprint-new-stars-rise-women-make-history"
-  },
-  {
-    "id": "54a6d30a1462",
-    "source": "PressTV",
-    "date": "2026-10-04T12:32",
-    "headline": "Parliament speaker, Judiciary chief felicitate Iranian athletes over Asian Games achievements",
-    "excerpt": "Qalibaf and Mohseni Ejei congratulate Iranian athletes on their brilliant performance at the 20th Asian Games in Japan.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-04T12:32:05.177943+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777579/Iran-officials-felicitate-athletes-achievements-Asian-Games"
   }
 ]
