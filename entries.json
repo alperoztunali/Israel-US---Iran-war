@@ -1,5 +1,60 @@
 [
   {
+    "id": "d02c5fae0daf",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T21:57",
+    "headline": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+    "excerpt": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-10-15T22:36:41.541033+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss"
+  },
+  {
+    "id": "9b28320d4912",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T21:05",
+    "headline": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
+    "excerpt": "An Israeli spyware disguised as a digital advertisement firm has targeted journalists’ devices at Al Jazeera.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-15T22:36:41.541085+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss"
+  },
+  {
+    "id": "931c101e1fee",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T20:29",
+    "headline": "At least 7 crew members missing after drone attacks on ships in Black Sea",
+    "excerpt": "Emergency teams are searching for 7 missing crew after two chemical tankers were attacked in the Black Sea.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-15T22:36:41.541105+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss"
+  },
+  {
+    "id": "e11897e611d3",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T20:13",
+    "headline": "Why are migrants risking their lives at sea to reach Yemen?",
+    "excerpt": "Al Jazeera’s Al Anoud Al Aqeedi explains why migrants are risking their lives to make the journey to Yemen.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-15T22:36:41.541129+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss"
+  },
+  {
+    "id": "282472d1dea4",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T19:44",
+    "headline": "Will Israeli voters punish Benjamin Netanyahu?",
+    "excerpt": "Netanyahu is reported to have received warnings before October 7, 2023, but failed to act on time.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-15T22:36:41.541147+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss"
+  },
+  {
     "id": "8f241f6626b7",
     "source": "Al Jazeera",
     "date": "2026-10-15T17:43",
@@ -5443,60 +5498,5 @@
     "location": "Oman",
     "addedAt": "2026-10-05T09:07:47.663043+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss"
-  },
-  {
-    "id": "335099dd9c91",
-    "source": "Al Jazeera",
-    "date": "2026-10-05T03:11",
-    "headline": "Yemen gov’t forces commence major combat operation against Houthis",
-    "excerpt": "Yemeni government forces have declared a ‘battle for liberation’ to retake remaining territory held by the Houthis.",
-    "category": "Movement",
-    "location": "Yemen",
-    "addedAt": "2026-10-05T09:07:47.663072+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss"
-  },
-  {
-    "id": "c936f15a019a",
-    "source": "Al Jazeera",
-    "date": "2026-10-05T02:28",
-    "headline": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
-    "excerpt": "Ireland and Israel drew 1-1 in a second ill-tempered Nations League match.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-05T09:07:47.663103+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw?traffic_source=rss"
-  },
-  {
-    "id": "a3d6131567d4",
-    "source": "PressTV",
-    "date": "2026-10-05T09:07",
-    "headline": "World Teachers’ Day: Iranian teachers turn war-torn classrooms into symbols of courage, resilience",
-    "excerpt": "Iranian teachers endured US-Israeli bombardment, loss, displacement, and grief while continuing to educate children, transforming classrooms into spaces of resilience, remembrance, and resistance.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-10-05T09:07:49.598218+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/05/777651/world-teachers-day-iranian-teachers-turn-war-torn-classrooms-symbols-courage-resilience"
-  },
-  {
-    "id": "3c9fec04b3fb",
-    "source": "PressTV",
-    "date": "2026-10-05T09:07",
-    "headline": "Two police officers killed in terrorist attack in southeastern Iran",
-    "excerpt": "Armed terrorists attack a police patrol in Iran’s southeastern Sistan and Baluchestan Province on Monday morning, killing two police officers and wounding another.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-10-05T09:07:49.598257+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/05/777647/Two-police-officers-killed-terrorist-attack-southeastern-Iran"
-  },
-  {
-    "id": "ad42a662b439",
-    "source": "Al Jazeera",
-    "date": "2026-10-05T00:00",
-    "headline": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
-    "excerpt": "Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-05T02:03:20.597064+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss"
   }
 ]
