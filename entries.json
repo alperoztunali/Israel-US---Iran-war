@@ -1,5 +1,27 @@
 [
   {
+    "id": "442df5e4880e",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T00:00",
+    "headline": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+    "excerpt": "Iran says it does not seek an endless war, but vows to fight until the US accepts its demands as ships sink in Hormuz.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-10-15T00:56:37.453357+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "342a4ca85b2c",
+    "source": "Al Jazeera",
+    "date": "2026-10-14T23:58",
+    "headline": "US destroys dhow suspected of Iranian command and control",
+    "excerpt": "The US says it destroyed an Iran-affiliated boat in the Gulf of Oman, accusing it of conducting surveillance.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-15T00:56:37.453386+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss"
+  },
+  {
     "id": "c3778fb05c34",
     "source": "Al Jazeera",
     "date": "2026-10-14T21:35",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-04T12:32:05.177943+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/04/777579/Iran-officials-felicitate-athletes-achievements-Asian-Games"
-  },
-  {
-    "id": "53e66ad95a44",
-    "source": "PressTV",
-    "date": "2026-10-04T12:32",
-    "headline": "Hezbollah MP: Beirut government must not deny Lebanese their right to self-defense",
-    "excerpt": "A senior Lebanese parliamentarian stresses that the Beirut government must not deny the nation’s right to self-defense if it can’t protect them against Israeli aggression.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-04T12:32:05.177976+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777570/Beirut-government-must-not-deny-Lebanese-nation-of-right-of-self-defense,-says-Lebanese-lawmaker"
-  },
-  {
-    "id": "ded25c2b8992",
-    "source": "PressTV",
-    "date": "2026-10-04T12:32",
-    "headline": "Russia issues warning to foreigners to leave Ukraine ahead of ‘massive retaliatory strikes’",
-    "excerpt": "The ministry declared that Moscow will continue to carry out “massive retaliatory strikes” targeting military facilities in Kiev and other Ukrainian cities.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-10-04T12:32:05.178016+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/04/777573/Russia-issues-urgent-warning-to-foreigners-to-leave-Ukraine-ahead-of-massive-retaliatory-strikes"
   }
 ]
