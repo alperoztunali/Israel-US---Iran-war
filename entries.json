@@ -1,5 +1,49 @@
 [
   {
+    "id": "a19d163c2078",
+    "source": "Al Jazeera",
+    "date": "2026-10-16T00:02",
+    "headline": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+    "excerpt": "Saudi Arabia calls Houthi attacks &#039;full-fledged war crimes&#039; while the US warns of possible attacks on Saudi airports.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-16T00:47:49.954408+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss"
+  },
+  {
+    "id": "bace0915b9ee",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T23:35",
+    "headline": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
+    "excerpt": "Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-10-16T00:47:49.954454+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss"
+  },
+  {
+    "id": "c4abc27e97de",
+    "source": "Al Jazeera",
+    "date": "2026-10-15T22:51",
+    "headline": "At least 4, including 3 children, killed in US elementary school shooting",
+    "excerpt": "Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-16T00:47:49.954484+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss"
+  },
+  {
+    "id": "196ff2f88e5a",
+    "source": "PressTV",
+    "date": "2026-10-16T00:47",
+    "headline": "Iran embassy rejects ‘baseless, spiteful’ claims linking Tehran to hijab ban protests in Azerbaijan",
+    "excerpt": "Iran’s embassy in Baku says baseless claims linking Tehran to protests in Azerbaijan over a hijab ban in schools aim to sow discord between the two neighboring countries.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-10-16T00:47:52.138695+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778359/Iran-Azerbaijan-hijab-ban"
+  },
+  {
     "id": "d02c5fae0daf",
     "source": "Al Jazeera",
     "date": "2026-10-15T21:57",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-05T18:30:12.914216+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/05/777663/Israeli-strikes,-military-movements-in-southern-Lebanese-village"
-  },
-  {
-    "id": "0b6ccf46ba63",
-    "source": "Al Jazeera",
-    "date": "2026-10-05T08:20",
-    "headline": "Pakistan installs fishing nets at security outposts to block drone attacks",
-    "excerpt": "Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-05T09:07:47.662899+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss"
-  },
-  {
-    "id": "487768db144c",
-    "source": "Al Jazeera",
-    "date": "2026-10-05T05:20",
-    "headline": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
-    "excerpt": "IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-05T09:07:47.662960+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss"
-  },
-  {
-    "id": "67287a803a2b",
-    "source": "Al Jazeera",
-    "date": "2026-10-05T05:12",
-    "headline": "Who were the top teen athletes at the Asian Games?",
-    "excerpt": "China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-05T09:07:47.663000+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss"
-  },
-  {
-    "id": "0f2323a8e18d",
-    "source": "Al Jazeera",
-    "date": "2026-10-05T04:13",
-    "headline": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
-    "excerpt": "A California woman allegedly sent photos and videos of President Lai&#039;s son and his family to Chinese officials.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-10-05T09:07:47.663043+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss"
   }
 ]
