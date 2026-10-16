@@ -1,5 +1,49 @@
 [
   {
+    "id": "176afe93dfe8",
+    "source": "Al Jazeera",
+    "date": "2026-10-16T21:08",
+    "headline": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+    "excerpt": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here&#039;s how it works.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-16T21:45:24.200830+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss"
+  },
+  {
+    "id": "58434bd89fa9",
+    "source": "Al Jazeera",
+    "date": "2026-10-16T20:37",
+    "headline": "Food affordability fears plague Gaza as Israel halts commercial goods",
+    "excerpt": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-16T21:45:24.200868+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss"
+  },
+  {
+    "id": "b1c394b14fdc",
+    "source": "Al Jazeera",
+    "date": "2026-10-16T18:21",
+    "headline": "How Iran messaging highlights cost of war ahead of US midterm elections",
+    "excerpt": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-10-16T21:45:24.200889+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss"
+  },
+  {
+    "id": "b6833748a55d",
+    "source": "PressTV",
+    "date": "2026-10-16T21:45",
+    "headline": "Iran exports LPG, jet fuel despite US naval blockade: Report",
+    "excerpt": "A report says Iran has managed to export liquefied petroleum gas and jet fuel, despite a US naval blockade which was re-imposed in July.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-10-16T21:45:27.874927+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/16/778479/Iran-exports-LPG-jet-fuel-despite-US-blockade"
+  },
+  {
     "id": "68b04eb8ce0f",
     "source": "Al Jazeera",
     "date": "2026-10-16T17:59",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-06T19:06:40.866401+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/06/777745/Weapons-production-capacity-reaches-2-5-times-pre-war-level--Iran-defense-spokesman"
-  },
-  {
-    "id": "1183ca91d1ef",
-    "source": "PressTV",
-    "date": "2026-10-06T19:06",
-    "headline": "US will fail in economic war against Iran as it did in military war: Iran’s security chief",
-    "excerpt": "The secretary of Iran’s Supreme National Security Council (SNSC) says the United States will definitely fail in its economic war against Iran, just as it failed to achieve its objectives through military aggression against the Islamic Republic.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-06T19:06:40.866440+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/06/777744/us-will-fail-in-economic-war-against-iran-as-it-did-in-military-war-iran-security-chief"
-  },
-  {
-    "id": "77b20ef445db",
-    "source": "PressTV",
-    "date": "2026-10-06T19:06",
-    "headline": "From ‘peaceful uprising’ to ‘urban violence’: Tehran slams France’s ‘double standards’",
-    "excerpt": "Iran has questioned France’s response to the nationwide student protests, accusing Paris of applying double standards to the right to protest and human rights.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-06T19:06:40.866473+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/06/777740/tehran-questions-paris-if-right-to-protest-is-universal-why-does-france-change-its-standards"
-  },
-  {
-    "id": "c0d7ad9aff37",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T12:42",
-    "headline": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
-    "excerpt": "Russia says 290 drones targeted Moscow and nearby regions in the overnight Ukrainian assault.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-06T13:40:25.009626+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss"
-  },
-  {
-    "id": "5ad5f318781e",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T12:22",
-    "headline": "Mapping where US bombers are based globally",
-    "excerpt": "The US has pulled its B-1 bombers from RAF Fairford amid Iran fears. Here&#039;s where else they can fly from.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-10-06T13:40:25.009652+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/6/mapping-where-us-bombers-are-based-around-the-world?traffic_source=rss"
   }
 ]
