@@ -1,5 +1,137 @@
 [
   {
+    "id": "a538c7f3420a",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T12:10",
+    "headline": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+    "excerpt": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-10-17T12:49:26.867765+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss"
+  },
+  {
+    "id": "db226ddabbf8",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T11:22",
+    "headline": "Russian strikes kill civilians, injure dozens across Ukraine",
+    "excerpt": "At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T12:49:26.867812+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "1664d398a117",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T11:10",
+    "headline": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+    "excerpt": "Analysts say Russia will benefit most from US sanctions waiver.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T12:49:26.867858+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss"
+  },
+  {
+    "id": "15c49b9788bc",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T10:12",
+    "headline": "Solar power booms in Philippines as war on Iran spikes energy costs",
+    "excerpt": "With Southeast Asia&#039;s largest electricity bills rising even higher, Filipinos invest in rooftop panels.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-17T12:49:26.867894+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss"
+  },
+  {
+    "id": "2b808433a6b1",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T09:47",
+    "headline": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
+    "excerpt": "Hospitals across the occupied West Bank have been hit by a funding shortage.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-17T12:49:26.867933+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss"
+  },
+  {
+    "id": "4909c01f6d5d",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T09:44",
+    "headline": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
+    "excerpt": "Rapid Support Forces accuse army of killing 30 civilians in attack on Nyala&#039;s busy livestock market.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T12:49:26.867969+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss"
+  },
+  {
+    "id": "00d3ed1118c8",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T09:16",
+    "headline": "Houthis strike Yemen’s Aden: What that means",
+    "excerpt": "What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-17T12:49:26.868007+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss"
+  },
+  {
+    "id": "8f9acfc23b03",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T08:40",
+    "headline": "Murder in Malaysia: Justice for Altantuya Shaariibuu",
+    "excerpt": "101 East investigates if power and politics are shielding those behind the 2006 murder of a Mongolian woman in Malaysia.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-10-17T12:49:26.868053+00:00",
+    "link": "https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss"
+  },
+  {
+    "id": "ba74412d4c9b",
+    "source": "PressTV",
+    "date": "2026-10-17T12:49",
+    "headline": "What the ruins of a building reveal about Iran’s medical breakthroughs",
+    "excerpt": "Iran’s scientific achievements in plasma medicine and pharmaceutical manufacturing have become targets of enemy hostility toward every pillar of the country’s strength, particularly public health and technological progress.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-17T12:49:28.703230+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/17/778533/What-the-ruins-of-a-building-reveal-about-Iran-s-medical-breakthroughs"
+  },
+  {
+    "id": "a60cbb0cca2f",
+    "source": "PressTV",
+    "date": "2026-10-17T12:49",
+    "headline": "Another ‘violating’ oil tanker catches fire near Strait of Hormuz:  Iran’s army",
+    "excerpt": "The Iranian Army's Navy says another “violating” oil tanker have caught fire in the Sea of Oman, east of the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-10-17T12:49:28.703277+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/16/778456/violating-oil-tanker-catches-fire-near-Strait-of-Hormuz"
+  },
+  {
+    "id": "4ba7e00865be",
+    "source": "PressTV",
+    "date": "2026-10-17T12:49",
+    "headline": "Leader: Global arrogance seeks to inflict suffering on Iran, resistant nations",
+    "excerpt": "Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei says the “malicious network of global arrogance” is sparing no effort to inflict injustice and suffering on free and resistant nations, particularly Iran, including through restrictions on medical treatment and medicines.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-17T12:49:28.703320+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/16/778448/Leader--Global-arrogance-seeks-to-inflict-suffering-on-Iran,-resistant-nations"
+  },
+  {
+    "id": "8fdaa377e7e5",
+    "source": "PressTV",
+    "date": "2026-10-17T12:49",
+    "headline": "Army chief: Strait of Hormuz stays closed until enemy respects Iranian nation’s rights",
+    "excerpt": "Major General Amir Hatami said that the Strait of Hormuz ​​​​​​is under the complete supervision of Iran’s armed forces.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-17T12:49:28.703353+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/16/778417/Army-chief--Strait-of-Hormuz-stays-closed-until-enemy-respects-Iranian-nation%E2%80%99s-rights"
+  },
+  {
     "id": "00eb75e01b9f",
     "source": "Al Jazeera",
     "date": "2026-10-17T07:17",
@@ -5366,137 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-07T09:07:44.493154+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss"
-  },
-  {
-    "id": "811d26798f42",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T04:00",
-    "headline": "What Israeli schools teach",
-    "excerpt": "What Israeli schools teach",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T09:07:44.493168+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss"
-  },
-  {
-    "id": "1ec6bb3963b1",
-    "source": "PressTV",
-    "date": "2026-10-07T09:09",
-    "headline": "‘Beginning of Zionism's end’: IRGC says Israeli invincibility myth ‘shattered forever’ after Oct 7",
-    "excerpt": "The statement recalled his description of Al-Aqsa Flood as a \"future-making event\" that cemented the path toward the definitive decline of the Zionist entity.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-10-07T09:09:26.711037+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/06/777769/Beginning-of-end-of-Zionism-IRGC-marks-3rd-anniversary-of-Al-Aqsa-Flood-declares-myth-of-Israeli-invincibility-shattered-forever"
-  },
-  {
-    "id": "36fd126d4847",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T01:20",
-    "headline": "Syrian embassy returns seized passport after 43 years",
-    "excerpt": "Syria&#039;s embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-10-07T02:25:06.804028+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss"
-  },
-  {
-    "id": "f7b84fe516fe",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T01:07",
-    "headline": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
-    "excerpt": "Both Democrats and Republicans have expressed outrage at Trump&#039;s remarks that cities could be sacrificed in Iran war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-07T02:25:06.804078+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss"
-  },
-  {
-    "id": "25e8ef1262d6",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T00:58",
-    "headline": "What’s behind Israel’s growing shift to the right?",
-    "excerpt": "Three years after the October 7 attacks, the politics of Israeli society has shifted further right.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T02:25:06.804108+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss"
-  },
-  {
-    "id": "63f1a09bb9e7",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T00:35",
-    "headline": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
-    "excerpt": "The mountainous district is key to control of Mocha, the Red Sea port the Houthis seized last month.",
-    "category": "Movement",
-    "location": "Yemen",
-    "addedAt": "2026-10-07T02:25:06.804130+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss"
-  },
-  {
-    "id": "c34d07dd0022",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T00:26",
-    "headline": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
-    "excerpt": "At least 10 civilians were killed in West Kordofan and 5,500 displaced in Blue Nile as clashes widened on Tuesday.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-07T02:25:06.804159+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss"
-  },
-  {
-    "id": "f5e2cc738911",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T00:00",
-    "headline": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
-    "excerpt": "Yemeni forces claim they have tightened control over the highest peak in the Jabal Habashi district of Taiz.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-07T02:25:06.804184+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss"
-  },
-  {
-    "id": "06fcbca1177f",
-    "source": "PressTV",
-    "date": "2026-10-07T02:25",
-    "headline": "‘Iran’s economy will not break’: Central Bank governor vows resilience against US economic warfare",
-    "excerpt": "Hemmati emphasized that the CBI has successfully prevented the economic collapse that US planners had anticipated.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-07T02:25:08.829181+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/06/777772/Iran-economy-will-not-break-Central-Bank-governor-vows-resilience-against-US-economic-warfare"
-  },
-  {
-    "id": "a58b9afc3291",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T21:57",
-    "headline": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
-    "excerpt": "Saudi Arabia’s Jazan and Najran airports were attacked as Saudi-led gov’t forces launched air strikes on the Houthis.",
-    "category": "Airstrike",
-    "location": "Yemen",
-    "addedAt": "2026-10-06T23:04:55.881847+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss"
-  },
-  {
-    "id": "4ba3b11e467a",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T21:28",
-    "headline": "US arrests suspect in connection with Tumbler Ridge school shooting",
-    "excerpt": "The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-06T23:04:55.881885+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss"
-  },
-  {
-    "id": "caffcf118c96",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T21:20",
-    "headline": "Tokyo protests US military presence after Okinawa killing",
-    "excerpt": "Protesters rallied outside the US Embassy in Tokyo after a US Marine was arrested for the killing of a 39-year-old woman",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-10-06T23:04:55.881911+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss"
   }
 ]
