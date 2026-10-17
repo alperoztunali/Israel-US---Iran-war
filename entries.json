@@ -1,5 +1,82 @@
 [
   {
+    "id": "0c7a41a5d049",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T20:50",
+    "headline": "Ten killed in fire at beach resort in Bangladesh",
+    "excerpt": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T20:59:57.983296+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss"
+  },
+  {
+    "id": "eb0350cdf06a",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T20:02",
+    "headline": "Iranian TV airs video said to show tanker explosion in Hormuz",
+    "excerpt": "Iranian state TV aired footage claiming to  show an oil tanker exploding after striking a naval mine in Hormuz",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-10-17T20:59:57.983338+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "79b362af0c0c",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T19:48",
+    "headline": "At least 17 killed in stampede at religious gathering in India",
+    "excerpt": "Incident took place at festival in north Kolkata, in India&#039;s West Bengal state, amid big crowds and rainfall, police said.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T20:59:57.983372+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss"
+  },
+  {
+    "id": "32da33048cd7",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T19:26",
+    "headline": "Albanian police fire rubber bullets as protests against Rama escalate",
+    "excerpt": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama&#039;s resignation.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-17T20:59:57.983406+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss"
+  },
+  {
+    "id": "3f75a3b25fdf",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T18:41",
+    "headline": "Is the US Embassy in Jerusalem for Israel or America?",
+    "excerpt": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-17T20:59:57.983431+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss"
+  },
+  {
+    "id": "2fe87018721d",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T18:26",
+    "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+    "excerpt": "Attacks hit several areas as UNICEF reports more than 340 children killed since &#039;ceasefire&#039; began a year ago.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-10-17T20:59:57.983462+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "3237c298312a",
+    "source": "PressTV",
+    "date": "2026-10-17T21:00",
+    "headline": "IRGC: Only a ‘barbaric civilization’ names its heaviest bomb ‘Mother’",
+    "excerpt": "A spokesman for the IRGC says only a savage civilization would use the sacred word “mother” for its heaviest bomb.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T21:00:00.015342+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/17/778568/Iran-IRGC-spokesman-mother"
+  },
+  {
     "id": "f04897173d4b",
     "source": "Al Jazeera",
     "date": "2026-10-17T17:24",
@@ -5421,82 +5498,5 @@
     "location": "Saudi Arabia",
     "addedAt": "2026-10-07T16:32:25.333953+00:00",
     "link": "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss"
-  },
-  {
-    "id": "dba145679d0e",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T12:39",
-    "headline": "Israeli soldier assaults Palestinian woman in occupied West Bank",
-    "excerpt": "An Israeli soldier was filmed assaulting a Palestinian woman during a raid on a family home in the occupied West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T16:32:25.333978+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-soldier-assaults-palestinian-woman-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "d50305098aa5",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T12:38",
-    "headline": "Palestinian killed, 16 wounded in Israeli pogrom in occupied West Bank",
-    "excerpt": "A 44-year-old Palestinian man was killed during Israeli settler assaults on olive harvesters in the West Bank.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-07T16:32:25.334005+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/palestinian-killed-several-injured-in-israeli-pogrom-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "61e3e7991ee5",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T12:09",
-    "headline": "South Korea’s military service exemption could be cut for athletes",
-    "excerpt": "South Korea’s military service exemption could be cut for athletes after backlash",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-07T16:32:25.334038+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/south-koreas-military-service-exemption-could-be-cut-for-athletes?traffic_source=rss"
-  },
-  {
-    "id": "1135e5a4ae5a",
-    "source": "PressTV",
-    "date": "2026-10-07T16:32",
-    "headline": "US seeks to destabilize Iran's internal security after failing in war: Qalibaf",
-    "excerpt": "Iranian Parliament speaker Mohammad Baqer Qalibaf says the United States is seeking to create insecurity in the Islamic Republic following its failure to harm Iran during its latest military aggression against the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-07T16:32:27.493347+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/07/777824/Qalibaf-US-seeking-to-undermine-Iran-security-"
-  },
-  {
-    "id": "588e3f708980",
-    "source": "PressTV",
-    "date": "2026-10-07T16:32",
-    "headline": "Putin praises Iran’s ‘epic steadfastness’ as Tehran, Moscow reaffirm strategic alliance",
-    "excerpt": "President Masoud Pezeshkian has held a phone conversation with Russian President Vladimir Putin, both sides expressing commitment to expanding strategic cooperation.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-07T16:32:27.493392+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/07/777826/putin-praises-iran-epic-steadfastness-as-tehran-moscow-reaffirm-strategic-alliance"
-  },
-  {
-    "id": "09118f55a2d8",
-    "source": "PressTV",
-    "date": "2026-10-07T16:32",
-    "headline": "Iran will support Resistance Front until liberation of al-Quds: Military chief",
-    "excerpt": "Iran will continue defending the Axis of Resistance unabated until the complete liberation of al-Quds, says the chief of staff of the Armed Forces of the Islamic Republic.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-07T16:32:27.493412+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/07/777821/iran-to-continue-supporting-resistance-until-liberation-of-al-quds-military-chief"
-  },
-  {
-    "id": "21dd30449b3a",
-    "source": "PressTV",
-    "date": "2026-10-07T16:32",
-    "headline": "Iran will launch ‘preemptive strikes’ if threatened: Army spokesman",
-    "excerpt": "Army spokesman Brigadier General Mohammad Akrami-Nia says a potential operation will be “more crushing, broader, more decisive, and faster.”",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-07T16:32:27.493439+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/07/777817/Iran-vows-%E2%80%98preemptive-strikes%E2%80%99-if-threatened-by-enemies"
   }
 ]
