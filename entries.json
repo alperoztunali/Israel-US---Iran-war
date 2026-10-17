@@ -1,5 +1,60 @@
 [
   {
+    "id": "3be51eef19c5",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T01:37",
+    "headline": "Healthcare crisis escalating in Yemen’s besieged Taiz",
+    "excerpt": "Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-17T04:38:28.075274+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss"
+  },
+  {
+    "id": "5730c4f5d64e",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T00:25",
+    "headline": "Oregon school shooter was former special needs student, police say",
+    "excerpt": "A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T04:38:28.075308+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss"
+  },
+  {
+    "id": "9f157b642953",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T00:00",
+    "headline": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
+    "excerpt": "Iran’s IRGC says an oil supertanker is on fire in the Strait of Hormuz after striking a naval mine.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-10-17T04:38:28.075327+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss"
+  },
+  {
+    "id": "485d4aed4ae1",
+    "source": "PressTV",
+    "date": "2026-10-17T04:38",
+    "headline": "Bombs, missiles cannot force Iranian nation to surrender: President Pezeshkian",
+    "excerpt": "President Pezeshkian says bombs and missiles cannot force Iran to surrender as the United States mounts rhetorical threats against the nation.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-10-17T04:38:30.939225+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778367/Iran-Pezeshkian-bombs-missiles-cannot-force-surrender"
+  },
+  {
+    "id": "d3060a918286",
+    "source": "PressTV",
+    "date": "2026-10-17T04:38",
+    "headline": "Devastated families mourn children killed by Pakistan school roof collapse",
+    "excerpt": "A school roof collapse in northwestern Pakistan killed 35 people, prompting a probe into building safety.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T04:38:30.939253+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/16/778487/Deadly-school-roof-collapse-claims-lives-in-Pakistan"
+  },
+  {
     "id": "3b123866fc12",
     "source": "Al Jazeera",
     "date": "2026-10-16T22:48",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-06T19:06:38.974635+00:00",
     "link": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss"
-  },
-  {
-    "id": "ea39a8de2df4",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T14:50",
-    "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-    "excerpt": "Bulgaria launches search operation after Togo-flagged Alfa Watan sinks at scene of attack.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-06T19:06:38.974663+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss"
-  },
-  {
-    "id": "d243087580f2",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T14:47",
-    "headline": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
-    "excerpt": "Former British consul Sir Vincent Fean says Israel is acting unlawfully in the wake of a new wave of sanctions.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-06T19:06:38.974690+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate?traffic_source=rss"
-  },
-  {
-    "id": "5dbe78df5e76",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T14:42",
-    "headline": "What new measures is Iran taking to counter US economic pressure?",
-    "excerpt": "Iran adopts a new arrangement to tackle economic challenges amid the US-imposed economic war and naval blockades.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-06T19:06:38.974713+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure?traffic_source=rss"
-  },
-  {
-    "id": "5bad76447e1e",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T14:42",
-    "headline": "In Gaza, we cannot even begin to recover from trauma",
-    "excerpt": "The genocide has killed many and left the rest broken. For us, survivors, recovery is not on the horizon.",
-    "category": "Casualties",
-    "location": "Gaza",
-    "addedAt": "2026-10-06T19:06:38.974734+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss"
-  },
-  {
-    "id": "64309af8d2f4",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T14:38",
-    "headline": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
-    "excerpt": "Energy Minister Prince Abdulaziz bin ⁠Salman says capacity restored after major attack last month.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-06T19:06:38.974767+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss"
   }
 ]
