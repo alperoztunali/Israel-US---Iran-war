@@ -1,5 +1,71 @@
 [
   {
+    "id": "e85cd7c69185",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T14:00",
+    "headline": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
+    "excerpt": "Egyptian president pledges &#039;any measure&#039; to help defend Saudi Arabia &#039;if it is requested of us&#039;.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-17T16:14:19.558476+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss"
+  },
+  {
+    "id": "e4e9b0baf25d",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T12:48",
+    "headline": "Child, four women among Palestinians injured in West Bank pogroms",
+    "excerpt": "Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T16:14:19.558513+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss"
+  },
+  {
+    "id": "a7cfa0209086",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T12:27",
+    "headline": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
+    "excerpt": "A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-17T16:14:19.558538+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss"
+  },
+  {
+    "id": "c69510b621ef",
+    "source": "PressTV",
+    "date": "2026-10-17T16:14",
+    "headline": "Discover Iran: Arak, a former military fortress that evolved into a major Iranian industrial center",
+    "excerpt": "Founded in 1808 as a planned military fortress, the city of Arak has evolved into a major Iranian industrial center, combining a historic bazaar, distinctive Qajar architecture, natural landmarks, and diverse strategic industries.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-17T16:14:21.516472+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/17/778527/discover-iran-arak-former-military-fortress-evolved-major-iranian-industrial-center"
+  },
+  {
+    "id": "69f891090dc6",
+    "source": "PressTV",
+    "date": "2026-10-17T16:14",
+    "headline": "Iran says ready to mediate Saudi-Yemen dispute, rejects allegations of involvement",
+    "excerpt": "Iran says it is ready to mediate between Saudi Arabia and Yemen if both sides request its assistance, while rejecting allegations of involvement in Yemeni military operations and calling for dialogue, respect for Yemen’s sovereignty and an end to the blockade.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-17T16:14:21.516528+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/16/778481/Iran-ready-mediate-Saudi-Yemen-conflict-rejects-involvement-allegation"
+  },
+  {
+    "id": "d7dff9ab2fb7",
+    "source": "PressTV",
+    "date": "2026-10-17T16:14",
+    "headline": "Pezeshkian: US sanctions ‘inhumane,’ Iran will not bow to pressure",
+    "excerpt": "The Iranian president says inhumane US sanctions will fail to bring Iran to its knees.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-17T16:14:21.516551+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/16/778470/Iran-Armenia-Georgia-Pezeshkian"
+  },
+  {
     "id": "a538c7f3420a",
     "source": "Al Jazeera",
     "date": "2026-10-17T12:10",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-07T09:07:44.493016+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss"
-  },
-  {
-    "id": "f736639315e2",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T06:27",
-    "headline": "How has Israel’s genocide changed Gaza?",
-    "excerpt": "Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T09:07:44.493037+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss"
-  },
-  {
-    "id": "e19e3533ab23",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T06:19",
-    "headline": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
-    "excerpt": "Russia’s Defence Ministry says its forces carried out a &#039;massive strike&#039; on Kyiv and other Ukrainian regions.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-07T09:07:44.493061+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "cef8f4416874",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T06:15",
-    "headline": "Yemen’s displaced children dream of returning to school",
-    "excerpt": "More than 137,000 students in conflict zones lose access to education, deepening Yemen&#039;s already dire schooling crisis.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-07T09:07:44.493084+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss"
-  },
-  {
-    "id": "7924de887dda",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T05:41",
-    "headline": "How three years of Israel’s genocidal war have changed Gaza",
-    "excerpt": "War has devastated Gaza’s economy, education, healthcare, infrastructure and public services, transforming life.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T09:07:44.493113+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss"
-  },
-  {
-    "id": "c52f95b5449c",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T05:02",
-    "headline": "Three years of Israel’s genocide in Gaza: In numbers",
-    "excerpt": "Three years of attacks has devastated Gaza, killing tens of thousands, destroying homes, and collapsing basic services.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T09:07:44.493135+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss"
-  },
-  {
-    "id": "6253e1446d58",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T04:43",
-    "headline": "Israelis pause to mark October 7 Hamas-attack anniversary",
-    "excerpt": "Israelis gathered at memorials to mark the moment the Hamas-led attack began on October 7, 2023.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T09:07:44.493154+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss"
   }
 ]
