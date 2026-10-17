@@ -1,5 +1,82 @@
 [
   {
+    "id": "f04897173d4b",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T17:24",
+    "headline": "Trump faces bipartisan backlash over Russia sanctions waiver",
+    "excerpt": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T18:34:03.632505+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss"
+  },
+  {
+    "id": "c537b9c9be02",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T17:18",
+    "headline": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+    "excerpt": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-17T18:34:03.632549+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss"
+  },
+  {
+    "id": "7037237ff559",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T16:54",
+    "headline": "Why are Latin American countries building closer ties with Israel?",
+    "excerpt": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-17T18:34:03.632587+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss"
+  },
+  {
+    "id": "87c8004d1929",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T16:49",
+    "headline": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+    "excerpt": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-17T18:34:03.632628+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss"
+  },
+  {
+    "id": "840f0cc259fd",
+    "source": "PressTV",
+    "date": "2026-10-17T18:34",
+    "headline": "Iran: Palestinian rights must not be compromised; US, Israel to blame for Hormuz situation",
+    "excerpt": "Iranian envoy stresses that any arrangements for Gaza’s future must fully respect Palestinian rights, denouncing the US and the Israeli regime for the situation affecting the Strait of Hormuz.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-17T18:34:05.819366+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/17/778504/Iran-Gaza-future-Palestinian-rights-Hormuz-United-States-Israel"
+  },
+  {
+    "id": "a4465d8367a4",
+    "source": "PressTV",
+    "date": "2026-10-17T18:34",
+    "headline": "Super tanker explodes after hitting sea mine in Hormuz: IRGC",
+    "excerpt": "The vessel was attempting to cross the strait with the support and protection of the \"smuggler and terrorist army” of the United States.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T18:34:05.819411+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/17/778494/Super-tanker-explodes-after-hitting-Sea-Mine-in-Hormuz-IRGC"
+  },
+  {
+    "id": "1e42d9813b24",
+    "source": "PressTV",
+    "date": "2026-10-17T18:34",
+    "headline": "Popular rallies in Yemen’s Raymah affirm continued support for Palestine",
+    "excerpt": "Popular rallies in Yemen’s Raymah governorate reaffirmed support for Palestine and readiness to confront threats to the nation and its holy sites.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-17T18:34:05.819460+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/17/778545/Popular-rallies-in-Raymah-affirm-continued-support-for-Palestine-and-raising-readiness-to-confront-challenges"
+  },
+  {
     "id": "e85cd7c69185",
     "source": "Al Jazeera",
     "date": "2026-10-17T14:00",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-07T16:32:27.493439+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/07/777817/Iran-vows-%E2%80%98preemptive-strikes%E2%80%99-if-threatened-by-enemies"
-  },
-  {
-    "id": "fc18330d78a2",
-    "source": "PressTV",
-    "date": "2026-10-07T16:32",
-    "headline": "Former minister rejects Trump claim, says Iran's oil production, exports continue",
-    "excerpt": "Paknejad rejected Trump’s claim that he resigned because Iran had “no economy” and “no oil,” saying Iranian oil production and exports continued despite sanctions.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-07T16:32:27.493463+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/07/777808/Iran-former-oil-minister-rejects-Trump-claims-resignation-economy-pressure-oil-industry"
-  },
-  {
-    "id": "31c46634bfaf",
-    "source": "PressTV",
-    "date": "2026-10-07T16:32",
-    "headline": "Regional power shift underway, Hormuz emerging key strategic front: IRGC commander",
-    "excerpt": "A senior commander of the Islamic Revolution Guards Corps (IRGC) says the Persian Gulf can serve as the starting point for a new regional and global order.",
-    "category": "Other",
-    "location": "Persian Gulf",
-    "addedAt": "2026-10-07T16:32:27.493490+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/07/777803/Persian-Gulf-starting-point-new-regional-order--IRGC-commander"
-  },
-  {
-    "id": "870eb9b98527",
-    "source": "PressTV",
-    "date": "2026-10-07T16:32",
-    "headline": "US lost 81 aircraft worth up to $3.3 billion in war against Iran: Report",
-    "excerpt": "The US military lost or suffered damage to at least 81 aircraft, drones and helicopters since the war on Iran began, according to a report.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-10-07T16:32:27.493501+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/07/777794/US-military-loses-81-aircraft-worth--3-3-war-Iran--Report"
-  },
-  {
-    "id": "caa6fdd503c8",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T08:22",
-    "headline": "Three years of Israel’s mass dispossession of West Bank Palestinians",
-    "excerpt": "Bedouin families uprooted by Israeli settlers describe a state-backed project of forced transfer in the West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T09:07:44.492944+00:00",
-    "link": "https://www.aljazeera.com/features/2026/10/7/three-years-of-israels-mass-dispossession-of-west-bank-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "6be57f75a786",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T08:16",
-    "headline": "Israeli troops seen smashing memorial in occupied West Bank",
-    "excerpt": "An Israeli soldier was spotted smashing a memorial to Palestinians during raids in the occupied West Bank.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-07T09:07:44.492975+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-troops-seen-smashing-memorial-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "b9bc5fb90ae9",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T06:41",
-    "headline": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
-    "excerpt": "Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-10-07T09:07:44.492993+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss"
-  },
-  {
-    "id": "ca7e87a39912",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T06:33",
-    "headline": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
-    "excerpt": "Iran&#039;s oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-07T09:07:44.493016+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss"
   }
 ]
