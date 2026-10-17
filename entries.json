@@ -1,5 +1,137 @@
 [
   {
+    "id": "00eb75e01b9f",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T07:17",
+    "headline": "Israeli raids and arrests in southern Syria push population to the brink",
+    "excerpt": "Survivors recount brutal prison conditions, enduring beatings, restraints and psychological abuse by Israeli soldiers.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-17T08:49:46.516211+00:00",
+    "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss"
+  },
+  {
+    "id": "5d0e9daa69ed",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T06:41",
+    "headline": "Can Yemen’s government forces sustain their offensive against the Houthis?",
+    "excerpt": "Houthi missile strikes threaten key supply routes on Yemen&#039;s Red Sea coast, intensifying pressure on government forces.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-10-17T08:49:46.516240+00:00",
+    "link": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss"
+  },
+  {
+    "id": "d9837f1624d1",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T06:36",
+    "headline": "Ukraine and Europe have little choice but to work with Trump",
+    "excerpt": "Despite growing tensions over Russia, Kyiv and European leaders remain dependent on US support.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T08:49:46.516266+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss"
+  },
+  {
+    "id": "4b24fe65bcb0",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T05:19",
+    "headline": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+    "excerpt": "Russia strikes Kharkiv, Kramatorsk, Volyn and Rivne as Moscow presses its campaign against Ukraine&#039;s power grid.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T08:49:46.516291+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss"
+  },
+  {
+    "id": "43e0fd81fa4d",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T05:00",
+    "headline": "The Israeli politicians seeking to replace Netanyahu",
+    "excerpt": "A look at Israel&#039;s main opposition leaders, their parties and their largely shared positions on Gaza and other wars.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-17T08:49:46.516310+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss"
+  },
+  {
+    "id": "63eaceebd616",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T04:58",
+    "headline": "Trump waives Russia sanctions as rift with Zelenskyy widens",
+    "excerpt": "US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T08:49:46.516335+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss"
+  },
+  {
+    "id": "268c7c109183",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T04:45",
+    "headline": "Trump puts on hold new Russia sanctions he signed into law",
+    "excerpt": "US president&#039;s executive order comes two days before sanctions deadline and a week after diesel deal with Putin.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-17T08:49:46.516352+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss"
+  },
+  {
+    "id": "33d41fd6a589",
+    "source": "PressTV",
+    "date": "2026-10-17T08:49",
+    "headline": "Inside $2 trillion US digital footprint in West Asia: What could happen if Iran is attacked again",
+    "excerpt": "Iran has warned that further US aggression could put American data centers, AI facilities, and undersea cables across West Asia at risk, threatening billions in investments and regional digital connectivity.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-10-17T08:49:48.295759+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/14/778297/inside-america-2trillion-digital-footprint-west-asia-what-could-happen-iran-attacked-again"
+  },
+  {
+    "id": "f2588ef5690e",
+    "source": "PressTV",
+    "date": "2026-10-17T08:49",
+    "headline": "War on Iran has cost Europeans more than €100bn: Spain's Sanchez",
+    "excerpt": "Spanish Prime Minister Pedro Sanchez says the war on Iran has cost Europeans more than €100bn.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-17T08:49:48.295790+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/17/778510/Spanish-PM-Sanchez-Iran-war-cost-Europeans-more-than-%E2%82%AC100-billion"
+  },
+  {
+    "id": "a2b93e7aac7f",
+    "source": "PressTV",
+    "date": "2026-10-17T08:49",
+    "headline": "IRGC: Iran’s armed forces fully prepared on land, sea and air",
+    "excerpt": "​​​​​​​Major General Mostafa Izadi said that should the enemy attack the country, Iranian forces would stand firm until the end, drive the aggressors back, and never allow them to seize even a single inch of Iranian soil.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-17T08:49:48.295817+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778411/IRGC--Iran%E2%80%99s-armed-forces-fully-prepared-on-land,-sea-and-air"
+  },
+  {
+    "id": "1b3112f0cc6f",
+    "source": "PressTV",
+    "date": "2026-10-17T08:49",
+    "headline": "Iran condemns UK’s ‘grotesque reversal’ of victim and aggressor",
+    "excerpt": "Baghaei stated that the chaos engulfing West Asia is the direct consequence of unlawful interventions, including those backed or contributed to by the United Kingdom.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-17T08:49:48.295839+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778409/Iran-condemns-UK%E2%80%99s-%E2%80%98grotesque-reversal%E2%80%99-of-victim-and-aggressor-after-two-rounds-of-aggression"
+  },
+  {
+    "id": "454d4c6fba82",
+    "source": "PressTV",
+    "date": "2026-10-17T08:49",
+    "headline": "Army combat readiness makes enemy’s ground aggression ‘unattainable dream’: Commander",
+    "excerpt": "The Iranian Army’s Ground Force says the combat readiness of the Iranian Army has turned any attempt by the enemy to launch a ground aggression into an unattainable dream.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-17T08:49:48.295863+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/15/778394/Army-combat-readiness-makes-enemy-ground-aggression-unattainable-dream-Commander"
+  },
+  {
     "id": "3be51eef19c5",
     "source": "Al Jazeera",
     "date": "2026-10-17T01:37",
@@ -5366,137 +5498,5 @@
     "location": "Oman",
     "addedAt": "2026-10-06T23:04:55.881911+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss"
-  },
-  {
-    "id": "aeed14845774",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T20:42",
-    "headline": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
-    "excerpt": "Progressive US representatives seek to bring attention to Israeli abuse and detention of Palestinian medical worker.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-06T23:04:55.881930+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss"
-  },
-  {
-    "id": "7bc96da272af",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T20:07",
-    "headline": "Is there a MAGA after Trump?",
-    "excerpt": "From the Epstein files to the war on Iran, Josh Rushing examines the cracks forming within MAGA in Trump&#039;s second term.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-06T23:04:55.881947+00:00",
-    "link": "https://www.aljazeera.com/video/lets-focus/2026/10/6/is-there-a-maga-after-trump?traffic_source=rss"
-  },
-  {
-    "id": "8142c05f5476",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T19:43",
-    "headline": "Yemen’s government is on the attack against the Houthis. What has changed?",
-    "excerpt": "Yemeni forces are trying to reverse Houthi gains, aided by heavier air power and renewed international support.",
-    "category": "Movement",
-    "location": "Yemen",
-    "addedAt": "2026-10-06T23:04:55.881969+00:00",
-    "link": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss"
-  },
-  {
-    "id": "49dd5636ffb9",
-    "source": "PressTV",
-    "date": "2026-10-06T23:04",
-    "headline": "‘Beginning of end of Zionism’: IRGC says myth of Israeli invincibility ‘shattered forever’ after Al-",
-    "excerpt": "The statement recalled his description of Al-Aqsa Flood as a \"future-making event\" that cemented the path toward the definitive decline of the Zionist entity.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-10-06T23:04:57.987626+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/06/777769/Beginning-of-end-of-Zionism-IRGC-marks-3rd-anniversary-of-Al-Aqsa-Flood-declares-myth-of-Israeli-invincibility-shattered-forever"
-  },
-  {
-    "id": "5059e681d88b",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T18:25",
-    "headline": "Amid protests, Kosovo’s political deadlock raises prospect of new elections",
-    "excerpt": "Kosovo faces tensions as protests against former rebel leaders’ convictions coincide with the prospect of new elections.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-06T19:06:38.974389+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/6/amid-protests-kosovos-political-deadlock-raises-prospect-of-new-elections?traffic_source=rss"
-  },
-  {
-    "id": "f0ff892706c2",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T17:46",
-    "headline": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
-    "excerpt": "The Azawad Liberation Front said sustained air strikes by Malian troops and Russian allies forced its tactical retreat.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-10-06T19:06:38.974429+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali?traffic_source=rss"
-  },
-  {
-    "id": "731ac74fb4fd",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T17:39",
-    "headline": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
-    "excerpt": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-06T19:06:38.974467+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss"
-  },
-  {
-    "id": "aa1441ab7f37",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T17:34",
-    "headline": "Yemen’s Taiz residents fear food and fuel crisis amid fighting",
-    "excerpt": "Yemen’s Taiz residents fear food and fuel crisis amid fighting",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-06T19:06:38.974506+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/yemens-taiz-residents-fear-food-and-fuel-crisis-amid-fighting?traffic_source=rss"
-  },
-  {
-    "id": "2579b107cebd",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T16:53",
-    "headline": "Ship sinks off Bulgaria after drone attack in Black Sea",
-    "excerpt": "Ship sinks off Bulgaria after drone attack in Black Sea",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-06T19:06:38.974533+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss"
-  },
-  {
-    "id": "d37fda4bad31",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T16:46",
-    "headline": "What would it take for the Yemen offensive to succeed?",
-    "excerpt": "Territorial gains alone will not be enough to change the trajectory of the war.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-06T19:06:38.974568+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/10/6/what-would-it-take-for-the-yemen-offensive-to-succeed?traffic_source=rss"
-  },
-  {
-    "id": "811e87df4859",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T16:17",
-    "headline": "Is Europe preparing for a wider war with Russia?",
-    "excerpt": "A British war-game show simulating a Russian attack has drawn a nuclear warning from Moscow.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-06T19:06:38.974603+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss"
-  },
-  {
-    "id": "dd6254405348",
-    "source": "Al Jazeera",
-    "date": "2026-10-06T15:14",
-    "headline": "Birzeit University memorial destruction aims to crush Palestinian memory",
-    "excerpt": "Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-06T19:06:38.974635+00:00",
-    "link": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss"
   }
 ]
