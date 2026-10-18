@@ -1,5 +1,60 @@
 [
   {
+    "id": "20aaa9ae09d9",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T16:36",
+    "headline": "Trump endorses Netanyahu in Israeli legislative elections",
+    "excerpt": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a &#039;Strong, Brave, and Brilliant&#039; leader.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-18T17:28:35.131450+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss"
+  },
+  {
+    "id": "324f94b2b81a",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T16:25",
+    "headline": "French mayor attacked by settlers during occupied West Bank olive harvest",
+    "excerpt": "Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-18T17:28:35.131488+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss"
+  },
+  {
+    "id": "f2f1406d766d",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T15:10",
+    "headline": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+    "excerpt": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-10-18T17:28:35.131509+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "5a910edb46b4",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T15:08",
+    "headline": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
+    "excerpt": "Police crack down on hundreds of protesters in Albania&#039;s capital, using rubber bullets, water cannons and tear gas.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-18T17:28:35.131533+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss"
+  },
+  {
+    "id": "b863cb2bf64f",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T14:42",
+    "headline": "A timeline of West Bank attacks on Palestinians and foreign officials",
+    "excerpt": "Settler pogroms have escalated, coinciding with the annual olive harvest season in the occupied West Bank.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-18T17:28:35.131555+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss"
+  },
+  {
     "id": "70321da3a167",
     "source": "Al Jazeera",
     "date": "2026-10-18T13:37",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-08T15:25:52.028123+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded?traffic_source=rss"
-  },
-  {
-    "id": "9279078cc17b",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T12:44",
-    "headline": "Two killed after building partially collapses in Turkiye’s Istanbul",
-    "excerpt": "Eight survivors rescued from the rubble as fears of further collapse slow operations in Istanbul’s Maltepe district.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-08T15:25:52.028160+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss"
-  },
-  {
-    "id": "a9a591c08b0b",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T12:44",
-    "headline": "South Korea to recall Ukraine envoy in diplomatic row over POWs",
-    "excerpt": "South Korea recalls envoy from Kyiv amid diplomatic tensions over alleged transfer of North Korean soldiers to Seoul.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-08T15:25:52.028193+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/8/south-korea-recalls-envoy-to-kyiv-over-diplomatic-row-with-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "445dadcf6bfc",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T12:27",
-    "headline": "UK’s Burnham ‘open’ to Germany joining GCAP fighter jet programme",
-    "excerpt": "GCAP pact between the UK, Italy and Japan to build a new fighter jet welcomed Canada as an ‘observer&#039; in July",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-10-08T15:25:52.028231+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/8/uks-burnham-open-to-germany-joining-gcap-fighter-jet-programme?traffic_source=rss"
-  },
-  {
-    "id": "dffe5b750dce",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T12:02",
-    "headline": "Sri Lanka arrests ex-President Rajapaksa’s wife in graft case",
-    "excerpt": "Sri Lanka’s former first lady Shiranthi Rajapaksa, wife of Mahinda Rajapaksa, has been arrested in a corruption case.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-08T15:25:52.028266+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/sri-lanka-arrests-ex-president-rajapaksas-wife-in-graft-case?traffic_source=rss"
-  },
-  {
-    "id": "65456e475e19",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T11:59",
-    "headline": "Iraq devalues its currency but some MPs oppose it",
-    "excerpt": "MPs oppose dinar devaluation, citing increased living costs and financial strain on Iraq’s most vulnerable populations.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-10-08T15:25:52.028299+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/10/8/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it?traffic_source=rss"
   }
 ]
