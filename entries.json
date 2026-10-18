@@ -1,5 +1,27 @@
 [
   {
+    "id": "9c2fe58bc99f",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T21:10",
+    "headline": "Macron condemns violence after riots lead to looting and mass arrests",
+    "excerpt": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-18T21:54:50.863568+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss"
+  },
+  {
+    "id": "f0b956188b13",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T20:26",
+    "headline": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
+    "excerpt": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-18T21:54:50.863608+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss"
+  },
+  {
     "id": "0e6bd34defd2",
     "source": "Al Jazeera",
     "date": "2026-10-18T18:44",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-08T20:46:33.214189+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/08/777913/Leader-hails-FARAJA%E2%80%99s-role-in-maintaining-security-during-recent-wars"
-  },
-  {
-    "id": "6e3b22d04e6d",
-    "source": "PressTV",
-    "date": "2026-10-08T20:46",
-    "headline": "IRGC chief: No extra-regional power has right to threaten, interfere in Hormuz",
-    "excerpt": "Iran’s Islamic Revolution Guards Corps (IRGC) chief says security in the Persian Gulf and the Strait of Hormuz is a regional responsibility.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-08T20:46:33.214222+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/08/777906/IRGC-chief--No-extra-regional-power-threaten,-Strait-Hormuz,-Persian-Gulf"
-  },
-  {
-    "id": "6e5ca1d067fb",
-    "source": "PressTV",
-    "date": "2026-10-08T20:46",
-    "headline": "Iran to US: Missiles will determine distance between us",
-    "excerpt": "Iran’s acting defense minister warns the United States against making any miscalculation, saying Iran’s military capabilities would determine the distance between the two sides.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-10-08T20:46:33.214241+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/08/777892/Iran-US--Missiles-determine-distance-between-us"
   }
 ]
