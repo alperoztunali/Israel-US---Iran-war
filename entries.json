@@ -1,5 +1,104 @@
 [
   {
+    "id": "a54a6f830747",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T04:59",
+    "headline": "Deaths, injuries after fire at Alberta military base: Canada minister",
+    "excerpt": "Defence Minister David McGuinty says people were killed and injured, but provides no figures or cause of fire.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-18T05:56:48.589205+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss"
+  },
+  {
+    "id": "686c612e921d",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T04:51",
+    "headline": "St Petersburg under attack from Ukrainian drone swarm",
+    "excerpt": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-18T05:56:48.589248+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss"
+  },
+  {
+    "id": "cd50e65da12e",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T04:21",
+    "headline": "At least 19 dead in stampede at Kolkata Hindu festival",
+    "excerpt": "A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-18T05:56:48.589281+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss"
+  },
+  {
+    "id": "8f3f2747fcc0",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T03:44",
+    "headline": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+    "excerpt": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-18T05:56:48.589327+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss"
+  },
+  {
+    "id": "608769240aa3",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T01:54",
+    "headline": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+    "excerpt": "The vessels, each carrying about two million barrels of crude oil, used an unauthorised route, the IRGC says.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-10-18T05:56:48.589355+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "48cb17748757",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T01:12",
+    "headline": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
+    "excerpt": "Saudi-led forces say they’ve struck multiple positions around the Yemeni city of Taiz to break the Houthi siege.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-10-18T05:56:48.589384+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss"
+  },
+  {
+    "id": "2a5d8a411f82",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T01:02",
+    "headline": "Israeli settlers attack European diplomats in the occupied West Bank",
+    "excerpt": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-10-18T05:56:48.589416+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "af7702ea6ef3",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T00:00",
+    "headline": "Iran war live: Two killed in Saudi helicopter crash; drones target Riyadh",
+    "excerpt": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-10-18T05:56:48.589448+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss"
+  },
+  {
+    "id": "3aa4589620a0",
+    "source": "PressTV",
+    "date": "2026-10-18T05:56",
+    "headline": "Iranian missiles, not US bombs, determine equation: Acting defense minister",
+    "excerpt": "Iran’s acting defense minister asserts that the Islamic Republic’s missile capabilities have determined the strategic equation in the confrontation with the US.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-10-18T05:56:54.351981+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/17/778515/Iran-missile-power-United-States-mother-of-all-bombs-Trump"
+  },
+  {
     "id": "1e065f36dca3",
     "source": "Al Jazeera",
     "date": "2026-10-18T00:00",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-07T21:36:55.110575+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "9c26a5b953b3",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T18:29",
-    "headline": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
-    "excerpt": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
-    "category": "Casualties",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-07T21:36:55.110604+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss"
-  },
-  {
-    "id": "07a909ca59e7",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T18:16",
-    "headline": "How genocide in Gaza followed Bosnia’s painful pattern",
-    "excerpt": "Three years into Israel’s war on Gaza, we examine patterns that echo the Srebrenica genocide in Bosnia and Herzegovina.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T21:36:55.110643+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss"
-  },
-  {
-    "id": "13a59e9c1966",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T18:16",
-    "headline": "US Supreme Court hears challenge to air force UXO detonations in Guam",
-    "excerpt": "Advocacy group claims military sidestepped impact review, says case highlights lack of representation in US territories.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-07T21:36:55.110692+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/us-supreme-court-hears-challenge-to-air-force-uxo-detonations-in-guam?traffic_source=rss"
-  },
-  {
-    "id": "e3a0fb99aec4",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T18:03",
-    "headline": "Jerusalem Daily: Gaza’s devastation, three years after October 7",
-    "excerpt": "Three years after the October 7 attacks, more than 74,000 people have been killed in Gaza.",
-    "category": "Casualties",
-    "location": "Gaza",
-    "addedAt": "2026-10-07T21:36:55.110721+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss"
-  },
-  {
-    "id": "32df15b60ccc",
-    "source": "PressTV",
-    "date": "2026-10-07T21:36",
-    "headline": "Strait of Hormuz remains ‘closed’, illegal routes to be blocked soon: IRGC advisor",
-    "excerpt": "A senior IRGC advisor says the Strait of Hormuz will remain closed until Iran’s “legitimate” demands are met, and that a \"few” illegal routes created by blasting will also be blocked soon.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-07T21:36:57.250645+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/07/777845/Strait-of-Hormuz-closed-illegal-routes-to-be-blocked--IRGC-"
-  },
-  {
-    "id": "608e0e47f840",
-    "source": "PressTV",
-    "date": "2026-10-07T21:36",
-    "headline": "False flags won't save aggressors, Iran FM spokesman says",
-    "excerpt": "Iran’s Baghaei says the US and the Israeli regime have a history of manufacturing false flag incidents to justify their malicious acts.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-07T21:36:57.250683+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/07/777832/Iran-Baghaei-false-flags-history-US-Israel"
-  },
-  {
-    "id": "8b80948daabc",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T16:02",
-    "headline": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
-    "excerpt": "With 3,700 fleeing to Djibouti amid Houthi clashes, the UN warns three in four families in parts of Yemen face hunger.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-07T16:32:25.333790+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss"
-  },
-  {
-    "id": "302bb968c438",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T15:25",
-    "headline": "The mass killing does not mean Israel’s winning",
-    "excerpt": "Israel’s military might has failed to achieve the political goals in Gaza it was supposed to.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T16:32:25.333836+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss"
-  },
-  {
-    "id": "ce93b5c2311b",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T15:13",
-    "headline": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
-    "excerpt": "Britons are risking freedom and reputations to stand with Palestinians and challenge government policy.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T16:32:25.333869+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss"
   }
 ]
