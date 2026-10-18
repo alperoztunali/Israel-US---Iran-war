@@ -1,5 +1,38 @@
 [
   {
+    "id": "1e065f36dca3",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T00:00",
+    "headline": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+    "excerpt": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-10-18T01:05:02.498262+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss"
+  },
+  {
+    "id": "39e6ec4ff482",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T23:40",
+    "headline": "US ambassador urges Israel to prosecute attackers of American journalist",
+    "excerpt": "Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a &#039;despicable act of terror&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-18T01:05:02.498317+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss"
+  },
+  {
+    "id": "2145d8ca72ca",
+    "source": "Al Jazeera",
+    "date": "2026-10-17T23:21",
+    "headline": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+    "excerpt": "Forces intercepted and destroyed four drones over Saudi Arabia&#039;s Riyadh, Eastern Province and southern region.",
+    "category": "Missile/Drone",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-18T01:05:02.498337+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss"
+  },
+  {
     "id": "0c7a41a5d049",
     "source": "Al Jazeera",
     "date": "2026-10-17T20:50",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-07T16:32:25.333869+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss"
-  },
-  {
-    "id": "1d75ac4ce5eb",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T13:56",
-    "headline": "Why Paramount-Warner merger has sparked fears about press freedom",
-    "excerpt": "Chairman&#039;s family ties to Trump and Israel raise questions over editorial independence at CNN and CBS.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-07T16:32:25.333894+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss"
-  },
-  {
-    "id": "55d9d58ad05d",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T13:38",
-    "headline": "South Korea signals military exemption cuts for athletes after Asian Games",
-    "excerpt": "South Korea signals cuts to military exemptions for gold medallists after backlash over athletes&#039; Asian Games comments.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-07T16:32:25.333925+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss"
-  },
-  {
-    "id": "f517acced91f",
-    "source": "Al Jazeera",
-    "date": "2026-10-07T13:30",
-    "headline": "Saudi Arabia beat UAE 2-0 to end 22-year wait for Arabian Gulf Cup crown",
-    "excerpt": "Goals from Hammam Al-Hammami and Firas al-Buraikan give the hosts their fourth Arabian Gulf Cup trophy.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-07T16:32:25.333953+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss"
   }
 ]
