@@ -1,5 +1,104 @@
 [
   {
+    "id": "006eca741d46",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T21:00",
+    "headline": "Israeli police say they arrested 10 in connection with settler attacks",
+    "excerpt": "Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-19T21:32:47.881076+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss"
+  },
+  {
+    "id": "0186eecc5645",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T20:49",
+    "headline": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+    "excerpt": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-19T21:32:47.881128+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss"
+  },
+  {
+    "id": "34db7c1edeb7",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T19:50",
+    "headline": "One killed in US shooting near mosque in Columbus, Ohio",
+    "excerpt": "Local authorities say mosque was not target of attack.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-19T21:32:47.881179+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss"
+  },
+  {
+    "id": "bfa61b514b6a",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T19:38",
+    "headline": "Residents hoisted from rooftops amid Spain’s deadly flooding",
+    "excerpt": "Spain’s military is hoisting residents from the rooftops of their flooded homes.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-19T21:32:47.881222+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss"
+  },
+  {
+    "id": "07e9787e6347",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T18:11",
+    "headline": "Benny Gantz drops out of Israel’s election race",
+    "excerpt": "Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-19T21:32:47.881261+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss"
+  },
+  {
+    "id": "e5127735d76d",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T18:04",
+    "headline": "Mauritius lifts curfew imposed amid wave of violent protests",
+    "excerpt": "Unrest on the archipelago came after police shot a woman during a rally over rising costs and water shortages.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-10-19T21:32:47.881302+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss"
+  },
+  {
+    "id": "394f7b68d796",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T17:27",
+    "headline": "Qatar to announce a new regional defence partnership",
+    "excerpt": "Qatar is set to announce a new regional defence partnership to strengthen its military infrastructure.",
+    "category": "Naval",
+    "location": "Qatar",
+    "addedAt": "2026-10-19T21:32:47.881331+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss"
+  },
+  {
+    "id": "ed7825195357",
+    "source": "PressTV",
+    "date": "2026-10-19T21:32",
+    "headline": "Russia's Lavrov in Tehran for key talks with Iranian officials",
+    "excerpt": "The Russian foreign minister is in Tehran to hold key talks with Iranian officials about regional and international developments.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-10-19T21:32:49.505643+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/19/778704/Iran-Russia-Araghchi-Lavrov"
+  },
+  {
+    "id": "c3c47c0291e2",
+    "source": "PressTV",
+    "date": "2026-10-19T21:32",
+    "headline": "Albania: Protests continue in Tirana for sixth consecutive day",
+    "excerpt": "Police used tear gas and water cannons against hundreds of protesters who gather in Tirana to demand the departure of PM Edi Rama.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-19T21:32:49.505697+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/19/778721/Albania-sixth-day-of-protests-in-Tirana-"
+  },
+  {
     "id": "de47c1e881b3",
     "source": "Al Jazeera",
     "date": "2026-10-19T16:40",
@@ -5399,104 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-10-09T19:49:02.627602+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss"
-  },
-  {
-    "id": "2733d4df6a62",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T17:19",
-    "headline": "Drone strike kills 30 people in Sudan’s Blue Nile region",
-    "excerpt": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-09T19:49:02.627623+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss"
-  },
-  {
-    "id": "6daa848608c1",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T16:33",
-    "headline": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-    "excerpt": "Belarus-linked incidents trouble Latvia and Lithuania, where experts warn of security challenges.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-09T19:49:02.627653+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss"
-  },
-  {
-    "id": "eb6b6b518583",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T15:59",
-    "headline": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
-    "excerpt": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-09T19:49:02.627682+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss"
-  },
-  {
-    "id": "fb24b22e3651",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T15:28",
-    "headline": "Israeli settler attacks target Palestinian olive harvest in West Bank",
-    "excerpt": "At least 19 settler attacks recorded across territory on Friday as Israeli forces separately detain 16 Palestinians.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-09T19:49:02.627701+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "3406b41dd13f",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T15:08",
-    "headline": "US sanctions International Criminal Court itself in major escalation",
-    "excerpt": "Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-09T19:49:02.627734+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss"
-  },
-  {
-    "id": "d34edb6b0495",
-    "source": "PressTV",
-    "date": "2026-10-09T19:49",
-    "headline": "Iran security chief fires back at US ‘civilizational war’ narrative with Rome’s defeat",
-    "excerpt": "Major General Mohsen Rezaei, secretary of Iran’s Supreme National Security Council (SNSC), has invoked the ancient defeat of Rome by Sasanian king Shapur I to counter an attempt by US officials to frame the aggression against Iran as a civilizational war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-09T19:49:04.582253+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/09/777970/Rezaei-Rubio-civilizational-war-Roman-defeat"
-  },
-  {
-    "id": "143fa60f41e6",
-    "source": "PressTV",
-    "date": "2026-10-09T19:49",
-    "headline": "‘Harsh reality’: Iran says France seeks monopoly on power and intimidation, not peace for all",
-    "excerpt": "Iran says France is seeking to maintain its ability to intimidate others rather than promote peace for all.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-09T19:49:04.582287+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/09/777964/Iran-France-Baghaei-nuclear"
-  },
-  {
-    "id": "c61e0400213d",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T13:09",
-    "headline": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
-    "excerpt": "Russia is fighting for settlements it once firmly held in Donetsk, and has retreated from many others.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-09T14:33:01.516437+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss"
-  },
-  {
-    "id": "76f2d64f8cec",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T13:09",
-    "headline": "Child flees as Israeli settlers hijack car during pogrom",
-    "excerpt": "A Palestinian boy was seen fleeing after Israeli settlers attacked his father and stole their car in Ramallah.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-09T14:33:01.516478+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss"
   }
 ]
