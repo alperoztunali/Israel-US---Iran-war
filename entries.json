@@ -1,5 +1,27 @@
 [
   {
+    "id": "8c8b3e91d219",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T23:06",
+    "headline": "Protesters disrupt Ben-Gvir event forcing him off stage",
+    "excerpt": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-19T00:01:37.456517+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss"
+  },
+  {
+    "id": "d1d067480a3b",
+    "source": "PressTV",
+    "date": "2026-10-19T00:01",
+    "headline": "‘We will fight alongside Iran if its existence is at stake’: Iraqi resistance group",
+    "excerpt": "Kata'ib Sayyid al-Shuhada, an Iraqi anti-terror group, says that the relationship between the resistance faction and Tehran goes beyond political alignment.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-10-19T00:01:39.313172+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/18/778596/Iraqi-resistance-group-pledges-support-to-Iran-in-new-US-Israeli-war-of-aggression"
+  },
+  {
     "id": "9c2fe58bc99f",
     "source": "Al Jazeera",
     "date": "2026-10-18T21:10",
@@ -5476,27 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-08T20:46:31.505677+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "3fbb258d3228",
-    "source": "PressTV",
-    "date": "2026-10-08T20:46",
-    "headline": "Iran blasts Rubio’s ‘anachronistic’ use of ancient Greece to justify US militarism",
-    "excerpt": "Tehran has lashed out at US Secretary of State Marco Rubio for distorting Western history by selectively appealing to ancient Greece to legitimize an “America First” foreign policy.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-08T20:46:33.214142+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/08/777916/Iran-US-Baqaei-Marco-Rubio-Western-history-distortion-ancient-Greece-America-First"
-  },
-  {
-    "id": "d0c134095f9a",
-    "source": "PressTV",
-    "date": "2026-10-08T20:46",
-    "headline": "Leader hails Iran’s police for standing firm against enemy’s malicious blows",
-    "excerpt": "Leader of the Islamic Revolution has praised the prominent role of Iran's police force in maintaining security, saying its contribution became more evident during the second and third imposed wars.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-08T20:46:33.214189+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/08/777913/Leader-hails-FARAJA%E2%80%99s-role-in-maintaining-security-during-recent-wars"
   }
 ]
