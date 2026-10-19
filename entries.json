@@ -1,5 +1,93 @@
 [
   {
+    "id": "cb2195e05794",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T04:27",
+    "headline": "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
+    "excerpt": "Brazil&#039;s president and his opponent lob a barrage of attacks on each other in debate a week before the October 25 vote.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-19T04:44:44.073523+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss"
+  },
+  {
+    "id": "8f917b52c825",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T03:10",
+    "headline": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+    "excerpt": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-19T04:44:44.073576+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss"
+  },
+  {
+    "id": "c28c0d44ea67",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T03:07",
+    "headline": "Fast-moving grass fire caused Canada’s military base tragedy",
+    "excerpt": "Fast-moving grass fire caused Canada’s military base tragedy",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-19T04:44:44.073622+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/fast-moving-grass-fire-caused-canadas-military-base-tragedy?traffic_source=rss"
+  },
+  {
+    "id": "4be699bee52a",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T02:10",
+    "headline": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+    "excerpt": "The air strike, one of Ukraine&#039;s largest in the war, comes amid rising tensions between Kyiv and Washington.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-10-19T04:44:44.073652+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+  },
+  {
+    "id": "87035dea8cc5",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T23:59",
+    "headline": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+    "excerpt": "Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-10-19T04:44:44.073686+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss"
+  },
+  {
+    "id": "a40a6d066e93",
+    "source": "Al Jazeera",
+    "date": "2026-10-18T23:58",
+    "headline": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+    "excerpt": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-10-19T04:44:44.073711+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss"
+  },
+  {
+    "id": "68e93306d2ad",
+    "source": "PressTV",
+    "date": "2026-10-19T04:44",
+    "headline": "Iran’s Parliament approves Mehrdad Akhlaghi as new defense minister",
+    "excerpt": "Iran’s Parliament has approved Mehrdad Akhlaghi as the country’s new Minister of Defense and Armed Forces Logistics.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-19T04:44:45.792442+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/18/778607/Iranian-parliament-approves-Mehrdad-Akhlaqi-as-new-defense-minister"
+  },
+  {
+    "id": "c04a8dec8209",
+    "source": "PressTV",
+    "date": "2026-10-19T04:44",
+    "headline": "Spain floods claim five lives in 15 days as torrential rains batter regions",
+    "excerpt": "Torrential rains and flooding have killed five people across Spain over the past two weeks, inundating homes, sweeping away vehicles, and disrupting transport in several regions.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-19T04:44:45.792518+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/19/778659/Spain-floods-claim-five-lives-as-torrential-rains-batter-regions"
+  },
+  {
     "id": "8c8b3e91d219",
     "source": "Al Jazeera",
     "date": "2026-10-18T23:06",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-08T20:46:31.505431+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "0a9e0e945eff",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T19:12",
-    "headline": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
-    "excerpt": "Honoured for his artistic resilience, Ali Abu Yasin continued writing for theatre amid the rubble.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-10-08T20:46:31.505468+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss"
-  },
-  {
-    "id": "c869ced2af4c",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T18:11",
-    "headline": "Israel opens first-ever pavilion at Morocco defence show",
-    "excerpt": "Israel opened its first national pavilion at Morocco&#039;s Marrakech Air Show, joined by Israel&#039;s top military contractors.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-08T20:46:31.505498+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss"
-  },
-  {
-    "id": "1b02b35bbcc0",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T18:07",
-    "headline": "Colombian embassy to open in Jerusalem, Israeli FM says",
-    "excerpt": "Colombian President Abelardo De la Espriella had promised closer ties with Israel on the campaign trail.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-08T20:46:31.505536+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss"
-  },
-  {
-    "id": "ebc8461974f2",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T18:01",
-    "headline": "Two Latvian men arrested inside UK military base after breach",
-    "excerpt": "Police say nothing so far suggests the incident at RAF Molesworth linked ​to events surrounding RAF Fairford last month.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-08T20:46:31.505579+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss"
-  },
-  {
-    "id": "4b27d69b1b91",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T17:58",
-    "headline": "Hurricane Isaias charges towards the US Gulf Coast with dangerous winds",
-    "excerpt": "The storm is forecast to strike Florida, Alabama and Mississippi with up to 10 inches of rain this weekend.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-08T20:46:31.505612+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss"
-  },
-  {
-    "id": "dd6ff3197362",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T17:27",
-    "headline": "Syria calls for independent probe into sinking of ship in Black Sea",
-    "excerpt": "Syrian authorities questioned why search and rescue operations were called off before the fate of 10 sailors was known.",
-    "category": "Naval",
-    "location": "Syria",
-    "addedAt": "2026-10-08T20:46:31.505635+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss"
-  },
-  {
-    "id": "62142dedc692",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T17:17",
-    "headline": "Jerusalem Daily: Remembrance and mourning",
-    "excerpt": "Thousands protest worldwide in solidarity with Gaza as Palestinians mourn those being killed in daily Israeli strikes.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-08T20:46:31.505653+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss"
-  },
-  {
-    "id": "4f283f78ac7c",
-    "source": "Al Jazeera",
-    "date": "2026-10-08T17:07",
-    "headline": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
-    "excerpt": "At least 33 people were killed after a Russian strike hit two civilian buses in a city within the Donestsk region.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-08T20:46:31.505677+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss"
   }
 ]
