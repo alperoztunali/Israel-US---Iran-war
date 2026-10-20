@@ -1,5 +1,104 @@
 [
   {
+    "id": "06ee94f8c03a",
+    "source": "Al Jazeera",
+    "date": "2026-10-20T00:18",
+    "headline": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
+    "excerpt": "US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-20T00:41:32.119670+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss"
+  },
+  {
+    "id": "ff9911d349e7",
+    "source": "Al Jazeera",
+    "date": "2026-10-20T00:08",
+    "headline": "Hegseth meets Netanyahu in unannounced Israel visit",
+    "excerpt": "Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-10-20T00:41:32.119709+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss"
+  },
+  {
+    "id": "f57c58163b3b",
+    "source": "Al Jazeera",
+    "date": "2026-10-20T00:00",
+    "headline": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+    "excerpt": "Trump says US continues to hit Iran &#039;economically and militarily&#039; while praising Russia for doing &#039;nothing&#039; to aid Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-20T00:41:32.119742+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss"
+  },
+  {
+    "id": "476412744e2f",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T23:16",
+    "headline": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+    "excerpt": "Tehran summons German envoy after two men convicted of trying to kill leaders of Jewish groups, rejects any role.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-10-20T00:41:32.119766+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss"
+  },
+  {
+    "id": "d2e32c079f7e",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T23:12",
+    "headline": "Children among six killed in Russian drone strike on Ukraine park",
+    "excerpt": "Children among six killed in Russian drone strike on Ukraine park",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-20T00:41:32.119784+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss"
+  },
+  {
+    "id": "46c128e1ecea",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T21:46",
+    "headline": "Egyptian parliament delays vote on military support for Saudi Arabia",
+    "excerpt": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-20T00:41:32.119811+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss"
+  },
+  {
+    "id": "a62b90d0a998",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T21:38",
+    "headline": "160 people reported killed in escalating drone attacks across Sudan",
+    "excerpt": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-20T00:41:32.119832+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss"
+  },
+  {
+    "id": "83326257ef4a",
+    "source": "Al Jazeera",
+    "date": "2026-10-19T21:28",
+    "headline": "Could your halal pension be funding Israel’s military?",
+    "excerpt": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-20T00:41:32.119866+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss"
+  },
+  {
+    "id": "9eb742c691e9",
+    "source": "PressTV",
+    "date": "2026-10-20T00:41",
+    "headline": "Araghchi says Macron cannot escape blame for war on Iran amid French protests",
+    "excerpt": "The Iranian foreign minister urges Macron to heed the French public’s demands.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-20T00:41:34.051344+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/19/778671/Araghchi-says-Macron-cannot-escape-consequences-of-war-he-helped-cause"
+  },
+  {
     "id": "006eca741d46",
     "source": "Al Jazeera",
     "date": "2026-10-19T21:00",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-10T05:16:40.618720+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss"
-  },
-  {
-    "id": "846df78459e9",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T00:22",
-    "headline": "Israeli drone attack wounds six in Lebanon near Syria border",
-    "excerpt": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon&#039;s health authorities say.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-10-10T05:16:40.618744+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss"
-  },
-  {
-    "id": "a3ca3a237dc7",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T00:00",
-    "headline": "Iran war live: Trump vows to quickly ‘settle or win’ Iran and Ukraine wars",
-    "excerpt": "Trump says that he expects to soon “settle or win” the conflicts involving Iran and Russia-Ukraine.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-10T05:16:40.618784+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss"
-  },
-  {
-    "id": "1f6fcc005d59",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T20:56",
-    "headline": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
-    "excerpt": "Saudi Arabia and Yemen&#039;s internationally recognised gov&#039;t urge UN Security Council action amid Houthi escalation.",
-    "category": "Diplomatic",
-    "location": "Yemen",
-    "addedAt": "2026-10-09T23:54:19.882703+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss"
-  },
-  {
-    "id": "db39b22f6860",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T20:13",
-    "headline": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
-    "excerpt": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-09T23:54:19.882761+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss"
-  },
-  {
-    "id": "dae9307822f8",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T19:47",
-    "headline": "Trump announces Russian diesel deal amid soaring US fuel prices",
-    "excerpt": "Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-09T23:54:19.882792+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss"
-  },
-  {
-    "id": "57169ae0c5df",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T19:32",
-    "headline": "European states, Canada, Japan and UN back ICC against US sanctions",
-    "excerpt": "Several US allies call to &#039;defend&#039; and &#039;protect&#039; the ICC following Washington&#039;s decision to sanction the judiciary body.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-09T23:54:19.882826+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "2c67dae40839",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T18:15",
-    "headline": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-    "excerpt": "Humanitarian and human rights groups call out Israel&#039;s continued killings and restrictions across the enclave.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-10-09T19:49:02.627527+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss"
-  },
-  {
-    "id": "03d613b083dd",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T18:06",
-    "headline": "‘An attack against sovereign states’: ICC President slams US sanctions",
-    "excerpt": "International Criminal Court President Tomoko Akane has responded to US sanctions imposed to ‘defend sovereignty’.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-09T19:49:02.627575+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "eb4b216e6866",
-    "source": "Al Jazeera",
-    "date": "2026-10-09T17:37",
-    "headline": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
-    "excerpt": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
-    "category": "Statement",
-    "location": "Gaza",
-    "addedAt": "2026-10-09T19:49:02.627602+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss"
   }
 ]
