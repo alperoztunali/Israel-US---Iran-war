@@ -1,5 +1,104 @@
 [
   {
+    "id": "9af504d2b144",
+    "source": "Al Jazeera",
+    "date": "2026-10-20T06:22",
+    "headline": "Palestine weekly: Israeli settlers attack journalist and diplomats",
+    "excerpt": "Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-10-20T10:19:33.808701+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss"
+  },
+  {
+    "id": "0c27f211664e",
+    "source": "Al Jazeera",
+    "date": "2026-10-20T05:25",
+    "headline": "Israel’s elections 2026 explained in maps and charts",
+    "excerpt": "Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-20T10:19:33.808747+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss"
+  },
+  {
+    "id": "c4ca1658d7d1",
+    "source": "PressTV",
+    "date": "2026-10-20T10:19",
+    "headline": "Iran's Chamber of Commerce chief proposes strategic trade task force to sustain exports",
+    "excerpt": "Chamber of Commerce chief calls for unified government-private sector initiative to navigate maritime restrictions and defeat economic warfare.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-20T10:19:35.805224+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/20/778758/Iran-Chamber-of-Commerce-chief-proposes-strategic-trade-task-force-to-sustain-exports"
+  },
+  {
+    "id": "0c200b386ba6",
+    "source": "PressTV",
+    "date": "2026-10-20T10:19",
+    "headline": "Discover Iran: Mahallat, Iran’s ‘flower capital’ with geothermal wonders and travertine industry",
+    "excerpt": "Mahallat, Iran’s “Netherlands,” is renowned for ornamental flowers, mineral-rich hot springs, and travertine quarries, combining horticulture, geothermal heritage, wellness tourism, and stone production.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-20T10:19:35.805267+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/18/778621/discover-iran-mahallat-iran-flower-capital-geothermal-wonders-thriving-travertine-industry"
+  },
+  {
+    "id": "33934e30d871",
+    "source": "PressTV",
+    "date": "2026-10-20T10:19",
+    "headline": "Iran arrests 39 US-Israeli mercenaries over January riots",
+    "excerpt": "Iranian intelligence forces have captured 39 agents of the US-Israeli enemy involved in foreign-backed January riots.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-20T10:19:35.805289+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/19/778706/Iran-intelligence-forces-capture-39-mercenaries-involved-in-US-Israeli-backed-riots"
+  },
+  {
+    "id": "977ea4dbabd4",
+    "source": "PressTV",
+    "date": "2026-10-20T10:19",
+    "headline": "Araghchi: Iran-Russia cooperation key to promoting regional stability",
+    "excerpt": "The Iranian foreign minister says cooperation with Russia can play a constructive role in promoting stability in the region.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-20T10:19:35.805308+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/19/778710/Iran-Russia-Araghchi-Lavrov"
+  },
+  {
+    "id": "e08f2a3bf058",
+    "source": "PressTV",
+    "date": "2026-10-20T10:19",
+    "headline": "Congratulations pour in as Iran U23 freestyle wrestling team wins world title",
+    "excerpt": "The Iranian president, parliament speaker and IRGC chief separately congratulated the country’s under-23 freestyle wrestling team on its world championship victory in the United States.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-10-20T10:19:35.805330+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/19/778701/Congratulatory-messages-pour-for-Iran-U23-freestyle-wrestlers-after-world-title-win"
+  },
+  {
+    "id": "ec3e65e2594c",
+    "source": "PressTV",
+    "date": "2026-10-20T10:19",
+    "headline": "Iran’s top human rights body warns sanctions undermining access to essential medicines",
+    "excerpt": "Iran warns that economic sanctions and restrictions are undermining access to essential healthcare, particularly for vulnerable patients.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-20T10:19:35.805359+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/19/778690/Iran-intl--community-remove-barriers-medicine-amid-sanctions"
+  },
+  {
+    "id": "282142d14f1a",
+    "source": "PressTV",
+    "date": "2026-10-20T10:19",
+    "headline": "Spanish military evacuates stranded families as Storm Adam wreaks havoc",
+    "excerpt": "Spanish military emergency teams raced to rescue stranded residents as deadly Storm Adam battered eastern Spain.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-20T10:19:35.805383+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/20/778765/Spanish-military-evacuates-stranded-families-as-Storm-Adam-wreaks-havoc"
+  },
+  {
     "id": "10ccbbc79f1e",
     "source": "Al Jazeera",
     "date": "2026-10-20T01:52",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-10T16:19:52.435145+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss"
-  },
-  {
-    "id": "2ee2469bf816",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T12:37",
-    "headline": "England international Cole Palmer signs new Chelsea deal until 2034",
-    "excerpt": "Attacking midfielder Palmer has become a key figure in Chelsea&#039;s squad since his arrival from Man City in 2023.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-10T16:19:52.435168+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss"
-  },
-  {
-    "id": "ebb5075a43dc",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T12:33",
-    "headline": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
-    "excerpt": "Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-10T16:19:52.435193+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss"
-  },
-  {
-    "id": "afdd10669f47",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T09:45",
-    "headline": "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
-    "excerpt": "Man spreads flammable liquid in a room with 13 children while holding a lighter as police try to negotiate.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-10T11:18:54.267900+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss"
-  },
-  {
-    "id": "5f218eaae483",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T09:30",
-    "headline": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
-    "excerpt": "Continuing attacks, restrictions on medical aid and delayed evacuations are still killing Palestinians.",
-    "category": "Diplomatic",
-    "location": "Gaza",
-    "addedAt": "2026-10-10T11:18:54.267959+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss"
-  },
-  {
-    "id": "898642fafe25",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T09:27",
-    "headline": "Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca",
-    "excerpt": "Conflicting reports emerge on the circumstances of the killing, prompting calls for justice from advocacy groups.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-10T11:18:54.267988+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss"
-  },
-  {
-    "id": "6fe235559091",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T07:50",
-    "headline": "US lifts sanctions on daughter of military-linked Myanmar businessman",
-    "excerpt": "Delisting comes days after Trump administration reportedly reopened talks with Myanmar&#039;s government.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-10T11:18:54.268014+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss"
-  },
-  {
-    "id": "72cc2e2d1450",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T07:19",
-    "headline": "Saudi-led coalition says it’s carrying out operation in Yemen",
-    "excerpt": "The Saudi-led coalition says it’s carrying out a wide-ranging operation, targeting Yemen’s Houthis.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-10T11:18:54.268042+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss"
-  },
-  {
-    "id": "8b7d4c40122f",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T06:20",
-    "headline": "Yemen’s Taiz under siege again as food and fuel prices rise",
-    "excerpt": "Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-10T11:18:54.268075+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss"
-  },
-  {
-    "id": "34d222833a93",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T05:28",
-    "headline": "Israel’s economy prospers despite years of war, but prices worry voters",
-    "excerpt": "Tech is driving the economy, and investments are flowing in. But food costs are rising and debt is growing.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-10T11:18:54.268105+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss"
   }
 ]
