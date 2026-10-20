@@ -1,5 +1,27 @@
 [
   {
+    "id": "10ccbbc79f1e",
+    "source": "Al Jazeera",
+    "date": "2026-10-20T01:52",
+    "headline": "The human cost of surging US air strikes in Somalia",
+    "excerpt": "Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-10-20T05:22:51.211352+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss"
+  },
+  {
+    "id": "cc7db4228684",
+    "source": "Al Jazeera",
+    "date": "2026-10-20T01:05",
+    "headline": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
+    "excerpt": "Riyadh postpones flagship investment conference until 2027, orders government staff to work from home.",
+    "category": "Naval",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-20T05:22:51.211404+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss"
+  },
+  {
     "id": "06ee94f8c03a",
     "source": "Al Jazeera",
     "date": "2026-10-20T00:18",
@@ -5476,27 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-10T11:18:54.268105+00:00",
     "link": "https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss"
-  },
-  {
-    "id": "26f74b143fa5",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T04:30",
-    "headline": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
-    "excerpt": "Ukraine bombed a Russian fuel site, hours after US President Trump and Russian President Putin announced a diesel deal.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-10-10T05:16:40.618675+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss"
-  },
-  {
-    "id": "b04243c89f90",
-    "source": "Al Jazeera",
-    "date": "2026-10-10T01:40",
-    "headline": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
-    "excerpt": "Drone attacks on Moscow during last month&#039;s election undermined trilateral peace negotiations, the Kremlin says.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-10T05:16:40.618720+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss"
   }
 ]
