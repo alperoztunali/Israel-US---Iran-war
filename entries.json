@@ -1,5 +1,82 @@
 [
   {
+    "id": "5d1c1067ec7d",
+    "source": "Al Jazeera",
+    "date": "2026-10-21T16:34",
+    "headline": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
+    "excerpt": "French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-21T16:56:45.593410+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss"
+  },
+  {
+    "id": "53a327f56225",
+    "source": "Al Jazeera",
+    "date": "2026-10-21T14:12",
+    "headline": "US congressional candidate Brad Lander freed after West Bank detention",
+    "excerpt": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-21T16:56:45.593450+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss"
+  },
+  {
+    "id": "c6125c8e34ad",
+    "source": "Al Jazeera",
+    "date": "2026-10-21T13:58",
+    "headline": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+    "excerpt": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-10-21T16:56:45.593477+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss"
+  },
+  {
+    "id": "e76a431e61e5",
+    "source": "Al Jazeera",
+    "date": "2026-10-21T13:32",
+    "headline": "How war in Lebanon has cost young people with autism and ADHD",
+    "excerpt": "Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-10-21T16:56:45.593500+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss"
+  },
+  {
+    "id": "2fc60d4fc416",
+    "source": "Al Jazeera",
+    "date": "2026-10-21T13:25",
+    "headline": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
+    "excerpt": "The European states say their support for Riyadh is &#039;defensive&#039;, but analysts warn Houthi reaction may complicate that.",
+    "category": "Other",
+    "location": "Riyadh",
+    "addedAt": "2026-10-21T16:56:45.593526+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss"
+  },
+  {
+    "id": "3518dfcf08fe",
+    "source": "Al Jazeera",
+    "date": "2026-10-21T13:20",
+    "headline": "From one house to villages: Israeli settlers have Palestinians surrounded",
+    "excerpt": "A family in the South Hebron Hills has spent more than two weeks cut off by settlers camped outside.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-21T16:56:45.593564+00:00",
+    "link": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss"
+  },
+  {
+    "id": "8b35532922e3",
+    "source": "PressTV",
+    "date": "2026-10-21T16:56",
+    "headline": "US has no option but to meet Iran’s seven conditions: Qalibaf",
+    "excerpt": "Iran’s Qalibaf says the US must meet Iran’s conditions if it really wants an end to the war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-21T16:56:47.340403+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/20/778815/Iran-Qalibaf-conditions-US-meeting-Pakistan-Munir"
+  },
+  {
     "id": "1abe2dcaeeaf",
     "source": "Al Jazeera",
     "date": "2026-10-21T10:22",
@@ -5421,82 +5498,5 @@
     "location": "Strait Of Hormuz",
     "addedAt": "2026-10-12T09:41:04.594467+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/10/778038/Iran-IRGC-supertanker-Hormuz"
-  },
-  {
-    "id": "252563875c93",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T02:11",
-    "headline": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-    "excerpt": "Sunday&#039;s strike on King Khalid International airport kills a Pakistani national.",
-    "category": "Casualties",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-12T02:28:29.860944+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss"
-  },
-  {
-    "id": "50aaae05b533",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T00:39",
-    "headline": "Iran’s FM urges diplomacy in call with Saudi counterpart",
-    "excerpt": "Tehran offers to facilitate talks between Saudi Arabia and Yemen&#039;s Houthis following deadly strikes on the kingdom.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-10-12T02:28:29.860980+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss"
-  },
-  {
-    "id": "7535cd2dd9fa",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T00:00",
-    "headline": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
-    "excerpt": "Iran says US has accepted some of its peace terms but calls the reply &#039;inadequate&#039;, as Riyadh airport is hit again.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-12T02:28:29.861013+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss"
-  },
-  {
-    "id": "d1684165131f",
-    "source": "Al Jazeera",
-    "date": "2026-10-11T23:20",
-    "headline": "Pakistani national killed in second Houthi strike on Riyadh airport",
-    "excerpt": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
-    "category": "Casualties",
-    "location": "Riyadh",
-    "addedAt": "2026-10-12T02:28:29.861039+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss"
-  },
-  {
-    "id": "cbbde8ae3f43",
-    "source": "PressTV",
-    "date": "2026-10-12T02:29",
-    "headline": "SNSC secretary dismisses US response to Iran’s conditions as ‘inadequate’",
-    "excerpt": "The SNSC secretary has dismissed the United States' partial concessions regarding Tehran's seven conditions for resolving the ongoing war as \"inadequate.”",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-12T02:29:31.039982+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/11/778122/SNSC-secretary-dismisses-US-response-to-Iran-conditions-as-inadequate"
-  },
-  {
-    "id": "229fb60b09e6",
-    "source": "Al Jazeera",
-    "date": "2026-10-11T22:49",
-    "headline": "Footage shows moment Russian strike hits Ukrainian grocery store",
-    "excerpt": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-11T23:13:36.976552+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss"
-  },
-  {
-    "id": "f4441fd495e3",
-    "source": "Al Jazeera",
-    "date": "2026-10-11T22:24",
-    "headline": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-    "excerpt": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
-    "category": "Casualties",
-    "location": "Riyadh",
-    "addedAt": "2026-10-11T23:13:36.976602+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss"
   }
 ]
