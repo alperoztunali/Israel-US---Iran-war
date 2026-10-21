@@ -1,5 +1,38 @@
 [
   {
+    "id": "48e4a80bdebc",
+    "source": "Al Jazeera",
+    "date": "2026-10-21T22:03",
+    "headline": "Video shows Israeli settler assaulting Palestinian child",
+    "excerpt": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-21T23:40:44.133803+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss"
+  },
+  {
+    "id": "345f50952afa",
+    "source": "Al Jazeera",
+    "date": "2026-10-21T21:43",
+    "headline": "Tehran displays mock installation of Trump behind bars",
+    "excerpt": "An Iranian performer in Tehran’s busy Tajrish Square has impersonated US President Donald Trump behind bars.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-10-21T23:40:44.133852+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss"
+  },
+  {
+    "id": "6f04c8df6bf7",
+    "source": "Al Jazeera",
+    "date": "2026-10-21T21:36",
+    "headline": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
+    "excerpt": "Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-10-21T23:40:44.133892+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss"
+  },
+  {
     "id": "aa0131b779ac",
     "source": "Al Jazeera",
     "date": "2026-10-21T19:14",
@@ -5465,38 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-10-12T09:41:02.772799+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss"
-  },
-  {
-    "id": "e9f9a9e05e78",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T04:58",
-    "headline": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-    "excerpt": "Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-12T09:41:02.772845+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss"
-  },
-  {
-    "id": "7306a0dd292b",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T04:24",
-    "headline": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
-    "excerpt": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-12T09:41:02.772877+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss"
-  },
-  {
-    "id": "392785cad8a5",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T03:37",
-    "headline": "North Korea fires multiple ballistic missiles towards the sea",
-    "excerpt": "South Korea&#039;s Joint Chiefs of Staff said one of the missiles launched from the Pyongyang area flew more than 900km.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-12T09:41:02.772903+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss"
   }
 ]
