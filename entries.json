@@ -1,5 +1,126 @@
 [
   {
+    "id": "c26077a374e4",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T12:12",
+    "headline": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+    "excerpt": "US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-22T13:07:16.850519+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss"
+  },
+  {
+    "id": "b90632108b6c",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T10:01",
+    "headline": "Israeli forces kill disabled man in southern Syria raid, state media says",
+    "excerpt": "Civilian with a disability shot dead during raid in Jamla, in western Deraa countryside, SANA reports.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-22T13:07:16.850559+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss"
+  },
+  {
+    "id": "eae1f14cb0ab",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T09:57",
+    "headline": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+    "excerpt": "Overnight attacks on Kyiv injured 15 people, while two were injured in Moscow as Russia said it intercepted 163 drones.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-22T13:07:16.850588+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss"
+  },
+  {
+    "id": "93847ba7bd8f",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T09:00",
+    "headline": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 displaced",
+    "excerpt": "Yemen&#039;s government forces launched hundreds of strikes on Houthi locations, a spokesperson says.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-10-22T13:07:16.850621+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss"
+  },
+  {
+    "id": "75e072ae773c",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T08:55",
+    "headline": "Israeli elections: Is it just right wing versus right?",
+    "excerpt": "Benjamin Netanyahu’s opponents are promising a change to Israeli politics, but are their policies really that different?",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-22T13:07:16.850656+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss"
+  },
+  {
+    "id": "2c252d05f6a7",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T08:18",
+    "headline": "Russian strikes hit Kyiv after Witkoff meets Putin",
+    "excerpt": "Ukraine says &#039;appeasement&#039; will not end war as Russian attacks kill 1, injure 22 in its capital.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-22T13:07:16.850692+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss"
+  },
+  {
+    "id": "ed08ba3ffcfb",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T08:00",
+    "headline": "Can Russia broker a new US-Iran deal?",
+    "excerpt": "Russia’s nuclear expertise, close ties with Tehran and negotiation experience could give Moscow an edge as a mediator.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-10-22T13:07:16.850723+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss"
+  },
+  {
+    "id": "e0cf6b7806ca",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T07:53",
+    "headline": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
+    "excerpt": "Atlanta&#039;s Reese has become the only woman in history to record consecutive double-doubles in three WNBA Finals games.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-10-22T13:07:16.850768+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss"
+  },
+  {
+    "id": "28bc3a37b1e8",
+    "source": "PressTV",
+    "date": "2026-10-22T13:07",
+    "headline": "Iran’s Chamber of Commerce chief calls for unified front to neutralize US economic warfare",
+    "excerpt": "Chamber of Commerce chief proposes pragmatic policies to safeguard export networks against Washington's unilateral coercive measures.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-22T13:07:19.371059+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/22/778943/Iran-Chamber-of-Commerce-chief-calls-for-unified-front-to-neutralize-US-economic-warfare"
+  },
+  {
+    "id": "3b24e6d7184b",
+    "source": "PressTV",
+    "date": "2026-10-22T13:07",
+    "headline": "No negotiations until US takes trust-building steps: Iran’s security chief",
+    "excerpt": "Iran’s top security official asserts that “there will be no negotiations” with the United States until Washington takes steps to build trust.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-22T13:07:19.371119+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/20/778826/Iran-United-States-negotiations-uranium"
+  },
+  {
+    "id": "62536a650976",
+    "source": "PressTV",
+    "date": "2026-10-22T13:07",
+    "headline": "Israeli occupation demolishes sports stadium, bulldozes land, uproots olive trees in al-Khalil",
+    "excerpt": "Israeli occupation bulldozers demolished a sports stadium in al-Arroub camp north of al-Khalil, bulldozed surrounding land, and uprooted olive trees.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-22T13:07:19.371147+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/22/778934/Israeli-occupation-demolishes-sports-stadium,-bulldozes-land,-and-uproots-olive-trees-in-Hebron"
+  },
+  {
     "id": "81a0cd533188",
     "source": "Al Jazeera",
     "date": "2026-10-22T06:06",
@@ -5377,126 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-13T01:34:16.048105+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss"
-  },
-  {
-    "id": "6e2a9f073942",
-    "source": "PressTV",
-    "date": "2026-10-13T01:35",
-    "headline": "Terrorists responsible for assassination of officer arrested in southeast Iran",
-    "excerpt": "Police spokesperson says security forces arrested terrorists responsible for the assassination of a female officer in Sistan and Baluchestan.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-13T01:35:58.508973+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/12/778153/Terrorists-responsible-for-killing-of-provincial-officer-arrested-police-spokesperson"
-  },
-  {
-    "id": "2405ee1e0c39",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T18:52",
-    "headline": "Cuba forges ahead with renewable energy plans amid US oil blockade",
-    "excerpt": "Cuban energy minister denies link to fuel shipments intercepted by US, says oil imports by private firms insufficient.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-12T19:22:17.667476+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss"
-  },
-  {
-    "id": "283b2ca6eccf",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T18:51",
-    "headline": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
-    "excerpt": "Iran&#039;s ambassador tells British officials Tehran is willing to assist in UK investigation.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-10-12T19:22:17.667522+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss"
-  },
-  {
-    "id": "950929ae1117",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T18:24",
-    "headline": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
-    "excerpt": "UK Prime Minister Andy Burnham says the incidents at RAF Fairford and RAF Molesworth were likely coordinated by Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-12T19:22:17.667566+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss"
-  },
-  {
-    "id": "8c3dd71f38d8",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T17:07",
-    "headline": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
-    "excerpt": "Nobel Peace Prize winner Navi Pillay has condemned US sanctions against the International Criminal Court.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-12T19:22:17.667610+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss"
-  },
-  {
-    "id": "d433ad47f92a",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T16:44",
-    "headline": "Blast kills teenager, injures dozens in northern Israel",
-    "excerpt": "A 15-year-old was killed and around 20 people injured when unexploded ordnance detonated in northern Israel.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-12T19:22:17.667636+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss"
-  },
-  {
-    "id": "e584666e03b5",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T15:30",
-    "headline": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
-    "excerpt": "Deadly air raids on gold miners in Sudan expose deepening border lawlessness and regional instability.",
-    "category": "Airstrike",
-    "location": "Egypt",
-    "addedAt": "2026-10-12T19:22:17.667662+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss"
-  },
-  {
-    "id": "a15f33fa2fb5",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T15:19",
-    "headline": "Oil tanker reportedly attacked in Strait of Hormuz region",
-    "excerpt": "Plumes of black smoke rise from a Petro Dolphin oil tanker by a drone attack off the coast of Oman.",
-    "category": "Missile/Drone",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-10-12T19:22:17.667687+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss"
-  },
-  {
-    "id": "c10a2188479c",
-    "source": "PressTV",
-    "date": "2026-10-12T19:22",
-    "headline": "Long-term sanctions failed to hinder Iran’s defense production: Minister nominee",
-    "excerpt": "The Iranian defense minister nominee says sanctions against Iran for almost half a century have failed to prevent the Islamic Republic from producing defense equipment.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-12T19:22:19.819714+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/12/778166/long-term-sanctions-failed-to-hinder-iran-defense-production-minister-nominee"
-  },
-  {
-    "id": "39b2c810cb79",
-    "source": "PressTV",
-    "date": "2026-10-12T19:22",
-    "headline": "Exclusive: If attacked again, Iran will target US data centers and AI sites across West Asia",
-    "excerpt": "In today’s edition of Unscripted, we are joined by Major General Mohsen Rezaei, Secretary of Iran’s Supreme National Security Council and former IRGC commander-in-chief.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-12T19:22:19.819760+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/12/778156/if-attacked-again-iran-will-target-us-tech-assets-data-centers-ai-sites-west-asia"
-  },
-  {
-    "id": "e54f66d1df2d",
-    "source": "PressTV",
-    "date": "2026-10-12T19:22",
-    "headline": "Iran says documented role of neighboring countries in facilitating US-Israeli aggression",
-    "excerpt": "Gharibabadi detailed the broader legal strategy Tehran is employing to hold the United States and the Zionist regime accountable.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-12T19:22:19.819794+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/11/778121/Iran-deputy-FM-says-documented-role-of-neighboring-countries-in-facilitating-US-Israeli-aggression"
   }
 ]
