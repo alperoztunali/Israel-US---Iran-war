@@ -1,5 +1,49 @@
 [
   {
+    "id": "a592c04b4c73",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T00:25",
+    "headline": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+    "excerpt": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
+    "category": "Casualties",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-22T01:54:57.924763+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss"
+  },
+  {
+    "id": "83314b83a702",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T00:00",
+    "headline": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+    "excerpt": "Iran&#039;s IRGC threatens to invade any country that attacks it under a new &#039;offensive and asymmetrical&#039; doctrine.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-22T01:54:57.924820+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss"
+  },
+  {
+    "id": "4a93c131bf33",
+    "source": "Al Jazeera",
+    "date": "2026-10-21T23:13",
+    "headline": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+    "excerpt": "US State Department says Iran-aligned Houthis have &#039;increasingly ⁠⁠engaged in hostilities&#039; against Saudi Arabia.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-22T01:54:57.924862+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss"
+  },
+  {
+    "id": "23ef889d5754",
+    "source": "PressTV",
+    "date": "2026-10-22T01:54",
+    "headline": "Iran condemns ongoing illegal US measures targeting Cuba",
+    "excerpt": "Iran’s Foreign Ministry condemns the US’s ongoing illegal actions against Cuba, denouncing Washington’s sanctions and attempts to intimidate Cuban officials and public figures.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-22T01:54:59.985034+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/21/778835/Iran-Cuba-arrest-warrant-Castro"
+  },
+  {
     "id": "48e4a80bdebc",
     "source": "Al Jazeera",
     "date": "2026-10-21T22:03",
@@ -5454,49 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-10-12T09:41:02.772662+00:00",
     "link": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss"
-  },
-  {
-    "id": "ffe86ba7dbaf",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T07:40",
-    "headline": "Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks",
-    "excerpt": "Mexican boxer tells Turki Al-Sheikh he &#039;fears nothing&#039; and will face M&#039;billi in Riyadh on October 31 &#039;no matter what&#039;.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-12T09:41:02.772705+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss"
-  },
-  {
-    "id": "a3828c4bca37",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T07:27",
-    "headline": "If Netanyahu goes, does anything really change for Palestinians?",
-    "excerpt": "Analysts say opposition win in polls may bring only marginal change and no fundamental shift on Gaza, West Bank.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-10-12T09:41:02.772738+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "f86dc92fa80e",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T05:53",
-    "headline": "Countries warn against travel to Saudi Arabia following Houthi attacks",
-    "excerpt": "US, Australia, Canada, Japan, South Korea and New Zealand among countries urging citizens to avoid travel to the kingdom.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-12T09:41:02.772776+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss"
-  },
-  {
-    "id": "8d7a56158987",
-    "source": "Al Jazeera",
-    "date": "2026-10-12T05:27",
-    "headline": "Clashes reported in Yemen as Houthis advance towards Taiz",
-    "excerpt": "Heavy clashes have been reported between Houthi fighters and Yemeni- forces near the strategic southern city of Taiz.",
-    "category": "Airstrike",
-    "location": "Yemen",
-    "addedAt": "2026-10-12T09:41:02.772799+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss"
   }
 ]
