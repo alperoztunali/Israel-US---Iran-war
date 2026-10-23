@@ -1,5 +1,104 @@
 [
   {
+    "id": "ef85f940da00",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T13:50",
+    "headline": "Finland nearing opening of world’s first permanent nuclear waste repository",
+    "excerpt": "Facilities are being built in many countries, but Finland is the first to licence its underground storage facility.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-23T14:48:19.421772+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss"
+  },
+  {
+    "id": "cf9077f87088",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T13:17",
+    "headline": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
+    "excerpt": "Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-23T14:48:19.421821+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss"
+  },
+  {
+    "id": "e89ea21a3717",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T13:00",
+    "headline": "Qatar Moto GP to go ahead despite regional tensions",
+    "excerpt": "Qatar GP goes ahead despite Saudi Arabia scrapping events in region after deadly strike on Riyadh airport.",
+    "category": "Casualties",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-23T14:48:19.421852+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss"
+  },
+  {
+    "id": "24f7952caa9c",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T12:54",
+    "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+    "excerpt": "The US-brokered talks are the first planned talks since negotiations stopped earlier this year.",
+    "category": "Diplomatic",
+    "location": "Uae",
+    "addedAt": "2026-10-23T14:48:19.421884+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
+  },
+  {
+    "id": "9bc7e4b80cc1",
+    "source": "PressTV",
+    "date": "2026-10-23T14:48",
+    "headline": "IEA warns Europe of costly winter as war on Iran disrupts gas supplies",
+    "excerpt": "The IEA chief warns that Europe faces a costly winter, with gas stocks well below normal and prices likely to rise as the war on Iran disrupts global supplies.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-23T14:48:21.207596+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/23/779017/Europe-Energy-Crisis-IEA-Birol-"
+  },
+  {
+    "id": "c2efd242f60f",
+    "source": "PressTV",
+    "date": "2026-10-23T14:48",
+    "headline": "‘So much worse than people realize’: Images, troops reveal damage at US bases",
+    "excerpt": "Never-before-published photos and videos have confirmed damage to US military facilities across West Asia during Iran’s retaliatory attacks, with US military personnel slamming their country for mismanagement and inadequate preparations and for “abandoning” them during the recent war on Iran.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-23T14:48:21.207640+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/23/779009/Images-troops-reveal-damage-at-US-bases"
+  },
+  {
+    "id": "44d917333d89",
+    "source": "PressTV",
+    "date": "2026-10-23T14:48",
+    "headline": "Transit of offending vessels through Strait of Hormuz halted: Report",
+    "excerpt": "The transit of offending vessels through the Strait of Hormuz has been completely halted, according to a report.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-10-23T14:48:21.207666+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/23/779008/Transit-of-non-compliant-vessels-through-Strait-of-Hormuz-halted"
+  },
+  {
+    "id": "f9f8095e0b8a",
+    "source": "PressTV",
+    "date": "2026-10-23T14:48",
+    "headline": "Baghaei invokes ancient Persian historian to warn US against underestimating Iran",
+    "excerpt": "Esmaeil Baghaei has invoked the writings of medieval Persian historian Abolfazl Beyhaqi to warn the US against underestimating Iran amid renewed military threats from Donald Trump.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-23T14:48:21.207703+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/23/779002/Baghaei-invokes-ancient-Persian-historian-to-warn-US-against-underestimating-Iran"
+  },
+  {
+    "id": "7f46e30be633",
+    "source": "PressTV",
+    "date": "2026-10-23T14:48",
+    "headline": "French police swarm petrol station in Paris suburb after shooting leaves one dead",
+    "excerpt": "French police were seen at the site of a shooting at a petrol station in Trappes in the Paris suburbs - as prosecutors confirmed they were investigating a suspected 'terror attack'.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-23T14:48:21.207745+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/23/779015/French-police-swarm-petrol-station-in-Paris-suburb-after-shooting-leaves-one-dead-four-wounded"
+  },
+  {
     "id": "8e796b39c07a",
     "source": "Al Jazeera",
     "date": "2026-10-23T09:12",
@@ -5399,104 +5498,5 @@
     "location": "Egypt",
     "addedAt": "2026-10-13T21:27:45.272675+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss"
-  },
-  {
-    "id": "5851fddcf907",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T19:33",
-    "headline": "Trump says Houthis trying to increase oil prices before US elections",
-    "excerpt": "US president suggests that Yemen-based group are &#039;purposefully trying to drive up oil prices&#039; before November vote.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-13T21:27:45.272723+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss"
-  },
-  {
-    "id": "f3033ebe184d",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T18:44",
-    "headline": "Who killed Tupac?",
-    "excerpt": "For decades, Tupac Shakur’s murder remained unsolved. Now, Duane Davis has been sentenced 40 years for his killing.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-13T21:27:45.272752+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss"
-  },
-  {
-    "id": "7f7fe61ba080",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T18:42",
-    "headline": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
-    "excerpt": "As Israel moves Gaza’s Yellow Line westward, displaced families in Shujayea face renewed danger.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-13T21:27:45.272786+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss"
-  },
-  {
-    "id": "c3074ee8d941",
-    "source": "PressTV",
-    "date": "2026-10-13T21:27",
-    "headline": "Iran slams UK’s ‘baseless’ Fairford accusations as clumsy false-flag plot",
-    "excerpt": "Iran has strongly condemned the unfounded claims by British officials attempting to link an alleged security incident at RAF Fairford air base to Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-13T21:27:47.133124+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/12/778192/Iran-slams-UK%E2%80%99s-%E2%80%98baseless%E2%80%99-Fairford-accusations-as-clumsy-false-flag-plot-to-cover-aggression"
-  },
-  {
-    "id": "9674b104aa0e",
-    "source": "PressTV",
-    "date": "2026-10-13T21:27",
-    "headline": "Strait of Hormuz inseparable part of Iran's territory: Leader's advisor",
-    "excerpt": "Major General Rahim Safavi says Iran has every right to exert its sovereignty over the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-13T21:27:47.133162+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/12/778178/Iran-Hormuz-control-Rahim-Safavi-comments"
-  },
-  {
-    "id": "8ab95ad4513e",
-    "source": "PressTV",
-    "date": "2026-10-13T21:27",
-    "headline": "'Maritime piracy, theft, and fuel smuggling' can’t prevent definitive US defeat: Iran",
-    "excerpt": "\"Can maritime piracy, theft, and fuel smuggling prevent America's definitive defeat? Never!” Iran's armed forces spokesman says.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-13T21:27:47.133193+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/12/778168/Oil-smuggling-can%E2%80%99t-prevent-US-defeat-Iranian-army"
-  },
-  {
-    "id": "744a779afb5d",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T16:06",
-    "headline": "UK spy chief says Iran is stepping up targeting of military bases",
-    "excerpt": "MI5 chief says 50 arrests were made in past year to disrupt Iran-led operations.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-13T16:22:41.204413+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss"
-  },
-  {
-    "id": "8b8cfb409c39",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T15:01",
-    "headline": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
-    "excerpt": "Explosions in Sanaa reported shortly after Saudi-led coalition&#039;s evacuation order as Houthis promise &#039;harsh&#039; response.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-13T16:22:41.204460+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss"
-  },
-  {
-    "id": "e879301ca197",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T14:02",
-    "headline": "Palestinians dream of returning home after Israel raids West Bank camps",
-    "excerpt": "Palestinians have been displaced from their homes in Tulkarem refugee camp and dream of returning home.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-13T16:22:41.204486+00:00",
-    "link": "https://www.aljazeera.com/features/2026/10/13/palestinians-dream-of-returning-home-after-israel-raids-west-bank-camps?traffic_source=rss"
   }
 ]
