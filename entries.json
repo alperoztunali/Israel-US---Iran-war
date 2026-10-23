@@ -1,5 +1,49 @@
 [
   {
+    "id": "2f88e857d824",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T21:27",
+    "headline": "Masked gunmen kill seven in attack on church funeral in Jordan",
+    "excerpt": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
+    "category": "Casualties",
+    "location": "Jordan",
+    "addedAt": "2026-10-23T22:00:35.378084+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss"
+  },
+  {
+    "id": "b3f085770982",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T20:52",
+    "headline": "‘Generation Right’: Israeli youth show strong support for the right",
+    "excerpt": "Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-23T22:00:35.378128+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss"
+  },
+  {
+    "id": "66d7cda1c6b4",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T20:44",
+    "headline": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
+    "excerpt": "More than 800,000 people have been cut off from aid since the Houthis encircled Taiz city in early October.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-23T22:00:35.378159+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss"
+  },
+  {
+    "id": "2024823c972c",
+    "source": "PressTV",
+    "date": "2026-10-23T22:00",
+    "headline": "US ‘one-sided dictation’ not Iran’s beliefs makes rational talks impossible: Baghaei",
+    "excerpt": "The Iranian Foreign Ministry spokesman says US coercion and one-sided demands, not Iran’s religious beliefs, are undermining rational negotiations.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-23T22:00:37.345438+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/22/778919/Iran-US-Baghaei-negotiations"
+  },
+  {
     "id": "d913c0d83401",
     "source": "Al Jazeera",
     "date": "2026-10-23T18:38",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-14T10:31:36.214718+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss"
-  },
-  {
-    "id": "6b81162c276e",
-    "source": "PressTV",
-    "date": "2026-10-14T10:31",
-    "headline": "Domestic capabilities, continuous production key to Iran’s defense readiness: IRGC chief",
-    "excerpt": "General Vahidi says Iran’s defense readiness depends on domestic capabilities, sustained production and the development of strategic technologies.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-14T10:31:38.077403+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/14/778282/Domestic-capabilities,-continuous-production-key-Iran%E2%80%99s-defense-readiness--IRGC-chief"
-  },
-  {
-    "id": "85987785817f",
-    "source": "PressTV",
-    "date": "2026-10-14T10:31",
-    "headline": "Iran FM warns of environmental damage from wars across West Asia",
-    "excerpt": "Araghchi warns that ongoing conflicts in West Asia are causing lasting environmental damage across the region.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-14T10:31:38.077433+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/14/778280/Iran-Abbas-Araghchi-warns-environmental-damage-wars-West-Asia"
-  },
-  {
-    "id": "3e9725785308",
-    "source": "PressTV",
-    "date": "2026-10-14T10:31",
-    "headline": "Armed terrorist convicted of terror act, collaboration with enemy executed in Kerman",
-    "excerpt": "Iran’s Judiciary has announced the execution of armed terrorist Ali Sina Mostafavi in Kerman for terrorist attacks and collaboration with the enemy.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-10-14T10:31:38.077461+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/14/778281/Iran-Judiciary-Kerman-Ali-Sina-Mostafavi-US-Israel-terrorist-attacks-firearms"
-  },
-  {
-    "id": "4841acfe1343",
-    "source": "PressTV",
-    "date": "2026-10-14T10:31",
-    "headline": "Iranian courts issue rulings worth more than $290 billion over US crimes",
-    "excerpt": "An Iranian judiciary official says the country’s courts have issued rulings totaling more than $290 billion against the United States.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-14T10:31:38.077486+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/14/778276/Iranian-courts-issue-rulings-worth--280-billion-over-US-crimes--Judiciary-official"
   }
 ]
