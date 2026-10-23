@@ -1,5 +1,38 @@
 [
   {
+    "id": "ed5d5256c4f6",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T22:25",
+    "headline": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+    "excerpt": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-23T00:06:56.000883+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss"
+  },
+  {
+    "id": "7957c3789c23",
+    "source": "Al Jazeera",
+    "date": "2026-10-22T21:03",
+    "headline": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?",
+    "excerpt": "Bayern Munich striker Kane faces tough competition from Lamine Yamal and Kylian Mbappe, who are also in the ‌‌running.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-23T00:06:56.000972+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/10/22/ballon-dor-2026-can-bayerns-harry-kane-end-englands-25-years-of-hurt?traffic_source=rss"
+  },
+  {
+    "id": "f7a08e681940",
+    "source": "PressTV",
+    "date": "2026-10-23T00:06",
+    "headline": "US playing victim by calling for global condemnation of Iran: FM spokesman",
+    "excerpt": "Iran’s Foreign Ministry spokesman says the US is trying to play the victim in the aggression against the country by turning the aggressor into the accuser.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-23T00:06:58.279784+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/21/778878/Iran-Baqaei-post-US-call-Iran-condemnation"
+  },
+  {
     "id": "f0d97d8274a3",
     "source": "Al Jazeera",
     "date": "2026-10-22T20:05",
@@ -5465,38 +5498,5 @@
     "location": "Qatar",
     "addedAt": "2026-10-13T08:29:53.295476+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/emir-of-qatar-reiterates-the-need-for-safety-and-stability-in-the-region?traffic_source=rss"
-  },
-  {
-    "id": "17c2c4a74ab4",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T07:45",
-    "headline": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-    "excerpt": "A year after Gaza&#039;s ceasefire, Israeli attacks persist as settler violence disrupts West Bank&#039;s oil harvest.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-10-13T08:29:53.295517+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss"
-  },
-  {
-    "id": "10635238cd42",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T07:36",
-    "headline": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
-    "excerpt": "Two ships were hit in the attack, including the Ukrainian-owned Chelsea 3, which sustained damage.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-13T08:29:53.295541+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss"
-  },
-  {
-    "id": "1d88fe282c51",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T06:42",
-    "headline": "Emir says Qatar has shown resilience in the face of ‘exceptional events’",
-    "excerpt": "Sheikh Tamim bin Hamad Al Thani says Qatar&#039;s response has highlighted the strength of state institutions.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-10-13T08:29:53.295568+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss"
   }
 ]
