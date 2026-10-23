@@ -1,5 +1,104 @@
 [
   {
+    "id": "8e796b39c07a",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T09:12",
+    "headline": "Israeli military kills two in gun battle in occupied West Bank",
+    "excerpt": "Israel’s PM is preparing to order a shutdown in the occupied West Bank lockdown after a shooting near Hebron.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-23T09:50:22.165146+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "bdca8a307a1c",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T09:03",
+    "headline": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+    "excerpt": "Israel&#039;s election heats up over ultra-Orthodox conscription debate, reflecting deep societal and political divides.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-23T09:50:22.165205+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss"
+  },
+  {
+    "id": "07591468ed55",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T08:35",
+    "headline": "Israeli forces accused of killing disabled man in Syria raid",
+    "excerpt": "Israeli forces reportedly shot dead a Syrian man with an intellectual disability and hearing problems, during a raid.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-23T09:50:22.165242+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss"
+  },
+  {
+    "id": "c76e49beea4f",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T07:37",
+    "headline": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+    "excerpt": "With emergency stocks at multidecade lows, analysts say the world may have only a month or two if Hormuz shuts again.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-23T09:50:22.165277+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "3ca8ba94b726",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T06:02",
+    "headline": "EU entering winter with lowest gas reserves on record, IEA boss warns",
+    "excerpt": "Al Jazeera interviews Fatih Birol in Berlin as the Iran war disrupts global energy supplies.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-23T09:50:22.165309+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss"
+  },
+  {
+    "id": "982e8c4be35d",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T04:41",
+    "headline": "Grenade exercise sparked deadly fire at Canada military base, army says",
+    "excerpt": "High winds propelled the blaze across the army base in Wainwright, killing four soldiers and injuring dozens more.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-23T09:50:22.165343+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss"
+  },
+  {
+    "id": "33a5bd244ccc",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T04:09",
+    "headline": "Israel preparing full lockdown of occupied West Bank after Hebron gunfight",
+    "excerpt": "Clampdown comes as Israeli pogroms heighten tensions and spread violence across Palestinian territory.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-23T09:50:22.165374+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss"
+  },
+  {
+    "id": "c90ae2afd3a4",
+    "source": "PressTV",
+    "date": "2026-10-23T09:50",
+    "headline": "Iran blasts 'parasitic' alliance as US taxpayers pay for Israel's war",
+    "excerpt": "Iran condemns 'parasitic' military relations between the United States and Israel, citing the spending of $11 billion in American taxpayers’ money on missiles for the occupying regime over the past three years.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-10-23T09:50:24.346218+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/23/779000/Iran-parasitic-US-Israel-military-ties"
+  },
+  {
+    "id": "ea580b7efbd2",
+    "source": "PressTV",
+    "date": "2026-10-23T09:50",
+    "headline": "Iran, six other countries call for accountability of sanctions-imposing states",
+    "excerpt": "Iran, Belarus, China, Cuba, Myanmar, Nicaragua, and Russia condemn the devastating impact of unilateral sanctions on human rights and international cooperation, saying the states slapping such illegal restrictive measure must be held to account.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-23T09:50:24.346256+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/23/778990/Iran-accountability-sanctions-imposing-states"
+  },
+  {
     "id": "2058a4aad083",
     "source": "Al Jazeera",
     "date": "2026-10-23T04:09",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-13T16:22:41.204486+00:00",
     "link": "https://www.aljazeera.com/features/2026/10/13/palestinians-dream-of-returning-home-after-israel-raids-west-bank-camps?traffic_source=rss"
-  },
-  {
-    "id": "c4e4f1e15ebc",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T13:47",
-    "headline": "Yemeni government launches air strikes on Houthi positions",
-    "excerpt": "Yemeni rights group accuses the Houthis of killing five civilians and injuring more than a dozen others.",
-    "category": "Airstrike",
-    "location": "Yemen",
-    "addedAt": "2026-10-13T16:22:41.204502+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss"
-  },
-  {
-    "id": "a084edbac7cd",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T13:08",
-    "headline": "French fridge fright: Why supermarkets have become target for hackers",
-    "excerpt": "More than 500 shops across France were hit in a major cyberattack on freezers, which caused tonnes of food to perish.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-13T16:22:41.204529+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/10/13/french-fridge-fright-why-supermarkets-have-become-target-for-hackers?traffic_source=rss"
-  },
-  {
-    "id": "fa99e5b72322",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T13:03",
-    "headline": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident",
-    "excerpt": "Iran has been accused of being behind a plot against an airbase in the UK.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-13T16:22:41.204559+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/13/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident?traffic_source=rss"
-  },
-  {
-    "id": "c8e502ead572",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T13:03",
-    "headline": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
-    "excerpt": "Iran has warned that cables and data centres in the region could be attacked, as Houthi allies hold internet chokepoint.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-10-13T16:22:41.204587+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss"
-  },
-  {
-    "id": "2b23222d2d14",
-    "source": "Al Jazeera",
-    "date": "2026-10-13T12:57",
-    "headline": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
-    "excerpt": "Government forces engage in intense clashes as Houthi shelling targets residential areas and hospitals in Taiz.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-10-13T16:22:41.204616+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib?traffic_source=rss"
-  },
-  {
-    "id": "a791399d8273",
-    "source": "PressTV",
-    "date": "2026-10-13T16:22",
-    "headline": "Iran seizes weapons cache smuggled from Iraqi Kurdistan for ‘terrorist operations’",
-    "excerpt": "Iran’s Intelligence Ministry says it has successfully confiscated a stash of weapons being smuggled from the Iraqi Kurdistan region into the country for sabotage and terrorism purposes.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-13T16:22:43.975185+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/13/778241/iran-seizes-smuggled-weapons-on-western-border"
-  },
-  {
-    "id": "22b230577241",
-    "source": "PressTV",
-    "date": "2026-10-13T16:22",
-    "headline": "IRGC busts terrorist gang of hostage-takers in Sistan and Baluchestan",
-    "excerpt": "Iran’s Islamic Revolution Guards Corps (IRGC) says its ground forces have dismantled a gang of hostage-takers in the southeastern province of Sistan and Baluchestan.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-13T16:22:43.975217+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/13/778229/irgc-busts-gang-of-hostage-takers-in-sistan-and-baluchestan"
-  },
-  {
-    "id": "c8aab696d822",
-    "source": "PressTV",
-    "date": "2026-10-13T16:22",
-    "headline": "Iran Navy dealt ‘heavy blows’ to US Navy, forced it to retreat: Deputy commander",
-    "excerpt": "A senior Iranian naval commander says the Navy has been developing new equipment, some of which is already prepared for deployment.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-13T16:22:43.975237+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/12/778177/Iran-Army-Navy-US"
-  },
-  {
-    "id": "78a11a8d1ac9",
-    "source": "PressTV",
-    "date": "2026-10-13T16:22",
-    "headline": "Iran: Hormuz security cannot return to normal amid US blockade, economic war",
-    "excerpt": "Iran says security would not return to the Strait of Hormuz as long as the US continues its naval blockade of and economic war against Iran.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-13T16:22:43.975257+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/12/778149/Iran-Hormuz-United-States-war-blockade-security-Israel"
   }
 ]
