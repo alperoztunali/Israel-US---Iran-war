@@ -1,5 +1,148 @@
 [
   {
+    "id": "93f2d9bc05cb",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T13:06",
+    "headline": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+    "excerpt": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-10-24T13:36:59.415414+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss"
+  },
+  {
+    "id": "f740d0b4259e",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T13:02",
+    "headline": "Jordan’s King Abdullah orders firm response after deadly church attack",
+    "excerpt": "Authorities are still searching for the attackers and say it is too early to determine if they had ties to known groups.",
+    "category": "Casualties",
+    "location": "Jordan",
+    "addedAt": "2026-10-24T13:36:59.415459+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss"
+  },
+  {
+    "id": "0bf36c505708",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T12:55",
+    "headline": "France protests live: 135 arrested as marches held under tight security",
+    "excerpt": "Authorities say they are determined to prevent another weekend of looting, burned cars and attacks on public buildings.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-24T13:36:59.415505+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss"
+  },
+  {
+    "id": "72ae646e8e21",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T12:51",
+    "headline": "Is Iran planning attacks on Americans; why is the US on alert?",
+    "excerpt": "US intelligence memo warns that Iranian plots against US citizens in the Middle East &#039;have reached advanced stages&#039;.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-24T13:36:59.415541+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss"
+  },
+  {
+    "id": "021e70f2312d",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T12:30",
+    "headline": "Malaysia considers complete ban on Israel-based navigation app Waze",
+    "excerpt": "Malaysia has barred civil servants from using Waze for official duties over its links to Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-24T13:36:59.415573+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss"
+  },
+  {
+    "id": "af0756f92a6b",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T11:50",
+    "headline": "Czech Republic advances media funding overhaul despite criticism",
+    "excerpt": "Journalists prepare to strike as politicians push through changes that critics say threaten independence.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-24T13:36:59.415614+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss"
+  },
+  {
+    "id": "4701be6584fa",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T10:47",
+    "headline": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
+    "excerpt": "Monitoring group reports more Muslims in Europe face racial discrimination as &#039;terrorist&#039; attack kills one in France.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-24T13:36:59.415651+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss"
+  },
+  {
+    "id": "0555744a793d",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T09:16",
+    "headline": "Ilhan Omar votes as Trump renews attacks amid federal probe",
+    "excerpt": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-10-24T13:36:59.415695+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss"
+  },
+  {
+    "id": "db85c7a3b5a8",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T09:14",
+    "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
+    "excerpt": "Netanyahu says &#039;we will destroy this place&#039; as Israeli forces begin days-long operation with raids and demolitions.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-10-24T13:36:59.415725+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "9099ecb616d0",
+    "source": "PressTV",
+    "date": "2026-10-24T13:37",
+    "headline": "Tehran urges IAEA to 'end double standards, resist politicization'",
+    "excerpt": "Iran’s Permanent Mission to the United Nations in Vienna has urged the International Atomic Energy Agency (IAEA) to drop its “double standards”, and not to submit to pressure from certain regimes.",
+    "category": "Statement",
+    "location": "Tehran",
+    "addedAt": "2026-10-24T13:37:01.486994+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/23/779037/Tehran-urges-IAEA-end-double-standards-resist-politicization"
+  },
+  {
+    "id": "21d8542159a4",
+    "source": "PressTV",
+    "date": "2026-10-24T13:37",
+    "headline": "Araghchi slams Macron’s flip-flop on Iran nuclear deal: ‘Get your story straight’",
+    "excerpt": "Araghchi recalled Macron’s firm stance before the US Congress in 2018, just before then-President Donald Trump withdrew the United States from the nuclear agreement.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-24T13:37:01.487047+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/22/778980/Araghchi-slams-Macron%E2%80%99s-flip-flop-on-Iran-nuclear-deal--%E2%80%98Get-your-story-straight%E2%80%99"
+  },
+  {
+    "id": "cc71856752b8",
+    "source": "PressTV",
+    "date": "2026-10-24T13:37",
+    "headline": "Drone shots show thousands rallying Serbia's student movement supporters ahead of pivotal vote",
+    "excerpt": "Tens of thousands of supporters of Serbia's student movement gathered in Belgrade for a final campaign rally ahead of the parliamentary election.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-24T13:37:01.487101+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/24/779072/Drone-shots-show-thousands-rallying-Serbia-s-student-movement-supporters-ahead-of-pivotal-vote"
+  },
+  {
+    "id": "1278c208ebeb",
+    "source": "PressTV",
+    "date": "2026-10-24T13:37",
+    "headline": "Gaza's diabetic children forced to rely on expired insulin as supplies run out",
+    "excerpt": "A critical shortage of insulin in Gaza is putting thousands of diabetic children at severe risk, with desperate families resorting to expired medication.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-10-24T13:37:01.487133+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/24/779078/Gaza-s-diabetic-children-forced-to-rely-on-expired-insulin-as-supplies-run-out"
+  },
+  {
     "id": "d0d024c6a325",
     "source": "Al Jazeera",
     "date": "2026-10-24T08:56",
@@ -5355,148 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-14T19:43:21.667597+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/13/778234/iran-stands-ready-with-full-capacity-to-counter-any-aggression-foreign-ministry"
-  },
-  {
-    "id": "739ab505ea97",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T15:06",
-    "headline": "Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn",
-    "excerpt": "Almost one million people cut off from food aid as health infrastructure overwhelmed by war-wounded.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-10-14T15:31:08.292028+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn?traffic_source=rss"
-  },
-  {
-    "id": "87876f650f2e",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T14:38",
-    "headline": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
-    "excerpt": "Ukraine&#039;s Western allies are using maritime law to inspect Russian shadow tankers.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-10-14T15:31:08.292075+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss"
-  },
-  {
-    "id": "13e17d6d0ea7",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T14:36",
-    "headline": "What is potash, and why is the US importing it from Belarus?",
-    "excerpt": "US reliance on Canadian potash, a key fertiliser mineral, adds to farmers&#039; cost concerns amid trade tensions.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-14T15:31:08.292117+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus?traffic_source=rss"
-  },
-  {
-    "id": "d47d7de54331",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T14:08",
-    "headline": "Colombia inaugurates embassy to Israel in Jerusalem",
-    "excerpt": "Palestinian officials slam move by Colombian government that marked major shift after ex-president had cut Israel ties.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-14T15:31:08.292148+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss"
-  },
-  {
-    "id": "04ecc99995fb",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T13:50",
-    "headline": "Two scenarios for the Yemen war",
-    "excerpt": "What comes next is either a retreat for the Houthis or a war of attrition.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-14T15:31:08.292175+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss"
-  },
-  {
-    "id": "283248067f76",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T13:28",
-    "headline": "UK restaurateur claims losses after video calling for Gaza destruction",
-    "excerpt": "A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-14T15:31:08.292210+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss"
-  },
-  {
-    "id": "a6c06052344c",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T13:17",
-    "headline": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
-    "excerpt": "One official claims satellite internet could erode online governance in Iran amid war with the US and Israel.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-14T15:31:08.292246+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss"
-  },
-  {
-    "id": "fb0df3e483de",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T12:50",
-    "headline": "Iraq’s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
-    "excerpt": "Saudi Arabia&#039;s East-West oil pipeline was struck by drones last month in an attack that originated in Iraq.",
-    "category": "Missile/Drone",
-    "location": "Iraq",
-    "addedAt": "2026-10-14T15:31:08.292282+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss"
-  },
-  {
-    "id": "803e0a5e3055",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T12:28",
-    "headline": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
-    "excerpt": "Colombia has opened an embassy in West Jerusalem under new far-right President Abelardo de la Espriella.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-14T15:31:08.292313+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss"
-  },
-  {
-    "id": "5c891140cc41",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T11:43",
-    "headline": "Do any of these Israeli candidates support a Palestinian state?",
-    "excerpt": "Do any of these Israeli candidates support a Palestinian state?",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-14T15:31:08.292339+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss"
-  },
-  {
-    "id": "9c6d2cabf430",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T11:39",
-    "headline": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
-    "excerpt": "Saudi civil defence authority says danger passed after it issued alerts via its national early warning platform.",
-    "category": "Missile/Drone",
-    "location": "Riyadh",
-    "addedAt": "2026-10-14T15:31:08.292361+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss"
-  },
-  {
-    "id": "51c19b8976a2",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T11:16",
-    "headline": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
-    "excerpt": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-14T15:31:08.292382+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss"
-  },
-  {
-    "id": "47380ac642e0",
-    "source": "PressTV",
-    "date": "2026-10-14T15:31",
-    "headline": "Ship navigating unauthorized route sinks in Strait of Hormuz after striking naval mine: IRGC",
-    "excerpt": "The IRGC says a container ship sank in the Strait of Hormuz after striking a naval mine while attempting to use an unauthorized route.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-10-14T15:31:19.673826+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/14/778292/Ship-navigating-unauthorized-route-sinks-in-Strait-of-Hormuz-after-striking-naval-mine--IRGC"
   }
 ]
