@@ -1,5 +1,104 @@
 [
   {
+    "id": "d0d024c6a325",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T08:56",
+    "headline": "Bolivian teachers strike over wages and education reform",
+    "excerpt": "Bolivian teachers strike over wages and education reform",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-24T09:34:08.436925+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss"
+  },
+  {
+    "id": "03b1facb758a",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T07:09",
+    "headline": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+    "excerpt": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-10-24T09:34:08.436967+00:00",
+    "link": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss"
+  },
+  {
+    "id": "205e95dad05d",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T06:21",
+    "headline": "Has Vivek Ramaswamy’s attack ad against Amy Acton backfired?",
+    "excerpt": "Ramaswamy&#039;s ad featuring Acton&#039;s estranged mother draws Republican criticism as Ohio governor&#039;s race heats up.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-24T09:34:08.437017+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/24/has-vivek-ramaswamys-attack-ad-against-amy-acton-backfired?traffic_source=rss"
+  },
+  {
+    "id": "be9aefb25474",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T05:29",
+    "headline": "How Benjamin Netanyahu reshaped Israel’s institutions",
+    "excerpt": "As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-24T09:34:08.437056+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss"
+  },
+  {
+    "id": "65891d339fbd",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T05:20",
+    "headline": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
+    "excerpt": "Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-10-24T09:34:08.437097+00:00",
+    "link": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss"
+  },
+  {
+    "id": "aa8d8342a4fa",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T05:04",
+    "headline": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
+    "excerpt": "Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-24T09:34:08.437134+00:00",
+    "link": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss"
+  },
+  {
+    "id": "69c32d29dbee",
+    "source": "PressTV",
+    "date": "2026-10-24T09:34",
+    "headline": "A new step in energy storage innovation: Platin Iran unveils graphene-enhanced lead-acid battery",
+    "excerpt": "Iranian manufacturer Platin Iran has commercialized a graphene-enhanced lead-acid battery, reporting improved capacity, longer cycle life, and lower operating costs through university-industry collaboration.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-24T09:34:10.223525+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/21/778865/platin-irans-graphene-enhanced-lead-acid-battery-an-iranian-innovation-in-energy-storage"
+  },
+  {
+    "id": "6e95554bb266",
+    "source": "PressTV",
+    "date": "2026-10-24T09:34",
+    "headline": "Iran: Calling US-Israeli aggression an ‘Iran conflict’ is moral evasion",
+    "excerpt": "Esmaeil Baghaei said that the refusal to call the US-Israeli war of aggression by its name is not neutrality but moral evasion.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-10-24T09:34:10.223585+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/22/778978/Iran--Calling-US-Israeli-aggression-an-%E2%80%98Iran-conflict%E2%80%99-is-moral-evasion"
+  },
+  {
+    "id": "a85487cfd98c",
+    "source": "PressTV",
+    "date": "2026-10-24T09:34",
+    "headline": "Army chief says Iran ready for any asymmetric warfare, stresses ‘maturity’ in drone technology",
+    "excerpt": "Iran’s Army chief says his forces are fully prepared for asymmetric warfare.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-10-24T09:34:10.223614+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/22/778939/Iran-Army-drone-Hatami"
+  },
+  {
     "id": "c4ac3b7c9d95",
     "source": "Al Jazeera",
     "date": "2026-10-24T04:48",
@@ -5399,104 +5498,5 @@
     "location": "Strait Of Hormuz",
     "addedAt": "2026-10-14T15:31:19.673826+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/14/778292/Ship-navigating-unauthorized-route-sinks-in-Strait-of-Hormuz-after-striking-naval-mine--IRGC"
-  },
-  {
-    "id": "2045ef241461",
-    "source": "PressTV",
-    "date": "2026-10-14T15:31",
-    "headline": "Iran’s cenbank chief rejects claims of economic collapse as ‘illusion’",
-    "excerpt": "Hemmati dismisses claims of an economic collapse as an “illusion,” saying the country has demonstrated resilience despite US sanctions and economic pressures associated with the latest round of US-Israeli aggression.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-14T15:31:19.673874+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/14/778290/Iran-Central-Bank-Governor-rejects-claims-economy-collapsing-illusion-US-sanctions-"
-  },
-  {
-    "id": "9bc1f7939aef",
-    "source": "PressTV",
-    "date": "2026-10-14T15:31",
-    "headline": "US made 'strategic miscalculation' in war on Iran, suffered defeat by nation's resistance: IRGC",
-    "excerpt": "General Javani says the enemy wrongly assumed that Ayatollah Khamenei’s martyrdom would lead to the collapse of the establishment.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-14T15:31:19.673919+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/13/778213/US-strategic-miscalculation-in-Iran-war-shattered-by-nation-resistance-IRGC-official"
-  },
-  {
-    "id": "a3eb439d1b9c",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T09:53",
-    "headline": "How a radio glitch triggered a false hijack alert in Germany",
-    "excerpt": "Authorities scrambled fighter jets to escort a plane from Corfu to Nuremberg after a pilot sent a hijack alert.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-10-14T10:31:36.214342+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/how-a-radio-glitch-triggered-a-false-hijack-alert-in-germany?traffic_source=rss"
-  },
-  {
-    "id": "f7a800231ab4",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T09:40",
-    "headline": "Girl rescued from flaming apartment after Israeli attack on Gaza",
-    "excerpt": "Civilians rushed to rescue a girl trapped in a burning apartment after an Israeli attack struck a building in Gaza City.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-14T10:31:36.214384+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "66249abfeeec",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T08:24",
-    "headline": "How do Iranians move money abroad to avoid US sanctions?",
-    "excerpt": "From currency brokers to crypto, Iranians find ways to circumvent sanctions, but each comes with its own problems.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-14T10:31:36.214408+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "25d2b58113aa",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T07:57",
-    "headline": "Tensions with teachers, pupils and Turkiye: Inside Azerbaijan’s hijab row",
-    "excerpt": "Teachers fear losing their livelihoods and students risk being excluded as Baku&#039;s close ally appears critical.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-14T10:31:36.214443+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/tensions-with-teachers-pupils-and-turkiye-inside-azerbaijans-hijab-row?traffic_source=rss"
-  },
-  {
-    "id": "6e65fa8c90f4",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T07:41",
-    "headline": "Palestinians say Israel’s democracy ‘is a joke’",
-    "excerpt": "As Israelis prepare to vote, Palestinians in the occupied West Bank say they have little hope of change.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-14T10:31:36.214469+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss"
-  },
-  {
-    "id": "b9dc883091d3",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T07:38",
-    "headline": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
-    "excerpt": "Demolished homes, shifting military lines, stalled withdrawals leave Lebanese uncertain if they can return.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-14T10:31:36.214497+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "90ed2e24cfe8",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T07:31",
-    "headline": "Why Sri Lanka’s Rajapaksas are being investigated for corruption and crimes",
-    "excerpt": "Several members and allies of once-powerful dynasty, including the wife of ex-President Mahinda Rajapaksa, are under arrest.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-14T10:31:36.214533+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss"
   }
 ]
