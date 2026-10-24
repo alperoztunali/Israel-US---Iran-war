@@ -1,5 +1,27 @@
 [
   {
+    "id": "021deb1fa05b",
+    "source": "Al Jazeera",
+    "date": "2026-10-24T00:00",
+    "headline": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+    "excerpt": "Israeli army launches a &#039;targeted&#039; operation in Hebron after a shooting killed two soldiers.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-10-24T00:44:12.261232+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
+  },
+  {
+    "id": "8519ab9191e5",
+    "source": "Al Jazeera",
+    "date": "2026-10-23T22:01",
+    "headline": "Why is Israel increasing its presence in the Balkans?",
+    "excerpt": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-24T00:44:12.261281+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss"
+  },
+  {
     "id": "2f88e857d824",
     "source": "Al Jazeera",
     "date": "2026-10-23T21:27",
@@ -5476,27 +5498,5 @@
     "location": "Haifa",
     "addedAt": "2026-10-14T10:31:36.214669+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/14/from-cairo-to-tokyo-can-you-guess-these-twin-cities?traffic_source=rss"
-  },
-  {
-    "id": "906a117fa387",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T05:39",
-    "headline": "Man City deserve to keep trophies despite charges, says PSG’s Luis Enrique",
-    "excerpt": "Enrique, a friend of former Man City boss Guardiola, hopes the club can avoid the sanction of losing its titles.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-14T10:31:36.214701+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/14/man-city-deserve-to-keep-trophies-despite-charges-says-psgs-luis-enrique?traffic_source=rss"
-  },
-  {
-    "id": "21bc409c3343",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T05:07",
-    "headline": "Ukrainian drones strike more than 100km into Russian territory",
-    "excerpt": "Ukrainian drones struck the Saratov region. The regional governor reported one person was killed.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-14T10:31:36.214718+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss"
   }
 ]
