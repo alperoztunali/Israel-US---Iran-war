@@ -1,5 +1,16 @@
 [
   {
+    "id": "5ec76a4304bd",
+    "source": "Al Jazeera",
+    "date": "2026-10-25T21:00",
+    "headline": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+    "excerpt": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-25T22:27:59.311373+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss"
+  },
+  {
     "id": "4c23720497fd",
     "source": "Al Jazeera",
     "date": "2026-10-25T19:36",
@@ -5487,16 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-16T05:39:17.485347+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss"
-  },
-  {
-    "id": "a19d163c2078",
-    "source": "Al Jazeera",
-    "date": "2026-10-16T00:02",
-    "headline": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
-    "excerpt": "Saudi Arabia calls Houthi attacks &#039;full-fledged war crimes&#039; while the US warns of possible attacks on Saudi airports.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-16T00:47:49.954408+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss"
   }
 ]
