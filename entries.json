@@ -1,5 +1,49 @@
 [
   {
+    "id": "112d65d9ca86",
+    "source": "Al Jazeera",
+    "date": "2026-10-25T02:45",
+    "headline": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+    "excerpt": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-25T04:45:29.747064+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "b67951a3d64b",
+    "source": "Al Jazeera",
+    "date": "2026-10-25T02:07",
+    "headline": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+    "excerpt": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-25T04:45:29.747117+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss"
+  },
+  {
+    "id": "da73ada28582",
+    "source": "Al Jazeera",
+    "date": "2026-10-25T00:34",
+    "headline": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
+    "excerpt": "Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-25T04:45:29.747161+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
+  },
+  {
+    "id": "82f9f1fe78b0",
+    "source": "Al Jazeera",
+    "date": "2026-10-25T00:00",
+    "headline": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+    "excerpt": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-10-25T04:45:29.747194+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss"
+  },
+  {
     "id": "8e397afb43b7",
     "source": "Al Jazeera",
     "date": "2026-10-24T22:35",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-15T05:46:32.564771+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/15/778340/Police-clash-with-protesters-as-Madrid-teachers-strike-over-pay,-workload-and-funding"
-  },
-  {
-    "id": "5483769f7dfd",
-    "source": "PressTV",
-    "date": "2026-10-15T05:46",
-    "headline": "National strike by public sector workers in Ireland paralyzes parliament",
-    "excerpt": "A national strike by public sector workers in Ireland paralyzed parliament proceedings.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-15T05:46:32.564798+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/15/778338/National-strike-by-public-sector-workers-in-Ireland-paralyses-parliament-and-includes-300,000-workers"
-  },
-  {
-    "id": "442df5e4880e",
-    "source": "Al Jazeera",
-    "date": "2026-10-15T00:00",
-    "headline": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
-    "excerpt": "Iran says it does not seek an endless war, but vows to fight until the US accepts its demands as ships sink in Hormuz.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-10-15T00:56:37.453357+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "342a4ca85b2c",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T23:58",
-    "headline": "US destroys dhow suspected of Iranian command and control",
-    "excerpt": "The US says it destroyed an Iran-affiliated boat in the Gulf of Oman, accusing it of conducting surveillance.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-15T00:56:37.453386+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss"
-  },
-  {
-    "id": "c3778fb05c34",
-    "source": "Al Jazeera",
-    "date": "2026-10-14T21:35",
-    "headline": "Colombia opposition groups launch protest against de la Espriella’s cuts",
-    "excerpt": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-14T22:41:38.488054+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss"
   }
 ]
