@@ -1,5 +1,27 @@
 [
   {
+    "id": "72e6db48eec6",
+    "source": "Al Jazeera",
+    "date": "2026-10-26T00:02",
+    "headline": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+    "excerpt": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-26T00:38:27.907011+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss"
+  },
+  {
+    "id": "22d5118da650",
+    "source": "Al Jazeera",
+    "date": "2026-10-26T00:00",
+    "headline": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+    "excerpt": "Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-26T00:38:27.907062+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
+  },
+  {
     "id": "5ec76a4304bd",
     "source": "Al Jazeera",
     "date": "2026-10-25T21:00",
@@ -5476,27 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-10-16T05:39:17.485301+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss"
-  },
-  {
-    "id": "889ab239b6a9",
-    "source": "Al Jazeera",
-    "date": "2026-10-16T00:02",
-    "headline": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
-    "excerpt": "President Trump says deployment of ground troops to Iran unlikely as Saudi Arabia downs drone in its Eastern Province.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-10-16T05:39:17.485316+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss"
-  },
-  {
-    "id": "72f01fd35de4",
-    "source": "Al Jazeera",
-    "date": "2026-10-15T22:51",
-    "headline": "Three children, one teacher killed in Oregon school shooting",
-    "excerpt": "The police chief in Bend, Oregon, identified the shooter as a 16-year-old who was killed by a bystander at the school.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-16T05:39:17.485347+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss"
   }
 ]
