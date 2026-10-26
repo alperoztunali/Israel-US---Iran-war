@@ -1,5 +1,49 @@
 [
   {
+    "id": "adeb21581748",
+    "source": "Al Jazeera",
+    "date": "2026-10-26T04:21",
+    "headline": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+    "excerpt": "The attack in eastern Dr Congo is the latest on health workers and responders to the deadly Ebola outbreak.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-26T05:22:41.162974+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss"
+  },
+  {
+    "id": "3ada23f3c2d6",
+    "source": "Al Jazeera",
+    "date": "2026-10-26T04:05",
+    "headline": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+    "excerpt": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-10-26T05:22:41.163024+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss"
+  },
+  {
+    "id": "4d078198d870",
+    "source": "Al Jazeera",
+    "date": "2026-10-26T01:02",
+    "headline": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+    "excerpt": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-26T05:22:41.163067+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss"
+  },
+  {
+    "id": "a036692888e0",
+    "source": "Al Jazeera",
+    "date": "2026-10-26T00:00",
+    "headline": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
+    "excerpt": "Saudi-led coalition says missiles launchers and tunnels in Yemen destroyed after Houthis targeted Riyadh airport.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-10-26T05:22:41.163095+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
+  },
+  {
     "id": "72e6db48eec6",
     "source": "Al Jazeera",
     "date": "2026-10-26T00:02",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-16T05:39:17.485186+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss"
-  },
-  {
-    "id": "5dc46ad5aa08",
-    "source": "Al Jazeera",
-    "date": "2026-10-16T02:56",
-    "headline": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
-    "excerpt": "&#039;The Palestinian question is the greatest historical injustice of this century,&#039; China&#039;s foreign minister said.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-10-16T05:39:17.485221+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss"
-  },
-  {
-    "id": "0a0fbe873e5a",
-    "source": "Al Jazeera",
-    "date": "2026-10-16T02:01",
-    "headline": "Peshawar mourns children killed in school roof collapse",
-    "excerpt": "Thousands gather for funeral prayers in Pakistan’s Peshawar after a school rooftop collapse killed at least 34 children.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-16T05:39:17.485247+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss"
-  },
-  {
-    "id": "0eefe8f2c73d",
-    "source": "Al Jazeera",
-    "date": "2026-10-16T01:34",
-    "headline": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
-    "excerpt": "ASEAN leaders are embracing Min Aung Hlaing, but critics warn it emboldens a military still bombing civilians.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-10-16T05:39:17.485269+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss"
-  },
-  {
-    "id": "a37a9668d159",
-    "source": "Al Jazeera",
-    "date": "2026-10-16T00:31",
-    "headline": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-    "excerpt": "Iraq&#039;s parliament has finalised key minister appointments five months after al-Zaidi&#039;s government took office.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-10-16T05:39:17.485301+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss"
   }
 ]
