@@ -1,5 +1,115 @@
 [
   {
+    "id": "7796710e1930",
+    "source": "Al Jazeera",
+    "date": "2026-10-28T07:35",
+    "headline": "Elderly women and children survive Russian attack on Kharkiv",
+    "excerpt": "A Russian drone attack in Ukraine&#039;s Kharkiv late Tuesday forced elderly women and children to evacuate their homes.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-28T08:06:50.828505+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss"
+  },
+  {
+    "id": "06834c70a725",
+    "source": "Al Jazeera",
+    "date": "2026-10-28T06:36",
+    "headline": "The next phase of military rule in Egypt is here",
+    "excerpt": "El-Sisi’s announcement that he will not run for a fourth term may signal a new leadership arrangement.",
+    "category": "Naval",
+    "location": "Egypt",
+    "addedAt": "2026-10-28T08:06:50.828541+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss"
+  },
+  {
+    "id": "7b5b9b70424e",
+    "source": "Al Jazeera",
+    "date": "2026-10-28T06:02",
+    "headline": "Netanyahu outlines achievements, future plans as Likud leads Israeli polls",
+    "excerpt": "Israel&#039;s Prime Minister Benjamin Netanyahu says &#039;true&#039; election results due in one or two days.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-28T08:06:50.828565+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/28/netanyahu-outlines-achievements-future-plans-as-likud-leads-polls?traffic_source=rss"
+  },
+  {
+    "id": "346c1a4bbbf1",
+    "source": "Al Jazeera",
+    "date": "2026-10-28T03:10",
+    "headline": "Syria-Jordan border reopens amid probe into deadly air strikes",
+    "excerpt": "Foreign ministers form security committee to share intelligence and follow up on impact of Jordan&#039;s strikes on Syria.",
+    "category": "Airstrike",
+    "location": "Syria",
+    "addedAt": "2026-10-28T08:06:50.828576+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss"
+  },
+  {
+    "id": "fd2c0c98b465",
+    "source": "Al Jazeera",
+    "date": "2026-10-28T02:53",
+    "headline": "Five key takeaways from Israel’s parliamentary elections",
+    "excerpt": "With more than half of votes counted, Netanyahu&#039;s bloc holds slight lead over opposition, but shy of majority.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-28T08:06:50.828599+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss"
+  },
+  {
+    "id": "6284c52d5521",
+    "source": "Al Jazeera",
+    "date": "2026-10-28T00:43",
+    "headline": "Arab parties on track to win record seats in Israel election, polls show",
+    "excerpt": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-28T08:06:50.828622+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss"
+  },
+  {
+    "id": "9fe055d1c60c",
+    "source": "Al Jazeera",
+    "date": "2026-10-28T00:43",
+    "headline": "Netanyahu, Eisenkot camps clash over Israel election projections",
+    "excerpt": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-28T08:06:50.828642+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss"
+  },
+  {
+    "id": "22dad257dcc5",
+    "source": "PressTV",
+    "date": "2026-10-28T08:06",
+    "headline": "Rosatom to increase Russian workforce at Iran’s Bushehr Nuclear Power Plant to 700",
+    "excerpt": "The head of Rosatom says the Russia corporation will build eight more nuclear power units in Iran and increases its personnel at the Bushehr Nuclear Power Plant.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-28T08:06:53.043731+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/28/779377/rs-russias-rosatom-to-build-8-more-nuclear-power-units-in-iran"
+  },
+  {
+    "id": "c9d81ba9d06c",
+    "source": "PressTV",
+    "date": "2026-10-28T08:06",
+    "headline": "Iranian official warns Qatar after Doha's ‘prove goodwill’ comments",
+    "excerpt": "Iran’s Foreign Ministry calls on Qatar to exercise greater caution in its media statements.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-10-28T08:06:53.043760+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/28/779374/iran-urges-qatar-to-respect-its-mediator-role-after-remarks-on-tehran-meeting"
+  },
+  {
+    "id": "46e65ccce1c5",
+    "source": "PressTV",
+    "date": "2026-10-28T08:06",
+    "headline": "Oman FM: Persian Gulf states, Iran, Iraq should form security pact excluding US",
+    "excerpt": "Oman’s FM has called for the formation of a security pact involving six Persian Gulf states plus Iran and Iraq amid US push to demonize Iran.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-10-28T08:06:53.043790+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/27/779296/Oman-Badr-Albusaidi-Iran-US-Persian-Gulf-US-Trump-war-security-pact-Iraq-Strait-of-Hormuz"
+  },
+  {
     "id": "9c64d26c0581",
     "source": "Al Jazeera",
     "date": "2026-10-28T00:43",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-18T14:23:40.364545+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss"
-  },
-  {
-    "id": "bc0644e40eea",
-    "source": "Al Jazeera",
-    "date": "2026-10-18T11:24",
-    "headline": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
-    "excerpt": "Most of the victims were from the Daraj neighbourhood in Gaza City, the Health Ministry says.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-10-18T14:23:40.364582+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss"
-  },
-  {
-    "id": "9bb7b43c4cb7",
-    "source": "Al Jazeera",
-    "date": "2026-10-18T11:11",
-    "headline": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
-    "excerpt": "Analysts say that any move from Egypt will remain &#039;strictly defensive&#039;, as the conflict in Yemen intensifies.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-18T14:23:40.364615+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss"
-  },
-  {
-    "id": "375e16598494",
-    "source": "Al Jazeera",
-    "date": "2026-10-18T10:48",
-    "headline": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
-    "excerpt": "A surge in drug smuggling from Israel to Jordan using drones and balloons prompts accusations of border guard collusion.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-10-18T14:23:40.364646+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss"
-  },
-  {
-    "id": "ff3c74ac6601",
-    "source": "Al Jazeera",
-    "date": "2026-10-18T10:34",
-    "headline": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-    "excerpt": "Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-18T14:23:40.364681+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
-  },
-  {
-    "id": "349ea2a60aad",
-    "source": "Al Jazeera",
-    "date": "2026-10-18T10:30",
-    "headline": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
-    "excerpt": "Separated by war for more than a year, a captain in Gaza’s Civil Defence unit attempts to reunite with his family.",
-    "category": "Diplomatic",
-    "location": "Gaza",
-    "addedAt": "2026-10-18T14:23:40.364714+00:00",
-    "link": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "fb91344a75c8",
-    "source": "Al Jazeera",
-    "date": "2026-10-18T10:23",
-    "headline": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
-    "excerpt": "Presidency says Egypt will provide Saudi Arabia with support to defend its security and protect its resources.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-18T14:23:40.364751+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss"
-  },
-  {
-    "id": "cdce45f059ea",
-    "source": "PressTV",
-    "date": "2026-10-18T14:23",
-    "headline": "The mother of all propaganda: Why the hype over US MOAB strike against Iran is nothing but theater",
-    "excerpt": "US media hype surrounding the so-called MOAB bomb against Iran portrays it as a formidable threat, but the weapon lacks the capability to penetrate Iran’s deeply buried, hardened military and nuclear facilities.",
-    "category": "Airstrike",
-    "location": "Iran",
-    "addedAt": "2026-10-18T14:23:42.201415+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/18/778620/the-mother-all-propaganda-why-hype-over-us-moab-strike-against-iran-theatre"
-  },
-  {
-    "id": "4d5f3e0c65fc",
-    "source": "PressTV",
-    "date": "2026-10-18T14:23",
-    "headline": "Iran unlocks domestic financial potential to power a new era of growth",
-    "excerpt": "As Iran’s stock market hits a record high above eight million points, expanding crowdfunding and supply-chain finance help mobilize domestic savings, sustain industrial production and unlock new opportunities for economic growth despite sanctions.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-18T14:23:42.201459+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/18/778619/Iran-unlocks-domestic-financial-potential-to-power-a-new-era-of-growth"
-  },
-  {
-    "id": "348b1bb13abf",
-    "source": "PressTV",
-    "date": "2026-10-18T14:23",
-    "headline": "Iran-Pakistan border disruptions temporary: Foreign Ministry spokesman",
-    "excerpt": "Iran's Foreign Ministry spokesperson Esmaeil Baghaei said relevant authorities from the two countries remain in close contact and are holding consultations to resolve the matter promptly.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-10-18T14:23:42.201498+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/17/778572/Iran-Pakistan-border-disruptions-temporary--Foreign-Ministry-spokesman"
-  },
-  {
-    "id": "d4c04228a51b",
-    "source": "Al Jazeera",
-    "date": "2026-10-18T09:42",
-    "headline": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
-    "excerpt": "Top US diplomat says Ukraine has requested access to military-grade version of Starlink for strikes deep inside Russia.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-18T10:52:09.361845+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss"
   }
 ]
