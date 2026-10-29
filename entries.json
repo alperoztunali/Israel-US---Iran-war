@@ -1,5 +1,104 @@
 [
   {
+    "id": "520503e3d14b",
+    "source": "Al Jazeera",
+    "date": "2026-10-29T21:16",
+    "headline": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+    "excerpt": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-29T23:10:14.976442+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss"
+  },
+  {
+    "id": "0ba3ad5a66ae",
+    "source": "Al Jazeera",
+    "date": "2026-10-29T21:10",
+    "headline": "Israel bans travel for Brad Lander after detention in occupied West Bank",
+    "excerpt": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-29T23:10:14.976489+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "bd2c86d14852",
+    "source": "Al Jazeera",
+    "date": "2026-10-29T20:40",
+    "headline": "Palestinians injured, arrested in Israeli raids across West Bank",
+    "excerpt": "This comes as more than 3,300 Palestinians are forced from homes in Hebron as Israel&#039;s military offensive continues.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-29T23:10:14.976518+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "404cad3be057",
+    "source": "Al Jazeera",
+    "date": "2026-10-29T20:22",
+    "headline": "Israel election result shows no overall majority as vote count complete",
+    "excerpt": "Opposition explores options to form coalition as no party secures the 61 seats required for parliamentary majority.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-29T23:10:14.976551+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss"
+  },
+  {
+    "id": "d59252fcc962",
+    "source": "Al Jazeera",
+    "date": "2026-10-29T19:06",
+    "headline": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+    "excerpt": "With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-10-29T23:10:14.976578+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss"
+  },
+  {
+    "id": "512498479ba5",
+    "source": "Al Jazeera",
+    "date": "2026-10-29T19:02",
+    "headline": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
+    "excerpt": "Palestinian voters could decide Israel’s future, but its political class refuses to accept their mandate",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-29T23:10:14.976621+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss"
+  },
+  {
+    "id": "5b56be202f4e",
+    "source": "Al Jazeera",
+    "date": "2026-10-29T19:02",
+    "headline": "Pentagon fires general it says leaked classified information to media",
+    "excerpt": "Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-29T23:10:14.976654+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss"
+  },
+  {
+    "id": "ecabad9f4451",
+    "source": "PressTV",
+    "date": "2026-10-29T23:10",
+    "headline": "US carrot-and-stick approach will not work against Iran: Qalibaf",
+    "excerpt": "Iran’s parliament speaker says Iran’s conditions for negotiations and ending the war have been repeatedly stated, rejecting US pressure tactics.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-29T23:10:16.436135+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/29/779502/rs-qalibaf-us-carrot-and-stick-policy-wont-work"
+  },
+  {
+    "id": "380306b99fdf",
+    "source": "PressTV",
+    "date": "2026-10-29T23:10",
+    "headline": "Iran dismantles four Takfiri terror cells, uncovers Israeli-directed network in Kerman",
+    "excerpt": "Iranian security forces have dismantled four alleged Israeli-linked Takfiri terrorist cells in Sistan and Baluchestan, arresting 16 suspects and detaining three people for sharing sensitive security information, while identifying a separate five-member network in Kerman Province.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-10-29T23:10:16.436183+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/29/779477/intelligence-ministry-dismantles-4-terrorist-cells-arrests-16-militants-3-spies-in-southeast-iran"
+  },
+  {
     "id": "6e573af6beb1",
     "source": "Al Jazeera",
     "date": "2026-10-29T18:30",
@@ -5399,104 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-10-20T00:41:32.119766+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss"
-  },
-  {
-    "id": "d2e32c079f7e",
-    "source": "Al Jazeera",
-    "date": "2026-10-19T23:12",
-    "headline": "Children among six killed in Russian drone strike on Ukraine park",
-    "excerpt": "Children among six killed in Russian drone strike on Ukraine park",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-20T00:41:32.119784+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss"
-  },
-  {
-    "id": "46c128e1ecea",
-    "source": "Al Jazeera",
-    "date": "2026-10-19T21:46",
-    "headline": "Egyptian parliament delays vote on military support for Saudi Arabia",
-    "excerpt": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-20T00:41:32.119811+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss"
-  },
-  {
-    "id": "a62b90d0a998",
-    "source": "Al Jazeera",
-    "date": "2026-10-19T21:38",
-    "headline": "160 people reported killed in escalating drone attacks across Sudan",
-    "excerpt": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-20T00:41:32.119832+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss"
-  },
-  {
-    "id": "83326257ef4a",
-    "source": "Al Jazeera",
-    "date": "2026-10-19T21:28",
-    "headline": "Could your halal pension be funding Israel’s military?",
-    "excerpt": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-20T00:41:32.119866+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss"
-  },
-  {
-    "id": "9eb742c691e9",
-    "source": "PressTV",
-    "date": "2026-10-20T00:41",
-    "headline": "Araghchi says Macron cannot escape blame for war on Iran amid French protests",
-    "excerpt": "The Iranian foreign minister urges Macron to heed the French public’s demands.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-20T00:41:34.051344+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/19/778671/Araghchi-says-Macron-cannot-escape-consequences-of-war-he-helped-cause"
-  },
-  {
-    "id": "006eca741d46",
-    "source": "Al Jazeera",
-    "date": "2026-10-19T21:00",
-    "headline": "Israeli police say they arrested 10 in connection with settler attacks",
-    "excerpt": "Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-19T21:32:47.881076+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss"
-  },
-  {
-    "id": "0186eecc5645",
-    "source": "Al Jazeera",
-    "date": "2026-10-19T20:49",
-    "headline": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
-    "excerpt": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-19T21:32:47.881128+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss"
-  },
-  {
-    "id": "34db7c1edeb7",
-    "source": "Al Jazeera",
-    "date": "2026-10-19T19:50",
-    "headline": "One killed in US shooting near mosque in Columbus, Ohio",
-    "excerpt": "Local authorities say mosque was not target of attack.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-19T21:32:47.881179+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss"
-  },
-  {
-    "id": "bfa61b514b6a",
-    "source": "Al Jazeera",
-    "date": "2026-10-19T19:38",
-    "headline": "Residents hoisted from rooftops amid Spain’s deadly flooding",
-    "excerpt": "Spain’s military is hoisting residents from the rooftops of their flooded homes.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-19T21:32:47.881222+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss"
   }
 ]
