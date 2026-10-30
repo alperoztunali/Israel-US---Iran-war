@@ -1,5 +1,82 @@
 [
   {
+    "id": "b8c0b6cf4b24",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T08:36",
+    "headline": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+    "excerpt": "Brent crude prices are up more than 60 percent compared with pre-war levels, despite rebound in supply.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-30T09:01:29.847466+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss"
+  },
+  {
+    "id": "bb59b7ae0562",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T08:20",
+    "headline": "Smoke from wildfires killed 3,500 people in Indonesia in September: Report",
+    "excerpt": "Persistent wildfires sparked by drought have enveloped the region in smog.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-30T09:01:29.847499+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/30/smoke-from-wildfires-killed-3500-people-in-indonesia-in-september-report?traffic_source=rss"
+  },
+  {
+    "id": "fc892d04ea5a",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T07:51",
+    "headline": "‘My life is buried here’: Iranian man whose 12 family members were killed",
+    "excerpt": "Hamed Mirzaei lost his wife, parents and many others in a devastating US-Israeli attack on Tehran.",
+    "category": "Casualties",
+    "location": "Tehran",
+    "addedAt": "2026-10-30T09:01:29.847516+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss"
+  },
+  {
+    "id": "24d91ceeeae0",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T07:13",
+    "headline": "AI’s real bottleneck is electricity. Who will pay for it?",
+    "excerpt": "Big Tech’s nuclear power deals raise urgent questions about who will bear the cost of AI’s growing energy demands.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-10-30T09:01:29.847541+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it?traffic_source=rss"
+  },
+  {
+    "id": "5bfdda8ed153",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T07:10",
+    "headline": "Britain must sanction Israel, not just its settlers",
+    "excerpt": "Israeli forces detained our parliamentary delegation and barred us from the West Bank. The violence is state policy.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-10-30T09:01:29.847557+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/10/30/britain-must-sanction-israel-not-just-its-settlers?traffic_source=rss"
+  },
+  {
+    "id": "2e2783938597",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T07:07",
+    "headline": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
+    "excerpt": "Our analysis exposes the heavy humanitarian and economic toll of the military siege suffocating Palestinians in Hebron.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-30T09:01:29.847578+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss"
+  },
+  {
+    "id": "f2d707147218",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T04:14",
+    "headline": "Israeli actress slams occupation in accidental ‘hot mic’ moment",
+    "excerpt": "Veteran Israeli actress Chelli Goldenberg was left shocked after she was caught ripping into Israel&#039;s policies.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-30T09:01:29.847600+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-actress-slams-occupation-in-accidental-hot-mic-moment?traffic_source=rss"
+  },
+  {
     "id": "8e1cccd5084a",
     "source": "Al Jazeera",
     "date": "2026-10-30T00:11",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-20T10:19:35.805267+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/18/778621/discover-iran-mahallat-iran-flower-capital-geothermal-wonders-thriving-travertine-industry"
-  },
-  {
-    "id": "33934e30d871",
-    "source": "PressTV",
-    "date": "2026-10-20T10:19",
-    "headline": "Iran arrests 39 US-Israeli mercenaries over January riots",
-    "excerpt": "Iranian intelligence forces have captured 39 agents of the US-Israeli enemy involved in foreign-backed January riots.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-20T10:19:35.805289+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/19/778706/Iran-intelligence-forces-capture-39-mercenaries-involved-in-US-Israeli-backed-riots"
-  },
-  {
-    "id": "977ea4dbabd4",
-    "source": "PressTV",
-    "date": "2026-10-20T10:19",
-    "headline": "Araghchi: Iran-Russia cooperation key to promoting regional stability",
-    "excerpt": "The Iranian foreign minister says cooperation with Russia can play a constructive role in promoting stability in the region.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-20T10:19:35.805308+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/19/778710/Iran-Russia-Araghchi-Lavrov"
-  },
-  {
-    "id": "e08f2a3bf058",
-    "source": "PressTV",
-    "date": "2026-10-20T10:19",
-    "headline": "Congratulations pour in as Iran U23 freestyle wrestling team wins world title",
-    "excerpt": "The Iranian president, parliament speaker and IRGC chief separately congratulated the country’s under-23 freestyle wrestling team on its world championship victory in the United States.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-20T10:19:35.805330+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/19/778701/Congratulatory-messages-pour-for-Iran-U23-freestyle-wrestlers-after-world-title-win"
-  },
-  {
-    "id": "ec3e65e2594c",
-    "source": "PressTV",
-    "date": "2026-10-20T10:19",
-    "headline": "Iran’s top human rights body warns sanctions undermining access to essential medicines",
-    "excerpt": "Iran warns that economic sanctions and restrictions are undermining access to essential healthcare, particularly for vulnerable patients.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-20T10:19:35.805359+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/19/778690/Iran-intl--community-remove-barriers-medicine-amid-sanctions"
-  },
-  {
-    "id": "282142d14f1a",
-    "source": "PressTV",
-    "date": "2026-10-20T10:19",
-    "headline": "Spanish military evacuates stranded families as Storm Adam wreaks havoc",
-    "excerpt": "Spanish military emergency teams raced to rescue stranded residents as deadly Storm Adam battered eastern Spain.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-20T10:19:35.805383+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/20/778765/Spanish-military-evacuates-stranded-families-as-Storm-Adam-wreaks-havoc"
-  },
-  {
-    "id": "10ccbbc79f1e",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T01:52",
-    "headline": "The human cost of surging US air strikes in Somalia",
-    "excerpt": "Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-10-20T05:22:51.211352+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss"
-  },
-  {
-    "id": "cc7db4228684",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T01:05",
-    "headline": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
-    "excerpt": "Riyadh postpones flagship investment conference until 2027, orders government staff to work from home.",
-    "category": "Naval",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-20T05:22:51.211404+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss"
   }
 ]
