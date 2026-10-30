@@ -1,5 +1,49 @@
 [
   {
+    "id": "8e1cccd5084a",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T00:11",
+    "headline": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+    "excerpt": "The announcement comes despite talks between Iran and the Mecca pact countries in Tehran earlier this week.",
+    "category": "Movement",
+    "location": "Tehran",
+    "addedAt": "2026-10-30T02:37:51.347484+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss"
+  },
+  {
+    "id": "6a236b1c2785",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T00:00",
+    "headline": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+    "excerpt": "Iran&#039;s IRGC says four tankers have struck naval mines after using &quot;unauthorised&quot; Strait of Hormuz routes.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-10-30T02:37:51.347517+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "fa9713bf7135",
+    "source": "PressTV",
+    "date": "2026-10-30T02:37",
+    "headline": "Tehran rejects UK-imposed UN rights mandate as tool to shield US-Israeli atrocities",
+    "excerpt": "Iran's Foreign Ministry spokesman Esmaeil Baqaei has slammed the UN's human rights mechanism on Iran as a \"politically motivated\" tool, accusing it of attempting to whitewash the aggression.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-10-30T02:37:55.565635+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/30/779509/tehran-rejects-uk-imposed-un-rights-mandate-as-tool-to-shield-us-israeli-atrocities"
+  },
+  {
+    "id": "743cc96c31b1",
+    "source": "PressTV",
+    "date": "2026-10-30T02:37",
+    "headline": "Israel demolishes Palestinian memorial in al-Khalil",
+    "excerpt": "Israeli forces demolish a memorial honoring Palestinian Fatah fighter Bajis Abu Atwan in al-Khalil.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-10-30T02:37:55.565672+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/29/779507/israeli-forces-demolish-fatah-fighter-memorial-in-al-khalil"
+  },
+  {
     "id": "520503e3d14b",
     "source": "Al Jazeera",
     "date": "2026-10-29T21:16",
@@ -5454,49 +5498,5 @@
     "location": "Saudi Arabia",
     "addedAt": "2026-10-20T05:22:51.211404+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss"
-  },
-  {
-    "id": "06ee94f8c03a",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T00:18",
-    "headline": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
-    "excerpt": "US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-20T00:41:32.119670+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss"
-  },
-  {
-    "id": "ff9911d349e7",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T00:08",
-    "headline": "Hegseth meets Netanyahu in unannounced Israel visit",
-    "excerpt": "Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-10-20T00:41:32.119709+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss"
-  },
-  {
-    "id": "f57c58163b3b",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T00:00",
-    "headline": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
-    "excerpt": "Trump says US continues to hit Iran &#039;economically and militarily&#039; while praising Russia for doing &#039;nothing&#039; to aid Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-20T00:41:32.119742+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss"
-  },
-  {
-    "id": "476412744e2f",
-    "source": "Al Jazeera",
-    "date": "2026-10-19T23:16",
-    "headline": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
-    "excerpt": "Tehran summons German envoy after two men convicted of trying to kill leaders of Jewish groups, rejects any role.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-10-20T00:41:32.119766+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss"
   }
 ]
