@@ -1,5 +1,38 @@
 [
   {
+    "id": "a7ff46314a0e",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T20:24",
+    "headline": "Israel’s allegations of Qatari election interference rejected",
+    "excerpt": "Israel’s allegations of Qatari election interference rejected",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-31T23:38:03.409395+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss"
+  },
+  {
+    "id": "b222723c8d71",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T20:09",
+    "headline": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+    "excerpt": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-31T23:38:03.409455+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss"
+  },
+  {
+    "id": "e3d791c7594a",
+    "source": "PressTV",
+    "date": "2026-10-31T23:38",
+    "headline": "West Asia fertilizer exports plunge 70% as US-Israeli war of aggression against Iran disrupts Strait",
+    "excerpt": "Chemical fertilizer shipments from the region dropped to just 994,000 tons in September, compared with 3.41 million tons in the same month a year earlier, according to a senior manager of agriculture data at Kpler.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-10-31T23:38:07.646659+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/31/779648/west-asia-fertilizer-exports-plunge-70-as-us-israeli-war-of-aggression-against-iran-disrupts-strait"
+  },
+  {
     "id": "a1696d0386e7",
     "source": "Al Jazeera",
     "date": "2026-10-31T19:18",
@@ -5465,38 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-21T11:53:33.313755+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss"
-  },
-  {
-    "id": "8101c0656984",
-    "source": "Al Jazeera",
-    "date": "2026-10-21T08:05",
-    "headline": "Israeli soldiers mock Lebanese home they rigged with explosives",
-    "excerpt": "Israeli soldiers in Southern Lebanon are seen ‘jokingly’ giving a tour of a displaced family’s home.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-21T11:53:33.313784+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/israeli-soldiers-mock-lebanese-home-they-rigged-with-explosives?traffic_source=rss"
-  },
-  {
-    "id": "6de92b8dcd65",
-    "source": "Al Jazeera",
-    "date": "2026-10-21T07:06",
-    "headline": "The right to enforce civil rights is under attack in the US",
-    "excerpt": "The Trump administration and conservative courts are making it harder to challenge civil rights violations.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-21T11:53:33.313808+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us?traffic_source=rss"
-  },
-  {
-    "id": "8838a33ebae8",
-    "source": "PressTV",
-    "date": "2026-10-21T11:53",
-    "headline": "Iran warns undersea Internet cables in Strait of Hormuz could become targets",
-    "excerpt": "A senior IRGC commander has warned that Iran could target undersea Internet cables in the Strait of Hormuz if Iranian infrastructure comes under attack.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-10-21T11:53:34.982575+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/21/778862/Iran-IRGC-senior-official-warns-targeting-Internet-undersea-cables-Strait-of-Hormuz-infrastructure-attacked"
   }
 ]
