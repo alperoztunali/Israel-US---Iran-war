@@ -1,5 +1,115 @@
 [
   {
+    "id": "f1ee509a8e76",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T11:37",
+    "headline": "UN closes Somalia mission, ending three decades of political engagement",
+    "excerpt": "Somalia hails the UN mission&#039;s closure as a milestone amid political tensions and cuts to international support.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-31T11:58:00.180529+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss"
+  },
+  {
+    "id": "20dd26b38c72",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T11:07",
+    "headline": "Thousands protest across Italy over living costs and military spending",
+    "excerpt": "Thousands have protested across Italy against rising living costs and increased military spending.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-31T11:58:00.180601+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss"
+  },
+  {
+    "id": "ccfdaa15ee15",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T10:49",
+    "headline": "Swiss commentary on Israeli Olympic bobsleigh team termed ‘discriminatory’",
+    "excerpt": "Criticism of Israel&#039;s captain Adam Edelman at Winter Olympics breached discrimination rules, Swiss complaints body says.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-31T11:58:00.180656+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss"
+  },
+  {
+    "id": "f48b85be2d8f",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T10:38",
+    "headline": "Can Democrats win the US Senate? 10 key midterm races to watch",
+    "excerpt": "From Texas to Maine, rising prices and the Iran war put key Senate races in play as Democrats fight for control.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-31T11:58:00.180690+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss"
+  },
+  {
+    "id": "2d69e62bdea8",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T10:00",
+    "headline": "Education under fire: Gaza’s children face death on their way to school",
+    "excerpt": "Children have faced Israeli bombs and sniper fire since the academic year resumed in Gaza.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-10-31T11:58:00.180715+00:00",
+    "link": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss"
+  },
+  {
+    "id": "7386f05248d1",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T09:26",
+    "headline": "Lebanon charges 13 over confiscated Hezbollah explosives",
+    "excerpt": "Group calls charges &#039;unjust&#039;, says weapons were meant to be used against Israeli forces in south Lebanon.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-10-31T11:58:00.180747+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/31/lebanon-charges-13-over-hezbollah-confiscated-explosives?traffic_source=rss"
+  },
+  {
+    "id": "6e5a30298f01",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T08:57",
+    "headline": "A UN protection force must be urgently deployed to Palestine",
+    "excerpt": "Israel is making Palestinian existence in Palestine increasingly impossible.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-10-31T11:58:00.180773+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/10/31/a-un-protection-force-must-be-urgently-deployed-to-palestine?traffic_source=rss"
+  },
+  {
+    "id": "8197686eaf16",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T08:08",
+    "headline": "Are Houthis using Russian satellites as Saudi Arabia fends off strikes?",
+    "excerpt": "Analysts say the seizure of state arsenals, external backing and extensive military evolution has helped the Houthis.",
+    "category": "Other",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-10-31T11:58:00.180816+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss"
+  },
+  {
+    "id": "38bfc30c0e02",
+    "source": "PressTV",
+    "date": "2026-10-31T11:58",
+    "headline": "Iran minister calls for joint production, technology transfer deals with African nations",
+    "excerpt": "Agriculture Minister Gholamreza Nouri Ghezeljeh declares that Tehran views African nations as strategic partners for mutual investment and sustainable development, not just consumers of Iranian goods.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-10-31T11:58:03.856912+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/31/779610/iran-minister-calls-for-joint-production-technology-transfer-deals-with-african-nations"
+  },
+  {
+    "id": "2a3bba1721a7",
+    "source": "PressTV",
+    "date": "2026-10-31T11:58",
+    "headline": "Iran accelerates rebuilding of petrochemical complexes hit by US-Zionist war: Deputy oil minister",
+    "excerpt": "Deputy Oil Minister declares reconstruction of damaged sites a \"national priority,\" securing new financial backing to rapidly restore and expand production capacity.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-10-31T11:58:03.856951+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/31/779581/iran-accelerates-rebuilding-of-petrochemical-complexes-hit-by-us-zionist-war"
+  },
+  {
     "id": "1c5e5f441b89",
     "source": "Al Jazeera",
     "date": "2026-10-31T05:07",
@@ -5388,115 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-10-21T01:00:52.808780+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/20/778774/Tehran,-Baghdad-agree-to-expel-anti-Iran-terrorist-groups-from-Iraqi-Kurdistan--Iran-envoy"
-  },
-  {
-    "id": "a0d152957aea",
-    "source": "PressTV",
-    "date": "2026-10-21T01:00",
-    "headline": "Fireworks in Tirana as Albania police clash with protesters",
-    "excerpt": "Clashes between protesters and police continue in the Albanian capital of Tirana.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-21T01:00:52.808830+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/21/778829/Fireworks-in-Tirana-as-Albania-police-clash-with-protesters"
-  },
-  {
-    "id": "e7ba4889eb13",
-    "source": "PressTV",
-    "date": "2026-10-21T01:00",
-    "headline": "Palestinians mourn relatives martyred in airstrikes on Gaza City, Khan Yunis",
-    "excerpt": "Gaza City witnessed scenes of widespread grief during the funeral of the martyrs Akram Yassin and his wife Dina.",
-    "category": "Airstrike",
-    "location": "Gaza",
-    "addedAt": "2026-10-21T01:00:52.808870+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/20/778827/Palestinians-mourn-their-relatives-after-they-were-martyred-in-airstrikes-on-Gaza-and-Khan-Yunis"
-  },
-  {
-    "id": "7de223bfa390",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T21:24",
-    "headline": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
-    "excerpt": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-20T22:41:31.793197+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss"
-  },
-  {
-    "id": "0d0d89086b99",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T20:32",
-    "headline": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
-    "excerpt": "Donald Trump called Congresswoman Ilhan Omar “sick” and “dishonest” a week after federal agents raided her home.",
-    "category": "Statement",
-    "location": "Oman",
-    "addedAt": "2026-10-20T22:41:31.793259+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss"
-  },
-  {
-    "id": "cba22c999eb6",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T20:23",
-    "headline": "Why the war on Iran could backfire on US regime-change goals",
-    "excerpt": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-20T22:41:31.793294+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss"
-  },
-  {
-    "id": "0c1b9072901b",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T20:17",
-    "headline": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
-    "excerpt": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-20T22:41:31.793334+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss"
-  },
-  {
-    "id": "b7ecb9df3a67",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T19:51",
-    "headline": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
-    "excerpt": "Israeli Prime Minister Benjamin Netanyahu says he discussed the need to topple Iran’s regime with US President Trump.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-20T22:41:31.793373+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss"
-  },
-  {
-    "id": "701ca040b763",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T19:29",
-    "headline": "Photos: Qatar holds biennial Milipol homeland security exhibition",
-    "excerpt": "Qatar and France sign a three-year action plan for security cooperation on the sidelines of the Milipol exhibition.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-10-20T22:41:31.793412+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss"
-  },
-  {
-    "id": "e69f33b76746",
-    "source": "PressTV",
-    "date": "2026-10-20T22:41",
-    "headline": "Pezeshkian: US bases in region bring no benefit, only fuel insecurity",
-    "excerpt": "The Iranian president says the presence of US military bases in regional countries fuels instability and insecurity.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-20T22:41:33.825954+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/19/778735/Iran-Russia-Pezeshkian-Lavrov"
-  },
-  {
-    "id": "13674116f28f",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T18:55",
-    "headline": "UK to deploy fighter jets to defend Saudi Arabia",
-    "excerpt": "British Typhoon jets will carry out defensive missions to protect Saudi Arabia from escalating Houthi attacks.",
-    "category": "Airstrike",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-20T19:31:13.694351+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss"
   }
 ]
