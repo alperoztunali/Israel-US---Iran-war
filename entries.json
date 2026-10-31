@@ -1,5 +1,38 @@
 [
   {
+    "id": "a1696d0386e7",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T19:18",
+    "headline": "Palestinians ‘Stealing their own olives’",
+    "excerpt": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-31T20:27:59.861299+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss"
+  },
+  {
+    "id": "8dbbc72eae2d",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T17:49",
+    "headline": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+    "excerpt": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-10-31T20:27:59.861326+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss"
+  },
+  {
+    "id": "df8bd27a1e08",
+    "source": "Al Jazeera",
+    "date": "2026-10-31T17:29",
+    "headline": "Jerusalem Daily: Who will form Israel’s next government?",
+    "excerpt": "Netanyahu and Eisenkot are locked in a struggle to form a governing coalition in the Knesset.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-10-31T20:27:59.861353+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss"
+  },
+  {
     "id": "5fd3a204aceb",
     "source": "Al Jazeera",
     "date": "2026-10-31T16:28",
@@ -5465,38 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-21T11:53:34.982575+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/21/778862/Iran-IRGC-senior-official-warns-targeting-Internet-undersea-cables-Strait-of-Hormuz-infrastructure-attacked"
-  },
-  {
-    "id": "8eb631effd73",
-    "source": "PressTV",
-    "date": "2026-10-21T11:53",
-    "headline": "Iranian police kill armed terrorist in clash in southeast, seizes weapons, munitions",
-    "excerpt": "Iranian police have killed a terrorist in a clash in the southeastern city of Khash in Sistan and Baluchestan Province.",
-    "category": "Casualties",
-    "location": "Iran",
-    "addedAt": "2026-10-21T11:53:34.982592+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/21/778861/Police-kills-armed-militant-in-clash-in-southeastern-Iran,-seizes-weapons,-munitions-"
-  },
-  {
-    "id": "34b65e28c70a",
-    "source": "PressTV",
-    "date": "2026-10-21T11:53",
-    "headline": "Iran’s new defense minister vows to turn threats into stronger defensive capability",
-    "excerpt": "Akhlaghi says responding to repeated threats is not a war of words but turning threats into greater readiness and more effective defensive power.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-21T11:53:34.982618+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/21/778853/Iran%E2%80%99s-defense-minister-threats-stronger-defensive-capability"
-  },
-  {
-    "id": "bd9592b22996",
-    "source": "PressTV",
-    "date": "2026-10-21T11:53",
-    "headline": "Iran opens advanced quantum laboratories at three universities",
-    "excerpt": "Iran opens three advanced laboratories for hands-on training in quantum optics and quantum information at universities in Isfahan and Tehran.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-21T11:53:34.982638+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/21/778851/Iran-opens-advanced-quantum-laboratories-universities-Tehran-Isfahan"
   }
 ]
