@@ -1,5 +1,49 @@
 [
   {
+    "id": "47eab71d8c90",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T23:13",
+    "headline": "Why AI could threaten much of the world’s digital infrastructure",
+    "excerpt": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-10-31T00:07:06.942648+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss"
+  },
+  {
+    "id": "7c74e4d78fbb",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T21:00",
+    "headline": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
+    "excerpt": "Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-10-31T00:07:06.942690+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss"
+  },
+  {
+    "id": "0ec600be2d00",
+    "source": "Al Jazeera",
+    "date": "2026-10-30T20:37",
+    "headline": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+    "excerpt": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-10-31T00:07:06.942713+00:00",
+    "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss"
+  },
+  {
+    "id": "c3324a19e286",
+    "source": "PressTV",
+    "date": "2026-10-31T00:07",
+    "headline": "IRGC Aerospace Force seizes second US MQM-170 reconnaissance drone over Qeshm Island",
+    "excerpt": "The IRGC said on Friday that its elite Aerospace Force units successfully intercepted and seized an American MQM-170 reconnaissance drone in the skies over Qeshm through the force’s sophisticated electronic warfare capabilities.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-10-31T00:07:08.470481+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/30/779565/irgc-aerospace-force-seizes-second-us-mqm-170-reconnaissance-drone-over-qeshm-island"
+  },
+  {
     "id": "e38843be10c1",
     "source": "Al Jazeera",
     "date": "2026-10-30T20:13",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-20T19:31:15.486627+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/19/778732/Iran-Foreign-Ministry-summoning-EU-German-envoys-Yousefi"
-  },
-  {
-    "id": "e2cc88186594",
-    "source": "PressTV",
-    "date": "2026-10-20T19:31",
-    "headline": "Armed Forces stand ready to defend Iran ‘under any circumstances’: Top commander",
-    "excerpt": "Iran’s top military commander expresses the readiness of the Armed Forces to defend their country “under any circumstances”.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-20T19:31:15.486651+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/19/778725/Iran-Armed-Forces-ready-defend"
-  },
-  {
-    "id": "915a64dc3d7e",
-    "source": "PressTV",
-    "date": "2026-10-20T19:31",
-    "headline": "Palestinians launch ‘Olive 2026’ campaign to support farmers facing Israeli attacks in West Bank",
-    "excerpt": "A central event for the national olive harvest campaign under the name \"Olive 2026\" was launched west of Bethlehem.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-20T19:31:15.486682+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/20/778816/-Olive-2026--campaign-launches-in-Battir,-Bethlehem-to-support-farmers-against-settler-attacks"
-  },
-  {
-    "id": "476ff630ce55",
-    "source": "PressTV",
-    "date": "2026-10-20T19:31",
-    "headline": "Gaza Civil Defense crews search rubble for remains of those killed in Israeli genocide",
-    "excerpt": "Three years on, Gaza's missing are still under the rubble.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-20T19:31:15.486697+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/20/778799/Three-years-on,-Gaza-searches-for-remains-of-war-victims-under-rubble"
-  },
-  {
-    "id": "fa2e7a16c9af",
-    "source": "Al Jazeera",
-    "date": "2026-10-20T15:02",
-    "headline": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
-    "excerpt": "Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-10-20T15:17:52.433567+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss"
   }
 ]
