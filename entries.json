@@ -1,5 +1,71 @@
 [
   {
+    "id": "b5412f982356",
+    "source": "Al Jazeera",
+    "date": "2026-11-01T20:48",
+    "headline": "Al Jazeera Director General hails 30 years of groundbreaking news",
+    "excerpt": "Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-11-01T20:51:17.084455+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss"
+  },
+  {
+    "id": "6dd0eabe3eef",
+    "source": "Al Jazeera",
+    "date": "2026-11-01T19:00",
+    "headline": "How will the Iran war shape the outcome of the US midterm vote?",
+    "excerpt": "The conflict has become a central issue ahead of Tuesday&#039;s polls.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-01T20:51:17.084498+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss"
+  },
+  {
+    "id": "3d1c11ce3d1c",
+    "source": "Al Jazeera",
+    "date": "2026-11-01T18:58",
+    "headline": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+    "excerpt": "No arrests made after several security officers were reportedly injured during incidents at Saturday&#039;s protests.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-01T20:51:17.084533+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss"
+  },
+  {
+    "id": "1af1a689f3c8",
+    "source": "Al Jazeera",
+    "date": "2026-11-01T18:23",
+    "headline": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
+    "excerpt": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-01T20:51:17.084574+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss"
+  },
+  {
+    "id": "ac0f62bd8a1f",
+    "source": "Al Jazeera",
+    "date": "2026-11-01T17:30",
+    "headline": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+    "excerpt": "Hebron&#039;s economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-11-01T20:51:17.084603+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss"
+  },
+  {
+    "id": "e23e96f49623",
+    "source": "PressTV",
+    "date": "2026-11-01T20:51",
+    "headline": "Palestinians in West Bank demonstrate against forced displacement in al-Khalil",
+    "excerpt": "Residents displaced from their homes in the West Bank city of al-Khalil staged a demonstration outside an Israeli army checkpoint on Sunday.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-01T20:51:20.139308+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/01/779716/palestinians-in-west-bank-demonstrate-against-forced-displacement-in-al-khalil"
+  },
+  {
     "id": "9d9097a1a754",
     "source": "Al Jazeera",
     "date": "2026-11-01T16:24",
@@ -5432,71 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-10-22T13:07:16.850723+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss"
-  },
-  {
-    "id": "e0cf6b7806ca",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T07:53",
-    "headline": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
-    "excerpt": "Atlanta&#039;s Reese has become the only woman in history to record consecutive double-doubles in three WNBA Finals games.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-10-22T13:07:16.850768+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss"
-  },
-  {
-    "id": "28bc3a37b1e8",
-    "source": "PressTV",
-    "date": "2026-10-22T13:07",
-    "headline": "Iran’s Chamber of Commerce chief calls for unified front to neutralize US economic warfare",
-    "excerpt": "Chamber of Commerce chief proposes pragmatic policies to safeguard export networks against Washington's unilateral coercive measures.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-22T13:07:19.371059+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/22/778943/Iran-Chamber-of-Commerce-chief-calls-for-unified-front-to-neutralize-US-economic-warfare"
-  },
-  {
-    "id": "3b24e6d7184b",
-    "source": "PressTV",
-    "date": "2026-10-22T13:07",
-    "headline": "No negotiations until US takes trust-building steps: Iran’s security chief",
-    "excerpt": "Iran’s top security official asserts that “there will be no negotiations” with the United States until Washington takes steps to build trust.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-22T13:07:19.371119+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/20/778826/Iran-United-States-negotiations-uranium"
-  },
-  {
-    "id": "62536a650976",
-    "source": "PressTV",
-    "date": "2026-10-22T13:07",
-    "headline": "Israeli occupation demolishes sports stadium, bulldozes land, uproots olive trees in al-Khalil",
-    "excerpt": "Israeli occupation bulldozers demolished a sports stadium in al-Arroub camp north of al-Khalil, bulldozed surrounding land, and uprooted olive trees.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-22T13:07:19.371147+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/22/778934/Israeli-occupation-demolishes-sports-stadium,-bulldozes-land,-and-uproots-olive-trees-in-Hebron"
-  },
-  {
-    "id": "81a0cd533188",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T06:06",
-    "headline": "Cookies and weapons: Women in Yemen’s Taiz find ways to help the city’s defence",
-    "excerpt": "Amid growing threats, a grassroots aid effort has transformed into an initiative to get more ammunition to the front.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-22T07:21:25.441055+00:00",
-    "link": "https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss"
-  },
-  {
-    "id": "61812fedd1a7",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T05:36",
-    "headline": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
-    "excerpt": "President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-22T07:21:25.441115+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss"
   }
 ]
