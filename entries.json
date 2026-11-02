@@ -1,5 +1,93 @@
 [
   {
+    "id": "157354d8d276",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T04:08",
+    "headline": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
+    "excerpt": "Trump attacks Muslim politicians Abdul El-Sayed and Ilhan Omar in his two last rallies on the campaign trail.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-02T06:41:37.586018+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss"
+  },
+  {
+    "id": "964f0eb48a1c",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T01:40",
+    "headline": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+    "excerpt": "Ukrainian users receive fake warnings of nuclear threats, while Moscow reports &#039;false information&#039; on its app.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-02T06:41:37.586092+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss"
+  },
+  {
+    "id": "e972b6aa6dc7",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T00:34",
+    "headline": "Nine die in ‘cataclysmic’ Florida business jet crash",
+    "excerpt": "Florida Governor Ron DeSantis tells reporters there appeared to be no casualties on the ground.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-02T06:41:37.586127+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss"
+  },
+  {
+    "id": "0321e3ab5383",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T00:29",
+    "headline": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+    "excerpt": "Election body says deadlocked result won&#039;t be undermined even if foreign interference claims are found to be true.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-11-02T06:41:37.586158+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss"
+  },
+  {
+    "id": "bc9562320c46",
+    "source": "PressTV",
+    "date": "2026-11-02T06:41",
+    "headline": "Iran’s geographic advantage breaks into strategic prominence under US blockade",
+    "excerpt": "The US blockade has accelerated Iran’s use of its geographic advantage, driving expansion of alternative trade routes, northern ports, railway networks and regional partnerships to strengthen economic resilience and connectivity.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-11-02T06:41:39.120515+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/02/779744/irans-geographic-advantage-breaks-into-strategic-prominence-under-us-blockade"
+  },
+  {
+    "id": "983e43d62e37",
+    "source": "PressTV",
+    "date": "2026-11-02T06:41",
+    "headline": "Iranian TV series ‘Sarv, Sepid, Sorkh’ wins Best Screen Drama Award at 2026 ABU General Assembly",
+    "excerpt": "“Sarv, Sepid, Sorkh” is an episodic drama series, with each instalment telling a standalone story connected to the 40-day US-Israeli war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-02T06:41:39.120560+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/02/779734/iranian-tv-series-sarv-sepid-sorkh-wins-best-screen-drama-award-at-2026-abu-general-assembly"
+  },
+  {
+    "id": "1ba7e6f990b9",
+    "source": "PressTV",
+    "date": "2026-11-02T06:41",
+    "headline": "Iran to turn 600,000 homes into solar power plants to bulletproof grid against sabotage",
+    "excerpt": "Tehran accelerates decentralized energy production to neutralize threats to critical infrastructure and achieve household energy independence.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-11-02T06:41:39.120590+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/02/779737/iran-to-turn-600-000-homes-into-solar-power-plants-to-bulletproof-grid-against-sabotage"
+  },
+  {
+    "id": "5a9beeb42c6a",
+    "source": "PressTV",
+    "date": "2026-11-02T06:41",
+    "headline": "Iran debating whether to change nuclear doctrine if attacked again: Security chief",
+    "excerpt": "Major General Mohsen Rezaei said that no new official or governmental decision has been taken on Iran’s nuclear doctrine yet.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-11-02T06:41:39.120639+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/10/31/779646/irans-security-chief-us-tone-has-completely-changed-no-decision-yet-on-nuclear-doctrine"
+  },
+  {
     "id": "6051d3d90817",
     "source": "Al Jazeera",
     "date": "2026-11-02T00:00",
@@ -5410,93 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-22T17:59:31.724681+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
-  },
-  {
-    "id": "195fc5960b9f",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T14:55",
-    "headline": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
-    "excerpt": "Israel can inflict devastating damage on Iran, but analysts question its ability to overthrow Tehran’s government.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-22T17:59:31.724733+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss"
-  },
-  {
-    "id": "69d7f812f6cc",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T14:36",
-    "headline": "Germany arrests Ukrainian man accused of spying for Russia",
-    "excerpt": "Military has raised the threat level of ​Russian sabotage against German troops and facilities.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-10-22T17:59:31.724798+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss"
-  },
-  {
-    "id": "ed1f0e205803",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T14:34",
-    "headline": "Ilhan Omar home raid, Haines attack: Inside rise in violence on officials",
-    "excerpt": "US Congresswoman Ilhan Omar&#039;s home raided; Australian MP Helen Haines loses both legs following an attack.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-10-22T17:59:31.724839+00:00",
-    "link": "https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss"
-  },
-  {
-    "id": "f45df0eea2d8",
-    "source": "PressTV",
-    "date": "2026-10-22T17:59",
-    "headline": "'We will not be soldiers for Saudis,' Turkish protesters clash with security forces",
-    "excerpt": "Turkish protesters rallied against the military alliance with Saudi Arabia and Pakistan.",
-    "category": "Movement",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-22T17:59:33.654193+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/22/778954/-We-will-NOT-be-soldiers-for-the-Saudis-----Turkish-communists-CLASH-with-security-forces-over-Mecca-defence-pact"
-  },
-  {
-    "id": "c26077a374e4",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T12:12",
-    "headline": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
-    "excerpt": "US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-22T13:07:16.850519+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss"
-  },
-  {
-    "id": "b90632108b6c",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T10:01",
-    "headline": "Israeli forces kill disabled man in southern Syria raid, state media says",
-    "excerpt": "Civilian with a disability shot dead during raid in Jamla, in western Deraa countryside, SANA reports.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-22T13:07:16.850559+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss"
-  },
-  {
-    "id": "eae1f14cb0ab",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T09:57",
-    "headline": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
-    "excerpt": "Overnight attacks on Kyiv injured 15 people, while two were injured in Moscow as Russia said it intercepted 163 drones.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-22T13:07:16.850588+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss"
-  },
-  {
-    "id": "93847ba7bd8f",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T09:00",
-    "headline": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 displaced",
-    "excerpt": "Yemen&#039;s government forces launched hundreds of strikes on Houthi locations, a spokesperson says.",
-    "category": "Movement",
-    "location": "Yemen",
-    "addedAt": "2026-10-22T13:07:16.850621+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss"
   }
 ]
