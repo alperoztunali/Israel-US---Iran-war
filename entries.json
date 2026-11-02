@@ -1,5 +1,38 @@
 [
   {
+    "id": "6051d3d90817",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T00:00",
+    "headline": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+    "excerpt": "US president warns Iran to make a deal as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-11-02T00:27:16.463213+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss"
+  },
+  {
+    "id": "53e0e1871775",
+    "source": "Al Jazeera",
+    "date": "2026-11-01T22:15",
+    "headline": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+    "excerpt": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-11-02T00:27:16.463247+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss"
+  },
+  {
+    "id": "54ee4de852c1",
+    "source": "Al Jazeera",
+    "date": "2026-11-01T21:28",
+    "headline": "Thousands displaced from Hebron as Israel carries on siege",
+    "excerpt": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-02T00:27:16.463273+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss"
+  },
+  {
     "id": "b5412f982356",
     "source": "Al Jazeera",
     "date": "2026-11-01T20:48",
@@ -5465,38 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-10-22T13:07:16.850621+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss"
-  },
-  {
-    "id": "75e072ae773c",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T08:55",
-    "headline": "Israeli elections: Is it just right wing versus right?",
-    "excerpt": "Benjamin Netanyahu’s opponents are promising a change to Israeli politics, but are their policies really that different?",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-22T13:07:16.850656+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss"
-  },
-  {
-    "id": "2c252d05f6a7",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T08:18",
-    "headline": "Russian strikes hit Kyiv after Witkoff meets Putin",
-    "excerpt": "Ukraine says &#039;appeasement&#039; will not end war as Russian attacks kill 1, injure 22 in its capital.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-22T13:07:16.850692+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss"
-  },
-  {
-    "id": "ed08ba3ffcfb",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T08:00",
-    "headline": "Can Russia broker a new US-Iran deal?",
-    "excerpt": "Russia’s nuclear expertise, close ties with Tehran and negotiation experience could give Moscow an edge as a mediator.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-10-22T13:07:16.850723+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss"
   }
 ]
