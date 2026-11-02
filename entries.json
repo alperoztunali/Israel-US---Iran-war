@@ -1,5 +1,137 @@
 [
   {
+    "id": "4a15a8275af7",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T16:03",
+    "headline": "China steps up Middle East diplomacy with Iran and Oman meetings",
+    "excerpt": "Beijing urges dialogue on US-Iran war, sends envoy to Gulf as Xi hosts first Omani head of state visit since 1978.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-11-02T16:35:23.492383+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss"
+  },
+  {
+    "id": "eda21609096c",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T15:43",
+    "headline": "Displaced in Hebron: Picking up pieces after Israeli siege",
+    "excerpt": "Displaced Hebron families return to damaged homes, left to pick up scattered pieces of their lives after Israeli siege.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-02T16:35:23.492417+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss"
+  },
+  {
+    "id": "837a054fcb1b",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T15:13",
+    "headline": "Jake Paul to fight MMA star Cedric Doumbe",
+    "excerpt": "YouTuber-turned-boxer Jake Paul to face mixed martial arts star Cedric Doumbe in boxing bout in Dubai.",
+    "category": "Other",
+    "location": "Dubai",
+    "addedAt": "2026-11-02T16:35:23.492441+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe?traffic_source=rss"
+  },
+  {
+    "id": "2bab5610845c",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T15:09",
+    "headline": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
+    "excerpt": "Network calls move &#039;assault&#039; on press freedom, warns of &#039;dangerous pattern&#039; that undermines ability to report facts.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-02T16:35:23.492462+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting?traffic_source=rss"
+  },
+  {
+    "id": "540e14e31ea0",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T15:00",
+    "headline": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
+    "excerpt": "Political wrangling is still ongoing as all blocs weigh potential paths to power.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-11-02T16:35:23.492483+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss"
+  },
+  {
+    "id": "0f157e4851c9",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T14:27",
+    "headline": "How US oil firms profit $130bn from Iran war as household bills surge",
+    "excerpt": "As energy from the Gulf and Russia take a hit, American oil and gas firms are the big gainers.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-02T16:35:23.492504+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/how-us-oil-firms-profit-130bn-from-iran-war-as-household-bills-surge?traffic_source=rss"
+  },
+  {
+    "id": "c17df3ac3f55",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T14:17",
+    "headline": "How would Tehran respond if the US and Israel bomb Iran again?",
+    "excerpt": "Iran has retained significant offensive capability, but civilians and critical infrastructure remain largely exposed.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-11-02T16:35:23.492514+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/how-would-tehran-respond-if-the-us-and-israel-bomb-iran?traffic_source=rss"
+  },
+  {
+    "id": "93420a9a7a5b",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T13:04",
+    "headline": "Iran says US talks could resume ‘within a short period’ if demands are met",
+    "excerpt": "Esmaeil Baghaei said Qatar is facilitating indirect talks based on Iran’s seven-step peace plan.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-11-02T16:35:23.492543+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met?traffic_source=rss"
+  },
+  {
+    "id": "dd52072f8874",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T12:36",
+    "headline": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
+    "excerpt": "King tells parliament attackers ‘are not of us’ and warns that Israeli expansionism is greatest threat to the region.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-02T16:35:23.492568+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss"
+  },
+  {
+    "id": "b08aa5d16082",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T12:18",
+    "headline": "Oman and China sign deals to boost trade and investment",
+    "excerpt": "Oman and China sign deals to boost trade and investment",
+    "category": "Diplomatic",
+    "location": "Oman",
+    "addedAt": "2026-11-02T16:35:23.492587+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss"
+  },
+  {
+    "id": "1a04aa831af4",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T12:14",
+    "headline": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis",
+    "excerpt": "Recent military advances by Yemeni government forces highlight the geographic and strategic significance of Al-Jawf.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-11-02T16:35:23.492603+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/al-jawf-becomes-new-hotspot-in-yemen-war-between-government-forces-houthis?traffic_source=rss"
+  },
+  {
+    "id": "f25c67350775",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T12:08",
+    "headline": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
+    "excerpt": "Temperature increases have been reported in dozens of store cooling systems , weeks after a similar attack in France.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-02T16:35:23.492627+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss"
+  },
+  {
     "id": "157354d8d276",
     "source": "Al Jazeera",
     "date": "2026-11-02T04:08",
@@ -5366,137 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-22T21:28:24.712958+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss"
-  },
-  {
-    "id": "510e7be9a31e",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T18:17",
-    "headline": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
-    "excerpt": "Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-22T21:28:24.713007+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss"
-  },
-  {
-    "id": "13f5056939fe",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T17:58",
-    "headline": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-    "excerpt": "The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-22T21:28:24.713038+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss"
-  },
-  {
-    "id": "46fb01c00d5e",
-    "source": "PressTV",
-    "date": "2026-10-22T21:28",
-    "headline": "Qalibaf warns US: Break free from ‘manufactured matrix’ before it is too late",
-    "excerpt": "Iranian Parliament Speaker Mohammad Baqer Qalibaf warns US officials about the consequences of a war against Iran, urging them to break free from a “manufactured matrix”.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-22T21:28:26.307277+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/22/778975/Qalibaf-warns-consequence-Iran,-Americans-manufactured-matrix%E2%80%99"
-  },
-  {
-    "id": "47a873e9b11d",
-    "source": "PressTV",
-    "date": "2026-10-22T21:28",
-    "headline": "Iran invites Azerbaijani girls to study at Iranian universities after Baku’s hijab ban",
-    "excerpt": "Iran’s Minister of Science, Research and Technology has invited Azerbaijani girls to study at Iranian universities following Baku’s hijab ban in schools.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-22T21:28:26.307323+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/22/778971/Iran-Hossein-Simaei-Sarraf-Azerbaijan-girls-university-hijab-ban"
-  },
-  {
-    "id": "5cef5dace6f5",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T17:46",
-    "headline": "US-sanctioned ICC wins top EU human rights award",
-    "excerpt": "The EU has awarded the International Criminal Court its top human rights award.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-22T17:59:31.724406+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss"
-  },
-  {
-    "id": "d366ba77c153",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T17:40",
-    "headline": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
-    "excerpt": "Breast cancer patients in Gaza face delayed diagnoses, medicine shortages and limited access to scans and treatment.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-10-22T17:59:31.724461+00:00",
-    "link": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss"
-  },
-  {
-    "id": "448ed047de63",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T17:35",
-    "headline": "Foreign national beaten to death by a mob in South Africa",
-    "excerpt": "Police say a 50-person mob in Durban killed a man amid a wave of anti-migrant marches.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-22T17:59:31.724494+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss"
-  },
-  {
-    "id": "bbd831d8ed95",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T17:25",
-    "headline": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
-    "excerpt": "A video of an Israeli soldier throwing a cat over a fence has gone viral online.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-22T17:59:31.724538+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss"
-  },
-  {
-    "id": "7c1846b6fb17",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T16:24",
-    "headline": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
-    "excerpt": "The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus.",
-    "category": "Airstrike",
-    "location": "Syria",
-    "addedAt": "2026-10-22T17:59:31.724564+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss"
-  },
-  {
-    "id": "88d87ac9fa71",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T16:06",
-    "headline": "Israeli attacks in Gaza kill four, including a young girl",
-    "excerpt": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-22T17:59:31.724591+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
-  },
-  {
-    "id": "a2f26cc56a7b",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T15:31",
-    "headline": "16-year-old Malaysian student attacks his teacher with axe",
-    "excerpt": "A 16-year-old Malaysian student attacked his teacher and fellow school pupils with an axe.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-22T17:59:31.724627+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/16-year-old-malaysian-student-attacks-his-teacher-with-axe?traffic_source=rss"
-  },
-  {
-    "id": "579c4a59238b",
-    "source": "Al Jazeera",
-    "date": "2026-10-22T15:13",
-    "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
-    "excerpt": "Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-22T17:59:31.724681+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss"
   }
 ]
