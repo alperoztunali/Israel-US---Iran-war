@@ -1,5 +1,60 @@
 [
   {
+    "id": "2efd364d2e08",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T03:53",
+    "headline": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
+    "excerpt": "Israeli soldiers blindfolded, handcuffed and arrested Al Jazeera correspondent Montaser Nassar during a raid on his home",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-03T04:03:25.968378+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss"
+  },
+  {
+    "id": "8e923a142ea7",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T02:25",
+    "headline": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+    "excerpt": "Several explosions heard in Qeshm Island and Bandar Lengeh, as US media say the US military carried out the strikes.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-03T04:03:25.968431+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "c995e4ab1192",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T01:17",
+    "headline": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+    "excerpt": "At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-03T04:03:25.968475+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss"
+  },
+  {
+    "id": "0180aa04878b",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T00:00",
+    "headline": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
+    "excerpt": "US forces target Iranian positions in the Strait of Hormuz in &quot;defensive&quot; strikes following missile threats.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-11-03T04:03:25.968503+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss"
+  },
+  {
+    "id": "b4fd64db6efa",
+    "source": "Al Jazeera",
+    "date": "2026-11-02T23:41",
+    "headline": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+    "excerpt": "Hit hard by Trump&#039;s tariffs and the war on Iran, countries in the Asia-Pacific want &#039;enormous changes&#039; in US policies.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-03T04:03:25.968535+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss"
+  },
+  {
     "id": "8ab0658d813d",
     "source": "Al Jazeera",
     "date": "2026-11-02T18:49",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-23T09:50:22.165374+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss"
-  },
-  {
-    "id": "c90ae2afd3a4",
-    "source": "PressTV",
-    "date": "2026-10-23T09:50",
-    "headline": "Iran blasts 'parasitic' alliance as US taxpayers pay for Israel's war",
-    "excerpt": "Iran condemns 'parasitic' military relations between the United States and Israel, citing the spending of $11 billion in American taxpayers’ money on missiles for the occupying regime over the past three years.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-10-23T09:50:24.346218+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/23/779000/Iran-parasitic-US-Israel-military-ties"
-  },
-  {
-    "id": "ea580b7efbd2",
-    "source": "PressTV",
-    "date": "2026-10-23T09:50",
-    "headline": "Iran, six other countries call for accountability of sanctions-imposing states",
-    "excerpt": "Iran, Belarus, China, Cuba, Myanmar, Nicaragua, and Russia condemn the devastating impact of unilateral sanctions on human rights and international cooperation, saying the states slapping such illegal restrictive measure must be held to account.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-23T09:50:24.346256+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/23/778990/Iran-accountability-sanctions-imposing-states"
-  },
-  {
-    "id": "2058a4aad083",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T04:09",
-    "headline": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
-    "excerpt": "Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-23T04:55:06.676001+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss"
-  },
-  {
-    "id": "2f775eeebfae",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T02:09",
-    "headline": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
-    "excerpt": "US federal agents raided the congresswoman’s home last week as part of an investigation into alleged immigration fraud.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-10-23T04:55:06.676058+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss"
-  },
-  {
-    "id": "1c3e0cf2beb3",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T00:00",
-    "headline": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
-    "excerpt": "Trump indicates new strikes on Iran, saying the US has knocked the &#039;hell out&#039; of the country.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-23T04:55:06.676098+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
   }
 ]
