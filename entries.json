@@ -1,5 +1,126 @@
 [
   {
+    "id": "880e8bd6ad38",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T18:38",
+    "headline": "Palestinian Americans turn to US flags to protect West Bank homes",
+    "excerpt": "Palestinian Americans in the occupied West Bank are putting up US flags, to fend off pogroms by Israeli settlers.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-03T19:25:06.744409+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss"
+  },
+  {
+    "id": "9aa7588daa17",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T17:26",
+    "headline": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+    "excerpt": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-03T19:25:06.744447+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss"
+  },
+  {
+    "id": "f7451fca7578",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T17:24",
+    "headline": "Russian strikes on Dnipro kill two, injure 20 others",
+    "excerpt": "Russian strikes on Dnipro damaged residential areas and several medical facilities.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-03T19:25:06.744476+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss"
+  },
+  {
+    "id": "55f9dbbea0d1",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T17:03",
+    "headline": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+    "excerpt": "Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-03T19:25:06.744499+00:00",
+    "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss"
+  },
+  {
+    "id": "39e55934b9fd",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T16:49",
+    "headline": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+    "excerpt": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government..",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-11-03T19:25:06.744519+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss"
+  },
+  {
+    "id": "64113321c290",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T16:39",
+    "headline": "Opposition party organiser killed before South Africa elections",
+    "excerpt": "Police are investigating the motive in murder of MKP coordinator as political killings rise during municipal elections.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-03T19:25:06.744545+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss"
+  },
+  {
+    "id": "90b07fe001a2",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T16:22",
+    "headline": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
+    "excerpt": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts.",
+    "category": "Diplomatic",
+    "location": "Abu Dhabi",
+    "addedAt": "2026-11-03T19:25:06.744573+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss"
+  },
+  {
+    "id": "966ea406aac4",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T15:47",
+    "headline": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+    "excerpt": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-11-03T19:25:06.744605+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss"
+  },
+  {
+    "id": "0b1ef8bb5706",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T15:00",
+    "headline": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+    "excerpt": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-03T19:25:06.744631+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss"
+  },
+  {
+    "id": "d6a7920d9813",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T14:58",
+    "headline": "Global food security is under threat",
+    "excerpt": "Attacks on grain shipments from Russia and Ukraine may drive up food prices, hitting import-dependent countries hardest.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-11-03T19:25:06.744654+00:00",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss"
+  },
+  {
+    "id": "13c1e4187fcc",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T14:30",
+    "headline": "From Italy to Canada, how the UK’s Palestine Action group went global",
+    "excerpt": "The banned UK group, which targets Israel&#039;s war machine, has inspired activists in Europe and beyond.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-03T19:25:06.744692+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss"
+  },
+  {
     "id": "4df2b4104a40",
     "source": "Al Jazeera",
     "date": "2026-11-03T10:40",
@@ -5377,126 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-23T18:58:54.172018+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/23/779014/Food-entry-restrictions-into-Gaza-renew-famine-fears---Displaced-people-resort-to-charity-kitchens-to-stave-off-their-families--hunger"
-  },
-  {
-    "id": "ef85f940da00",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T13:50",
-    "headline": "Finland nearing opening of world’s first permanent nuclear waste repository",
-    "excerpt": "Facilities are being built in many countries, but Finland is the first to licence its underground storage facility.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-23T14:48:19.421772+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss"
-  },
-  {
-    "id": "cf9077f87088",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T13:17",
-    "headline": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
-    "excerpt": "Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-23T14:48:19.421821+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss"
-  },
-  {
-    "id": "e89ea21a3717",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T13:00",
-    "headline": "Qatar Moto GP to go ahead despite regional tensions",
-    "excerpt": "Qatar GP goes ahead despite Saudi Arabia scrapping events in region after deadly strike on Riyadh airport.",
-    "category": "Casualties",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-23T14:48:19.421852+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss"
-  },
-  {
-    "id": "24f7952caa9c",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T12:54",
-    "headline": "Russia-Ukraine talks planned for November in UAE: Kremlin",
-    "excerpt": "The US-brokered talks are the first planned talks since negotiations stopped earlier this year.",
-    "category": "Diplomatic",
-    "location": "Uae",
-    "addedAt": "2026-10-23T14:48:19.421884+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss"
-  },
-  {
-    "id": "9bc7e4b80cc1",
-    "source": "PressTV",
-    "date": "2026-10-23T14:48",
-    "headline": "IEA warns Europe of costly winter as war on Iran disrupts gas supplies",
-    "excerpt": "The IEA chief warns that Europe faces a costly winter, with gas stocks well below normal and prices likely to rise as the war on Iran disrupts global supplies.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-23T14:48:21.207596+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/23/779017/Europe-Energy-Crisis-IEA-Birol-"
-  },
-  {
-    "id": "c2efd242f60f",
-    "source": "PressTV",
-    "date": "2026-10-23T14:48",
-    "headline": "‘So much worse than people realize’: Images, troops reveal damage at US bases",
-    "excerpt": "Never-before-published photos and videos have confirmed damage to US military facilities across West Asia during Iran’s retaliatory attacks, with US military personnel slamming their country for mismanagement and inadequate preparations and for “abandoning” them during the recent war on Iran.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-23T14:48:21.207640+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/23/779009/Images-troops-reveal-damage-at-US-bases"
-  },
-  {
-    "id": "44d917333d89",
-    "source": "PressTV",
-    "date": "2026-10-23T14:48",
-    "headline": "Transit of offending vessels through Strait of Hormuz halted: Report",
-    "excerpt": "The transit of offending vessels through the Strait of Hormuz has been completely halted, according to a report.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-10-23T14:48:21.207666+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/23/779008/Transit-of-non-compliant-vessels-through-Strait-of-Hormuz-halted"
-  },
-  {
-    "id": "f9f8095e0b8a",
-    "source": "PressTV",
-    "date": "2026-10-23T14:48",
-    "headline": "Baghaei invokes ancient Persian historian to warn US against underestimating Iran",
-    "excerpt": "Esmaeil Baghaei has invoked the writings of medieval Persian historian Abolfazl Beyhaqi to warn the US against underestimating Iran amid renewed military threats from Donald Trump.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-23T14:48:21.207703+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/23/779002/Baghaei-invokes-ancient-Persian-historian-to-warn-US-against-underestimating-Iran"
-  },
-  {
-    "id": "7f46e30be633",
-    "source": "PressTV",
-    "date": "2026-10-23T14:48",
-    "headline": "French police swarm petrol station in Paris suburb after shooting leaves one dead",
-    "excerpt": "French police were seen at the site of a shooting at a petrol station in Trappes in the Paris suburbs - as prosecutors confirmed they were investigating a suspected 'terror attack'.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-23T14:48:21.207745+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/23/779015/French-police-swarm-petrol-station-in-Paris-suburb-after-shooting-leaves-one-dead-four-wounded"
-  },
-  {
-    "id": "8e796b39c07a",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T09:12",
-    "headline": "Israeli military kills two in gun battle in occupied West Bank",
-    "excerpt": "Israel’s PM is preparing to order a shutdown in the occupied West Bank lockdown after a shooting near Hebron.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-23T09:50:22.165146+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "bdca8a307a1c",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T09:03",
-    "headline": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
-    "excerpt": "Israel&#039;s election heats up over ultra-Orthodox conscription debate, reflecting deep societal and political divides.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-23T09:50:22.165205+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss"
   }
 ]
