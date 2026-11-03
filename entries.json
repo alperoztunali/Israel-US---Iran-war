@@ -1,5 +1,60 @@
 [
   {
+    "id": "4df2b4104a40",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T10:40",
+    "headline": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+    "excerpt": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-03T11:57:45.416853+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss"
+  },
+  {
+    "id": "92d428bae4b5",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T10:39",
+    "headline": "US conducts series of ‘defensive strikes’ against Iran",
+    "excerpt": "The US has carried out a series of ‘defensive strikes’ on Iranian locations near Hormuz, with explosions heard on Qeshm.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-03T11:57:45.416895+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss"
+  },
+  {
+    "id": "7a9cf2c03580",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T10:29",
+    "headline": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+    "excerpt": "Sudan demands UN accountability after devastating drone attacks expose a complex regional crisis.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-03T11:57:45.416919+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia?traffic_source=rss"
+  },
+  {
+    "id": "c3c3423735d3",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T10:18",
+    "headline": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
+    "excerpt": "Medical facility was struck by Russian ballistic missiles and aerial bombs overnight.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-03T11:57:45.416937+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants?traffic_source=rss"
+  },
+  {
+    "id": "8d224fc11222",
+    "source": "Al Jazeera",
+    "date": "2026-11-03T10:17",
+    "headline": "Lebanon cuts power to public bodies as electricity crisis deepens",
+    "excerpt": "Political disputes and war worsen Lebanon&#039;s electricity crisis, as experts say deeper reforms are necessary.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-11-03T11:57:45.416960+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss"
+  },
+  {
     "id": "2efd364d2e08",
     "source": "Al Jazeera",
     "date": "2026-11-03T03:53",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-23T09:50:22.165205+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss"
-  },
-  {
-    "id": "07591468ed55",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T08:35",
-    "headline": "Israeli forces accused of killing disabled man in Syria raid",
-    "excerpt": "Israeli forces reportedly shot dead a Syrian man with an intellectual disability and hearing problems, during a raid.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-23T09:50:22.165242+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss"
-  },
-  {
-    "id": "c76e49beea4f",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T07:37",
-    "headline": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
-    "excerpt": "With emergency stocks at multidecade lows, analysts say the world may have only a month or two if Hormuz shuts again.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-23T09:50:22.165277+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "3ca8ba94b726",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T06:02",
-    "headline": "EU entering winter with lowest gas reserves on record, IEA boss warns",
-    "excerpt": "Al Jazeera interviews Fatih Birol in Berlin as the Iran war disrupts global energy supplies.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-23T09:50:22.165309+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss"
-  },
-  {
-    "id": "982e8c4be35d",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T04:41",
-    "headline": "Grenade exercise sparked deadly fire at Canada military base, army says",
-    "excerpt": "High winds propelled the blaze across the army base in Wainwright, killing four soldiers and injuring dozens more.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-23T09:50:22.165343+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss"
-  },
-  {
-    "id": "33a5bd244ccc",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T04:09",
-    "headline": "Israel preparing full lockdown of occupied West Bank after Hebron gunfight",
-    "excerpt": "Clampdown comes as Israeli pogroms heighten tensions and spread violence across Palestinian territory.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-23T09:50:22.165374+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss"
   }
 ]
