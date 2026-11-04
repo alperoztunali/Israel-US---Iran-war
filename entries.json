@@ -1,5 +1,49 @@
 [
   {
+    "id": "bfad9090047c",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T05:11",
+    "headline": "N Korea fires multiple missiles, denies US claims on Binance hack",
+    "excerpt": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-04T06:28:40.649918+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss"
+  },
+  {
+    "id": "a783843b4625",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T04:39",
+    "headline": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+    "excerpt": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-11-04T06:28:40.649958+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss"
+  },
+  {
+    "id": "c24b044c43c4",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T03:16",
+    "headline": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+    "excerpt": "EU says supermarket hacks in at least 11 countries are &#039;not isolated&#039;, but a Romanian official suspects no state actor.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-11-04T06:28:40.649991+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss"
+  },
+  {
+    "id": "ce832f053b5c",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T02:25",
+    "headline": "Keisha Lance Bottoms makes history as first Black woman elected US governor",
+    "excerpt": "Bottoms, a former adviser to former President Joe Biden, beat Republican Rick Jackson to win the Georgia governor&#039;s race",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-11-04T06:28:40.650019+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss"
+  },
+  {
     "id": "3dd9a6d88b4a",
     "source": "Al Jazeera",
     "date": "2026-11-03T21:15",
@@ -5454,49 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-23T18:58:52.426875+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss"
-  },
-  {
-    "id": "ebfd369744e2",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T15:51",
-    "headline": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-    "excerpt": "Democrats are framing the conflict as an affordability issue to criticise Republican candidates backed by Trump.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-23T18:58:52.426913+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss"
-  },
-  {
-    "id": "aed0392be1b9",
-    "source": "PressTV",
-    "date": "2026-10-23T18:58",
-    "headline": "CBI chief: Iran reserves can sustain imports beyond Trump’s term amid ‘failed’ US economic pressure",
-    "excerpt": "Iran’s central bank governor says the country can finance imports beyond US President Trump’s term despite Washington’s economic pressure campaign.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-23T18:58:54.171860+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/23/779020/Iran-US-CBI-Hemmati"
-  },
-  {
-    "id": "a8e714104ed5",
-    "source": "PressTV",
-    "date": "2026-10-23T18:58",
-    "headline": "Images, troops reveal ‘extensive’ damage at US bases in Iranian retaliatory strikes",
-    "excerpt": "Never-before-published photos and videos have confirmed damage to US military facilities across West Asia during Iran’s retaliatory attacks, with US military personnel slamming their country for mismanagement and inadequate preparations and for “abandoning” them during the recent war on Iran.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-23T18:58:54.171904+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/23/779009/Images-troops-reveal-damage-at-US-bases"
-  },
-  {
-    "id": "be710f8a30dc",
-    "source": "PressTV",
-    "date": "2026-10-23T18:58",
-    "headline": "Diplomacy does not preclude Iran from defending itself: FM Araghchi",
-    "excerpt": "Iran stresses commitment to using diplomatic instruments to safeguard regional peace and security, while making clear that diplomacy would not preclude it from defending itself.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-23T18:58:54.171948+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/22/778904/Iran-Araghchi-diplomacy-defense"
   }
 ]
