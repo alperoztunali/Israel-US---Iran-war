@@ -1,5 +1,93 @@
 [
   {
+    "id": "db5006024a1a",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T14:08",
+    "headline": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+    "excerpt": "The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-11-04T14:49:33.782377+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss"
+  },
+  {
+    "id": "8380b4e8d720",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T13:40",
+    "headline": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
+    "excerpt": "Israeli settlers have expanded in Hebron&#039;s Old City, with Palestinian residents&#039; presence under threat.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-04T14:49:33.782431+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss"
+  },
+  {
+    "id": "746aab352f8b",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T13:33",
+    "headline": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
+    "excerpt": "Egyptian-American surgeon Adam Hamawy has won New Jersey’s 12th Congressional District.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-04T14:49:33.782470+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss"
+  },
+  {
+    "id": "d3ed4d16bff5",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T13:29",
+    "headline": "Jerusalem Daily: Mass arrests across occupied West Bank",
+    "excerpt": "Israeli forces bomb Gaza displacement camps and arrest 45 people in the occupied West Bank.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-11-04T14:49:33.782493+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "e362a129e209",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T13:26",
+    "headline": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
+    "excerpt": "Iranian officials see Republican midterm losses in a positive light, but supreme leader says US policy will not shift.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-04T14:49:33.782531+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss"
+  },
+  {
+    "id": "9bde740ef1b3",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T12:48",
+    "headline": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
+    "excerpt": "Democrats can block Trump&#039;s legislative agenda, launch investigations but don&#039;t have the numbers to override his veto.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-04T14:49:33.782571+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss"
+  },
+  {
+    "id": "682437482177",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T12:44",
+    "headline": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
+    "excerpt": "US President Donald Trump has admitted that the war on Iran contributed to Republican losses in the midterm elections.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-04T14:49:33.782608+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss"
+  },
+  {
+    "id": "5c988250c006",
+    "source": "Al Jazeera",
+    "date": "2026-11-04T11:24",
+    "headline": "‘Seismic shift’: World reacts to US midterm election results",
+    "excerpt": "Iran&#039;s top negotiator says US voters sent a “NO TO WAR” message, as Trump&#039;s Democratic opponents take Congress.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-04T14:49:33.782652+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss"
+  },
+  {
     "id": "bfad9090047c",
     "source": "Al Jazeera",
     "date": "2026-11-04T05:11",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-23T22:00:35.378128+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss"
-  },
-  {
-    "id": "66d7cda1c6b4",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T20:44",
-    "headline": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
-    "excerpt": "More than 800,000 people have been cut off from aid since the Houthis encircled Taiz city in early October.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-23T22:00:35.378159+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss"
-  },
-  {
-    "id": "2024823c972c",
-    "source": "PressTV",
-    "date": "2026-10-23T22:00",
-    "headline": "US ‘one-sided dictation’ not Iran’s beliefs makes rational talks impossible: Baghaei",
-    "excerpt": "The Iranian Foreign Ministry spokesman says US coercion and one-sided demands, not Iran’s religious beliefs, are undermining rational negotiations.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-23T22:00:37.345438+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/22/778919/Iran-US-Baghaei-negotiations"
-  },
-  {
-    "id": "d913c0d83401",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T18:38",
-    "headline": "Israel locks down occupied West Bank after Hebron shooting",
-    "excerpt": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-23T18:58:52.426688+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss"
-  },
-  {
-    "id": "d45068bc3dee",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T17:30",
-    "headline": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
-    "excerpt": "Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-23T18:58:52.426741+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss"
-  },
-  {
-    "id": "ebec29fefebe",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T17:26",
-    "headline": "Romania blames Russia after drone sinks ship in the Black Sea",
-    "excerpt": "One sailor killed and three others missing after Comoros-flagged Khoryv hit near Romanian waters.",
-    "category": "Missile/Drone",
-    "location": "Oman",
-    "addedAt": "2026-10-23T18:58:52.426773+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss"
-  },
-  {
-    "id": "459a22fca863",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T16:37",
-    "headline": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-    "excerpt": "Residents of Madama describe being cut off from hospitals, schools, and olive groves as Israeli forces blockade village.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-23T18:58:52.426803+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss"
-  },
-  {
-    "id": "9334e83dccde",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T16:29",
-    "headline": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-    "excerpt": "An escalation would &#039;create nothing but losers&#039;, French foreign minister says as US official warns of possible strike.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-23T18:58:52.426835+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss"
-  },
-  {
-    "id": "6a7c99d37ee3",
-    "source": "Al Jazeera",
-    "date": "2026-10-23T16:08",
-    "headline": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
-    "excerpt": "Antiterrorism prosecutors investigating motive of attack that seriously wounded five, including a 12-year-old girl.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-23T18:58:52.426875+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss"
   }
 ]
