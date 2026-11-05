@@ -1,5 +1,60 @@
 [
   {
+    "id": "8876d296c9d1",
+    "source": "Al Jazeera",
+    "date": "2026-11-05T07:44",
+    "headline": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+    "excerpt": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-05T08:25:57.815032+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss"
+  },
+  {
+    "id": "145c52760a85",
+    "source": "Al Jazeera",
+    "date": "2026-11-05T05:39",
+    "headline": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+    "excerpt": "Netanyahu&#039;s rivals say US midterm results show Israel &#039;cannot afford&#039; to have the prime minister remain in office.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-05T08:25:57.815074+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss"
+  },
+  {
+    "id": "f8379b66a4cf",
+    "source": "Al Jazeera",
+    "date": "2026-11-05T03:46",
+    "headline": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+    "excerpt": "Defence cooperation deal signed as Syria&#039;s President al-Sharaa visits Riyadh for the second time in less than a month.",
+    "category": "Diplomatic",
+    "location": "Syria",
+    "addedAt": "2026-11-05T08:25:57.815098+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss"
+  },
+  {
+    "id": "768fa2ac448c",
+    "source": "Al Jazeera",
+    "date": "2026-11-05T02:52",
+    "headline": "Former Israeli generals help Palestinian olive farmers",
+    "excerpt": "A group of former Israeli military generals offered their help to Palestinian olive farmers in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-05T08:25:57.815119+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss"
+  },
+  {
+    "id": "d6f0b0ceac90",
+    "source": "Al Jazeera",
+    "date": "2026-11-05T02:10",
+    "headline": "El Salvador’s Bukele touts military intervention in Haiti",
+    "excerpt": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-11-05T08:25:57.815144+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss"
+  },
+  {
     "id": "a57c67ff2673",
     "source": "Al Jazeera",
     "date": "2026-11-05T00:25",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-24T13:36:59.415651+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss"
-  },
-  {
-    "id": "0555744a793d",
-    "source": "Al Jazeera",
-    "date": "2026-10-24T09:16",
-    "headline": "Ilhan Omar votes as Trump renews attacks amid federal probe",
-    "excerpt": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-10-24T13:36:59.415695+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss"
-  },
-  {
-    "id": "db85c7a3b5a8",
-    "source": "Al Jazeera",
-    "date": "2026-10-24T09:14",
-    "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
-    "excerpt": "Netanyahu says &#039;we will destroy this place&#039; as Israeli forces begin days-long operation with raids and demolitions.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-24T13:36:59.415725+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "9099ecb616d0",
-    "source": "PressTV",
-    "date": "2026-10-24T13:37",
-    "headline": "Tehran urges IAEA to 'end double standards, resist politicization'",
-    "excerpt": "Iran’s Permanent Mission to the United Nations in Vienna has urged the International Atomic Energy Agency (IAEA) to drop its “double standards”, and not to submit to pressure from certain regimes.",
-    "category": "Statement",
-    "location": "Tehran",
-    "addedAt": "2026-10-24T13:37:01.486994+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/23/779037/Tehran-urges-IAEA-end-double-standards-resist-politicization"
-  },
-  {
-    "id": "21d8542159a4",
-    "source": "PressTV",
-    "date": "2026-10-24T13:37",
-    "headline": "Araghchi slams Macron’s flip-flop on Iran nuclear deal: ‘Get your story straight’",
-    "excerpt": "Araghchi recalled Macron’s firm stance before the US Congress in 2018, just before then-President Donald Trump withdrew the United States from the nuclear agreement.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-24T13:37:01.487047+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/22/778980/Araghchi-slams-Macron%E2%80%99s-flip-flop-on-Iran-nuclear-deal--%E2%80%98Get-your-story-straight%E2%80%99"
-  },
-  {
-    "id": "cc71856752b8",
-    "source": "PressTV",
-    "date": "2026-10-24T13:37",
-    "headline": "Drone shots show thousands rallying Serbia's student movement supporters ahead of pivotal vote",
-    "excerpt": "Tens of thousands of supporters of Serbia's student movement gathered in Belgrade for a final campaign rally ahead of the parliamentary election.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-24T13:37:01.487101+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/24/779072/Drone-shots-show-thousands-rallying-Serbia-s-student-movement-supporters-ahead-of-pivotal-vote"
   }
 ]
