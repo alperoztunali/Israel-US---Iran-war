@@ -1,5 +1,49 @@
 [
   {
+    "id": "f646c8f88bb4",
+    "source": "Al Jazeera",
+    "date": "2026-11-06T21:37",
+    "headline": "Palestinian couples tie the knot in mass wedding in Gaza",
+    "excerpt": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-06T22:16:12.715677+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "4885c1bbb68e",
+    "source": "Al Jazeera",
+    "date": "2026-11-06T19:16",
+    "headline": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
+    "excerpt": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-06T22:16:12.715712+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss"
+  },
+  {
+    "id": "83d4b29668b5",
+    "source": "Al Jazeera",
+    "date": "2026-11-06T18:17",
+    "headline": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
+    "excerpt": "Israeli settlers have forced dozens of Palestinians from their homes in Jericho after seizing eight properties.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-06T22:16:12.715734+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss"
+  },
+  {
+    "id": "51ee96e103d8",
+    "source": "Al Jazeera",
+    "date": "2026-11-06T18:09",
+    "headline": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+    "excerpt": "The attack on al-Hadara market in Taiz governorate&#039;s al-Waziiya district killed at least 30 people, Houthi rebels say.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-11-06T22:16:12.715750+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss"
+  },
+  {
     "id": "9fa34c22b21b",
     "source": "Al Jazeera",
     "date": "2026-11-06T16:21",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-25T09:39:36.950296+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss"
-  },
-  {
-    "id": "8f1173bd8946",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T05:33",
-    "headline": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
-    "excerpt": "Cypriots say Israeli money is moving fast and shutting them out as their government embraces Israel as a key ally.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-25T09:39:36.950334+00:00",
-    "link": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss"
-  },
-  {
-    "id": "4aed66658493",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T05:27",
-    "headline": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
-    "excerpt": "Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-25T09:39:36.950372+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss"
-  },
-  {
-    "id": "44651e595f60",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T04:43",
-    "headline": "Serbia votes in election pitting longtime leader against student movement",
-    "excerpt": "Polls show populist leader Aleksandar Vucic in a tight race against the anticorruption and antirepression movement.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-25T09:39:36.950433+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
-  },
-  {
-    "id": "3c063bf8309a",
-    "source": "PressTV",
-    "date": "2026-10-25T09:39",
-    "headline": "Iran to push for unified global gas market at GECF summit: Acting oil minister",
-    "excerpt": "Acting Oil Minister says Tehran will advocate for protecting energy infrastructure during conflicts and establishing a common market among gas exporters to counter Western market manipulation.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-10-25T09:39:38.693049+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/25/779147/Iran-to-push-for-unified-global-gas-market-at-GECF-summit-Acting-oil-minister"
   }
 ]
