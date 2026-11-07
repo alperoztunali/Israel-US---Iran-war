@@ -1,5 +1,126 @@
 [
   {
+    "id": "94e90fb202b8",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T14:30",
+    "headline": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
+    "excerpt": "When the ancient Iraqi city of Mosul is devastated after liberation from ISIL, three men strive to revive its beauty.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-11-07T15:35:34.552167+00:00",
+    "link": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss"
+  },
+  {
+    "id": "daedf6174699",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T14:24",
+    "headline": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
+    "excerpt": "Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on the Gulf launched from its territory.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-11-07T15:35:34.552210+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss"
+  },
+  {
+    "id": "a6ebd47b893c",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T13:50",
+    "headline": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
+    "excerpt": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-07T15:35:34.552237+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss"
+  },
+  {
+    "id": "8a8014012cca",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T13:24",
+    "headline": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+    "excerpt": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-07T15:35:34.552259+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss"
+  },
+  {
+    "id": "7c5c04f9650d",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T13:14",
+    "headline": "Gaza displacement camps collapse under rainwater",
+    "excerpt": "Rainwater is inundating displacement camps across Gaza as makeshift shelters collapse. Al Jazeera’s Nour Khaled reports.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-07T15:35:34.552285+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss"
+  },
+  {
+    "id": "2a918b3fb830",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T13:07",
+    "headline": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+    "excerpt": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-11-07T15:35:34.552302+00:00",
+    "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss"
+  },
+  {
+    "id": "4b9ffd10c890",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T13:04",
+    "headline": "Heavy rains flood displacement camps across Gaza",
+    "excerpt": "Heavy rains and strong winds have flooded and damaged displacement tents across Gaza.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-07T15:35:34.552324+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss"
+  },
+  {
+    "id": "37d3e0bf8265",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T12:22",
+    "headline": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+    "excerpt": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-11-07T15:35:34.552350+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss"
+  },
+  {
+    "id": "3c81acc90826",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T11:59",
+    "headline": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+    "excerpt": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-11-07T15:35:34.552369+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss"
+  },
+  {
+    "id": "2c95732c47b1",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T11:10",
+    "headline": "Rains flood 70,000 displaced families’ tents in Gaza",
+    "excerpt": "Initial losses are estimated at about $3m, according to Gaza&#039;s Government Media Office.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-07T15:35:34.552393+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "391896365c34",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T10:50",
+    "headline": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
+    "excerpt": "Put in to bat, New Zealand struggled to gain any momentum as ⁠India&#039;s pace attack dismantled their batting lineup.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-07T15:35:34.552423+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss"
+  },
+  {
     "id": "2173c9603629",
     "source": "Al Jazeera",
     "date": "2026-11-07T08:45",
@@ -5377,126 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-25T13:56:07.027441+00:00",
     "link": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss"
-  },
-  {
-    "id": "25d4b79a5b9b",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T13:40",
-    "headline": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-    "excerpt": "Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-25T13:56:07.027490+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss"
-  },
-  {
-    "id": "8860d7190339",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T12:17",
-    "headline": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-    "excerpt": "Mass expulsions, blockades and expanding settler control in Hebron threaten to devastate the West Bank economy.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-25T13:56:07.027519+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "756c2e869830",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T12:05",
-    "headline": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-    "excerpt": "An oil slick has been filmed washing up on the UAE shoreline, prompting authorities to close beaches in Umm Al Quwain.",
-    "category": "Naval",
-    "location": "Uae",
-    "addedAt": "2026-10-25T13:56:07.027540+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss"
-  },
-  {
-    "id": "207cb486d873",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T11:39",
-    "headline": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-    "excerpt": "Reports say Pentagon has drawn up plans for strikes after midterm polls, but analysts question what it could achieve.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-25T13:56:07.027567+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss"
-  },
-  {
-    "id": "f10081e89406",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T10:50",
-    "headline": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
-    "excerpt": "The IRGC says it wants to use main squares in every capital of Iran’s 31 provinces for the Janfada campaign.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-25T13:56:07.027594+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss"
-  },
-  {
-    "id": "d0a2aebfab9c",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T10:45",
-    "headline": "Police in Albania filmed beating protester unconscious",
-    "excerpt": "Police in Albania’s capital, Tirana, were filmed beating a protester lying on the ground.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-25T13:56:07.027628+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss"
-  },
-  {
-    "id": "5fd4110d3504",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T10:42",
-    "headline": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-    "excerpt": "Saudi Civil Defence says the interception of Houthi ballistic missiles caused two injuries in the country&#039;s south.",
-    "category": "Missile/Drone",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-25T13:56:07.027644+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss"
-  },
-  {
-    "id": "57cdad6916fc",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T10:14",
-    "headline": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
-    "excerpt": "US President Donald Trump sarcastically responded to a reporter asking about possible renewed attacks on Iran.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-25T13:56:07.027667+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss"
-  },
-  {
-    "id": "fab292ae2c48",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T09:57",
-    "headline": "Qatar official calls for peace and security to boost trade, investment",
-    "excerpt": "The Qatari minister of state for trade says peace and security are essential for prosperity in trade and investment.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-10-25T13:56:07.027689+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss"
-  },
-  {
-    "id": "2d1fbbe0b7ea",
-    "source": "PressTV",
-    "date": "2026-10-25T13:56",
-    "headline": "Iran VP vows country will turn threats into opportunities amid US economic war",
-    "excerpt": "First Vice President emphasizes operationalizing innovative budget strategies for 1405 to protect citizens' livelihoods and defeat foreign coercion.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-25T13:56:09.083584+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/25/779158/Iran-VP-vows-country-will-turn-threats-into-opportunities-amid-US-all-out-economic-war"
-  },
-  {
-    "id": "d0ce9007199c",
-    "source": "PressTV",
-    "date": "2026-10-25T13:56",
-    "headline": "Iraqi resistance vows to stand with Iran in case of new US-Israeli aggression",
-    "excerpt": "The Islamic Resistance in Iraq has pledged to stand with Iran in case of a new US-Israeli war of aggression against the Islamic Republic.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-25T13:56:09.083619+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/24/779106/Iraqi-resistance-pledges-to-stand-with-Iran-in-case-of-new-US-Israeli-aggression"
   }
 ]
