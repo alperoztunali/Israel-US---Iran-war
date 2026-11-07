@@ -1,5 +1,126 @@
 [
   {
+    "id": "01e455f1495c",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T19:06",
+    "headline": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
+    "excerpt": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
+    "category": "Casualties",
+    "location": "Yemen",
+    "addedAt": "2026-11-07T19:38:50.008120+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss"
+  },
+  {
+    "id": "964482cdbd85",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T19:04",
+    "headline": "Demonstration in Berlin calls for an end to arming Israel",
+    "excerpt": "Demonstration in Berlin calls for an end to arming Israel",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-07T19:38:50.008168+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss"
+  },
+  {
+    "id": "f479884303b5",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T18:00",
+    "headline": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
+    "excerpt": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-11-07T19:38:50.008217+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss"
+  },
+  {
+    "id": "03181c9031fb",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T17:39",
+    "headline": "Houthis report 25 killed in Yemen strikes",
+    "excerpt": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-11-07T19:38:50.008243+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss"
+  },
+  {
+    "id": "f1d7af065bf2",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T17:16",
+    "headline": "Lebanese footballer refuses to give up after injuries from Israeli strike",
+    "excerpt": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-11-07T19:38:50.008265+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss"
+  },
+  {
+    "id": "75623e2ce601",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T17:11",
+    "headline": "Jerusalem Daily: Heavy rains flood Gaza",
+    "excerpt": "Jerusalem Daily: Heavy rains flood Gaza",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-07T19:38:50.008298+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss"
+  },
+  {
+    "id": "3133cf967ef4",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T16:30",
+    "headline": "Israel builds 90km network of military roads across southern Lebanon",
+    "excerpt": "Israel is building roads and military outposts across southern Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-07T19:38:50.008330+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "f0b73cf07c89",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T16:15",
+    "headline": "Guatemalan lawmaker and three police officers killed in armed attack",
+    "excerpt": "It happened in a region of the country known to have drug trafficking activity.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-07T19:38:50.008367+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss"
+  },
+  {
+    "id": "81949cbb3e0f",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T16:06",
+    "headline": "Five killed and at least 10 injured in Krakow shooting",
+    "excerpt": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-07T19:38:50.008396+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss"
+  },
+  {
+    "id": "59f957530e3d",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T15:34",
+    "headline": "Iran’s IRGC says building underground sites for weapons production, storage",
+    "excerpt": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-11-07T19:38:50.008420+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss"
+  },
+  {
+    "id": "564588ed6032",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T15:22",
+    "headline": "At least six people killed in shooting in Poland’s Krakow",
+    "excerpt": "Polish Prime Minister Donald Tusk says police are investigating after &#039;tragic shooting&#039; in second-largest city.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-07T19:38:50.008452+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss"
+  },
+  {
     "id": "94e90fb202b8",
     "source": "Al Jazeera",
     "date": "2026-11-07T14:30",
@@ -5377,126 +5498,5 @@
     "location": "Jordan",
     "addedAt": "2026-10-25T17:33:00.673084+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss"
-  },
-  {
-    "id": "76d36f81d081",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T16:11",
-    "headline": "Israeli soldiers beat elderly Palestinian in Hebron",
-    "excerpt": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-25T17:33:00.673104+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss"
-  },
-  {
-    "id": "c238f1c25346",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T15:40",
-    "headline": "Seven killed in Gaza as Israel targets university campus and other sites",
-    "excerpt": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-10-25T17:33:00.673119+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss"
-  },
-  {
-    "id": "a13db6bc1f5c",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T15:21",
-    "headline": "Thousands mourn victims of deadly Jordan church attack",
-    "excerpt": "Jordan&#039;s prime minister represents king at funeral for eight of the church attack victims as hunt for gunmen continues.",
-    "category": "Casualties",
-    "location": "Jordan",
-    "addedAt": "2026-10-25T17:33:00.673136+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss"
-  },
-  {
-    "id": "7711ca5f3eb4",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T14:54",
-    "headline": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
-    "excerpt": "A young woman is abducted, shot twice, and blown up in the jungle. Who wanted Altantuya dead – and who covered it up?",
-    "category": "Casualties",
-    "location": "Oman",
-    "addedAt": "2026-10-25T17:33:00.673165+00:00",
-    "link": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss"
-  },
-  {
-    "id": "43d8473ab1cd",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T14:47",
-    "headline": "How is the US-Israeli war on Iran causing havoc in Europe?",
-    "excerpt": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-25T17:33:00.673188+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss"
-  },
-  {
-    "id": "77bfbc5d92e9",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T14:46",
-    "headline": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-    "excerpt": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-10-25T17:33:00.673223+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss"
-  },
-  {
-    "id": "c901bf1c5539",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T14:16",
-    "headline": "Gaza content creator tells Al Jazeera how much her award win means",
-    "excerpt": "Palestinian girl Nisreen Skaik tells Al Jazeera how much winning a Junior Digital Creator Award means",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-10-25T17:33:00.673247+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss"
-  },
-  {
-    "id": "6ab5b807cd84",
-    "source": "PressTV",
-    "date": "2026-10-25T17:33",
-    "headline": "Pakistan reopens Iran border after boosting security: Report",
-    "excerpt": "Pakistan reopens its border with Iran after reviewing the security situation in the area.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-25T17:33:02.187202+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/25/779167/Pakistan-border-Iran-reopening-security-improvement"
-  },
-  {
-    "id": "8b376c0c0c5e",
-    "source": "PressTV",
-    "date": "2026-10-25T17:33",
-    "headline": "Iran presented no new proposals to Pakistani mediator on Hormuz: Report",
-    "excerpt": "The informed source described reports by the Saudi outlet Al-Arabiya as “a lie and fabrication,” consistent with what the source called the “quasi-media outlet’s” pattern of false reporting on Iran.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-10-25T17:33:02.187263+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/24/779118/Iran-submitted-no-new-proposals-to-Pakistani-mediator-on-Hormuz--Report"
-  },
-  {
-    "id": "b566c47d709b",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T13:49",
-    "headline": "Saudi air defences intercept Houthi barrage near Mecca",
-    "excerpt": "Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen&#039;s Taiz.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-10-25T13:56:07.027394+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss"
-  },
-  {
-    "id": "e7a51af9eb40",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T13:46",
-    "headline": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-    "excerpt": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-25T13:56:07.027441+00:00",
-    "link": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss"
   }
 ]
