@@ -1,5 +1,104 @@
 [
   {
+    "id": "2173c9603629",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T08:45",
+    "headline": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+    "excerpt": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-07T08:56:02.488749+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss"
+  },
+  {
+    "id": "86a6e69895b0",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T07:10",
+    "headline": "Qatari PM says US willing to seek solution to war with Iran",
+    "excerpt": "Qatari PM says US willing to seek solution to war with Iran",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-07T08:56:02.488819+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss"
+  },
+  {
+    "id": "4ef8426602aa",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T07:05",
+    "headline": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
+    "excerpt": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-11-07T08:56:02.488943+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss"
+  },
+  {
+    "id": "d5693baa9ed6",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T06:26",
+    "headline": "How the Iran war helped Democrats win the midterms",
+    "excerpt": "Tehran brought the costs of war into American homes, fuelling the backlash against Trump&#039;s party.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-11-07T08:56:02.488966+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss"
+  },
+  {
+    "id": "060effcf8e36",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T05:51",
+    "headline": "Paraguay’s Pena under military protection in bank collapse chaos",
+    "excerpt": "Paraguay moves ex-President Santiago Pena to military base for protection after dramatic day in Asuncion.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-07T08:56:02.489010+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss"
+  },
+  {
+    "id": "8bd79b062b1e",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T05:16",
+    "headline": "President Herzog faces key choice as Israel struggles to form government",
+    "excerpt": "Eisenkot&#039;s bloc and Arab-led parties seek to oust Netanyahu, but failure to form government could leave him in power.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-07T08:56:02.489034+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss"
+  },
+  {
+    "id": "c1389beb10ed",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T05:11",
+    "headline": "Russia launches missile attack on Kyiv, injuring residents",
+    "excerpt": "Air strikes damage buildings and injure two civilians after Zelenskyy warns of potential for new attacks.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-07T08:56:02.489049+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+  },
+  {
+    "id": "1411bc7d7f23",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T05:02",
+    "headline": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+    "excerpt": "Haiti&#039;s National Police announced that alleged gang leader Mathias Saintil was killed in an exchange of gunfire.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-07T08:56:02.489120+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss"
+  },
+  {
+    "id": "5291dcf2d157",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T04:50",
+    "headline": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+    "excerpt": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-11-07T08:56:02.489141+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss"
+  },
+  {
     "id": "1433378a0cdd",
     "source": "Al Jazeera",
     "date": "2026-11-07T00:00",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-25T13:56:09.083619+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/24/779106/Iraqi-resistance-pledges-to-stand-with-Iran-in-case-of-new-US-Israeli-aggression"
-  },
-  {
-    "id": "22e641da9c46",
-    "source": "PressTV",
-    "date": "2026-10-25T13:56",
-    "headline": "Intelligence, IRGC forces arrest two in western Iran for espionage",
-    "excerpt": "Iranian intelligence forces and servicemen from the IRGC Ground Forces have arrested two individuals in the western Kermanshah province over collaboration with foreign spy agencies.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-25T13:56:09.083642+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/24/779079/Iranian-intelligence,-IRGC-forces-nab-two-over-collaboration-with-foreign-spy-agencies"
-  },
-  {
-    "id": "d8c196ff5cca",
-    "source": "PressTV",
-    "date": "2026-10-25T13:56",
-    "headline": "Pezeshkian to meet Putin in Moscow to discuss economic, trade cooperation: Envoy",
-    "excerpt": "Economic and trade cooperation will be the main focus of Pezeshkian’s upcoming meeting with Putin in Moscow, according to Iran’s envoy to Russia.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-25T13:56:09.083669+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/24/779066/Pezeshkian-Putin-meeting-in-Moscow-to-focus-on-economic,-trade-cooperation--Iranian-official"
-  },
-  {
-    "id": "55f23fa4901e",
-    "source": "PressTV",
-    "date": "2026-10-25T13:56",
-    "headline": "Israeli forces continue raids in Al-Khalil for second day",
-    "excerpt": "Israeli occupation forces continued their military aggression in the city of Al-Khalil for the second consecutive day, amid a siege of residential neighborhoods and raid, arrest, and forced displacement campaigns.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-25T13:56:09.083690+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/25/779154/Occupation-continues-its-operation-in-Hebron-for-the-second-day-and-displaces-about-two-thousand-Palestinians-amid-a-siege-of-residential-neighborhoods-and-raid-and-arrest-campaigns"
-  },
-  {
-    "id": "71129a83b060",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T09:27",
-    "headline": "Israeli forces turn Hebron homes into military posts amid lockdown",
-    "excerpt": "Evictions, raids and outpost expansion continue across the occupied West Bank amid heightened tensions.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-25T09:39:36.950017+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss"
-  },
-  {
-    "id": "3a774213c4ec",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T08:44",
-    "headline": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-    "excerpt": "The former US president warns of rising costs, corruption and threats to democratic values ahead of the November 3 vote.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-25T09:39:36.950079+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
-  },
-  {
-    "id": "de0209fb7188",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T08:26",
-    "headline": "UFC 333: Volkanovski knocks out Evloev to retain featherweight title",
-    "excerpt": "Alexander Volkanovski secures a technical knockout in the closing seconds of round two at UFC 333 in Abu Dhabi, UAE.",
-    "category": "Other",
-    "location": "Abu Dhabi",
-    "addedAt": "2026-10-25T09:39:36.950119+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss"
-  },
-  {
-    "id": "8a0d860c6a4f",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T07:59",
-    "headline": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-    "excerpt": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-25T09:39:36.950160+00:00",
-    "link": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss"
-  },
-  {
-    "id": "b2ba3a3cc27c",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T07:20",
-    "headline": "Israel to close occupied West Bank crossings as it locks down Hebron",
-    "excerpt": "Israel says it will close all land crossings with the West Bank when it holds a general election on Tuesday.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-25T09:39:36.950193+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss"
-  },
-  {
-    "id": "6e21ddb326aa",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T07:10",
-    "headline": "Israeli elections: What are the possible outcomes?",
-    "excerpt": "Israelis face a pivotal election on October 27, as Netanyahu&#039;s leadership hangs in the balance amid coalition debates.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-10-25T09:39:36.950224+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss"
   }
 ]
