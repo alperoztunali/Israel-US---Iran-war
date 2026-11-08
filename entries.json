@@ -1,5 +1,38 @@
 [
   {
+    "id": "7c68119ed37f",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T00:50",
+    "headline": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+    "excerpt": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-08T02:31:01.458081+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss"
+  },
+  {
+    "id": "a0816f070d87",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T00:00",
+    "headline": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+    "excerpt": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-08T02:31:01.458116+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss"
+  },
+  {
+    "id": "13b8fd1ff547",
+    "source": "Al Jazeera",
+    "date": "2026-11-07T23:45",
+    "headline": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+    "excerpt": "Israel&#039;s president asked opposition leader Gadi Eisenkot to form the next gov&#039;t over Prime Minister Benjamin Netanyahu.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-08T02:31:01.458145+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss"
+  },
+  {
     "id": "47e6a4a53e83",
     "source": "Al Jazeera",
     "date": "2026-11-07T20:53",
@@ -5465,38 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-25T19:58:55.953612+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss"
-  },
-  {
-    "id": "67498e91ace5",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T17:53",
-    "headline": "US and Israel elections: New leaders, same policies?",
-    "excerpt": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-25T19:58:55.953645+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss"
-  },
-  {
-    "id": "5f90eec665ef",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T17:12",
-    "headline": "Jerusalem Daily: Israel expels thousands from Hebron",
-    "excerpt": "Jerusalem Daily: Israel expels thousands from Hebron",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-25T19:58:55.953675+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss"
-  },
-  {
-    "id": "37bef17a0a8e",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T15:40",
-    "headline": "Eight killed in Gaza as Israel targets university campus and other sites",
-    "excerpt": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-10-25T19:58:55.953708+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss"
   }
 ]
