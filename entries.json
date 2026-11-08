@@ -1,5 +1,115 @@
 [
   {
+    "id": "9c77cd4e5af7",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T20:13",
+    "headline": "Iran threatens to ‘rain down hell’ if US escalates war",
+    "excerpt": "President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-11-08T20:42:20.001533+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss"
+  },
+  {
+    "id": "e4726bfe12b0",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T18:12",
+    "headline": "Eisenkot open to Netanyahu joining Israel’s next government",
+    "excerpt": "Israel&#039;s president officially tasks the opposition leader with forming a new government.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-08T20:42:20.001567+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss"
+  },
+  {
+    "id": "7e4d59f0047d",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T17:44",
+    "headline": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+    "excerpt": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-08T20:42:20.001594+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss"
+  },
+  {
+    "id": "093b3b16cdb9",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T17:11",
+    "headline": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+    "excerpt": "Israel&#039;s president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-08T20:42:20.001612+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss"
+  },
+  {
+    "id": "0e4b122ffd1b",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T16:51",
+    "headline": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+    "excerpt": "Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-08T20:42:20.001646+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss"
+  },
+  {
+    "id": "86f70613868f",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T16:31",
+    "headline": "Seven killed, 112 injured in train collision in Egypt",
+    "excerpt": "Seven killed, 112 injured in train collision in Egypt",
+    "category": "Casualties",
+    "location": "Egypt",
+    "addedAt": "2026-11-08T20:42:20.001661+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss"
+  },
+  {
+    "id": "5214daba9c78",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T16:18",
+    "headline": "Israeli forces release Palestinian journalist Abou Shhadeh",
+    "excerpt": "Abed Abou Shhadeh says his detention was part of Israel&#039;s political measures &#039;to intimidate Arab society as a whole&#039;.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-11-08T20:42:20.001677+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss"
+  },
+  {
+    "id": "e34d83edc6d9",
+    "source": "PressTV",
+    "date": "2026-11-08T20:42",
+    "headline": "Neither Democrats’ victory nor Republicans’ rule will change Iran’s calculations: Leader’s advisor",
+    "excerpt": "A senior advisor to the Leader of the Islamic Revolution says changes in US political leadership will not alter Iran’s strategic calculations.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-11-08T20:42:24.233961+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/08/780275/neither-democrats-victory-nor-republicans-rule-will-change-irans-calculations-leaders-advisor"
+  },
+  {
+    "id": "35e00e77a3b0",
+    "source": "PressTV",
+    "date": "2026-11-08T20:42",
+    "headline": "IRGC Navy: Three oil tankers engulfed in flames in Strait of Hormuz after maritime violations",
+    "excerpt": "The IRGC Navy said the incidents occurred starting in the early hours of the day along an unauthorized shipping route.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-11-08T20:42:24.233982+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/08/780252/irgc-navy-three-oil-tankers-engulfed-in-flames-in-strait-of-hormuz-after-maritime-violations"
+  },
+  {
+    "id": "ebbe9a2cd073",
+    "source": "PressTV",
+    "date": "2026-11-08T20:42",
+    "headline": "Thousands fill Amsterdam square, urging Dutch govt. to cut ties with Israel",
+    "excerpt": "Thousands of protesters dressed in red gathered at Amsterdam's Museumplein on Sunday, calling for tougher Dutch action against Israel's actions in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-08T20:42:24.234011+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/08/780269/thousands-fill-amsterdam-square-urging-dutch-govt-to-cut-ties-with-israel"
+  },
+  {
     "id": "3cc04920c57d",
     "source": "Al Jazeera",
     "date": "2026-11-08T14:06",
@@ -5388,115 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-26T17:33:54.552993+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/enough-is-enough-palestinians-and-israelis-share-views-ahead-of-election?traffic_source=rss"
-  },
-  {
-    "id": "062f9b5cccea",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T16:39",
-    "headline": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
-    "excerpt": "UN Chief Antonio Guterres has warned of devastating consequences from any military escalation in the Gulf region.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-10-26T17:33:54.553024+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "a0617b9ea57f",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T16:24",
-    "headline": "‘Everything destroyed’: Hebron businesses count cost of Israeli assault",
-    "excerpt": "Israeli demolitions and road closures have devastated businesses in Hebron, leaving owners facing millions in losses.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-26T17:33:54.553053+00:00",
-    "link": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss"
-  },
-  {
-    "id": "fc61c23cdeac",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T16:12",
-    "headline": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
-    "excerpt": "Israelis are about to vote in one of the most decisive elections in the country’s history.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-26T17:33:54.553079+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss"
-  },
-  {
-    "id": "16615b46c0b0",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T15:44",
-    "headline": "Israel committing crimes against humanity in occupied West Bank: UN",
-    "excerpt": "UN report highlights crimes including extermination, torture, rape and other forms of sexual violence.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-26T17:33:54.553104+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss"
-  },
-  {
-    "id": "a84d6aba5fcd",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T15:41",
-    "headline": "Egyptian parliament authorises military aid for Saudi Arabia",
-    "excerpt": "Legislators approve military support amid Houthi attacks on Saudi Arabia, but Cairo has ruled out strikes on Yemen.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-26T17:33:54.553129+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss"
-  },
-  {
-    "id": "aba99b684331",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T15:40",
-    "headline": "What does the Israeli election mean for religious groups?",
-    "excerpt": "What does the Israeli election mean for religious groups?",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-26T17:33:54.553158+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/what-does-the-israeli-election-mean-for-religious-groups?traffic_source=rss"
-  },
-  {
-    "id": "d1348f1d0cd8",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T14:38",
-    "headline": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
-    "excerpt": "Countering Houthi advances in Yemen will be a major focus for Saudi Arabia and its allies in Tehran.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-26T17:33:54.553181+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions?traffic_source=rss"
-  },
-  {
-    "id": "ee764f276fb9",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T14:27",
-    "headline": "Iran’s anti-negotiation hardliners turn against President Pezeshkian",
-    "excerpt": "Iran’s anti-negotiation hardliners turn against President Pezeshkian over negotiations with the US.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-26T17:33:54.553207+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/26/irans-anti-negotiation-hardliners-turn-against-president-pezeshkian?traffic_source=rss"
-  },
-  {
-    "id": "00a9122616d1",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T13:20",
-    "headline": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
-    "excerpt": "A new political campaign ad in support of US Senate candidate Abdul El-Sayed is generating conversation online.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-26T17:33:54.553229+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss"
-  },
-  {
-    "id": "3e6308283e83",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T13:11",
-    "headline": "Israel expands expulsions in occupied West Bank to cement control",
-    "excerpt": "Israel escalates forced expulsions and infrastructure destruction with the goal of imposing &#039;new reality&#039;, analysts say.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-26T17:33:54.553251+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss"
   }
 ]
