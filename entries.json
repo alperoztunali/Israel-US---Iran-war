@@ -1,5 +1,93 @@
 [
   {
+    "id": "c9fcac365c1b",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T09:09",
+    "headline": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
+    "excerpt": "Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-11-08T09:30:57.722762+00:00",
+    "link": "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss"
+  },
+  {
+    "id": "48e57326851e",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T08:47",
+    "headline": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
+    "excerpt": "Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-08T09:30:57.722803+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss"
+  },
+  {
+    "id": "69f12d12a8f4",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T08:24",
+    "headline": "US military attacks cargo ship in the Gulf of Oman",
+    "excerpt": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
+    "category": "Naval",
+    "location": "Oman",
+    "addedAt": "2026-11-08T09:30:57.722829+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss"
+  },
+  {
+    "id": "10de8d6f833d",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T07:40",
+    "headline": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+    "excerpt": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
+    "category": "Missile/Drone",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-11-08T09:30:57.722845+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss"
+  },
+  {
+    "id": "94dec1ed1b0d",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T06:55",
+    "headline": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
+    "excerpt": "Heavy rain floods tents housing displaced Palestinians in Gaza as Israeli restrictions on aid hamper response.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-08T09:30:57.722867+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "9a3bfa06325b",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T06:52",
+    "headline": "Is unconditional support for Israel becoming a liability for Republicans?",
+    "excerpt": "JD Vance’s response to the midterm defeat suggests a once-untouchable Republican consensus may be starting to crack.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-08T09:30:57.722897+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans?traffic_source=rss"
+  },
+  {
+    "id": "f5d693990876",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T04:56",
+    "headline": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+    "excerpt": "Colombian President de la Espriella says those behind the attack in Santa Rosa del Sur will have ‘nowhere to hide’.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-08T09:30:57.722919+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss"
+  },
+  {
+    "id": "bdd19ff14d3e",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T02:34",
+    "headline": "US launches task force to disrupt Iran’s land-based supply routes",
+    "excerpt": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-08T09:30:57.722967+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss"
+  },
+  {
     "id": "7c68119ed37f",
     "source": "Al Jazeera",
     "date": "2026-11-08T00:50",
@@ -5410,93 +5498,5 @@
     "location": "Strait Of Hormuz",
     "addedAt": "2026-10-26T05:22:41.163024+00:00",
     "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss"
-  },
-  {
-    "id": "4d078198d870",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T01:02",
-    "headline": "Netanyahu rival Eisenkot holds final rally before Israeli election",
-    "excerpt": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-26T05:22:41.163067+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss"
-  },
-  {
-    "id": "a036692888e0",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T00:00",
-    "headline": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
-    "excerpt": "Saudi-led coalition says missiles launchers and tunnels in Yemen destroyed after Houthis targeted Riyadh airport.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-10-26T05:22:41.163095+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
-  },
-  {
-    "id": "72e6db48eec6",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T00:02",
-    "headline": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-    "excerpt": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-26T00:38:27.907011+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss"
-  },
-  {
-    "id": "22d5118da650",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T00:00",
-    "headline": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
-    "excerpt": "Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-26T00:38:27.907062+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
-  },
-  {
-    "id": "5ec76a4304bd",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T21:00",
-    "headline": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
-    "excerpt": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-25T22:27:59.311373+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss"
-  },
-  {
-    "id": "4c23720497fd",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T19:36",
-    "headline": "Iraqis mark seven years since Tishreen protests with reform demands",
-    "excerpt": "Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests.",
-    "category": "Other",
-    "location": "Iraq",
-    "addedAt": "2026-10-25T19:58:55.953531+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss"
-  },
-  {
-    "id": "518beddcc33a",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T18:20",
-    "headline": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
-    "excerpt": "Kampala says country is Ebola free, but Swiss authorities believe a woman diagnosed in Nigeria was infected in Uganda.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-10-25T19:58:55.953587+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss"
-  },
-  {
-    "id": "fff69a00b026",
-    "source": "Al Jazeera",
-    "date": "2026-10-25T18:12",
-    "headline": "Israeli air strike on Gaza City university kills three people",
-    "excerpt": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-10-25T19:58:55.953612+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss"
   }
 ]
