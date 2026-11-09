@@ -1,5 +1,71 @@
 [
   {
+    "id": "e2519284b7d7",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T23:39",
+    "headline": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+    "excerpt": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-11-09T00:05:57.898710+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss"
+  },
+  {
+    "id": "60dc79ced043",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T22:16",
+    "headline": "President Milei welcomes Pope Leo during historic visit to Argentina",
+    "excerpt": "Pope Leo XIV&#039;s visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-09T00:05:57.898763+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss"
+  },
+  {
+    "id": "f262cda558d6",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T22:16",
+    "headline": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+    "excerpt": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
+    "category": "Statement",
+    "location": "Oman",
+    "addedAt": "2026-11-09T00:05:57.898802+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss"
+  },
+  {
+    "id": "1350d054908f",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T21:05",
+    "headline": "Deadly sand cliff collapses on displaced families in Gaza",
+    "excerpt": "Deadly sand cliff collapses on displaced families in Gaza",
+    "category": "Casualties",
+    "location": "Gaza",
+    "addedAt": "2026-11-09T00:05:57.898827+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "644db3b885a1",
+    "source": "Al Jazeera",
+    "date": "2026-11-08T20:51",
+    "headline": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+    "excerpt": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-11-09T00:05:57.898861+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss"
+  },
+  {
+    "id": "b3358149577a",
+    "source": "PressTV",
+    "date": "2026-11-09T00:06",
+    "headline": "Iran court holds trial on lawsuit filed by 100 victims of US-Israeli wars",
+    "excerpt": "The case seeks compensation for material, moral, and punitive damages arising from the crimes committed by the United States and the Israeli regime against the Iranian nation.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-09T00:06:02.246706+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/08/780236/iran-court-holds-trial-on-lawsuit-filed-by-100-victims-of-us-israeli-wars"
+  },
+  {
     "id": "9c77cd4e5af7",
     "source": "Al Jazeera",
     "date": "2026-11-08T20:13",
@@ -5432,71 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-26T21:53:58.007285+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss"
-  },
-  {
-    "id": "f2fb06618b5d",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T17:27",
-    "headline": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
-    "excerpt": "UN commission notes Russian weaponisation of cold in nearly five years of attacks on heating plants and power lines.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-26T21:53:58.007327+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss"
-  },
-  {
-    "id": "ddab8416bc71",
-    "source": "PressTV",
-    "date": "2026-10-26T21:53",
-    "headline": "Top officials from Saudi Arabia, Pakistan, Turkey due in Iran for security talks",
-    "excerpt": "Top Saudi, Pakistani and Turkish officials are due to hold a security meeting with Iranian authorities in Tehran on Monday.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-10-26T21:53:59.962348+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/26/779207/Iran-Pakistan-Saudi-Arabia-Turkey"
-  },
-  {
-    "id": "b63b7262195d",
-    "source": "PressTV",
-    "date": "2026-10-26T21:53",
-    "headline": "Two female students, child injured in Saudi airstrikes on Yemen’s Sa’ada",
-    "excerpt": "Two female students and a child were injured in two airstrikes by Saudi aircraft on Safra district in Yemen’s Sa’ada governorate.",
-    "category": "Airstrike",
-    "location": "Yemen",
-    "addedAt": "2026-10-26T21:53:59.962379+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/26/779269/two-female-students-child-injured-in-saudi-airstrikes-on-yemen-sa%E2%80%99ada"
-  },
-  {
-    "id": "f2970a4e9e74",
-    "source": "PressTV",
-    "date": "2026-10-26T21:53",
-    "headline": "Saudi airstrike targets ice factory in western Yemen, injuring workers",
-    "excerpt": "A number of workers were injured as a result of a Saudi airstrike that targeted an ice factory in the coastal Mocha district of Taiz Governorate.",
-    "category": "Airstrike",
-    "location": "Yemen",
-    "addedAt": "2026-10-26T21:53:59.962393+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/26/779262/Saudi-airstrike-targets-ice-factory-in-western-Yemen,-injuring-a-number-of-workers"
-  },
-  {
-    "id": "2f9add4f6808",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T16:55",
-    "headline": "Delegations arrive in Tehran for security talks",
-    "excerpt": "Delegations arrive in Tehran for security talks",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-10-26T17:33:54.552948+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss"
-  },
-  {
-    "id": "2df114a32495",
-    "source": "Al Jazeera",
-    "date": "2026-10-26T16:51",
-    "headline": "‘Enough is enough’: Palestinians and Israelis share views ahead of election",
-    "excerpt": "On the eve of Israel’s general election, some Israelis call for change while others back Netanyahu to stay in power.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-26T17:33:54.552993+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/enough-is-enough-palestinians-and-israelis-share-views-ahead-of-election?traffic_source=rss"
   }
 ]
