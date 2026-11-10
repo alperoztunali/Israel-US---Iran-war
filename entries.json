@@ -1,5 +1,93 @@
 [
   {
+    "id": "edb52d1e39ab",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T20:41",
+    "headline": "US soldier arrested in UK on suspicion of spying for Russia",
+    "excerpt": "London Metropolitan Police says its &#039;counterterror&#039; forces worked closely with the FBI and US military to make arrest.",
+    "category": "Movement",
+    "location": "Unknown",
+    "addedAt": "2026-11-10T21:53:37.073904+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss"
+  },
+  {
+    "id": "b0edca90bd95",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T20:23",
+    "headline": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+    "excerpt": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-11-10T21:53:37.073940+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss"
+  },
+  {
+    "id": "6b9f53f75413",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T20:14",
+    "headline": "F1 champion Lewis Hamilton visits Gaza border",
+    "excerpt": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-10T21:53:37.073961+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss"
+  },
+  {
+    "id": "6872692165ce",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T20:07",
+    "headline": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+    "excerpt": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-10T21:53:37.073980+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss"
+  },
+  {
+    "id": "189c5f34881c",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T19:34",
+    "headline": "Rubio says no need for major combat operations against Iran",
+    "excerpt": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-10T21:53:37.074000+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss"
+  },
+  {
+    "id": "47a042b70336",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T18:58",
+    "headline": "Jerusalem Daily: 14-year-old killed in West Bank raid",
+    "excerpt": "Israeli forces kill a 14-year-old Palestinian boy in Burqa, as settlers assault a woman near Hebron.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-11-10T21:53:37.074025+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss"
+  },
+  {
+    "id": "6257c3d7d7b0",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T18:07",
+    "headline": "Spain braces for nationwide strike as anger over housing, costs boils over",
+    "excerpt": "The 24-hour walkout, called by Spain’s two biggest unions, is due to start on Wednesday.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-11-10T21:53:37.074050+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss"
+  },
+  {
+    "id": "c904bbda40a4",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T17:40",
+    "headline": "US petrol prices are down, but elevated inflation continues",
+    "excerpt": "Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-10T21:53:37.074075+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss"
+  },
+  {
     "id": "64ed80af1745",
     "source": "Al Jazeera",
     "date": "2026-11-10T15:49",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-27T22:30:51.299549+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss"
-  },
-  {
-    "id": "ee3c8b64946a",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T20:54",
-    "headline": "US says it killed five people in strike on alleged drug boat",
-    "excerpt": "Latest strike brings death toll of campaign decried as extrajudicial killings to 243 people since September 2025.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-27T22:30:51.299568+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss"
-  },
-  {
-    "id": "41e36ee5a44e",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T20:38",
-    "headline": "Netanyahu rallies Likud voters with megaphone in shopping mall",
-    "excerpt": "Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud party minutes before polls close.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-10-27T22:30:51.299591+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss"
-  },
-  {
-    "id": "09f24631ee16",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T20:34",
-    "headline": "Lebanese and Syrians expect no change in Israeli policy after election",
-    "excerpt": "Residents in Lebanon and Syria expect little change in Israeli policy after the election.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-27T22:30:51.299612+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss"
-  },
-  {
-    "id": "1f53a3b767bd",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T20:18",
-    "headline": "Exit polls from Israel’s election show no clear winner",
-    "excerpt": "Israel&#039;s first election since October 7 appears deadlocked, with neither Netanyahu nor Eisenkot on track for a majority.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-27T22:30:51.299638+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss"
-  },
-  {
-    "id": "a50e124d848c",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T20:00",
-    "headline": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
-    "excerpt": "Lissu, who faces treason charge carrying a possible death sentence, refused food after being denied access to lawyers.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-27T22:30:51.299671+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss"
-  },
-  {
-    "id": "32208c4a0f25",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T19:36",
-    "headline": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-    "excerpt": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-27T22:30:51.299695+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss"
-  },
-  {
-    "id": "fa1ed960a930",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T19:28",
-    "headline": "Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp",
-    "excerpt": "High turnout in vote widely described as the most consequential in Israel&#039;s history.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-27T22:30:51.299716+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss"
-  },
-  {
-    "id": "873397e5a467",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T18:52",
-    "headline": "Deadly tornado strikes construction site in Turkiye",
-    "excerpt": "Deadly tornado strikes construction site in Turkiye",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-27T22:30:51.299731+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss"
   }
 ]
