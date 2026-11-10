@@ -1,5 +1,115 @@
 [
   {
+    "id": "7a355532c9dd",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T06:37",
+    "headline": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+    "excerpt": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-10T07:46:42.881429+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss"
+  },
+  {
+    "id": "19fb96ebce61",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T06:22",
+    "headline": "Khor Mor drone attack raises fears over Iraq’s energy security",
+    "excerpt": "Drone strike disrupts electricity supply in Iraq&#039;s semi-autonomous Kurdish region, renewing concerns about armed groups.",
+    "category": "Missile/Drone",
+    "location": "Iraq",
+    "addedAt": "2026-11-10T07:46:42.881475+00:00",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss"
+  },
+  {
+    "id": "e6257ead5302",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T05:39",
+    "headline": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+    "excerpt": "Former Labour leader Jeremy Corbyn called the findings ‘outrageous and frankly insulting to the public’.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-11-10T07:46:42.881519+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss"
+  },
+  {
+    "id": "50f2b52f04f2",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T05:23",
+    "headline": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
+    "excerpt": "Israel&#039;s military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-11-10T07:46:42.881550+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss"
+  },
+  {
+    "id": "6fdef4da6a0e",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T05:02",
+    "headline": "European diplomats press Rubio for a role in Russia-Ukraine talks",
+    "excerpt": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
+    "category": "Diplomatic",
+    "location": "Abu Dhabi",
+    "addedAt": "2026-11-10T07:46:42.881580+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss"
+  },
+  {
+    "id": "2443258bdcbd",
+    "source": "Al Jazeera",
+    "date": "2026-11-10T03:17",
+    "headline": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+    "excerpt": "Saudi forces intercept two missiles fired towards Riyadh, hours after reporting damage to key East-West pipeline.",
+    "category": "Missile/Drone",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-11-10T07:46:42.881607+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss"
+  },
+  {
+    "id": "78e8ed5f9fc7",
+    "source": "PressTV",
+    "date": "2026-11-10T07:46",
+    "headline": "China calls for political solution to end US-Israeli war on Iran",
+    "excerpt": "Iran and China stress diplomacy and political solutions to end US-Israeli aggression and restore stability across West Asia.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-10T07:46:46.991147+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/09/780340/china-iran-stress-importance-of-political-solution-for-regions-conflicts"
+  },
+  {
+    "id": "be401ccad22f",
+    "source": "PressTV",
+    "date": "2026-11-10T07:46",
+    "headline": "IRGC Navy announces halt to oil smuggling via illegal Strait of Hormuz passage: Report",
+    "excerpt": "A report by Fars News Agency, citing an informed source in the Islamic Revolution Guards Corps (IRGC) Navy, said no unauthorized vessels managed to enter the illegal passage overnight following the destruction of the navigation systems.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-11-10T07:46:46.991204+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/09/780314/irgc-navy-oil-smuggling-through-illegal-strait-of-hormuz-passage-halted"
+  },
+  {
+    "id": "2098106fbe8c",
+    "source": "PressTV",
+    "date": "2026-11-10T07:46",
+    "headline": "Iran’s Two-Day Plan most rational path to restoring Hormuz security: Foreign Ministry",
+    "excerpt": "Iran says its Two-Day Plan is the “most rational” offer currently available for resolving the situation surrounding the Strait of Hormuz.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-10T07:46:46.991240+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/09/780312/irans-two-day-plan-most-rational-path-to-restoring-hormuz-security-foreign-ministry"
+  },
+  {
+    "id": "cf66a1ad6676",
+    "source": "PressTV",
+    "date": "2026-11-10T07:46",
+    "headline": "London protesters support activists on trial over Israel-linked arms factory break-in",
+    "excerpt": "Supporters say the prosecution criminalizes direct action against weapons made in Britain and used by the Israeli military in the Gaza genocide and beyond.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-10T07:46:46.991282+00:00",
+    "link": "https://presstv.co.uk/Detail/2026/11/10/780374/london-protesters-show-solidarity-with-activists-on-trial-over-israeli-linked-arms-factory-raid"
+  },
+  {
     "id": "8b11de2bbc7b",
     "source": "Al Jazeera",
     "date": "2026-11-09T23:55",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-27T18:21:33.694563+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss"
-  },
-  {
-    "id": "154d5a58daec",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T13:59",
-    "headline": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
-    "excerpt": "Strikes hit a major bridge in the Ukrainian capital as leaders push for &#039;direct discussions&#039; to end the war.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-27T18:21:33.694599+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss"
-  },
-  {
-    "id": "421d47f06919",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T13:54",
-    "headline": "Lebanon’s lost olive season: harvesting olives under drones and warplanes",
-    "excerpt": "Lebanon&#039;s olive harvesters are facing dangerous conditions, with potential attacks and fear of cluster munitions.",
-    "category": "Airstrike",
-    "location": "Lebanon",
-    "addedAt": "2026-10-27T18:21:33.694623+00:00",
-    "link": "https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss"
-  },
-  {
-    "id": "32e519708118",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T13:45",
-    "headline": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-    "excerpt": "Competing claims over the ceasefire mark the latest tensions between the White House and the Vatican.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-27T18:21:33.694656+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss"
-  },
-  {
-    "id": "cbafdfa033ae",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T13:34",
-    "headline": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
-    "excerpt": "Russia struck Kyiv multiple times on Monday night, hours before a humanitarian ceasefire in Oleshky took effect.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-27T18:21:33.694687+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss"
-  },
-  {
-    "id": "5584319b3be0",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T13:29",
-    "headline": "The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’",
-    "excerpt": "Dutch withdrawal is the latest in a number of boycotts by countries unhappy about Israel&#039;s inclusion.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-27T18:21:33.694717+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss"
-  },
-  {
-    "id": "2362e92eb89a",
-    "source": "PressTV",
-    "date": "2026-10-27T18:21",
-    "headline": "China slams US policy on Iran as Russia rejects legality of nuclear meeting at UN",
-    "excerpt": "The UN Security Council has held a meeting to discuss Iran’s nuclear program after the Board of Governors of the International Atomic Energy Agency (IAEA) voted to refer Tehran’s nuclear dossier to the council.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-27T18:21:35.698292+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/27/779337/un-security-council-meets-on-iran-nuclear-file-despite-Russia-china-objections"
-  },
-  {
-    "id": "c77e0056d3be",
-    "source": "PressTV",
-    "date": "2026-10-27T18:21",
-    "headline": "Iran’s security chief meets Yemen’s ambassador after regional summit",
-    "excerpt": "Iran’s security chief Rezaei meets Yemen’s ambassador a day after a regional summit in Tehran involving Saudi Arabia.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-10-27T18:21:35.698330+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/27/779325/Iran-SNSC-chief-Rezaei-meeting-Yemen-s-ambassador"
-  },
-  {
-    "id": "b5f22195a0da",
-    "source": "PressTV",
-    "date": "2026-10-27T18:21",
-    "headline": "Trump peddles fresh falsehoods, claims Iran ‘started the war’",
-    "excerpt": "Trump claimed the Islamic Republic had developed missiles capable of striking American cities.",
-    "category": "Missile/Drone",
-    "location": "Iran",
-    "addedAt": "2026-10-27T18:21:35.698358+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/27/779280/Trump-peddles-fresh-falsehoods,-claims-Iran-%E2%80%98started-the-war%E2%80%99-as-US-aggression-drags-on"
-  },
-  {
-    "id": "71a22f556511",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T11:49",
-    "headline": "The Ballon d’Or has a narrow definition of footballing greatness",
-    "excerpt": "Celebrity, bias towards players in attack and European dominance undermine football’s most prestigious individual award.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-27T12:42:56.604864+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/10/27/the-ballon-dor-has-a-narrow-definition-of-footballing-greatness?traffic_source=rss"
-  },
-  {
-    "id": "0ce8380be4aa",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T11:19",
-    "headline": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
-    "excerpt": "Former PLO official says Israel’s election outcome remains uncertain, with polls divided between Netanyahu and Eisenkot.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-27T12:42:56.604922+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss"
   }
 ]
