@@ -1,5 +1,126 @@
 [
   {
+    "id": "b60ab6b63dc4",
+    "source": "Al Jazeera",
+    "date": "2026-11-11T08:37",
+    "headline": "Putin is not ready to make peace in Abu Dhabi",
+    "excerpt": "The Russian leader still believes he can outlast Western support for Ukraine.",
+    "category": "Other",
+    "location": "Abu Dhabi",
+    "addedAt": "2026-11-11T09:03:53.590648+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss"
+  },
+  {
+    "id": "b4a50f2bbbb7",
+    "source": "Al Jazeera",
+    "date": "2026-11-11T08:30",
+    "headline": "How are Pakistan’s imports from India growing again despite tensions?",
+    "excerpt": "Formally, they&#039;re not trading at all. But Pakistan&#039;s imports from India are back to pre-war levels. Is a thaw next?",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-11T09:03:53.590707+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/11/how-are-pakistans-imports-from-india-growing-again-despite-tensions?traffic_source=rss"
+  },
+  {
+    "id": "e17c8b56a402",
+    "source": "Al Jazeera",
+    "date": "2026-11-11T08:21",
+    "headline": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+    "excerpt": "Mohsen Rezaei&#039;s comments come as the IRGC said at least three ships had hit mines and caught fire in the Hormuz strait.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-11-11T09:03:53.590735+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss"
+  },
+  {
+    "id": "43cc4e3902fe",
+    "source": "Al Jazeera",
+    "date": "2026-11-11T07:26",
+    "headline": "Is Washington rethinking its relationship with Israel?",
+    "excerpt": "The midterms exposed a growing challenge to decades of US support for Israel, with potentially lasting consequences.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-11-11T09:03:53.590758+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss"
+  },
+  {
+    "id": "81dd4eb4a6f3",
+    "source": "Al Jazeera",
+    "date": "2026-11-11T06:23",
+    "headline": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+    "excerpt": "A new Knesset shaped by October 7 prepares to convene as Netanyahu fights to prevent an opposition-led government",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-11T09:03:53.590789+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss"
+  },
+  {
+    "id": "c57499bea460",
+    "source": "Al Jazeera",
+    "date": "2026-11-11T05:39",
+    "headline": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+    "excerpt": "Yemen&#039;s government says 190 rebel fighters killed and wounded, as Houthis also claim dealing heavy blows.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-11-11T09:03:53.590810+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss"
+  },
+  {
+    "id": "48e99bc9d459",
+    "source": "Al Jazeera",
+    "date": "2026-11-11T05:01",
+    "headline": "US charges three men for allegedly plotting attack on UK base",
+    "excerpt": "The US has charged three men over alleged involvement in a plot to attack a Royal Air Force Base in Fairford, UK.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-11T09:03:53.590844+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss"
+  },
+  {
+    "id": "56a606b26e51",
+    "source": "Al Jazeera",
+    "date": "2026-11-11T04:34",
+    "headline": "Russia, Ukraine exchange strikes as Baltic nations issue drone alerts",
+    "excerpt": "Attacks also reported in Russia&#039;s northwest as US-mediated talks continue in Abu Dhabi.",
+    "category": "Missile/Drone",
+    "location": "Abu Dhabi",
+    "addedAt": "2026-11-11T09:03:53.590875+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss"
+  },
+  {
+    "id": "68ed11b9ad64",
+    "source": "Al Jazeera",
+    "date": "2026-11-11T04:04",
+    "headline": "Netanyahu heckled by Bennett at Knesset opening session",
+    "excerpt": "Former Israeli Prime Minister Naftali Bennett repeatedly heckled caretaker PM Benjamin Netanyahu.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-11T09:03:53.590903+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss"
+  },
+  {
+    "id": "c95ebe0190b4",
+    "source": "Al Jazeera",
+    "date": "2026-11-11T03:48",
+    "headline": "Section 219: the future of US-Israeli defence partnership",
+    "excerpt": "US President Donald Trump has announced plans to end the billions of dollars in annual US military aid to Israel.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-11-11T09:03:53.590925+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_the-future-of-us-israeli-defence-partnership-101126?traffic_source=rss"
+  },
+  {
+    "id": "eb6684b795f8",
+    "source": "Al Jazeera",
+    "date": "2026-11-11T03:21",
+    "headline": "Iran opens training camp for women in readiness for war",
+    "excerpt": "Iran has opened its first all-women military training camp amid fears of renewed US attacks.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-11T09:03:53.590949+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_iran-opens-training-camp-for-women-101126?traffic_source=rss"
+  },
+  {
     "id": "6b64d01287fa",
     "source": "Al Jazeera",
     "date": "2026-11-11T00:01",
@@ -5377,126 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-28T08:06:53.043760+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/28/779374/iran-urges-qatar-to-respect-its-mediator-role-after-remarks-on-tehran-meeting"
-  },
-  {
-    "id": "46e65ccce1c5",
-    "source": "PressTV",
-    "date": "2026-10-28T08:06",
-    "headline": "Oman FM: Persian Gulf states, Iran, Iraq should form security pact excluding US",
-    "excerpt": "Oman’s FM has called for the formation of a security pact involving six Persian Gulf states plus Iran and Iraq amid US push to demonize Iran.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-10-28T08:06:53.043790+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/27/779296/Oman-Badr-Albusaidi-Iran-US-Persian-Gulf-US-Trump-war-security-pact-Iraq-Strait-of-Hormuz"
-  },
-  {
-    "id": "9c64d26c0581",
-    "source": "Al Jazeera",
-    "date": "2026-10-28T00:43",
-    "headline": "Arab parties projected to win 18 seats in Israeli parliamentary election",
-    "excerpt": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-28T01:45:46.061652+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss"
-  },
-  {
-    "id": "55dcae598c67",
-    "source": "Al Jazeera",
-    "date": "2026-10-28T00:43",
-    "headline": "Exit polls trigger heated debate across Israeli political divide",
-    "excerpt": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-28T01:45:46.061696+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss"
-  },
-  {
-    "id": "e905fd429b19",
-    "source": "Al Jazeera",
-    "date": "2026-10-28T00:30",
-    "headline": "Israel’s Eisenkot says country voted for change",
-    "excerpt": "Israeli opposition leader Gadi Eisenkot says millions of Israelis voted for change, tired of Netanyahu’s ‘lies’.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-28T01:45:46.061729+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss"
-  },
-  {
-    "id": "a054fddaf7a4",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T23:35",
-    "headline": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-    "excerpt": "Gaza film festival highlights women&#039;s resilience through stories of war, loss and survival.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-10-28T01:45:46.061770+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss"
-  },
-  {
-    "id": "de8ed6f3a22f",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T23:16",
-    "headline": "A bad day for Ben-Gvir as he addresses his supporters",
-    "excerpt": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-28T01:45:46.061798+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss"
-  },
-  {
-    "id": "4bb9bf7de269",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T23:06",
-    "headline": "No clear mandate projected in Israel election: What’s next?",
-    "excerpt": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-28T01:45:46.061831+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss"
-  },
-  {
-    "id": "8f47a4dda18a",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T23:03",
-    "headline": "Smotrich dances in Israel despite far-right decline",
-    "excerpt": "Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-28T01:45:46.061857+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss"
-  },
-  {
-    "id": "acc2ec9ae5f1",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T22:56",
-    "headline": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
-    "excerpt": "Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-28T01:45:46.061894+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss"
-  },
-  {
-    "id": "8b0e6c9188b7",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T22:31",
-    "headline": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
-    "excerpt": "Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-28T01:45:46.061926+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss"
-  },
-  {
-    "id": "b0de99d4b568",
-    "source": "Al Jazeera",
-    "date": "2026-10-27T22:29",
-    "headline": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-    "excerpt": "Iranian president&#039;s words came at summit for gas exporting countries in Russia.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-28T01:45:46.061949+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss"
   }
 ]
