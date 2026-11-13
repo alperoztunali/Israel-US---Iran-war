@@ -1,5 +1,71 @@
 [
   {
+    "id": "3f4896e715bc",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T08:06",
+    "headline": "Washington residents hold vigil after deadly shooting",
+    "excerpt": "Residents gathered in Washington, DC, to mourn victims of a shooting that left one person dead and four others wounded.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-13T08:42:37.609778+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-washington-dc-shooting-vigil?traffic_source=rss"
+  },
+  {
+    "id": "2a7adcc449a7",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T07:59",
+    "headline": "Australia’s friendly against Jordan moved to Qatar over security concerns",
+    "excerpt": "Asian football giants Australia&#039;s upcoming friendly with Jordan was initially scheduled to be played in Amman.",
+    "category": "Other",
+    "location": "Jordan",
+    "addedAt": "2026-11-13T08:42:37.609822+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss"
+  },
+  {
+    "id": "a90006f5deb6",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T04:51",
+    "headline": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
+    "excerpt": "Funding cuts and Israel&#039;s war have left Palestinians in Lebanon in increasingly dire circumstances.",
+    "category": "Naval",
+    "location": "Israel",
+    "addedAt": "2026-11-13T08:42:37.609845+00:00",
+    "link": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "9e672a1f3498",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T04:48",
+    "headline": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
+    "excerpt": "Despite knowing a war with Iran would be manufactured for Netanyahu&#039;s survival, many would still rally behind it.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-13T08:42:37.609872+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss"
+  },
+  {
+    "id": "a1755bba9ce6",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T03:17",
+    "headline": "Iran says it targeted US radar site in Bahrain",
+    "excerpt": "IRGC says it hit radar in retaliation for an &#039;enemy&#039; air attack on a telecom tower in Iran&#039;s Hormozgan province.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-13T08:42:37.609895+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss"
+  },
+  {
+    "id": "eede6ece1c2a",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T03:11",
+    "headline": "Gaza surgeon films aftermath of Israeli strike",
+    "excerpt": "British volunteer surgeon films the terrifying aftermath of an Israeli strike on Gaza’s Nasser Hospital.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-13T08:42:37.609923+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss"
+  },
+  {
     "id": "4d998a82f3e5",
     "source": "Al Jazeera",
     "date": "2026-11-13T00:00",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-29T18:52:47.103294+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/29/779480/dryland-farming-a-strategic-priority-for-irans-leadership"
-  },
-  {
-    "id": "ee3c3768e571",
-    "source": "PressTV",
-    "date": "2026-10-29T18:52",
-    "headline": "Gazans mourn relatives after airstrikes on Mawasi, Maghazi",
-    "excerpt": "Gazans mourn their relatives who were killed the day before in an airstrike that targeted a ministry of economy post in al-Mawasi area.",
-    "category": "Airstrike",
-    "location": "Gaza",
-    "addedAt": "2026-10-29T18:52:47.103314+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/29/779484/gazans-mourn-relatives-after-airstrikes-on-mawasi-maghazi"
-  },
-  {
-    "id": "9c89b03bda8a",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T12:32",
-    "headline": "Why is Russia sending fighter jets and air defences to Ethiopia?",
-    "excerpt": "Experts say Moscow is seeking arms revenue and further diplomatic influence.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-10-29T12:50:10.245472+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss"
-  },
-  {
-    "id": "15c4f190a92d",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T12:29",
-    "headline": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
-    "excerpt": "Israel is imposing a tight siege of Hebron amid raids, home demolitions and displacement.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-29T12:50:10.245524+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss"
-  },
-  {
-    "id": "139e19b51fbe",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T12:10",
-    "headline": "England and Al-Ahli striker Ivan Toney pleads not guilty to club assault",
-    "excerpt": "Footballer Ivan Toney pleads not guilty to allegations he headbutted and punched a man at a London nightclub.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-29T12:50:10.245562+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/29/england-and-al-ahli-striker-ivan-toney-pleads-not-guilty-to-club-assault?traffic_source=rss"
-  },
-  {
-    "id": "ba32feb2c4d9",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T11:41",
-    "headline": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
-    "excerpt": "Letter to Iran&#039;s security chief reportedly pushes for swift return to peace talks, with Vance leading US delegation.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-29T12:50:10.245595+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss"
-  },
-  {
-    "id": "58149b2c3bee",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T11:27",
-    "headline": "Israel’s election rhetoric: What candidates said, and how they performed",
-    "excerpt": "From Netanyahu to Ben-Gvir, campaign boasts and attacks on Arab parties have been met with a deadlocked result.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-29T12:50:10.245619+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did?traffic_source=rss"
   }
 ]
