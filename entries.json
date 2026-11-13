@@ -1,5 +1,93 @@
 [
   {
+    "id": "038df6fa5523",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T20:48",
+    "headline": "Qatar and Turkiye send message of deterrence with new defence pact",
+    "excerpt": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
+    "category": "Naval",
+    "location": "Qatar",
+    "addedAt": "2026-11-13T22:25:49.401843+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss"
+  },
+  {
+    "id": "8919b8719f3f",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T19:23",
+    "headline": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+    "excerpt": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
+    "category": "Naval",
+    "location": "Strait Of Hormuz",
+    "addedAt": "2026-11-13T22:25:49.401871+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "48c67c01c7bd",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T18:44",
+    "headline": "At least 10 killed in Guinea clashes over gold mining ban",
+    "excerpt": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-13T22:25:49.401891+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss"
+  },
+  {
+    "id": "1c0bd13976e9",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T18:28",
+    "headline": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+    "excerpt": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-13T22:25:49.401911+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss"
+  },
+  {
+    "id": "f94912f56d4d",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T18:09",
+    "headline": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+    "excerpt": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-11-13T22:25:49.401922+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss"
+  },
+  {
+    "id": "90c6e7551e4a",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T18:04",
+    "headline": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+    "excerpt": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel &#039;an anti-state act&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-13T22:25:49.401950+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss"
+  },
+  {
+    "id": "eac2f8120bf3",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T16:44",
+    "headline": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+    "excerpt": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-13T22:25:49.401964+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss"
+  },
+  {
+    "id": "3423a0c65315",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T16:34",
+    "headline": "Jerusalem Daily: Baby dies from cold in Gaza",
+    "excerpt": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-13T22:25:49.401989+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss"
+  },
+  {
     "id": "677e92bc4503",
     "source": "Al Jazeera",
     "date": "2026-11-13T16:22",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-29T23:10:14.976654+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss"
-  },
-  {
-    "id": "ecabad9f4451",
-    "source": "PressTV",
-    "date": "2026-10-29T23:10",
-    "headline": "US carrot-and-stick approach will not work against Iran: Qalibaf",
-    "excerpt": "Iran’s parliament speaker says Iran’s conditions for negotiations and ending the war have been repeatedly stated, rejecting US pressure tactics.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-29T23:10:16.436135+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/29/779502/rs-qalibaf-us-carrot-and-stick-policy-wont-work"
-  },
-  {
-    "id": "380306b99fdf",
-    "source": "PressTV",
-    "date": "2026-10-29T23:10",
-    "headline": "Iran dismantles four Takfiri terror cells, uncovers Israeli-directed network in Kerman",
-    "excerpt": "Iranian security forces have dismantled four alleged Israeli-linked Takfiri terrorist cells in Sistan and Baluchestan, arresting 16 suspects and detaining three people for sharing sensitive security information, while identifying a separate five-member network in Kerman Province.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-29T23:10:16.436183+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/29/779477/intelligence-ministry-dismantles-4-terrorist-cells-arrests-16-militants-3-spies-in-southeast-iran"
-  },
-  {
-    "id": "6e573af6beb1",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T18:30",
-    "headline": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
-    "excerpt": "Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-29T18:52:45.631089+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss"
-  },
-  {
-    "id": "f93387a4563f",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T18:03",
-    "headline": "At least 14 people killed in attack on Ukraine train station",
-    "excerpt": "A Russian drone strike killed at least 14 people at Dnipro’s main railway station in central Ukraine.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-29T18:52:45.631134+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss"
-  },
-  {
-    "id": "647d0a701149",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T17:28",
-    "headline": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
-    "excerpt": "Couple say they are &#039;prisoners of conscience&#039; being made an example of by Pakistan&#039;s military-backed authorities.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-29T18:52:45.631175+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss"
-  },
-  {
-    "id": "54e8ad3338f9",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T17:25",
-    "headline": "UAE sentences eight people to life over arms supplies to Sudan’s army",
-    "excerpt": "Defendants handed ⁠life sentences amid tensions between Khartoum and Abu Dhabi over Sudan&#039;s war and the RSF.",
-    "category": "Other",
-    "location": "Abu Dhabi",
-    "addedAt": "2026-10-29T18:52:45.631217+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss"
-  },
-  {
-    "id": "ef88b69a651e",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T15:35",
-    "headline": "Israel’s anti-Qatar campaign bleeds into elections",
-    "excerpt": "Qatar&#039;s Foreign Ministry spokesman rejects &#039;disinformation&#039; amid allegations by some Israelis of voting interference.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-29T18:52:45.631254+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss"
-  },
-  {
-    "id": "6c4e90efca72",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T15:18",
-    "headline": "Spanish long jumper Julieta Gallego among victims of deadly train collision",
-    "excerpt": "Julieta Gallego, who competed for Madrid-based AD Sprint, among those killed in train crash in Spain.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-29T18:52:45.631286+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss"
   }
 ]
