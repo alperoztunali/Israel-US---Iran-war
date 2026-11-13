@@ -1,5 +1,60 @@
 [
   {
+    "id": "4d998a82f3e5",
+    "source": "Al Jazeera",
+    "date": "2026-11-13T00:00",
+    "headline": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+    "excerpt": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
+    "category": "Statement",
+    "location": "Iran",
+    "addedAt": "2026-11-13T01:29:52.638047+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss"
+  },
+  {
+    "id": "ab1906e6fdf0",
+    "source": "Al Jazeera",
+    "date": "2026-11-12T23:52",
+    "headline": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+    "excerpt": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
+    "category": "Missile/Drone",
+    "location": "Yemen",
+    "addedAt": "2026-11-13T01:29:52.638080+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss"
+  },
+  {
+    "id": "03ed7cd83d11",
+    "source": "Al Jazeera",
+    "date": "2026-11-12T23:18",
+    "headline": "Russian court jails rights lawyer for 12 years on treason charge",
+    "excerpt": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-11-13T01:29:52.638111+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss"
+  },
+  {
+    "id": "ddc84c6af3e4",
+    "source": "Al Jazeera",
+    "date": "2026-11-12T21:18",
+    "headline": "Deadly shooting in Washington DC",
+    "excerpt": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-13T01:29:52.638132+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss"
+  },
+  {
+    "id": "f1b05e5bbdab",
+    "source": "Al Jazeera",
+    "date": "2026-11-12T20:25",
+    "headline": "What’s at stake in the renewed tensions over the Falkland Islands?",
+    "excerpt": "Argentina and the UK are in a legal battle over an offshore oil-drilling project.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-13T01:29:52.638163+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss"
+  },
+  {
     "id": "f0616183ea33",
     "source": "Al Jazeera",
     "date": "2026-11-12T20:15",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-29T12:50:10.245619+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did?traffic_source=rss"
-  },
-  {
-    "id": "b7fa54080bb9",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T11:22",
-    "headline": "South Korea captain, LA star Son Heung-min backed by coach amid rift rumour",
-    "excerpt": "Robert Moreno names captain Son Heung-min in South Korea&#039;s squad for Saudi Arabia and Qatar games despite rift rumours.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-29T12:50:10.245653+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/10/29/south-korea-captain-la-star-son-heung-min-backed-by-coach-amid-rift-rumour?traffic_source=rss"
-  },
-  {
-    "id": "06368353e152",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T11:12",
-    "headline": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
-    "excerpt": "With five days to go before the US midterms, analysts say the war could affect how people vote.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-29T12:50:10.245680+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-says-iran-war-has-cost-us-taxpayers-47bn-what-that-means?traffic_source=rss"
-  },
-  {
-    "id": "edbd456ea973",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T11:05",
-    "headline": "Protest at India university where no students’ union vote held for 20 years",
-    "excerpt": "Jamia Millia Islamia campus in Indian capital has seen weeks of protests, with several students holding a hunger strike.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-29T12:50:10.245733+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/29/unrest-at-india-university-where-no-students-union-polls-held-for-20-years?traffic_source=rss"
-  },
-  {
-    "id": "ced24ee70217",
-    "source": "Al Jazeera",
-    "date": "2026-10-29T09:31",
-    "headline": "Israeli settler take-over",
-    "excerpt": "How Israeli settlers use outposts and violence to seize Palestinian land in the occupied West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-29T12:50:10.245759+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss"
-  },
-  {
-    "id": "0625fd9dbb14",
-    "source": "PressTV",
-    "date": "2026-10-29T12:50",
-    "headline": "Iran turns naval blockade into advantage, accelerates rise as transit hub: First VP",
-    "excerpt": "First Vice President highlights exponential growth in rail and road trade across northern and land borders, proving the failure of Western attempts to choke the country's supply chains.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-29T12:50:11.884385+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/29/779465/iran-turns-naval-blockade-into-advantage-accelerates-rise-as-transit-hub-first-vp"
   }
 ]
