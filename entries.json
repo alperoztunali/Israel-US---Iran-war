@@ -1,5 +1,60 @@
 [
   {
+    "id": "6f9553575595",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T07:46",
+    "headline": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+    "excerpt": "&#039;Situation cannot become new normal&#039;, says UN&#039;s Khaled Khiari, as Iran reports three more vessels hitting mines.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-11-14T09:27:49.017754+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss"
+  },
+  {
+    "id": "d82c074816c3",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T06:39",
+    "headline": "Ukraine is running out of options, and Russia knows it",
+    "excerpt": "The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.",
+    "category": "Diplomatic",
+    "location": "Abu Dhabi",
+    "addedAt": "2026-11-14T09:27:49.017806+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss"
+  },
+  {
+    "id": "08d3f1e53f94",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T06:17",
+    "headline": "Siege fuels disease fears in Yemen’s Taiz",
+    "excerpt": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-11-14T09:27:49.017848+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss"
+  },
+  {
+    "id": "a1d25a82b31b",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T04:55",
+    "headline": "Trump, Xi and Putin to hold first three-way summit in China",
+    "excerpt": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-11-14T09:27:49.017879+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss"
+  },
+  {
+    "id": "bb4ee5b031df",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T04:41",
+    "headline": "German spies granted sweeping new powers",
+    "excerpt": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-14T09:27:49.017915+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss"
+  },
+  {
     "id": "d7cc4a00e3b6",
     "source": "Al Jazeera",
     "date": "2026-11-14T00:00",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-30T09:01:29.847541+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it?traffic_source=rss"
-  },
-  {
-    "id": "5bfdda8ed153",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T07:10",
-    "headline": "Britain must sanction Israel, not just its settlers",
-    "excerpt": "Israeli forces detained our parliamentary delegation and barred us from the West Bank. The violence is state policy.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-30T09:01:29.847557+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/10/30/britain-must-sanction-israel-not-just-its-settlers?traffic_source=rss"
-  },
-  {
-    "id": "2e2783938597",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T07:07",
-    "headline": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
-    "excerpt": "Our analysis exposes the heavy humanitarian and economic toll of the military siege suffocating Palestinians in Hebron.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-30T09:01:29.847578+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss"
-  },
-  {
-    "id": "f2d707147218",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T04:14",
-    "headline": "Israeli actress slams occupation in accidental ‘hot mic’ moment",
-    "excerpt": "Veteran Israeli actress Chelli Goldenberg was left shocked after she was caught ripping into Israel&#039;s policies.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-30T09:01:29.847600+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-actress-slams-occupation-in-accidental-hot-mic-moment?traffic_source=rss"
-  },
-  {
-    "id": "8e1cccd5084a",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T00:11",
-    "headline": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-    "excerpt": "The announcement comes despite talks between Iran and the Mecca pact countries in Tehran earlier this week.",
-    "category": "Movement",
-    "location": "Tehran",
-    "addedAt": "2026-10-30T02:37:51.347484+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss"
-  },
-  {
-    "id": "6a236b1c2785",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T00:00",
-    "headline": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-    "excerpt": "Iran&#039;s IRGC says four tankers have struck naval mines after using &quot;unauthorised&quot; Strait of Hormuz routes.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-30T02:37:51.347517+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss"
   }
 ]
