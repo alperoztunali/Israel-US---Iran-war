@@ -1,5 +1,27 @@
 [
   {
+    "id": "e4b87a0df8d9",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T19:46",
+    "headline": "Deadly car bomb blast kills two near Syria’s capital",
+    "excerpt": "At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria&#039;s capital Damascus.",
+    "category": "Airstrike",
+    "location": "Syria",
+    "addedAt": "2026-11-14T20:44:12.085740+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss"
+  },
+  {
+    "id": "f038e313f1f2",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T16:13",
+    "headline": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+    "excerpt": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-14T20:44:12.085779+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss"
+  },
+  {
     "id": "d6e543496f6a",
     "source": "Al Jazeera",
     "date": "2026-11-14T15:57",
@@ -5476,27 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-30T20:39:48.873503+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/30/779554/spy-cell-linked-with-foreign-intelligence-service-busted-in-western-iran"
-  },
-  {
-    "id": "3ca75571082f",
-    "source": "PressTV",
-    "date": "2026-10-30T20:39",
-    "headline": "Rezaei: Leader’s ‘wise leadership’ will bring pride to Iran, defeat adversaries",
-    "excerpt": "Iran’s top security official says Ayatollah Khamenei’s comprehensive oversight and wise leadership will bring pride to the country and help defeat its adversaries.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-30T20:39:48.873539+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/30/779560/rezaei-leaders-wise-leadership-will-bring-pride-to-iran-defeat-adversaries"
-  },
-  {
-    "id": "74bbca493932",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T15:26",
-    "headline": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
-    "excerpt": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.",
-    "category": "Missile/Drone",
-    "location": "Yemen",
-    "addedAt": "2026-10-30T15:57:24.321685+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss"
   }
 ]
