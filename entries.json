@@ -1,5 +1,126 @@
 [
   {
+    "id": "d6e543496f6a",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T15:57",
+    "headline": "EU calls for immediate humanitarian access to Gaza",
+    "excerpt": "The EU said that “Israel must enable the work of the UN and its agencies&quot; after the group was blocked access into Gaza.",
+    "category": "Statement",
+    "location": "Israel",
+    "addedAt": "2026-11-14T16:00:40.713170+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss"
+  },
+  {
+    "id": "55e23f99234d",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T15:36",
+    "headline": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+    "excerpt": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-11-14T16:00:40.713220+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss"
+  },
+  {
+    "id": "af0752f09e11",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T14:57",
+    "headline": "Why US Democrats are expected to keep Schumer and Jeffries in power",
+    "excerpt": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-14T16:00:40.713252+00:00",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss"
+  },
+  {
+    "id": "51743e46f464",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T14:49",
+    "headline": "Empower conference: officials and youth discuss peace and security",
+    "excerpt": "At the Empower Conference in Doha, officials gathered with youth to discuss initiatives for global peace and security.",
+    "category": "Other",
+    "location": "Doha",
+    "addedAt": "2026-11-14T16:00:40.713278+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/empower-conference-officials-and-youth-discuss-peace-and-security?traffic_source=rss"
+  },
+  {
+    "id": "c4bf1dc00cd3",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T13:24",
+    "headline": "How does Iran view shift in US approach after JD Vance ordered away?",
+    "excerpt": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-11-14T16:00:40.713299+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss"
+  },
+  {
+    "id": "970140d2edf8",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T12:57",
+    "headline": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+    "excerpt": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-14T16:00:40.713327+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss"
+  },
+  {
+    "id": "c109cc77a256",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T12:28",
+    "headline": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
+    "excerpt": "Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support.",
+    "category": "Other",
+    "location": "Egypt",
+    "addedAt": "2026-11-14T16:00:40.713350+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss"
+  },
+  {
+    "id": "ec50efeea1e8",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T12:14",
+    "headline": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+    "excerpt": "A nuclear treaty and the US&#039;s war on Iran are among priority topics for China, Russia and US leaders.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-14T16:00:40.713380+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss"
+  },
+  {
+    "id": "2f28d58d001d",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T11:43",
+    "headline": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+    "excerpt": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-14T16:00:40.713402+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss"
+  },
+  {
+    "id": "3c272c033976",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T11:14",
+    "headline": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+    "excerpt": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
+    "category": "Airstrike",
+    "location": "Abu Dhabi",
+    "addedAt": "2026-11-14T16:00:40.713417+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss"
+  },
+  {
+    "id": "ac9deb2945f4",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T11:00",
+    "headline": "Ukraine, Russia race to build military satellite networks as war rages on",
+    "excerpt": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-14T16:00:40.713446+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss"
+  },
+  {
     "id": "6f9553575595",
     "source": "Al Jazeera",
     "date": "2026-11-14T07:46",
@@ -5377,126 +5498,5 @@
     "location": "Yemen",
     "addedAt": "2026-10-30T15:57:24.321685+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss"
-  },
-  {
-    "id": "83f0b22257af",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T15:06",
-    "headline": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
-    "excerpt": "Israeli forces demolished the homes of two Palestinians accused of killing two Israeli soldiers in Hebron last week.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-30T15:57:24.321728+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss"
-  },
-  {
-    "id": "94bfeeda5bd7",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T14:40",
-    "headline": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-    "excerpt": "Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-30T15:57:24.321763+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss"
-  },
-  {
-    "id": "92dc3011efff",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T14:18",
-    "headline": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
-    "excerpt": "Israeli forces are treating the &#039;Yellow Line&#039;, which is encroaching westward, as &#039;a kill zone&#039;, the OHCHR says.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-30T15:57:24.321790+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss"
-  },
-  {
-    "id": "63525ed4012c",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T13:32",
-    "headline": "Palestinian child survives Israeli gunshot to the head",
-    "excerpt": "Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-30T15:57:24.321815+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss"
-  },
-  {
-    "id": "eab56296d8f1",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T13:01",
-    "headline": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-    "excerpt": "Senator Chris Murphy warns Trump’s reported plan to restart war with Iran could have devastating consequences.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-30T15:57:24.321847+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "ae3545aef3f6",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T12:26",
-    "headline": "Qatari officials in Iran in bid to revive ceasefire deal with US",
-    "excerpt": "The mediation mission comes amid speculation about a potential resumption of hostilities.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-10-30T15:57:24.321870+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss"
-  },
-  {
-    "id": "9aa1ca2fa5f3",
-    "source": "PressTV",
-    "date": "2026-10-30T15:57",
-    "headline": "Emergency services on site of EUFOR helicopter crash in Bosnia that killed 4 Italian personnel",
-    "excerpt": "Images show the site where an Italian helicopter in the European Union's EUFOR military force crashed.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-30T15:57:26.279890+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/30/779543/emergency-services-on-site-of-eufor-helicopter-crash-in-bosnia-that-killed-4-italian-personnel"
-  },
-  {
-    "id": "b8c0b6cf4b24",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T08:36",
-    "headline": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
-    "excerpt": "Brent crude prices are up more than 60 percent compared with pre-war levels, despite rebound in supply.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-30T09:01:29.847466+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss"
-  },
-  {
-    "id": "bb59b7ae0562",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T08:20",
-    "headline": "Smoke from wildfires killed 3,500 people in Indonesia in September: Report",
-    "excerpt": "Persistent wildfires sparked by drought have enveloped the region in smog.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-30T09:01:29.847499+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/30/smoke-from-wildfires-killed-3500-people-in-indonesia-in-september-report?traffic_source=rss"
-  },
-  {
-    "id": "fc892d04ea5a",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T07:51",
-    "headline": "‘My life is buried here’: Iranian man whose 12 family members were killed",
-    "excerpt": "Hamed Mirzaei lost his wife, parents and many others in a devastating US-Israeli attack on Tehran.",
-    "category": "Casualties",
-    "location": "Tehran",
-    "addedAt": "2026-10-30T09:01:29.847516+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss"
-  },
-  {
-    "id": "24d91ceeeae0",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T07:13",
-    "headline": "AI’s real bottleneck is electricity. Who will pay for it?",
-    "excerpt": "Big Tech’s nuclear power deals raise urgent questions about who will bear the cost of AI’s growing energy demands.",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-30T09:01:29.847541+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it?traffic_source=rss"
   }
 ]
