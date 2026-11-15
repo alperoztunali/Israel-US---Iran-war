@@ -1,5 +1,49 @@
 [
   {
+    "id": "1b9995a102ef",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T00:00",
+    "headline": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+    "excerpt": "Israel has pledged to continue its &#039;offensive policy&#039; on Gaza as fighting in Yemen grips the region.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-15T00:23:40.674466+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss"
+  },
+  {
+    "id": "62dca90fcc44",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T23:34",
+    "headline": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+    "excerpt": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-11-15T00:23:40.674518+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss"
+  },
+  {
+    "id": "26737ac96d48",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T23:01",
+    "headline": "Netanyahu says only a unity government can guarantee Israel’s security",
+    "excerpt": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-11-15T00:23:40.674553+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss"
+  },
+  {
+    "id": "0fb5646ddc2b",
+    "source": "Al Jazeera",
+    "date": "2026-11-14T22:43",
+    "headline": "Explosion near Syria’s capital kills father and child",
+    "excerpt": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
+    "category": "Airstrike",
+    "location": "Syria",
+    "addedAt": "2026-11-15T00:23:40.674574+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss"
+  },
+  {
     "id": "e4b87a0df8d9",
     "source": "Al Jazeera",
     "date": "2026-11-14T19:46",
@@ -5454,49 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-10-30T20:39:47.308089+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "23db5dacb90a",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T18:03",
-    "headline": "Kim Jong Un calls for North Korea’s drone technology superiority",
-    "excerpt": "North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-30T20:39:47.308123+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss"
-  },
-  {
-    "id": "77b5d685e0b2",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T17:34",
-    "headline": "Report reveals campaign promoting racist, Islamophobic, anti-Qatar views",
-    "excerpt": "Investigation finds that years-long operation sought to portray Qatar as driving force behind mass migration to Europe.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-10-30T20:39:47.308157+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/30/report-reveals-campaign-promoting-racist-islamophobic-anti-qatar-views?traffic_source=rss"
-  },
-  {
-    "id": "3adccaf8ba47",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T15:50",
-    "headline": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-    "excerpt": "Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.",
-    "category": "Statement",
-    "location": "Israel",
-    "addedAt": "2026-10-30T20:39:47.308203+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss"
-  },
-  {
-    "id": "642e9764a4d0",
-    "source": "PressTV",
-    "date": "2026-10-30T20:39",
-    "headline": "Spy cell linked with foreign intelligence service busted in western Iran",
-    "excerpt": "The IRGC has identified and dismantled a two-member spy cell affiliated with a foreign intelligence service in Iran’s western province of Kermanshah.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-30T20:39:48.873503+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/30/779554/spy-cell-linked-with-foreign-intelligence-service-busted-in-western-iran"
   }
 ]
