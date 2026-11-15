@@ -1,5 +1,104 @@
 [
   {
+    "id": "80c5da83e766",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T14:02",
+    "headline": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+    "excerpt": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-11-15T14:46:49.733152+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss"
+  },
+  {
+    "id": "e30a12de0ace",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T13:45",
+    "headline": "Gaza families bury bodies of loved ones trapped for years under rubble",
+    "excerpt": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-15T14:46:49.733181+00:00",
+    "link": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss"
+  },
+  {
+    "id": "479e6af2a00b",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T13:43",
+    "headline": "Explosive attack targets investigative journalist’s home in Panama",
+    "excerpt": "An investigative journalist’s home in Panama was attacked in a suspected bombing.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-15T14:46:49.733200+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss"
+  },
+  {
+    "id": "aff503513138",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T13:37",
+    "headline": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+    "excerpt": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-15T14:46:49.733228+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss"
+  },
+  {
+    "id": "8e4f272ac63e",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T12:36",
+    "headline": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+    "excerpt": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-11-15T14:46:49.733249+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss"
+  },
+  {
+    "id": "85914e4d7d84",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T12:15",
+    "headline": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+    "excerpt": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-11-15T14:46:49.733264+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss"
+  },
+  {
+    "id": "47f42f3e9f78",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T12:02",
+    "headline": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+    "excerpt": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-15T14:46:49.733285+00:00",
+    "link": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss"
+  },
+  {
+    "id": "768f68a833c6",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T11:56",
+    "headline": "Israel coalition talks put Arab party leader under pressure over Hamas",
+    "excerpt": "Mansour Abbas faces mounting pressure from Israel’s change bloc to denounce Hamas as a prerequisite for coalition role.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-11-15T14:46:49.733311+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/15/israel-coalition-talks-put-arab-party-leader-under-pressure-over-hamas?traffic_source=rss"
+  },
+  {
+    "id": "0beb5d7f9816",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T11:33",
+    "headline": "MMA fighters jailed after Abu Dhabi hotel lobby brawl",
+    "excerpt": "Ten people have been convicted by the Abu Dhabi Criminal Court over a brawl in a hotel lobby.",
+    "category": "Airstrike",
+    "location": "Abu Dhabi",
+    "addedAt": "2026-11-15T14:46:49.733323+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/mma-fighters-jailed-after-abu-dhabi-hotel-lobby-brawl?traffic_source=rss"
+  },
+  {
     "id": "37f5a3972b54",
     "source": "Al Jazeera",
     "date": "2026-11-15T04:44",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-10-31T05:47:15.743953+00:00",
     "link": "https://presstv.co.uk/Detail/2026/10/31/779567/italy-erupts-in-protests-over-soaring-living-costs-military-spending"
-  },
-  {
-    "id": "5979e6f52f0e",
-    "source": "Arab News",
-    "date": "2026-10-31T02:23",
-    "headline": "US joins Expo 2030 Riyadh as official participant under new agreement",
-    "excerpt": "ATLANTA: Saudi Foreign Minister Prince Faisal bin Farhan and US Secretary of State Marco Rubio signed an agreement on Friday establishing a framework for US participation in Expo 2030 Riyadh, the Saudi Press Agency reported. The agreement was signed following talks between the two officials on the s",
-    "category": "Diplomatic",
-    "location": "Riyadh",
-    "addedAt": "2026-10-31T05:47:18.934172+00:00",
-    "link": "https://www.arabnews.com/saudi-arabia/us-joins-expo-2030-riyadh-as-official-participant-under-new-agreement-3009090"
-  },
-  {
-    "id": "aec32acbdb8a",
-    "source": "Arab News",
-    "date": "2026-10-31T01:00",
-    "headline": "Saudi Arabia's savings culture evolves as financial education gains ground",
-    "excerpt": "RIYADH: From school classrooms to digital banking platforms, Saudi Arabia is reshaping how younger generations approach money, with financial education emerging as a key part of efforts to turn saving into a lifelong habit. As the Kingdom marks World Savings Day on Oct. 31, the shift is gaining mome",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-31T05:47:18.934212+00:00",
-    "link": "https://www.arabnews.com/business/saudi-arabias-savings-culture-evolves-as-financial-education-gains-ground-3008801"
-  },
-  {
-    "id": "b3afe68a13d4",
-    "source": "Arab News",
-    "date": "2026-10-31T00:02",
-    "headline": "EU accuses Russia of false narratives as Lavrov questions Ukraine’s commitment to talks",
-    "excerpt": "ATLANTA: Russian Foreign Minister Sergei Lavrov on Friday criticized Ukrainian President Volodymyr Zelensky’s remarks about continuing strikes on Russian targets, saying they undermined preparations for fresh peace talks, while the European Union’s top diplomat accused Moscow of spreading “lies” and",
-    "category": "Diplomatic",
-    "location": "Unknown",
-    "addedAt": "2026-10-31T05:47:18.934256+00:00",
-    "link": "https://www.arabnews.com/world/eu-accuses-russia-of-false-narratives-as-lavrov-questions-ukraines-commitment-to-talks-3009069"
-  },
-  {
-    "id": "acaa7f8f63d0",
-    "source": "Arab News",
-    "date": "2026-10-30T23:12",
-    "headline": "US approves $2.1 billion Patriot missile sale to Ukraine",
-    "excerpt": "The ‌US State Department said on Friday it had approved the sale of 500 Patriot PAC-3 missiles to Ukraine for an estimated $2.1 ​billion. Ukraine will pay for the defensive interceptor missiles with contributions from Canada, Germany and Norway routed through the US JUMPSTART program, along with nat",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-31T05:47:18.934284+00:00",
-    "link": "https://www.arabnews.com/world/us-approves-21-billion-patriot-missile-sale-to-ukraine-3009068"
-  },
-  {
-    "id": "43ae4d709a95",
-    "source": "Arab News",
-    "date": "2026-10-30T22:59",
-    "headline": "First Algerian troops arrive in Niger where insurgents threaten stability",
-    "excerpt": "ALGIERS: An Algerian army ‌convoy has arrived in Niger in Algeria’s first foreign troop deployment since it sent forces to ​support Egypt during the 1973 Arab-Israeli war. Niger, like other countries in West Africa’s Sahel region, is battling insurgents linked to Al-Qaeda and Daesh. Algeria, which s",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-31T05:47:18.934310+00:00",
-    "link": "https://www.arabnews.com/middle-east/first-algerian-troops-arrive-in-niger-where-insurgents-threaten-stability-3009067"
-  },
-  {
-    "id": "16a7db43edbe",
-    "source": "Arab News",
-    "date": "2026-10-30T22:37",
-    "headline": "Russia discussing floating nuclear power stations for four African states",
-    "excerpt": "MOSCOW: Russia’s atomic power agency said Friday it was in advanced talks with four African nations about building floating nuclear power stations to help overcome power shortages. Alexey Likhachev, director general of the Rosatom state agency said talks were being held with Egypt, Namibia, Tanzania",
-    "category": "Diplomatic",
-    "location": "Egypt",
-    "addedAt": "2026-10-31T05:47:18.934340+00:00",
-    "link": "https://www.arabnews.com/world/russia-discussing-floating-nuclear-power-stations-for-four-african-states-3009064"
-  },
-  {
-    "id": "454fbcfba741",
-    "source": "Arab News",
-    "date": "2026-10-30T19:59",
-    "headline": "SAB, Playbook join forces to empower female entrepreneurs with fintech",
-    "excerpt": "Saudi Awwal Bank has signed a memorandum of understanding with Playbook to advance collaboration in women’s entrepreneurship, knowledge sharing and financial services innovation. The MoU was signed on Sept. 29 during the Women Shaping Wealth Summit in Riyadh, organized by Playbook in strategic partn",
-    "category": "Naval",
-    "location": "Riyadh",
-    "addedAt": "2026-10-31T05:47:18.934369+00:00",
-    "link": "https://www.arabnews.com/corporate-and-sponsored-content/sab-playbook-join-forces-to-empower-female-entrepreneurs-with-fintech-3009055"
-  },
-  {
-    "id": "47eab71d8c90",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T23:13",
-    "headline": "Why AI could threaten much of the world’s digital infrastructure",
-    "excerpt": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-31T00:07:06.942648+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss"
-  },
-  {
-    "id": "7c74e4d78fbb",
-    "source": "Al Jazeera",
-    "date": "2026-10-30T21:00",
-    "headline": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
-    "excerpt": "Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-31T00:07:06.942690+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss"
   }
 ]
