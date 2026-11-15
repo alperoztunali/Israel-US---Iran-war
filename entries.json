@@ -1,5 +1,104 @@
 [
   {
+    "id": "3abd4d6c811a",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T20:12",
+    "headline": "Jordan sentences three men to death over deadly church attack in Karak",
+    "excerpt": "Jordan sentences three men to death over deadly church attack in Karak",
+    "category": "Casualties",
+    "location": "Jordan",
+    "addedAt": "2026-11-15T20:14:44.093904+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss"
+  },
+  {
+    "id": "28cd0c73cfa3",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T19:02",
+    "headline": "Israeli drone filmed flying low outside homes in southern Lebanon",
+    "excerpt": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-11-15T20:14:44.093933+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "ef31876afafd",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T18:31",
+    "headline": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+    "excerpt": "British royal says he&#039;s &#039;taken a risk&#039; in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-15T20:14:44.093958+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss"
+  },
+  {
+    "id": "165ecff88228",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T18:07",
+    "headline": "Estonia to close border crossings with Russia after attack on drone maker",
+    "excerpt": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-15T20:14:44.093979+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss"
+  },
+  {
+    "id": "5ee9173da5a6",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T17:33",
+    "headline": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+    "excerpt": "Spokesman for the Southern Armed Forces says group is repositioning from Dhubab airport and areas around Bab al-Mandeb.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-11-15T20:14:44.093999+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss"
+  },
+  {
+    "id": "cc0ed5a2867f",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T15:32",
+    "headline": "70 bodies recovered from Gaza rubble, thousands still missing",
+    "excerpt": "70 bodies recovered from Gaza rubble, thousands still missing",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-15T20:14:44.094024+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss"
+  },
+  {
+    "id": "b5be6452d22a",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T15:21",
+    "headline": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+    "excerpt": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-11-15T20:14:44.094052+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss"
+  },
+  {
+    "id": "7ccfa914093e",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T15:01",
+    "headline": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+    "excerpt": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-15T20:14:44.094082+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss"
+  },
+  {
+    "id": "b4a2532f941f",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T14:55",
+    "headline": "Flames engulf Syrian refugee camp in eastern Lebanon",
+    "excerpt": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-11-15T20:14:44.094104+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss"
+  },
+  {
     "id": "80c5da83e766",
     "source": "Al Jazeera",
     "date": "2026-11-15T14:02",
@@ -5399,104 +5498,5 @@
     "location": "Saudi Arabia",
     "addedAt": "2026-10-31T11:58:00.180816+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss"
-  },
-  {
-    "id": "38bfc30c0e02",
-    "source": "PressTV",
-    "date": "2026-10-31T11:58",
-    "headline": "Iran minister calls for joint production, technology transfer deals with African nations",
-    "excerpt": "Agriculture Minister Gholamreza Nouri Ghezeljeh declares that Tehran views African nations as strategic partners for mutual investment and sustainable development, not just consumers of Iranian goods.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-10-31T11:58:03.856912+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779610/iran-minister-calls-for-joint-production-technology-transfer-deals-with-african-nations"
-  },
-  {
-    "id": "2a3bba1721a7",
-    "source": "PressTV",
-    "date": "2026-10-31T11:58",
-    "headline": "Iran accelerates rebuilding of petrochemical complexes hit by US-Zionist war: Deputy oil minister",
-    "excerpt": "Deputy Oil Minister declares reconstruction of damaged sites a \"national priority,\" securing new financial backing to rapidly restore and expand production capacity.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-31T11:58:03.856951+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779581/iran-accelerates-rebuilding-of-petrochemical-complexes-hit-by-us-zionist-war"
-  },
-  {
-    "id": "1c5e5f441b89",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T05:07",
-    "headline": "Mohammed Deif, rare footage and October 7 documents",
-    "excerpt": "Rare footage obtained by Al Jazeera offers a look at the life of former Hamas military commander, Mohammed Deif.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-31T05:47:14.159844+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss"
-  },
-  {
-    "id": "9fa850e73ff0",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T04:51",
-    "headline": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-    "excerpt": "Deal would be one of the most significant steps to supply defensive weapons to Kyiv since ​Trump took office in 2025.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-10-31T05:47:14.159876+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "da63c8f92bd9",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T03:55",
-    "headline": "Iran says four tankers on fire after striking mines in Hormuz",
-    "excerpt": "Iran&#039;s Revolutionary Guard says four tankers have caught fire in the Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-31T05:47:14.159909+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "5e06377457b9",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T03:27",
-    "headline": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
-    "excerpt": "Russia’s most prominent investigative newspaper is closing, with staff accusing the government of killing it off.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-10-31T05:47:14.159937+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss"
-  },
-  {
-    "id": "0aa5cd0040a1",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T01:26",
-    "headline": "Fake polls expose vulnerabilities in US elections ahead of midterms",
-    "excerpt": "Fabricated surveys are adding to tensions in the country&#039;s increasingly polarised political environment.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-31T05:47:14.159963+00:00",
-    "link": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss"
-  },
-  {
-    "id": "08151c9d0f73",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T00:00",
-    "headline": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end ‘soon’",
-    "excerpt": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will &#039;get wrapped up soon&#039;.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-31T05:47:14.159988+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss"
-  },
-  {
-    "id": "7abe26c0c019",
-    "source": "PressTV",
-    "date": "2026-10-31T05:47",
-    "headline": "Italy erupts in protests over cost of living, military spending",
-    "excerpt": "Tens of thousands flood the streets across Italy demanding higher wages and better public services, relief from soaring living costs, and a halt to rising military spending.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-31T05:47:15.743953+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779567/italy-erupts-in-protests-over-soaring-living-costs-military-spending"
   }
 ]
