@@ -1,5 +1,104 @@
 [
   {
+    "id": "d66decde0e10",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T14:58",
+    "headline": "Why Starshield limits are hurting Ukraine against jet-powered drones",
+    "excerpt": "Ukraine&#039;s military has been relying on the internet service since December 2024 to intercept Russian drones.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-16T15:58:46.420307+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss"
+  },
+  {
+    "id": "24730917d73c",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T14:20",
+    "headline": "‘My arms are empty’: Tragedy strikes Gaza family after baby dies from cold",
+    "excerpt": "A nine-month-old baby has died from hypothermia inside his family’s displacement tent in Gaza, as winter returns.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-16T15:58:46.420366+00:00",
+    "link": "https://www.aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear?traffic_source=rss"
+  },
+  {
+    "id": "4bbda8b22103",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T13:45",
+    "headline": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
+    "excerpt": "Houthis edge closer to Aden as Yemeni forces retreat from the Red Sea coast, threatening global maritime security.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-11-16T15:58:46.420397+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb?traffic_source=rss"
+  },
+  {
+    "id": "8265f987a784",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T13:28",
+    "headline": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+    "excerpt": "EU foreign policy chief Kaja Kallas says Russian President Vladimir Putin is making maximalist demands.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-16T15:58:46.420432+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss"
+  },
+  {
+    "id": "18d4c2140c79",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T12:25",
+    "headline": "Jericho settlers harass Al Jazeera reporter after stealing Palestinian home",
+    "excerpt": "Israeli settlers who took over 8 homes in Jericho harassed Al Jazeera’s Nour Odeh.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-16T15:58:46.420465+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jericho-settlers-harass-al-jazeera-reporter-after-stealing-palestinian-home?traffic_source=rss"
+  },
+  {
+    "id": "1755980ef354",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T11:40",
+    "headline": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
+    "excerpt": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-16T15:58:46.420503+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss"
+  },
+  {
+    "id": "7972e83a2c7a",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T10:28",
+    "headline": "Lebanon’s second airport could provide economic and political benefits",
+    "excerpt": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
+    "category": "Other",
+    "location": "Lebanon",
+    "addedAt": "2026-11-16T15:58:46.420536+00:00",
+    "link": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss"
+  },
+  {
+    "id": "287b6d6f1472",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T10:14",
+    "headline": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
+    "excerpt": "The aircraft carrier joins two others operating in the US Central Command area of responsibility.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-11-16T15:58:46.420569+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss"
+  },
+  {
+    "id": "98df7fe39f46",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T10:12",
+    "headline": "Jordan bans Telegram over national security concerns",
+    "excerpt": "The measure comes amid a security crackdown after last month&#039;s deadly attack on a Greek Orthodox church.",
+    "category": "Casualties",
+    "location": "Jordan",
+    "addedAt": "2026-11-16T15:58:46.420591+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss"
+  },
+  {
     "id": "8d1d1b7736dd",
     "source": "Al Jazeera",
     "date": "2026-11-16T04:53",
@@ -5399,104 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-10-31T17:11:45.503519+00:00",
     "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss"
-  },
-  {
-    "id": "f7490e476444",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T14:20",
-    "headline": "Syria considering entry into Mecca defence pact, says foreign minister",
-    "excerpt": "Damascus &#039;evaluating&#039; whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-10-31T17:11:45.503556+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss"
-  },
-  {
-    "id": "7f6bb0cb9b6b",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T13:35",
-    "headline": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-    "excerpt": "Despite genocide, regional war and isolation, Israel&#039;s election revealed little appetite for political alternatives.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-31T17:11:45.503594+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss"
-  },
-  {
-    "id": "9295ca9d4160",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T12:45",
-    "headline": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
-    "excerpt": "A new outbreak in fighting in Yemen has forced tens of thousands of people from their homes.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-10-31T17:11:45.503626+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss"
-  },
-  {
-    "id": "3f39b6a509b1",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T12:22",
-    "headline": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
-    "excerpt": "Withdrawal from the nuclear treaty doses not mean that Iran would build a nuclear weapon, observers say.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-31T17:11:45.503657+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss"
-  },
-  {
-    "id": "121b3c4dd9bf",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T12:13",
-    "headline": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-    "excerpt": "Iran’s supreme leader says Tehran’s potential response will not be restricted by geography.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-10-31T17:11:45.503693+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss"
-  },
-  {
-    "id": "7b4d17cbc381",
-    "source": "PressTV",
-    "date": "2026-10-31T17:11",
-    "headline": "Iran's top commander: Civil defense 'a vital necessity' in protecting critical infrastructure",
-    "excerpt": "Iran’s top military commander stresses the need to strengthen civil defense to counter threats against Iranian infrastructure and personnel.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-31T17:11:49.549743+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779620/passive-defense-a-vital-definitive-necessity-amid-us-israeli-wars-top-iranian-commander"
-  },
-  {
-    "id": "d7f3c59d0b42",
-    "source": "PressTV",
-    "date": "2026-10-31T17:11",
-    "headline": "The $500 billion price of US war on Iran, but true cost my hit $3.5 trillion",
-    "excerpt": "Washington’s war on Iran has triggered a $468 billion global fuel shock, exposing the economic costs of aggression, while worldwide GDP losses could reach a staggering $3.5 trillion.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-31T17:11:49.549786+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779612/the-500-billion-price-of-us-war-on-iran-but-true-cost-my-hit-3-5-trillion"
-  },
-  {
-    "id": "422c7e165688",
-    "source": "PressTV",
-    "date": "2026-10-31T17:11",
-    "headline": "US forces attack Iranian fishing boats off Qeshm Island; two fishermen missing",
-    "excerpt": "US military forces have attacked two Iranian fishing boats in the Persian Gulf waters near Qeshm Island, injuring one fisherman and leaving two others missing, local officials report.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-10-31T17:11:49.549813+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779609/us-forces-attack-iranian-fishing-boats-off-qeshm-island-two-fishermen-missing"
-  },
-  {
-    "id": "4a8fc0081f51",
-    "source": "PressTV",
-    "date": "2026-10-31T17:11",
-    "headline": "Iran denounces Canada’s ‘absurd’ endorsement of UAE claims over Iranian trio islands",
-    "excerpt": "Esmaeil Baghaei described the UAE’s territorial claims as absurd and Canada’s decision to echo them as short-sighted and contrary to the fundamental principles of the UN Charter.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-31T17:11:49.549852+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779570/iran-denounces-canadas-absurd-endorsement-of-uae-claims-over-iranian-trio-islands"
   }
 ]
