@@ -1,5 +1,60 @@
 [
   {
+    "id": "171100eefdb2",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T22:06",
+    "headline": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+    "excerpt": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-16T00:00:21.031956+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss"
+  },
+  {
+    "id": "8eb199c08231",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T21:19",
+    "headline": "Yemen’s Houthis unilaterally release 600 war detainees",
+    "excerpt": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-11-16T00:00:21.032006+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss"
+  },
+  {
+    "id": "fae7edb9fb93",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T20:50",
+    "headline": "Palestinians reclaim Gaza’s shores with a swim for hope",
+    "excerpt": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-16T00:00:21.032032+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss"
+  },
+  {
+    "id": "b930e11b3933",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T20:37",
+    "headline": "Who can force Israel to implement Gaza ceasefire deal?",
+    "excerpt": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-11-16T00:00:21.032049+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss"
+  },
+  {
+    "id": "d6958d8df33d",
+    "source": "Al Jazeera",
+    "date": "2026-11-15T20:31",
+    "headline": "Estonia to close border crossings with Russia after alleged arson attack",
+    "excerpt": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-16T00:00:21.032066+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
+  },
+  {
     "id": "3abd4d6c811a",
     "source": "Al Jazeera",
     "date": "2026-11-15T20:12",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-31T11:58:00.180656+00:00",
     "link": "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss"
-  },
-  {
-    "id": "f48b85be2d8f",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T10:38",
-    "headline": "Can Democrats win the US Senate? 10 key midterm races to watch",
-    "excerpt": "From Texas to Maine, rising prices and the Iran war put key Senate races in play as Democrats fight for control.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-10-31T11:58:00.180690+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss"
-  },
-  {
-    "id": "2d69e62bdea8",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T10:00",
-    "headline": "Education under fire: Gaza’s children face death on their way to school",
-    "excerpt": "Children have faced Israeli bombs and sniper fire since the academic year resumed in Gaza.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-10-31T11:58:00.180715+00:00",
-    "link": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss"
-  },
-  {
-    "id": "7386f05248d1",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T09:26",
-    "headline": "Lebanon charges 13 over confiscated Hezbollah explosives",
-    "excerpt": "Group calls charges &#039;unjust&#039;, says weapons were meant to be used against Israeli forces in south Lebanon.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-31T11:58:00.180747+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/lebanon-charges-13-over-hezbollah-confiscated-explosives?traffic_source=rss"
-  },
-  {
-    "id": "6e5a30298f01",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T08:57",
-    "headline": "A UN protection force must be urgently deployed to Palestine",
-    "excerpt": "Israel is making Palestinian existence in Palestine increasingly impossible.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-10-31T11:58:00.180773+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/10/31/a-un-protection-force-must-be-urgently-deployed-to-palestine?traffic_source=rss"
-  },
-  {
-    "id": "8197686eaf16",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T08:08",
-    "headline": "Are Houthis using Russian satellites as Saudi Arabia fends off strikes?",
-    "excerpt": "Analysts say the seizure of state arsenals, external backing and extensive military evolution has helped the Houthis.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-10-31T11:58:00.180816+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss"
   }
 ]
