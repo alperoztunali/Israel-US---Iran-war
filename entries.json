@@ -1,5 +1,82 @@
 [
   {
+    "id": "75279bc17d18",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T23:00",
+    "headline": "EU agrees to resurrect cooperation deal with Syria",
+    "excerpt": "Decision aims to bolster bloc&#039;s ties with Damascus following the collapse of Assad&#039;s government in December 2024.",
+    "category": "Diplomatic",
+    "location": "Syria",
+    "addedAt": "2026-11-17T00:09:00.025291+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss"
+  },
+  {
+    "id": "616f0fd1685c",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T21:35",
+    "headline": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+    "excerpt": "Attorney General Rob Bonta says Hugging Face attack was &#039;entirely predictable&#039; result of emphasis on rapid growth.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-17T00:09:00.025363+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss"
+  },
+  {
+    "id": "36e8fcd68fd1",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T21:06",
+    "headline": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+    "excerpt": "&#039;Preliminary monitoring&#039; shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-17T00:09:00.025403+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss"
+  },
+  {
+    "id": "8502c651ce5a",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T20:00",
+    "headline": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+    "excerpt": "Rivals call for investigation into reports that PM&#039;s office tried to frame Arab parties.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-17T00:09:00.025443+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss"
+  },
+  {
+    "id": "a7a1bbd5d949",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T19:19",
+    "headline": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+    "excerpt": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
+    "category": "Movement",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-11-17T00:09:00.025473+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss"
+  },
+  {
+    "id": "5e366614e891",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T19:09",
+    "headline": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
+    "excerpt": "An Israeli government without PM Netanyahu may be close, but a government without his politics is far less certain.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-17T00:09:00.025513+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss"
+  },
+  {
+    "id": "3b8adf024f89",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T18:38",
+    "headline": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
+    "excerpt": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-17T00:09:00.025549+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss"
+  },
+  {
     "id": "d66decde0e10",
     "source": "Al Jazeera",
     "date": "2026-11-16T14:58",
@@ -5421,82 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-10-31T23:38:03.409395+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss"
-  },
-  {
-    "id": "b222723c8d71",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T20:09",
-    "headline": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
-    "excerpt": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-31T23:38:03.409455+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss"
-  },
-  {
-    "id": "e3d791c7594a",
-    "source": "PressTV",
-    "date": "2026-10-31T23:38",
-    "headline": "West Asia fertilizer exports plunge 70% as US-Israeli war of aggression against Iran disrupts Strait",
-    "excerpt": "Chemical fertilizer shipments from the region dropped to just 994,000 tons in September, compared with 3.41 million tons in the same month a year earlier, according to a senior manager of agriculture data at Kpler.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-10-31T23:38:07.646659+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779648/west-asia-fertilizer-exports-plunge-70-as-us-israeli-war-of-aggression-against-iran-disrupts-strait"
-  },
-  {
-    "id": "a1696d0386e7",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T19:18",
-    "headline": "Palestinians ‘Stealing their own olives’",
-    "excerpt": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-31T20:27:59.861299+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss"
-  },
-  {
-    "id": "8dbbc72eae2d",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T17:49",
-    "headline": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-    "excerpt": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-10-31T20:27:59.861326+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss"
-  },
-  {
-    "id": "df8bd27a1e08",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T17:29",
-    "headline": "Jerusalem Daily: Who will form Israel’s next government?",
-    "excerpt": "Netanyahu and Eisenkot are locked in a struggle to form a governing coalition in the Knesset.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-31T20:27:59.861353+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss"
-  },
-  {
-    "id": "5fd3a204aceb",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T16:28",
-    "headline": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
-    "excerpt": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-10-31T17:11:45.503467+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss"
-  },
-  {
-    "id": "6a85488623eb",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T14:31",
-    "headline": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-    "excerpt": "Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn&#039;t rule out attack, is ‘prepared for all scenarios’.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-10-31T17:11:45.503519+00:00",
-    "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss"
   }
 ]
