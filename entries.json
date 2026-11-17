@@ -1,5 +1,93 @@
 [
   {
+    "id": "9ea298464905",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T16:53",
+    "headline": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+    "excerpt": "The law targets the group&#039;s financing and activities as Houthis make advances in southwestern Yemen.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-11-17T17:32:55.476367+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss"
+  },
+  {
+    "id": "d3d26ae3c9aa",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T16:39",
+    "headline": "Photos: Tens of thousands rally in France over living standards and wages",
+    "excerpt": "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-17T17:32:55.476404+00:00",
+    "link": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss"
+  },
+  {
+    "id": "6eee59fd6df5",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T15:49",
+    "headline": "Jerusalem Daily: Deadly settler pogroms persist",
+    "excerpt": "A Palestinian woman was killed in a settler shooting near Jericho, while Arab MPs in Israel seek Netanyahu probe.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-11-17T17:32:55.476419+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss"
+  },
+  {
+    "id": "0451bbce903c",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T15:26",
+    "headline": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
+    "excerpt": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-11-17T17:32:55.476444+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss"
+  },
+  {
+    "id": "3d8e6c18ea0b",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T15:13",
+    "headline": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
+    "excerpt": "President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC",
+    "category": "Airstrike",
+    "location": "Iran",
+    "addedAt": "2026-11-17T17:32:55.476456+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss"
+  },
+  {
+    "id": "80e2b55284be",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T14:59",
+    "headline": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+    "excerpt": "A CNN report quoting unnamed US officials alleges Tehran is developing plans for an attack on officials in Washington.",
+    "category": "Airstrike",
+    "location": "Tehran",
+    "addedAt": "2026-11-17T17:32:55.476470+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss"
+  },
+  {
+    "id": "b9d13bb5453e",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T14:09",
+    "headline": "UK sanctions eight Israeli construction firms over West Bank settlements",
+    "excerpt": "Settler group also sanctioned for blocking Gaza aid as foreign secretary calls for &#039;protecting the two-state solution&#039;.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-11-17T17:32:55.476489+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss"
+  },
+  {
+    "id": "1756a7810439",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T13:29",
+    "headline": "‘Unprecedented’ Ukraine attack on Crimean bridge",
+    "excerpt": "Ukraine has struck the Kerch Bridge linking Russia to Russian-annexed Crimea for a second day.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-17T17:32:55.476523+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss"
+  },
+  {
     "id": "50ae1b4cbf36",
     "source": "Al Jazeera",
     "date": "2026-11-17T07:35",
@@ -5410,93 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-11-01T09:46:08.426721+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss"
-  },
-  {
-    "id": "76b390eb7d6d",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T08:18",
-    "headline": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
-    "excerpt": "New York City mayor says US president &#039;has agreed to grant her visa immediately&#039;.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-11-01T09:46:08.426745+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss"
-  },
-  {
-    "id": "aad6a930dc08",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T08:14",
-    "headline": "Iran security chief says US letter signals ‘positive’ shift",
-    "excerpt": "US Vice-President JD Vance has sent a letter to Iran’s security chief in a reported effort to revive talks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-11-01T09:46:08.426770+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss"
-  },
-  {
-    "id": "66307836a669",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T07:34",
-    "headline": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
-    "excerpt": "From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families&#039; hopes of return.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-01T09:46:08.426797+00:00",
-    "link": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "bf53c6d51a40",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T07:24",
-    "headline": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
-    "excerpt": "Doctors and nurses struggle to cope with the horrors they endured during the height of the Gaza war.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-11-01T09:46:08.426823+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/1/gaza-doctors-struggle-with-bereavement-overwork-trauma-amid-genocidal-war?traffic_source=rss"
-  },
-  {
-    "id": "5e139f9dd9c9",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T07:03",
-    "headline": "A Gulf non-aggression pact could be the path forward",
-    "excerpt": "Oman is in a unique position to mediate talks on a security arrangement that could stabilise the region.",
-    "category": "Diplomatic",
-    "location": "Oman",
-    "addedAt": "2026-11-01T09:46:08.426848+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/11/1/a-gulf-non-aggression-pact-could-be-the-path-forward?traffic_source=rss"
-  },
-  {
-    "id": "30d4d8c5e0a2",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T06:19",
-    "headline": "Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh",
-    "excerpt": "Mexican boxing star wins 12-round decision to defeat the French fighter and regain the super middleweight belt.",
-    "category": "Airstrike",
-    "location": "Riyadh",
-    "addedAt": "2026-11-01T09:46:08.426874+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss"
-  },
-  {
-    "id": "09b1980b4a41",
-    "source": "PressTV",
-    "date": "2026-11-01T09:46",
-    "headline": "Tehran Chamber chief says private sector shielding economy from US-Israeli war",
-    "excerpt": "Tehran Chamber chief praises domestic entrepreneurs for preventing supply chain collapse despite enemy strikes on industrial estates.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-11-01T09:46:12.093035+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/01/779682/tehran-chamber-chief-says-private-sector-shielding-economy-from-us-israeli-war"
-  },
-  {
-    "id": "19c3cc1990db",
-    "source": "PressTV",
-    "date": "2026-11-01T09:46",
-    "headline": "Deconstructing Iran’s new doctrine of retaliation without geographical limits as outlined by Leader",
-    "excerpt": "Leader of the Islamic Revolution’s new directive declares Iran will respond to any act of aggression 'without geographical limitations,' extending deterrence beyond West Asia and raising costs for Washington and Tel Aviv",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-01T09:46:12.093075+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/01/779673/deconstructing-irans-new-doctrine-of-retaliation-without-geographical-limits-as-outlined-by-leader"
   }
 ]
