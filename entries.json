@@ -1,5 +1,104 @@
 [
   {
+    "id": "50ae1b4cbf36",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T07:35",
+    "headline": "Bahrain thwarts drone attack, Iran claims targeting US military radar",
+    "excerpt": "This is a breaking news story.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-11-17T07:58:06.634288+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss"
+  },
+  {
+    "id": "f6aea3947acb",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T06:53",
+    "headline": "Will Netanyahu lose this time?",
+    "excerpt": "The Israeli prime minister has manoeuvred out of tough situations to retain power. But he may find it hard this time.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-17T07:58:06.634337+00:00",
+    "link": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss"
+  },
+  {
+    "id": "bb552f66624e",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T06:06",
+    "headline": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
+    "excerpt": "As Eisenkot’s bloc moves to form a government and courts the ultra-Orthodox, Gaza genocide and settler pogroms continue.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-17T07:58:06.634370+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss"
+  },
+  {
+    "id": "1636b97595eb",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T05:50",
+    "headline": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
+    "excerpt": "The ongoing Israeli assault continues to have disastrous consequences for the people of southern Lebanon.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-17T07:58:06.634398+00:00",
+    "link": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "9e15fe60aa71",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T04:00",
+    "headline": "Gunfire erupts in occupied West Bank settler attack",
+    "excerpt": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-17T07:58:06.634421+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss"
+  },
+  {
+    "id": "18c89b520917",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T03:12",
+    "headline": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+    "excerpt": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-11-17T07:58:06.634441+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss"
+  },
+  {
+    "id": "d0f386926b91",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T01:38",
+    "headline": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+    "excerpt": "Yemen&#039;s army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+    "category": "Airstrike",
+    "location": "Yemen",
+    "addedAt": "2026-11-17T07:58:06.634456+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
+  },
+  {
+    "id": "ff778bb3be81",
+    "source": "Al Jazeera",
+    "date": "2026-11-17T01:19",
+    "headline": "Irish court jails man for life over Dublin knife attack that sparked riots",
+    "excerpt": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
+    "category": "Casualties",
+    "location": "Oman",
+    "addedAt": "2026-11-17T07:58:06.634484+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss"
+  },
+  {
+    "id": "2f5bc7341f06",
+    "source": "Al Jazeera",
+    "date": "2026-11-16T23:57",
+    "headline": "Iran war live: Bahrain says it intercepted Iranian drone attack",
+    "excerpt": "Oil tankers continue to explode in the Strait of Hormuz as tensions ramp up over US military buildup in the Middle East.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-11-17T07:58:06.634500+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
     "id": "75279bc17d18",
     "source": "Al Jazeera",
     "date": "2026-11-16T23:00",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-11-01T09:46:12.093075+00:00",
     "link": "https://presstv.co.uk/Detail/2026/11/01/779673/deconstructing-irans-new-doctrine-of-retaliation-without-geographical-limits-as-outlined-by-leader"
-  },
-  {
-    "id": "3ebd9a4bcfb3",
-    "source": "PressTV",
-    "date": "2026-11-01T09:46",
-    "headline": "Iran Army warns any new US adventurism will expand geography of war",
-    "excerpt": "The Iranian Army warned that it is closely monitoring US movements in the region.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-11-01T09:46:12.093113+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779597/iran-army-warns-any-new-us-adventurism-will-expand-geography-of-war"
-  },
-  {
-    "id": "d852b6bec980",
-    "source": "PressTV",
-    "date": "2026-11-01T09:46",
-    "headline": "Araghchi warns Merz: Iran will no longer observe ‘red lines’ if attacked again",
-    "excerpt": "Araghchi said Iran’s powerful Armed Forces will inflict a devastating blow on anyone who dares to attack the Iranian nation.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-11-01T09:46:12.093135+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779588/araghchi-warns-merz-iran-will-no-longer-observe-red-lines-if-attacked-again"
-  },
-  {
-    "id": "d995debab6dc",
-    "source": "PressTV",
-    "date": "2026-11-01T09:46",
-    "headline": "Fresh anti-government protests erupt in Tirana, sparking clashes with police",
-    "excerpt": "The Albanian capital Tirana witnessed a new wave of anti-government protests.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-01T09:46:12.093155+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/01/779658/renewed-anti-government-protests-in-tirana-and-clashes-between-masked-protesters-and-police"
-  },
-  {
-    "id": "d7620becc38c",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T02:05",
-    "headline": "Thousands rally in Israel urging Eisenkot-Arab deal to remove Netanyahu",
-    "excerpt": "In a counterprotest, Netanyahu supporters demand that Israel should not have a government with &#039;terrorists&#039;.",
-    "category": "Diplomatic",
-    "location": "Israel",
-    "addedAt": "2026-11-01T02:37:50.987945+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss"
-  },
-  {
-    "id": "a5a2b4df9cdb",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T00:00",
-    "headline": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
-    "excerpt": "Top diplomat says Iran and Qatar have reached a plan to reopen Hormuz in two days if the US meets Tehran&#039;s conditions.",
-    "category": "Diplomatic",
-    "location": "Tehran",
-    "addedAt": "2026-11-01T02:37:50.988006+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "40c13b1d6110",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T23:45",
-    "headline": "ICE agent’s violent shove propels woman through the air",
-    "excerpt": "A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-11-01T02:37:50.988061+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss"
-  },
-  {
-    "id": "1680842aacfa",
-    "source": "PressTV",
-    "date": "2026-11-01T02:37",
-    "headline": "West Asia fertilizer exports plunge 70% as US-Israeli war disrupts Strait of Hormuz",
-    "excerpt": "Chemical fertilizer shipments from the region dropped to just 994,000 tons in September, compared with 3.41 million tons in the same month a year earlier, according to a senior manager of agriculture data at Kpler.",
-    "category": "Naval",
-    "location": "Israel",
-    "addedAt": "2026-11-01T02:37:54.496096+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779648/west-asia-fertilizer-exports-plunge-70-as-us-israeli-war-of-aggression-against-iran-disrupts-strait"
-  },
-  {
-    "id": "053fe6898606",
-    "source": "PressTV",
-    "date": "2026-11-01T02:37",
-    "headline": "Hormuz shipping traffic remains 70% below pre-war levels: Report",
-    "excerpt": "A UKMTO weekly assessment suggests shipping traffic is still 70% below pre-war levels in Strait of Hormuz.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-11-01T02:37:54.496140+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/10/31/779587/hormuz-shipping-traffic-remains-below-pre-war-levels"
-  },
-  {
-    "id": "a7ff46314a0e",
-    "source": "Al Jazeera",
-    "date": "2026-10-31T20:24",
-    "headline": "Israel’s allegations of Qatari election interference rejected",
-    "excerpt": "Israel’s allegations of Qatari election interference rejected",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-10-31T23:38:03.409395+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss"
   }
 ]
