@@ -1,5 +1,104 @@
 [
   {
+    "id": "08a1b2fb27db",
+    "source": "Al Jazeera",
+    "date": "2026-11-18T06:19",
+    "headline": "How the Houthis fund war effort and tighten grip on Yemen",
+    "excerpt": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
+    "category": "Other",
+    "location": "Yemen",
+    "addedAt": "2026-11-18T07:09:38.025238+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss"
+  },
+  {
+    "id": "fa409aa770d9",
+    "source": "Al Jazeera",
+    "date": "2026-11-18T05:24",
+    "headline": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
+    "excerpt": "The nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-18T07:09:38.025285+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss"
+  },
+  {
+    "id": "2750eb244ee7",
+    "source": "Al Jazeera",
+    "date": "2026-11-18T04:12",
+    "headline": "Australia issues sanctions targeting Israeli settlers",
+    "excerpt": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-11-18T07:09:38.025311+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss"
+  },
+  {
+    "id": "a79a7e743f0c",
+    "source": "Al Jazeera",
+    "date": "2026-11-18T04:01",
+    "headline": "Rubio rules out cyberattacks or links between tech outages",
+    "excerpt": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-11-18T07:09:38.025338+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss"
+  },
+  {
+    "id": "74bc0d80a7a6",
+    "source": "Al Jazeera",
+    "date": "2026-11-18T02:17",
+    "headline": "ICE agents shove and pepper-spray pregnant woman",
+    "excerpt": "An American woman was shoved to the ground and pepper-sprayed by ICE agents despite telling them she was pregnant.",
+    "category": "Other",
+    "location": "Oman",
+    "addedAt": "2026-11-18T07:09:38.025364+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss"
+  },
+  {
+    "id": "b50354458c2d",
+    "source": "Al Jazeera",
+    "date": "2026-11-18T01:32",
+    "headline": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+    "excerpt": "Daithi O&#039;Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-18T07:09:38.025400+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss"
+  },
+  {
+    "id": "b3a877e4d6b6",
+    "source": "Al Jazeera",
+    "date": "2026-11-18T01:31",
+    "headline": "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
+    "excerpt": "Rideshare driver Mohamed Yusuf is in a critical condition after he was allegedly assaulted by a passenger.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-18T07:09:38.025434+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/18/man-charged-over-brutal-attack-on-somali-american-in-minnesota?traffic_source=rss"
+  },
+  {
+    "id": "dd4b02686fc7",
+    "source": "Al Jazeera",
+    "date": "2026-11-18T01:07",
+    "headline": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+    "excerpt": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+    "category": "Diplomatic",
+    "location": "Gaza",
+    "addedAt": "2026-11-18T07:09:38.025463+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss"
+  },
+  {
+    "id": "17f3ca6f45c1",
+    "source": "Al Jazeera",
+    "date": "2026-11-18T01:04",
+    "headline": "Ecuadorian fishermen sue Trump administration over drone strike",
+    "excerpt": "Crew say their boat was attacked by drones launched from US-operated vessel as part of &#039;manifestly unlawful&#039; campaign.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-18T07:09:38.025484+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss"
+  },
+  {
     "id": "59bad38772f4",
     "source": "Al Jazeera",
     "date": "2026-11-17T23:38",
@@ -5399,104 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-11-01T20:51:17.084603+00:00",
     "link": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss"
-  },
-  {
-    "id": "e23e96f49623",
-    "source": "PressTV",
-    "date": "2026-11-01T20:51",
-    "headline": "Palestinians in West Bank demonstrate against forced displacement in al-Khalil",
-    "excerpt": "Residents displaced from their homes in the West Bank city of al-Khalil staged a demonstration outside an Israeli army checkpoint on Sunday.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-01T20:51:20.139308+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/01/779716/palestinians-in-west-bank-demonstrate-against-forced-displacement-in-al-khalil"
-  },
-  {
-    "id": "9d9097a1a754",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T16:24",
-    "headline": "Russia detains minor over alleged Moscow attack plot after US warning",
-    "excerpt": "Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-11-01T16:40:49.106913+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss"
-  },
-  {
-    "id": "c26dd9fd84d8",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T15:38",
-    "headline": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-    "excerpt": "Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-01T16:40:49.106945+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss"
-  },
-  {
-    "id": "2d7d3157aeb4",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T15:36",
-    "headline": "Serbia arrests police chief over abuse of office allegations",
-    "excerpt": "Belgrade&#039;s chief prosecutor says arrest of Marko Kricak &#039;has no link&#039; to elections that saw Aleksandar Vucic step down.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-11-01T16:40:49.106970+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss"
-  },
-  {
-    "id": "d209a3dd0d12",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T14:16",
-    "headline": "Israel election: When will government be formed, who will lead it?",
-    "excerpt": "President Herzog must tap candidate to form new government by November 11, with fraught negotiations likely to follow.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-01T16:40:49.106988+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss"
-  },
-  {
-    "id": "62bd981e6244",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T14:10",
-    "headline": "Israeli attacks on Gaza kill at least nine people",
-    "excerpt": "Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-11-01T16:40:49.106999+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss"
-  },
-  {
-    "id": "14dd7ccd8ee7",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T13:36",
-    "headline": "At least eight Palestinians killed in Israeli attacks across Gaza",
-    "excerpt": "Four-year-old among eight Palestinians killed in Israeli drone attacks across the Gaza Strip.",
-    "category": "Missile/Drone",
-    "location": "Israel",
-    "addedAt": "2026-11-01T16:40:49.107013+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
-  },
-  {
-    "id": "73e4cb33d744",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T13:25",
-    "headline": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
-    "excerpt": "As one of Lebanon&#039;s most vulnerable communities, Palestinians are struggling to make ends meet.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-11-01T16:40:49.107032+00:00",
-    "link": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss"
-  },
-  {
-    "id": "8e4ae74e8e69",
-    "source": "Al Jazeera",
-    "date": "2026-11-01T13:16",
-    "headline": "Qatar unveils countdown clock for 2027 Basketball World Cup",
-    "excerpt": "There&#039;s now fewer than 300 days until the 2027 FIBA Basketball World Cup in Qatar.",
-    "category": "Other",
-    "location": "Qatar",
-    "addedAt": "2026-11-01T16:40:49.107058+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/qatar-unveils-countdown-clock-for-2027-basketball-world-cup?traffic_source=rss"
   }
 ]
