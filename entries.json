@@ -1,5 +1,93 @@
 [
   {
+    "id": "a12f63472cee",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T12:11",
+    "headline": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
+    "excerpt": "Vladimir Putin&#039;s special briefcase - thought to carry access to nuclear weapons - made a rare appearance in Shenzhen.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-11-19T13:27:39.058895+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss"
+  },
+  {
+    "id": "27ddc2888c54",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T11:38",
+    "headline": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+    "excerpt": "Trump threatens to &#039;wipe out&#039; Iran in case of attack as Tehran&#039;s capabilities remain unclear.",
+    "category": "Other",
+    "location": "Tehran",
+    "addedAt": "2026-11-19T13:27:39.058944+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss"
+  },
+  {
+    "id": "706397245b8e",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T11:09",
+    "headline": "Denmark parliament approves security deal with Greenland and US",
+    "excerpt": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump&#039;s desire to annex the Arctic island.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-11-19T13:27:39.058984+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss"
+  },
+  {
+    "id": "40611ca0abdb",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T10:05",
+    "headline": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
+    "excerpt": "With two million Palestinians confined to an area of less than 130sq km, UN-backed Gaza peace plan has collapsed.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-19T13:27:39.059020+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss"
+  },
+  {
+    "id": "ae6e8e14a081",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T10:03",
+    "headline": "Trump calls for nuclear arms reduction at APEC summit",
+    "excerpt": "Trump calls for nuclear arms reduction at APEC summit",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-11-19T13:27:39.059050+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss"
+  },
+  {
+    "id": "c9d9281b8fbb",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T09:16",
+    "headline": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+    "excerpt": "North Korea can produce both highly enriched uranium and weapons-grade plutonium at its facilities, according to IAEA.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-19T13:27:39.059090+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss"
+  },
+  {
+    "id": "b8caddc5e416",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T08:19",
+    "headline": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+    "excerpt": "Material damage was reported after ​debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
+    "category": "Missile/Drone",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-11-19T13:27:39.059114+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss"
+  },
+  {
+    "id": "4870c1ac56be",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T07:52",
+    "headline": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+    "excerpt": "Hegseth&#039;s new military deal with Venezuela raises questions about US influence, regional security and Maduro&#039;s removal.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-11-19T13:27:39.059159+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss"
+  },
+  {
     "id": "39f99bf7d44b",
     "source": "Al Jazeera",
     "date": "2026-11-19T02:10",
@@ -5410,93 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-11-03T19:25:06.744692+00:00",
     "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss"
-  },
-  {
-    "id": "4df2b4104a40",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T10:40",
-    "headline": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
-    "excerpt": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-03T11:57:45.416853+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss"
-  },
-  {
-    "id": "92d428bae4b5",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T10:39",
-    "headline": "US conducts series of ‘defensive strikes’ against Iran",
-    "excerpt": "The US has carried out a series of ‘defensive strikes’ on Iranian locations near Hormuz, with explosions heard on Qeshm.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-03T11:57:45.416895+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss"
-  },
-  {
-    "id": "7a9cf2c03580",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T10:29",
-    "headline": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-    "excerpt": "Sudan demands UN accountability after devastating drone attacks expose a complex regional crisis.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-11-03T11:57:45.416919+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia?traffic_source=rss"
-  },
-  {
-    "id": "c3c3423735d3",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T10:18",
-    "headline": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
-    "excerpt": "Medical facility was struck by Russian ballistic missiles and aerial bombs overnight.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-11-03T11:57:45.416937+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants?traffic_source=rss"
-  },
-  {
-    "id": "8d224fc11222",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T10:17",
-    "headline": "Lebanon cuts power to public bodies as electricity crisis deepens",
-    "excerpt": "Political disputes and war worsen Lebanon&#039;s electricity crisis, as experts say deeper reforms are necessary.",
-    "category": "Other",
-    "location": "Lebanon",
-    "addedAt": "2026-11-03T11:57:45.416960+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss"
-  },
-  {
-    "id": "2efd364d2e08",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T03:53",
-    "headline": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
-    "excerpt": "Israeli soldiers blindfolded, handcuffed and arrested Al Jazeera correspondent Montaser Nassar during a raid on his home",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-03T04:03:25.968378+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss"
-  },
-  {
-    "id": "8e923a142ea7",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T02:25",
-    "headline": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-    "excerpt": "Several explosions heard in Qeshm Island and Bandar Lengeh, as US media say the US military carried out the strikes.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-03T04:03:25.968431+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "c995e4ab1192",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T01:17",
-    "headline": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
-    "excerpt": "At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-11-03T04:03:25.968475+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss"
   }
 ]
