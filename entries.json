@@ -1,5 +1,60 @@
 [
   {
+    "id": "39c4c7325aa1",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T21:09",
+    "headline": "Ten killed in Pakistan as bus crashes into gas tanker",
+    "excerpt": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-19T21:44:17.246901+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss"
+  },
+  {
+    "id": "8af2d7f466bc",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T20:58",
+    "headline": "Jerusalem Daily: Israel launches ground offensive in Gaza",
+    "excerpt": "Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-19T21:44:17.246945+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss"
+  },
+  {
+    "id": "7c5ca77ccca6",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T20:30",
+    "headline": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+    "excerpt": "The resolution was defeated 51-48. Three Republicans broke rank, voting for the measure.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-19T21:44:17.246974+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "8d4eba06338e",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T19:23",
+    "headline": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+    "excerpt": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-19T21:44:17.247001+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss"
+  },
+  {
+    "id": "2e9b12c03d40",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T19:01",
+    "headline": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+    "excerpt": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-19T21:44:17.247024+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss"
+  },
+  {
     "id": "a12f63472cee",
     "source": "Al Jazeera",
     "date": "2026-11-19T12:11",
@@ -5443,60 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-11-03T19:25:06.744545+00:00",
     "link": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss"
-  },
-  {
-    "id": "90b07fe001a2",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T16:22",
-    "headline": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
-    "excerpt": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts.",
-    "category": "Diplomatic",
-    "location": "Abu Dhabi",
-    "addedAt": "2026-11-03T19:25:06.744573+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss"
-  },
-  {
-    "id": "966ea406aac4",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T15:47",
-    "headline": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-    "excerpt": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
-    "category": "Other",
-    "location": "Syria",
-    "addedAt": "2026-11-03T19:25:06.744605+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss"
-  },
-  {
-    "id": "0b1ef8bb5706",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T15:00",
-    "headline": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
-    "excerpt": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-03T19:25:06.744631+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss"
-  },
-  {
-    "id": "d6a7920d9813",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T14:58",
-    "headline": "Global food security is under threat",
-    "excerpt": "Attacks on grain shipments from Russia and Ukraine may drive up food prices, hitting import-dependent countries hardest.",
-    "category": "Naval",
-    "location": "Unknown",
-    "addedAt": "2026-11-03T19:25:06.744654+00:00",
-    "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss"
-  },
-  {
-    "id": "13c1e4187fcc",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T14:30",
-    "headline": "From Italy to Canada, how the UK’s Palestine Action group went global",
-    "excerpt": "The banned UK group, which targets Israel&#039;s war machine, has inspired activists in Europe and beyond.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-03T19:25:06.744692+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss"
   }
 ]
