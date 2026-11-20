@@ -1,5 +1,60 @@
 [
   {
+    "id": "4bf256e181f5",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T00:31",
+    "headline": "Haiti police say 34 gang members killed in capital raid",
+    "excerpt": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-20T02:40:03.458566+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss"
+  },
+  {
+    "id": "5ecedd568b80",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T23:58",
+    "headline": "Iran war live: Houthis escalate attacks on Saudi capital",
+    "excerpt": "Houthi missile fire has rocked Riyadh&#039;s financial centre as the Iran war leaves &#039;lasting marks&#039; on global energy.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-11-20T02:40:03.458603+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss"
+  },
+  {
+    "id": "2bd91c1fd093",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T23:09",
+    "headline": "Six killed in suspected gas explosion at Georgia apartment building",
+    "excerpt": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-20T02:40:03.458639+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss"
+  },
+  {
+    "id": "9c4ca1cb737d",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T22:58",
+    "headline": "Mosque torched in Israel sparks political backlash against Netanyahu",
+    "excerpt": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-20T02:40:03.458674+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss"
+  },
+  {
+    "id": "27ec134aaaa6",
+    "source": "Al Jazeera",
+    "date": "2026-11-19T21:39",
+    "headline": "Haiti police say at least 34 suspected gang members killed in raid",
+    "excerpt": "Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-20T02:40:03.458704+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss"
+  },
+  {
     "id": "39c4c7325aa1",
     "source": "Al Jazeera",
     "date": "2026-11-19T21:09",
@@ -5443,60 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-11-03T19:25:06.744409+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss"
-  },
-  {
-    "id": "9aa7588daa17",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T17:26",
-    "headline": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
-    "excerpt": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-03T19:25:06.744447+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss"
-  },
-  {
-    "id": "f7451fca7578",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T17:24",
-    "headline": "Russian strikes on Dnipro kill two, injure 20 others",
-    "excerpt": "Russian strikes on Dnipro damaged residential areas and several medical facilities.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-11-03T19:25:06.744476+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss"
-  },
-  {
-    "id": "55f9dbbea0d1",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T17:03",
-    "headline": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-    "excerpt": "Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-11-03T19:25:06.744499+00:00",
-    "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss"
-  },
-  {
-    "id": "39e55934b9fd",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T16:49",
-    "headline": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
-    "excerpt": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government..",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-11-03T19:25:06.744519+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss"
-  },
-  {
-    "id": "64113321c290",
-    "source": "Al Jazeera",
-    "date": "2026-11-03T16:39",
-    "headline": "Opposition party organiser killed before South Africa elections",
-    "excerpt": "Police are investigating the motive in murder of MKP coordinator as political killings rise during municipal elections.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-11-03T19:25:06.744545+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss"
   }
 ]
