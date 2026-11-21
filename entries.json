@@ -1,5 +1,71 @@
 [
   {
+    "id": "90ef4cd0ec3d",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T20:56",
+    "headline": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+    "excerpt": "Iran&#039;s foreign minister says reopening the strait is &#039;not difficult&#039; if the US accepts reasonable conditions.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-11-21T21:12:35.325945+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss"
+  },
+  {
+    "id": "65f93b74ff9e",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T18:42",
+    "headline": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+    "excerpt": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-21T21:12:35.325975+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss"
+  },
+  {
+    "id": "53cceeae5584",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T18:05",
+    "headline": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+    "excerpt": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-11-21T21:12:35.325999+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss"
+  },
+  {
+    "id": "535c8af5f325",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T17:54",
+    "headline": "Israeli strike hits food aid vehicle in Gaza, killing three",
+    "excerpt": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-11-21T21:12:35.326012+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss"
+  },
+  {
+    "id": "25f158a247b0",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T17:20",
+    "headline": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+    "excerpt": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-21T21:12:35.326029+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss"
+  },
+  {
+    "id": "7ac36b673d07",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T15:46",
+    "headline": "French presidential candidate blames media for racist attack",
+    "excerpt": "French presidential candidate blames media for racist attack",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-21T21:12:35.326053+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss"
+  },
+  {
     "id": "e420f36add8e",
     "source": "Al Jazeera",
     "date": "2026-11-21T15:01",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-11-05T16:41:31.633336+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss"
-  },
-  {
-    "id": "ea81c0dae9e1",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T14:45",
-    "headline": "Can Iran’s new supreme leader make peace from behind the scenes?",
-    "excerpt": "Mojtaba Khamenei’s consultations suggest a new system of decision-making is taking shape.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-05T16:41:31.633388+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss"
-  },
-  {
-    "id": "1c6a5ea48986",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T14:30",
-    "headline": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
-    "excerpt": "Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey.",
-    "category": "Airstrike",
-    "location": "Gaza",
-    "addedAt": "2026-11-05T16:41:31.633418+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss"
-  },
-  {
-    "id": "7b01023b32d8",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T14:19",
-    "headline": "Could the US midterms further isolate Israel in Washington?",
-    "excerpt": "The midterms showed that challenging support for Israel can win votes. But changing US foreign policy may be harder.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-05T16:41:31.633451+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss"
-  },
-  {
-    "id": "328052d56893",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T14:17",
-    "headline": "Burning rubbish chokes besieged Yemeni city of Taiz",
-    "excerpt": "Taiz residents face health risks as waste accumulates amid sniper fire, forcing people to burn it in the streets.",
-    "category": "Other",
-    "location": "Yemen",
-    "addedAt": "2026-11-05T16:41:31.633482+00:00",
-    "link": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss"
-  },
-  {
-    "id": "c24d95f12ff6",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T14:15",
-    "headline": "Joint List says it will back Eisenkot to form Israel’s next government",
-    "excerpt": "Arab-led parties won a record 19 seats in Israel&#039;s 120-seat parliament in last week&#039;s general election.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-05T16:41:31.633523+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss"
-  },
-  {
-    "id": "5b1296dc2326",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T13:28",
-    "headline": "Police bodycam captures moments before deadly Russian strike in Ukraine",
-    "excerpt": "Bodycam footage released by Ukraine’s National Police shows people rushing into an underground shelter.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-11-05T16:41:31.633557+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss"
   }
 ]
