@@ -1,5 +1,104 @@
 [
   {
+    "id": "e420f36add8e",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T15:01",
+    "headline": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+    "excerpt": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-11-21T15:39:47.057423+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss"
+  },
+  {
+    "id": "9ec4a20f5d8f",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T14:15",
+    "headline": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+    "excerpt": "Iran&#039;s FM Araghchi says there is &#039;major strategic debate&#039; about the future of Iran&#039;s nuclear doctrine.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-21T15:39:47.057460+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss"
+  },
+  {
+    "id": "ddbbd4d6f1a6",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T14:06",
+    "headline": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+    "excerpt": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+    "category": "Casualties",
+    "location": "Gaza",
+    "addedAt": "2026-11-21T15:39:47.057475+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss"
+  },
+  {
+    "id": "682df0de6e65",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T12:45",
+    "headline": "Rescue efforts under way as drones hit Russian ship off Finland coast",
+    "excerpt": "Two drones attack a cargo ship that Finnish authorities say has links to Russia&#039;s armed forces.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-21T15:39:47.057491+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss"
+  },
+  {
+    "id": "1f8954453035",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T12:29",
+    "headline": "Israeli attacks on Gaza kill at least four Palestinians",
+    "excerpt": "Israeli drone attack kills three people in Gaza City; another is shot dead by Israeli forces in Jabalia.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-11-21T15:39:47.057502+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "b5996b29aa3a",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T11:53",
+    "headline": "Mexico captures FBI-wanted cartel boss in military raid",
+    "excerpt": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-21T15:39:47.057544+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss"
+  },
+  {
+    "id": "7b9c9f063c3a",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T11:02",
+    "headline": "Russian missiles hit Poland: What happened, and could NATO respond?",
+    "excerpt": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO&#039;s collective defence clause remains high.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-21T15:39:47.057560+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss"
+  },
+  {
+    "id": "6ef772bab062",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T11:02",
+    "headline": "Deadly fire engulfs power station in southern Iraq",
+    "excerpt": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
+    "category": "Casualties",
+    "location": "Iraq",
+    "addedAt": "2026-11-21T15:39:47.057584+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss"
+  },
+  {
+    "id": "2f5bdb7426e3",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T10:38",
+    "headline": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
+    "excerpt": "Palestinians fear forced displacement as Israeli authorities target legally licensed homes in West Bank.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-21T15:39:47.057603+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss"
+  },
+  {
     "id": "8d9fa6f3f60d",
     "source": "Al Jazeera",
     "date": "2026-11-21T07:25",
@@ -5399,104 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-11-05T16:41:31.633557+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "03cf8e97cd66",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T13:04",
-    "headline": "Four people, including a child, killed in Israeli attacks on Gaza",
-    "excerpt": "Gaza officials say more than 1,600 Palestinians have been killed since the so-called &#039;ceasefire&#039; took effect.",
-    "category": "Casualties",
-    "location": "Israel",
-    "addedAt": "2026-11-05T16:41:31.633590+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
-  },
-  {
-    "id": "8876d296c9d1",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T07:44",
-    "headline": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
-    "excerpt": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-05T08:25:57.815032+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss"
-  },
-  {
-    "id": "145c52760a85",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T05:39",
-    "headline": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
-    "excerpt": "Netanyahu&#039;s rivals say US midterm results show Israel &#039;cannot afford&#039; to have the prime minister remain in office.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-05T08:25:57.815074+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss"
-  },
-  {
-    "id": "f8379b66a4cf",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T03:46",
-    "headline": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
-    "excerpt": "Defence cooperation deal signed as Syria&#039;s President al-Sharaa visits Riyadh for the second time in less than a month.",
-    "category": "Diplomatic",
-    "location": "Syria",
-    "addedAt": "2026-11-05T08:25:57.815098+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss"
-  },
-  {
-    "id": "768fa2ac448c",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T02:52",
-    "headline": "Former Israeli generals help Palestinian olive farmers",
-    "excerpt": "A group of former Israeli military generals offered their help to Palestinian olive farmers in the occupied West Bank.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-05T08:25:57.815119+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss"
-  },
-  {
-    "id": "d6f0b0ceac90",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T02:10",
-    "headline": "El Salvador’s Bukele touts military intervention in Haiti",
-    "excerpt": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-11-05T08:25:57.815144+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss"
-  },
-  {
-    "id": "a57c67ff2673",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T00:25",
-    "headline": "Democrats won Congress. But can they deliver on their promises?",
-    "excerpt": "Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-05T01:28:44.301547+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss"
-  },
-  {
-    "id": "497df683d20a",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T00:00",
-    "headline": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
-    "excerpt": "President Trump admits Iran war &#039;largely&#039; caused Republicans&#039; US election wipeout, but says he &#039;had to do it&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-05T01:28:44.301600+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss"
-  },
-  {
-    "id": "97bd55c6bbcb",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T23:34",
-    "headline": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
-    "excerpt": "A giant banner depicting US President Donald Trump and Israel’s Prime Minister Benjamin Netanyahu was burnt in Tehran",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-11-05T01:28:44.301636+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss"
   }
 ]
