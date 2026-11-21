@@ -1,5 +1,137 @@
 [
   {
+    "id": "a9f6496a5b9f",
+    "source": "Al Jazeera",
+    "date": "2026-11-21T00:00",
+    "headline": "Iran war live: Saudi-led coalition downs Houthi missiles",
+    "excerpt": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-11-21T00:41:26.569079+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss"
+  },
+  {
+    "id": "f501dfc740bc",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T23:20",
+    "headline": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+    "excerpt": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-21T00:41:26.569119+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss"
+  },
+  {
+    "id": "4ee965aacf70",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T21:28",
+    "headline": "Iraq PM targets militia stronghold in bid to assert state control",
+    "excerpt": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
+    "category": "Statement",
+    "location": "Iraq",
+    "addedAt": "2026-11-21T00:41:26.569145+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss"
+  },
+  {
+    "id": "561c5fc71f19",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T21:05",
+    "headline": "Trump defends Putin relationship, warns AI data centres must stay in US",
+    "excerpt": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-11-21T00:41:26.569163+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss"
+  },
+  {
+    "id": "aaaf7dbb04a1",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T20:59",
+    "headline": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+    "excerpt": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-21T00:41:26.569183+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss"
+  },
+  {
+    "id": "6cb4ddff79f3",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T20:45",
+    "headline": "Gaza’s displaced children celebrate World Children’s Day",
+    "excerpt": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-21T00:41:26.569210+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss"
+  },
+  {
+    "id": "16c7e9ebaa9d",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T20:30",
+    "headline": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+    "excerpt": "Tallinn&#039;s decision to shut road border crossings comes after an attack on a drone manufacturer.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-21T00:41:26.569231+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss"
+  },
+  {
+    "id": "ced23ec228aa",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T20:14",
+    "headline": "Israeli drone attacks kill seven Palestinians in central Gaza",
+    "excerpt": "Drones cause &#039;fear and panic&#039; among Palestinians as Israel continues attacks on the Strip despite &#039;ceasefire&#039;.",
+    "category": "Missile/Drone",
+    "location": "Israel",
+    "addedAt": "2026-11-21T00:41:26.569252+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss"
+  },
+  {
+    "id": "6a47c5520f0c",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T20:03",
+    "headline": "Nepali cricket fans in Qatar want to see their team competing with the best",
+    "excerpt": "As thousands from Qatar&#039;s Nepali community watch their team play, they hope that the team will rise in global rankings.",
+    "category": "Other",
+    "location": "Qatar",
+    "addedAt": "2026-11-21T00:41:26.569275+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss"
+  },
+  {
+    "id": "c54f7e2172e3",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T19:57",
+    "headline": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+    "excerpt": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-21T00:41:26.569301+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss"
+  },
+  {
+    "id": "bd80e5eb5f10",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T19:15",
+    "headline": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+    "excerpt": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-21T00:41:26.569326+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss"
+  },
+  {
+    "id": "4da26af1a544",
+    "source": "Al Jazeera",
+    "date": "2026-11-20T19:12",
+    "headline": "What are the implications of the ICJ Rohingya genocide ruling?",
+    "excerpt": "Verdict against Myanmar may have implications for Israel&#039;s genocide in Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-21T00:41:26.569345+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss"
+  },
+  {
     "id": "e7935fc2a3e8",
     "source": "Al Jazeera",
     "date": "2026-11-20T17:18",
@@ -5366,137 +5498,5 @@
     "location": "Unknown",
     "addedAt": "2026-11-04T21:09:51.396234+00:00",
     "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss"
-  },
-  {
-    "id": "4c538548e6be",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T20:25",
-    "headline": "Will the US resume its attacks on Iran?",
-    "excerpt": "Tehran says it&#039;s ready with a maximum deterrence plan.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-11-04T21:09:51.396274+00:00",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "2219c31b2c0e",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T19:59",
-    "headline": "Iranians celebrate Democrat victory in US midterms",
-    "excerpt": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-04T21:09:51.396309+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss"
-  },
-  {
-    "id": "c365e5c35225",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T19:22",
-    "headline": "WHO approves trials for two new Ebola vaccines",
-    "excerpt": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-11-04T21:09:51.396335+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss"
-  },
-  {
-    "id": "45de11ad6771",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T17:41",
-    "headline": "Netanyahu bet on Trump – but both lost",
-    "excerpt": "Israel&#039;s political establishment grapples with US voter rejection of White House ally and own contribution towards it.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-04T21:09:51.396368+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss"
-  },
-  {
-    "id": "65aa1c2a2109",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T17:18",
-    "headline": "Presidential hopeful Vance appears to question Iran war after polls debacle",
-    "excerpt": "Vance cited trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-04T21:09:51.396402+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss"
-  },
-  {
-    "id": "f26a38a8bfdc",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T17:14",
-    "headline": "Palestinian citizens of Israel face intimidation after election success",
-    "excerpt": "After winning a record number of parliament seats, Palestinian-led parties face campaign against them.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-04T21:09:51.396432+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss"
-  },
-  {
-    "id": "ddf20688913b",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T17:05",
-    "headline": "Owono enduring ‘hardest days of my life’ after De Miguel death",
-    "excerpt": "Tenerife striker De Miguel died on Tuesday as a result of injuries from a collision with FC Andorra goalkeeper Owono.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-11-04T21:09:51.396483+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss"
-  },
-  {
-    "id": "297acad854ef",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T17:05",
-    "headline": "The new Congress may struggle to push a progressive agenda",
-    "excerpt": "Major change on key issues, such as Israel-Palestine, will be limited by the president and the Democratic establishment.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-04T21:09:51.396512+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss"
-  },
-  {
-    "id": "beebd6c00a7e",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T16:37",
-    "headline": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
-    "excerpt": "Tehran rallies see slogans, flag burnings and claims of US-Israeli defeats amid historic embassy takeover anniversary.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-11-04T21:09:51.396540+00:00",
-    "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss"
-  },
-  {
-    "id": "53cabed76af2",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T16:20",
-    "headline": "Ukrainian strikes kill three in Russia’s Belgorod region",
-    "excerpt": "Russian strikes also cut power to Ukrainian cities as Moscow claims 700 Ukrainian drones downed across multiple regions.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-11-04T21:09:51.396568+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss"
-  },
-  {
-    "id": "db5006024a1a",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T14:08",
-    "headline": "Yemeni government forces claim control of strategic al-Jawf mountain range",
-    "excerpt": "The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz.",
-    "category": "Movement",
-    "location": "Yemen",
-    "addedAt": "2026-11-04T14:49:33.782377+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss"
-  },
-  {
-    "id": "8380b4e8d720",
-    "source": "Al Jazeera",
-    "date": "2026-11-04T13:40",
-    "headline": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
-    "excerpt": "Israeli settlers have expanded in Hebron&#039;s Old City, with Palestinian residents&#039; presence under threat.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-04T14:49:33.782431+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss"
   }
 ]
