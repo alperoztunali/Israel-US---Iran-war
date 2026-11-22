@@ -1,5 +1,115 @@
 [
   {
+    "id": "a85603726e85",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T15:24",
+    "headline": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+    "excerpt": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-22T16:40:00.721771+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss"
+  },
+  {
+    "id": "7679bf61295e",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T15:03",
+    "headline": "Drone attacks kill four near Sudan’s capital, damage UN building",
+    "excerpt": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum&#039;s airport.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-22T16:40:00.721819+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss"
+  },
+  {
+    "id": "863773d337f0",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T14:48",
+    "headline": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+    "excerpt": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-22T16:40:00.721847+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss"
+  },
+  {
+    "id": "1a7635e3c9b9",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T14:30",
+    "headline": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+    "excerpt": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-22T16:40:00.721878+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss"
+  },
+  {
+    "id": "72b2576516cc",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T14:20",
+    "headline": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+    "excerpt": "Military officials tour underground facility in show of military capabilities despite US attacks.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-11-22T16:40:00.721900+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss"
+  },
+  {
+    "id": "807688bdf4c9",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T14:00",
+    "headline": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
+    "excerpt": "Baghdad&#039;s deal with Kataib Hezbollah may not end the Iran-backed militia&#039;s influence over the town.",
+    "category": "Diplomatic",
+    "location": "Iran",
+    "addedAt": "2026-11-22T16:40:00.721935+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss"
+  },
+  {
+    "id": "92965de8fcbe",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T13:35",
+    "headline": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
+    "excerpt": "Laila Abdulaziz fought society to become a pioneering Kuwaiti female musician.",
+    "category": "Other",
+    "location": "Doha",
+    "addedAt": "2026-11-22T16:40:00.721968+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss"
+  },
+  {
+    "id": "4eeaf16b71ea",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T13:16",
+    "headline": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+    "excerpt": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
+    "category": "Missile/Drone",
+    "location": "Saudi Arabia",
+    "addedAt": "2026-11-22T16:40:00.721999+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss"
+  },
+  {
+    "id": "494090e44520",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T13:15",
+    "headline": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+    "excerpt": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-22T16:40:00.722029+00:00",
+    "link": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss"
+  },
+  {
+    "id": "ea412f4bdd93",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T12:31",
+    "headline": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+    "excerpt": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-22T16:40:00.722056+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss"
+  },
+  {
     "id": "f53fde83e592",
     "source": "Al Jazeera",
     "date": "2026-11-22T07:59",
@@ -5388,115 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-11-06T09:56:47.071828+00:00",
     "link": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss"
-  },
-  {
-    "id": "a71d38782882",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T07:28",
-    "headline": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
-    "excerpt": "Israeli restrictions on teachers and pressure to adopt Israeli curriculum threaten Palestinian education in the city.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-06T09:56:47.071856+00:00",
-    "link": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss"
-  },
-  {
-    "id": "b8fe9d24324b",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T07:09",
-    "headline": "Israel’s President Herzog to name candidate to form government on Sunday",
-    "excerpt": "Announcement comes after majority of Israeli lawmakers endorse Eisenkot over Netanyahu.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-06T09:56:47.071883+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss"
-  },
-  {
-    "id": "4c5d088ff398",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T06:06",
-    "headline": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
-    "excerpt": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
-    "category": "Naval",
-    "location": "Tehran",
-    "addedAt": "2026-11-06T09:56:47.071901+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss"
-  },
-  {
-    "id": "b9f0ed9536c8",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T05:59",
-    "headline": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
-    "excerpt": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-06T09:56:47.071929+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss"
-  },
-  {
-    "id": "270180866637",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T05:00",
-    "headline": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
-    "excerpt": "Call comes as Iraq&#039;s top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-11-06T09:56:47.071952+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "fb8a0261c7f8",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T04:30",
-    "headline": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
-    "excerpt": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-06T09:56:47.071985+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss"
-  },
-  {
-    "id": "bfee19b748fd",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T02:03",
-    "headline": "Gaza turns discarded cooking pots into seawalls",
-    "excerpt": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-11-06T02:44:46.918465+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss"
-  },
-  {
-    "id": "1f9cce17530e",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T00:19",
-    "headline": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
-    "excerpt": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-06T02:44:46.918514+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss"
-  },
-  {
-    "id": "828a88965871",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T00:15",
-    "headline": "Turkiye’s parliament ratifies Mecca defence agreement",
-    "excerpt": "Parliament&#039;s approval lays the groundwork for further Turkish involvement in Saudi Arabia&#039;s conflict with the Houthis.",
-    "category": "Diplomatic",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-11-06T02:44:46.918555+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss"
-  },
-  {
-    "id": "a6486ea91280",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T00:00",
-    "headline": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
-    "excerpt": "Trump says the US may have to &#039;destroy&#039; the rest of Iran, adding that people will &#039;know soon enough&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-06T02:44:46.918595+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss"
   }
 ]
