@@ -1,5 +1,71 @@
 [
   {
+    "id": "f53fde83e592",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T07:59",
+    "headline": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+    "excerpt": "Dashcam video captured the moment a missile struck a residential neighbourhood in Lviv, western Ukraine.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-22T08:39:48.501580+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "4ef00e5f56d3",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T06:59",
+    "headline": "Why Somalia’s president turned against his former ally, the UAE",
+    "excerpt": "Behind Somalia&#039;s break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
+    "category": "Other",
+    "location": "Abu Dhabi",
+    "addedAt": "2026-11-22T08:39:48.501623+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss"
+  },
+  {
+    "id": "516b3cce98d4",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T03:34",
+    "headline": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+    "excerpt": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-22T08:39:48.501650+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss"
+  },
+  {
+    "id": "c14e00fa9173",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T02:14",
+    "headline": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+    "excerpt": "Israeli forces continue to destroy residential buildings as part of a &#039;gradual displacement&#039; policy, a Gaza mayor says.",
+    "category": "Airstrike",
+    "location": "Israel",
+    "addedAt": "2026-11-22T08:39:48.501660+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "bf42c468f821",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T02:05",
+    "headline": "Bessent confirms he’s living on US military base over Iran fears",
+    "excerpt": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-22T08:39:48.501684+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss"
+  },
+  {
+    "id": "4380f1a1ab0b",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T01:07",
+    "headline": "Moviegoers head for the exits as quake strikes Peru",
+    "excerpt": "Moviegoers head for the exits as quake strikes Peru",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-22T08:39:48.501705+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss"
+  },
+  {
     "id": "d2f9ebe33e75",
     "source": "Al Jazeera",
     "date": "2026-11-21T23:59",
@@ -5432,71 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-11-06T02:44:46.918595+00:00",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss"
-  },
-  {
-    "id": "d5f6946a2dbb",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T21:49",
-    "headline": "Generation Z and young voters help redefine US politics after midterms",
-    "excerpt": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-11-06T02:44:46.918632+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss"
-  },
-  {
-    "id": "1e816524d510",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T21:49",
-    "headline": "Generation Z and diversity redefine US politics in groundbreaking election",
-    "excerpt": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-11-05T22:21:58.517651+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss"
-  },
-  {
-    "id": "35a3dcf3eee1",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T21:42",
-    "headline": "Spanish footballer Jesus de Miguel mourned by family and friends",
-    "excerpt": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-11-05T22:21:58.517704+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss"
-  },
-  {
-    "id": "6d7856472133",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T21:33",
-    "headline": "Israeli demolitions displace more than 100 Palestinians in Biddu",
-    "excerpt": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-11-05T22:21:58.517736+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss"
-  },
-  {
-    "id": "6d4f36893186",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T20:48",
-    "headline": "Saudi coalition intercepts missile fired towards Medina",
-    "excerpt": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-11-05T22:21:58.517764+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss"
-  },
-  {
-    "id": "ebdd321855cf",
-    "source": "Al Jazeera",
-    "date": "2026-11-05T20:11",
-    "headline": "Mass protests in France driven by nationwide strike action",
-    "excerpt": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
-    "category": "Statement",
-    "location": "Unknown",
-    "addedAt": "2026-11-05T22:21:58.517800+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss"
   }
 ]
