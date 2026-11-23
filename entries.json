@@ -1,5 +1,82 @@
 [
   {
+    "id": "addd47b2d5a2",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T23:49",
+    "headline": "Drone attack on Colombia police base injures civilians, including infant",
+    "excerpt": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-23T23:56:29.559242+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss"
+  },
+  {
+    "id": "df73480364c6",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T23:26",
+    "headline": "EU plans sports ban in sweeping new Russia sanctions proposal",
+    "excerpt": "Proposed sanctions aim to curb Russian crypto financing and &#039;propaganda&#039; in sports.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-11-23T23:56:29.559292+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss"
+  },
+  {
+    "id": "ff8863586897",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T21:30",
+    "headline": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+    "excerpt": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran&#039;s global financial activities.",
+    "category": "Diplomatic",
+    "location": "Tehran",
+    "addedAt": "2026-11-23T23:56:29.559330+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss"
+  },
+  {
+    "id": "25b38c9b5bdf",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T21:19",
+    "headline": "Israel’s southern Syria incursion triggers fear and destruction",
+    "excerpt": "Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-23T23:56:29.559366+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss"
+  },
+  {
+    "id": "b141444a7064",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T20:41",
+    "headline": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+    "excerpt": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-23T23:56:29.559395+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss"
+  },
+  {
+    "id": "ae83e280d666",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T20:26",
+    "headline": "Iran hits US bases and civilian sites in the Gulf after a lull",
+    "excerpt": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.",
+    "category": "Naval",
+    "location": "Tehran",
+    "addedAt": "2026-11-23T23:56:29.559422+00:00",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss"
+  },
+  {
+    "id": "0cc279f3a40e",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T19:20",
+    "headline": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+    "excerpt": "Moscow accuses Tallinn of &#039;hostile actions&#039; citing border closure and claiming it is allowing Ukraine to launch attacks.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-23T23:56:29.559463+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss"
+  },
+  {
     "id": "f2bdbcfec42a",
     "source": "Al Jazeera",
     "date": "2026-11-23T11:10",
@@ -5421,82 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-11-07T15:35:34.552350+00:00",
     "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss"
-  },
-  {
-    "id": "3c81acc90826",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T11:59",
-    "headline": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-    "excerpt": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-11-07T15:35:34.552369+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss"
-  },
-  {
-    "id": "2c95732c47b1",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T11:10",
-    "headline": "Rains flood 70,000 displaced families’ tents in Gaza",
-    "excerpt": "Initial losses are estimated at about $3m, according to Gaza&#039;s Government Media Office.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-11-07T15:35:34.552393+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "391896365c34",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T10:50",
-    "headline": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
-    "excerpt": "Put in to bat, New Zealand struggled to gain any momentum as ⁠India&#039;s pace attack dismantled their batting lineup.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-11-07T15:35:34.552423+00:00",
-    "link": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss"
-  },
-  {
-    "id": "2173c9603629",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T08:45",
-    "headline": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-    "excerpt": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-07T08:56:02.488749+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss"
-  },
-  {
-    "id": "86a6e69895b0",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T07:10",
-    "headline": "Qatari PM says US willing to seek solution to war with Iran",
-    "excerpt": "Qatari PM says US willing to seek solution to war with Iran",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-07T08:56:02.488819+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss"
-  },
-  {
-    "id": "4ef8426602aa",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T07:05",
-    "headline": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
-    "excerpt": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-11-07T08:56:02.488943+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss"
-  },
-  {
-    "id": "d5693baa9ed6",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T06:26",
-    "headline": "How the Iran war helped Democrats win the midterms",
-    "excerpt": "Tehran brought the costs of war into American homes, fuelling the backlash against Trump&#039;s party.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-11-07T08:56:02.488966+00:00",
-    "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss"
   }
 ]
