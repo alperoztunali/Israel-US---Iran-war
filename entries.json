@@ -1,5 +1,49 @@
 [
   {
+    "id": "989ac9d36687",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T01:51",
+    "headline": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+    "excerpt": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-23T02:48:45.644083+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss"
+  },
+  {
+    "id": "47a744749f03",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T01:43",
+    "headline": "Israeli forces continue house demolitions in southern Lebanon",
+    "excerpt": "Israeli forces continue house demolitions in southern Lebanon",
+    "category": "Movement",
+    "location": "Israel",
+    "addedAt": "2026-11-23T02:48:45.644127+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "bac7eb8b4ad7",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T23:59",
+    "headline": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+    "excerpt": "Iran&#039;s navy claims tankers contravening its rules were set ablaze, while the IRGC said &#039;enemies&#039; sought to stoke unrest.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-11-23T02:48:45.644159+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss"
+  },
+  {
+    "id": "7c6f2efeb402",
+    "source": "Al Jazeera",
+    "date": "2026-11-22T22:01",
+    "headline": "Second ship targeted in series of naval drone attacks off Libyan coast",
+    "excerpt": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-23T02:48:45.644186+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss"
+  },
+  {
     "id": "a3ce6d17dbd5",
     "source": "Al Jazeera",
     "date": "2026-11-22T18:12",
@@ -5454,49 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-11-06T22:16:12.715712+00:00",
     "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss"
-  },
-  {
-    "id": "83d4b29668b5",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T18:17",
-    "headline": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
-    "excerpt": "Israeli settlers have forced dozens of Palestinians from their homes in Jericho after seizing eight properties.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-06T22:16:12.715734+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss"
-  },
-  {
-    "id": "51ee96e103d8",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T18:09",
-    "headline": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
-    "excerpt": "The attack on al-Hadara market in Taiz governorate&#039;s al-Waziiya district killed at least 30 people, Houthi rebels say.",
-    "category": "Casualties",
-    "location": "Yemen",
-    "addedAt": "2026-11-06T22:16:12.715750+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss"
-  },
-  {
-    "id": "9fa34c22b21b",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T16:21",
-    "headline": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
-    "excerpt": "Arab-majority parties in Israel, the Joint List and Ra’am, have backed Netanyahu’s rival Gadi Eisenkot to form a governm",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-06T17:22:02.328424+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss"
-  },
-  {
-    "id": "db0c7d3a0e21",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T16:04",
-    "headline": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-    "excerpt": "French- and British-led military drills in Poland will testing post-ceasefire deployment in Ukraine.",
-    "category": "Movement",
-    "location": "Unknown",
-    "addedAt": "2026-11-06T17:22:02.328472+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss"
   }
 ]
