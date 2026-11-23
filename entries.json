@@ -1,5 +1,104 @@
 [
   {
+    "id": "f2bdbcfec42a",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T11:10",
+    "headline": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+    "excerpt": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war&#039;s spread.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-23T12:02:59.422089+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss"
+  },
+  {
+    "id": "9b0c78f92e57",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T10:57",
+    "headline": "Lebanese families return to ruins after Israeli attacks in south",
+    "excerpt": "In southern Lebanon’s Nabatieh, displaced families have been returning to ruins and widespread destruction.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-23T12:02:59.422127+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss"
+  },
+  {
+    "id": "28b80cb9b4c7",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T10:22",
+    "headline": "Why is Bangladesh’s Grameen Bank under attack?",
+    "excerpt": "Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-23T12:02:59.422155+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss"
+  },
+  {
+    "id": "deea4e7dbcc7",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T10:20",
+    "headline": "Occupied West Bank ‘military zones’ become de facto Israeli settler land",
+    "excerpt": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-23T12:02:59.422178+00:00",
+    "link": "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands?traffic_source=rss"
+  },
+  {
+    "id": "9444783bb9fb",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T09:34",
+    "headline": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+    "excerpt": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-23T12:02:59.422198+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "f1e3e905ae3e",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T09:33",
+    "headline": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+    "excerpt": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-23T12:02:59.422221+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss"
+  },
+  {
+    "id": "fa5f653db69a",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T09:33",
+    "headline": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
+    "excerpt": "Ukrainian President Volodymyr Zelenskyy has claimed responsibility for an attack that sank the Russian ship ‘Merkury’.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-11-23T12:02:59.422243+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss"
+  },
+  {
+    "id": "97c9bd760d9a",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T09:30",
+    "headline": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+    "excerpt": "A new report by UK-based charity Oxfam shows how Israel’s destruction of Gaza has created a ‘toxic wasteland&#039;.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-23T12:02:59.422272+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss"
+  },
+  {
+    "id": "59dd2f19f5f8",
+    "source": "Al Jazeera",
+    "date": "2026-11-23T07:37",
+    "headline": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
+    "excerpt": "President Zelenskyy says Ukrainian forces sank the Russian warship Merkury in an &quot;exemplary&quot; sea drone operation.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-23T12:02:59.422288+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss"
+  },
+  {
     "id": "989ac9d36687",
     "source": "Al Jazeera",
     "date": "2026-11-23T01:51",
@@ -5399,104 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-11-07T08:56:02.488966+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss"
-  },
-  {
-    "id": "060effcf8e36",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T05:51",
-    "headline": "Paraguay’s Pena under military protection in bank collapse chaos",
-    "excerpt": "Paraguay moves ex-President Santiago Pena to military base for protection after dramatic day in Asuncion.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-11-07T08:56:02.489010+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss"
-  },
-  {
-    "id": "8bd79b062b1e",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T05:16",
-    "headline": "President Herzog faces key choice as Israel struggles to form government",
-    "excerpt": "Eisenkot&#039;s bloc and Arab-led parties seek to oust Netanyahu, but failure to form government could leave him in power.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-07T08:56:02.489034+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss"
-  },
-  {
-    "id": "c1389beb10ed",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T05:11",
-    "headline": "Russia launches missile attack on Kyiv, injuring residents",
-    "excerpt": "Air strikes damage buildings and injure two civilians after Zelenskyy warns of potential for new attacks.",
-    "category": "Airstrike",
-    "location": "Unknown",
-    "addedAt": "2026-11-07T08:56:02.489049+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
-  },
-  {
-    "id": "1411bc7d7f23",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T05:02",
-    "headline": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
-    "excerpt": "Haiti&#039;s National Police announced that alleged gang leader Mathias Saintil was killed in an exchange of gunfire.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-11-07T08:56:02.489120+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss"
-  },
-  {
-    "id": "5291dcf2d157",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T04:50",
-    "headline": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-    "excerpt": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-11-07T08:56:02.489141+00:00",
-    "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss"
-  },
-  {
-    "id": "1433378a0cdd",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T00:00",
-    "headline": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-    "excerpt": "Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-11-07T02:15:02.008036+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss"
-  },
-  {
-    "id": "ca54aa6ed27f",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T23:07",
-    "headline": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
-    "excerpt": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-07T02:15:02.008076+00:00",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss"
-  },
-  {
-    "id": "f646c8f88bb4",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T21:37",
-    "headline": "Palestinian couples tie the knot in mass wedding in Gaza",
-    "excerpt": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-06T22:16:12.715677+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "4885c1bbb68e",
-    "source": "Al Jazeera",
-    "date": "2026-11-06T19:16",
-    "headline": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
-    "excerpt": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-06T22:16:12.715712+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss"
   }
 ]
