@@ -1,5 +1,38 @@
 [
   {
+    "id": "38499ab9b90d",
+    "source": "Al Jazeera",
+    "date": "2026-11-24T07:36",
+    "headline": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
+    "excerpt": "Government forces made early gains in September, but Houthi fighting on multiple fronts has slowed the offensive.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-11-24T09:40:46.337476+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss"
+  },
+  {
+    "id": "9017e960e118",
+    "source": "Al Jazeera",
+    "date": "2026-11-24T04:49",
+    "headline": "Car bomb strikes governor’s office in Meta, Colombia",
+    "excerpt": "A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-24T09:40:46.337520+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss"
+  },
+  {
+    "id": "ef41f211b3c7",
+    "source": "Al Jazeera",
+    "date": "2026-11-24T04:35",
+    "headline": "WHO chief visits Cuba as healthcare system deteriorates",
+    "excerpt": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
+    "category": "Diplomatic",
+    "location": "Unknown",
+    "addedAt": "2026-11-24T09:40:46.337558+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss"
+  },
+  {
     "id": "addd47b2d5a2",
     "source": "Al Jazeera",
     "date": "2026-11-23T23:49",
@@ -5465,38 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-11-07T15:35:34.552285+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss"
-  },
-  {
-    "id": "2a918b3fb830",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T13:07",
-    "headline": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-    "excerpt": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
-    "category": "Airstrike",
-    "location": "Israel",
-    "addedAt": "2026-11-07T15:35:34.552302+00:00",
-    "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss"
-  },
-  {
-    "id": "4b9ffd10c890",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T13:04",
-    "headline": "Heavy rains flood displacement camps across Gaza",
-    "excerpt": "Heavy rains and strong winds have flooded and damaged displacement tents across Gaza.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-11-07T15:35:34.552324+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss"
-  },
-  {
-    "id": "37d3e0bf8265",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T12:22",
-    "headline": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-    "excerpt": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-11-07T15:35:34.552350+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss"
   }
 ]
