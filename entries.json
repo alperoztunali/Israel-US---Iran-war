@@ -1,5 +1,71 @@
 [
   {
+    "id": "7ff30d910cbc",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T02:44",
+    "headline": "Pakistani astronaut launches into space aboard Chinese rocket",
+    "excerpt": "Pakistani astronaut Muhammad Zeeshan Ali has launched into space aboard a Chinese rocket.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-25T03:40:52.788564+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss"
+  },
+  {
+    "id": "1a1070263161",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T01:30",
+    "headline": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+    "excerpt": "The Yashar party says it agreed to sign a coalition pact with Israel&#039;s Our Home party, led by Avigdor Lieberman.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-25T03:40:52.788607+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss"
+  },
+  {
+    "id": "2942b19a6a63",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T01:21",
+    "headline": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+    "excerpt": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-25T03:40:52.788629+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss"
+  },
+  {
+    "id": "ccf31b9bca97",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T01:14",
+    "headline": "Poll finds US voters want government to end Iran war regardless of terms",
+    "excerpt": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-25T03:40:52.788649+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss"
+  },
+  {
+    "id": "29d23790ea25",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T00:00",
+    "headline": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
+    "excerpt": "The Saudi coalition says its forces targeted operational capabilities at Hodeidah port and hit sites in northern Yemen.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-11-25T03:40:52.788670+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss"
+  },
+  {
+    "id": "7d7b5125af28",
+    "source": "Al Jazeera",
+    "date": "2026-11-24T21:14",
+    "headline": "Russian jets spark air raid alert in South Korea",
+    "excerpt": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-25T03:40:52.788693+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss"
+  },
+  {
     "id": "179af7533673",
     "source": "Al Jazeera",
     "date": "2026-11-24T19:52",
@@ -5432,71 +5498,5 @@
     "location": "Israel",
     "addedAt": "2026-11-08T09:30:57.722897+00:00",
     "link": "https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans?traffic_source=rss"
-  },
-  {
-    "id": "f5d693990876",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T04:56",
-    "headline": "Drone attack on Colombian army base kills three soldiers and wounds 16",
-    "excerpt": "Colombian President de la Espriella says those behind the attack in Santa Rosa del Sur will have ‘nowhere to hide’.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-11-08T09:30:57.722919+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss"
-  },
-  {
-    "id": "bdd19ff14d3e",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T02:34",
-    "headline": "US launches task force to disrupt Iran’s land-based supply routes",
-    "excerpt": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-08T09:30:57.722967+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss"
-  },
-  {
-    "id": "7c68119ed37f",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T00:50",
-    "headline": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
-    "excerpt": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-11-08T02:31:01.458081+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss"
-  },
-  {
-    "id": "a0816f070d87",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T00:00",
-    "headline": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-    "excerpt": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-08T02:31:01.458116+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss"
-  },
-  {
-    "id": "13b8fd1ff547",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T23:45",
-    "headline": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-    "excerpt": "Israel&#039;s president asked opposition leader Gadi Eisenkot to form the next gov&#039;t over Prime Minister Benjamin Netanyahu.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-08T02:31:01.458145+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss"
-  },
-  {
-    "id": "47e6a4a53e83",
-    "source": "Al Jazeera",
-    "date": "2026-11-07T20:53",
-    "headline": "Mélenchon promises action against Israeli annexation if elected President",
-    "excerpt": "Mélenchon promises action against Israeli annexation if elected President",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-07T23:04:54.516352+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss"
   }
 ]
