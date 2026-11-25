@@ -1,5 +1,104 @@
 [
   {
+    "id": "45c0b9707222",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T21:03",
+    "headline": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+    "excerpt": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-25T22:48:41.904935+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss"
+  },
+  {
+    "id": "332e537ea6bf",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T20:29",
+    "headline": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+    "excerpt": "The judges&#039; recommendations came as Israel&#039;s longest-serving prime minister fights for his political survival.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-25T22:48:41.904975+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss"
+  },
+  {
+    "id": "96fe5297e4a5",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T19:41",
+    "headline": "Dozens killed in Egypt vehicle fire",
+    "excerpt": "At least 30 have been ⁠killed and ⁠15 injured when a vehicle carrying ‌petroleum products caught fire in Egypt.",
+    "category": "Casualties",
+    "location": "Egypt",
+    "addedAt": "2026-11-25T22:48:41.904998+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss"
+  },
+  {
+    "id": "e533b9df4552",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T19:16",
+    "headline": "Ukrainian laser downs Russian jet-powered drone in world first",
+    "excerpt": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
+    "category": "Airstrike",
+    "location": "Unknown",
+    "addedAt": "2026-11-25T22:48:41.905018+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss"
+  },
+  {
+    "id": "0e1e5ca38139",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T19:15",
+    "headline": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
+    "excerpt": "Disruptions at Yemen&#039;s largest seaport could exacerbate hardships for millions of Yemenis, aid experts warn.",
+    "category": "Naval",
+    "location": "Yemen",
+    "addedAt": "2026-11-25T22:48:41.905040+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss"
+  },
+  {
+    "id": "b987a21a5df7",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T19:15",
+    "headline": "UK military ‘moving aircraft to hangars in case of drone attacks’",
+    "excerpt": "Experts say the move is a &#039;logical response&#039; if there is intelligence suggesting a likely drone threat.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-25T22:48:41.905066+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss"
+  },
+  {
+    "id": "bc4cea172276",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T18:55",
+    "headline": "At least 30 killed in Egypt vehicle fire, health ministry says",
+    "excerpt": "An additional 15 were injured in blaze after vehicle carrying petroleum products flipped on a major road.",
+    "category": "Casualties",
+    "location": "Egypt",
+    "addedAt": "2026-11-25T22:48:41.905084+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss"
+  },
+  {
+    "id": "ed6f9ced4f7a",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T18:14",
+    "headline": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+    "excerpt": "Tinubu is under pressure to convince voters that military operations in the country&#039;s northeast will deliver security.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-25T22:48:41.905124+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss"
+  },
+  {
+    "id": "54d2825bbbab",
+    "source": "Al Jazeera",
+    "date": "2026-11-25T17:50",
+    "headline": "Ecuador and US review joint military operations, official says",
+    "excerpt": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-25T22:48:41.905154+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss"
+  },
+  {
     "id": "654a20cbbe2f",
     "source": "Al Jazeera",
     "date": "2026-11-25T13:04",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-11-08T16:22:10.555423+00:00",
     "link": "https://presstv.co.uk/Detail/2026/11/07/780150/irgc-aerospace-force-to-unleash-game-changing-surprises-in-the-event-of-fresh-aggression-spokesman"
-  },
-  {
-    "id": "2b5b6ff7ffe2",
-    "source": "PressTV",
-    "date": "2026-11-08T16:22",
-    "headline": "Source: Any strike against Iran will trigger ‘immediate, unlimited and devastating’ response",
-    "excerpt": "A senior Iranian security official, speaking to Press TV, has warned that any renewed strike against Iran will be grounds for an “immediate, unlimited, and devastating response.\"",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-11-08T16:22:10.555454+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/07/780145/source-any-strike-against-iran-will-trigger-immediate-unlimited-and-devastating-response"
-  },
-  {
-    "id": "9d37e0199aa4",
-    "source": "PressTV",
-    "date": "2026-11-08T16:22",
-    "headline": "Bahraini authorities postpone verdict for dozens of detained religious scholars",
-    "excerpt": "This step comes within a recurring policy adopted by the Bahraini authorities in major political trials aimed at absorbing street anger, postponing the crisis's obligations, and relieving mounting public pressure.",
-    "category": "Other",
-    "location": "Bahrain",
-    "addedAt": "2026-11-08T16:22:10.555488+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/08/780249/bahraini-authorities-postpone-verdict-for-dozens-of-detained-religious-scholars"
-  },
-  {
-    "id": "4d9cbe06a027",
-    "source": "PressTV",
-    "date": "2026-11-08T16:22",
-    "headline": "Saudi airstrikes kill at least 33 in Yemeni village",
-    "excerpt": "At least 33 people were killed and more than 39 wounded in airstrikes by the Saudi-led coalition near Yemen's capital, Sana'a.",
-    "category": "Airstrike",
-    "location": "Yemen",
-    "addedAt": "2026-11-08T16:22:10.555498+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/08/780238/saudi-airstrikes-kill-at-least-33-in-yemeni-village"
-  },
-  {
-    "id": "d8b4e2561211",
-    "source": "PressTV",
-    "date": "2026-11-08T16:22",
-    "headline": "'Remove Netanyahu': Tel Aviv rally calls for coalition with Arab-Israeli parties",
-    "excerpt": "Protesters gather in Tel Aviv during a demonstration calling for the formation of a Jewish-Arab coalition following Israel's general election.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-08T16:22:10.555521+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/08/780213/remove-netanyahu-rally-in-tel-aviv-for-coalition-with-arab-israeli-parties"
-  },
-  {
-    "id": "8ca6c0cee332",
-    "source": "PressTV",
-    "date": "2026-11-08T16:22",
-    "headline": "Six killed, ten injured in shooting in Poland’s Krakow",
-    "excerpt": "Six people have been killed and around ten others injured in a shooting in Poland’s second-largest city, according to police.",
-    "category": "Casualties",
-    "location": "Unknown",
-    "addedAt": "2026-11-08T16:22:10.555545+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/07/780203/five-killed-ten-injured-in-shooting-in-polands-krakow"
-  },
-  {
-    "id": "ab82846ef2c9",
-    "source": "PressTV",
-    "date": "2026-11-08T16:22",
-    "headline": "Protesters clash with police in Tirana, demanding Albanian PM Edi Rama's resignation",
-    "excerpt": "Protesters in Albania clashed with police on Saturday as demonstrations demanding the resignation of Prime Minister Edi Rama continued.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-08T16:22:10.555567+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/07/780194/protesters-clash-with-police-in-tirana-demanding-albanian-pm-edi-ramas-resignation"
-  },
-  {
-    "id": "3f40343de2c8",
-    "source": "PressTV",
-    "date": "2026-11-08T16:22",
-    "headline": "Hundreds rally in Frankfurt to voice Support for Iran",
-    "excerpt": "Hundreds of people have gathered in the German city of Frankfurt for a pro-Iran rally, expressing support for the Islamic Republic and condemning US attacks on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-08T16:22:10.555594+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/07/780188/hundreds-voice-support-for-iran-condemning-us-attacks"
-  },
-  {
-    "id": "2bd5a84244aa",
-    "source": "PressTV",
-    "date": "2026-11-08T16:22",
-    "headline": "Displaced families in Gaza endure difficult night as heavy rain floods tents, shelters",
-    "excerpt": "Displaced families in the Gaza Strip spent a sleepless night as heavy rain flooded their fragile tents, soaking mattresses and belongings and turning camp pathways into pools of muddy water.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-11-08T16:22:10.555635+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/07/780174/displaced-families-in-gaza-endure-difficult-night-as-heavy-rain-floods-tents-shelters"
-  },
-  {
-    "id": "c9fcac365c1b",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T09:09",
-    "headline": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
-    "excerpt": "Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.",
-    "category": "Movement",
-    "location": "Israel",
-    "addedAt": "2026-11-08T09:30:57.722762+00:00",
-    "link": "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss"
   }
 ]
