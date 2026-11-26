@@ -1,5 +1,115 @@
 [
   {
+    "id": "30b8366e01b9",
+    "source": "Al Jazeera",
+    "date": "2026-11-26T23:07",
+    "headline": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+    "excerpt": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-26T23:37:02.558111+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss"
+  },
+  {
+    "id": "e95d5dd30442",
+    "source": "Al Jazeera",
+    "date": "2026-11-26T21:08",
+    "headline": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+    "excerpt": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
+    "category": "Casualties",
+    "location": "Egypt",
+    "addedAt": "2026-11-26T23:37:02.558141+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss"
+  },
+  {
+    "id": "44754fd6470d",
+    "source": "Al Jazeera",
+    "date": "2026-11-26T20:34",
+    "headline": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+    "excerpt": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-26T23:37:02.558164+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss"
+  },
+  {
+    "id": "a0b66d287c6f",
+    "source": "Al Jazeera",
+    "date": "2026-11-26T20:31",
+    "headline": "Mexico seeks US talks about suspected SpaceX debris",
+    "excerpt": "Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.",
+    "category": "Missile/Drone",
+    "location": "Unknown",
+    "addedAt": "2026-11-26T23:37:02.558181+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss"
+  },
+  {
+    "id": "c82c4e330962",
+    "source": "Al Jazeera",
+    "date": "2026-11-26T19:19",
+    "headline": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+    "excerpt": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-26T23:37:02.558201+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss"
+  },
+  {
+    "id": "9289c2fd74f2",
+    "source": "Al Jazeera",
+    "date": "2026-11-26T19:09",
+    "headline": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
+    "excerpt": "After a Supreme Court ruling against it, the Trump administration had tried a narrower set of restrictions.",
+    "category": "Naval",
+    "location": "Unknown",
+    "addedAt": "2026-11-26T23:37:02.558228+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss"
+  },
+  {
+    "id": "47f3a950c21c",
+    "source": "Al Jazeera",
+    "date": "2026-11-26T18:30",
+    "headline": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+    "excerpt": "Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-26T23:37:02.558252+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss"
+  },
+  {
+    "id": "2eaf792bb86b",
+    "source": "Al Jazeera",
+    "date": "2026-11-26T18:07",
+    "headline": "Guinea-Bissau military leaders delay presidential election until 2028",
+    "excerpt": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-26T23:37:02.558285+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss"
+  },
+  {
+    "id": "733944387a38",
+    "source": "Al Jazeera",
+    "date": "2026-11-26T17:38",
+    "headline": "Netanyahu’s corruption trial: Is it really all over?",
+    "excerpt": "Court recommendations put the Israeli leader&#039;s trial, political future and efforts to evade prosecution back in focus.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-26T23:37:02.558309+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss"
+  },
+  {
+    "id": "7afefee91800",
+    "source": "Al Jazeera",
+    "date": "2026-11-26T17:32",
+    "headline": "Syrian children continue learning amid the ruins of war in Idlib",
+    "excerpt": "Syria reopened a semi destroyed school in Idlib province",
+    "category": "Other",
+    "location": "Syria",
+    "addedAt": "2026-11-26T23:37:02.558326+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss"
+  },
+  {
     "id": "66df25678ac2",
     "source": "Al Jazeera",
     "date": "2026-11-26T14:17",
@@ -5388,115 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-11-09T06:38:00.270175+00:00",
     "link": "https://presstv.co.uk/Detail/2026/11/08/780246/iran-strongly-condemns-us-programme-recruiting-informants-for-attacks-on-nuclear-scientists-faciliti"
-  },
-  {
-    "id": "1b1832622f15",
-    "source": "PressTV",
-    "date": "2026-11-09T06:38",
-    "headline": "Defeat awaits enemies in face of strong Iran’s resolve: Armed Forces",
-    "excerpt": "Shekarchi says Trump and his “unwise, hardline, and terrorist” associates waged aggression against Iran with the aim of destroying the proud and civilized country.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-11-09T06:38:00.270205+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/08/780235/any-power-that-confronts-iran-is-destined-to-fail-senior-commander"
-  },
-  {
-    "id": "e2519284b7d7",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T23:39",
-    "headline": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
-    "excerpt": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-11-09T00:05:57.898710+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss"
-  },
-  {
-    "id": "60dc79ced043",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T22:16",
-    "headline": "President Milei welcomes Pope Leo during historic visit to Argentina",
-    "excerpt": "Pope Leo XIV&#039;s visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-11-09T00:05:57.898763+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss"
-  },
-  {
-    "id": "f262cda558d6",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T22:16",
-    "headline": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-    "excerpt": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
-    "category": "Statement",
-    "location": "Oman",
-    "addedAt": "2026-11-09T00:05:57.898802+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss"
-  },
-  {
-    "id": "1350d054908f",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T21:05",
-    "headline": "Deadly sand cliff collapses on displaced families in Gaza",
-    "excerpt": "Deadly sand cliff collapses on displaced families in Gaza",
-    "category": "Casualties",
-    "location": "Gaza",
-    "addedAt": "2026-11-09T00:05:57.898827+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "644db3b885a1",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T20:51",
-    "headline": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
-    "excerpt": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-11-09T00:05:57.898861+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss"
-  },
-  {
-    "id": "b3358149577a",
-    "source": "PressTV",
-    "date": "2026-11-09T00:06",
-    "headline": "Iran court holds trial on lawsuit filed by 100 victims of US-Israeli wars",
-    "excerpt": "The case seeks compensation for material, moral, and punitive damages arising from the crimes committed by the United States and the Israeli regime against the Iranian nation.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-09T00:06:02.246706+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/08/780236/iran-court-holds-trial-on-lawsuit-filed-by-100-victims-of-us-israeli-wars"
-  },
-  {
-    "id": "9c77cd4e5af7",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T20:13",
-    "headline": "Iran threatens to ‘rain down hell’ if US escalates war",
-    "excerpt": "President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.",
-    "category": "Movement",
-    "location": "Iran",
-    "addedAt": "2026-11-08T20:42:20.001533+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss"
-  },
-  {
-    "id": "e4726bfe12b0",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T18:12",
-    "headline": "Eisenkot open to Netanyahu joining Israel’s next government",
-    "excerpt": "Israel&#039;s president officially tasks the opposition leader with forming a new government.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-08T20:42:20.001567+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss"
-  },
-  {
-    "id": "7e4d59f0047d",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T17:44",
-    "headline": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-    "excerpt": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-08T20:42:20.001594+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss"
   }
 ]
