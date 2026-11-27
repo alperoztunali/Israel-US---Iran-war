@@ -1,5 +1,93 @@
 [
   {
+    "id": "204d7b57b119",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T15:07",
+    "headline": "Funeral prayers held for 31 victims of Egypt tanker crash",
+    "excerpt": "Funeral prayers were held at Cairo’s Al-Azhar Mosque on Friday for 31 people killed when a car collided with a tanker",
+    "category": "Casualties",
+    "location": "Egypt",
+    "addedAt": "2026-11-27T15:28:58.060629+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/funeral-prayers-held-for-31-victims-of-egypt-tanker-crash?traffic_source=rss"
+  },
+  {
+    "id": "5c9b57c598cc",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T14:47",
+    "headline": "Haaland ‘happy’ at Man City despite outburst that led to transfer talk",
+    "excerpt": "Erling Haaland blasted beleaguered City&#039;s form, but ahead of Arsenal test, manager Enzo Maresca says striker is happy.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-27T15:28:58.060697+00:00",
+    "link": "https://www.aljazeera.com/sports/2026/11/27/haaland-happy-at-manchester-city-despite-outburst-that-led-to-transfer-talk?traffic_source=rss"
+  },
+  {
+    "id": "b304e2f1c7dc",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T14:17",
+    "headline": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+    "excerpt": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel&#039;s genocidal war on Gaza.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-27T15:28:58.060742+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss"
+  },
+  {
+    "id": "13eea211a2c5",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T13:14",
+    "headline": "Sentence served, still detained: Palestinian families waiting for reunions",
+    "excerpt": "Palestinian families say their loved ones remain in Israeli prisons despite having completed their sentences.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-27T15:28:58.060777+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss"
+  },
+  {
+    "id": "dc724642205e",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T12:00",
+    "headline": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+    "excerpt": "Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis.",
+    "category": "Other",
+    "location": "Iran",
+    "addedAt": "2026-11-27T15:28:58.060815+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss"
+  },
+  {
+    "id": "d472e64b8da3",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T11:51",
+    "headline": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+    "excerpt": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-11-27T15:28:58.060843+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss"
+  },
+  {
+    "id": "cb816fec75de",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T11:44",
+    "headline": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+    "excerpt": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-27T15:28:58.060887+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss"
+  },
+  {
+    "id": "e4572b144d6b",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T11:15",
+    "headline": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
+    "excerpt": "Israel seeking &#039;to prevent births&#039; and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-27T15:28:58.060934+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss"
+  },
+  {
     "id": "a8de6ec49b18",
     "source": "Al Jazeera",
     "date": "2026-11-27T04:06",
@@ -5410,93 +5498,5 @@
     "location": "Tehran",
     "addedAt": "2026-11-09T16:53:31.966257+00:00",
     "link": "https://presstv.co.uk/Detail/2026/11/08/780276/iran-fm-urges-us-to-accept-tehrans-proposal-warns-of-consequences-of-war"
-  },
-  {
-    "id": "689c37820df8",
-    "source": "PressTV",
-    "date": "2026-11-09T16:53",
-    "headline": "Iran reverse-engineering captured US military equipment: IRGC adviser",
-    "excerpt": "An IRGC Aerospace Force adviser says Iranian experts are reverse-engineering US equipment captured during the 40-day imposed war against Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-09T16:53:31.966274+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/08/780263/iran-reverse-engineering-captured-us-equipment-irgc-adviser"
-  },
-  {
-    "id": "d5b1a9fd89f1",
-    "source": "PressTV",
-    "date": "2026-11-09T16:53",
-    "headline": "IRGC warns it will 'hit harder' if US attacks Iran’s vessels",
-    "excerpt": "IRGC spokesman General Mohebi warns of a harsher response if the US attacks Iranian vessels.",
-    "category": "Naval",
-    "location": "Iran",
-    "addedAt": "2026-11-09T16:53:31.966286+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/08/780257/irgc-vows-to-hit-harder-if-us-attacks-irans-vessels"
-  },
-  {
-    "id": "cb51ce5afe20",
-    "source": "PressTV",
-    "date": "2026-11-09T16:53",
-    "headline": "'This is not life': Rain heaps more woe on displaced Gazans",
-    "excerpt": "Heavy rain has flooded thousands of displaced Gazans’ tents, leaving many without shelter.",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-11-09T16:53:31.966307+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/09/780308/this-is-not-life-rain-heaps-more-woe-on-displaced-gazans"
-  },
-  {
-    "id": "8b85133fa264",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T05:18",
-    "headline": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
-    "excerpt": "Hundreds of thousands of Palestinians are vulnerable to flooding as Israel continues to block entry of mobile homes.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-09T06:37:58.446948+00:00",
-    "link": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "affece219d2e",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T04:02",
-    "headline": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
-    "excerpt": "US secretary of state says Iran&#039;s negotiation demands are &#039;outrageous and ridiculous, and really not realistic&#039;.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-09T06:37:58.446994+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss"
-  },
-  {
-    "id": "61b5d0f82e8e",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T03:26",
-    "headline": "Trump defends Nvidia CEO amid Chinese spying allegations",
-    "excerpt": "Donald Trump has defended Nvidia CEO Jensen Huang, who admitted to an affair with a woman suspected of spying for China.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-11-09T06:37:58.447031+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss"
-  },
-  {
-    "id": "b4277bafcd7a",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T02:35",
-    "headline": "Moldova launches new power line to Romania to cut reliance on Russia",
-    "excerpt": "Moldovan President Maia Sandu says &#039;two more power lines to Romania are on the way&#039;.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-11-09T06:37:58.447064+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss"
-  },
-  {
-    "id": "64909b2e1cf5",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T02:23",
-    "headline": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-    "excerpt": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
-    "category": "Missile/Drone",
-    "location": "Iraq",
-    "addedAt": "2026-11-09T06:37:58.447081+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss"
   }
 ]
