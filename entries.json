@@ -1,5 +1,60 @@
 [
   {
+    "id": "a8de6ec49b18",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T04:06",
+    "headline": "At least 13 Niger soldiers killed in Sanam armed attack",
+    "excerpt": "It remains unclear who carried out the attack on Niger&#039;s National Guard in Tillaberi, near the Mali border.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-27T05:23:32.941727+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss"
+  },
+  {
+    "id": "91c4b9da8446",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T03:49",
+    "headline": "Trump downplays Russia, China support for Iran during talks with US troops",
+    "excerpt": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
+    "category": "Movement",
+    "location": "Iran",
+    "addedAt": "2026-11-27T05:23:32.941767+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss"
+  },
+  {
+    "id": "42822bac69c4",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T02:14",
+    "headline": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+    "excerpt": "Trump says he urged Putin to &#039;pull back&#039; military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+    "category": "Statement",
+    "location": "Unknown",
+    "addedAt": "2026-11-27T05:23:32.941810+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss"
+  },
+  {
+    "id": "dc8a15f76a87",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T01:07",
+    "headline": "Global news agency AFP reports cyberattack, shuts down content platform",
+    "excerpt": "France&#039;s cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-27T05:23:32.941842+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss"
+  },
+  {
+    "id": "af31fbcfe349",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T00:00",
+    "headline": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+    "excerpt": "Iran&#039;s FM Abbas Araghchi says the deadly Kuwait incident is &quot;suspicious&quot; and looks like a &quot;pre-cooked recipe&quot; for war.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-11-27T05:23:32.941864+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss"
+  },
+  {
     "id": "30b8366e01b9",
     "source": "Al Jazeera",
     "date": "2026-11-26T23:07",
@@ -5443,60 +5498,5 @@
     "location": "Iraq",
     "addedAt": "2026-11-09T06:37:58.447081+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss"
-  },
-  {
-    "id": "547b7cd73c85",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T01:19",
-    "headline": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
-    "excerpt": "The strike leaves more than 70 percent of northern Iraq&#039;s Kurdish region without power.",
-    "category": "Missile/Drone",
-    "location": "Iraq",
-    "addedAt": "2026-11-09T06:37:58.447105+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss"
-  },
-  {
-    "id": "032dd82ed410",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T00:00",
-    "headline": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
-    "excerpt": "Trump says Iran land blockade is now in effect, as Tehran threatens to &#039;rain down hell&#039; if US resumes attacks.",
-    "category": "Other",
-    "location": "Tehran",
-    "addedAt": "2026-11-09T06:37:58.447137+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss"
-  },
-  {
-    "id": "faed9e51dcca",
-    "source": "Al Jazeera",
-    "date": "2026-11-08T23:58",
-    "headline": "Nvidia CEO’s affair sparks Chinese espionage probe",
-    "excerpt": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-11-09T06:37:58.447181+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss"
-  },
-  {
-    "id": "3ff66841e1da",
-    "source": "PressTV",
-    "date": "2026-11-09T06:38",
-    "headline": "Shanghai Forum: The Iran-China economic axis on a $300 billion horizon",
-    "excerpt": "More than 300 Iranian and Chinese officials and business representatives gatherin Shanghai to advance a $300 billion investment agenda spanning energy, industry, infrastructure, technology and trade despite American sanctions.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-11-09T06:38:00.270127+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/09/780297/shanghai-forum-the-iran-china-economic-axis-on-a-300-billion-horizon"
-  },
-  {
-    "id": "54bf417f8fbf",
-    "source": "PressTV",
-    "date": "2026-11-09T06:38",
-    "headline": "‘Recruiting accomplices for crime’: Iran slams US bounty scheme targeting nuclear program",
-    "excerpt": "Iran has strongly condemned a US reward programme seeking information about the country’s nuclear facilities, equipment, and scientific personnel.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-09T06:38:00.270175+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/08/780246/iran-strongly-condemns-us-programme-recruiting-informants-for-attacks-on-nuclear-scientists-faciliti"
   }
 ]
