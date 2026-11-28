@@ -1,5 +1,104 @@
 [
   {
+    "id": "7cf1d7cadda1",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T13:42",
+    "headline": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+    "excerpt": "Italy and Kuwait say an Iranian drone was involved, but Tehran says the US and Israel may be looking to escalate war.",
+    "category": "Missile/Drone",
+    "location": "Tehran",
+    "addedAt": "2026-11-28T14:04:39.983502+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss"
+  },
+  {
+    "id": "5f0f5ee1648b",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T13:32",
+    "headline": "Putin unveils new nuclear submarine",
+    "excerpt": "Russian President Vladimir Putin attended the commissioning of the nuclear-powered submarine in Russia.",
+    "category": "Other",
+    "location": "Unknown",
+    "addedAt": "2026-11-28T14:04:39.983540+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss"
+  },
+  {
+    "id": "32164faffc13",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T13:12",
+    "headline": "Bootleg alcohol poisonings in Iran see dozens dead and badly injured",
+    "excerpt": "A spate of alcohol poisonings in Iran has led to deaths and serious injuries including blindness.",
+    "category": "Casualties",
+    "location": "Iran",
+    "addedAt": "2026-11-28T14:04:39.983556+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/28/bootleg-alcohol-poisonings-in-iran-see-dozens-dead-and-badly-injured?traffic_source=rss"
+  },
+  {
+    "id": "a8a3534e67db",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T12:56",
+    "headline": "Norse Atlantic ends flights: How Iran war continues to batter aviation",
+    "excerpt": "The Norwegian budget carrier is the latest airline to fold under fuel costs driven by the Strait of Hormuz crisis.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-11-28T14:04:39.983570+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss"
+  },
+  {
+    "id": "6b8e9515b5ad",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T11:29",
+    "headline": "Israel unity government talks stall: What happens now?",
+    "excerpt": "Eisenkot struggles to form a government as talks with Netanyahu stall over rotation deal and coalition compromises.",
+    "category": "Diplomatic",
+    "location": "Israel",
+    "addedAt": "2026-11-28T14:04:39.983586+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss"
+  },
+  {
+    "id": "86433d94d6a0",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T10:32",
+    "headline": "Why is Trump backing Iraq’s anti-smuggling campaign?",
+    "excerpt": "Baghdad&#039;s push to seize control of smuggling routes, border crossings and oilfields has Washington&#039;s support.",
+    "category": "Other",
+    "location": "Iraq",
+    "addedAt": "2026-11-28T14:04:39.983620+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/28/why-is-trump-backing-iraqs-anti-smuggling-campaign?traffic_source=rss"
+  },
+  {
+    "id": "7a530491f45a",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T10:05",
+    "headline": "Several students killed in blast beside Afghan school",
+    "excerpt": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
+    "category": "Casualties",
+    "location": "Unknown",
+    "addedAt": "2026-11-28T14:04:39.983637+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss"
+  },
+  {
+    "id": "57e68e03b60d",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T09:41",
+    "headline": "Gaza’s chess players survive a genocide and rebuild a community",
+    "excerpt": "Gaza&#039;s chess players are returning to the sport after three years of genocide.",
+    "category": "Other",
+    "location": "Gaza",
+    "addedAt": "2026-11-28T14:04:39.983666+00:00",
+    "link": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss"
+  },
+  {
+    "id": "57c7a6ae66b6",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T09:35",
+    "headline": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+    "excerpt": "About 1.8 million people face emergency levels of hunger in government-held areas, according to the UN.",
+    "category": "Movement",
+    "location": "Yemen",
+    "addedAt": "2026-11-28T14:04:39.983683+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss"
+  },
+  {
     "id": "7ac72d8b4c64",
     "source": "Al Jazeera",
     "date": "2026-11-28T03:45",
@@ -5399,104 +5498,5 @@
     "location": "Iran",
     "addedAt": "2026-11-10T07:46:46.991147+00:00",
     "link": "https://presstv.co.uk/Detail/2026/11/09/780340/china-iran-stress-importance-of-political-solution-for-regions-conflicts"
-  },
-  {
-    "id": "be401ccad22f",
-    "source": "PressTV",
-    "date": "2026-11-10T07:46",
-    "headline": "IRGC Navy announces halt to oil smuggling via illegal Strait of Hormuz passage: Report",
-    "excerpt": "A report by Fars News Agency, citing an informed source in the Islamic Revolution Guards Corps (IRGC) Navy, said no unauthorized vessels managed to enter the illegal passage overnight following the destruction of the navigation systems.",
-    "category": "Naval",
-    "location": "Strait Of Hormuz",
-    "addedAt": "2026-11-10T07:46:46.991204+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/09/780314/irgc-navy-oil-smuggling-through-illegal-strait-of-hormuz-passage-halted"
-  },
-  {
-    "id": "2098106fbe8c",
-    "source": "PressTV",
-    "date": "2026-11-10T07:46",
-    "headline": "Iran’s Two-Day Plan most rational path to restoring Hormuz security: Foreign Ministry",
-    "excerpt": "Iran says its Two-Day Plan is the “most rational” offer currently available for resolving the situation surrounding the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-10T07:46:46.991240+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/09/780312/irans-two-day-plan-most-rational-path-to-restoring-hormuz-security-foreign-ministry"
-  },
-  {
-    "id": "cf66a1ad6676",
-    "source": "PressTV",
-    "date": "2026-11-10T07:46",
-    "headline": "London protesters support activists on trial over Israel-linked arms factory break-in",
-    "excerpt": "Supporters say the prosecution criminalizes direct action against weapons made in Britain and used by the Israeli military in the Gaza genocide and beyond.",
-    "category": "Other",
-    "location": "Israel",
-    "addedAt": "2026-11-10T07:46:46.991282+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/10/780374/london-protesters-show-solidarity-with-activists-on-trial-over-israeli-linked-arms-factory-raid"
-  },
-  {
-    "id": "8b11de2bbc7b",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T23:55",
-    "headline": "Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’",
-    "excerpt": "US President made the remarks following a meeting with the Qatari PM in Washington, DC.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-10T00:36:16.310466+00:00",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss"
-  },
-  {
-    "id": "a8348b860279",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T23:47",
-    "headline": "Trump, Rubio defend Hegseth as impeachment bid nears",
-    "excerpt": "President Trump has lashed out at efforts to impeach Defense Secretary Pete Hegseth over the US war on Iran.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-10T00:36:16.310501+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss"
-  },
-  {
-    "id": "ff1062a61e30",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T22:31",
-    "headline": "Trump says war on Iran ‘effectively over’ after talks with Qatar’s PM",
-    "excerpt": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested an end to the war.",
-    "category": "Diplomatic",
-    "location": "Iran",
-    "addedAt": "2026-11-10T00:36:16.310530+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss"
-  },
-  {
-    "id": "7b5aa81fa8c1",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T22:10",
-    "headline": "Saudi Arabia reports new attack on key East-West pipeline",
-    "excerpt": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
-    "category": "Other",
-    "location": "Saudi Arabia",
-    "addedAt": "2026-11-10T00:36:16.310554+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss"
-  },
-  {
-    "id": "6b6fb3962936",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T20:08",
-    "headline": "Russell Brand sentenced to 10.5 years over sexual assault charges",
-    "excerpt": "Russell Brand has been sentenced to 10 years and six months in prison after being convicted of raping one woman",
-    "category": "Other",
-    "location": "Oman",
-    "addedAt": "2026-11-10T00:36:16.310582+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss"
-  },
-  {
-    "id": "dd0b61047049",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T19:47",
-    "headline": "How is Gaza coping with another severe winter?",
-    "excerpt": "How is Gaza coping with another severe winter?",
-    "category": "Other",
-    "location": "Gaza",
-    "addedAt": "2026-11-10T00:36:16.310605+00:00",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss"
   }
 ]
