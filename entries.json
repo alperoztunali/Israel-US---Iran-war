@@ -1,5 +1,49 @@
 [
   {
+    "id": "7ac72d8b4c64",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T03:45",
+    "headline": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+    "excerpt": "MSF says Israeli attack on Gaza clinic a &#039;direct hit&#039; and calls for those responsible to be held accountable.",
+    "category": "Other",
+    "location": "Israel",
+    "addedAt": "2026-11-28T04:59:39.201094+00:00",
+    "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss"
+  },
+  {
+    "id": "7fb173fa6e76",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T01:55",
+    "headline": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+    "excerpt": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+    "category": "Casualties",
+    "location": "Israel",
+    "addedAt": "2026-11-28T04:59:39.201123+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss"
+  },
+  {
+    "id": "fb6551434cba",
+    "source": "Al Jazeera",
+    "date": "2026-11-28T00:00",
+    "headline": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+    "excerpt": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
+    "category": "Missile/Drone",
+    "location": "Iran",
+    "addedAt": "2026-11-28T04:59:39.201141+00:00",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss"
+  },
+  {
+    "id": "0790e7b283c3",
+    "source": "Al Jazeera",
+    "date": "2026-11-27T23:55",
+    "headline": "US disables ship attempting to breach Iran blockade",
+    "excerpt": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop.",
+    "category": "Naval",
+    "location": "Iran",
+    "addedAt": "2026-11-28T04:59:39.201160+00:00",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss"
+  },
+  {
     "id": "33dcd4235d92",
     "source": "Al Jazeera",
     "date": "2026-11-27T23:09",
@@ -5454,49 +5498,5 @@
     "location": "Gaza",
     "addedAt": "2026-11-10T00:36:16.310605+00:00",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss"
-  },
-  {
-    "id": "8b57e81f1bc4",
-    "source": "Al Jazeera",
-    "date": "2026-11-09T19:07",
-    "headline": "US agencies unite to combat rogue drone threats nationwide",
-    "excerpt": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
-    "category": "Missile/Drone",
-    "location": "Unknown",
-    "addedAt": "2026-11-10T00:36:16.310625+00:00",
-    "link": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss"
-  },
-  {
-    "id": "703f7276eaf1",
-    "source": "PressTV",
-    "date": "2026-11-10T00:36",
-    "headline": "Iran to pursue ‘offensive’ military doctrine, unrestricted response to aggression: Army",
-    "excerpt": "Akraminia said the implementation of the latest directives issued by the Leader of the Islamic Revolution is being pursued seriously.",
-    "category": "Statement",
-    "location": "Iran",
-    "addedAt": "2026-11-10T00:36:18.617531+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/09/780318/iran-to-pursue-offensive-military-doctrine-unrestricted-response-to-aggression-army"
-  },
-  {
-    "id": "03a0298658a3",
-    "source": "PressTV",
-    "date": "2026-11-10T00:36",
-    "headline": "Americans, regional nations 'sick and tired' of Israel duping US into ‘forever wars’: Iran FM",
-    "excerpt": "Iran’s foreign minister says people in the US and West Asia are fed up with Israel dragging Washington into forever wars.",
-    "category": "Other",
-    "location": "Iran",
-    "addedAt": "2026-11-10T00:36:18.617575+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/09/780296/iran-fm-americans-regional-nations-sick-and-tired-of-israel-dragging-us-into-forever-wars"
-  },
-  {
-    "id": "fbc75475a1bb",
-    "source": "PressTV",
-    "date": "2026-11-10T00:36",
-    "headline": "Students and educators condemn Saudi attacks on homes in Sana’a",
-    "excerpt": "Students and educators in Raymah condemn Saudi attacks on homes in Sana’a Governorate.",
-    "category": "Other",
-    "location": "Unknown",
-    "addedAt": "2026-11-10T00:36:18.617674+00:00",
-    "link": "https://presstv.co.uk/Detail/2026/11/09/780350/protest-stands-in-raymah-condemning-targeting-of-citizens-homes-in-sanaa-governorate"
   }
 ]
